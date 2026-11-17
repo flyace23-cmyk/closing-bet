@@ -79,8 +79,16 @@ def fmt(p, i):
 
 
 def main():
+    os.makedirs(f"{HERE}/records", exist_ok=True)
+    mark = f"{HERE}/records/sent_1510.txt"
     if "--now" not in sys.argv:
+        # 자동 실행이 늦게 깨서 15:25가 넘었거나, 오늘 이미 보냈으면 보내지 않음 (중복·쓸모없는 알림 방지)
+        if dt.datetime.now(md.KST).strftime("%H:%M") > "15:25":
+            print("너무 늦게 깨서 오늘 15:10 알림은 건너뜀"); return
+        if os.path.exists(mark) and open(mark).read().strip() == md.today():
+            print("오늘 이미 보냄"); return
         wait_until("15:08")
+    open(mark, "w").write(md.today())
     ok, mtxt = market_check()
     if ok is None:
         print(mtxt); return
