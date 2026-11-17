@@ -43,5 +43,9 @@ if __name__ == "__main__":
     else:
         me = requests.get(f"https://api.telegram.org/bot{TOKEN}/getMe", timeout=15).json()
         print("점검: 토큰 확인 →", "정상, 봇 아이디 @" + me["result"]["username"] if me.get("ok") else f"실패 ({me.get('description')})")
+        raw = requests.get(f"https://api.telegram.org/bot{TOKEN}/getUpdates", timeout=15).json()
+        print("점검: getUpdates →", raw.get("ok"), raw.get("description", ""), "전체", len(raw.get("result", [])), "건", [list(u.keys()) for u in raw.get("result", [])][:5])
+        wh = requests.get(f"https://api.telegram.org/bot{TOKEN}/getWebhookInfo", timeout=15).json()
+        print("점검: 웹훅 →", (wh.get("result") or {}).get("url") or "없음")
         print("점검: 봇이 받은 개인 메시지 수 →", len([m for m in _raw_updates() if m["chat"].get("type") == "private"]))
     send("✅ 종가베팅 봇 연결 시험 메시지입니다. 평일 15:10 후보 알림, 19:00 저녁 정리를 보내드려요.")
