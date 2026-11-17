@@ -18,6 +18,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np
 import pandas as pd
 import market_data as md
+import info as cinfo
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REC = f"{HERE}/records"
@@ -195,6 +196,18 @@ def _fmt(r, grade):
             f"   손절가 {stop:,.0f}원(-8%) | 1차 목표 {r.close * (1 + TARGET):,.0f}원(+20%, 절반)")
 
 
+def _dart(r, lines):
+    """공시 확인: CB·BW·EB 발행 1년 내면 제외(검증 근거), 나머지는 경고만"""
+    try:
+        chk = cinfo.dart_check(r.code)
+    except Exception as e:
+        return True, f"   공시: 확인 실패({e.__class__.__name__})"
+    if chk["block"]:
+        lines.append(f"🚫 {r['name']} 제외 (공시): " + ", ".join(chk["warn"]))
+        return False, ""
+    return True, cinfo.dart_line(chk)
+
+
 # ---------- 15:10 ----------
 def today_signals():
     """15:10 알림에 붙일 중기 스윙 매수 후보 (오늘 종가 매수)"""
@@ -213,18 +226,20 @@ def today_signals():
         for _, r in df[df.breakout].iterrows():
             g = _grade(r.gq, r.ga, mst[r.mkt])
             if g:
-                sig.append((g, r))
+                ok, dl = _dart(r, lines)
+                if ok:
+                    sig.append((g, r, dl))
     if not sig:
         lines.append("오늘 매수 신호 없음")
         return "\n".join(lines)
     sig.sort(key=lambda x: x[0])
-    for g, r in sig:
-        lines.append(_fmt(r, g))
+    for g, r, dl in sig:
+        lines.append(_fmt(r, g) + "\n" + dl)
     lines.append("👉 15:20 이후 가격이 피벗 위·피벗 +5% 이내인지 확인하고 종가에 매수\n"
                  "👉 매수 즉시 키움 자동감시주문으로 손절가(-8%) 걸어 두기\n"
                  "👉 산 뒤 봇에게: 중기 종목명 수량 체결가  (예: 중기 삼성전자 10 191300)\n"
                  "👉 한 종목은 중기 자금의 25%까지 (절반 표시는 12.5%)")
-    pd.DataFrame([dict(date=md.today(), code=r.code, name=r["name"], grade=g) for g, r in sig]).to_csv(
+    pd.DataFrame([dict(date=md.today(), code=r.code, name=r["name"], grade=g) for g, r, _ in sig]).to_csv(
         f"{REC}/canslim_1510_{md.today()}.csv", index=False)
     return "\n".join(lines)
 
@@ -323,9 +338,12 @@ def evening_section(msgs=None):
         for _, r in df[df.breakout].iterrows():
             g = _grade(r.gq, r.ga, mst[r.mkt])
             if g and r.code not in held:
+                ok, dl = _dart(r, lines)
+                if not ok:
+                    continue
                 new.append(dict(date=md.today(), code=r.code, name=r["name"], grade=g, market=mst[r.mkt],
                                 buy=r.close, pivot=r.pivot, status="보유", end_date="", why="", ret=None))
-                lines.append("✅ 오늘 마감 확정 신호\n" + _fmt(r, g))
+                lines.append("✅ 오늘 마감 확정 신호\n" + _fmt(r, g) + "\n" + dl)
     if not new:
         lines.append("오늘 마감 확정 신호 없음")
     if new:

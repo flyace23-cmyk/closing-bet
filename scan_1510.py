@@ -4,6 +4,7 @@ import pandas as pd
 from config import CFG, PROFILE, KOSDAQ_BREAK, NASDAQ_FUT_BREAK
 import market_data as md
 from telegram import send
+import info
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
@@ -67,7 +68,15 @@ def scan():
         ok &= df.new_high
     if CFG["need_vwap_afternoon"]:
         ok &= df.above_vwap & df.afternoon
-    return df[ok].sort_values(CFG["sort_by"], ascending=False)
+    df = df[ok].copy()
+    # 같은 테마 대장이 상한가인 2등주를 먼저 고름 (검증: 신호당 +1.65%, 일반 +0.2%)
+    try:
+        A = md.all_stocks()
+        df["second"] = [info.theme_info(c, A)["second_to_limit"] for c in df.code]
+    except Exception as e:
+        print("테마 확인 실패", e)
+        df["second"] = False
+    return df.sort_values(["second", CFG["sort_by"]], ascending=False)
 
 
 def fmt(p, i):
@@ -87,12 +96,24 @@ def main():
             print("너무 늦게 깨서 오늘 15:10 알림은 건너뜀"); return
         if os.path.exists(mark) and open(mark).read().strip() == md.today():
             print("오늘 이미 보냄"); return
+        try:   # 테마·DART 목록은 일주일에 한 번 새로 받는데 1~2분 걸려서, 기다리는 동안 미리 받음
+            info._themes()
+            if info.KEY:
+                info._corpmap()
+        except Exception as e:
+            print("목록 미리 받기 실패", e)
         wait_until("15:08")
     open(mark, "w").write(md.today())
     ok, mtxt = market_check()
     if ok is None:
         print(mtxt); return
     head = f"📊 종가베팅 15:10 ({PROFILE})\n{mtxt}"
+    try:
+        cal = info.calendar_note()
+        if cal:
+            head += "\n" + cal
+    except Exception as e:
+        print("일정 확인 실패", e)
     try:
         import swing
         due = swing.due_today()
@@ -106,7 +127,7 @@ def main():
     if df.empty:
         send(head + "\n\n조건에 맞는 종목 없음"); _extras(); return
     picks = df.head(CFG["max_picks"])
-    body = "\n\n".join(fmt(p, i + 1) for i, (_, p) in enumerate(picks.iterrows()))
+    body = "\n\n".join(fmt(p, i + 1) + "\n" + _info_lines(p.code) for i, (_, p) in enumerate(picks.iterrows()))
     more = f"\n\n(그 밖에 {len(df) - len(picks)}종목 더 걸림: " + ", ".join(df.iloc[len(picks):len(picks) + 5]["name"]) + ")" if len(df) > len(picks) else ""
     tip = ("\n\n👉 15:27~15:29 예상체결가가 15:20 가격보다 밀리지 않았는지 확인 후, 현재가 +1~2% 지정가로 매수"
            "\n👉 매수 후 봇에게 보내기: 매수 종목명 수량 체결가  (예: 매수 삼성전자 25 191300)")
@@ -114,6 +135,15 @@ def main():
     os.makedirs(f"{HERE}/records", exist_ok=True)
     picks.to_csv(f"{HERE}/records/picks_{md.today()}.csv", index=False)
     _extras()
+
+
+def _info_lines(code):
+    """고른 종목에만: 테마 순위·오늘 뉴스·공시 경고 (실패해도 알림은 보냄)"""
+    try:
+        t = info.theme_info(code, md.all_stocks())["text"]
+    except Exception:
+        t = "   테마: 못 받음"
+    return "\n".join([t, info.news_line(code), info.dart_safe_line(code)])
 
 
 def _extras():

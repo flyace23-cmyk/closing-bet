@@ -7,6 +7,7 @@ import os, datetime as dt
 from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 import market_data as md
+import info
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REC = f"{HERE}/records"
@@ -117,7 +118,8 @@ def evening_section():
         new = new[~new.code.isin(held)]
         for j, r in enumerate(new.head(SHOW_MAX).itertuples(), 1):
             lines.append(f"{j}. {r.name} ({r.code}) 종가 {r.close:,.0f}원 ({r.ret:+.1f}%)\n"
-                         f"   밴드 하단보다 {r.depth:+.1f}% | 60일선 대비 {r.ma60_gap:+.1f}% | 20일 평균 거래대금 {r.value20:,}억")
+                         f"   밴드 하단보다 {r.depth:+.1f}% | 60일선 대비 {r.ma60_gap:+.1f}% | 20일 평균 거래대금 {r.value20:,}억\n"
+                         + info.dart_safe_line(r.code))
         if len(new) > SHOW_MAX:
             lines.append(f"(그 밖에 {len(new) - SHOW_MAX}종목 더)")
         lines.append("👉 내일 시가 매수 → 5거래일째 종가 매도, 손절 -10% (키움 자동감시주문으로 걸어 두기)\n"
