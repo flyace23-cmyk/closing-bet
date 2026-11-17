@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "test=시험 메시지 / scan=지금 바로 후보 찾기 / evening=지금 바로 저녁 정리"
+        description: "test=시험 메시지 / scan=후보 찾기(15:08 전이면 15:08까지 기다림) / evening=지금 바로 저녁 정리"
         default: test
         type: choice
         options: [test, scan, evening]
@@ -29,7 +29,7 @@ jobs:
         run: |
           MODE="${{ github.event.inputs.mode }}"
           if [ "$MODE" = "test" ]; then python telegram.py
-          elif [ "$MODE" = "scan" ]; then python scan_1510.py --now
+          elif [ "$MODE" = "scan" ]; then python scan_1510.py
           elif [ "$MODE" = "evening" ]; then python evening.py --now
           elif [ "${{ github.event.schedule }}" = "0 10 * * 1-5" ]; then python evening.py
           else python scan_1510.py; fi
