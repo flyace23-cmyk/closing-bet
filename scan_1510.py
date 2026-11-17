@@ -85,6 +85,13 @@ def main():
     if ok is None:
         print(mtxt); return
     head = f"📊 종가베팅 15:10 ({PROFILE})\n{mtxt}"
+    try:
+        import swing
+        due = swing.due_today()
+        if due:
+            head = "⏰ 스윙 A 오늘 종가 매도\n" + "\n".join(due) + "\n\n" + head
+    except Exception as e:
+        print("스윙 매도 확인 실패", e)
     if not ok:
         send(head); return
     df = scan()

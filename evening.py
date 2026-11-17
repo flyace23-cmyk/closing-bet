@@ -153,6 +153,11 @@ def main():
     except Exception as e:
         msg.append(f"(순위 비교 실패: {e})")
     msg.append(streak_note())
+    try:
+        import swing
+        msg.append(swing.evening_section())
+    except Exception as e:
+        msg.append(f"(스윙 A 확인 실패: {e})")
     send("\n\n".join(x for x in msg if x))
 
 
