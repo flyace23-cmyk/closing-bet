@@ -38,4 +38,10 @@ def updates():
 
 
 if __name__ == "__main__":
+    if not TOKEN:
+        print("점검: TELEGRAM_TOKEN 비어 있음")
+    else:
+        me = requests.get(f"https://api.telegram.org/bot{TOKEN}/getMe", timeout=15).json()
+        print("점검: 토큰 확인 →", "정상, 봇 아이디 @" + me["result"]["username"] if me.get("ok") else f"실패 ({me.get('description')})")
+        print("점검: 봇이 받은 개인 메시지 수 →", len([m for m in _raw_updates() if m["chat"].get("type") == "private"]))
     send("✅ 종가베팅 봇 연결 시험 메시지입니다. 평일 15:10 후보 알림, 19:00 저녁 정리를 보내드려요.")
