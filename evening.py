@@ -130,7 +130,8 @@ def main():
         p = pd.read_csv(picks_f, dtype={"code": str}); names = dict(zip(p.name, p.code))
     L = md.all_stocks()
     names = {**dict(zip(L.name, L.code)), **names}
-    buys = parse(updates(), names)
+    msgs = updates()
+    buys = parse(msgs, names)
     msg = [f"🌙 저녁 정리 ({PROFILE})"]
     for d in done:
         msg.append(f"어제 {d['name']} → 오늘 시가 {d['sell_open']:,.0f}원, {d['ret']:+.2f}%")
@@ -159,6 +160,16 @@ def main():
     except Exception as e:
         msg.append(f"(스윙 A 확인 실패: {e})")
     send("\n\n".join(x for x in msg if x))
+    try:
+        import lowbuy
+        send(lowbuy.evening_section(msgs))
+    except Exception as e:
+        send(f"(저가매수 확인 실패: {e})")
+    try:
+        import canslim
+        send(canslim.evening_section(msgs))
+    except Exception as e:
+        send(f"(중기 스윙 확인 실패: {e})")
 
 
 if __name__ == "__main__":

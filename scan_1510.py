@@ -101,10 +101,10 @@ def main():
     except Exception as e:
         print("스윙 매도 확인 실패", e)
     if not ok:
-        send(head); return
+        send(head); _extras(); return
     df = scan()
     if df.empty:
-        send(head + "\n\n조건에 맞는 종목 없음"); return
+        send(head + "\n\n조건에 맞는 종목 없음"); _extras(); return
     picks = df.head(CFG["max_picks"])
     body = "\n\n".join(fmt(p, i + 1) for i, (_, p) in enumerate(picks.iterrows()))
     more = f"\n\n(그 밖에 {len(df) - len(picks)}종목 더 걸림: " + ", ".join(df.iloc[len(picks):len(picks) + 5]["name"]) + ")" if len(df) > len(picks) else ""
@@ -113,6 +113,21 @@ def main():
     send(head + "\n\n" + body + more + tip)
     os.makedirs(f"{HERE}/records", exist_ok=True)
     picks.to_csv(f"{HERE}/records/picks_{md.today()}.csv", index=False)
+    _extras()
+
+
+def _extras():
+    """종가베팅 알림 뒤에 다른 매매법 알림을 따로 보냄 (하나가 실패해도 나머지는 보냄)"""
+    try:
+        import lowbuy
+        send(lowbuy.preview())
+    except Exception as e:
+        send(f"(저가매수 확인 실패: {e})")
+    try:
+        import canslim
+        send(canslim.today_signals())
+    except Exception as e:
+        send(f"(중기 스윙 확인 실패: {e})")
 
 
 if __name__ == "__main__":
