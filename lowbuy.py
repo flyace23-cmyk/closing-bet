@@ -11,7 +11,8 @@
   참고      보유 중 5일 지수이평 > 10일 지수이평(골든크로스 유지) → '잔량 더 들고 가도 됨' 문구만
 
 자금: 5칸 (종목당 저가매수 자금의 20%). 칸이 비어 있을 때만 새 1차 신호를 채움
-  채우는 순서: 테마가 같이 빠진 종목 먼저 → 혼자 빠진 종목, 그 안에서 거래대금 큰 순
+  칸에 넣는 조건: 그날 양봉(종가 > 시가)인 종목만. 순서는 정하지 않음(날짜·코드로 섞음)
+  새로 넣는 종목마다 뉴스 2줄 + 공시 한 줄
   근거: 프로젝트 문서 '저가매수-종목고르기-집중투자-검증-2026-11'
     - 5칸이 1·2·10칸보다 나았음 (연 7.4%, 최대 낙폭 -40%)
     - 혼자 빠진 종목(테마 20% 미만만 같이 빠짐)은 매매당 +3.7%, 테마가 같이 빠진 종목은 +7.0%
@@ -221,12 +222,28 @@ def _detail(code, lab):
         return ""
 
 
+def _news(code):
+    """뉴스 2줄 + 공시 한 줄"""
+    try:
+        import info
+        return "\n" + info.news_line(code) + "\n" + info.dart_safe_line(code)
+    except Exception:
+        return ""
+
+
 def _pick(cands, D, TM, room):
-    """오늘 새 1차 신호 중 빈 칸에 넣을 종목. (뽑힌 것, 나머지) — 각 [(code, label)]"""
+    """오늘 새 1차 신호 중 빈 칸에 넣을 종목. (뽑힌 것, 나머지) — 각 [(code, label)]
+    - 그날 양봉(종가 > 시가)인 종목만 칸에 넣음: 하락이 멈춘 걸 확인 (11년 5칸: 최대 낙폭 -38% → -29%)
+    - 순서는 정하지 않음(어떤 순서도 무작위보다 낫지 않았음). 날짜·종목코드로 섞어 매번 같은 결과가 나오게 함"""
+    import hashlib
     labs = {c: label(c, D, TM) for c in cands}
-    order = sorted(cands, key=lambda c: (labs[c]["solo"], -D[c].iloc[-1].tv20))
+    yang = [c for c in cands if D[c].iloc[-1].c > D[c].iloc[-1].o]
+    mix = lambda c: hashlib.md5(f"{md.today()}{c}".encode()).hexdigest()
+    order = sorted(yang, key=mix)
     room = max(0, room)
-    return [(c, labs[c]) for c in order[:room]], [(c, labs[c]) for c in order[room:]]
+    picked = order[:room]
+    rest = [c for c in sorted(cands, key=lambda c: -D[c].iloc[-1].tv20) if c not in picked]
+    return [(c, labs[c]) for c in picked], [(c, labs[c]) for c in rest]
 
 
 # ---------- 기록 파일 ----------
@@ -290,8 +307,7 @@ def _block(code, k, f, nm, r, p, lab, i=None):
         out = f"<b>{i}. {E(nm)}</b>{_tags(r, lab)}\n{_pre(rows)}"
         if lab:
             out += "\n" + E(lab["text"].replace("⚠️ ", "").split(" | ")[0])
-            if lab.get("solo"):
-                out += E(_detail(code, lab))
+            out += E(_news(code))
         return out
     if k in ("2차 매수", "3차 매수"):
         a = avg(p)
@@ -317,7 +333,7 @@ def _block(code, k, f, nm, r, p, lab, i=None):
 
 def act_lists(items):
     """items: [(code, kind, frac, name, r, p_or_closed, lab)] → 할 일별 묶음 (HTML)"""
-    groups = [("🛒 <b>새로 사기</b>  (종가 매수, 칸 예산의 30%)", ["1차 매수"]),
+    groups = [("🛒 <b>새로 사기</b>  (종가 매수, 칸 예산의 30%, 오늘 양봉인 종목만)", ["1차 매수"]),
               ("➕ <b>더 사기</b>  (종가 매수)", ["2차 매수", "3차 매수"]),
               ("💰 <b>팔기</b>  (종가 매도)", ["1차 매도", "잔량 매도"]),
               ("🛑 <b>손절</b>  (종가 매도)", ["손절"])]
@@ -338,7 +354,7 @@ def act_lists(items):
 def solo_details(items):
     if any(x[1] == "1차 매수" and x[6] and x[6].get("solo") for x in items):
         return ["⚠️ <b>혼자 빠진 종목은 뉴스·공시를 보고 개별 악재면 건너뛰기</b>\n"
-                "(11년 평균: 혼자 빠짐 +3.7% / 테마 같이 빠짐 +7.0%) · Claude에게 '해석해줘'로 보내도 돼요"]
+                "(11년 평균: 혼자 빠짐 +3.7% / 테마 같이 빠짐 +7.0%)"]
     return []
 
 
@@ -408,9 +424,12 @@ def preview():
         lines += [""] + sd
     lines.append("")
     if rest:
-        lines.append(f"ℹ️ 그 밖에 신호 {len(rest)}개는 기록만 (저녁에 이름 확인)")
+        nyin = sum(1 for c, _ in rest if not D[c].iloc[-1].c > D[c].iloc[-1].o)
+        lines.append(f"ℹ️ 그 밖에 신호 {len(rest)}개는 기록만 (음봉이라 제외 {nyin}개 포함, 저녁에 이름 확인)")
     if items:
         lines.append("👉 <b>15:20 이후 다시 보고 종가(동시호가)에 주문</b>")
+        if any(x[1] == "1차 매수" for x in items):
+            lines.append("👉 빠진 이유가 궁금하면 이 알림을 Claude에게 '해석해줘'로 보내기")
     lg = legend(items)
     if lg:
         lines.append(lg)
