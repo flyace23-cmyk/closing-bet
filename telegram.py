@@ -13,12 +13,21 @@ def _raw_updates():
     return [u["message"] for u in r.get("result", []) if "message" in u]
 
 
+CHAT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "records", "chat_id.txt")
+
+
 def chat_id():
+    """대화방 번호: 비밀값 → 저장해 둔 파일 → 봇이 받은 최근 메시지(24시간) 순서로 찾음.
+    텔레그램은 최근 24시간 메시지만 알려주므로, 한 번 찾으면 파일에 저장해 둔다."""
     global CHAT
+    if not CHAT and os.path.exists(CHAT_FILE):
+        CHAT = open(CHAT_FILE).read().strip() or None
     if not CHAT:
         msgs = [m for m in _raw_updates() if m["chat"].get("type") == "private"]
         if msgs:
             CHAT = str(msgs[-1]["chat"]["id"])
+            os.makedirs(os.path.dirname(CHAT_FILE), exist_ok=True)
+            open(CHAT_FILE, "w").write(CHAT)
     return CHAT
 
 
