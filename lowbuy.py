@@ -244,75 +244,110 @@ def save_state(s):
     json.dump(s, open(STATE, "w"), ensure_ascii=False, indent=1)
 
 
-# ---------- 문구 ----------
+
+# ---------- 문구 (할 일별로 묶고 종목당 한 줄) ----------
 def _won(x):
     return f"{x:,.0f}"
-
-
-def _qty(price, frac):
-    return f" (약 {int(BUDGET * frac // price):,}주)" if BUDGET else ""
 
 
 def _gc(r):
     return r.ema5 > r.ema10
 
 
-def fmt_act(kind, frac, p, r, closed=None):
-    """문서의 알림 문구 형식"""
-    nm = p["name"] if p else closed["name"]
-    lo = r.sma20 * (1 - ENV)
-    if kind == "1차 매수":
-        strong = " (강한 신호)" if r.rsi <= 30 else ""
-        return (f"[저가매수] {nm} 1차 매수 신호{strong} | 현재가 {_won(r.c)} / 20일선 -10% {_won(lo)} / RSI {r.rsi:.0f}\n"
-                f"   예산 30% 종가 매수{_qty(r.c, frac)} | 2차 조건 {_won(r.c * (1 - STEP))} 이하, 또는 {_won(r.c)} 아래 양봉")
-    if kind in ("2차 매수", "3차 매수"):
-        nxt = (f" | 3차 조건 {_won(r.c * (1 - STEP))} 이하" if kind == "2차 매수" else "")
-        return (f"[저가매수] {nm} {kind} | 현재가 {_won(r.c)} / RSI {r.rsi:.0f}\n"
-                f"   예산 {frac * 100:.0f}% 종가 매수{_qty(r.c, frac)}{nxt} | 평단 {_won(avg(p))}, 손절선 {_won(avg(p) * (1 - STOP))}")
-    if kind == "1차 매도":
-        return (f"[저가매수] {nm} 1차 매도 (20일선 {_won(r.sma20)} 도달) | 현재가 {_won(r.c)}\n"
-                f"   보유분 절반 종가 매도, 추가매수 끝 | 잔량: 20일선 x1.1({_won(r.sma20 * TOP)}) 이상 또는 20일선 아래 마감 시 매도")
-    if kind == "잔량 매도":
-        why = "20일선 +10% 도달" if r.c >= r.sma20 * TOP else "20일선 아래로 마감"
-        tip = "\n   참고: 5-10 골든크로스 유지 중 → 잔량 더 들고 가도 됨" if _gc(r) and r.c >= r.sma20 * TOP else ""
-        return (f"[저가매수] {nm} 잔량 전부 매도 ({why}) | 현재가 {_won(r.c)} | 이번 매매 약 {result(closed):+.1f}%{tip}")
-    if kind == "손절":
-        return (f"[저가매수] ⚠️ {nm} 손절 — 평단 {_won(avg(closed))}의 -30% 아래 | 현재가 {_won(r.c)} | 전량 종가 매도 (약 {result(closed):+.1f}%)")
-    return f"[저가매수] {nm} {kind}"
+def _marks(r, lab):
+    m = ""
+    if r.rsi <= 30:
+        m += " 💪"
+    if lab and lab.get("lead"):
+        m += " ★"
+    if lab and lab.get("solo"):
+        m += " ⚠️"
+    return m
 
 
-def fmt_hold(p, r):
+def _qty(price, frac):
+    return f" 약 {int(BUDGET * frac // price):,}주" if BUDGET else ""
+
+
+def act_lists(items):
+    """items: [(code, kind, frac, name, r, p_or_closed, lab)] → 문구 줄 목록 (할 일별 묶음)"""
+    new = [x for x in items if x[1] == "1차 매수"]
+    add = [x for x in items if x[1] in ("2차 매수", "3차 매수")]
+    sell = [x for x in items if x[1] in ("1차 매도", "잔량 매도")]
+    stop = [x for x in items if x[1] == "손절"]
+    out = []
+    if new:
+        out.append("🛒 새로 사기 (종가, 칸 예산의 30%)")
+        out += [f"{i}. {nm} {_won(r.c)}{_qty(r.c, f)}{_marks(r, lab)}" for i, (_, _, f, nm, r, _, lab) in enumerate(new, 1)]
+    if add:
+        out.append("➕ 더 사기 (종가)")
+        out += [f"• {nm} {k} {_won(r.c)} (칸 예산의 {f * 100:.0f}%){_qty(r.c, f)}" for _, k, f, nm, r, _, _ in add]
+    if sell:
+        out.append("💰 팔기 (종가)")
+        for _, k, f, nm, r, p, _ in sell:
+            if k == "1차 매도":
+                out.append(f"• {nm} 절반 매도 {_won(r.c)} (20일선 도달)")
+            else:
+                why = "20일선 +10%" if r.c >= r.sma20 * TOP else "20일선 아래로 마감"
+                tip = " — 5-10 골든 유지 중이라 더 들고 가도 됨" if _gc(r) and r.c >= r.sma20 * TOP else ""
+                out.append(f"• {nm} 남은 것 전부 매도 {_won(r.c)} ({why}, 이번 매매 약 {result(p):+.1f}%){tip}")
+    if stop:
+        out.append("🛑 손절 (종가, 전부)")
+        out += [f"• {nm} {_won(r.c)} (평단 {_won(avg(p))}의 -30% 아래, 약 {result(p):+.1f}%)" for _, _, _, nm, r, p, _ in stop]
+    if (new and not (add or sell or stop)):
+        out.append("💰 팔기 · ➕ 더 사기 · 🛑 손절: 없음")
+    return out
+
+
+def solo_details(items):
+    """⚠️ 혼자 빠진 새 종목만 뉴스·공시"""
+    out = []
+    for code, k, _, nm, _, _, lab in items:
+        if k == "1차 매수" and lab and lab.get("solo"):
+            out.append(f"⚠️ {nm} — {lab['text'].replace('⚠️ ', '')}" + _detail(code, lab))
+    if out:
+        out.append("→ 개별 악재면 건너뛰기 (11년 평균: 혼자 빠짐 +3.7% / 같이 빠짐 +7.0%). Claude에게 '해석해줘'로 보내도 돼요")
+    return out
+
+
+def legend(items):
+    labs = [x[6] for x in items if x[6]]
+    rs = [x[4] for x in items]
+    t = []
+    if any(r.rsi <= 30 for r in rs):
+        t.append("💪 강한 신호(RSI 30↓)")
+    if any(l.get("lead") for l in labs):
+        t.append("★ 테마 주도주")
+    if any(l.get("solo") for l in labs):
+        t.append("⚠️ 혼자 빠짐")
+    return "  ".join(t)
+
+
+def watch_line(p, r):
+    """저녁용: 칸별 내일 볼 가격"""
     a = avg(p)
-    t = f"• {p['name']} {p['buys']}차까지 매수, 평단 {_won(a)} → 현재 {r.c / a * 100 - 100:+.1f}%"
+    t = f"• {p['name']} {p['buys']}차까지 | 평단 {_won(a)} ({r.c / a * 100 - 100:+.1f}%) | "
     if p["half"]:
-        t += f" | 절반 매도함. 잔량: {_won(r.sma20 * TOP)} 이상 또는 {_won(r.sma20)} 아래면 매도"
+        t += f"남은 것: {_won(r.sma20 * TOP)}↑ 또는 {_won(r.sma20)}↓ 마감이면 매도"
         if _gc(r):
-            t += " (5-10 골든 유지: 더 들고 가도 됨)"
+            t += " (골든 유지)"
     else:
         nxt = []
         if p["buys"] < 3:
-            nxt.append(f"{p['buys'] + 1}차 {_won(p['last'] * (1 - STEP))} 이하" + (" 또는 양봉" if p["buys"] == 1 else ""))
-        nxt.append(f"20일선 {_won(r.sma20)} 도달 시 절반 매도")
-        t += " | 다음: " + ", ".join(nxt)
+            nxt.append(f"더 사기 {_won(p['last'] * (1 - STEP))}↓" + (" 또는 양봉" if p["buys"] == 1 else ""))
+        nxt.append(f"절반 매도 {_won(r.sma20)}↑")
+        if p["buys"] >= 2:
+            nxt.append(f"손절 {_won(a * (1 - STOP))}↓")
+        t += " · ".join(nxt)
     return t
 
 
-def _others_line(rest, names):
+def _names_line(rest, names, n=SHOW_OTHERS):
     if not rest:
         return ""
-    solo = sum(1 for _, l in rest if l["solo"])
-    shown = ", ".join(names.get(c, c) + ("★" if l["lead"] else "") + ("⚠️" if l["solo"] else "") for c, l in rest[:SHOW_OTHERS])
-    more = f" 외 {len(rest) - SHOW_OTHERS}개" if len(rest) > SHOW_OTHERS else ""
-    return (f"👥 칸이 없어 기록만 하는 1차 신호 {len(rest)}개 (혼자 빠짐 {solo}개): {shown}{more}\n"
-            f"   (★ 테마 주도주, ⚠️ 혼자 빠짐 / 모두 '전체 신호 기록'에 저장)")
-
-
-def _slot_hdr(n_open):
-    return f"🎯 내 {SLOTS}칸 (종목당 저가매수 자금의 20%) — 오늘 전 보유 {n_open}칸"
-
-
-SOLO_TIP = ("👉 ⚠️ 혼자 빠진 종목은 뉴스·공시를 보고 개별 악재면 건너뛰세요 "
-            "(11년 평균: 혼자 빠짐 +3.7% / 테마 같이 빠짐 +7.0%). 알림을 Claude에게 '해석해줘'로 보내도 돼요")
+    shown = ", ".join(names.get(c, c) + ("★" if l["lead"] else "") + ("⚠️" if l["solo"] else "") for c, l in rest[:n])
+    more = f" 외 {len(rest) - n}개" if len(rest) > n else ""
+    return f"ℹ️ 칸이 없어 기록만 한 신호 {len(rest)}개: {shown}{more}"
 
 
 # ---------- 15:10 ----------
@@ -322,9 +357,9 @@ def preview():
     names = {**U, **{c: p["name"] for c, p in S["pos"].items()}}
     D = {c: d for c, d in _fetch(list(dict.fromkeys(list(U) + list(S["pos"])))).items() if d.date.iloc[-1] == md.today()}
     if not D:
-        return "🟢 저가매수 — 오늘 데이터를 못 받음"
-    slot_lines, holds, new, plan = [], [], [], []
-    open_after = len(S["slots"])
+        return "🟢 저가매수 15:10 — 오늘 데이터를 못 받음"
+    items, new, plan = [], [], []
+    held, open_after = len(S["slots"]), len(S["slots"])
     for code, d in D.items():
         r = d.iloc[-1]
         p = S["pos"].get(code)
@@ -332,33 +367,34 @@ def preview():
             continue
         np_, a, closed = step(p, r, code, names.get(code, code))
         if code in S["slots"]:
-            for k, f in a:
-                slot_lines.append(fmt_act(k, f, np_, r, closed)); plan.append(dict(code=code, act=k))
+            items += [(code, k, f, names.get(code, code), r, closed or np_, None) for k, f in a]
             if np_ is None:
                 open_after -= 1
-            elif not a:
-                holds.append(fmt_hold(np_, r))
         elif p is None and a:
             new.append(code)
-    TM = _theme_map(U)
-    picks, rest = _pick(new, D, TM, SLOTS - open_after)
-    for c, lab in picks:
-        slot_lines.append(fmt_act("1차 매수", FRACS[0], None, D[c].iloc[-1], dict(name=names[c])) + f"\n   {lab['text']}" + _detail(c, lab))
-        plan.append(dict(code=c, act="1차 매수"))
-    lines = [f"🟢 저가매수 (엔벨로프) — 15:10 예상, 대상 {len(U)}종목", _slot_hdr(len(S["slots"]))]
-    lines += slot_lines if slot_lines else ["오늘 종가에 할 일 없음"]
-    if slot_lines:
-        lines.append("👉 15:20 이후 가격으로 한 번 더 확인하고 종가(동시호가)에 주문")
-    if any(l["solo"] for _, l in picks):
-        lines.append(SOLO_TIP)
-    if holds:
-        lines.append("📌 칸 보유 현황\n" + "\n".join(holds))
-    o = _others_line(rest, names)
-    if o:
-        lines.append(o)
+    picks, rest = _pick(new, D, _theme_map(U), SLOTS - open_after)
+    items += [(c, "1차 매수", FRACS[0], names[c], D[c].iloc[-1], None, lab) for c, lab in picks]
+    plan = [dict(code=x[0], act=x[1]) for x in items]
+    lines = [f"🟢 저가매수 15:10 — 오늘 할 일 {len(items)}건",
+             f"내 {SLOTS}칸: 보유 {held}" + (f" → 오늘 {len(picks)}칸 새로 채움" if picks else "")]
+    if items:
+        lines += [""] + act_lists(items)
+    else:
+        lines.append("오늘 종가에 할 일 없음")
+    sd = solo_details(items)
+    if sd:
+        lines += [""] + sd
+    lines.append("")
+    if rest:
+        lines.append(f"ℹ️ 그 밖에 신호 {len(rest)}개는 기록만 (저녁에 이름 확인)")
+    if items:
+        lines.append("👉 15:20 이후 다시 보고 종가에 주문")
+    lg = legend(items)
+    if lg:
+        lines.append(lg)
     os.makedirs(REC, exist_ok=True)
     json.dump(plan, open(f"{REC}/lowbuy_1510_{md.today()}.json", "w"), ensure_ascii=False)
-    return "\n".join(lines)
+    return "\n".join(lines).strip()
 
 
 # ---------- 19:00 ----------
@@ -414,15 +450,13 @@ def _stats(t, title, exp=""):
         return ""
     return f"{title} {len(t)}건 종료 | 승률 {(t.ret > 0).mean() * 100:.0f}% | 평균 {t.ret.mean():+.2f}% {exp}".rstrip()
 
-
 def evening_section(msgs=None):
     os.makedirs(REC, exist_ok=True)
     cmd_lines = _apply_commands(_commands(msgs))
     U, S = universe(), load_state()
     names = {**U, **{c: p["name"] for c, p in S["pos"].items()}}
     D = _fetch(list(dict.fromkeys(list(U) + list(S["pos"]))))
-    slots_before = len(S["slots"])
-    slot_acts, holds, new_today, closed_all = [], [], [], []   # slot_acts: (code, 할 일, 문구)
+    items, new_today, closed_all = [], [], []
     for code, d in D.items():
         upto = S["upto"].get(code)
         # 처음 보는 종목은 오늘부터 기록 시작. 저녁 정리를 며칠 빠뜨렸으면 그 날들도 차례로 처리
@@ -438,7 +472,7 @@ def evening_section(msgs=None):
                 if p0 is None and a:
                     new_today.append(code)
                 elif code in S["slots"]:
-                    slot_acts += [(code, k, fmt_act(k, f, p, r, closed)) for k, f in a]
+                    items += [(code, k, f, name, r, closed or p, None) for k, f in a]
             if closed:
                 closed["mark"] = closed["ev"][-1][2]
                 closed["slot"] = code in S["slots"]
@@ -450,15 +484,13 @@ def evening_section(msgs=None):
             S["pos"].pop(code, None)
         else:
             S["pos"][code] = p
-            if code in S["slots"] and not any(code == c for c, _, _ in slot_acts) and d.date.iloc[-1] == md.today():
-                holds.append(fmt_hold(p, d.iloc[-1]))
     S["slots"] = [c for c in S["slots"] if c in S["pos"]]
     # 빈 칸 채우기 (오늘 새로 뜬 1차 신호에서)
     today = {c: D[c] for c in D if D[c].date.iloc[-1] == md.today()}
     picks, rest = _pick([c for c in new_today if c in today], today, _theme_map(U), SLOTS - len(S["slots"]))
     for c, lab in picks:
         S["slots"].append(c)
-        slot_acts.append((c, "1차 매수", fmt_act("1차 매수", FRACS[0], S["pos"][c], D[c].iloc[-1]) + f"\n   {lab['text']}" + _detail(c, lab)))
+        items.append((c, "1차 매수", FRACS[0], names.get(c, c), D[c].iloc[-1], S["pos"][c], lab))
     # 끝난 매매 저장
     if closed_all:
         rows = [dict(code=c["code"], name=c["name"], entry=c["ev"][0][0], exit=c["ev"][-1][0], buys=c["buys"],
@@ -468,31 +500,39 @@ def evening_section(msgs=None):
         pd.concat([old, pd.DataFrame(rows)], ignore_index=True).to_csv(TRADES, index=False)
     save_state(S)
 
-    lines = [f"🟢 저가매수 (엔벨로프) — 오늘 종가 확정, 대상 {len(U)}종목"] + cmd_lines
-    lines.append(_slot_hdr(slots_before))
-    lines += [t for _, _, t in slot_acts] if slot_acts else ["오늘 확정된 할 일 없음"]
-    if any(l["solo"] for _, l in picks):
-        lines.append(SOLO_TIP)
+    lines = [f"🟢 저가매수 19:00 — 오늘 종가 확정 {len(items)}건"] + cmd_lines
+    if items:
+        lines += [""] + act_lists(items)
+    else:
+        lines.append("오늘 확정된 할 일 없음")
+    sd = solo_details(items)
+    if sd:
+        lines += [""] + sd
     f = f"{REC}/lowbuy_1510_{md.today()}.json"
     if os.path.exists(f):
         early = {(x["code"], x["act"]) for x in json.load(open(f))}
-        final = {(c, k) for c, k, _ in slot_acts}
+        final = {(x[0], x[1]) for x in items}
         diff = [f"{names.get(c, c)} {k} {'(15:10엔 있었는데 종가 기준으론 아님)' if (c, k) in early else '(종가에 새로 생김)'}"
                 for c, k in sorted(early ^ final)]
         if diff:
-            lines.append("🔎 15:10 예상과 다름: " + ", ".join(diff))
-    if holds:
-        lines.append("📌 칸 보유 현황\n" + "\n".join(holds))
-    o = _others_line(rest, names)
-    if o:
-        lines.append(o)
+            lines += ["", "🔎 15:10 예상과 다름: " + ", ".join(diff)]
+    if S["slots"]:
+        lines += ["", f"📌 내 {SLOTS}칸 · 내일 볼 가격 ({len(S['slots'])}/{SLOTS})"]
+        lines += [watch_line(S["pos"][c], D[c].iloc[-1]) for c in S["slots"] if c in D]
+    nl = _names_line(rest, names)
+    if nl:
+        lines += ["", nl]
+    stats = []
     if os.path.exists(TRADES):
         t = pd.read_csv(TRADES)
-        lines += [x for x in [_stats(t[t.slot == True], f"📒 내 {SLOTS}칸 기록"),
-                              _stats(t, "📒 전체 신호 기록", "(백테스트 기대: 승률 75%, 평균 +5.5%)")] if x]
-    lines.append(f"📊 진행 중: 내 칸 {len(S['slots'])}/{SLOTS} / 전체 신호 {len(S['pos'])}개")
-    lines.append("💬 대상 바꾸기: '관심추가 종목명' / '관심삭제 종목명' / '관심목록' (저녁 정리 때 반영)")
-    return "\n".join(lines)
+        stats = [x for x in [_stats(t[t.slot == True], f"📒 내 {SLOTS}칸 기록"),
+                             _stats(t, "📒 전체 신호 기록", "(기대: 승률 75%, 평균 +5.5%)")] if x]
+    lines += [""] + stats + [f"진행 중: 내 칸 {len(S['slots'])}/{SLOTS}, 전체 신호 {len(S['pos'])}개"]
+    lg = legend(items)
+    if lg:
+        lines.append(lg)
+    lines.append("💬 대상 바꾸기: '관심추가 종목명' / '관심삭제 종목명' / '관심목록'")
+    return "\n".join(lines).strip()
 
 
 if __name__ == "__main__":
