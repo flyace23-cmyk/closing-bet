@@ -23,6 +23,8 @@ def chat_id():
 
 
 def send(text):
+    if os.environ.get("PREVIEW"):
+        text = "🧪 미리보기 (지금 가격 기준, 실제 알림·기록 아님)\n" + text
     if not TOKEN or not chat_id():
         print("----- (텔레그램 설정 없음: 화면 출력) -----\n" + text)
         return
