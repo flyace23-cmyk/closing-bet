@@ -162,7 +162,7 @@ def main():
     send("\n\n".join(x for x in msg if x))
     try:
         import lowbuy
-        send(lowbuy.evening_section(msgs))
+        send(lowbuy.evening_section(msgs), html=True)
     except Exception as e:
         send(f"(저가매수 확인 실패: {e})")
     try:

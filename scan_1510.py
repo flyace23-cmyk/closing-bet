@@ -150,7 +150,7 @@ def _extras():
     """종가베팅 알림 뒤에 다른 매매법 알림을 따로 보냄 (하나가 실패해도 나머지는 보냄)"""
     try:
         import lowbuy
-        send(lowbuy.preview())
+        send(lowbuy.preview(), html=True)
     except Exception as e:
         send(f"(저가매수 확인 실패: {e})")
     try:

@@ -22,15 +22,37 @@ def chat_id():
     return CHAT
 
 
-def send(text):
+def _chunks(text, n=3800):
+    """긴 메시지를 빈 줄 기준으로 나눔 (HTML 태그가 중간에 잘리지 않게)"""
+    out, cur = [], ""
+    for part in text.split("\n\n"):
+        while len(part) > n:
+            out.append(part[:n]); part = part[n:]
+        if cur and len(cur) + len(part) + 2 > n:
+            out.append(cur); cur = part
+        else:
+            cur = f"{cur}\n\n{part}" if cur else part
+    if cur:
+        out.append(cur)
+    return out
+
+
+def send(text, html=False):
+    """html=True 이면 <b>굵게</b>, <pre>줄 맞춤</pre> 같은 텔레그램 서식을 씀"""
     if os.environ.get("PREVIEW"):
         text = "🧪 미리보기 (지금 가격 기준, 실제 알림·기록 아님)\n" + text
     if not TOKEN or not chat_id():
         print("----- (텔레그램 설정 없음: 화면 출력) -----\n" + text)
         return
-    for i in range(0, len(text), 3800):
-        requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-                      data=dict(chat_id=CHAT, text=text[i:i + 3800]), timeout=15)
+    for part in _chunks(text):
+        data = dict(chat_id=CHAT, text=part)
+        if html:
+            data["parse_mode"] = "HTML"
+        r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data=data, timeout=15)
+        if html and not r.json().get("ok"):   # 서식 오류면 서식 없이 다시 보냄
+            import re as _re
+            data.pop("parse_mode"); data["text"] = _re.sub(r"<[^>]+>", "", part).replace("&lt;", "<").replace("&gt;", ">").replace("&amp;", "&")
+            requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data=data, timeout=15)
 
 
 def updates():
