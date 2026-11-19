@@ -43,7 +43,7 @@ def _check(row):
 def scan():
     """오늘 장 마감 기준 신호 찾기 (오늘 하락한 종목만 확인해서 시간을 줄임)"""
     L = md.all_stocks()
-    L = L[L.ret < 0]
+    L = L[L.ret < 3]   # 19:00 목록 등락률은 애프터장이 섞일 수 있어 넉넉하게 거른 뒤, 일봉(KRX 종가)으로 다시 확인
     with ThreadPoolExecutor(8) as ex:
         res = [r for r in ex.map(_check, L.to_dict("records")) if r]
     return pd.DataFrame(res).sort_values("value20", ascending=False) if res else pd.DataFrame()
