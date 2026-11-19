@@ -77,7 +77,7 @@ def collect(vi_dir=None):
             avg = sum(x * f for x, f in b) / sum(f for _, f in b)
             hold.append({"매매법": "저가매수", "종목": p["name"], "시작일": _d(p["ev"][0][0]),
                          "상태": f"{p['buys']}차까지 매수" + (", 절반 매도함" if p.get("half") else ""),
-                         "평단": round(avg), "최근 기록일": _d(st["upto"].get(c, ""))})
+                         "평단": round(avg), "최근 기록일": _d(st["upto"].get(c, "")), "코드": c})
     except Exception:
         pass
     # 스윙 A (모의)
@@ -87,7 +87,8 @@ def collect(vi_dir=None):
             add("스윙 A", "모의", r.get("name"), r.get("date"), r.get("sell_date"), r.get("ret"), r.get("status"))
         elif r.get("status") in ("대기", "보유"):
             hold.append({"매매법": "스윙 A", "종목": r.get("name"), "시작일": _d(r.get("date")),
-                         "상태": r.get("status"), "평단": round(_f(r.get("buy")) or _f(r.get("close")) or 0), "최근 기록일": ""})
+                         "상태": r.get("status"), "평단": round(_f(r.get("buy")) or _f(r.get("close")) or 0), "최근 기록일": "",
+                         "코드": r.get("code")})
     # 중기 스윙
     for fname, kind in (("canslim_mock.csv", "모의"), ("canslim_mine.csv", "실제")):
         for r in _read(fname).to_dict("records"):
@@ -95,7 +96,7 @@ def collect(vi_dir=None):
                 add("중기 스윙", kind, r.get("name"), r.get("date"), r.get("end_date"), r.get("ret"), r.get("why", ""))
             elif r.get("status") == "보유":
                 hold.append({"매매법": f"중기 스윙({kind})", "종목": r.get("name"), "시작일": _d(r.get("date")),
-                             "상태": "보유", "평단": round(_f(r.get("buy")) or 0), "최근 기록일": ""})
+                             "상태": "보유", "평단": round(_f(r.get("buy")) or 0), "최근 기록일": "", "코드": r.get("code")})
     # VI 단타 (노트북)
     if vi_dir:
         f = os.path.join(vi_dir, "review.csv")
@@ -141,8 +142,33 @@ def collect(vi_dir=None):
     s = pd.DataFrame(summ)
     s["순서"] = s.매매법.map({k: i for i, k in enumerate(ORDER)})
     s = s.sort_values(["순서", "구분"]).drop(columns="순서")
-    h = pd.DataFrame(hold, columns=["매매법", "종목", "시작일", "상태", "평단", "최근 기록일"])
+    h = pd.DataFrame(hold, columns=["매매법", "종목", "시작일", "상태", "평단", "최근 기록일", "코드"])
+    h = _mark_prices(h)
     return t, s, h
+
+
+def _mark_prices(h):
+    """진행 중 종목에 최근 종가와 평단 대비 수익률을 붙임 (네이버 일봉)"""
+    cur, ret, day = [], [], []
+    try:
+        sys.path.insert(0, HERE)
+        import market_data as md
+    except Exception:
+        md = None
+    for r in h.to_dict("records"):
+        c = d = None
+        if md is not None and r.get("코드"):
+            try:
+                x = md.daily(r["코드"], 2)
+                c, d = float(x.c.iloc[-1]), _d(x.date.iloc[-1])
+            except Exception:
+                pass
+        avg = _f(r.get("평단"))
+        cur.append(round(c) if c else None)
+        ret.append(round((c / avg - 1) * 100, 2) if c and avg else None)
+        day.append(d or "")
+    h["현재가"], h["수익률(%)"], h["기준일"] = cur, ret, day
+    return h.drop(columns=["코드", "최근 기록일"])
 
 
 if __name__ == "__main__":
