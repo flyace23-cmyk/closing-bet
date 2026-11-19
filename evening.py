@@ -164,6 +164,11 @@ def main():
         msg.append(swing.evening_section())
     except Exception as e:
         msg.append(f"(스윙 A 확인 실패: {e})")
+    try:
+        import after_log
+        msg.append(after_log.run())
+    except Exception as e:
+        msg.append(f"(애프터장 기록 실패: {e})")
     send("\n\n".join(x for x in msg if x))
     try:
         import lowbuy

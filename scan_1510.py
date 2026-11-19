@@ -7,6 +7,7 @@ from telegram import send
 import info
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+MOOD = {}   # 오늘 장세 (info.market_mood 결과)
 
 
 def wait_until(hm):
@@ -76,11 +77,15 @@ def scan():
     except Exception as e:
         print("테마 확인 실패", e)
         df["second"] = False
+    # 그날 상승률 1등 테마 소속이면 🔥 표시만 (11년: +0.63% vs +0.16%). 순서는 바꾸지 않음
+    df["hot"] = df.code.isin(MOOD.get("top_codes", set()))
     return df.sort_values(["second", CFG["sort_by"]], ascending=False)
 
 
 def fmt(p, i):
     lead = " ★대장주급(1000억+)" if p.value >= 1000 else ""
+    if p.get("hot", False):
+        lead += " 🔥오늘 1등 테마"
     return (f"{i}. {p['name']} ({p.code}){lead}\n"
             f"   현재가 {p.price:,.0f}원 | 등락률 {p.ret:+.1f}% | 거래대금 {p.value:,.0f}억\n"
             f"   고가 대비 {p.gap_high:+.1f}% | 거래량 {p.vol_mult:.1f}배 | 20일 신고가 {'O' if p.new_high else 'X'}\n"
@@ -123,6 +128,11 @@ def main():
         print("스윙 매도 확인 실패", e)
     if not ok:
         send(head); _extras(); return
+    try:
+        MOOD.update(info.market_mood(md.all_stocks()))
+        head += "\n" + MOOD["text"]
+    except Exception as e:
+        print("장세 확인 실패", e)
     df = scan()
     if df.empty:
         send(head + "\n\n조건에 맞는 종목 없음"); _extras(); return

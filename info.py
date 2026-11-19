@@ -202,6 +202,32 @@ def _themes():
     return out
 
 
+def market_mood(all_df, topn=30):
+    """영상 '세 표' 장세 판단 (검증: 프로젝트 문서 '영상검증-애프터장-장세판단-2026-11', 11년)
+    상승률 상위 30 (거래대금 30억+ 상승 종목) 중
+    - 한 테마가 6종목 이상 → 테마 장세 (종가베팅 +0.40%)
+    - 3종목 이상 묶이는 테마에 안 속한 종목('기타')이 73% 이상 → 개별주 장세 (종가베팅 0 근처)
+    반환: dict(kind, text, top_codes=그날 상승률 1등 테마 종목 집합 → 이 테마 소속 신호 +0.63% vs +0.16%)"""
+    try:
+        T = _themes()
+        x = all_df[(all_df.value >= 30) & (all_df.ret > 0) & (all_df.price >= 1000)]
+        R = set(x.sort_values("ret", ascending=False).head(topn).code)
+        cnt = sorted(((len(R & set(t["codes"])), t["name"], set(t["codes"])) for t in T), key=lambda z: -z[0])
+        n1, name1, codes1 = cnt[0]
+        grouped = set().union(*[c & R for n, _, c in cnt if n >= 3]) if cnt and cnt[0][0] >= 3 else set()
+        etc = 1 - len(grouped) / max(len(R), 1)
+        if n1 >= 6:
+            kind, tip = "테마 장세", "테마 소속 후보 유리"
+        elif etc >= 0.73:
+            kind, tip = "개별주 장세", "쉬어도 되는 날 (과거 성적 0 근처)"
+        else:
+            kind, tip = "보통", ""
+        text = f"🧭 장세: {kind} — 상승률 상위 {len(R)} 중 '{name1}' {n1}종목, 기타 {etc * 100:.0f}%" + (f" → {tip}" if tip else "")
+        return dict(kind=kind, text=text, top_codes=codes1 if n1 >= 3 else set())
+    except Exception as e:
+        return dict(kind="?", text=f"🧭 장세: 확인 실패({e.__class__.__name__})", top_codes=set())
+
+
 def theme_info(code, all_df):
     """all_df: md.all_stocks() 결과 (오늘 등락률·거래대금).
     반환: dict(second_to_limit=대장 상한가 테마의 2등주 여부, text=표시 문구)"""
