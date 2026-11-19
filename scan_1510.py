@@ -41,12 +41,29 @@ def market_check():
     return ok, "\n".join(lines) + ("" if ok else f"\n→ 오늘은 쉼: {reason}")
 
 
+def dad_marks(d, price, ret):
+    """아버지 종가매매 기준 표시용 (11년 검증: 거르는 조건으로 쓰면 성적이 떨어져서 표시만 함)"""
+    c, h, l = d.c.copy(), d.h, d.l
+    c.iloc[-1] = price
+    jung = cloud = None
+    if len(c) >= 120:
+        m5, m20, m60, m120 = (c.iloc[-n:].mean() for n in (5, 20, 60, 120))
+        jung = m5 > m20 > m60 > m120
+    if len(d) >= 78:
+        e = len(d) - 26                     # 26일 전까지 데이터로 그린 오늘 자리의 구름
+        hh, ll = h.iloc[:e], l.iloc[:e]
+        s1 = ((hh.iloc[-9:].max() + ll.iloc[-9:].min()) / 2 + (hh.iloc[-26:].max() + ll.iloc[-26:].min()) / 2) / 2
+        s2 = (hh.iloc[-52:].max() + ll.iloc[-52:].min()) / 2
+        cloud = price > max(s1, s2)
+    return dict(dad_jung=jung, dad_cloud=cloud, dad_10=ret >= 10)
+
+
 def scan():
     L = md.all_stocks()
     L = L[(L.ret >= CFG["ret_min"]) & (L.ret <= CFG["ret_max"]) & (L.value >= CFG["value_min"])]
     rows = []
     for r in L.itertuples():
-        d = md.daily(r.code, 30)
+        d = md.daily(r.code, 160)
         if len(d) < 22 or d.date.iloc[-1] != md.today():
             continue
         t, past = d.iloc[-1], d.iloc[-21:-1]
@@ -60,7 +77,8 @@ def scan():
                          gap_high=gap_high, vol_mult=vm,
                          new_high=t.h >= high20 * 0.97,
                          above_vwap=(vwap is not None and r.price >= vwap),
-                         afternoon=(aft_high is not None and aft_high >= t.h * 0.99)))
+                         afternoon=(aft_high is not None and aft_high >= t.h * 0.99),
+                         **dad_marks(d, r.price, r.ret)))
     df = pd.DataFrame(rows)
     if df.empty:
         return df
@@ -89,7 +107,12 @@ def fmt(p, i):
     return (f"{i}. {p['name']} ({p.code}){lead}\n"
             f"   현재가 {p.price:,.0f}원 | 등락률 {p.ret:+.1f}% | 거래대금 {p.value:,.0f}억\n"
             f"   고가 대비 {p.gap_high:+.1f}% | 거래량 {p.vol_mult:.1f}배 | 20일 신고가 {'O' if p.new_high else 'X'}\n"
-            f"   VWAP {'위' if p.above_vwap else '아래'} | 13시 이후 고가 유지 {'O' if p.afternoon else 'X'}")
+            f"   VWAP {'위' if p.above_vwap else '아래'} | 13시 이후 고가 유지 {'O' if p.afternoon else 'X'}\n"
+            f"   아버지 기준(참고) 정배열 {ox(p.get('dad_jung'))} | 구름 위 {ox(p.get('dad_cloud'))} | 10%↑ {ox(p.get('dad_10'))}")
+
+
+def ox(v):
+    return "-" if v is None or v != v else ("O" if v else "X")
 
 
 def main():
