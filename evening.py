@@ -155,6 +155,11 @@ def main():
         msg.append(f"(순위 비교 실패: {e})")
     msg.append(streak_note())
     try:
+        import review
+        msg.append(review.daily())
+    except Exception as e:
+        msg.append(f"(자동 복기 실패: {e})")
+    try:
         import swing
         msg.append(swing.evening_section())
     except Exception as e:
