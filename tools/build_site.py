@@ -262,6 +262,89 @@ def trades_wide(t):
     return wide(["종목", "수익률", "산 날", "판 날", "메모"], rows, right=(1,))
 
 
+# ---------- 그래프 (SVG) ----------
+CURVE_KEEP = [("VI 단타", "자동 복기(정식 시간)"), (M15, "모의"), ("종가베팅", "모의(알려준 후보)"), ("종가베팅", "실제"),
+              ("저가매수", "내 5칸"), ("스윙 A", "모의"), ("중기 스윙", "모의"), ("중기 스윙", "실제")]
+LINE_COLORS = ["#5b6ee1", "#e8a317", "#e3120b", "#c4161c", "#3c8d5a", "#16a085", "#8e44ad", "#6c3483"]
+
+
+def curve_svg(t):
+    """매매법별 누적 수익률 (같은 금액 넣었다고 가정, 판 날 순서로 더함)"""
+    if not len(t):
+        return '<p class="empty">아직 끝난 매매가 없어요.</p>'
+    series = []
+    for i, (s_, k) in enumerate(CURVE_KEEP):
+        g = t[(t.매매법 == s_) & (t.구분 == k)].copy()
+        if not len(g):
+            continue
+        g = g.sort_values("판 날")
+        g["cum"] = pd.to_numeric(g["수익률(%)"], errors="coerce").fillna(0).cumsum()
+        series.append((f"{SHOW_NAME.get(s_, s_)} · {k}", LINE_COLORS[i % len(LINE_COLORS)], list(zip(g["판 날"].astype(str), g.cum, g["종목"])),
+                       STATUS.get(s_, "").startswith("테스트")))
+    if not series:
+        return '<p class="empty">아직 끝난 매매가 없어요.</p>'
+    dates = sorted({d for _, _, pts, _ in series for d, _, _ in pts})
+    if len(dates) == 1:
+        dates = [dates[0], dates[0]]
+    vals = [v for _, _, pts, _ in series for _, v, _ in pts] + [0]
+    lo, hi = min(vals), max(vals)
+    pad = (hi - lo) * 0.1 or 1
+    lo, hi = lo - pad, hi + pad
+    W, H, L, R, T, B = 640, 260, 46, 12, 10, 26
+    xi = {d: i for i, d in enumerate(dates)}
+    X = lambda d: L + (W - L - R) * (xi[d] / max(1, len(dates) - 1))
+    Y = lambda v: T + (H - T - B) * (hi - v) / (hi - lo)
+    g = [f'<line x1="{L}" x2="{W - R}" y1="{Y(0):.1f}" y2="{Y(0):.1f}" class="zero"/>']
+    for k in range(5):
+        v = lo + (hi - lo) * k / 4
+        g.append(f'<text x="{L - 6}" y="{Y(v) + 4:.1f}" text-anchor="end">{v:+.0f}%</text>')
+    step = max(1, len(dates) // 6)
+    for d in dates[::step]:
+        g.append(f'<text x="{X(d):.1f}" y="{H - 6}" text-anchor="middle">{int(d[5:7])}/{int(d[8:10])}</text>')
+    legend = []
+    for name, c, pts, test in series:
+        path = " ".join(f"{'M' if j == 0 else 'L'}{X(d):.1f},{Y(v):.1f}" for j, (d, v, _) in enumerate(pts))
+        dash_ = ' stroke-dasharray="5 4"' if test else ""
+        g.append(f'<path d="{path}" fill="none" stroke="{c}" stroke-width="2.2"{dash_}/>')
+        for d, v, nm in pts:
+            g.append(f'<circle cx="{X(d):.1f}" cy="{Y(v):.1f}" r="3.5" fill="{c}"><title>{E(name)} · {d} {E(nm)} · 누적 {v:+.2f}%</title></circle>')
+        legend.append(f'<span><i style="background:{c}"></i>{E(name)}{" (테스트 중, 점선)" if test else ""}</span>')
+    return (f'<div class="legend">{"".join(legend)}</div><div class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="매매법별 누적 수익률">{"".join(g)}</svg></div>'
+            '<p class="sub">끝난 매매의 수익률을 판 날 순서로 더한 값(매매마다 같은 금액 가정). 점을 누르면 종목과 누적값이 나와요.</p>')
+
+
+def market_bars_svg(days):
+    pts = [(d, market(d)) for d in sorted(days)[-30:] if market(d)]
+    if not pts:
+        return ""
+    vals = [fnum(m.get(k)) or 0 for _, m in pts for k in ("kospi", "kosdaq")] + [0]
+    lo, hi = min(vals), max(vals)
+    pad = (hi - lo) * 0.1 or 1
+    lo, hi = lo - pad, hi + pad
+    W, H, L, R, T, B = 640, 220, 40, 8, 8, 26
+    n = len(pts)
+    bw = (W - L - R) / n
+    Y = lambda v: T + (H - T - B) * (hi - v) / (hi - lo)
+    g = [f'<line x1="{L}" x2="{W - R}" y1="{Y(0):.1f}" y2="{Y(0):.1f}" class="zero"/>']
+    for k in range(5):
+        v = lo + (hi - lo) * k / 4
+        g.append(f'<text x="{L - 6}" y="{Y(v) + 4:.1f}" text-anchor="end">{v:+.0f}%</text>')
+    for i, (d, m) in enumerate(pts):
+        x0 = L + i * bw
+        th = (m.get("hot") or m.get("themes") or [{}])[0].get("name", "")
+        ld = (m.get("leaders") or [{}])[0]
+        tip = f'{fmt_d(d)} 코스피 {fnum(m.get("kospi")) or 0:+.2f}% · 코스닥 {fnum(m.get("kosdaq")) or 0:+.2f}% · 1등 테마 {th} · 대장주 {ld.get("name", "-")}'
+        for j, (k, c) in enumerate((("kospi", "var(--slate)"), ("kosdaq", "#e8a317"))):
+            v = fnum(m.get(k)) or 0
+            y0, y1 = sorted((Y(0), Y(v)))
+            g.append(f'<a href="m/{d}.html"><rect x="{x0 + bw * 0.12 + j * bw * 0.38:.1f}" y="{y0:.1f}" width="{bw * 0.36:.1f}" height="{max(1, y1 - y0):.1f}" fill="{c}"><title>{E(tip)}</title></rect></a>')
+        if i % max(1, n // 7) == 0:
+            g.append(f'<text x="{x0 + bw / 2:.1f}" y="{H - 6}" text-anchor="middle">{int(d[4:6])}/{int(d[6:])}</text>')
+    return ('<div class="legend"><span><i style="background:var(--slate)"></i>코스피</span><span><i style="background:#e8a317"></i>코스닥</span></div>'
+            f'<div class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="날짜별 코스피·코스닥 등락">{"".join(g)}</svg></div>'
+            '<p class="sub">막대를 누르면 그날 시장·테마·대장주 페이지가 열려요.</p>')
+
+
 # ---------- 달력 ----------
 def month_cal(ym, days_set, cell, href, week_link=True, tint=None):
     y, m = int(ym[:4]), int(ym[4:])
@@ -391,6 +474,8 @@ details.fold summary::before{content:"▸";color:var(--slate)}details.fold[open]
 details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{margin-top:0}
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:4px;vertical-align:1px;white-space:nowrap}
 .badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
+.chart svg{width:100%;height:auto;display:block}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--mute);margin:4px 0 6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
@@ -436,7 +521,9 @@ def index_page(days, t, h, fm, vi, expect):
     k.append((f"{len(h)}종목", "지금 진행 중<br>(저가매수·스윙·중기)"))
     body += '<div class="kpis">' + "".join(f"<div><b>{a}</b><span>{b}</span></div>" for a, b in k) + "</div>"
     body += '<h2>매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 표는 옆으로 밀어서 보세요.</p>' + strat_rows(t, expect)
+    body += "<h2>누적 수익 흐름</h2>" + curve_svg(t)
     body += "<h2>지금 진행 중</h2>" + holdings(h)
+    body += "<h2>시장 흐름</h2>" + market_bars_svg(days)
     ds = set(days)
     body += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
     body += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days))
@@ -450,6 +537,8 @@ def index_page(days, t, h, fm, vi, expect):
         if not ms:
             body += '<p class="empty">저장된 알림 원문 없음</p>'
         body += f'<p><a href="d/{days[0]}.html">이날 전체 보기 →</a></p>'
+    if len(t):
+        body += f'<h2>최근 끝난 매매</h2><details class="fold"><summary>최근 30건 펼치기 (전체 {len(t)}건)</summary>' + trades_wide(t.head(30)) + "</details>"
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).strftime("%m/%d %H:%M")
     return page("오늘의 알림장", f"마지막 갱신 {now}", body, "처음")
 
@@ -488,7 +577,8 @@ def market_page_day(d, lead):
 
 
 def market_page(days, lead):
-    body = '<p class="sub">날짜마다 코스피(코)·코스닥(닥) 등락과 그날 돈이 가장 몰린 테마예요. 누르면 테마별 상승률과 대장주가 나와요.</p>'
+    body = market_bars_svg(days)
+    body += '<p class="sub">날짜마다 코스피(코)·코스닥(닥) 등락과 그날 돈이 가장 몰린 테마예요. 누르면 테마별 상승률과 대장주가 나와요.</p>'
     body += "".join(month_cal(ym, set(days), lambda d: market_cell(d, lead), lambda d: f"m/{d}.html", week_link=False, tint=mkt_tint) for ym in months(days))
     seen = []
     for d in days[:20]:
