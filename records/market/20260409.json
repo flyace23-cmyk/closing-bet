@@ -1,0 +1,254 @@
+{
+"date": "20260409",
+"kospi": -1.61,
+"kosdaq": -1.27,
+"adv": 796,
+"dec": 1484,
+"flat": 124,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 423109,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 6,
+"lead": "금강철강",
+"lead_ret": 29.98,
+"second": "부국철강",
+"second_ret": 29.85
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "APS이노베이션",
+"lead_ret": 24.6,
+"second": "삼아알미늄",
+"second_ret": 16.11
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "위지트",
+"lead_ret": 19.1,
+"second": "후성",
+"second_ret": 15.76
+}
+],
+"themes": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 5.97,
+"up5": 5,
+"lead": "부국철강",
+"lead_ret": 29.85,
+"second": "하이스틸",
+"second_ret": 13.07
+},
+{
+"name": "철강 중소형",
+"n": 35,
+"avg": 4.62,
+"up5": 11,
+"lead": "금강철강",
+"lead_ret": 29.98,
+"second": "부국철강",
+"second_ret": 29.85
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 4.21,
+"up5": 4,
+"lead": "넥스틸",
+"lead_ret": 14.8,
+"second": "하이스틸",
+"second_ret": 13.07
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.25,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 14.45,
+"second": "엑스플러스",
+"second_ret": 14.18
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.99,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 11.0,
+"second": "코오롱인더",
+"second_ret": 8.04
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.94,
+"up5": 1,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.13,
+"second": "크리스탈신소재",
+"second_ret": 2.18
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.92,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 11.0,
+"second": "코오롱인더",
+"second_ret": 8.04
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 2.64,
+"up5": 2,
+"lead": "한국팩키지",
+"lead_ret": 7.97,
+"second": "에코플라스틱",
+"second_ret": 6.27
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.46,
+"up5": 1,
+"lead": "BGF리테일",
+"lead_ret": 10.63,
+"second": "GS리테일",
+"second_ret": 4.18
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 2.32,
+"up5": 1,
+"lead": "세아제강",
+"lead_ret": 7.4,
+"second": "현대제철",
+"second_ret": 3.57
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.88,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 14.45,
+"second": "인포뱅크",
+"second_ret": 5.06
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.87,
+"up5": 1,
+"lead": "S-Oil",
+"lead_ret": 6.69,
+"second": "위즈코프",
+"second_ret": 4.36
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.52,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": -2.99,
+"second": "삼성전자",
+"second_ret": -3.09
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -3.34,
+"up5": 0,
+"lead": "심텍",
+"lead_ret": 0.59,
+"second": "삼성전기",
+"second_ret": 0.39
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.3,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": 0.62,
+"second": "SBI인베스트먼트",
+"second_ret": -3.2
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": -3.28,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 0.67,
+"second": "HB인베스트먼트",
+"second_ret": 0.25
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.27,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -2.44,
+"second": "KBI메탈",
+"second_ret": -2.81
+}
+],
+"leaders": [
+{
+"name": "광전자",
+"code": "017900",
+"ret": 30.0,
+"value": 4060,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 15.76,
+"value": 2807,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 14.45,
+"value": 2599,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 30.0,
+"value": 2533,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "넥스틸",
+"code": "092790",
+"ret": 14.8,
+"value": 2463,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

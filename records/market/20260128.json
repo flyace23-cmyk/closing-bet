@@ -1,0 +1,254 @@
+{
+"date": "20260128",
+"kospi": 1.69,
+"kosdaq": 4.7,
+"adv": 1253,
+"dec": 1033,
+"flat": 113,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 527856,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "네오셈",
+"lead_ret": 29.94,
+"second": "에프에스티",
+"second_ret": 24.19
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "에스피지",
+"lead_ret": 24.28,
+"second": "TPC로보틱스",
+"second_ret": 20.39
+},
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "육일씨엔에쓰",
+"lead_ret": 29.95,
+"second": "알트",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 6.69,
+"up5": 5,
+"lead": "네오셈",
+"lead_ret": 29.94,
+"second": "오킨스전자",
+"second_ret": 21.42
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 6.63,
+"up5": 12,
+"lead": "태성",
+"lead_ret": 26.69,
+"second": "HPSP",
+"second_ret": 17.18
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.94,
+"up5": 7,
+"lead": "심텍",
+"lead_ret": 13.71,
+"second": "ISC",
+"second_ret": 11.62
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 5.82,
+"up5": 5,
+"lead": "에코프로",
+"lead_ret": 21.82,
+"second": "나인테크",
+"second_ret": 7.72
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 5.56,
+"up5": 35,
+"lead": "네오셈",
+"lead_ret": 29.94,
+"second": "에프에스티",
+"second_ret": 24.19
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.49,
+"up5": 7,
+"lead": "태성",
+"lead_ret": 26.69,
+"second": "심텍",
+"second_ret": 13.71
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.2,
+"up5": 9,
+"lead": "에코프로",
+"lead_ret": 21.82,
+"second": "엔켐",
+"second_ret": 16.29
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 5.04,
+"up5": 5,
+"lead": "에코프로에이치엔",
+"lead_ret": 29.95,
+"second": "에코프로",
+"second_ret": 21.82
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 4.78,
+"up5": 23,
+"lead": "에스앤에스텍",
+"lead_ret": 24.06,
+"second": "아진엑스텍",
+"second_ret": 16.37
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 4.67,
+"up5": 6,
+"lead": "테스",
+"lead_ret": 19.93,
+"second": "코스텍시스",
+"second_ret": 16.74
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 4.62,
+"up5": 7,
+"lead": "에스앤에스텍",
+"lead_ret": 24.06,
+"second": "솔브레인",
+"second_ret": 14.27
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 4.56,
+"up5": 11,
+"lead": "태성",
+"lead_ret": 26.69,
+"second": "심텍",
+"second_ret": 13.71
+}
+],
+"themes_worst": [
+{
+"name": "마이데이터",
+"n": 12,
+"avg": -3.85,
+"up5": 0,
+"lead": "NICE평가정보",
+"lead_ret": 0.47,
+"second": "파이오링크",
+"second_ret": 0.34
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -3.06,
+"up5": 0,
+"lead": "위메이드",
+"lead_ret": 4.38,
+"second": "KG파이낸셜",
+"second_ret": 4.26
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -2.63,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 2.9,
+"second": "NH투자증권",
+"second_ret": 1.22
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.02,
+"up5": 1,
+"lead": "카카오게임즈",
+"lead_ret": 5.39,
+"second": "위메이드",
+"second_ret": 4.38
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.9,
+"up5": 1,
+"lead": "카페24",
+"lead_ret": 10.21,
+"second": "KG파이낸셜",
+"second_ret": 4.26
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 21.82,
+"value": 28498,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 24.28,
+"value": 5167,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 14.96,
+"value": 4673,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 15.3,
+"value": 4394,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 17.18,
+"value": 3366,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

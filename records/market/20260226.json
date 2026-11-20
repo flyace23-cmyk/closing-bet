@@ -1,0 +1,254 @@
+{
+"date": "20260226",
+"kospi": 3.67,
+"kosdaq": 1.97,
+"adv": 597,
+"dec": 1726,
+"flat": 76,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 552487,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "한미반도체",
+"lead_ret": 28.44,
+"second": "에스티아이",
+"second_ret": 19.65
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 4,
+"lead": "아이엘",
+"lead_ret": 24.8,
+"second": "LG이노텍",
+"second_ret": 20.0
+},
+{
+"name": "전력반도체",
+"n": 3,
+"lead": "코스텍시스",
+"lead_ret": 25.07,
+"second": "에스티아이",
+"second_ret": 19.65
+}
+],
+"themes": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 7.14,
+"up5": 5,
+"lead": "LG전자",
+"lead_ret": 10.05,
+"second": "SK하이닉스",
+"second_ret": 7.96
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 6.34,
+"up5": 17,
+"lead": "펨트론",
+"lead_ret": 29.84,
+"second": "한미반도체",
+"second_ret": 28.44
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 5.94,
+"up5": 9,
+"lead": "코스텍시스",
+"lead_ret": 25.07,
+"second": "에스티아이",
+"second_ret": 19.65
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.89,
+"up5": 4,
+"lead": "펨트론",
+"lead_ret": 29.84,
+"second": "SK하이닉스",
+"second_ret": 7.96
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.69,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 29.81,
+"second": "삼성바이오로직스",
+"second_ret": 2.2
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.33,
+"up5": 5,
+"lead": "상상인증권",
+"lead_ret": 29.94,
+"second": "SK증권",
+"second_ret": 18.99
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 4.26,
+"up5": 36,
+"lead": "펨트론",
+"lead_ret": 29.84,
+"second": "엔투텍",
+"second_ret": 29.81
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 4.11,
+"up5": 4,
+"lead": "LG이노텍",
+"lead_ret": 20.0,
+"second": "아모센스",
+"second_ret": 13.78
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.05,
+"up5": 4,
+"lead": "현대모비스",
+"lead_ret": 12.67,
+"second": "현대차",
+"second_ret": 6.47
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.97,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 14.86,
+"second": "현대건설",
+"second_ret": 4.38
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.82,
+"up5": 5,
+"lead": "이오테크닉스",
+"lead_ret": 12.57,
+"second": "기가레인",
+"second_ret": 12.33
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.54,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 7.96,
+"second": "삼성전자",
+"second_ret": 7.13
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -4.54,
+"up5": 0,
+"lead": "대림제지",
+"lead_ret": 0.2,
+"second": "한국수출포장",
+"second_ret": 0.0
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -3.59,
+"up5": 0,
+"lead": "동우팜투테이블",
+"lead_ret": -1.26,
+"second": "푸드나무",
+"second_ret": -2.15
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -3.52,
+"up5": 0,
+"lead": "엘엠에스",
+"lead_ret": -0.18,
+"second": "에스엠국일",
+"second_ret": -0.61
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -3.39,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 0.49,
+"second": "이마트",
+"second_ret": -2.03
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -3.12,
+"up5": 0,
+"lead": "와이엔텍",
+"lead_ret": -1.19,
+"second": "한솔홀딩스",
+"second_ret": -2.51
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 28.44,
+"value": 16536,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 16.55,
+"value": 13286,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 14.86,
+"value": 7779,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "SK증권",
+"code": "001510",
+"ret": 18.99,
+"value": 7612,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "페니트리움바이오",
+"code": "187660",
+"ret": 19.14,
+"value": 7238,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260814",
+"kospi": 2.42,
+"kosdaq": 0.38,
+"adv": 1426,
+"dec": 871,
+"flat": 117,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 337596,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "디아이씨",
+"lead_ret": 25.33,
+"second": "네오오토",
+"second_ret": 20.18
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "디아이씨",
+"lead_ret": 25.33,
+"second": "한라캐스트",
+"second_ret": 16.25
+},
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "빙그레",
+"lead_ret": 19.94,
+"second": "더본코리아",
+"second_ret": 12.78
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.58,
+"up5": 4,
+"lead": "한화손해보험",
+"lead_ret": 9.05,
+"second": "DB손해보험",
+"second_ret": 6.12
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.07,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 25.33,
+"second": "삼성SDI",
+"second_ret": 5.95
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.76,
+"up5": 4,
+"lead": "아이에이",
+"lead_ret": 16.6,
+"second": "모트렉스",
+"second_ret": 7.71
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.72,
+"up5": 2,
+"lead": "현대차",
+"lead_ret": 8.24,
+"second": "현대모비스",
+"second_ret": 7.05
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.69,
+"up5": 4,
+"lead": "엔키AX",
+"lead_ret": 17.76,
+"second": "NHN",
+"second_ret": 11.99
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.69,
+"up5": 3,
+"lead": "GS",
+"lead_ret": 8.94,
+"second": "SK가스",
+"second_ret": 7.02
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.69,
+"up5": 3,
+"lead": "GS",
+"lead_ret": 8.94,
+"second": "SK가스",
+"second_ret": 7.02
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.64,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 5.95,
+"second": "LG전자",
+"second_ret": 4.12
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.63,
+"up5": 2,
+"lead": "GS",
+"lead_ret": 8.94,
+"second": "SK이노베이션",
+"second_ret": 5.75
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 3.42,
+"up5": 10,
+"lead": "한라캐스트",
+"lead_ret": 16.25,
+"second": "한국피아이엠",
+"second_ret": 15.24
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 3.21,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 5.62,
+"second": "대한조선",
+"second_ret": 5.6
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.12,
+"up5": 2,
+"lead": "새빗켐",
+"lead_ret": 29.95,
+"second": "성일하이텍",
+"second_ret": 8.78
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -2.33,
+"up5": 0,
+"lead": "대한광통신",
+"lead_ret": 0.98,
+"second": "머큐리",
+"second_ret": 0.98
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -1.6,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 8.5,
+"second": "SFA",
+"second_ret": 5.14
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -1.3,
+"up5": 1,
+"lead": "케이에스피",
+"lead_ret": 6.39,
+"second": "화성밸브",
+"second_ret": 1.09
+},
+{
+"name": "통신장비",
+"n": 47,
+"avg": -1.04,
+"up5": 3,
+"lead": "유비쿼스",
+"lead_ret": 9.82,
+"second": "기산텔레콤",
+"second_ret": 8.02
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -0.87,
+"up5": 1,
+"lead": "엔젯",
+"lead_ret": 10.34,
+"second": "POSCO홀딩스",
+"second_ret": 2.61
+}
+],
+"leaders": [
+{
+"name": "SK텔레콤",
+"code": "017670",
+"ret": 10.32,
+"value": 3118,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "코오롱티슈진",
+"code": "950160",
+"ret": 11.52,
+"value": 2798,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 10.67,
+"value": 2736,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "한라캐스트",
+"code": "125490",
+"ret": 16.25,
+"value": 2341,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 13.74,
+"value": 900,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

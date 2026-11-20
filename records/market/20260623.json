@@ -1,0 +1,246 @@
+{
+"date": "20260623",
+"kospi": -9.99,
+"kosdaq": -7.94,
+"adv": 132,
+"dec": 2224,
+"flat": 52,
+"limit_up": 12,
+"limit_down": 1,
+"value_total": 644195,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "부국철강",
+"lead_ret": 29.93,
+"second": "동일스틸럭스",
+"second_ret": 7.45
+},
+{
+"name": "시멘트/레미콘",
+"n": 3,
+"lead": "모헨즈",
+"lead_ret": 30.0,
+"second": "서산",
+"second_ret": 29.92
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.22,
+"up5": 2,
+"lead": "동양고속",
+"lead_ret": 18.52,
+"second": "천일고속",
+"second_ret": 12.91
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.8,
+"up5": 3,
+"lead": "모헨즈",
+"lead_ret": 30.0,
+"second": "서산",
+"second_ret": 29.92
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 1.22,
+"up5": 2,
+"lead": "보해양조",
+"lead_ret": 29.91,
+"second": "국순당",
+"second_ret": 20.85
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.13,
+"up5": 1,
+"lead": "BGF리테일",
+"lead_ret": 8.15,
+"second": "GS리테일",
+"second_ret": 3.62
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -1.13,
+"up5": 3,
+"lead": "비비안",
+"lead_ret": 29.95,
+"second": "보해양조",
+"second_ret": 29.91
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.26,
+"up5": 1,
+"lead": "부국철강",
+"lead_ret": 29.93,
+"second": "문배철강",
+"second_ret": 4.33
+},
+{
+"name": "은행",
+"n": 11,
+"avg": -1.47,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 3.96,
+"second": "신한지주",
+"second_ret": 0.21
+},
+{
+"name": "여름",
+"n": 28,
+"avg": -1.82,
+"up5": 2,
+"lead": "보해양조",
+"lead_ret": 29.91,
+"second": "동우팜투테이블",
+"second_ret": 13.72
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -1.86,
+"up5": 1,
+"lead": "동우팜투테이블",
+"lead_ret": 13.72,
+"second": "대산F&B",
+"second_ret": 0.0
+},
+{
+"name": "건강기능식품",
+"n": 42,
+"avg": -2.09,
+"up5": 3,
+"lead": "경남제약",
+"lead_ret": 29.75,
+"second": "비엘팜텍",
+"second_ret": 23.77
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": -2.27,
+"up5": 2,
+"lead": "비비안",
+"lead_ret": 29.95,
+"second": "조아제약",
+"second_ret": 29.89
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.28,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 3.1,
+"second": "대한화섬",
+"second_ret": -0.54
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -12.25,
+"up5": 0,
+"lead": "한울반도체",
+"lead_ret": 0.22,
+"second": "원준",
+"second_ret": -8.77
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -11.47,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -8.76,
+"second": "오픈엣지테크놀로지",
+"second_ret": -8.95
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -11.13,
+"up5": 0,
+"lead": "노타",
+"lead_ret": -6.95,
+"second": "아이언디바이스",
+"second_ret": -7.9
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -10.67,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -0.97,
+"second": "GS건설",
+"second_ret": -9.39
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -10.45,
+"up5": 0,
+"lead": "기가비스",
+"lead_ret": -1.19,
+"second": "티엘비",
+"second_ret": -6.43
+}
+],
+"leaders": [
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 13.74,
+"value": 2125,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 21.54,
+"value": 1367,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "부국철강",
+"code": "026940",
+"ret": 29.93,
+"value": 913,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "보해양조",
+"code": "000890",
+"ret": 29.91,
+"value": 540,
+"theme": "주류업(주정, 에탄올 등)",
+"reason": "테마: 주류업(주정, 에탄올 등)"
+},
+{
+"name": "동양고속",
+"code": "084670",
+"ret": 18.52,
+"value": 481,
+"theme": "서울고속버스터미널 재개발 수혜",
+"reason": "테마: 서울고속버스터미널 재개발 수혜"
+}
+],
+"backfilled": true
+}

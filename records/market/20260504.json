@@ -1,0 +1,254 @@
+{
+"date": "20260504",
+"kospi": 5.12,
+"kosdaq": 1.79,
+"adv": 1074,
+"dec": 1148,
+"flat": 182,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 578215,
+"hot": [
+{
+"name": "전력설비",
+"n": 9,
+"lead": "KBI메탈",
+"lead_ret": 30.0,
+"second": "제룡전기",
+"second_ret": 29.97
+},
+{
+"name": "통신장비",
+"n": 4,
+"lead": "LS마린솔루션",
+"lead_ret": 29.88,
+"second": "에치에프알",
+"second_ret": 24.07
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "PS일렉트로닉스",
+"lead_ret": 29.9,
+"second": "LS마린솔루션",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 17.03,
+"up5": 7,
+"lead": "KBI메탈",
+"lead_ret": 30.0,
+"second": "LS마린솔루션",
+"second_ret": 29.88
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 11.4,
+"up5": 21,
+"lead": "KBI메탈",
+"lead_ret": 30.0,
+"second": "제룡전기",
+"second_ret": 29.97
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 10.3,
+"up5": 11,
+"lead": "서울바이오시스",
+"lead_ret": 29.98,
+"second": "머큐리",
+"second_ret": 19.52
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 9.92,
+"up5": 6,
+"lead": "SK스퀘어",
+"lead_ret": 17.84,
+"second": "SK하이닉스",
+"second_ret": 12.52
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 8.75,
+"up5": 5,
+"lead": "LS마린솔루션",
+"lead_ret": 29.88,
+"second": "LS",
+"second_ret": 12.36
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 6.87,
+"up5": 13,
+"lead": "삼성증권",
+"lead_ret": 28.28,
+"second": "유안타증권",
+"second_ret": 14.86
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 5.76,
+"up5": 7,
+"lead": "일진홀딩스",
+"lead_ret": 29.94,
+"second": "서전기전",
+"second_ret": 29.93
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 5.54,
+"up5": 19,
+"lead": "LS마린솔루션",
+"lead_ret": 29.88,
+"second": "에치에프알",
+"second_ret": 24.07
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 5.29,
+"up5": 7,
+"lead": "퀄리타스반도체",
+"lead_ret": 17.76,
+"second": "SK하이닉스",
+"second_ret": 12.52
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 5.26,
+"up5": 13,
+"lead": "오로스테크놀로지",
+"lead_ret": 30.0,
+"second": "미래반도체",
+"second_ret": 25.27
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 23,
+"avg": 5.18,
+"up5": 9,
+"lead": "아이엘",
+"lead_ret": 21.92,
+"second": "보성파워텍",
+"second_ret": 18.79
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.81,
+"up5": 4,
+"lead": "자람테크놀로지",
+"lead_ret": 10.96,
+"second": "오픈엣지테크놀로지",
+"second_ret": 6.6
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -3.52,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 0.0,
+"second": "스페코",
+"second_ret": -0.85
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.09,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": -0.44,
+"second": "유니온머티리얼",
+"second_ret": -1.24
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.05,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 1.27,
+"second": "SK이노베이션",
+"second_ret": -0.34
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.05,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 1.27,
+"second": "SK이노베이션",
+"second_ret": -0.34
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.87,
+"up5": 1,
+"lead": "삼성물산",
+"lead_ret": 7.2,
+"second": "현대건설",
+"second_ret": -1.48
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 12.52,
+"value": 83588,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 16.83,
+"value": 14818,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 17.84,
+"value": 14592,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 10.34,
+"value": 7956,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 15.28,
+"value": 7135,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

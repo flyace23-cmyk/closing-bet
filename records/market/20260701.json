@@ -1,0 +1,254 @@
+{
+"date": "20260701",
+"kospi": -2.04,
+"kosdaq": 1.44,
+"adv": 1743,
+"dec": 585,
+"flat": 82,
+"limit_up": 21,
+"limit_down": 1,
+"value_total": 494923,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 6,
+"lead": "동신건설",
+"lead_ret": 30.0,
+"second": "남화토건",
+"second_ret": 29.96
+},
+{
+"name": "전력설비",
+"n": 5,
+"lead": "대원전선",
+"lead_ret": 29.97,
+"second": "KBI메탈",
+"second_ret": 29.88
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 4,
+"lead": "금호건설",
+"lead_ret": 29.94,
+"second": "유진기업",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 17.46,
+"up5": 8,
+"lead": "대원전선",
+"lead_ret": 29.97,
+"second": "KBI메탈",
+"second_ret": 29.88
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 12.8,
+"up5": 21,
+"lead": "동신건설",
+"lead_ret": 30.0,
+"second": "남화토건",
+"second_ret": 29.96
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 10.4,
+"up5": 12,
+"lead": "비나텍",
+"lead_ret": 29.92,
+"second": "아모센스",
+"second_ret": 20.0
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 10.3,
+"up5": 8,
+"lead": "HC보광산업",
+"lead_ret": 30.0,
+"second": "유진기업",
+"second_ret": 29.93
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 9.95,
+"up5": 21,
+"lead": "대원전선",
+"lead_ret": 29.97,
+"second": "KBI메탈",
+"second_ret": 29.88
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 9.57,
+"up5": 3,
+"lead": "HC보광산업",
+"lead_ret": 30.0,
+"second": "유진기업",
+"second_ret": 29.93
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 9.47,
+"up5": 12,
+"lead": "금호건설",
+"lead_ret": 29.94,
+"second": "유진기업",
+"second_ret": 29.93
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 7.4,
+"up5": 6,
+"lead": "세명전기",
+"lead_ret": 12.78,
+"second": "특수건설",
+"second_ret": 12.52
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 6.75,
+"up5": 5,
+"lead": "한양이엔지",
+"lead_ret": 26.52,
+"second": "아모텍",
+"second_ret": 22.77
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 5.98,
+"up5": 22,
+"lead": "한양이엔지",
+"lead_ret": 26.52,
+"second": "GS건설",
+"second_ret": 19.92
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 5.93,
+"up5": 6,
+"lead": "GS건설",
+"lead_ret": 19.92,
+"second": "덕신이피씨",
+"second_ret": 15.37
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 5.77,
+"up5": 3,
+"lead": "소마젠",
+"lead_ret": 18.21,
+"second": "엔투텍",
+"second_ret": 8.29
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.6,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 3.54,
+"second": "삼성전기",
+"second_ret": 0.96
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.17,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 3.46,
+"second": "삼성SDI",
+"second_ret": 0.82
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -1.86,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 1.94,
+"second": "세코닉스",
+"second_ret": 1.3
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.49,
+"up5": 1,
+"lead": "메가터치",
+"lead_ret": 6.79,
+"second": "나인테크",
+"second_ret": 4.86
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -1.47,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 1.64,
+"second": "흥국화재",
+"second_ret": 1.58
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 20.4,
+"value": 15977,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 14.89,
+"value": 9098,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 10.71,
+"value": 5453,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 15.16,
+"value": 5072,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 29.97,
+"value": 4289,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

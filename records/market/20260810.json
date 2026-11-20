@@ -1,0 +1,254 @@
+{
+"date": "20260810",
+"kospi": 0.65,
+"kosdaq": 6.97,
+"adv": 1962,
+"dec": 356,
+"flat": 94,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 256640,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "비츠로넥스텍",
+"lead_ret": 29.93,
+"second": "센서뷰",
+"second_ret": 17.65
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "티씨케이",
+"lead_ret": 20.74,
+"second": "저스템",
+"second_ret": 18.09
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 3,
+"lead": "대한광통신",
+"lead_ret": 22.51,
+"second": "성호전자",
+"second_ret": 19.99
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 10.3,
+"up5": 11,
+"lead": "대한광통신",
+"lead_ret": 22.51,
+"second": "성호전자",
+"second_ret": 19.99
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 9.17,
+"up5": 12,
+"lead": "센서뷰",
+"lead_ret": 17.65,
+"second": "미래에셋벤처투자",
+"second_ret": 15.22
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 37,
+"avg": 8.75,
+"up5": 26,
+"lead": "비츠로넥스텍",
+"lead_ret": 29.93,
+"second": "LK삼양",
+"second_ret": 29.92
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 8.32,
+"up5": 8,
+"lead": "티씨케이",
+"lead_ret": 20.74,
+"second": "주성엔지니어링",
+"second_ret": 13.3
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 8.05,
+"up5": 51,
+"lead": "제이아이테크",
+"lead_ret": 26.58,
+"second": "피엠티",
+"second_ret": 22.99
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 7.8,
+"up5": 4,
+"lead": "비츠로넥스텍",
+"lead_ret": 29.93,
+"second": "일진파워",
+"second_ret": 8.94
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 7.64,
+"up5": 10,
+"lead": "엘티씨",
+"lead_ret": 15.89,
+"second": "비에이치아이",
+"second_ret": 12.42
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 7.54,
+"up5": 69,
+"lead": "티씨케이",
+"lead_ret": 20.74,
+"second": "저스템",
+"second_ret": 18.09
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 7.51,
+"up5": 4,
+"lead": "윙입푸드",
+"lead_ret": 29.99,
+"second": "크리스탈신소재",
+"second_ret": 29.93
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.41,
+"up5": 9,
+"lead": "심텍홀딩스",
+"lead_ret": 20.55,
+"second": "태성",
+"second_ret": 17.2
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 7.29,
+"up5": 29,
+"lead": "케이씨텍",
+"lead_ret": 11.97,
+"second": "에스티아이",
+"second_ret": 11.82
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 7.29,
+"up5": 7,
+"lead": "메가터치",
+"lead_ret": 16.27,
+"second": "더블유씨피",
+"second_ret": 10.16
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 11,
+"avg": -1.66,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 1.09,
+"second": "케이뱅크",
+"second_ret": 0.72
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -1.4,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.6,
+"second": "흥아해운",
+"second_ret": 0.36
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -0.62,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 3.1,
+"second": "넥센",
+"second_ret": 1.13
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -0.44,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 5.6,
+"second": "LG전자",
+"second_ret": 2.7
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 0.08,
+"up5": 0,
+"lead": "베뉴지",
+"lead_ret": 4.46,
+"second": "골프존홀딩스",
+"second_ret": 2.74
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 22.51,
+"value": 6191,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 16.31,
+"value": 4271,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 14.1,
+"value": 3596,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 13.3,
+"value": 2309,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "GS건설",
+"code": "006360",
+"ret": 10.27,
+"value": 1712,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+}
+],
+"backfilled": true
+}

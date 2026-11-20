@@ -1,0 +1,254 @@
+{
+"date": "20260204",
+"kospi": 1.57,
+"kosdaq": 0.45,
+"adv": 1627,
+"dec": 681,
+"flat": 91,
+"limit_up": 19,
+"limit_down": 0,
+"value_total": 428358,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 7,
+"lead": "한화솔루션",
+"lead_ret": 29.95,
+"second": "파루",
+"second_ret": 29.95
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 5,
+"lead": "선익시스템",
+"lead_ret": 30.0,
+"second": "한화솔루션",
+"second_ret": 29.95
+},
+{
+"name": "부동산 보유 자산주",
+"n": 5,
+"lead": "SG세계물산",
+"lead_ret": 30.0,
+"second": "하림지주",
+"second_ret": 29.95
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 18.13,
+"up5": 9,
+"lead": "선익시스템",
+"lead_ret": 30.0,
+"second": "한화솔루션",
+"second_ret": 29.95
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 12.5,
+"up5": 3,
+"lead": "대성산업",
+"lead_ret": 29.94,
+"second": "동양고속",
+"second_ret": 19.9
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 10.75,
+"up5": 13,
+"lead": "SG세계물산",
+"lead_ret": 30.0,
+"second": "하림지주",
+"second_ret": 29.95
+},
+{
+"name": "태양광에너지",
+"n": 43,
+"avg": 7.66,
+"up5": 19,
+"lead": "한화솔루션",
+"lead_ret": 29.95,
+"second": "파루",
+"second_ret": 29.95
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 6.87,
+"up5": 3,
+"lead": "팜스코",
+"lead_ret": 30.0,
+"second": "미래에셋벤처투자",
+"second_ret": 13.12
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 6.29,
+"up5": 2,
+"lead": "비엘팜텍",
+"lead_ret": 29.94,
+"second": "대성산업",
+"second_ret": 29.94
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.09,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 29.94,
+"second": "E1",
+"second_ret": 5.01
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.09,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 29.94,
+"second": "E1",
+"second_ret": 5.01
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 5.37,
+"up5": 4,
+"lead": "DB손해보험",
+"lead_ret": 8.29,
+"second": "흥국화재",
+"second_ret": 7.6
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 5.13,
+"up5": 13,
+"lead": "제룡전기",
+"lead_ret": 26.76,
+"second": "한전산업",
+"second_ret": 20.51
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.97,
+"up5": 4,
+"lead": "대한전선",
+"lead_ret": 8.77,
+"second": "LS",
+"second_ret": 8.12
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.81,
+"up5": 2,
+"lead": "한화갤러리아",
+"lead_ret": 11.47,
+"second": "롯데쇼핑",
+"second_ret": 6.56
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 16,
+"avg": -1.72,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 0.59,
+"second": "대동금속",
+"second_ret": 0.53
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -1.06,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": 2.14,
+"second": "하이비젼시스템",
+"second_ret": 1.61
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.71,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 0.88,
+"second": "삼성바이오로직스",
+"second_ret": 0.57
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -0.69,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": 2.18,
+"second": "코나아이",
+"second_ret": 0.17
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -0.63,
+"up5": 0,
+"lead": "메디톡스",
+"lead_ret": 1.37,
+"second": "휴메딕스",
+"second_ret": 1.06
+}
+],
+"leaders": [
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 29.95,
+"value": 11460,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 12.19,
+"value": 3284,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 13.67,
+"value": 2429,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "리브스메드",
+"code": "491000",
+"ret": 17.16,
+"value": 2419,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 29.94,
+"value": 2319,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+}
+],
+"backfilled": true
+}

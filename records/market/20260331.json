@@ -1,0 +1,254 @@
+{
+"date": "20260331",
+"kospi": -4.26,
+"kosdaq": -4.94,
+"adv": 289,
+"dec": 2063,
+"flat": 51,
+"limit_up": 8,
+"limit_down": 2,
+"value_total": 383125,
+"hot": [
+{
+"name": "비철금속",
+"n": 6,
+"lead": "조일알미늄",
+"lead_ret": 29.97,
+"second": "남선알미늄",
+"second_ret": 29.96
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "남선알미늄",
+"lead_ret": 29.96,
+"second": "모티브링크",
+"second_ret": 29.88
+},
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "강원에너지",
+"lead_ret": 26.29,
+"second": "삼미금속",
+"second_ret": 12.4
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 9.32,
+"up5": 3,
+"lead": "흥아해운",
+"lead_ret": 29.85,
+"second": "STX그린로지스",
+"second_ret": 18.18
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 5.63,
+"up5": 8,
+"lead": "조일알미늄",
+"lead_ret": 29.97,
+"second": "남선알미늄",
+"second_ret": 29.96
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 1.81,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 29.98,
+"second": "손오공",
+"second_ret": -1.17
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 0.65,
+"up5": 3,
+"lead": "리튬포어스",
+"lead_ret": 29.98,
+"second": "강원에너지",
+"second_ret": 26.29
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 0.14,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": 3.51,
+"second": "우양",
+"second_ret": 1.97
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 0.11,
+"up5": 1,
+"lead": "멕아이씨에스",
+"lead_ret": 29.83,
+"second": "경동제약",
+"second_ret": -0.55
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 0.1,
+"up5": 0,
+"lead": "한선엔지니어링",
+"lead_ret": 4.06,
+"second": "성광벤드",
+"second_ret": 3.08
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": -0.02,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 18.18,
+"second": "동방",
+"second_ret": 2.88
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -0.11,
+"up5": 1,
+"lead": "대한조선",
+"lead_ret": 5.41,
+"second": "한화오션",
+"second_ret": 1.69
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -0.39,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 10.45,
+"second": "앤씨앤",
+"second_ret": 1.95
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -0.67,
+"up5": 1,
+"lead": "한국주강",
+"lead_ret": 9.4,
+"second": "대성하이텍",
+"second_ret": 3.01
+},
+{
+"name": "철강 중소형",
+"n": 35,
+"avg": -0.69,
+"up5": 2,
+"lead": "MH머트리얼즈",
+"lead_ret": 5.38,
+"second": "한일철강",
+"second_ret": 5.21
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -10.24,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -2.02,
+"second": "삼륭물산",
+"second_ret": -4.85
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -10.11,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -1.92,
+"second": "자람테크놀로지",
+"second_ret": -2.81
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": -7.15,
+"up5": 0,
+"lead": "센서뷰",
+"lead_ret": 3.49,
+"second": "서진시스템",
+"second_ret": 1.19
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 5,
+"avg": -6.64,
+"up5": 0,
+"lead": "지에프아이",
+"lead_ret": -0.79,
+"second": "케이뱅크",
+"second_ret": -1.81
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -6.41,
+"up5": 0,
+"lead": "센서뷰",
+"lead_ret": 3.49,
+"second": "미래에셋증권",
+"second_ret": -1.75
+}
+],
+"leaders": [
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 29.85,
+"value": 9730,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 29.96,
+"value": 1640,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "삼아알미늄",
+"code": "006110",
+"ret": 29.89,
+"value": 1531,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "알루코",
+"code": "001780",
+"ret": 23.78,
+"value": 1476,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 29.97,
+"value": 1223,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

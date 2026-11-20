@@ -1,0 +1,254 @@
+{
+"date": "20260615",
+"kospi": 5.2,
+"kosdaq": 0.48,
+"adv": 1518,
+"dec": 785,
+"flat": 105,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 503998,
+"hot": [
+{
+"name": "전기차",
+"n": 4,
+"lead": "삼화전자",
+"lead_ret": 29.8,
+"second": "한온시스템",
+"second_ret": 20.85
+},
+{
+"name": "탈모 치료",
+"n": 4,
+"lead": "삼익제약",
+"lead_ret": 29.85,
+"second": "현대약품",
+"second_ret": 29.84
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "HPSP",
+"lead_ret": 16.78,
+"second": "LG이노텍",
+"second_ret": 16.7
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 14.18,
+"up5": 9,
+"lead": "티웨이홀딩스",
+"lead_ret": 29.77,
+"second": "제주항공",
+"second_ret": 18.66
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 9.32,
+"up5": 4,
+"lead": "삼성전기",
+"lead_ret": 16.63,
+"second": "삼성물산",
+"second_ret": 14.58
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 7.27,
+"up5": 5,
+"lead": "HD현대중공업",
+"lead_ret": 9.85,
+"second": "한화오션",
+"second_ret": 9.49
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 7.23,
+"up5": 5,
+"lead": "한온시스템",
+"lead_ret": 20.85,
+"second": "HL만도",
+"second_ret": 8.62
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 6.93,
+"up5": 10,
+"lead": "JW신약",
+"lead_ret": 29.94,
+"second": "삼익제약",
+"second_ret": 29.85
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.63,
+"up5": 3,
+"lead": "네패스아크",
+"lead_ret": 14.26,
+"second": "네패스",
+"second_ret": 9.95
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 6.38,
+"up5": 6,
+"lead": "삼성전기",
+"lead_ret": 16.63,
+"second": "한켐",
+"second_ret": 12.98
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 10,
+"avg": 5.59,
+"up5": 4,
+"lead": "코스모로보틱스",
+"lead_ret": 29.85,
+"second": "마키나락스",
+"second_ret": 16.93
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 5.44,
+"up5": 5,
+"lead": "한선엔지니어링",
+"lead_ret": 9.53,
+"second": "성광벤드",
+"second_ret": 9.48
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 5.4,
+"up5": 5,
+"lead": "LS에코에너지",
+"lead_ret": 10.23,
+"second": "LS",
+"second_ret": 8.54
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.85,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 17.62,
+"second": "성우전자",
+"second_ret": 4.6
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.62,
+"up5": 4,
+"lead": "한국앤컴퍼니",
+"lead_ret": 12.27,
+"second": "금호석유화학",
+"second_ret": 9.33
+}
+],
+"themes_worst": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -5.66,
+"up5": 1,
+"lead": "LG에너지솔루션",
+"lead_ret": 5.13,
+"second": "이녹스첨단소재",
+"second_ret": 1.04
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -2.13,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 7.2,
+"second": "오르비텍",
+"second_ret": 4.92
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.86,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 4.44,
+"second": "이씨에스",
+"second_ret": 1.95
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": -1.62,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 4.44,
+"second": "우리기술투자",
+"second_ret": 4.2
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.56,
+"up5": 0,
+"lead": "삼양패키징",
+"lead_ret": 0.98,
+"second": "에코플라스틱",
+"second_ret": 0.87
+}
+],
+"leaders": [
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 16.63,
+"value": 29934,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 16.78,
+"value": 27907,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "LG이노텍",
+"code": "011070",
+"ret": 16.7,
+"value": 6560,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 13.6,
+"value": 5286,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 15.73,
+"value": 4871,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

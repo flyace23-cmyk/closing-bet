@@ -1,0 +1,254 @@
+{
+"date": "20261013",
+"kospi": -5.46,
+"kosdaq": -1.43,
+"adv": 744,
+"dec": 1608,
+"flat": 69,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 345394,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 9,
+"lead": "에스티아이",
+"lead_ret": 13.43,
+"second": "피에스케이홀딩스",
+"second_ret": 9.73
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "안랩",
+"lead_ret": 11.45,
+"second": "샌즈랩",
+"second_ret": 6.57
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "야스",
+"lead_ret": 20.23,
+"second": "티에스이",
+"second_ret": 6.54
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.56,
+"up5": 1,
+"lead": "야스",
+"lead_ret": 20.23,
+"second": "대주전자재료",
+"second_ret": 3.39
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.23,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 11.82,
+"second": "유니온",
+"second_ret": 1.05
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.9,
+"up5": 2,
+"lead": "서산",
+"lead_ret": 29.88,
+"second": "HC보광산업",
+"second_ret": 10.39
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.5,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 10.71,
+"second": "파루",
+"second_ret": 3.92
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.46,
+"up5": 1,
+"lead": "이렘",
+"lead_ret": 22.38,
+"second": "하이스틸",
+"second_ret": 1.71
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 1.46,
+"up5": 2,
+"lead": "동일기연",
+"lead_ret": 13.19,
+"second": "다산솔루에타",
+"second_ret": 8.95
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.01,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 8.72,
+"second": "서울보증보험",
+"second_ret": 1.55
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 0.74,
+"up5": 1,
+"lead": "가온전선",
+"lead_ret": 5.64,
+"second": "LS에코에너지",
+"second_ret": 2.36
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.69,
+"up5": 0,
+"lead": "마니커에프앤지",
+"lead_ret": 3.51,
+"second": "마니커",
+"second_ret": 2.24
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 0.57,
+"up5": 2,
+"lead": "네오티스",
+"lead_ret": 11.4,
+"second": "인텍플러스",
+"second_ret": 7.87
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 0.57,
+"up5": 2,
+"lead": "티에스이",
+"lead_ret": 6.54,
+"second": "주성엔지니어링",
+"second_ret": 5.6
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 0.52,
+"up5": 10,
+"lead": "에스티아이",
+"lead_ret": 13.43,
+"second": "더코디",
+"second_ret": 11.27
+}
+],
+"themes_worst": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -7.38,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": -0.57,
+"second": "신세계",
+"second_ret": -2.32
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -7.24,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -3.98,
+"second": "삼성물산",
+"second_ret": -4.18
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 12,
+"avg": -3.71,
+"up5": 0,
+"lead": "레메디",
+"lead_ret": -1.57,
+"second": "진코스텍",
+"second_ret": -1.96
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -3.39,
+"up5": 0,
+"lead": "네패스아크",
+"lead_ret": 1.58,
+"second": "네패스",
+"second_ret": -1.46
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -3.31,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 1.71,
+"second": "삼성SDI",
+"second_ret": 0.71
+}
+],
+"leaders": [
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 12.99,
+"value": 1505,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "서산",
+"code": "079650",
+"ret": 29.88,
+"value": 927,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 11.45,
+"value": 440,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "HLB바이오스텝",
+"code": "278650",
+"ret": 12.05,
+"value": 393,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "삼화전기",
+"code": "009470",
+"ret": 17.66,
+"value": 204,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

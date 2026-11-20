@@ -1,0 +1,254 @@
+{
+"date": "20260916",
+"kospi": 1.37,
+"kosdaq": 0.44,
+"adv": 873,
+"dec": 1446,
+"flat": 99,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 224319,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 10,
+"lead": "기가레인",
+"lead_ret": 28.69,
+"second": "센서뷰",
+"second_ret": 16.27
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 5,
+"lead": "빛샘전자",
+"lead_ret": 29.52,
+"second": "대한광통신",
+"second_ret": 13.34
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "카티스",
+"lead_ret": 21.99,
+"second": "센서뷰",
+"second_ret": 16.27
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 6.17,
+"up5": 8,
+"lead": "빛샘전자",
+"lead_ret": 29.52,
+"second": "대한광통신",
+"second_ret": 13.34
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 5.25,
+"up5": 4,
+"lead": "아모센스",
+"lead_ret": 28.93,
+"second": "한선엔지니어링",
+"second_ret": 24.42
+},
+{
+"name": "통신장비",
+"n": 47,
+"avg": 4.37,
+"up5": 16,
+"lead": "에이스테크",
+"lead_ret": 30.04,
+"second": "빛샘전자",
+"second_ret": 29.52
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.05,
+"up5": 2,
+"lead": "기가레인",
+"lead_ret": 28.69,
+"second": "탑엔지니어링",
+"second_ret": 5.97
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 3.08,
+"up5": 15,
+"lead": "에이스테크",
+"lead_ret": 30.04,
+"second": "기가레인",
+"second_ret": 28.69
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.36,
+"up5": 1,
+"lead": "엠케이전자",
+"lead_ret": 6.47,
+"second": "티에프이",
+"second_ret": 3.49
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.13,
+"up5": 1,
+"lead": "한켐",
+"lead_ret": 17.99,
+"second": "코칩",
+"second_ret": 4.86
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.03,
+"up5": 1,
+"lead": "인텍플러스",
+"lead_ret": 10.55,
+"second": "기가비스",
+"second_ret": 3.38
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.03,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 28.93,
+"second": "아모그린텍",
+"second_ret": 9.68
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.03,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 28.93,
+"second": "아모그린텍",
+"second_ret": 9.68
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 2.02,
+"up5": 7,
+"lead": "해성디에스",
+"lead_ret": 15.31,
+"second": "타이거일렉",
+"second_ret": 11.36
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 2.0,
+"up5": 1,
+"lead": "센서뷰",
+"lead_ret": 16.27,
+"second": "아주IB투자",
+"second_ret": 4.3
+}
+],
+"themes_worst": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -6.04,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 0.24,
+"second": "인포뱅크",
+"second_ret": -0.13
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -6.02,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": 0.86,
+"second": "코나아이",
+"second_ret": -3.46
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -3.72,
+"up5": 1,
+"lead": "아이티센피엔에스",
+"lead_ret": 29.85,
+"second": "사토시홀딩스",
+"second_ret": 2.93
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": -3.32,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 0.24,
+"second": "매커스",
+"second_ret": 0.19
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -2.91,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": 0.86,
+"second": "신한지주",
+"second_ret": 0.63
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 13.34,
+"value": 7410,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "빛샘전자",
+"code": "072950",
+"ret": 29.52,
+"value": 2080,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 11.39,
+"value": 1024,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "한선엔지니어링",
+"code": "452280",
+"ret": 24.42,
+"value": 1019,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "우리넷",
+"code": "115440",
+"ret": 10.53,
+"value": 824,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+}
+],
+"backfilled": true
+}

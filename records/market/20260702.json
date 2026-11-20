@@ -1,0 +1,254 @@
+{
+"date": "20260702",
+"kospi": -7.89,
+"kosdaq": -6.74,
+"adv": 543,
+"dec": 1790,
+"flat": 77,
+"limit_up": 10,
+"limit_down": 3,
+"value_total": 545072,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 7,
+"lead": "신원종합개발",
+"lead_ret": 29.94,
+"second": "진흥기업",
+"second_ret": 29.92
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "영원무역",
+"lead_ret": 11.99,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 7.17
+},
+{
+"name": "패션/의류",
+"n": 4,
+"lead": "영원무역",
+"lead_ret": 11.99,
+"second": "한세실업",
+"second_ret": 9.37
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 4.22,
+"up5": 10,
+"lead": "신원종합개발",
+"lead_ret": 29.94,
+"second": "진흥기업",
+"second_ret": 29.92
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 3.01,
+"up5": 2,
+"lead": "신한지주",
+"lead_ret": 6.02,
+"second": "카카오뱅크",
+"second_ret": 5.5
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.75,
+"up5": 1,
+"lead": "GS리테일",
+"lead_ret": 6.14,
+"second": "BGF리테일",
+"second_ret": 3.37
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 2.52,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 14.26,
+"second": "데브시스터즈",
+"second_ret": 5.21
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.12,
+"up5": 1,
+"lead": "DB손해보험",
+"lead_ret": 6.91,
+"second": "현대해상",
+"second_ret": 4.65
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.04,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 3.15,
+"second": "롯데관광개발",
+"second_ret": 2.01
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.04,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 3.15,
+"second": "롯데관광개발",
+"second_ret": 2.01
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 1.03,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 6.46,
+"second": "팜스토리",
+"second_ret": 3.93
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.01,
+"up5": 1,
+"lead": "농심",
+"lead_ret": 6.16,
+"second": "CJ제일제당",
+"second_ret": 4.53
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 0.97,
+"up5": 5,
+"lead": "엑시온그룹",
+"lead_ret": 13.9,
+"second": "대구백화점",
+"second_ret": 11.88
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.87,
+"up5": 1,
+"lead": "푸드나무",
+"lead_ret": 9.76,
+"second": "팜스토리",
+"second_ret": 3.93
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 0.83,
+"up5": 1,
+"lead": "에스엠",
+"lead_ret": 7.08,
+"second": "하이브",
+"second_ret": 4.66
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -12.13,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -3.48,
+"second": "삼성전자",
+"second_ret": -9.06
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -11.89,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -4.51,
+"second": "라이콤",
+"second_ret": -7.84
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -11.48,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": -3.64,
+"second": "인텍플러스",
+"second_ret": -5.57
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": -11.36,
+"up5": 0,
+"lead": "레이언스",
+"lead_ret": -2.71,
+"second": "케이씨텍",
+"second_ret": -3.74
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -11.12,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": -1.78,
+"second": "주성엔지니어링",
+"second_ret": -5.99
+}
+],
+"leaders": [
+{
+"name": "마키나락스",
+"code": "477850",
+"ret": 29.8,
+"value": 911,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "선도전기",
+"code": "007610",
+"ret": 23.29,
+"value": 825,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "삼기에너지솔루션즈",
+"code": "419050",
+"ret": 29.95,
+"value": 511,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 14.66,
+"value": 424,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "우원개발",
+"code": "046940",
+"ret": 15.83,
+"value": 334,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

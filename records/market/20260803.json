@@ -1,0 +1,254 @@
+{
+"date": "20260803",
+"kospi": -5.12,
+"kosdaq": 2.44,
+"adv": 1486,
+"dec": 794,
+"flat": 132,
+"limit_up": 14,
+"limit_down": 0,
+"value_total": 307189,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 10,
+"lead": "원익홀딩스",
+"lead_ret": 29.97,
+"second": "티엑스알로보틱스",
+"second_ret": 29.93
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "셀바스AI",
+"lead_ret": 20.05,
+"second": "로보티즈",
+"second_ret": 17.25
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "펩트론",
+"lead_ret": 29.97,
+"second": "지투지바이오",
+"second_ret": 13.73
+}
+],
+"themes": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 73,
+"avg": 6.04,
+"up5": 35,
+"lead": "원익홀딩스",
+"lead_ret": 29.97,
+"second": "티엑스알로보틱스",
+"second_ret": 29.93
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 5.37,
+"up5": 2,
+"lead": "티웨이홀딩스",
+"lead_ret": 30.0,
+"second": "한진칼",
+"second_ret": 6.54
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": 5.02,
+"up5": 6,
+"lead": "코스모로보틱스",
+"lead_ret": 21.3,
+"second": "져스텍",
+"second_ret": 13.01
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 4.91,
+"up5": 7,
+"lead": "태성",
+"lead_ret": 20.8,
+"second": "아이비젼웍스",
+"second_ret": 15.87
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 4.82,
+"up5": 18,
+"lead": "나우로보틱스",
+"lead_ret": 19.04,
+"second": "한국피아이엠",
+"second_ret": 17.35
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 4.69,
+"up5": 3,
+"lead": "위닉스",
+"lead_ret": 21.45,
+"second": "에스피지",
+"second_ret": 14.9
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 4.45,
+"up5": 7,
+"lead": "딥노이드",
+"lead_ret": 30.0,
+"second": "셀바스AI",
+"second_ret": 20.05
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": 4.35,
+"up5": 4,
+"lead": "위닉스",
+"lead_ret": 21.45,
+"second": "에스피지",
+"second_ret": 14.9
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 15,
+"avg": 4.18,
+"up5": 4,
+"lead": "레이",
+"lead_ret": 24.75,
+"second": "한국피아이엠",
+"second_ret": 17.35
+},
+{
+"name": "황사/미세먼지",
+"n": 25,
+"avg": 4.18,
+"up5": 6,
+"lead": "케스피온",
+"lead_ret": 29.93,
+"second": "위닉스",
+"second_ret": 21.45
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": 3.7,
+"up5": 10,
+"lead": "앱클론",
+"lead_ret": 11.42,
+"second": "와이바이오로직스",
+"second_ret": 10.02
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.67,
+"up5": 3,
+"lead": "셀바스AI",
+"lead_ret": 20.05,
+"second": "현대에이치티",
+"second_ret": 11.02
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -5.63,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": -0.95,
+"second": "대한해운",
+"second_ret": -2.96
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.46,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -0.81,
+"second": "대성산업",
+"second_ret": -1.37
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.46,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -0.81,
+"second": "대성산업",
+"second_ret": -1.37
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -4.92,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.42,
+"second": "SK스퀘어",
+"second_ret": -1.25
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -3.91,
+"up5": 0,
+"lead": "LG디스플레이",
+"lead_ret": -0.54,
+"second": "삼성에스디에스",
+"second_ret": -1.46
+}
+],
+"leaders": [
+{
+"name": "코스모로보틱스",
+"code": "439960",
+"ret": 21.3,
+"value": 3286,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 14.9,
+"value": 3052,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 17.25,
+"value": 1269,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "테크윙",
+"code": "089030",
+"ret": 11.7,
+"value": 824,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 29.97,
+"value": 802,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

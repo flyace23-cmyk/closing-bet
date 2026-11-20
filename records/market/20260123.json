@@ -1,0 +1,254 @@
+{
+"date": "20260123",
+"kospi": 0.76,
+"kosdaq": 2.43,
+"adv": 1675,
+"dec": 627,
+"flat": 97,
+"limit_up": 11,
+"limit_down": 1,
+"value_total": 445962,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 11,
+"lead": "헥토파이낸셜",
+"lead_ret": 30.0,
+"second": "미투온",
+"second_ret": 29.94
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 6,
+"lead": "미투온",
+"lead_ret": 29.94,
+"second": "다날",
+"second_ret": 29.93
+},
+{
+"name": "삼성페이",
+"n": 5,
+"lead": "NHN KCP",
+"lead_ret": 29.94,
+"second": "다날",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 17.68,
+"up5": 5,
+"lead": "쿠콘",
+"lead_ret": 26.43,
+"second": "코나아이",
+"second_ret": 22.64
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 16.06,
+"up5": 22,
+"lead": "헥토파이낸셜",
+"lead_ret": 30.0,
+"second": "미투온",
+"second_ret": 29.94
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 15.18,
+"up5": 10,
+"lead": "헥토파이낸셜",
+"lead_ret": 30.0,
+"second": "NHN KCP",
+"second_ret": 29.94
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 12.2,
+"up5": 20,
+"lead": "헥토파이낸셜",
+"lead_ret": 30.0,
+"second": "다날",
+"second_ret": 29.93
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 10.64,
+"up5": 6,
+"lead": "아이티아이즈",
+"lead_ret": 29.81,
+"second": "쿠콘",
+"second_ret": 26.43
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 10.07,
+"up5": 13,
+"lead": "미투온",
+"lead_ret": 29.94,
+"second": "다날",
+"second_ret": 29.93
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 9.77,
+"up5": 17,
+"lead": "헥토파이낸셜",
+"lead_ret": 30.0,
+"second": "NHN KCP",
+"second_ret": 29.94
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 7.64,
+"up5": 10,
+"lead": "NHN KCP",
+"lead_ret": 29.94,
+"second": "다날",
+"second_ret": 29.93
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 6.84,
+"up5": 14,
+"lead": "미래에셋증권",
+"lead_ret": 16.58,
+"second": "부국증권",
+"second_ret": 15.19
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 6.8,
+"up5": 3,
+"lead": "NHN KCP",
+"lead_ret": 29.94,
+"second": "KG이니시스",
+"second_ret": 6.76
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 6.52,
+"up5": 11,
+"lead": "다날",
+"lead_ret": 29.93,
+"second": "갤럭시아머니트리",
+"second_ret": 19.41
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.12,
+"up5": 4,
+"lead": "한화투자증권",
+"lead_ret": 10.79,
+"second": "한화생명",
+"second_ret": 7.33
+}
+],
+"themes_worst": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": -3.39,
+"up5": 6,
+"lead": "아이씨에이치",
+"lead_ret": 19.19,
+"second": "이랜시스",
+"second_ret": 9.96
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -3.1,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": 4.39,
+"second": "스맥",
+"second_ret": 3.4
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.65,
+"up5": 0,
+"lead": "에코프로비엠",
+"lead_ret": 1.1,
+"second": "에코프로",
+"second_ret": 0.86
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": -2.51,
+"up5": 0,
+"lead": "미코",
+"lead_ret": 4.42,
+"second": "대주전자재료",
+"second_ret": 3.83
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": -2.23,
+"up5": 3,
+"lead": "유일로보틱스",
+"lead_ret": 9.37,
+"second": "LG씨엔에스",
+"second_ret": 8.38
+}
+],
+"leaders": [
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 29.89,
+"value": 8493,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 16.58,
+"value": 8339,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 13.74,
+"value": 5888,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 29.93,
+"value": 5300,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 10.24,
+"value": 3394,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

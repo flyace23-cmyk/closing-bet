@@ -1,0 +1,254 @@
+{
+"date": "20260417",
+"kospi": -0.55,
+"kosdaq": 0.61,
+"adv": 1247,
+"dec": 977,
+"flat": 180,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 395456,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 8,
+"lead": "수젠텍",
+"lead_ret": 30.0,
+"second": "셀리드",
+"second_ret": 29.98
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 3,
+"lead": "와이제이링크",
+"lead_ret": 29.82,
+"second": "미래에셋벤처투자",
+"second_ret": 19.64
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "기가레인",
+"lead_ret": 30.0,
+"second": "에이치엠넥스",
+"second_ret": 20.31
+}
+],
+"themes": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 7.12,
+"up5": 8,
+"lead": "와이제이링크",
+"lead_ret": 29.82,
+"second": "미래에셋벤처투자",
+"second_ret": 19.64
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 6.43,
+"up5": 4,
+"lead": "수젠텍",
+"lead_ret": 30.0,
+"second": "엑세스바이오",
+"second_ret": 13.83
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 6.0,
+"up5": 14,
+"lead": "수젠텍",
+"lead_ret": 30.0,
+"second": "신풍제약",
+"second_ret": 26.48
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 5.95,
+"up5": 9,
+"lead": "셀리드",
+"lead_ret": 29.98,
+"second": "신풍제약",
+"second_ret": 26.48
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 5.44,
+"up5": 21,
+"lead": "수젠텍",
+"lead_ret": 30.0,
+"second": "셀리드",
+"second_ret": 29.98
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 5.17,
+"up5": 12,
+"lead": "수젠텍",
+"lead_ret": 30.0,
+"second": "오상헬스케어",
+"second_ret": 25.98
+},
+{
+"name": "조선기자재",
+"n": 36,
+"avg": 3.84,
+"up5": 12,
+"lead": "STX엔진",
+"lead_ret": 29.99,
+"second": "한화엔진",
+"second_ret": 16.39
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.74,
+"up5": 4,
+"lead": "후성",
+"lead_ret": 22.3,
+"second": "성일하이텍",
+"second_ret": 15.05
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.52,
+"up5": 3,
+"lead": "기가레인",
+"lead_ret": 30.0,
+"second": "티에스이",
+"second_ret": 9.36
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 3.41,
+"up5": 2,
+"lead": "후성",
+"lead_ret": 22.3,
+"second": "에이치엠넥스",
+"second_ret": 20.31
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.17,
+"up5": 3,
+"lead": "아이진",
+"lead_ret": 23.21,
+"second": "큐라티스",
+"second_ret": 15.68
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.04,
+"up5": 2,
+"lead": "오텍",
+"lead_ret": 16.41,
+"second": "콜마바이오텍",
+"second_ret": 8.67
+}
+],
+"themes_worst": [
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": -4.33,
+"up5": 1,
+"lead": "아이씨티케이",
+"lead_ret": 20.84,
+"second": "나노실리칸첨단소재",
+"second_ret": 4.71
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": -3.68,
+"up5": 0,
+"lead": "SK텔레콤",
+"lead_ret": 2.5,
+"second": "롯데이노베이트",
+"second_ret": 1.59
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -3.3,
+"up5": 0,
+"lead": "한국수출포장",
+"lead_ret": 3.81,
+"second": "삼정펄프",
+"second_ret": 0.31
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -3.06,
+"up5": 2,
+"lead": "아이씨티케이",
+"lead_ret": 20.84,
+"second": "파인텍",
+"second_ret": 12.35
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.78,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": -1.22,
+"second": "유라클",
+"second_ret": -2.2
+}
+],
+"leaders": [
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 19.64,
+"value": 10120,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 20.84,
+"value": 4720,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "고영",
+"code": "098460",
+"ret": 11.49,
+"value": 4437,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 22.3,
+"value": 4329,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 29.93,
+"value": 4170,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

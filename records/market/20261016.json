@@ -1,0 +1,254 @@
+{
+"date": "20261016",
+"kospi": 2.05,
+"kosdaq": 4.46,
+"adv": 2070,
+"dec": 312,
+"flat": 40,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 258302,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 7,
+"lead": "오킨스전자",
+"lead_ret": 19.29,
+"second": "타이거일렉",
+"second_ret": 18.6
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "엑시콘",
+"lead_ret": 22.4,
+"second": "네오셈",
+"second_ret": 18.32
+},
+{
+"name": "전기차",
+"n": 5,
+"lead": "HT로보틱스",
+"lead_ret": 23.5,
+"second": "에이텀",
+"second_ret": 18.93
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 8.32,
+"up5": 5,
+"lead": "자람테크놀로지",
+"lead_ret": 12.9,
+"second": "네패스",
+"second_ret": 11.74
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 8.17,
+"up5": 5,
+"lead": "엑시콘",
+"lead_ret": 22.4,
+"second": "오킨스전자",
+"second_ret": 19.29
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 8.01,
+"up5": 12,
+"lead": "RF머트리얼즈",
+"lead_ret": 17.12,
+"second": "자람테크놀로지",
+"second_ret": 12.9
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 7.97,
+"up5": 11,
+"lead": "스피어",
+"lead_ret": 13.26,
+"second": "에이치브이엠",
+"second_ret": 13.19
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 7.92,
+"up5": 30,
+"lead": "에스티아이",
+"lead_ret": 16.12,
+"second": "엠케이전자",
+"second_ret": 16.07
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.86,
+"up5": 9,
+"lead": "덕산하이메탈",
+"lead_ret": 16.54,
+"second": "네오티스",
+"second_ret": 16.16
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 7.83,
+"up5": 10,
+"lead": "엘티씨",
+"lead_ret": 17.21,
+"second": "서진시스템",
+"second_ret": 16.25
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 7.77,
+"up5": 8,
+"lead": "레이저쎌",
+"lead_ret": 13.12,
+"second": "티에스이",
+"second_ret": 12.64
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 7.59,
+"up5": 18,
+"lead": "퀄리타스반도체",
+"lead_ret": 18.37,
+"second": "제주반도체",
+"second_ret": 13.32
+},
+{
+"name": "반도체 장비",
+"n": 95,
+"avg": 7.4,
+"up5": 70,
+"lead": "엑시콘",
+"lead_ret": 22.4,
+"second": "네오셈",
+"second_ret": 18.32
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 7.15,
+"up5": 5,
+"lead": "티에프이",
+"lead_ret": 18.01,
+"second": "엠케이전자",
+"second_ret": 16.07
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 6.94,
+"up5": 43,
+"lead": "오킨스전자",
+"lead_ret": 19.29,
+"second": "타이거일렉",
+"second_ret": 18.6
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.89,
+"up5": 0,
+"lead": "트리니티항공",
+"lead_ret": 3.98,
+"second": "티웨이홀딩스",
+"second_ret": 1.75
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 0.29,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 1.82,
+"second": "휴비스",
+"second_ret": 1.26
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.34,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 5.34,
+"second": "대성산업",
+"second_ret": 2.45
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.44,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.7,
+"second": "미창석유",
+"second_ret": 1.92
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 0.66,
+"up5": 0,
+"lead": "케이뱅크",
+"lead_ret": 2.55,
+"second": "제주은행",
+"second_ret": 2.23
+}
+],
+"leaders": [
+{
+"name": "HT로보틱스",
+"code": "396300",
+"ret": 23.5,
+"value": 2820,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 10.43,
+"value": 2014,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "에이피알",
+"code": "278470",
+"ret": 11.05,
+"value": 1441,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 12.75,
+"value": 1422,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한선엔지니어링",
+"code": "452280",
+"ret": 12.06,
+"value": 1373,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+}
+],
+"backfilled": true
+}

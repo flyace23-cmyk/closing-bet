@@ -1,0 +1,246 @@
+{
+"date": "20261019",
+"kospi": 1.76,
+"kosdaq": 1.78,
+"adv": 1807,
+"dec": 543,
+"flat": 72,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 248465,
+"hot": [
+{
+"name": "2차전지",
+"n": 14,
+"lead": "에스엠벡셀",
+"lead_ret": 28.25,
+"second": "솔루스첨단소재",
+"second_ret": 24.41
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 5,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 23.31,
+"second": "한중엔시에스",
+"second_ret": 13.92
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 8.17,
+"up5": 7,
+"lead": "애경케미칼",
+"lead_ret": 12.97,
+"second": "삼성SDI",
+"second_ret": 11.51
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 6.03,
+"up5": 23,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 17.75,
+"second": "삼성SDI",
+"second_ret": 11.51
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 5.8,
+"up5": 36,
+"lead": "솔루스첨단소재",
+"lead_ret": 24.41,
+"second": "삼기에너지솔루션즈",
+"second_ret": 23.31
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 5.54,
+"up5": 4,
+"lead": "대구백화점",
+"lead_ret": 11.32,
+"second": "롯데쇼핑",
+"second_ret": 8.27
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 42,
+"avg": 5.29,
+"up5": 16,
+"lead": "에스엠벡셀",
+"lead_ret": 28.25,
+"second": "한중엔시에스",
+"second_ret": 13.92
+},
+{
+"name": "2차전지",
+"n": 142,
+"avg": 5.0,
+"up5": 66,
+"lead": "에스엠벡셀",
+"lead_ret": 28.25,
+"second": "솔루스첨단소재",
+"second_ret": 24.41
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 4.96,
+"up5": 3,
+"lead": "KBI동양철관",
+"lead_ret": 30.55,
+"second": "화성밸브",
+"second_ret": 9.67
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.91,
+"up5": 13,
+"lead": "에코프로",
+"lead_ret": 10.55,
+"second": "포스코퓨처엠",
+"second_ret": 9.9
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 39,
+"avg": 4.57,
+"up5": 11,
+"lead": "에스엠벡셀",
+"lead_ret": 28.25,
+"second": "알멕",
+"second_ret": 20.89
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 4.5,
+"up5": 1,
+"lead": "KBI동양철관",
+"lead_ret": 30.55,
+"second": "SK오션플랜트",
+"second_ret": 4.43
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.45,
+"up5": 5,
+"lead": "범한퓨얼셀",
+"lead_ret": 9.31,
+"second": "LS머트리얼즈",
+"second_ret": 9.13
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 4.29,
+"up5": 14,
+"lead": "현대오토에버",
+"lead_ret": 9.57,
+"second": "뉴로메카",
+"second_ret": 8.09
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 9,
+"avg": -2.85,
+"up5": 0,
+"lead": "체리부로",
+"lead_ret": 3.52,
+"second": "팜스토리",
+"second_ret": 2.6
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -0.94,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 1.27,
+"second": "팬오션",
+"second_ret": 1.05
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -0.6,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 0.84,
+"second": "옴니시스템",
+"second_ret": 0.0
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -0.41,
+"up5": 0,
+"lead": "대동",
+"lead_ret": 4.05,
+"second": "동방아그로",
+"second_ret": 1.27
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -0.24,
+"up5": 0,
+"lead": "한솔제지",
+"lead_ret": 2.7,
+"second": "한국수출포장",
+"second_ret": 2.22
+}
+],
+"leaders": [
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 11.51,
+"value": 6148,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼기에너지솔루션즈",
+"code": "419050",
+"ret": 23.31,
+"value": 1463,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에스엠벡셀",
+"code": "010580",
+"ret": 28.25,
+"value": 1082,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 10.55,
+"value": 999,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "롯데에너지머티리얼즈",
+"code": "020150",
+"ret": 17.75,
+"value": 558,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

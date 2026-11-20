@@ -1,0 +1,254 @@
+{
+"date": "20260629",
+"kospi": -0.2,
+"kosdaq": 8.13,
+"adv": 2179,
+"dec": 188,
+"flat": 41,
+"limit_up": 17,
+"limit_down": 1,
+"value_total": 493959,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "엔켐",
+"lead_ret": 27.71,
+"second": "에코프로",
+"second_ret": 23.69
+},
+{
+"name": "리튬",
+"n": 5,
+"lead": "앱튼",
+"lead_ret": 29.98,
+"second": "엔켐",
+"second_ret": 27.71
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "리센스메디컬",
+"lead_ret": 26.1,
+"second": "루닛",
+"second_ret": 21.76
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 15.62,
+"up5": 21,
+"lead": "앱튼",
+"lead_ret": 29.98,
+"second": "대보마그네틱",
+"second_ret": 29.85
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 13.74,
+"up5": 8,
+"lead": "에코프로",
+"lead_ret": 23.69,
+"second": "LG에너지솔루션",
+"second_ret": 20.81
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 13.57,
+"up5": 5,
+"lead": "지씨셀",
+"lead_ret": 20.82,
+"second": "메디포스트",
+"second_ret": 17.49
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 13.1,
+"up5": 11,
+"lead": "소프트센",
+"lead_ret": 22.48,
+"second": "LG에너지솔루션",
+"second_ret": 20.81
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 12.12,
+"up5": 8,
+"lead": "토모큐브",
+"lead_ret": 17.94,
+"second": "오가노이드사이언스",
+"second_ret": 16.67
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 11.61,
+"up5": 7,
+"lead": "데브시스터즈",
+"lead_ret": 29.96,
+"second": "에피소드컴퍼니",
+"second_ret": 16.44
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 11.45,
+"up5": 27,
+"lead": "LG에너지솔루션",
+"lead_ret": 20.81,
+"second": "SK아이이테크놀로지",
+"second_ret": 19.53
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": 11.22,
+"up5": 29,
+"lead": "박셀바이오",
+"lead_ret": 29.8,
+"second": "압타바이오",
+"second_ret": 24.37
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 11.2,
+"up5": 65,
+"lead": "엔켐",
+"lead_ret": 27.71,
+"second": "에코프로",
+"second_ret": 23.69
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 11.13,
+"up5": 19,
+"lead": "소프트센",
+"lead_ret": 22.48,
+"second": "스피어",
+"second_ret": 17.63
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 11.01,
+"up5": 5,
+"lead": "제이오",
+"lead_ret": 19.06,
+"second": "LG화학",
+"second_ret": 13.65
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 10.85,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 12.49,
+"second": "쿠콘",
+"second_ret": 11.39
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.21,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 2.26,
+"second": "SK하이닉스",
+"second_ret": -1.68
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.02,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": 4.69,
+"second": "대구백화점",
+"second_ret": 0.82
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.29,
+"up5": 3,
+"lead": "LB인베스트먼트",
+"lead_ret": 8.16,
+"second": "티에프이",
+"second_ret": 7.92
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.51,
+"up5": 5,
+"lead": "레이저쎌",
+"lead_ret": 18.7,
+"second": "미래컴퍼니",
+"second_ret": 8.23
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 1.61,
+"up5": 2,
+"lead": "GRT",
+"lead_ret": 15.09,
+"second": "컬러레이",
+"second_ret": 9.84
+}
+],
+"leaders": [
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 15.74,
+"value": 5263,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 12.53,
+"value": 3776,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 23.69,
+"value": 3392,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "LG에너지솔루션",
+"code": "373220",
+"ret": 20.81,
+"value": 3337,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 10.34,
+"value": 2227,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+}
+],
+"backfilled": true
+}

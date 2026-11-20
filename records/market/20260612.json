@@ -1,0 +1,254 @@
+{
+"date": "20260612",
+"kospi": 4.63,
+"kosdaq": 3.22,
+"adv": 1887,
+"dec": 448,
+"flat": 73,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 664842,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "HPSP",
+"lead_ret": 30.0,
+"second": "원익IPS",
+"second_ret": 30.0
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 7,
+"lead": "HPSP",
+"lead_ret": 30.0,
+"second": "한전기술",
+"second_ret": 29.98
+},
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "드림텍",
+"lead_ret": 29.79,
+"second": "솔브레인",
+"second_ret": 24.37
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 13.14,
+"up5": 11,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "한전기술",
+"second_ret": 29.98
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 9.79,
+"up5": 5,
+"lead": "현대건설",
+"lead_ret": 28.36,
+"second": "GS건설",
+"second_ret": 9.92
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 9.32,
+"up5": 5,
+"lead": "HL만도",
+"lead_ret": 30.0,
+"second": "한온시스템",
+"second_ret": 11.11
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 7.62,
+"up5": 23,
+"lead": "한미반도체",
+"lead_ret": 24.05,
+"second": "이오테크닉스",
+"second_ret": 21.43
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 6.93,
+"up5": 22,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "한전기술",
+"second_ret": 29.98
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 6.87,
+"up5": 56,
+"lead": "HPSP",
+"lead_ret": 30.0,
+"second": "원익IPS",
+"second_ret": 30.0
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 6.81,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 28.36,
+"second": "이월드",
+"second_ret": 4.27
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 6.36,
+"up5": 15,
+"lead": "HPSP",
+"lead_ret": 30.0,
+"second": "가온칩스",
+"second_ret": 14.54
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 6.32,
+"up5": 8,
+"lead": "솔브레인",
+"lead_ret": 24.37,
+"second": "후성",
+"second_ret": 20.55
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.26,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 10.0,
+"second": "에이직랜드",
+"second_ret": 9.06
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 6.08,
+"up5": 38,
+"lead": "드림텍",
+"lead_ret": 29.79,
+"second": "솔브레인",
+"second_ret": 24.37
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 5.74,
+"up5": 19,
+"lead": "현대건설",
+"lead_ret": 28.36,
+"second": "희림",
+"second_ret": 18.22
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -1.41,
+"up5": 1,
+"lead": "대덕전자",
+"lead_ret": 5.36,
+"second": "태성",
+"second_ret": 3.28
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -1.21,
+"up5": 1,
+"lead": "푸드나무",
+"lead_ret": 5.75,
+"second": "이지홀딩스",
+"second_ret": 3.27
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": -0.61,
+"up5": 2,
+"lead": "셀리드",
+"lead_ret": 5.85,
+"second": "CG인바이츠",
+"second_ret": 5.71
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": -0.33,
+"up5": 1,
+"lead": "라메디텍",
+"lead_ret": 6.07,
+"second": "휴온스글로벌",
+"second_ret": 2.82
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -0.33,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 8.07,
+"second": "광주신세계",
+"second_ret": 1.5
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 24.05,
+"value": 21727,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 10.59,
+"value": 20677,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "NAVER",
+"code": "035420",
+"ret": 10.27,
+"value": 12883,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 30.0,
+"value": 12051,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "원익IPS",
+"code": "240810",
+"ret": 30.0,
+"value": 7397,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

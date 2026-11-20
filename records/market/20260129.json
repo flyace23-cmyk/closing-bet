@@ -1,0 +1,254 @@
+{
+"date": "20260129",
+"kospi": 0.98,
+"kosdaq": 2.73,
+"adv": 1447,
+"dec": 825,
+"flat": 127,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 575182,
+"hot": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 4,
+"lead": "아주IB투자",
+"lead_ret": 29.97,
+"second": "미래에셋벤처투자",
+"second_ret": 28.95
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 4,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 23.86,
+"second": "인텔리안테크",
+"second_ret": 20.92
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 23.86,
+"second": "쎄트렉아이",
+"second_ret": 18.73
+}
+],
+"themes": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 11.82,
+"up5": 11,
+"lead": "아주IB투자",
+"lead_ret": 29.97,
+"second": "미래에셋벤처투자",
+"second_ret": 28.95
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 9.02,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 29.97,
+"second": "한화투자증권",
+"second_ret": 8.54
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 8.77,
+"up5": 14,
+"lead": "SK증권",
+"lead_ret": 29.92,
+"second": "상상인증권",
+"second_ret": 18.72
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 6.79,
+"up5": 20,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 23.86,
+"second": "인텔리안테크",
+"second_ret": 20.92
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 6.37,
+"up5": 8,
+"lead": "빛과전자",
+"lead_ret": 16.75,
+"second": "대한광통신",
+"second_ret": 15.49
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 6.3,
+"up5": 2,
+"lead": "흥국에프엔비",
+"lead_ret": 30.0,
+"second": "미래에셋벤처투자",
+"second_ret": 28.95
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 6.05,
+"up5": 5,
+"lead": "아주IB투자",
+"lead_ret": 29.97,
+"second": "미래에셋벤처투자",
+"second_ret": 28.95
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.71,
+"up5": 2,
+"lead": "차바이오텍",
+"lead_ret": 18.36,
+"second": "메디포스트",
+"second_ret": 5.02
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 5.7,
+"up5": 3,
+"lead": "포커스에이아이",
+"lead_ret": 25.66,
+"second": "인콘",
+"second_ret": 13.31
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 5.57,
+"up5": 5,
+"lead": "다이나믹솔루션",
+"lead_ret": 29.9,
+"second": "차바이오텍",
+"second_ret": 18.36
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 5.48,
+"up5": 6,
+"lead": "코오롱인더",
+"lead_ret": 10.14,
+"second": "한화투자증권",
+"second_ret": 8.54
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 5.13,
+"up5": 5,
+"lead": "SFA",
+"lead_ret": 14.84,
+"second": "LS머트리얼즈",
+"second_ret": 10.67
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -1.41,
+"up5": 1,
+"lead": "덕산하이메탈",
+"lead_ret": 6.84,
+"second": "다원넥스뷰",
+"second_ret": 1.9
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -1.13,
+"up5": 0,
+"lead": "인선이엔티",
+"lead_ret": 1.47,
+"second": "한솔홀딩스",
+"second_ret": 1.42
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.9,
+"up5": 0,
+"lead": "크리스탈신소재",
+"lead_ret": 1.03,
+"second": "로스웰",
+"second_ret": 0.32
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -0.76,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": 3.99,
+"second": "오픈엣지테크놀로지",
+"second_ret": 2.6
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": -0.74,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 3.79,
+"second": "다날",
+"second_ret": 3.67
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 11.81,
+"value": 14571,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 17.39,
+"value": 8065,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 28.95,
+"value": 3173,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "나라스페이스테크놀로지",
+"code": "478340",
+"ret": 19.14,
+"value": 3114,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 10.35,
+"value": 2798,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

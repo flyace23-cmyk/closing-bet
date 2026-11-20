@@ -1,0 +1,254 @@
+{
+"date": "20260410",
+"kospi": 1.4,
+"kosdaq": 1.64,
+"adv": 1895,
+"dec": 403,
+"flat": 106,
+"limit_up": 15,
+"limit_down": 0,
+"value_total": 361823,
+"hot": [
+{
+"name": "통신장비",
+"n": 10,
+"lead": "에이스테크",
+"lead_ret": 30.0,
+"second": "빛샘전자",
+"second_ret": 30.0
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 8,
+"lead": "에이스테크",
+"lead_ret": 30.0,
+"second": "웨이브일렉트로",
+"second_ret": 29.95
+},
+{
+"name": "LED",
+"n": 4,
+"lead": "빛샘전자",
+"lead_ret": 30.0,
+"second": "알에프텍",
+"second_ret": 29.78
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 12.54,
+"up5": 12,
+"lead": "빛샘전자",
+"lead_ret": 30.0,
+"second": "대한광통신",
+"second_ret": 25.32
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 9.8,
+"up5": 3,
+"lead": "대한해운",
+"lead_ret": 29.83,
+"second": "KSS해운",
+"second_ret": 10.39
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 9.59,
+"up5": 31,
+"lead": "에이스테크",
+"lead_ret": 30.0,
+"second": "빛샘전자",
+"second_ret": 30.0
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 8.62,
+"up5": 6,
+"lead": "알에프텍",
+"lead_ret": 29.78,
+"second": "아모센스",
+"second_ret": 25.76
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 8.18,
+"up5": 8,
+"lead": "아모텍",
+"lead_ret": 21.53,
+"second": "아바텍",
+"second_ret": 16.11
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 7.88,
+"up5": 30,
+"lead": "에이스테크",
+"lead_ret": 30.0,
+"second": "네이블",
+"second_ret": 30.0
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 6.92,
+"up5": 3,
+"lead": "신성이엔지",
+"lead_ret": 19.78,
+"second": "콜마바이오텍",
+"second_ret": 11.0
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 5.7,
+"up5": 6,
+"lead": "아모텍",
+"lead_ret": 21.53,
+"second": "모비스",
+"second_ret": 13.2
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 5.49,
+"up5": 13,
+"lead": "쏠리드",
+"lead_ret": 20.11,
+"second": "포톤",
+"second_ret": 14.77
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 5.38,
+"up5": 4,
+"lead": "모비스",
+"lead_ret": 13.2,
+"second": "고려제강",
+"second_ret": 8.49
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.0,
+"up5": 2,
+"lead": "퀀텀레일",
+"lead_ret": 15.93,
+"second": "성우전자",
+"second_ret": 5.43
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.9,
+"up5": 3,
+"lead": "네패스",
+"lead_ret": 15.37,
+"second": "자람테크놀로지",
+"second_ret": 5.18
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.13,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 4.79,
+"second": "롯데지주",
+"second_ret": 2.31
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -0.69,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 1.23,
+"second": "한화갤러리아",
+"second_ret": 1.02
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -0.51,
+"up5": 0,
+"lead": "나노팀",
+"lead_ret": 4.06,
+"second": "와이제이링크",
+"second_ret": 3.19
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": -0.42,
+"up5": 0,
+"lead": "호텔신라",
+"lead_ret": 2.35,
+"second": "세이브존I&C",
+"second_ret": 2.34
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.22,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 1.46,
+"second": "대한약품",
+"second_ret": 0.18
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 25.32,
+"value": 15630,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "쏠리드",
+"code": "050890",
+"ret": 20.11,
+"value": 7679,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 19.78,
+"value": 5218,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대한해운",
+"code": "005880",
+"ret": 29.83,
+"value": 4853,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 11.17,
+"value": 3690,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

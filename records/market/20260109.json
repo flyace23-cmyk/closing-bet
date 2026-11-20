@@ -1,0 +1,254 @@
+{
+"date": "20260109",
+"kospi": 0.75,
+"kosdaq": 0.41,
+"adv": 1338,
+"dec": 921,
+"flat": 139,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 318056,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 7,
+"lead": "포메탈",
+"lead_ret": 29.96,
+"second": "한화시스템",
+"second_ret": 27.53
+},
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "이원컴포텍",
+"lead_ret": 30.0,
+"second": "포메탈",
+"second_ret": 29.96
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "포메탈",
+"lead_ret": 29.96,
+"second": "러셀",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 6,
+"avg": 5.47,
+"up5": 3,
+"lead": "삼성중공업",
+"lead_ret": 8.73,
+"second": "HJ중공업",
+"second_ret": 6.49
+},
+{
+"name": "조선기자재",
+"n": 36,
+"avg": 5.35,
+"up5": 18,
+"lead": "한국카본",
+"lead_ret": 22.29,
+"second": "대양전기공업",
+"second_ret": 14.15
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 4.74,
+"up5": 3,
+"lead": "한국카본",
+"lead_ret": 22.29,
+"second": "우림피티에스",
+"second_ret": 18.47
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.7,
+"up5": 5,
+"lead": "한국카본",
+"lead_ret": 22.29,
+"second": "한화에어로스페이스",
+"second_ret": 11.38
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 4.69,
+"up5": 6,
+"lead": "한화시스템",
+"lead_ret": 27.53,
+"second": "한국카본",
+"second_ret": 22.29
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.45,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 16.28,
+"second": "퀀텀레일",
+"second_ret": 2.29
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 66,
+"avg": 4.42,
+"up5": 22,
+"lead": "포메탈",
+"lead_ret": 29.96,
+"second": "한화시스템",
+"second_ret": 27.53
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 4.37,
+"up5": 2,
+"lead": "케이에스피",
+"lead_ret": 7.18,
+"second": "성광벤드",
+"second_ret": 6.79
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 4.23,
+"up5": 4,
+"lead": "빛과전자",
+"lead_ret": 29.92,
+"second": "대한광통신",
+"second_ret": 13.07
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.12,
+"up5": 3,
+"lead": "현대위아",
+"lead_ret": 9.31,
+"second": "현대차",
+"second_ret": 7.49
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 3.81,
+"up5": 8,
+"lead": "한국카본",
+"lead_ret": 22.29,
+"second": "한화엔진",
+"second_ret": 9.11
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 3.64,
+"up5": 4,
+"lead": "알멕",
+"lead_ret": 29.93,
+"second": "모베이스전자",
+"second_ret": 29.79
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -2.87,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.37,
+"second": "일신바이오",
+"second_ret": -0.99
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.71,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.14,
+"second": "앤씨앤",
+"second_ret": 0.0
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -2.31,
+"up5": 1,
+"lead": "마음AI",
+"lead_ret": 5.73,
+"second": "심텍",
+"second_ret": 0.7
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": -2.17,
+"up5": 1,
+"lead": "싸이닉솔루션",
+"lead_ret": 16.43,
+"second": "아이씨티케이",
+"second_ret": 4.89
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -2.16,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 1.76,
+"second": "동원산업",
+"second_ret": -0.61
+}
+],
+"leaders": [
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 27.53,
+"value": 16563,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "현대오토에버",
+"code": "307950",
+"ret": 19.37,
+"value": 7058,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 11.38,
+"value": 6982,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "알지노믹스",
+"code": "476830",
+"ret": 22.88,
+"value": 3946,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "계양전기",
+"code": "012200",
+"ret": 12.4,
+"value": 2353,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20261022",
+"kospi": -3.52,
+"kosdaq": -3.62,
+"adv": 393,
+"dec": 1950,
+"flat": 79,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 188766,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 5,
+"lead": "삼성E&A",
+"lead_ret": 17.36,
+"second": "스페코",
+"second_ret": 13.55
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 4,
+"lead": "SKAI",
+"lead_ret": 20.82,
+"second": "솔트룩스",
+"second_ret": 10.76
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 3,
+"lead": "비나텍",
+"lead_ret": 14.78,
+"second": "코세스",
+"second_ret": 9.99
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 0.77,
+"up5": 3,
+"lead": "비나텍",
+"lead_ret": 14.78,
+"second": "코세스",
+"second_ret": 9.99
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 0.57,
+"up5": 2,
+"lead": "MH에탄올",
+"lead_ret": 11.54,
+"second": "나라셀라",
+"second_ret": 5.11
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 0.02,
+"up5": 3,
+"lead": "삼성E&A",
+"lead_ret": 17.36,
+"second": "스페코",
+"second_ret": 13.55
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.08,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 13.55,
+"second": "HC홈센타",
+"second_ret": 0.3
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.09,
+"up5": 0,
+"lead": "대산F&B",
+"lead_ret": 4.04,
+"second": "하이트진로홀딩스",
+"second_ret": 2.38
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.11,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 0.42,
+"second": "삼천리",
+"second_ret": 0.25
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -0.23,
+"up5": 1,
+"lead": "파인디지털",
+"lead_ret": 9.06,
+"second": "파트론",
+"second_ret": 1.57
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -0.24,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 1.68,
+"second": "코리안리",
+"second_ret": 0.56
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -0.31,
+"up5": 0,
+"lead": "대모",
+"lead_ret": 4.33,
+"second": "전진건설로봇",
+"second_ret": 4.19
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": -0.32,
+"up5": 3,
+"lead": "SKAI",
+"lead_ret": 20.82,
+"second": "솔트룩스",
+"second_ret": 10.76
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -0.43,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": 2.85,
+"second": "엑스플러스",
+"second_ret": 1.73
+},
+{
+"name": "광고",
+"n": 24,
+"avg": -0.52,
+"up5": 1,
+"lead": "아티스트컴퍼니",
+"lead_ret": 8.63,
+"second": "드림인사이트",
+"second_ret": 4.86
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -7.64,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -3.73,
+"second": "LG에너지솔루션",
+"second_ret": -5.09
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 13,
+"avg": -6.93,
+"up5": 0,
+"lead": "브릴스",
+"lead_ret": 1.82,
+"second": "레몬헬스케어",
+"second_ret": -2.48
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -6.46,
+"up5": 0,
+"lead": "파이버프로",
+"lead_ret": -2.53,
+"second": "RFHIC",
+"second_ret": -3.55
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -6.24,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": -2.64,
+"second": "삼성전기",
+"second_ret": -3.21
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -6.1,
+"up5": 0,
+"lead": "모델솔루션",
+"lead_ret": -2.23,
+"second": "이녹스첨단소재",
+"second_ret": -3.47
+}
+],
+"leaders": [
+{
+"name": "삼성E&A",
+"code": "028050",
+"ret": 17.36,
+"value": 6920,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 17.5,
+"value": 1214,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "비나텍",
+"code": "126340",
+"ret": 14.78,
+"value": 789,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "토마토시스템",
+"code": "393210",
+"ret": 12.86,
+"value": 400,
+"theme": "퓨리오사AI",
+"reason": "테마: 퓨리오사AI"
+},
+{
+"name": "유니퀘스트",
+"code": "077500",
+"ret": 16.25,
+"value": 383,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

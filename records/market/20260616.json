@@ -1,0 +1,254 @@
+{
+"date": "20260616",
+"kospi": 2.11,
+"kosdaq": -1.48,
+"adv": 1141,
+"dec": 1153,
+"flat": 114,
+"limit_up": 10,
+"limit_down": 1,
+"value_total": 482283,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 7,
+"lead": "씨에스윈드",
+"lead_ret": 29.83,
+"second": "씨에스베어링",
+"second_ret": 29.79
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 18.58,
+"second": "대성하이텍",
+"second_ret": 16.81
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "큐리오시스",
+"lead_ret": 15.19,
+"second": "시지메드텍",
+"second_ret": 12.96
+}
+],
+"themes": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 7.06,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 19.87,
+"second": "DL이앤씨",
+"second_ret": 13.16
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 6.3,
+"up5": 12,
+"lead": "씨에스윈드",
+"lead_ret": 29.83,
+"second": "씨에스베어링",
+"second_ret": 29.79
+},
+{
+"name": "항공기부품",
+"n": 15,
+"avg": 4.41,
+"up5": 5,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 18.58,
+"second": "한화에어로스페이스",
+"second_ret": 9.13
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 4.13,
+"up5": 1,
+"lead": "SK오션플랜트",
+"lead_ret": 26.92,
+"second": "넥스틸",
+"second_ret": 4.51
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 3.92,
+"up5": 3,
+"lead": "신세계",
+"lead_ret": 8.79,
+"second": "현대백화점",
+"second_ret": 8.3
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.54,
+"up5": 5,
+"lead": "일성건설",
+"lead_ret": 30.0,
+"second": "상지건설",
+"second_ret": 13.02
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.35,
+"up5": 3,
+"lead": "신세계",
+"lead_ret": 8.79,
+"second": "현대백화점",
+"second_ret": 8.3
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.18,
+"up5": 11,
+"lead": "대우건설",
+"lead_ret": 19.87,
+"second": "프리엠스",
+"second_ret": 14.78
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 67,
+"avg": 3.06,
+"up5": 19,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 18.58,
+"second": "대성하이텍",
+"second_ret": 16.81
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 3.04,
+"up5": 6,
+"lead": "대우건설",
+"lead_ret": 19.87,
+"second": "DL이앤씨",
+"second_ret": 13.16
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.92,
+"up5": 1,
+"lead": "SK오션플랜트",
+"lead_ret": 26.92,
+"second": "디케이락",
+"second_ret": 4.35
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.81,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 6.23,
+"second": "SK하이닉스",
+"second_ret": 4.11
+}
+],
+"themes_worst": [
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": -3.12,
+"up5": 3,
+"lead": "더코디",
+"lead_ret": 29.92,
+"second": "미래산업",
+"second_ret": 5.48
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -3.08,
+"up5": 1,
+"lead": "케이씨텍",
+"lead_ret": 5.01,
+"second": "제너셈",
+"second_ret": 4.59
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.94,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -0.72,
+"second": "더블유씨피",
+"second_ret": -0.83
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -2.79,
+"up5": 0,
+"lead": "토마토시스템",
+"lead_ret": 1.82,
+"second": "LB인베스트먼트",
+"second_ret": 1.44
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -2.53,
+"up5": 1,
+"lead": "올릭스",
+"lead_ret": 7.04,
+"second": "현대약품",
+"second_ret": 2.15
+}
+],
+"leaders": [
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 19.87,
+"value": 13222,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 14.23,
+"value": 12454,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 18.58,
+"value": 10005,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "미래에셋생명",
+"code": "085620",
+"ret": 12.57,
+"value": 2139,
+"theme": "생명보험",
+"reason": "테마: 생명보험"
+},
+{
+"name": "DL이앤씨",
+"code": "375500",
+"ret": 13.16,
+"value": 2010,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+}
+],
+"backfilled": true
+}

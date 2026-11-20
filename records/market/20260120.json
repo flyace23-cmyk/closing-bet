@@ -1,0 +1,254 @@
+{
+"date": "20260120",
+"kospi": -0.39,
+"kosdaq": 0.83,
+"adv": 1663,
+"dec": 642,
+"flat": 94,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 408151,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 7,
+"lead": "나라스페이스테크놀로지",
+"lead_ret": 29.94,
+"second": "컨텍",
+"second_ret": 26.16
+},
+{
+"name": "원자력발전",
+"n": 7,
+"lead": "보성파워텍",
+"lead_ret": 30.0,
+"second": "우리기술",
+"second_ret": 29.97
+},
+{
+"name": "통신장비",
+"n": 4,
+"lead": "한국첨단소재",
+"lead_ret": 29.85,
+"second": "티엠씨",
+"second_ret": 25.18
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 8.36,
+"up5": 10,
+"lead": "우리기술",
+"lead_ret": 29.97,
+"second": "오르비텍",
+"second_ret": 25.83
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 7.55,
+"up5": 23,
+"lead": "보성파워텍",
+"lead_ret": 30.0,
+"second": "우리기술",
+"second_ret": 29.97
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 7.07,
+"up5": 4,
+"lead": "일진파워",
+"lead_ret": 29.96,
+"second": "모비스",
+"second_ret": 11.9
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 6.7,
+"up5": 17,
+"lead": "나라스페이스테크놀로지",
+"lead_ret": 29.94,
+"second": "컨텍",
+"second_ret": 26.16
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 6.66,
+"up5": 5,
+"lead": "한국첨단소재",
+"lead_ret": 29.85,
+"second": "티엠씨",
+"second_ret": 25.18
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 4.52,
+"up5": 11,
+"lead": "보성파워텍",
+"lead_ret": 30.0,
+"second": "한국전력",
+"second_ret": 16.16
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 4.31,
+"up5": 3,
+"lead": "팬오션",
+"lead_ret": 6.69,
+"second": "대한해운",
+"second_ret": 6.25
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 4.06,
+"up5": 6,
+"lead": "에이치브이엠",
+"lead_ret": 16.93,
+"second": "센서뷰",
+"second_ret": 15.19
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 3.87,
+"up5": 2,
+"lead": "우원개발",
+"lead_ret": 10.76,
+"second": "세명전기",
+"second_ret": 7.05
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.77,
+"up5": 2,
+"lead": "성우전자",
+"lead_ret": 5.92,
+"second": "퀀텀레일",
+"second_ret": 5.9
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 3.74,
+"up5": 8,
+"lead": "엔젠바이오",
+"lead_ret": 29.96,
+"second": "시선AI",
+"second_ret": 15.88
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.41,
+"up5": 2,
+"lead": "제테마",
+"lead_ret": 19.01,
+"second": "휴온스글로벌",
+"second_ret": 6.59
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.42,
+"up5": 0,
+"lead": "펨트론",
+"lead_ret": -0.06,
+"second": "LB인베스트먼트",
+"second_ret": -0.19
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.16,
+"up5": 0,
+"lead": "자람테크놀로지",
+"lead_ret": -0.27,
+"second": "앤씨앤",
+"second_ret": -1.23
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -2.1,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 3.71,
+"second": "아이언디바이스",
+"second_ret": 2.05
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.72,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 1.98,
+"second": "한온시스템",
+"second_ret": 1.57
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -1.63,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": 2.2,
+"second": "로보스타",
+"second_ret": 1.96
+}
+],
+"leaders": [
+{
+"name": "한국전력",
+"code": "015760",
+"ret": 16.16,
+"value": 12349,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 29.97,
+"value": 4660,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 11.44,
+"value": 4423,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 30.0,
+"value": 4390,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "나라스페이스테크놀로지",
+"code": "478340",
+"ret": 29.94,
+"value": 3188,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260202",
+"kospi": -5.26,
+"kosdaq": -4.44,
+"adv": 328,
+"dec": 2019,
+"flat": 52,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 459134,
+"hot": [
+{
+"name": "부동산 보유 자산주",
+"n": 4,
+"lead": "삼표시멘트",
+"lead_ret": 30.0,
+"second": "대성산업",
+"second_ret": 13.61
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "라온로보틱스",
+"lead_ret": 12.86,
+"second": "레이저쎌",
+"second_ret": 12.53
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "화신정공",
+"lead_ret": 21.69,
+"second": "육일씨엔에쓰",
+"second_ret": 20.51
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 4.52,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 13.61,
+"second": "동양고속",
+"second_ret": 11.13
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 1.72,
+"up5": 4,
+"lead": "삼표시멘트",
+"lead_ret": 30.0,
+"second": "대성산업",
+"second_ret": 13.61
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.36,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 20.32,
+"second": "하나금융지주",
+"second_ret": 3.2
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.21,
+"up5": 1,
+"lead": "삼표시멘트",
+"lead_ret": 30.0,
+"second": "모헨즈",
+"second_ret": 1.52
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 0.8,
+"up5": 1,
+"lead": "인콘",
+"lead_ret": 29.7,
+"second": "앤씨앤",
+"second_ret": 2.88
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 0.73,
+"up5": 2,
+"lead": "비엘팜텍",
+"lead_ret": 29.84,
+"second": "대성산업",
+"second_ret": 13.61
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 0.43,
+"up5": 4,
+"lead": "뉴로핏",
+"lead_ret": 29.91,
+"second": "엔젠바이오",
+"second_ret": 29.82
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 0.24,
+"up5": 1,
+"lead": "삼미금속",
+"lead_ret": 16.61,
+"second": "대모",
+"second_ret": 2.23
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 19,
+"avg": 0.06,
+"up5": 2,
+"lead": "인콘",
+"lead_ret": 29.7,
+"second": "파라텍",
+"second_ret": 9.72
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 0.06,
+"up5": 1,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.97,
+"second": "유에스티",
+"second_ret": 0.94
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.18,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 7.03,
+"second": "GS리테일",
+"second_ret": 0.23
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -0.19,
+"up5": 3,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.97,
+"second": "쎄노텍",
+"second_ret": 14.94
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -8.54,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": -5.28,
+"second": "대원전선",
+"second_ret": -5.91
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -6.32,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.43,
+"second": "심텍",
+"second_ret": -1.49
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -5.9,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": -1.39,
+"second": "심텍",
+"second_ret": -1.49
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -5.77,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": -2.52,
+"second": "삼성에스디에스",
+"second_ret": -3.0
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -5.72,
+"up5": 0,
+"lead": "부국증권",
+"lead_ret": -0.14,
+"second": "신영증권",
+"second_ret": -2.27
+}
+],
+"leaders": [
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 29.91,
+"value": 3858,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 30.0,
+"value": 3002,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 20.32,
+"value": 2831,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "삼미금속",
+"code": "012210",
+"ret": 16.61,
+"value": 2582,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "루미르",
+"code": "474170",
+"ret": 11.14,
+"value": 1831,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

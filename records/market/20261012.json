@@ -1,0 +1,254 @@
+{
+"date": "20261012",
+"kospi": -3.65,
+"kosdaq": -4.83,
+"adv": 389,
+"dec": 1968,
+"flat": 64,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 280878,
+"hot": [
+{
+"name": "시멘트/레미콘",
+"n": 4,
+"lead": "서산",
+"lead_ret": 29.25,
+"second": "강동씨앤엘",
+"second_ret": 15.12
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "라온시큐어",
+"lead_ret": 6.51,
+"second": "안랩",
+"second_ret": 4.52
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "엘앤씨바이오",
+"lead_ret": 15.95,
+"second": "리메드",
+"second_ret": 9.81
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 4.28,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 8.99,
+"second": "팬오션",
+"second_ret": 7.22
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.37,
+"up5": 4,
+"lead": "서산",
+"lead_ret": 29.25,
+"second": "강동씨앤엘",
+"second_ret": 15.12
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 0.67,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.65,
+"second": "롯데손해보험",
+"second_ret": 2.4
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.45,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 2.71,
+"second": "이마트",
+"second_ret": 2.27
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.29,
+"up5": 1,
+"lead": "HC보광산업",
+"lead_ret": 12.36,
+"second": "엔피케이",
+"second_ret": 0.19
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 0.17,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 15.67,
+"second": "졸스",
+"second_ret": 0.71
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 0.11,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 4.47,
+"second": "한화갤러리아",
+"second_ret": 2.15
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 0.06,
+"up5": 2,
+"lead": "금호건설",
+"lead_ret": 24.75,
+"second": "남화토건",
+"second_ret": 15.6
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -0.01,
+"up5": 1,
+"lead": "삼표시멘트",
+"lead_ret": 8.2,
+"second": "동양고속",
+"second_ret": 4.03
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": -0.13,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 8.99,
+"second": "태웅로직스",
+"second_ret": 1.08
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.35,
+"up5": 0,
+"lead": "대산F&B",
+"lead_ret": 1.4,
+"second": "하이트진로",
+"second_ret": 1.22
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -0.37,
+"up5": 0,
+"lead": "마니커에프앤지",
+"lead_ret": 3.7,
+"second": "푸드나무",
+"second_ret": 3.04
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -9.24,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -5.96,
+"second": "KBI메탈",
+"second_ret": -7.65
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -6.98,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 0.92,
+"second": "한전KPS",
+"second_ret": -2.29
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -6.74,
+"up5": 0,
+"lead": "한울반도체",
+"lead_ret": -2.3,
+"second": "삼성전기",
+"second_ret": -4.23
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": -6.67,
+"up5": 0,
+"lead": "에이루트",
+"lead_ret": 2.38,
+"second": "금화피에스시",
+"second_ret": -0.61
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -6.41,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": -0.61,
+"second": "스맥",
+"second_ret": -2.52
+}
+],
+"leaders": [
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 24.75,
+"value": 2111,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "금호전기",
+"code": "001210",
+"ret": 30.39,
+"value": 1405,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "엘앤씨바이오",
+"code": "290650",
+"ret": 15.95,
+"value": 461,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "다스코",
+"code": "058730",
+"ret": 10.23,
+"value": 350,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "서산",
+"code": "079650",
+"ret": 29.25,
+"value": 208,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

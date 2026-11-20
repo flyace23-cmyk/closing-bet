@@ -1,0 +1,254 @@
+{
+"date": "20260902",
+"kospi": -3.99,
+"kosdaq": -2.1,
+"adv": 442,
+"dec": 1860,
+"flat": 115,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 232881,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "디아이",
+"lead_ret": 14.82,
+"second": "아스플로",
+"second_ret": 12.62
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "좋은사람들",
+"lead_ret": 29.93,
+"second": "남화토건",
+"second_ret": 20.93
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "한솔테크닉스",
+"lead_ret": 14.16,
+"second": "HLB이노베이션",
+"second_ret": 13.61
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 4.05,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 29.97,
+"second": "흥아해운",
+"second_ret": 1.36
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.33,
+"up5": 5,
+"lead": "좋은사람들",
+"lead_ret": 29.93,
+"second": "남화토건",
+"second_ret": 20.93
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.16,
+"up5": 2,
+"lead": "서산",
+"lead_ret": 29.83,
+"second": "HC홈센타",
+"second_ret": 5.04
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 0.94,
+"up5": 1,
+"lead": "좋은사람들",
+"lead_ret": 29.93,
+"second": "배럴",
+"second_ret": 3.76
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.76,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 13.32,
+"second": "한국쉘석유",
+"second_ret": 0.2
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 0.71,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 7.43,
+"second": "로스웰",
+"second_ret": 2.01
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.7,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 13.32,
+"second": "중앙에너비스",
+"second_ret": 3.08
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.7,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 13.32,
+"second": "중앙에너비스",
+"second_ret": 3.08
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.62,
+"up5": 1,
+"lead": "HC홈센타",
+"lead_ret": 5.04,
+"second": "HC보광산업",
+"second_ret": 2.41
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 0.59,
+"up5": 1,
+"lead": "미스터블루",
+"lead_ret": 29.95,
+"second": "핑거스토리",
+"second_ret": 3.34
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 0.57,
+"up5": 1,
+"lead": "사조동아원",
+"lead_ret": 18.81,
+"second": "한탑",
+"second_ret": 2.15
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 0.23,
+"up5": 1,
+"lead": "남화산업",
+"lead_ret": 6.75,
+"second": "KX",
+"second_ret": 2.97
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -5.79,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -3.52,
+"second": "삼성중공업",
+"second_ret": -5.05
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -5.59,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": -0.71,
+"second": "광주신세계",
+"second_ret": -3.51
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -5.4,
+"up5": 0,
+"lead": "가온전선",
+"lead_ret": -3.6,
+"second": "대한전선",
+"second_ret": -3.84
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -4.83,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": -2.62,
+"second": "한온시스템",
+"second_ret": -3.81
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -4.72,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -2.1,
+"second": "삼성전자",
+"second_ret": -4.02
+}
+],
+"leaders": [
+{
+"name": "레메디",
+"code": "387690",
+"ret": 15.8,
+"value": 1364,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 13.32,
+"value": 1060,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 14.82,
+"value": 900,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "에스피소프트",
+"code": "443670",
+"ret": 13.87,
+"value": 683,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 13.72,
+"value": 634,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

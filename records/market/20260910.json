@@ -1,0 +1,254 @@
+{
+"date": "20260910",
+"kospi": -0.25,
+"kosdaq": 0.79,
+"adv": 1171,
+"dec": 1086,
+"flat": 161,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 383235,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "더코디",
+"lead_ret": 29.96,
+"second": "테라뷰",
+"second_ret": 17.87
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "피아이이",
+"lead_ret": 13.48,
+"second": "씨메스로보틱스",
+"second_ret": 13.07
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "스트라드비젼",
+"lead_ret": 14.59,
+"second": "삼현",
+"second_ret": 13.68
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 14.45,
+"up5": 3,
+"lead": "샘표",
+"lead_ret": 29.99,
+"second": "샘표식품",
+"second_ret": 29.96
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.35,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 20.02,
+"second": "중앙에너비스",
+"second_ret": 9.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.35,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 20.02,
+"second": "중앙에너비스",
+"second_ret": 9.89
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.81,
+"up5": 3,
+"lead": "티에스이",
+"lead_ret": 14.15,
+"second": "주성엔지니어링",
+"second_ret": 7.02
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 2.37,
+"up5": 8,
+"lead": "알파칩스",
+"lead_ret": 29.98,
+"second": "퀄리타스반도체",
+"second_ret": 12.37
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 2.3,
+"up5": 16,
+"lead": "더코디",
+"lead_ret": 29.96,
+"second": "테라뷰",
+"second_ret": 17.87
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 2.26,
+"up5": 3,
+"lead": "피아이이",
+"lead_ret": 13.48,
+"second": "와이씨켐",
+"second_ret": 7.97
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 2.19,
+"up5": 1,
+"lead": "한화손해보험",
+"lead_ret": 6.21,
+"second": "롯데손해보험",
+"second_ret": 4.21
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.04,
+"up5": 1,
+"lead": "원익피앤이",
+"lead_ret": 29.98,
+"second": "신성델타테크",
+"second_ret": 3.79
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.04,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 5.9,
+"second": "대성에너지",
+"second_ret": 4.45
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.04,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 10.3,
+"second": "SG",
+"second_ret": 4.34
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.02,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 20.02,
+"second": "극동유화",
+"second_ret": 3.33
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -2.03,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 2.86,
+"second": "대원전선",
+"second_ret": 0.22
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -1.51,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.0,
+"second": "삼성중공업",
+"second_ret": -1.16
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": -1.42,
+"up5": 0,
+"lead": "SK케미칼",
+"lead_ret": 0.73,
+"second": "KPX케미칼",
+"second_ret": 0.56
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 19,
+"avg": -1.33,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 2.86,
+"second": "HDC현대EP",
+"second_ret": 1.3
+},
+{
+"name": "유전자 치료제/분석",
+"n": 39,
+"avg": -1.27,
+"up5": 0,
+"lead": "씨젠",
+"lead_ret": 3.79,
+"second": "CG인바이츠",
+"second_ret": 3.52
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 20.02,
+"value": 3234,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "티에스이",
+"code": "131290",
+"ret": 14.15,
+"value": 2440,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 10.3,
+"value": 955,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "페니트리움바이오",
+"code": "187660",
+"ret": 11.86,
+"value": 724,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "샘표식품",
+"code": "248170",
+"ret": 29.96,
+"value": 520,
+"theme": "콩/대두",
+"reason": "테마: 콩/대두"
+}
+],
+"backfilled": true
+}

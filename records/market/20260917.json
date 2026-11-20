@@ -1,0 +1,246 @@
+{
+"date": "20260917",
+"kospi": -0.04,
+"kosdaq": 0.76,
+"adv": 1432,
+"dec": 858,
+"flat": 128,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 224356,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 9,
+"lead": "나라스페이스테크놀로지",
+"lead_ret": 29.44,
+"second": "비츠로테크",
+"second_ret": 29.27
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "싸이닉솔루션",
+"lead_ret": 19.86,
+"second": "아이씨티케이",
+"second_ret": 15.65
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 9.59,
+"up5": 4,
+"lead": "앤씨앤",
+"lead_ret": 29.89,
+"second": "네패스아크",
+"second_ret": 11.86
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 9.19,
+"up5": 8,
+"lead": "센서뷰",
+"lead_ret": 23.98,
+"second": "와이제이링크",
+"second_ret": 21.03
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 38,
+"avg": 7.71,
+"up5": 21,
+"lead": "나라스페이스테크놀로지",
+"lead_ret": 29.44,
+"second": "비츠로테크",
+"second_ret": 29.27
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 6.18,
+"up5": 3,
+"lead": "비츠로테크",
+"lead_ret": 29.27,
+"second": "비츠로넥스텍",
+"second_ret": 12.02
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 5.66,
+"up5": 3,
+"lead": "앤씨앤",
+"lead_ret": 29.89,
+"second": "비츠로시스",
+"second_ret": 7.16
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 4.65,
+"up5": 2,
+"lead": "HD현대중공업",
+"lead_ret": 6.21,
+"second": "삼성중공업",
+"second_ret": 5.9
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 4.12,
+"up5": 2,
+"lead": "SH에너지화학",
+"lead_ret": 28.46,
+"second": "포스코인터내셔널",
+"second_ret": 5.44
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.96,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 29.27,
+"second": "위드텍",
+"second_ret": 4.72
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 3.75,
+"up5": 3,
+"lead": "한켐",
+"lead_ret": 26.56,
+"second": "아바텍",
+"second_ret": 6.14
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 3.74,
+"up5": 14,
+"lead": "앤씨앤",
+"lead_ret": 29.89,
+"second": "싸이닉솔루션",
+"second_ret": 19.86
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 69,
+"avg": 3.7,
+"up5": 19,
+"lead": "비츠로테크",
+"lead_ret": 29.27,
+"second": "센서뷰",
+"second_ret": 23.98
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.69,
+"up5": 2,
+"lead": "큐라티스",
+"lead_ret": 29.96,
+"second": "인벤티지랩",
+"second_ret": 7.14
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -1.56,
+"up5": 0,
+"lead": "포바이포",
+"lead_ret": 0.0,
+"second": "아센디오",
+"second_ret": -0.34
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.26,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 2.94,
+"second": "태광산업",
+"second_ret": 0.99
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": -1.13,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 2.37,
+"second": "에프엔씨엔터",
+"second_ret": 0.7
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": -0.95,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 3.55,
+"second": "키이스트",
+"second_ret": 3.21
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.87,
+"up5": 0,
+"lead": "SOOP",
+"lead_ret": 0.54,
+"second": "동우팜투테이블",
+"second_ret": 0.49
+}
+],
+"leaders": [
+{
+"name": "미투온",
+"code": "201490",
+"ret": 18.49,
+"value": 3456,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 17.58,
+"value": 3277,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+},
+{
+"name": "한켐",
+"code": "457370",
+"ret": 26.56,
+"value": 1864,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "스피어",
+"code": "347700",
+"ret": 18.43,
+"value": 1416,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 11.85,
+"value": 1148,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+}
+],
+"backfilled": true
+}

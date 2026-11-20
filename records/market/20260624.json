@@ -1,0 +1,254 @@
+{
+"date": "20260624",
+"kospi": 3.26,
+"kosdaq": 2.0,
+"adv": 1270,
+"dec": 1030,
+"flat": 108,
+"limit_up": 15,
+"limit_down": 1,
+"value_total": 614246,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "로킷헬스케어",
+"lead_ret": 29.91,
+"second": "씨어스",
+"second_ret": 16.7
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "서암기계공업",
+"lead_ret": 30.0,
+"second": "씨피시스템",
+"second_ret": 29.89
+},
+{
+"name": "탈모 치료",
+"n": 3,
+"lead": "로킷헬스케어",
+"lead_ret": 29.91,
+"second": "올릭스",
+"second_ret": 13.91
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 5.39,
+"up5": 2,
+"lead": "광주신세계",
+"lead_ret": 25.26,
+"second": "대구백화점",
+"second_ret": 8.5
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.43,
+"up5": 3,
+"lead": "삼성바이오로직스",
+"lead_ret": 8.8,
+"second": "파미셀",
+"second_ret": 7.62
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 4.27,
+"up5": 3,
+"lead": "서암기계공업",
+"lead_ret": 30.0,
+"second": "넥스턴앤롤코리아",
+"second_ret": 12.24
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 4.02,
+"up5": 7,
+"lead": "한올바이오파마",
+"lead_ret": 18.86,
+"second": "알테오젠",
+"second_ret": 11.56
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.84,
+"up5": 4,
+"lead": "올릭스",
+"lead_ret": 13.91,
+"second": "파미셀",
+"second_ret": 7.62
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.77,
+"up5": 6,
+"lead": "펩트론",
+"lead_ret": 14.59,
+"second": "리가켐바이오",
+"second_ret": 10.58
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 72,
+"avg": 3.75,
+"up5": 17,
+"lead": "서암기계공업",
+"lead_ret": 30.0,
+"second": "브이원텍",
+"second_ret": 30.0
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": 3.72,
+"up5": 11,
+"lead": "에이프릴바이오",
+"lead_ret": 15.57,
+"second": "아이엠바이오로직스",
+"second_ret": 11.71
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 3.7,
+"up5": 2,
+"lead": "로킷헬스케어",
+"lead_ret": 29.91,
+"second": "로보스타",
+"second_ret": 8.9
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.58,
+"up5": 3,
+"lead": "삼성바이오로직스",
+"lead_ret": 8.8,
+"second": "토모큐브",
+"second_ret": 6.56
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.47,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 5.71,
+"second": "SK이노베이션",
+"second_ret": 5.02
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.39,
+"up5": 3,
+"lead": "파마리서치",
+"lead_ret": 8.75,
+"second": "휴메딕스",
+"second_ret": 8.09
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.71,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": 4.13,
+"second": "대주전자재료",
+"second_ret": 1.82
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.96,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.0,
+"second": "그래디언트",
+"second_ret": -2.3
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.63,
+"up5": 2,
+"lead": "글로벌에스엠",
+"lead_ret": 11.54,
+"second": "로스웰",
+"second_ret": 5.83
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -2.4,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 1.93,
+"second": "대성산업",
+"second_ret": 1.81
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.37,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 1.75,
+"second": "한성기업",
+"second_ret": -0.12
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 11.56,
+"value": 3037,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 13.51,
+"value": 1707,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "아리바이오홀딩스",
+"code": "290690",
+"ret": 15.6,
+"value": 1215,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 10.58,
+"value": 934,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 13.91,
+"value": 852,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

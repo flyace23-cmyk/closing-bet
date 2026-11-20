@@ -1,0 +1,254 @@
+{
+"date": "20261029",
+"kospi": -1.24,
+"kosdaq": -2.34,
+"adv": 540,
+"dec": 1828,
+"flat": 54,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 302053,
+"hot": [
+{
+"name": "지주사",
+"n": 4,
+"lead": "한화비전",
+"lead_ret": 21.51,
+"second": "JB금융지주",
+"second_ret": 6.35
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "컨텍",
+"lead_ret": 7.91,
+"second": "에스엠벡셀",
+"second_ret": 5.64
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "광전자",
+"lead_ret": 19.73,
+"second": "서울반도체",
+"second_ret": 5.36
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 11,
+"avg": 2.38,
+"up5": 1,
+"lead": "JB금융지주",
+"lead_ret": 6.35,
+"second": "iM금융지주",
+"second_ret": 4.72
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 1.65,
+"up5": 1,
+"lead": "한화비전",
+"lead_ret": 21.51,
+"second": "앤씨앤",
+"second_ret": 2.34
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.62,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 3.82,
+"second": "DB손해보험",
+"second_ret": 2.74
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 1.47,
+"up5": 3,
+"lead": "서울바이오시스",
+"lead_ret": 30.0,
+"second": "머큐리",
+"second_ret": 9.83
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.21,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 11.84,
+"second": "NICE",
+"second_ret": 3.71
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.19,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 3.03,
+"second": "GS리테일",
+"second_ret": 2.78
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 1.16,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 15.59,
+"second": "MH에탄올",
+"second_ret": 3.69
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 0.95,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 15.89,
+"second": "포바이포",
+"second_ret": 3.99
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 0.8,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 15.59,
+"second": "CJ씨푸드",
+"second_ret": 0.36
+},
+{
+"name": "음식료업종",
+"n": 65,
+"avg": 0.08,
+"up5": 4,
+"lead": "한울앤제주",
+"lead_ret": 15.59,
+"second": "우듬지팜",
+"second_ret": 13.18
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 0.04,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": 2.91,
+"second": "토모큐브",
+"second_ret": 1.25
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 0.03,
+"up5": 0,
+"lead": "한국금융지주",
+"lead_ret": 4.15,
+"second": "키움증권",
+"second_ret": 3.28
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 13,
+"avg": -7.62,
+"up5": 0,
+"lead": "기도산업",
+"lead_ret": 1.04,
+"second": "글로벌테크놀로지",
+"second_ret": 0.34
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -6.15,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -3.14,
+"second": "LS",
+"second_ret": -5.15
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -5.11,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 1.13,
+"second": "메가터치",
+"second_ret": -4.23
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": -5.06,
+"up5": 0,
+"lead": "지에프아이",
+"lead_ret": 0.32,
+"second": "한패스",
+"second_ret": -1.13
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 74,
+"avg": -4.79,
+"up5": 2,
+"lead": "포메탈",
+"lead_ret": 7.12,
+"second": "나무가",
+"second_ret": 5.1
+}
+],
+"leaders": [
+{
+"name": "광전자",
+"code": "017900",
+"ret": 19.73,
+"value": 1578,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 21.51,
+"value": 1268,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 15.14,
+"value": 545,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "로킷헬스케어",
+"code": "376900",
+"ret": 17.67,
+"value": 343,
+"theme": "3D 프린터",
+"reason": "테마: 3D 프린터"
+},
+{
+"name": "케이아이엔엑스",
+"code": "093320",
+"ret": 12.58,
+"value": 291,
+"theme": "클라우드 컴퓨팅",
+"reason": "테마: 클라우드 컴퓨팅"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20261007",
+"kospi": -1.98,
+"kosdaq": -2.34,
+"adv": 753,
+"dec": 1582,
+"flat": 86,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 275460,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 7,
+"lead": "녹십자엠에스",
+"lead_ret": 28.55,
+"second": "휴마시스",
+"second_ret": 18.75
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "국제약품",
+"lead_ret": 27.3,
+"second": "국전",
+"second_ret": 17.67
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "국제약품",
+"lead_ret": 27.3,
+"second": "한국화장품제조",
+"second_ret": 11.13
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 14.78,
+"up5": 3,
+"lead": "천일고속",
+"lead_ret": 29.99,
+"second": "동양고속",
+"second_ret": 27.17
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.89,
+"up5": 4,
+"lead": "국제약품",
+"lead_ret": 27.3,
+"second": "국전",
+"second_ret": 17.67
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 4.81,
+"up5": 6,
+"lead": "천일고속",
+"lead_ret": 29.99,
+"second": "동양고속",
+"second_ret": 27.17
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.16,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 19.62,
+"second": "SK가스",
+"second_ret": 5.66
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.16,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 19.62,
+"second": "SK가스",
+"second_ret": 5.66
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 2.01,
+"up5": 6,
+"lead": "녹십자엠에스",
+"lead_ret": 28.55,
+"second": "휴마시스",
+"second_ret": 18.75
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.95,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.52,
+"second": "GS",
+"second_ret": 3.49
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.9,
+"up5": 2,
+"lead": "국제약품",
+"lead_ret": 27.3,
+"second": "웰크론",
+"second_ret": 9.5
+},
+{
+"name": "화장품",
+"n": 93,
+"avg": 1.81,
+"up5": 15,
+"lead": "국제약품",
+"lead_ret": 27.3,
+"second": "더라미",
+"second_ret": 20.27
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.71,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 19.62,
+"second": "S-Oil",
+"second_ret": 3.52
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 1.7,
+"up5": 5,
+"lead": "진매트릭스",
+"lead_ret": 14.89,
+"second": "신풍제약",
+"second_ret": 8.33
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 1.51,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 3.16,
+"second": "STX그린로지스",
+"second_ret": 2.13
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 12,
+"avg": -6.65,
+"up5": 0,
+"lead": "니어스랩",
+"lead_ret": 1.1,
+"second": "기도산업",
+"second_ret": -0.79
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -6.32,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": -0.39,
+"second": "모델솔루션",
+"second_ret": -0.89
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -6.25,
+"up5": 0,
+"lead": "빛과전자",
+"lead_ret": -0.39,
+"second": "성호전자",
+"second_ret": -2.46
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 39,
+"avg": -6.09,
+"up5": 0,
+"lead": "이노스페이스",
+"lead_ret": 0.77,
+"second": "서남",
+"second_ret": 0.0
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -5.58,
+"up5": 0,
+"lead": "티에스이",
+"lead_ret": -1.13,
+"second": "미래컴퍼니",
+"second_ret": -3.57
+}
+],
+"leaders": [
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 15.32,
+"value": 1538,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "케이씨텍",
+"code": "281820",
+"ret": 12.98,
+"value": 1348,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한국화장품제조",
+"code": "003350",
+"ret": 11.13,
+"value": 966,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "녹십자엠에스",
+"code": "142280",
+"ret": 28.55,
+"value": 940,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 17.67,
+"value": 468,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

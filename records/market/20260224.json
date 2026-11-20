@@ -1,0 +1,254 @@
+{
+"date": "20260224",
+"kospi": 2.11,
+"kosdaq": 1.13,
+"adv": 1190,
+"dec": 1087,
+"flat": 122,
+"limit_up": 15,
+"limit_down": 2,
+"value_total": 437165,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "한화비전",
+"lead_ret": 29.89,
+"second": "에이치엠넥스",
+"second_ret": 24.22
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "한국전자홀딩스",
+"lead_ret": 29.91,
+"second": "한화비전",
+"second_ret": 29.89
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "서울반도체",
+"lead_ret": 29.88,
+"second": "서울바이오시스",
+"second_ret": 27.03
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 8.76,
+"up5": 3,
+"lead": "비츠로시스",
+"lead_ret": 29.93,
+"second": "한화비전",
+"second_ret": 29.89
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 5.95,
+"up5": 6,
+"lead": "기가레인",
+"lead_ret": 19.32,
+"second": "레이저쎌",
+"second_ret": 10.98
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 5.72,
+"up5": 13,
+"lead": "한화비전",
+"lead_ret": 29.89,
+"second": "디아이티",
+"second_ret": 13.19
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.93,
+"up5": 3,
+"lead": "대원전선",
+"lead_ret": 19.67,
+"second": "KBI메탈",
+"second_ret": 9.13
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 4.3,
+"up5": 5,
+"lead": "KEC",
+"lead_ret": 29.96,
+"second": "디아이티",
+"second_ret": 13.19
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.28,
+"up5": 2,
+"lead": "케스피온",
+"lead_ret": 30.07,
+"second": "아모센스",
+"second_ret": 24.37
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.28,
+"up5": 2,
+"lead": "케스피온",
+"lead_ret": 30.07,
+"second": "아모센스",
+"second_ret": 24.37
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 4.21,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 24.37,
+"second": "이랜텍",
+"second_ret": 16.29
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 4.17,
+"up5": 4,
+"lead": "에이치엠넥스",
+"lead_ret": 24.22,
+"second": "에어레인",
+"second_ret": 15.43
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 4.13,
+"up5": 25,
+"lead": "한화비전",
+"lead_ret": 29.89,
+"second": "에이치엠넥스",
+"second_ret": 24.22
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 4.09,
+"up5": 1,
+"lead": "서울반도체",
+"lead_ret": 29.88,
+"second": "삼성전자",
+"second_ret": 3.63
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.98,
+"up5": 7,
+"lead": "SFA넥셀",
+"lead_ret": 17.56,
+"second": "한농화성",
+"second_ret": 10.83
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": -5.08,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 2.49,
+"second": "서울보증보험",
+"second_ret": -1.52
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -4.35,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": -1.32,
+"second": "그래디언트",
+"second_ret": -2.14
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.79,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.18,
+"second": "신한지주",
+"second_ret": -0.88
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -2.01,
+"up5": 1,
+"lead": "SK증권",
+"lead_ret": 9.35,
+"second": "상상인증권",
+"second_ret": 4.59
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": -1.83,
+"up5": 1,
+"lead": "매커스",
+"lead_ret": 11.5,
+"second": "SGA솔루션즈",
+"second_ret": 2.21
+}
+],
+"leaders": [
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 19.67,
+"value": 8357,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 29.89,
+"value": 5327,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 12.55,
+"value": 4581,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 17.56,
+"value": 4501,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 24.35,
+"value": 4476,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

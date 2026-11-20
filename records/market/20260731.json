@@ -1,0 +1,254 @@
+{
+"date": "20260731",
+"kospi": 17.91,
+"kosdaq": 11.63,
+"adv": 2157,
+"dec": 194,
+"flat": 61,
+"limit_up": 25,
+"limit_down": 0,
+"value_total": 542927,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "테스",
+"lead_ret": 30.0,
+"second": "티에스이",
+"second_ret": 29.94
+},
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "두산",
+"lead_ret": 30.0,
+"second": "삼양엔씨켐",
+"second_ret": 29.99
+},
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "SK하이닉스",
+"lead_ret": 29.95,
+"second": "테크윙",
+"second_ret": 29.94
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 25.69,
+"up5": 6,
+"lead": "SK하이닉스",
+"lead_ret": 29.95,
+"second": "삼성전기",
+"second_ret": 29.92
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 24.47,
+"up5": 14,
+"lead": "태성",
+"lead_ret": 29.94,
+"second": "심텍",
+"second_ret": 29.94
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 24.23,
+"up5": 11,
+"lead": "엠케이전자",
+"lead_ret": 29.96,
+"second": "SK하이닉스",
+"second_ret": 29.95
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 20.7,
+"up5": 24,
+"lead": "SK하이닉스",
+"lead_ret": 29.95,
+"second": "제주반도체",
+"second_ret": 29.94
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 20.09,
+"up5": 34,
+"lead": "엠케이전자",
+"lead_ret": 29.96,
+"second": "SK하이닉스",
+"second_ret": 29.95
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 18.82,
+"up5": 11,
+"lead": "SK하이닉스",
+"lead_ret": 29.95,
+"second": "파두",
+"second_ret": 29.92
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 18.58,
+"up5": 14,
+"lead": "두산퓨얼셀",
+"lead_ret": 29.89,
+"second": "엘티씨",
+"second_ret": 29.89
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 18.42,
+"up5": 10,
+"lead": "티에스이",
+"lead_ret": 29.94,
+"second": "주성엔지니어링",
+"second_ret": 26.65
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 18.25,
+"up5": 6,
+"lead": "삼성전자",
+"lead_ret": 26.81,
+"second": "네패스",
+"second_ret": 26.54
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 17.91,
+"up5": 8,
+"lead": "대원전선",
+"lead_ret": 25.97,
+"second": "가온전선",
+"second_ret": 24.72
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 17.87,
+"up5": 89,
+"lead": "테스",
+"lead_ret": 30.0,
+"second": "티에스이",
+"second_ret": 29.94
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 17.44,
+"up5": 11,
+"lead": "삼성전기",
+"lead_ret": 29.92,
+"second": "아모텍",
+"second_ret": 25.02
+}
+],
+"themes_worst": [
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.09,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 2.89,
+"second": "흥구석유",
+"second_ret": 2.11
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.41,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 3.05,
+"second": "GS",
+"second_ret": 2.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.41,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 3.05,
+"second": "GS",
+"second_ret": 2.89
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 0.48,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 4.13,
+"second": "삼성화재",
+"second_ret": 2.27
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 0.78,
+"up5": 0,
+"lead": "나라셀라",
+"lead_ret": 4.41,
+"second": "한국알콜",
+"second_ret": 3.77
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 29.95,
+"value": 180383,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "삼성전자",
+"code": "005930",
+"ret": 26.81,
+"value": 153507,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 29.91,
+"value": 10785,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 29.92,
+"value": 7003,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 27.98,
+"value": 4768,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

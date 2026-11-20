@@ -1,0 +1,254 @@
+{
+"date": "20260318",
+"kospi": 5.04,
+"kosdaq": 2.41,
+"adv": 1484,
+"dec": 821,
+"flat": 96,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 403430,
+"hot": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 3,
+"lead": "티엘비",
+"lead_ret": 20.31,
+"second": "네오티스",
+"second_ret": 17.03
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "로킷헬스케어",
+"lead_ret": 30.0,
+"second": "레이저옵텍",
+"second_ret": 29.9
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "대우건설",
+"lead_ret": 22.79,
+"second": "우리기술",
+"second_ret": 21.58
+}
+],
+"themes": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 11.2,
+"up5": 6,
+"lead": "대우건설",
+"lead_ret": 22.79,
+"second": "GS건설",
+"second_ret": 16.59
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 8.36,
+"up5": 9,
+"lead": "티엘비",
+"lead_ret": 20.31,
+"second": "코리아써키트",
+"second_ret": 14.67
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 7.15,
+"up5": 5,
+"lead": "SK하이닉스",
+"lead_ret": 8.87,
+"second": "삼성생명",
+"second_ret": 8.29
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.06,
+"up5": 9,
+"lead": "티엘비",
+"lead_ret": 20.31,
+"second": "네오티스",
+"second_ret": 17.03
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 5.69,
+"up5": 4,
+"lead": "대원전선",
+"lead_ret": 14.99,
+"second": "가온전선",
+"second_ret": 7.55
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 5.54,
+"up5": 3,
+"lead": "로킷헬스케어",
+"lead_ret": 30.0,
+"second": "휴림로봇",
+"second_ret": 10.79
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 5.46,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 20.31,
+"second": "코리아써키트",
+"second_ret": 14.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 5.44,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 8.87,
+"second": "삼성전자",
+"second_ret": 7.53
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 5.23,
+"up5": 3,
+"lead": "효성티앤씨",
+"lead_ret": 13.36,
+"second": "금호석유화학",
+"second_ret": 10.9
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 5.07,
+"up5": 3,
+"lead": "삼화콘덴서",
+"lead_ret": 14.1,
+"second": "한켐",
+"second_ret": 8.31
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 4.93,
+"up5": 2,
+"lead": "삼화콘덴서",
+"lead_ret": 14.1,
+"second": "비츠로넥스텍",
+"second_ret": 9.76
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 4.52,
+"up5": 7,
+"lead": "대우건설",
+"lead_ret": 22.79,
+"second": "GS건설",
+"second_ret": 16.59
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -4.07,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 1.2,
+"second": "팬오션",
+"second_ret": 1.17
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.6,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.85,
+"second": "GS",
+"second_ret": 3.58
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.49,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.85,
+"second": "GS",
+"second_ret": 3.58
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.49,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.85,
+"second": "GS",
+"second_ret": 3.58
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -2.21,
+"up5": 0,
+"lead": "하림",
+"lead_ret": 0.32,
+"second": "교촌에프앤비",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 21.58,
+"value": 22280,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 22.79,
+"value": 16668,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 13.51,
+"value": 6086,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 10.79,
+"value": 5883,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 14.99,
+"value": 3076,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260724",
+"kospi": -5.72,
+"kosdaq": -5.32,
+"adv": 604,
+"dec": 1705,
+"flat": 103,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 342957,
+"hot": [
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "일승",
+"lead_ret": 29.86,
+"second": "현대힘스",
+"second_ret": 22.5
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "HLB제약",
+"lead_ret": 11.77,
+"second": "조아제약",
+"second_ret": 10.23
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "JB금융지주",
+"lead_ret": 5.28,
+"second": "풍산",
+"second_ret": 4.75
+}
+],
+"themes": [
+{
+"name": "제습기",
+"n": 8,
+"avg": 2.37,
+"up5": 2,
+"lead": "위닉스",
+"lead_ret": 29.93,
+"second": "파세코",
+"second_ret": 15.23
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 2.11,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 4.53,
+"second": "롯데손해보험",
+"second_ret": 3.62
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 2.06,
+"up5": 2,
+"lead": "진영",
+"lead_ret": 9.09,
+"second": "삼륭물산",
+"second_ret": 5.46
+},
+{
+"name": "조선기자재",
+"n": 36,
+"avg": 2.02,
+"up5": 6,
+"lead": "일승",
+"lead_ret": 29.86,
+"second": "현대힘스",
+"second_ret": 22.5
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.62,
+"up5": 1,
+"lead": "파세코",
+"lead_ret": 15.23,
+"second": "유한양행",
+"second_ret": 4.9
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.92,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 4.31,
+"second": "GS리테일",
+"second_ret": 1.18
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.84,
+"up5": 0,
+"lead": "경동도시가스",
+"lead_ret": 3.05,
+"second": "삼천리",
+"second_ret": 2.41
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.8,
+"up5": 1,
+"lead": "옴니시스템",
+"lead_ret": 8.37,
+"second": "퀀텀레일",
+"second_ret": 1.17
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 0.72,
+"up5": 3,
+"lead": "위닉스",
+"lead_ret": 29.93,
+"second": "파세코",
+"second_ret": 15.23
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 0.64,
+"up5": 1,
+"lead": "고려산업",
+"lead_ret": 13.04,
+"second": "오에스피",
+"second_ret": 4.15
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.62,
+"up5": 0,
+"lead": "한국쉘석유",
+"lead_ret": 3.37,
+"second": "GS",
+"second_ret": 1.82
+},
+{
+"name": "치매",
+"n": 51,
+"avg": 0.56,
+"up5": 3,
+"lead": "엔젠바이오",
+"lead_ret": 29.9,
+"second": "듀켐바이오",
+"second_ret": 29.84
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -9.78,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": -5.85,
+"second": "다원넥스뷰",
+"second_ret": -6.36
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -8.69,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.36,
+"second": "티에프이",
+"second_ret": -6.67
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -8.41,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": -2.69,
+"second": "프로텍",
+"second_ret": -2.76
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -8.22,
+"up5": 0,
+"lead": "원준",
+"lead_ret": -4.83,
+"second": "지아이에스",
+"second_ret": -5.6
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": -7.63,
+"up5": 0,
+"lead": "레이언스",
+"lead_ret": -1.16,
+"second": "국전",
+"second_ret": -1.19
+}
+],
+"leaders": [
+{
+"name": "삼성바이오로직스",
+"code": "207940",
+"ret": 10.08,
+"value": 3006,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "현대힘스",
+"code": "460930",
+"ret": 22.5,
+"value": 1164,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 13.04,
+"value": 683,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "파세코",
+"code": "037070",
+"ret": 15.23,
+"value": 580,
+"theme": "제습기",
+"reason": "테마: 제습기"
+},
+{
+"name": "위닉스",
+"code": "044340",
+"ret": 29.93,
+"value": 303,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+}
+],
+"backfilled": true
+}

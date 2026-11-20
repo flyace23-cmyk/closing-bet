@@ -1,0 +1,254 @@
+{
+"date": "20260213",
+"kospi": -0.28,
+"kosdaq": -1.77,
+"adv": 635,
+"dec": 1670,
+"flat": 94,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 400879,
+"hot": [
+{
+"name": "증권",
+"n": 9,
+"lead": "SK증권",
+"lead_ret": 29.91,
+"second": "LS증권",
+"second_ret": 21.18
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 3,
+"lead": "피에스텍",
+"lead_ret": 12.07,
+"second": "코콤",
+"second_ret": 11.44
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "지구홀딩스",
+"lead_ret": 29.94,
+"second": "코미팜",
+"second_ret": 13.02
+}
+],
+"themes": [
+{
+"name": "증권",
+"n": 21,
+"avg": 10.94,
+"up5": 17,
+"lead": "SK증권",
+"lead_ret": 29.91,
+"second": "LS증권",
+"second_ret": 21.18
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.27,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 13.23,
+"second": "한화생명",
+"second_ret": 7.45
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.66,
+"up5": 8,
+"lead": "SK증권",
+"lead_ret": 29.91,
+"second": "한화투자증권",
+"second_ret": 13.23
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.53,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 13.23,
+"second": "한국전자인증",
+"second_ret": 3.14
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 1.96,
+"up5": 3,
+"lead": "스피어",
+"lead_ret": 15.84,
+"second": "미래에셋증권",
+"second_ret": 15.36
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.36,
+"up5": 1,
+"lead": "현대해상",
+"lead_ret": 5.82,
+"second": "롯데손해보험",
+"second_ret": 4.86
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.09,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 13.23,
+"second": "DSC인베스트먼트",
+"second_ret": 4.02
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 0.91,
+"up5": 1,
+"lead": "국보디자인",
+"lead_ret": 7.66,
+"second": "이월드",
+"second_ret": 1.2
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 0.89,
+"up5": 1,
+"lead": "SH에너지화학",
+"lead_ret": 9.14,
+"second": "SNT에너지",
+"second_ret": 4.29
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 0.83,
+"up5": 6,
+"lead": "상아프론테크",
+"lead_ret": 29.84,
+"second": "스피어",
+"second_ret": 15.84
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.83,
+"up5": 0,
+"lead": "INVENI",
+"lead_ret": 3.01,
+"second": "삼천리",
+"second_ret": 2.78
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.71,
+"up5": 1,
+"lead": "아이티센씨티에스",
+"lead_ret": 5.48,
+"second": "유진기업",
+"second_ret": 4.34
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -4.52,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 0.37,
+"second": "GRT",
+"second_ret": 0.0
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -4.33,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": -0.85,
+"second": "대원미디어",
+"second_ret": -1.03
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -4.0,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -1.69,
+"second": "금호석유화학",
+"second_ret": -1.9
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.99,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.52,
+"second": "에스티팜",
+"second_ret": -0.68
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -3.97,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.46,
+"second": "에이직랜드",
+"second_ret": -1.45
+}
+],
+"leaders": [
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 15.36,
+"value": 13798,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "한화투자증권",
+"code": "003530",
+"ret": 13.23,
+"value": 4540,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 23.76,
+"value": 4321,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "SK증권",
+"code": "001510",
+"ret": 29.91,
+"value": 3629,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "SK텔레콤",
+"code": "017670",
+"ret": 10.9,
+"value": 3577,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+}
+],
+"backfilled": true
+}

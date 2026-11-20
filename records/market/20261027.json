@@ -1,0 +1,254 @@
+{
+"date": "20261027",
+"kospi": 3.09,
+"kosdaq": 2.29,
+"adv": 1606,
+"dec": 746,
+"flat": 70,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 206921,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "멜콘",
+"lead_ret": 32.36,
+"second": "티에프이",
+"second_ret": 22.9
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 6,
+"lead": "기가비스",
+"lead_ret": 16.75,
+"second": "네오티스",
+"second_ret": 14.19
+},
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "마이크로컨텍솔",
+"lead_ret": 20.23,
+"second": "한양디지텍",
+"second_ret": 18.27
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 9.55,
+"up5": 11,
+"lead": "기가비스",
+"lead_ret": 16.75,
+"second": "네오티스",
+"second_ret": 14.19
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 9.17,
+"up5": 10,
+"lead": "티에프이",
+"lead_ret": 22.9,
+"second": "코리아써키트",
+"second_ret": 13.88
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 8.75,
+"up5": 9,
+"lead": "엑시콘",
+"lead_ret": 21.98,
+"second": "오킨스전자",
+"second_ret": 17.47
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 13,
+"avg": 7.14,
+"up5": 5,
+"lead": "멜콘",
+"lead_ret": 32.36,
+"second": "글로벌테크놀로지",
+"second_ret": 29.36
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.6,
+"up5": 4,
+"lead": "SK스퀘어",
+"lead_ret": 10.31,
+"second": "삼성전기",
+"second_ret": 9.66
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 6.49,
+"up5": 15,
+"lead": "심텍",
+"lead_ret": 12.92,
+"second": "유니퀘스트",
+"second_ret": 12.06
+},
+{
+"name": "반도체 장비",
+"n": 95,
+"avg": 5.92,
+"up5": 50,
+"lead": "멜콘",
+"lead_ret": 32.36,
+"second": "티에프이",
+"second_ret": 22.9
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 5.85,
+"up5": 34,
+"lead": "마이크로컨텍솔",
+"lead_ret": 20.23,
+"second": "한양디지텍",
+"second_ret": 18.27
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 5.65,
+"up5": 12,
+"lead": "네오티스",
+"lead_ret": 14.19,
+"second": "코리아써키트",
+"second_ret": 13.88
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 5.51,
+"up5": 11,
+"lead": "기가비스",
+"lead_ret": 16.75,
+"second": "태성",
+"second_ret": 10.37
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 5.5,
+"up5": 21,
+"lead": "제너셈",
+"lead_ret": 10.41,
+"second": "예스티",
+"second_ret": 9.02
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 5.41,
+"up5": 3,
+"lead": "네패스아크",
+"lead_ret": 11.39,
+"second": "네패스",
+"second_ret": 10.96
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.19,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 4.44,
+"second": "한성기업",
+"second_ret": 1.24
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.53,
+"up5": 0,
+"lead": "한국알콜",
+"lead_ret": 4.7,
+"second": "하이트진로홀딩스",
+"second_ret": 2.82
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": -1.36,
+"up5": 2,
+"lead": "노머스",
+"lead_ret": 9.2,
+"second": "아센디오",
+"second_ret": 6.0
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.21,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 2.44,
+"second": "코오롱인더",
+"second_ret": 0.89
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.05,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": -0.41,
+"second": "동양고속",
+"second_ret": -0.44
+}
+],
+"leaders": [
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 10.31,
+"value": 7106,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "심텍",
+"code": "222800",
+"ret": 12.92,
+"value": 1253,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 14.27,
+"value": 880,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "샌즈랩",
+"code": "411080",
+"ret": 16.36,
+"value": 762,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "코리아써키트",
+"code": "007810",
+"ret": 13.88,
+"value": 759,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+}
+],
+"backfilled": true
+}

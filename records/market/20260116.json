@@ -1,0 +1,254 @@
+{
+"date": "20260116",
+"kospi": 0.9,
+"kosdaq": 0.36,
+"adv": 825,
+"dec": 1457,
+"flat": 117,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 393535,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "DYP",
+"lead_ret": 29.98,
+"second": "모베이스전자",
+"second_ret": 29.98
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "이스트에이드",
+"lead_ret": 29.76,
+"second": "유진로봇",
+"second_ret": 18.84
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "뉴로메카",
+"lead_ret": 27.71,
+"second": "유진로봇",
+"second_ret": 18.84
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 10,
+"avg": 5.81,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 29.99,
+"second": "아센디오",
+"second_ret": 29.76
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 5.75,
+"up5": 5,
+"lead": "포바이포",
+"lead_ret": 29.99,
+"second": "엑스페릭스",
+"second_ret": 9.69
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.77,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 13.35,
+"second": "현대건설",
+"second_ret": 4.4
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 3.73,
+"up5": 8,
+"lead": "프롬바이오",
+"lead_ret": 29.97,
+"second": "현대약품",
+"second_ret": 24.91
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.22,
+"up5": 3,
+"lead": "애드바이오텍",
+"lead_ret": 29.95,
+"second": "대주산업",
+"second_ret": 17.55
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.75,
+"up5": 3,
+"lead": "우리기술",
+"lead_ret": 17.1,
+"second": "한전기술",
+"second_ret": 11.73
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.6,
+"up5": 1,
+"lead": "삼성생명",
+"lead_ret": 5.83,
+"second": "SK스퀘어",
+"second_ret": 3.96
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.57,
+"up5": 2,
+"lead": "대한항공",
+"lead_ret": 5.65,
+"second": "제주항공",
+"second_ret": 5.17
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.49,
+"up5": 5,
+"lead": "피에스텍",
+"lead_ret": 23.71,
+"second": "포스코DX",
+"second_ret": 8.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.24,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 4.68,
+"second": "삼성전자",
+"second_ret": 3.47
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.02,
+"up5": 2,
+"lead": "팜스코",
+"lead_ret": 11.68,
+"second": "DSC인베스트먼트",
+"second_ret": 6.42
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.87,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 6.18,
+"second": "롯데쇼핑",
+"second_ret": 2.18
+}
+],
+"themes_worst": [
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.45,
+"up5": 0,
+"lead": "포니링크",
+"lead_ret": 0.99,
+"second": "인포뱅크",
+"second_ret": 0.66
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -3.34,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 2.03,
+"second": "신세계",
+"second_ret": 1.96
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -2.83,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.0,
+"second": "파이버프로",
+"second_ret": -0.54
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": -2.5,
+"up5": 0,
+"lead": "아이에스동서",
+"lead_ret": 0.44,
+"second": "LG에너지솔루션",
+"second_ret": -0.26
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": -2.42,
+"up5": 0,
+"lead": "YG PLUS",
+"lead_ret": 1.0,
+"second": "판타지오",
+"second_ret": 0.63
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 10.1,
+"value": 12254,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 14.68,
+"value": 6923,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 24.91,
+"value": 3504,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 11.73,
+"value": 3397,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 27.71,
+"value": 3324,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

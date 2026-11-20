@@ -1,0 +1,254 @@
+{
+"date": "20260819",
+"kospi": -5.8,
+"kosdaq": -1.17,
+"adv": 502,
+"dec": 1817,
+"flat": 96,
+"limit_up": 6,
+"limit_down": 2,
+"value_total": 282782,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "센서뷰",
+"lead_ret": 18.75,
+"second": "비츠로셀",
+"second_ret": 13.75
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "화신정공",
+"lead_ret": 29.79,
+"second": "KBI메탈",
+"second_ret": 10.13
+},
+{
+"name": "철도",
+"n": 3,
+"lead": "푸른로보틱스",
+"lead_ret": 15.97,
+"second": "부산산업",
+"second_ret": 14.29
+}
+],
+"themes": [
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.98,
+"up5": 5,
+"lead": "인디에프",
+"lead_ret": 29.85,
+"second": "좋은사람들",
+"second_ret": 29.85
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.77,
+"up5": 1,
+"lead": "조비",
+"lead_ret": 17.74,
+"second": "체시스",
+"second_ret": 3.06
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 1.7,
+"up5": 2,
+"lead": "한켐",
+"lead_ret": 29.94,
+"second": "코칩",
+"second_ret": 8.95
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.65,
+"up5": 2,
+"lead": "에스넷",
+"lead_ret": 13.83,
+"second": "인성정보",
+"second_ret": 7.31
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.51,
+"up5": 1,
+"lead": "조비",
+"lead_ret": 17.74,
+"second": "남해화학",
+"second_ret": 2.7
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.1,
+"up5": 4,
+"lead": "에스넷",
+"lead_ret": 13.83,
+"second": "이씨에스",
+"second_ret": 11.5
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 0.88,
+"up5": 1,
+"lead": "푸른로보틱스",
+"lead_ret": 15.97,
+"second": "로지시스",
+"second_ret": 2.35
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 0.78,
+"up5": 0,
+"lead": "노랑풍선",
+"lead_ret": 3.93,
+"second": "참좋은여행",
+"second_ret": 3.11
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 0.44,
+"up5": 2,
+"lead": "나이스정보통신",
+"lead_ret": 8.94,
+"second": "NICE",
+"second_ret": 5.6
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 0.42,
+"up5": 2,
+"lead": "아이티아이즈",
+"lead_ret": 11.19,
+"second": "세종텔레콤",
+"second_ret": 7.8
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 0.34,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 5.81,
+"second": "GS건설",
+"second_ret": 2.34
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 0.26,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 3.99,
+"second": "DB손해보험",
+"second_ret": 3.02
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -8.31,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -3.68,
+"second": "삼성물산",
+"second_ret": -5.96
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 6,
+"avg": -7.8,
+"up5": 0,
+"lead": "진코스텍",
+"lead_ret": 0.0,
+"second": "레몬헬스케어",
+"second_ret": -4.64
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.33,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": -2.19,
+"second": "자람테크놀로지",
+"second_ret": -2.93
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": -4.1,
+"up5": 0,
+"lead": "케이웨더",
+"lead_ret": 0.64,
+"second": "쿠쿠홈시스",
+"second_ret": -0.89
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -4.07,
+"up5": 0,
+"lead": "쿠쿠홈시스",
+"lead_ret": -0.89,
+"second": "신일전자",
+"second_ret": -1.38
+}
+],
+"leaders": [
+{
+"name": "아난티",
+"code": "025980",
+"ret": 18.89,
+"value": 2567,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "KBI메탈",
+"code": "024840",
+"ret": 10.13,
+"value": 809,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "화신정공",
+"code": "126640",
+"ret": 29.79,
+"value": 634,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "져스텍",
+"code": "153890",
+"ret": 17.68,
+"value": 630,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대아티아이",
+"code": "045390",
+"ret": 10.61,
+"value": 534,
+"theme": "철도",
+"reason": "테마: 철도"
+}
+],
+"backfilled": true
+}

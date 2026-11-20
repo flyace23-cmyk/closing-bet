@@ -1,0 +1,246 @@
+{
+"date": "20260728",
+"kospi": -10.84,
+"kosdaq": -7.72,
+"adv": 146,
+"dec": 2225,
+"flat": 41,
+"limit_up": 9,
+"limit_down": 2,
+"value_total": 387784,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "아이씨에이치",
+"lead_ret": 29.91,
+"second": "케이엔알시스템",
+"second_ret": 23.34
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "뉴엔AI",
+"lead_ret": 29.93,
+"second": "마음AI",
+"second_ret": 19.6
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 0.03,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 30.0,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "보안주(물리)",
+"n": 20,
+"avg": -0.65,
+"up5": 3,
+"lead": "앤씨앤",
+"lead_ret": 30.0,
+"second": "시선AI",
+"second_ret": 7.0
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.93,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": 2.27,
+"second": "하이트진로",
+"second_ret": -0.39
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.1,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 6.93,
+"second": "휴비스",
+"second_ret": -0.16
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -2.15,
+"up5": 1,
+"lead": "셀바스AI",
+"lead_ret": 11.91,
+"second": "미디어젠",
+"second_ret": 3.13
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": -2.21,
+"up5": 3,
+"lead": "포톤",
+"lead_ret": 30.0,
+"second": "엑스페릭스",
+"second_ret": 11.61
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -2.24,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 1.9,
+"second": "파마리서치",
+"second_ret": 1.49
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -2.4,
+"up5": 0,
+"lead": "대림제지",
+"lead_ret": -0.76,
+"second": "리더스코스메틱",
+"second_ret": -1.06
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 30,
+"avg": -2.44,
+"up5": 1,
+"lead": "셀레믹스",
+"lead_ret": 15.18,
+"second": "세니젠",
+"second_ret": 3.48
+},
+{
+"name": "광고",
+"n": 24,
+"avg": -2.47,
+"up5": 0,
+"lead": "차이커뮤니케이션",
+"lead_ret": 3.09,
+"second": "지어소프트",
+"second_ret": 1.05
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.5,
+"up5": 0,
+"lead": "사조씨푸드",
+"lead_ret": 0.42,
+"second": "신라교역",
+"second_ret": -0.21
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": -2.51,
+"up5": 2,
+"lead": "나노씨엠에스",
+"lead_ret": 29.97,
+"second": "벨로크",
+"second_ret": 5.63
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -14.24,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": -8.1,
+"second": "심텍홀딩스",
+"second_ret": -9.27
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -13.12,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": -6.18,
+"second": "금양그린파워",
+"second_ret": -7.07
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -13.04,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -8.51,
+"second": "삼성물산",
+"second_ret": -10.16
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -12.98,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 0.12,
+"second": "티에프이",
+"second_ret": -9.29
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -12.05,
+"up5": 0,
+"lead": "메카로",
+"lead_ret": -4.76,
+"second": "석경에이티",
+"second_ret": -6.56
+}
+],
+"leaders": [
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 11.91,
+"value": 514,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 10.94,
+"value": 388,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "케이엔알시스템",
+"code": "199430",
+"ret": 23.34,
+"value": 281,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "마음AI",
+"code": "377480",
+"ret": 19.6,
+"value": 230,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "뉴엔AI",
+"code": "463020",
+"ret": 29.93,
+"value": 122,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

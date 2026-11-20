@@ -1,0 +1,254 @@
+{
+"date": "20260825",
+"kospi": 0.68,
+"kosdaq": 1.7,
+"adv": 1678,
+"dec": 614,
+"flat": 125,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 275182,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "한전기술",
+"lead_ret": 20.27,
+"second": "현대건설",
+"second_ret": 14.87
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "에프에스티",
+"lead_ret": 20.8,
+"second": "오킨스전자",
+"second_ret": 19.98
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "금호에이치티",
+"lead_ret": 29.94,
+"second": "나노팀",
+"second_ret": 22.33
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 8.54,
+"up5": 9,
+"lead": "한전기술",
+"lead_ret": 20.27,
+"second": "케이엔알시스템",
+"second_ret": 15.92
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 6.65,
+"up5": 6,
+"lead": "엑시콘",
+"lead_ret": 20.59,
+"second": "오킨스전자",
+"second_ret": 19.98
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 6.2,
+"up5": 5,
+"lead": "삼화콘덴서",
+"lead_ret": 13.53,
+"second": "두산에너빌리티",
+"second_ret": 10.55
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 6.0,
+"up5": 24,
+"lead": "한전기술",
+"lead_ret": 20.27,
+"second": "현대건설",
+"second_ret": 14.87
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.94,
+"up5": 6,
+"lead": "티엘비",
+"lead_ret": 14.67,
+"second": "펨트론",
+"second_ret": 12.75
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 5.89,
+"up5": 2,
+"lead": "현대건설",
+"lead_ret": 14.87,
+"second": "대우건설",
+"second_ret": 11.8
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.58,
+"up5": 7,
+"lead": "티엘비",
+"lead_ret": 14.67,
+"second": "심텍",
+"second_ret": 11.12
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.57,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 30.0,
+"second": "오가닉티코스메틱",
+"second_ret": 15.95
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 5.05,
+"up5": 14,
+"lead": "와이씨",
+"lead_ret": 19.02,
+"second": "펨트론",
+"second_ret": 12.75
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.53,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 13.8,
+"second": "미코",
+"second_ret": 13.76
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 4.47,
+"up5": 1,
+"lead": "이건산업",
+"lead_ret": 29.96,
+"second": "SUN&L",
+"second_ret": 4.15
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 4.47,
+"up5": 1,
+"lead": "이건산업",
+"lead_ret": 29.96,
+"second": "SUN&L",
+"second_ret": 4.15
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -4.21,
+"up5": 0,
+"lead": "서린바이오",
+"lead_ret": 2.26,
+"second": "이연제약",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.35,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.76,
+"second": "엔투텍",
+"second_ret": -1.32
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.06,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 3.02,
+"second": "풀무원",
+"second_ret": 0.31
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.75,
+"up5": 1,
+"lead": "네이처셀",
+"lead_ret": 5.3,
+"second": "아리바이오랩",
+"second_ret": 4.93
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": -1.59,
+"up5": 1,
+"lead": "드림텍",
+"lead_ret": 7.2,
+"second": "지구홀딩스",
+"second_ret": 3.9
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.55,
+"value": 4445,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 15.84,
+"value": 2772,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "현대건설",
+"code": "000720",
+"ret": 14.87,
+"value": 2488,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 10.35,
+"value": 1776,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한화",
+"code": "000880",
+"ret": 17.4,
+"value": 1719,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

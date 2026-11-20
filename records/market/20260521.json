@@ -1,0 +1,254 @@
+{
+"date": "20260521",
+"kospi": 8.42,
+"kosdaq": 4.73,
+"adv": 1621,
+"dec": 668,
+"flat": 119,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 549316,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 8,
+"lead": "라온로보틱스",
+"lead_ret": 29.97,
+"second": "아이엘",
+"second_ret": 29.94
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 6,
+"lead": "마키나락스",
+"lead_ret": 30.0,
+"second": "아이엘",
+"second_ret": 29.94
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "라온로보틱스",
+"lead_ret": 29.97,
+"second": "로보스타",
+"second_ret": 27.45
+}
+],
+"themes": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 14.56,
+"up5": 6,
+"lead": "LG전자",
+"lead_ret": 29.83,
+"second": "LG디스플레이",
+"second_ret": 17.36
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 13.74,
+"up5": 6,
+"lead": "현대모비스",
+"lead_ret": 25.23,
+"second": "현대위아",
+"second_ret": 16.37
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 13.14,
+"up5": 6,
+"lead": "KBI메탈",
+"lead_ret": 30.0,
+"second": "LS에코에너지",
+"second_ret": 19.84
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 12.41,
+"up5": 6,
+"lead": "SK스퀘어",
+"lead_ret": 14.58,
+"second": "삼성생명",
+"second_ret": 13.78
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 11.04,
+"up5": 36,
+"lead": "마키나락스",
+"lead_ret": 30.0,
+"second": "아이엘",
+"second_ret": 29.94
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 10.3,
+"up5": 9,
+"lead": "심텍",
+"lead_ret": 21.14,
+"second": "엠케이전자",
+"second_ret": 16.84
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 10.18,
+"up5": 21,
+"lead": "제주반도체",
+"lead_ret": 24.26,
+"second": "심텍",
+"second_ret": 21.14
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 10.03,
+"up5": 11,
+"lead": "심텍홀딩스",
+"lead_ret": 29.94,
+"second": "심텍",
+"second_ret": 21.14
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 72,
+"avg": 9.29,
+"up5": 56,
+"lead": "라온로보틱스",
+"lead_ret": 29.97,
+"second": "아이엘",
+"second_ret": 29.94
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 8.98,
+"up5": 24,
+"lead": "KBI메탈",
+"lead_ret": 30.0,
+"second": "티씨머티리얼즈",
+"second_ret": 29.96
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 8.24,
+"up5": 4,
+"lead": "LG전자",
+"lead_ret": 29.83,
+"second": "에스피지",
+"second_ret": 23.8
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 8.16,
+"up5": 11,
+"lead": "에이치브이엠",
+"lead_ret": 17.73,
+"second": "한미반도체",
+"second_ret": 15.65
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.99,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 3.6,
+"second": "유비벨록스",
+"second_ret": 0.21
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -1.68,
+"up5": 1,
+"lead": "애드바이오텍",
+"lead_ret": 16.44,
+"second": "선진",
+"second_ret": 2.88
+},
+{
+"name": "마이크로바이옴",
+"n": 18,
+"avg": -1.45,
+"up5": 1,
+"lead": "비피도",
+"lead_ret": 6.34,
+"second": "LG생활건강",
+"second_ret": 1.41
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.17,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 2.68,
+"second": "국전",
+"second_ret": 2.67
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -1.1,
+"up5": 0,
+"lead": "콘텐트리중앙",
+"lead_ret": 4.81,
+"second": "YTN",
+"second_ret": 1.23
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 11.17,
+"value": 98876,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 13.48,
+"value": 16428,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "현대차",
+"code": "005380",
+"ret": 12.5,
+"value": 12873,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 29.83,
+"value": 12500,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 14.58,
+"value": 11159,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+}
+],
+"backfilled": true
+}

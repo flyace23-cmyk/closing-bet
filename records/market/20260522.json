@@ -1,0 +1,254 @@
+{
+"date": "20260522",
+"kospi": 0.41,
+"kosdaq": 4.99,
+"adv": 2064,
+"dec": 273,
+"flat": 71,
+"limit_up": 9,
+"limit_down": 1,
+"value_total": 453358,
+"hot": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 5,
+"lead": "삼화콘덴서",
+"lead_ret": 29.94,
+"second": "아바텍",
+"second_ret": 22.85
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "미래산업",
+"lead_ret": 29.89,
+"second": "인텍플러스",
+"second_ret": 26.68
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "포톤",
+"lead_ret": 30.0,
+"second": "엑스게이트",
+"second_ret": 24.19
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 13.18,
+"up5": 9,
+"lead": "삼화콘덴서",
+"lead_ret": 29.94,
+"second": "아바텍",
+"second_ret": 22.85
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 9.05,
+"up5": 6,
+"lead": "디아이씨",
+"lead_ret": 23.44,
+"second": "메가터치",
+"second_ret": 16.75
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 7.75,
+"up5": 6,
+"lead": "대주전자재료",
+"lead_ret": 18.34,
+"second": "선익시스템",
+"second_ret": 17.16
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 7.63,
+"up5": 14,
+"lead": "포톤",
+"lead_ret": 30.0,
+"second": "엑스게이트",
+"second_ret": 24.19
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 7.49,
+"up5": 8,
+"lead": "빛과전자",
+"lead_ret": 29.86,
+"second": "한국첨단소재",
+"second_ret": 21.53
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.48,
+"up5": 7,
+"lead": "인텍플러스",
+"lead_ret": 26.68,
+"second": "심텍홀딩스",
+"second_ret": 20.39
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 7.31,
+"up5": 10,
+"lead": "비나텍",
+"lead_ret": 19.1,
+"second": "두산퓨얼셀",
+"second_ret": 17.6
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 6.95,
+"up5": 6,
+"lead": "주성엔지니어링",
+"lead_ret": 20.95,
+"second": "예스티",
+"second_ret": 16.89
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 6.86,
+"up5": 2,
+"lead": "삼화콘덴서",
+"lead_ret": 29.94,
+"second": "SFA",
+"second_ret": 7.55
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 6.78,
+"up5": 10,
+"lead": "네이처셀",
+"lead_ret": 29.98,
+"second": "에스바이오메딕스",
+"second_ret": 19.65
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 6.53,
+"up5": 26,
+"lead": "빛과전자",
+"lead_ret": 29.86,
+"second": "한국첨단소재",
+"second_ret": 21.53
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 5.9,
+"up5": 3,
+"lead": "오로라",
+"lead_ret": 16.01,
+"second": "에피소드컴퍼니",
+"second_ret": 12.56
+}
+],
+"themes_worst": [
+{
+"name": "2026 상반기 신규상장",
+"n": 10,
+"avg": -3.15,
+"up5": 2,
+"lead": "리센스메디컬",
+"lead_ret": 6.96,
+"second": "아이엠바이오로직스",
+"second_ret": 5.42
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.92,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": 3.45,
+"second": "대구백화점",
+"second_ret": 2.53
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.64,
+"up5": 0,
+"lead": "JTC",
+"lead_ret": 3.21,
+"second": "토니모리",
+"second_ret": 2.76
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.61,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 1.66,
+"second": "롯데지주",
+"second_ret": 0.56
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.44,
+"up5": 0,
+"lead": "트리니티항공",
+"lead_ret": 3.09,
+"second": "진에어",
+"second_ret": 2.64
+}
+],
+"leaders": [
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 11.3,
+"value": 18309,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 20.95,
+"value": 14849,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 14.53,
+"value": 7076,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 12.87,
+"value": 5461,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "쏠리드",
+"code": "050890",
+"ret": 15.18,
+"value": 2914,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+}
+],
+"backfilled": true
+}

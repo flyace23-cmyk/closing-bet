@@ -1,0 +1,254 @@
+{
+"date": "20260918",
+"kospi": 2.66,
+"kosdaq": 0.6,
+"adv": 1150,
+"dec": 1147,
+"flat": 121,
+"limit_up": 5,
+"limit_down": 2,
+"value_total": 345269,
+"hot": [
+{
+"name": "전력설비",
+"n": 6,
+"lead": "선도전기",
+"lead_ret": 29.11,
+"second": "가온전선",
+"second_ret": 21.97
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 5,
+"lead": "우리로",
+"lead_ret": 14.33,
+"second": "이노인스트루먼트",
+"second_ret": 13.76
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 3,
+"lead": "성호전자",
+"lead_ret": 18.92,
+"second": "RFHIC",
+"second_ret": 13.52
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 9.55,
+"up5": 7,
+"lead": "가온전선",
+"lead_ret": 21.97,
+"second": "LS에코에너지",
+"second_ret": 11.87
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.13,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.91,
+"second": "오픈엣지테크놀로지",
+"second_ret": 4.92
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 5.96,
+"up5": 7,
+"lead": "성호전자",
+"lead_ret": 18.92,
+"second": "RFHIC",
+"second_ret": 13.52
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 4.42,
+"up5": 10,
+"lead": "선도전기",
+"lead_ret": 29.11,
+"second": "가온전선",
+"second_ret": 21.97
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 4.33,
+"up5": 2,
+"lead": "쿠콘",
+"lead_ret": 9.86,
+"second": "갤럭시아머니트리",
+"second_ret": 5.69
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 3.76,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.91,
+"second": "한화비전",
+"second_ret": 4.76
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 3.6,
+"up5": 3,
+"lead": "티씨머티리얼즈",
+"lead_ret": 8.83,
+"second": "특수건설",
+"second_ret": 5.42
+},
+{
+"name": "통신장비",
+"n": 47,
+"avg": 3.53,
+"up5": 13,
+"lead": "우리로",
+"lead_ret": 14.33,
+"second": "이노인스트루먼트",
+"second_ret": 13.76
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.95,
+"up5": 2,
+"lead": "대한화섬",
+"lead_ret": 6.92,
+"second": "우성머티리얼스",
+"second_ret": 5.9
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 2.53,
+"up5": 12,
+"lead": "우리로",
+"lead_ret": 14.33,
+"second": "이노인스트루먼트",
+"second_ret": 13.76
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.52,
+"up5": 5,
+"lead": "선도전기",
+"lead_ret": 29.11,
+"second": "우리넷",
+"second_ret": 8.26
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.21,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 5.2,
+"second": "SK하이닉스",
+"second_ret": 4.7
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -2.61,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 0.31,
+"second": "롯데관광개발",
+"second_ret": 0.09
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -2.37,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": 1.43,
+"second": "대원미디어",
+"second_ret": 0.77
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -2.07,
+"up5": 0,
+"lead": "인산가",
+"lead_ret": 2.43,
+"second": "메타케어",
+"second_ret": 2.39
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -2.02,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": -1.12,
+"second": "롯데손해보험",
+"second_ret": -1.43
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.93,
+"up5": 0,
+"lead": "우림피티에스",
+"lead_ret": 1.85,
+"second": "E1",
+"second_ret": -0.32
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 13.23,
+"value": 10214,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 18.92,
+"value": 5293,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 21.97,
+"value": 4661,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 10.28,
+"value": 2796,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 14.33,
+"value": 1615,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20261008",
+"kospi": -2.62,
+"kosdaq": -0.69,
+"adv": 871,
+"dec": 1456,
+"flat": 94,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 314244,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 30.59,
+"second": "피노",
+"second_ret": 17.35
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "디바이스",
+"lead_ret": 19.24,
+"second": "다원넥스뷰",
+"second_ret": 16.63
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "디바이스",
+"lead_ret": 19.24,
+"second": "에프엔에스테크",
+"second_ret": 14.06
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 7.23,
+"up5": 2,
+"lead": "동양고속",
+"lead_ret": 27.18,
+"second": "천일고속",
+"second_ret": 22.57
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 4.34,
+"up5": 3,
+"lead": "에피소드컴퍼니",
+"lead_ret": 13.36,
+"second": "대원미디어",
+"second_ret": 10.07
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 3.75,
+"up5": 4,
+"lead": "유진테크놀로지",
+"lead_ret": 30.0,
+"second": "알멕",
+"second_ret": 12.79
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.26,
+"up5": 4,
+"lead": "다원넥스뷰",
+"lead_ret": 16.63,
+"second": "네오티스",
+"second_ret": 6.77
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.06,
+"up5": 1,
+"lead": "더블유씨피",
+"lead_ret": 10.77,
+"second": "나인테크",
+"second_ret": 4.51
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.41,
+"up5": 1,
+"lead": "대한화섬",
+"lead_ret": 13.74,
+"second": "우성머티리얼스",
+"second_ret": 2.15
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.13,
+"up5": 11,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 30.59,
+"second": "유진테크놀로지",
+"second_ret": 30.0
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 2.07,
+"up5": 12,
+"lead": "에프엔에스테크",
+"lead_ret": 14.06,
+"second": "피엠티",
+"second_ret": 11.36
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 1.97,
+"up5": 10,
+"lead": "디바이스",
+"lead_ret": 19.24,
+"second": "다원넥스뷰",
+"second_ret": 16.63
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 1.94,
+"up5": 2,
+"lead": "에프엔에스테크",
+"lead_ret": 14.06,
+"second": "제이앤티씨",
+"second_ret": 5.26
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 1.88,
+"up5": 2,
+"lead": "제너셈",
+"lead_ret": 13.97,
+"second": "넥스틴",
+"second_ret": 5.59
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.88,
+"up5": 3,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 30.59,
+"second": "신흥에스이씨",
+"second_ret": 9.03
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 12,
+"avg": -6.17,
+"up5": 0,
+"lead": "진코스텍",
+"lead_ret": 1.24,
+"second": "덕산넵코어스",
+"second_ret": 0.08
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.37,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -1.84,
+"second": "지씨셀",
+"second_ret": -2.59
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -4.36,
+"up5": 0,
+"lead": "이연제약",
+"lead_ret": 1.48,
+"second": "아미노로직스",
+"second_ret": 0.67
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -3.88,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": -0.64,
+"second": "일신바이오",
+"second_ret": -0.87
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -3.58,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -3.0,
+"second": "한화오션",
+"second_ret": -3.1
+}
+],
+"leaders": [
+{
+"name": "두산테스나",
+"code": "131970",
+"ret": 12.3,
+"value": 1259,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "동국산업",
+"code": "005160",
+"ret": 20.23,
+"value": 1068,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "피노",
+"code": "033790",
+"ret": 17.35,
+"value": 771,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "저스템",
+"code": "417840",
+"ret": 11.32,
+"value": 700,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼기에너지솔루션즈",
+"code": "419050",
+"ret": 30.59,
+"value": 571,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

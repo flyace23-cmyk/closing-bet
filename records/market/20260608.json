@@ -1,0 +1,254 @@
+{
+"date": "20260608",
+"kospi": -8.29,
+"kosdaq": -9.08,
+"adv": 96,
+"dec": 2277,
+"flat": 35,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 541330,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "팸텍",
+"lead_ret": 29.98,
+"second": "에이치엠넥스",
+"second_ret": 8.27
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "화신정공",
+"lead_ret": 29.95,
+"second": "화신",
+"second_ret": 22.76
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "라이콤",
+"lead_ret": 14.21,
+"second": "오파스넷",
+"second_ret": 11.09
+}
+],
+"themes": [
+{
+"name": "종합상사",
+"n": 8,
+"avg": -1.54,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 30.0,
+"second": "코오롱글로벌",
+"second_ret": -4.02
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.55,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 1.71,
+"second": "오가닉티코스메틱",
+"second_ret": 0.0
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.62,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 30.0,
+"second": "이씨에스",
+"second_ret": -2.62
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -2.54,
+"up5": 1,
+"lead": "한창제지",
+"lead_ret": 12.5,
+"second": "한국수출포장",
+"second_ret": -0.75
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.86,
+"up5": 0,
+"lead": "인천도시가스",
+"lead_ret": -0.96,
+"second": "대성에너지",
+"second_ret": -0.98
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.86,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 4.29,
+"second": "성우전자",
+"second_ret": -1.69
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": -2.96,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 30.0,
+"second": "IPARK현대산업개발",
+"second_ret": -2.56
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -3.19,
+"up5": 0,
+"lead": "MH에탄올",
+"lead_ret": -0.99,
+"second": "진로발효",
+"second_ret": -1.66
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -3.3,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": 4.29,
+"second": "넥스틸",
+"second_ret": 2.65
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -3.4,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 2.26,
+"second": "미창석유",
+"second_ret": -1.98
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -3.41,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": 2.11,
+"second": "사조오양",
+"second_ret": -0.25
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.45,
+"up5": 0,
+"lead": "블루산업개발",
+"lead_ret": 0.0,
+"second": "한국수출포장",
+"second_ret": -0.75
+}
+],
+"themes_worst": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": -11.5,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": -7.34,
+"second": "티에스이",
+"second_ret": -10.15
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -10.72,
+"up5": 0,
+"lead": "엘티씨",
+"lead_ret": -2.8,
+"second": "금양그린파워",
+"second_ret": -5.8
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -10.5,
+"up5": 0,
+"lead": "루멘스바이오스",
+"lead_ret": -5.33,
+"second": "영우디에스피",
+"second_ret": -6.9
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 10,
+"avg": -10.44,
+"up5": 0,
+"lead": "케이뱅크",
+"lead_ret": -2.15,
+"second": "케이피항공산업",
+"second_ret": -3.1
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -10.43,
+"up5": 0,
+"lead": "레이언스",
+"lead_ret": -4.85,
+"second": "윈팩",
+"second_ret": -5.72
+}
+],
+"leaders": [
+{
+"name": "SK네트웍스",
+"code": "001740",
+"ret": 30.0,
+"value": 8007,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+},
+{
+"name": "미래에셋생명",
+"code": "085620",
+"ret": 12.96,
+"value": 1016,
+"theme": "생명보험",
+"reason": "테마: 생명보험"
+},
+{
+"name": "라이콤",
+"code": "388790",
+"ret": 14.21,
+"value": 1015,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "아이로보틱스",
+"code": "066430",
+"ret": 29.98,
+"value": 764,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "화신",
+"code": "010690",
+"ret": 22.76,
+"value": 569,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

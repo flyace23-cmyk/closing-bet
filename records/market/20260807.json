@@ -1,0 +1,254 @@
+{
+"date": "20260807",
+"kospi": -0.6,
+"kosdaq": -0.36,
+"adv": 1257,
+"dec": 1034,
+"flat": 121,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 290085,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "동화기업",
+"lead_ret": 30.0,
+"second": "엔켐",
+"second_ret": 18.62
+},
+{
+"name": "태양광에너지",
+"n": 3,
+"lead": "혜인",
+"lead_ret": 29.89,
+"second": "OCI홀딩스",
+"second_ret": 11.68
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "BGF리테일",
+"lead_ret": 14.68,
+"second": "S-Oil",
+"second_ret": 10.17
+}
+],
+"themes": [
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.49,
+"up5": 2,
+"lead": "BGF리테일",
+"lead_ret": 14.68,
+"second": "GS리테일",
+"second_ret": 7.18
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.38,
+"up5": 7,
+"lead": "엔켐",
+"lead_ret": 18.62,
+"second": "강원에너지",
+"second_ret": 15.52
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.24,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 10.77,
+"second": "S-Oil",
+"second_ret": 10.17
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.16,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 9.7,
+"second": "TKG휴켐스",
+"second_ret": 4.78
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.93,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 10.77,
+"second": "S-Oil",
+"second_ret": 10.17
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.93,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 10.77,
+"second": "S-Oil",
+"second_ret": 10.17
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.92,
+"up5": 8,
+"lead": "동화기업",
+"lead_ret": 30.0,
+"second": "민테크",
+"second_ret": 11.31
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.59,
+"up5": 5,
+"lead": "한화솔루션",
+"lead_ret": 11.51,
+"second": "SK이노베이션",
+"second_ret": 10.77
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.45,
+"up5": 3,
+"lead": "엘앤에프",
+"lead_ret": 13.03,
+"second": "SK이노베이션",
+"second_ret": 10.77
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.27,
+"up5": 1,
+"lead": "윙입푸드",
+"lead_ret": 29.93,
+"second": "GRT",
+"second_ret": 4.42
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.13,
+"up5": 2,
+"lead": "금호석유화학",
+"lead_ret": 6.49,
+"second": "LG화학",
+"second_ret": 5.75
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 3.08,
+"up5": 4,
+"lead": "한국첨단소재",
+"lead_ret": 29.89,
+"second": "서울바이오시스",
+"second_ret": 6.7
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 6,
+"avg": -3.57,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 0.33,
+"second": "한화갤러리아",
+"second_ret": -1.22
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.4,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": -0.22,
+"second": "일진전기",
+"second_ret": -1.02
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -2.97,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": 2.42,
+"second": "비나텍",
+"second_ret": 0.3
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": -2.77,
+"up5": 0,
+"lead": "지에프아이",
+"lead_ret": 3.3,
+"second": "스트라드비젼",
+"second_ret": 0.99
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -2.68,
+"up5": 0,
+"lead": "위메이드",
+"lead_ret": 1.87,
+"second": "더즌",
+"second_ret": 0.86
+}
+],
+"leaders": [
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 11.51,
+"value": 6797,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "OCI홀딩스",
+"code": "010060",
+"ret": 11.68,
+"value": 3060,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "광전자",
+"code": "017900",
+"ret": 15.02,
+"value": 1721,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 10.77,
+"value": 1529,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 13.03,
+"value": 1163,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

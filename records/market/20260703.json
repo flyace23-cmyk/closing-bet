@@ -1,0 +1,254 @@
+{
+"date": "20260703",
+"kospi": 5.76,
+"kosdaq": 0.19,
+"adv": 1547,
+"dec": 763,
+"flat": 100,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 529611,
+"hot": [
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 5,
+"lead": "HPSP",
+"lead_ret": 10.98,
+"second": "SK하이닉스",
+"second_ret": 10.88
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 4,
+"lead": "SK하이닉스",
+"lead_ret": 10.88,
+"second": "ISC",
+"second_ret": 8.37
+},
+{
+"name": "증권",
+"n": 4,
+"lead": "삼성증권",
+"lead_ret": 10.38,
+"second": "NH투자증권",
+"second_ret": 8.46
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.1,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 10.88,
+"second": "삼성전자",
+"second_ret": 8.22
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 5.57,
+"up5": 13,
+"lead": "삼성증권",
+"lead_ret": 10.38,
+"second": "NH투자증권",
+"second_ret": 8.46
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.07,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 18.06,
+"second": "성우전자",
+"second_ret": 3.75
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.92,
+"up5": 2,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "미래나노텍",
+"second_ret": 24.13
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.92,
+"up5": 2,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "미래나노텍",
+"second_ret": 24.13
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 4.47,
+"up5": 2,
+"lead": "웰크론한텍",
+"lead_ret": 16.2,
+"second": "서한",
+"second_ret": 6.01
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.31,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 16.07,
+"second": "메디포스트",
+"second_ret": 5.05
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": 4.08,
+"up5": 3,
+"lead": "져스텍",
+"lead_ret": 29.96,
+"second": "에스팀",
+"second_ret": 10.61
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 3.88,
+"up5": 2,
+"lead": "파세코",
+"lead_ret": 14.41,
+"second": "삼성전자",
+"second_ret": 8.22
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.79,
+"up5": 8,
+"lead": "아이티아이즈",
+"lead_ret": 13.83,
+"second": "NH투자증권",
+"second_ret": 8.46
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 3.7,
+"up5": 9,
+"lead": "져스텍",
+"lead_ret": 29.96,
+"second": "SK하이닉스",
+"second_ret": 10.88
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 3.58,
+"up5": 6,
+"lead": "캠시스",
+"lead_ret": 19.46,
+"second": "MSDI",
+"second_ret": 10.48
+}
+],
+"themes_worst": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -3.39,
+"up5": 5,
+"lead": "동원개발",
+"lead_ret": 29.9,
+"second": "웰크론한텍",
+"second_ret": 16.2
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -3.13,
+"up5": 0,
+"lead": "디지틀조선",
+"lead_ret": 4.23,
+"second": "애니플러스",
+"second_ret": 2.84
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.86,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": 3.96,
+"second": "롯데쇼핑",
+"second_ret": -0.71
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -1.73,
+"up5": 1,
+"lead": "야스",
+"lead_ret": 6.34,
+"second": "대주전자재료",
+"second_ret": 1.6
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -1.61,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 11.71,
+"second": "CJ CGV",
+"second_ret": 2.43
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 10.88,
+"value": 193634,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 10.98,
+"value": 3671,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "져스텍",
+"code": "153890",
+"ret": 29.96,
+"value": 1118,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼성증권",
+"code": "016360",
+"ret": 10.38,
+"value": 1033,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "인텍플러스",
+"code": "064290",
+"ret": 13.1,
+"value": 556,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+}
+],
+"backfilled": true
+}

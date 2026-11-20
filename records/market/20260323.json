@@ -1,0 +1,254 @@
+{
+"date": "20260323",
+"kospi": -6.49,
+"kosdaq": -5.56,
+"adv": 192,
+"dec": 2177,
+"flat": 33,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 364375,
+"hot": [
+{
+"name": "통신장비",
+"n": 5,
+"lead": "오늘이엔엠",
+"lead_ret": 29.97,
+"second": "빛과전자",
+"second_ret": 29.91
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 5,
+"lead": "삼륭물산",
+"lead_ret": 29.92,
+"second": "에코플라스틱",
+"second_ret": 29.9
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "에코플라스틱",
+"lead_ret": 29.9,
+"second": "KEC",
+"second_ret": 21.18
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 13.35,
+"up5": 6,
+"lead": "삼륭물산",
+"lead_ret": 29.92,
+"second": "에코플라스틱",
+"second_ret": 29.9
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -0.57,
+"up5": 3,
+"lead": "빛과전자",
+"lead_ret": 29.91,
+"second": "티엠씨",
+"second_ret": 18.43
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -1.21,
+"up5": 1,
+"lead": "사람인",
+"lead_ret": 18.33,
+"second": "메가엠디",
+"second_ret": -1.33
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -1.65,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 19.64,
+"second": "STX그린로지스",
+"second_ret": -3.06
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": -1.73,
+"up5": 1,
+"lead": "삼륭물산",
+"lead_ret": 29.92,
+"second": "퍼스텍",
+"second_ret": 0.14
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -1.8,
+"up5": 1,
+"lead": "한텍",
+"lead_ret": 25.68,
+"second": "대창솔루션",
+"second_ret": 3.75
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.89,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 0.23,
+"second": "유비벨록스",
+"second_ret": -0.91
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": -1.98,
+"up5": 6,
+"lead": "오늘이엔엠",
+"lead_ret": 29.97,
+"second": "빛과전자",
+"second_ret": 29.91
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -2.02,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": 1.49,
+"second": "풍국주정",
+"second_ret": -0.2
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": -2.03,
+"up5": 2,
+"lead": "파워넷",
+"lead_ret": 21.21,
+"second": "KEC",
+"second_ret": 21.18
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.04,
+"up5": 1,
+"lead": "엔피케이",
+"lead_ret": 6.74,
+"second": "한국석유",
+"second_ret": 1.71
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.1,
+"up5": 0,
+"lead": "대성에너지",
+"lead_ret": 4.04,
+"second": "지에스이",
+"second_ret": 2.11
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -7.73,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": -2.63,
+"second": "HJ중공업",
+"second_ret": -7.21
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -7.34,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -6.05,
+"second": "삼성전자",
+"second_ret": -6.57
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": -7.24,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": -2.03,
+"second": "롯데이노베이트",
+"second_ret": -3.02
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -7.17,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -2.4,
+"second": "대구백화점",
+"second_ret": -5.49
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -7.09,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": -0.93,
+"second": "범한퓨얼셀",
+"second_ret": -3.9
+}
+],
+"leaders": [
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 19.64,
+"value": 7200,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "한텍",
+"code": "098070",
+"ret": 25.68,
+"value": 1579,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "아리바이오랩",
+"code": "261780",
+"ret": 29.9,
+"value": 1510,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "티엠씨",
+"code": "217590",
+"ret": 18.43,
+"value": 1397,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "경보제약",
+"code": "214390",
+"ret": 11.33,
+"value": 1324,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

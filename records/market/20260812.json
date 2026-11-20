@@ -1,0 +1,254 @@
+{
+"date": "20260812",
+"kospi": 3.68,
+"kosdaq": 0.12,
+"adv": 1140,
+"dec": 1130,
+"flat": 142,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 327842,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.8,
+"second": "한국콜마",
+"second_ret": 22.8
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "에프에스티",
+"lead_ret": 14.69,
+"second": "미래산업",
+"second_ret": 14.57
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "금호전기",
+"lead_ret": 29.9,
+"second": "빛샘전자",
+"second_ret": 16.21
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 6.27,
+"up5": 3,
+"lead": "일진전기",
+"lead_ret": 17.31,
+"second": "대원전선",
+"second_ret": 10.4
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.77,
+"up5": 4,
+"lead": "SK스퀘어",
+"lead_ret": 8.36,
+"second": "삼성전자",
+"second_ret": 6.68
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 5.31,
+"up5": 4,
+"lead": "LG전자",
+"lead_ret": 12.82,
+"second": "삼성전자",
+"second_ret": 6.68
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.93,
+"up5": 2,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.8,
+"second": "GRT",
+"second_ret": 9.03
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.48,
+"up5": 4,
+"lead": "티씨케이",
+"lead_ret": 14.21,
+"second": "예스티",
+"second_ret": 9.16
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.17,
+"up5": 2,
+"lead": "네패스아크",
+"lead_ret": 8.96,
+"second": "삼성전자",
+"second_ret": 6.68
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 3.79,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 12.82,
+"second": "삼성전자",
+"second_ret": 6.68
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.68,
+"up5": 6,
+"lead": "네오티스",
+"lead_ret": 16.27,
+"second": "다원넥스뷰",
+"second_ret": 12.5
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 3.58,
+"up5": 4,
+"lead": "한켐",
+"lead_ret": 10.71,
+"second": "지아이에스",
+"second_ret": 7.97
+},
+{
+"name": "LED",
+"n": 37,
+"avg": 3.53,
+"up5": 10,
+"lead": "금호전기",
+"lead_ret": 29.9,
+"second": "빛샘전자",
+"second_ret": 16.21
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.48,
+"up5": 4,
+"lead": "금호건설",
+"lead_ret": 29.94,
+"second": "남화토건",
+"second_ret": 29.93
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 3.46,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 12.82,
+"second": "LG이노텍",
+"second_ret": 10.02
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.23,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 6.79,
+"second": "유비벨록스",
+"second_ret": -0.47
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -3.0,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": 0.24,
+"second": "롯데쇼핑",
+"second_ret": -1.52
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.58,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 0.48,
+"second": "사조오양",
+"second_ret": -0.23
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -2.51,
+"up5": 0,
+"lead": "동양고속",
+"lead_ret": -0.93,
+"second": "천일고속",
+"second_ret": -1.0
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -2.23,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": 3.58,
+"second": "파미셀",
+"second_ret": 1.64
+}
+],
+"leaders": [
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 12.82,
+"value": 6327,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 10.4,
+"value": 4434,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "한국콜마",
+"code": "161890",
+"ret": 22.8,
+"value": 3329,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 29.94,
+"value": 3152,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 12.98,
+"value": 2430,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

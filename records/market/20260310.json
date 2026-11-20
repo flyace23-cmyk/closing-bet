@@ -1,0 +1,254 @@
+{
+"date": "20260310",
+"kospi": 5.35,
+"kosdaq": 3.21,
+"adv": 1946,
+"dec": 384,
+"flat": 71,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 418447,
+"hot": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 5,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.92,
+"second": "라이콤",
+"second_ret": 29.88
+},
+{
+"name": "통신장비",
+"n": 5,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.92,
+"second": "라이콤",
+"second_ret": 29.88
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "레이저쎌",
+"lead_ret": 29.91,
+"second": "에이치엠넥스",
+"second_ret": 27.35
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 13.41,
+"up5": 12,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.92,
+"second": "라이콤",
+"second_ret": 29.88
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 8.98,
+"up5": 9,
+"lead": "티에프이",
+"lead_ret": 25.52,
+"second": "엠케이전자",
+"second_ret": 16.59
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 8.34,
+"up5": 9,
+"lead": "우리기술",
+"lead_ret": 19.36,
+"second": "우진",
+"second_ret": 17.86
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 7.54,
+"up5": 4,
+"lead": "코나아이",
+"lead_ret": 15.78,
+"second": "갤럭시아머니트리",
+"second_ret": 6.67
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 7.32,
+"up5": 26,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.92,
+"second": "라이콤",
+"second_ret": 29.88
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.27,
+"up5": 10,
+"lead": "기가비스",
+"lead_ret": 17.09,
+"second": "다원넥스뷰",
+"second_ret": 13.04
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 7.15,
+"up5": 9,
+"lead": "오킨스전자",
+"lead_ret": 15.39,
+"second": "SK하이닉스",
+"second_ret": 12.2
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 7.07,
+"up5": 2,
+"lead": "콜마바이오텍",
+"lead_ret": 29.98,
+"second": "에스와이",
+"second_ret": 5.22
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.83,
+"up5": 5,
+"lead": "SK하이닉스",
+"lead_ret": 12.2,
+"second": "SK스퀘어",
+"second_ret": 8.84
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 6.63,
+"up5": 22,
+"lead": "레이저쎌",
+"lead_ret": 29.91,
+"second": "엠케이전자",
+"second_ret": 16.59
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 6.55,
+"up5": 4,
+"lead": "레이저쎌",
+"lead_ret": 29.91,
+"second": "주성엔지니어링",
+"second_ret": 16.86
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 6.46,
+"up5": 49,
+"lead": "더코디",
+"lead_ret": 30.0,
+"second": "레이저쎌",
+"second_ret": 29.91
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.2,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.35,
+"second": "GS",
+"second_ret": -1.84
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.2,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.35,
+"second": "GS",
+"second_ret": -1.84
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -4.32,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.35,
+"second": "미창석유",
+"second_ret": -0.16
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -3.83,
+"up5": 0,
+"lead": "HD현대",
+"lead_ret": 2.28,
+"second": "SK이노베이션",
+"second_ret": 1.35
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -3.45,
+"up5": 0,
+"lead": "체시스",
+"lead_ret": 0.41,
+"second": "롯데정밀화학",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 12.2,
+"value": 49760,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 19.36,
+"value": 16545,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 16.86,
+"value": 3685,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 28.31,
+"value": 3288,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 29.8,
+"value": 3056,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

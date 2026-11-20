@@ -1,0 +1,254 @@
+{
+"date": "20260528",
+"kospi": -0.53,
+"kosdaq": -2.54,
+"adv": 535,
+"dec": 1795,
+"flat": 78,
+"limit_up": 12,
+"limit_down": 1,
+"value_total": 650157,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "코칩",
+"lead_ret": 29.96,
+"second": "나노팀",
+"second_ret": 16.64
+},
+{
+"name": "전기차",
+"n": 6,
+"lead": "삼화콘덴서",
+"lead_ret": 24.07,
+"second": "나노팀",
+"second_ret": 16.64
+},
+{
+"name": "2차전지(전고체)",
+"n": 4,
+"lead": "이브이첨단소재",
+"lead_ret": 29.97,
+"second": "LG에너지솔루션",
+"second_ret": 15.25
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 8.97,
+"up5": 6,
+"lead": "코칩",
+"lead_ret": 29.96,
+"second": "삼화콘덴서",
+"second_ret": 24.07
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.29,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 29.86,
+"second": "롯데지주",
+"second_ret": 0.98
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.66,
+"up5": 3,
+"lead": "LG에너지솔루션",
+"lead_ret": 15.25,
+"second": "더블유씨피",
+"second_ret": 14.15
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.6,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 29.97,
+"second": "졸스",
+"second_ret": 7.14
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.86,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 29.98,
+"second": "LG에너지솔루션",
+"second_ret": 15.25
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.06,
+"up5": 6,
+"lead": "이브이첨단소재",
+"lead_ret": 29.97,
+"second": "LG에너지솔루션",
+"second_ret": 15.25
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 1.9,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 29.98,
+"second": "손오공",
+"second_ret": 0.0
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.58,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 6.3,
+"second": "현대백화점",
+"second_ret": 4.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.36,
+"up5": 1,
+"lead": "삼성전기",
+"lead_ret": 13.44,
+"second": "SK하이닉스",
+"second_ret": 2.05
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 1.17,
+"up5": 2,
+"lead": "LG에너지솔루션",
+"lead_ret": 15.25,
+"second": "삼화전자",
+"second_ret": 8.17
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 42,
+"avg": 1.09,
+"up5": 8,
+"lead": "삼화콘덴서",
+"lead_ret": 24.07,
+"second": "LG에너지솔루션",
+"second_ret": 15.25
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 1.04,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 29.86,
+"second": "KCTC",
+"second_ret": 2.58
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -7.12,
+"up5": 1,
+"lead": "라이콤",
+"lead_ret": 5.53,
+"second": "티엠씨",
+"second_ret": -0.79
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -6.66,
+"up5": 1,
+"lead": "MSDI",
+"lead_ret": 8.8,
+"second": "LG유플러스",
+"second_ret": -0.46
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -5.95,
+"up5": 0,
+"lead": "코세스",
+"lead_ret": 3.69,
+"second": "삼성전자",
+"second_ret": -2.44
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -5.9,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.79,
+"second": "소마젠",
+"second_ret": -1.94
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -5.75,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.44,
+"second": "오픈엣지테크놀로지",
+"second_ret": -4.49
+}
+],
+"leaders": [
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 13.44,
+"value": 46183,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 24.07,
+"value": 8513,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "LG에너지솔루션",
+"code": "373220",
+"ret": 15.25,
+"value": 7360,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 13.03,
+"value": 3420,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "나노팀",
+"code": "417010",
+"ret": 16.64,
+"value": 2902,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

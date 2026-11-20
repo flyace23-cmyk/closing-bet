@@ -1,0 +1,254 @@
+{
+"date": "20260727",
+"kospi": 0.97,
+"kosdaq": 2.22,
+"adv": 1365,
+"dec": 911,
+"flat": 136,
+"limit_up": 9,
+"limit_down": 3,
+"value_total": 281709,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "케이엔알시스템",
+"lead_ret": 29.96,
+"second": "씨피시스템",
+"second_ret": 29.87
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 7,
+"lead": "코난테크놀로지",
+"lead_ret": 19.65,
+"second": "뉴엔AI",
+"second_ret": 18.36
+},
+{
+"name": "온디바이스 AI",
+"n": 4,
+"lead": "가온칩스",
+"lead_ret": 27.25,
+"second": "에이디테크놀로지",
+"second_ret": 12.72
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 4.43,
+"up5": 7,
+"lead": "가온칩스",
+"lead_ret": 27.25,
+"second": "에이디테크놀로지",
+"second_ret": 12.72
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 4.2,
+"up5": 7,
+"lead": "코난테크놀로지",
+"lead_ret": 19.65,
+"second": "셀바스AI",
+"second_ret": 17.66
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.14,
+"up5": 5,
+"lead": "NHN",
+"lead_ret": 10.16,
+"second": "인포뱅크",
+"second_ret": 10.0
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 4.09,
+"up5": 3,
+"lead": "위닉스",
+"lead_ret": 10.09,
+"second": "파세코",
+"second_ret": 5.73
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 65,
+"avg": 4.08,
+"up5": 19,
+"lead": "오브젠",
+"lead_ret": 30.0,
+"second": "코난테크놀로지",
+"second_ret": 19.65
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 73,
+"avg": 4.05,
+"up5": 21,
+"lead": "케이엔알시스템",
+"lead_ret": 29.96,
+"second": "아이씨에이치",
+"second_ret": 29.94
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 3.96,
+"up5": 10,
+"lead": "케이엔알시스템",
+"lead_ret": 29.96,
+"second": "아진엑스텍",
+"second_ret": 19.34
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 3.46,
+"up5": 1,
+"lead": "아이씨에이치",
+"lead_ret": 29.94,
+"second": "동일기연",
+"second_ret": 3.21
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 3.45,
+"up5": 5,
+"lead": "에스티아이",
+"lead_ret": 7.73,
+"second": "스맥",
+"second_ret": 7.29
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 3.22,
+"up5": 15,
+"lead": "가온칩스",
+"lead_ret": 27.25,
+"second": "아진엑스텍",
+"second_ret": 19.34
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 3.03,
+"up5": 8,
+"lead": "아진엑스텍",
+"lead_ret": 19.34,
+"second": "현대무벡스",
+"second_ret": 13.68
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 23,
+"avg": 2.9,
+"up5": 5,
+"lead": "셀바스AI",
+"lead_ret": 17.66,
+"second": "인포뱅크",
+"second_ret": 10.0
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -8.74,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": -0.76,
+"second": "대한해운",
+"second_ret": -3.27
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -8.34,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": -2.43,
+"second": "극동유화",
+"second_ret": -3.07
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -8.34,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": -2.43,
+"second": "극동유화",
+"second_ret": -3.07
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -7.39,
+"up5": 0,
+"lead": "미창석유",
+"lead_ret": 0.0,
+"second": "한국쉘석유",
+"second_ret": -2.5
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -6.25,
+"up5": 0,
+"lead": "씨티케이",
+"lead_ret": 1.33,
+"second": "삼양패키징",
+"second_ret": -0.67
+}
+],
+"leaders": [
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 13.68,
+"value": 1431,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "마키나락스",
+"code": "477850",
+"ret": 10.31,
+"value": 856,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "위닉스",
+"code": "044340",
+"ret": 10.09,
+"value": 809,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+},
+{
+"name": "씨피시스템",
+"code": "413630",
+"ret": 29.87,
+"value": 748,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "미래산업",
+"code": "025560",
+"ret": 22.28,
+"value": 392,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

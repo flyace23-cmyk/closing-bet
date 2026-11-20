@@ -1,0 +1,254 @@
+{
+"date": "20260921",
+"kospi": 1.65,
+"kosdaq": 1.11,
+"adv": 941,
+"dec": 1365,
+"flat": 112,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 265842,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "와이씨",
+"lead_ret": 19.48,
+"second": "SFA반도체",
+"second_ret": 18.02
+},
+{
+"name": "반도체 재료/부품",
+"n": 8,
+"lead": "티이엠씨",
+"lead_ret": 27.06,
+"second": "하나마이크론",
+"second_ret": 17.12
+},
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "시그네틱스",
+"lead_ret": 29.7,
+"second": "SFA반도체",
+"second_ret": 18.02
+}
+],
+"themes": [
+{
+"name": "2026 하반기 신규상장",
+"n": 9,
+"avg": 8.06,
+"up5": 4,
+"lead": "스카이랩스",
+"lead_ret": 29.22,
+"second": "인제니아테라퓨틱스(Reg.S)",
+"second_ret": 19.2
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 4.33,
+"up5": 15,
+"lead": "와이씨",
+"lead_ret": 19.48,
+"second": "윈팩",
+"second_ret": 14.29
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 4.1,
+"up5": 9,
+"lead": "토마토시스템",
+"lead_ret": 29.51,
+"second": "루닛",
+"second_ret": 16.76
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 4.03,
+"up5": 20,
+"lead": "시그네틱스",
+"lead_ret": 29.7,
+"second": "SFA반도체",
+"second_ret": 18.02
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.0,
+"up5": 2,
+"lead": "삼성전자",
+"lead_ret": 5.77,
+"second": "SK스퀘어",
+"second_ret": 5.69
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 3.99,
+"up5": 23,
+"lead": "티이엠씨",
+"lead_ret": 27.06,
+"second": "하나마이크론",
+"second_ret": 17.12
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 3.59,
+"up5": 31,
+"lead": "와이씨",
+"lead_ret": 19.48,
+"second": "SFA반도체",
+"second_ret": 18.02
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 3.58,
+"up5": 6,
+"lead": "에이팩트",
+"lead_ret": 11.22,
+"second": "칩스앤미디어",
+"second_ret": 10.24
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.47,
+"up5": 5,
+"lead": "엑시콘",
+"lead_ret": 7.77,
+"second": "네오셈",
+"second_ret": 7.42
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 3.22,
+"up5": 1,
+"lead": "토마토시스템",
+"lead_ret": 29.51,
+"second": "아이티센글로벌",
+"second_ret": 3.15
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.06,
+"up5": 3,
+"lead": "ISC",
+"lead_ret": 7.03,
+"second": "삼성전자",
+"second_ret": 5.77
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 3.0,
+"up5": 7,
+"lead": "비트플래닛",
+"lead_ret": 25.23,
+"second": "비트맥스",
+"second_ret": 10.27
+}
+],
+"themes_worst": [
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.11,
+"up5": 0,
+"lead": "상보",
+"lead_ret": 1.13,
+"second": "금호석유화학",
+"second_ret": -0.33
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": -2.09,
+"up5": 0,
+"lead": "황금에스티",
+"lead_ret": 0.36,
+"second": "고려아연",
+"second_ret": 0.35
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -2.05,
+"up5": 0,
+"lead": "유진기업",
+"lead_ret": 1.54,
+"second": "유니온",
+"second_ret": 0.51
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.01,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 1.78,
+"second": "에어부산",
+"second_ret": 0.0
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -2.0,
+"up5": 0,
+"lead": "로킷헬스케어",
+"lead_ret": 3.35,
+"second": "인벤티지랩",
+"second_ret": 0.59
+}
+],
+"leaders": [
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 18.02,
+"value": 2942,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 17.12,
+"value": 2941,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "스카이랩스",
+"code": "386380",
+"ret": 29.22,
+"value": 2249,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 19.48,
+"value": 1608,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "인제니아테라퓨틱스(Reg.S)",
+"code": "950260",
+"ret": 19.2,
+"value": 1557,
+"theme": "2026 하반기 신규상장",
+"reason": "테마: 2026 하반기 신규상장"
+}
+],
+"backfilled": true
+}

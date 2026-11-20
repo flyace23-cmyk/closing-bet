@@ -1,0 +1,254 @@
+{
+"date": "20260730",
+"kospi": -1.23,
+"kosdaq": -2.7,
+"adv": 1216,
+"dec": 1101,
+"flat": 95,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 406027,
+"hot": [
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "LG생활건강",
+"lead_ret": 11.03,
+"second": "HD한국조선해양",
+"second_ret": 10.0
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "강스템바이오텍",
+"lead_ret": 11.53,
+"second": "LG생활건강",
+"second_ret": 11.03
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "남화토건",
+"second_ret": 26.32
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 6,
+"avg": 6.59,
+"up5": 4,
+"lead": "HD한국조선해양",
+"lead_ret": 10.0,
+"second": "대한조선",
+"second_ret": 9.61
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 5.44,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 22.79,
+"second": "이월드",
+"second_ret": 4.47
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.02,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 29.91,
+"second": "제주항공",
+"second_ret": 3.61
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 3.85,
+"up5": 4,
+"lead": "한화손해보험",
+"lead_ret": 7.21,
+"second": "DB손해보험",
+"second_ret": 5.3
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.84,
+"up5": 2,
+"lead": "서산",
+"lead_ret": 29.98,
+"second": "강동씨앤엘",
+"second_ret": 15.2
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.63,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 6.49,
+"second": "SK이노베이션",
+"second_ret": 6.48
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.63,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 6.49,
+"second": "SK이노베이션",
+"second_ret": 6.48
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.62,
+"up5": 2,
+"lead": "현대코퍼레이션",
+"lead_ret": 14.94,
+"second": "포스코인터내셔널",
+"second_ret": 5.25
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.38,
+"up5": 3,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "남화토건",
+"second_ret": 26.32
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.36,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 12.04,
+"second": "대한해운",
+"second_ret": 3.21
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.23,
+"up5": 3,
+"lead": "강스템바이오텍",
+"lead_ret": 11.53,
+"second": "티앤알바이오팹",
+"second_ret": 7.33
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 3.2,
+"up5": 2,
+"lead": "KG스틸",
+"lead_ret": 7.82,
+"second": "동국씨엠",
+"second_ret": 5.64
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -6.79,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -3.67,
+"second": "LS에코에너지",
+"second_ret": -3.95
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -6.35,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": -0.17,
+"second": "네오티스",
+"second_ret": -1.73
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": -5.58,
+"up5": 0,
+"lead": "폴레드",
+"lead_ret": 1.62,
+"second": "케이뱅크",
+"second_ret": 0.73
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -4.95,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 3.23,
+"second": "삼성전자",
+"second_ret": -0.72
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -4.11,
+"up5": 0,
+"lead": "어보브반도체",
+"lead_ret": 0.88,
+"second": "아이언디바이스",
+"second_ret": 0.41
+}
+],
+"leaders": [
+{
+"name": "HD한국조선해양",
+"code": "009540",
+"ret": 10.0,
+"value": 1573,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "LG생활건강",
+"code": "051900",
+"ret": 11.03,
+"value": 1453,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "레몬헬스케어",
+"code": "365660",
+"ret": 29.85,
+"value": 549,
+"theme": "2026 하반기 신규상장",
+"reason": "테마: 2026 하반기 신규상장"
+},
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 30.0,
+"value": 424,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 15.57,
+"value": 415,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260205",
+"kospi": -3.86,
+"kosdaq": -3.57,
+"adv": 642,
+"dec": 1662,
+"flat": 95,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 437752,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "아이로보틱스",
+"lead_ret": 27.02,
+"second": "TPC로보틱스",
+"second_ret": 20.95
+},
+{
+"name": "부동산 보유 자산주",
+"n": 4,
+"lead": "일신방직",
+"lead_ret": 16.11,
+"second": "BYC",
+"second_ret": 13.99
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "엔투텍",
+"lead_ret": 29.86,
+"second": "네패스아크",
+"second_ret": 15.46
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 5.63,
+"up5": 3,
+"lead": "모두투어",
+"lead_ret": 29.98,
+"second": "노랑풍선",
+"second_ret": 7.62
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.23,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 29.86,
+"second": "녹십자",
+"second_ret": 3.79
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 2.16,
+"up5": 4,
+"lead": "GS피앤엘",
+"lead_ret": 10.14,
+"second": "이마트",
+"second_ret": 9.51
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.94,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.4,
+"second": "코텍",
+"second_ret": 4.94
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.94,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.4,
+"second": "코텍",
+"second_ret": 4.94
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 1.57,
+"up5": 3,
+"lead": "대동금속",
+"lead_ret": 30.0,
+"second": "대동기어",
+"second_ret": 16.0
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.53,
+"up5": 2,
+"lead": "대동",
+"lead_ret": 8.85,
+"second": "파루",
+"second_ret": 7.32
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.27,
+"up5": 2,
+"lead": "휴비스",
+"lead_ret": 8.86,
+"second": "우성머티리얼스",
+"second_ret": 5.4
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.18,
+"up5": 1,
+"lead": "모두투어",
+"lead_ret": 29.98,
+"second": "혜인",
+"second_ret": 2.97
+},
+{
+"name": "광고",
+"n": 24,
+"avg": 1.08,
+"up5": 1,
+"lead": "케어랩스",
+"lead_ret": 17.5,
+"second": "아시아경제",
+"second_ret": 3.57
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.05,
+"up5": 1,
+"lead": "비엘팜텍",
+"lead_ret": 29.9,
+"second": "큐로홀딩스",
+"second_ret": 3.78
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 0.99,
+"up5": 2,
+"lead": "BYC",
+"lead_ret": 13.99,
+"second": "비비안",
+"second_ret": 6.16
+}
+],
+"themes_worst": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": -7.31,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": 2.23,
+"second": "대한항공",
+"second_ret": 1.68
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -6.57,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 2.17,
+"second": "동원산업",
+"second_ret": -1.16
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -6.54,
+"up5": 0,
+"lead": "스피어",
+"lead_ret": 0.7,
+"second": "모델솔루션",
+"second_ret": 0.0
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -5.21,
+"up5": 0,
+"lead": "범한퓨얼셀",
+"lead_ret": -0.88,
+"second": "SFA",
+"second_ret": -2.34
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -4.93,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -2.94,
+"second": "삼성물산",
+"second_ret": -3.32
+}
+],
+"leaders": [
+{
+"name": "파두",
+"code": "440110",
+"ret": 24.69,
+"value": 7176,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "HD현대에너지솔루션",
+"code": "322000",
+"ret": 16.17,
+"value": 4335,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 16.0,
+"value": 4105,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 11.69,
+"value": 2405,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "링크솔루션",
+"code": "474650",
+"ret": 17.86,
+"value": 1662,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

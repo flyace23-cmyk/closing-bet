@@ -1,0 +1,254 @@
+{
+"date": "20260220",
+"kospi": 2.31,
+"kosdaq": -0.58,
+"adv": 1057,
+"dec": 1233,
+"flat": 109,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 438084,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "퍼스텍",
+"lead_ret": 26.08,
+"second": "RF머트리얼즈",
+"second_ret": 16.88
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "보성파워텍",
+"lead_ret": 29.92,
+"second": "우리기술",
+"second_ret": 14.67
+},
+{
+"name": "손해보험",
+"n": 3,
+"lead": "롯데손해보험",
+"lead_ret": 29.95,
+"second": "흥국화재",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": 14.54,
+"up5": 6,
+"lead": "롯데손해보험",
+"lead_ret": 29.95,
+"second": "흥국화재",
+"second_ret": 29.88
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 8.56,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 24.36,
+"second": "중앙에너비스",
+"second_ret": 17.31
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 8.56,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 24.36,
+"second": "중앙에너비스",
+"second_ret": 17.31
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 7.24,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 24.36,
+"second": "S-Oil",
+"second_ret": 8.21
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 6.47,
+"up5": 5,
+"lead": "흥구석유",
+"lead_ret": 24.36,
+"second": "중앙에너비스",
+"second_ret": 17.31
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 5.33,
+"up5": 4,
+"lead": "HD한국조선해양",
+"lead_ret": 6.98,
+"second": "한화오션",
+"second_ret": 6.61
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 5.19,
+"up5": 2,
+"lead": "체리부로",
+"lead_ret": 29.89,
+"second": "동우팜투테이블",
+"second_ret": 6.74
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.87,
+"up5": 1,
+"lead": "한화생명",
+"lead_ret": 29.92,
+"second": "SBI인베스트먼트",
+"second_ret": 2.2
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 4.76,
+"up5": 7,
+"lead": "우리기술",
+"lead_ret": 14.67,
+"second": "오르비텍",
+"second_ret": 11.32
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 4.16,
+"up5": 5,
+"lead": "RF머트리얼즈",
+"lead_ret": 16.88,
+"second": "대한광통신",
+"second_ret": 14.97
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.15,
+"up5": 6,
+"lead": "솔디펜스",
+"lead_ret": 11.82,
+"second": "오르비텍",
+"second_ret": 11.32
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 4.09,
+"up5": 17,
+"lead": "보성파워텍",
+"lead_ret": 29.92,
+"second": "우리기술",
+"second_ret": 14.67
+}
+],
+"themes_worst": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -3.57,
+"up5": 0,
+"lead": "선익시스템",
+"lead_ret": 1.95,
+"second": "한국전력",
+"second_ret": 1.45
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.58,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 3.63,
+"second": "주성엔지니어링",
+"second_ret": 1.45
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -2.19,
+"up5": 0,
+"lead": "휴온스",
+"lead_ret": 0.52,
+"second": "대웅제약",
+"second_ret": -0.17
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -1.82,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": 4.89,
+"second": "휴림로봇",
+"second_ret": 2.07
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.71,
+"up5": 0,
+"lead": "이연제약",
+"lead_ret": 4.65,
+"second": "서린바이오",
+"second_ret": -0.63
+}
+],
+"leaders": [
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 14.67,
+"value": 9312,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한화생명",
+"code": "088350",
+"ret": 29.92,
+"value": 6076,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "SK증권",
+"code": "001510",
+"ret": 18.38,
+"value": 5973,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 29.92,
+"value": 4975,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 24.36,
+"value": 4654,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260709",
+"kospi": 0.62,
+"kosdaq": 1.15,
+"adv": 935,
+"dec": 1381,
+"flat": 95,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 440329,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "가온칩스",
+"lead_ret": 29.91,
+"second": "에이직랜드",
+"second_ret": 23.7
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "코미코",
+"lead_ret": 14.31,
+"second": "레이저쎌",
+"second_ret": 13.25
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "데이타솔루션",
+"lead_ret": 29.97,
+"second": "오픈베이스",
+"second_ret": 13.16
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 8.08,
+"up5": 4,
+"lead": "에이직랜드",
+"lead_ret": 23.7,
+"second": "네패스아크",
+"second_ret": 12.06
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 5.65,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 29.94,
+"second": "한울앤제주",
+"second_ret": 2.62
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 5.49,
+"up5": 5,
+"lead": "라이콤",
+"lead_ret": 29.93,
+"second": "서울바이오시스",
+"second_ret": 13.98
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.4,
+"up5": 6,
+"lead": "심텍",
+"lead_ret": 12.72,
+"second": "티엘비",
+"second_ret": 8.36
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 5.26,
+"up5": 10,
+"lead": "가온칩스",
+"lead_ret": 29.91,
+"second": "에이디테크놀로지",
+"second_ret": 13.08
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.03,
+"up5": 6,
+"lead": "심텍",
+"lead_ret": 12.72,
+"second": "티엘비",
+"second_ret": 8.36
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.7,
+"up5": 6,
+"lead": "파두",
+"lead_ret": 10.97,
+"second": "오픈엣지테크놀로지",
+"second_ret": 9.08
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.42,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 29.94,
+"second": "동원수산",
+"second_ret": 6.13
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.17,
+"up5": 3,
+"lead": "레이저쎌",
+"lead_ret": 13.25,
+"second": "주성엔지니어링",
+"second_ret": 11.5
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 3.12,
+"up5": 13,
+"lead": "가온칩스",
+"lead_ret": 29.91,
+"second": "에이직랜드",
+"second_ret": 23.7
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 2.99,
+"up5": 3,
+"lead": "광전자",
+"lead_ret": 7.84,
+"second": "사피엔반도체",
+"second_ret": 7.01
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 2.92,
+"up5": 20,
+"lead": "웰킵스하이텍",
+"lead_ret": 30.0,
+"second": "네패스",
+"second_ret": 10.25
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -3.48,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 1.43,
+"second": "KSS해운",
+"second_ret": -1.9
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.21,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": -0.14,
+"second": "HL만도",
+"second_ret": -0.72
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -3.14,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.49,
+"second": "서울보증보험",
+"second_ret": -1.05
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -2.98,
+"up5": 1,
+"lead": "금호건설",
+"lead_ret": 23.64,
+"second": "우원개발",
+"second_ret": 1.73
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.93,
+"up5": 1,
+"lead": "에어부산",
+"lead_ret": 6.82,
+"second": "티웨이홀딩스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 23.64,
+"value": 4424,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 11.5,
+"value": 3824,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "심텍",
+"code": "222800",
+"ret": 12.72,
+"value": 1190,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 29.91,
+"value": 813,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 10.24,
+"value": 745,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

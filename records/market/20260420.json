@@ -1,0 +1,254 @@
+{
+"date": "20260420",
+"kospi": 0.44,
+"kosdaq": 0.41,
+"adv": 890,
+"dec": 1337,
+"flat": 177,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 370610,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 8,
+"lead": "벨로크",
+"lead_ret": 29.99,
+"second": "드림시큐리티",
+"second_ret": 29.98
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 6,
+"lead": "파인텍",
+"lead_ret": 30.0,
+"second": "드림시큐리티",
+"second_ret": 29.98
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "파인텍",
+"lead_ret": 30.0,
+"second": "제이오",
+"second_ret": 26.4
+}
+],
+"themes": [
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 7.52,
+"up5": 2,
+"lead": "제이오",
+"lead_ret": 26.4,
+"second": "오픈베이스",
+"second_ret": 11.52
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 7.01,
+"up5": 10,
+"lead": "파인텍",
+"lead_ret": 30.0,
+"second": "드림시큐리티",
+"second_ret": 29.98
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 6.17,
+"up5": 2,
+"lead": "한국정보통신",
+"lead_ret": 29.98,
+"second": "나이스정보통신",
+"second_ret": 23.67
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 5.95,
+"up5": 3,
+"lead": "로지시스",
+"lead_ret": 29.97,
+"second": "케이씨에스",
+"second_ret": 29.92
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 5.88,
+"up5": 16,
+"lead": "벨로크",
+"lead_ret": 29.99,
+"second": "드림시큐리티",
+"second_ret": 29.98
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 5.01,
+"up5": 6,
+"lead": "드림시큐리티",
+"lead_ret": 29.98,
+"second": "SGA솔루션즈",
+"second_ret": 29.94
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.92,
+"up5": 4,
+"lead": "오픈베이스",
+"lead_ret": 11.52,
+"second": "링네트",
+"second_ret": 9.7
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 4.03,
+"up5": 4,
+"lead": "에스피소프트",
+"lead_ret": 16.73,
+"second": "라온시큐어",
+"second_ret": 14.66
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.0,
+"up5": 5,
+"lead": "드림시큐리티",
+"lead_ret": 29.98,
+"second": "위메이드",
+"second_ret": 19.31
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.78,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.98,
+"second": "현대백화점",
+"second_ret": 1.33
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.6,
+"up5": 5,
+"lead": "소프트캠프",
+"lead_ret": 15.0,
+"second": "NHN",
+"second_ret": 10.91
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 3.6,
+"up5": 5,
+"lead": "한국정보통신",
+"lead_ret": 29.98,
+"second": "드림시큐리티",
+"second_ret": 29.98
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.47,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": 0.95,
+"second": "엔브이에이치코리아",
+"second_ret": -0.45
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": -2.37,
+"up5": 0,
+"lead": "인벤티지랩",
+"lead_ret": 3.04,
+"second": "수젠텍",
+"second_ret": 2.81
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -1.87,
+"up5": 0,
+"lead": "로보스타",
+"lead_ret": -0.46,
+"second": "하이비젼시스템",
+"second_ret": -0.72
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.68,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.5,
+"second": "IPARK현대산업개발",
+"second_ret": -1.28
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.68,
+"up5": 1,
+"lead": "셀리드",
+"lead_ret": 7.73,
+"second": "현대바이오",
+"second_ret": 3.4
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 29.97,
+"value": 8755,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 10.81,
+"value": 4895,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 16.47,
+"value": 4341,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 11.26,
+"value": 3612,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "아톤",
+"code": "158430",
+"ret": 12.49,
+"value": 2435,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

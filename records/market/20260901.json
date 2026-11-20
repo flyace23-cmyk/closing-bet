@@ -1,0 +1,254 @@
+{
+"date": "20260901",
+"kospi": 0.23,
+"kosdaq": -1.56,
+"adv": 1006,
+"dec": 1271,
+"flat": 140,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 231556,
+"hot": [
+{
+"name": "탈모 치료",
+"n": 4,
+"lead": "JW신약",
+"lead_ret": 30.0,
+"second": "현대약품",
+"second_ret": 29.94
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "한울반도체",
+"lead_ret": 29.94,
+"second": "HT로보틱스",
+"second_ret": 13.79
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "제이티",
+"lead_ret": 20.25,
+"second": "엑시콘",
+"second_ret": 15.83
+}
+],
+"themes": [
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 5.66,
+"up5": 9,
+"lead": "JW신약",
+"lead_ret": 30.0,
+"second": "현대약품",
+"second_ret": 29.94
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 3.87,
+"up5": 2,
+"lead": "DB손해보험",
+"lead_ret": 6.35,
+"second": "한화손해보험",
+"second_ret": 5.71
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 3.69,
+"up5": 2,
+"lead": "더핑크퐁컴퍼니",
+"lead_ret": 16.64,
+"second": "데브시스터즈",
+"second_ret": 7.5
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 3.41,
+"up5": 2,
+"lead": "롯데쇼핑",
+"lead_ret": 6.48,
+"second": "신세계",
+"second_ret": 5.31
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.42,
+"up5": 4,
+"lead": "인디에프",
+"lead_ret": 29.98,
+"second": "좋은사람들",
+"second_ret": 22.39
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.08,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 29.94,
+"second": "코칩",
+"second_ret": 2.97
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 1.93,
+"up5": 2,
+"lead": "더핑크퐁컴퍼니",
+"lead_ret": 16.64,
+"second": "드림어스컴퍼니",
+"second_ret": 15.38
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 1.82,
+"up5": 3,
+"lead": "좋은사람들",
+"lead_ret": 22.39,
+"second": "코데즈컴바인",
+"second_ret": 12.54
+},
+{
+"name": "제약업체",
+"n": 88,
+"avg": 1.77,
+"up5": 9,
+"lead": "JW신약",
+"lead_ret": 30.0,
+"second": "현대약품",
+"second_ret": 29.94
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.74,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 7.81,
+"second": "비엘팜텍",
+"second_ret": 5.69
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 1.71,
+"up5": 3,
+"lead": "엑시온그룹",
+"lead_ret": 9.08,
+"second": "롯데쇼핑",
+"second_ret": 6.48
+},
+{
+"name": "패션/의류",
+"n": 58,
+"avg": 1.62,
+"up5": 7,
+"lead": "온타이드",
+"lead_ret": 30.0,
+"second": "인디에프",
+"second_ret": 29.98
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -3.45,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": 2.03,
+"second": "대덕전자",
+"second_ret": -1.06
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -3.08,
+"up5": 0,
+"lead": "파이버프로",
+"lead_ret": 0.76,
+"second": "빛과전자",
+"second_ret": 0.18
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.73,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 3.72,
+"second": "DL이앤씨",
+"second_ret": -0.69
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.5,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 0.66,
+"second": "유비벨록스",
+"second_ret": 0.0
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -2.5,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": 0.85,
+"second": "미래에셋증권",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 29.94,
+"value": 1624,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "비에이치",
+"code": "090460",
+"ret": 20.68,
+"value": 1325,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+},
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 30.0,
+"value": 1114,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "강동씨앤엘",
+"code": "198440",
+"ret": 22.98,
+"value": 754,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "코데즈컴바인",
+"code": "047770",
+"ret": 12.54,
+"value": 637,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

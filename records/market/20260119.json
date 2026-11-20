@@ -1,0 +1,254 @@
+{
+"date": "20260119",
+"kospi": 1.32,
+"kosdaq": 1.44,
+"adv": 1105,
+"dec": 1189,
+"flat": 105,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 371701,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 13,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "푸른로보틱스",
+"second_ret": 29.94
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 6,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "시선AI",
+"second_ret": 29.93
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "캠시스",
+"lead_ret": 29.98,
+"second": "유진로봇",
+"second_ret": 28.57
+}
+],
+"themes": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": 9.12,
+"up5": 40,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "푸른로보틱스",
+"second_ret": 29.94
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": 7.16,
+"up5": 21,
+"lead": "뉴로메카",
+"lead_ret": 29.9,
+"second": "유진로봇",
+"second_ret": 28.57
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 6.53,
+"up5": 3,
+"lead": "현대차",
+"lead_ret": 16.22,
+"second": "기아",
+"second_ret": 12.18
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 6.18,
+"up5": 5,
+"lead": "더블유씨피",
+"lead_ret": 15.15,
+"second": "삼성SDI",
+"second_ret": 8.65
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 5.67,
+"up5": 7,
+"lead": "센서뷰",
+"lead_ret": 28.83,
+"second": "스피어",
+"second_ret": 7.61
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 5.67,
+"up5": 19,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "현대무벡스",
+"second_ret": 20.52
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 5.58,
+"up5": 4,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "TPC로보틱스",
+"second_ret": 11.98
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 5.5,
+"up5": 9,
+"lead": "캠시스",
+"lead_ret": 29.98,
+"second": "해성옵틱스",
+"second_ret": 29.96
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 5.4,
+"up5": 10,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 29.9,
+"second": "한농화성",
+"second_ret": 15.32
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 5.35,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 23.9,
+"second": "고려제강",
+"second_ret": 6.55
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 64,
+"avg": 5.21,
+"up5": 24,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "시선AI",
+"second_ret": 29.93
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 4.86,
+"up5": 2,
+"lead": "인콘",
+"lead_ret": 29.85,
+"second": "앤씨앤",
+"second_ret": 10.89
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -3.2,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": -0.47,
+"second": "LB인베스트먼트",
+"second_ret": -0.58
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -2.69,
+"up5": 0,
+"lead": "쇼박스",
+"lead_ret": 2.22,
+"second": "졸스",
+"second_ret": 0.36
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -2.01,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": 0.69,
+"second": "미스터블루",
+"second_ret": 0.48
+},
+{
+"name": "엔젤산업",
+"n": 25,
+"avg": -1.57,
+"up5": 0,
+"lead": "남양유업",
+"lead_ret": 2.2,
+"second": "메디앙스",
+"second_ret": 0.12
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.52,
+"up5": 0,
+"lead": "이수앱지스",
+"lead_ret": 2.21,
+"second": "한미약품",
+"second_ret": 1.83
+}
+],
+"leaders": [
+{
+"name": "현대차",
+"code": "005380",
+"ret": 16.22,
+"value": 28756,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 29.98,
+"value": 8370,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "기아",
+"code": "000270",
+"ret": 12.18,
+"value": 6848,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "두산로보틱스",
+"code": "454910",
+"ret": 19.14,
+"value": 6104,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 21.86,
+"value": 5390,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1월 2일(금) 알림</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
+<style>
+/* VOICE 신문 경제면처럼 차분하게 / IDEA 매일 넘겨 보는 투자 알림장 / PICTURE 달력과 말풍선
+   COLOUR 흰 바탕·먹색·빨간 탭·슬레이트, 테마 12색 / TYPE Noto Serif KR 제목 + Noto Sans KR 본문 / LAYOUT 한 단, 휴대폰 우선, 표는 옆으로 밀기 */
+:root{color-scheme:light dark;--bg:light-dark(#fff,#10191e);--ink:light-dark(#121212,#e9eef0);--mute:light-dark(#5b6670,#9aa8b1);
+--red:#e3120b;--slate:light-dark(#2e6f8e,#7fb6cf);--panel:light-dark(#eef3f5,#18252c);--line:light-dark(#d5dde2,#2a3a43);
+--up:light-dark(#c4161c,#ff6b66);--dn:light-dark(#1f5fbf,#6aa4ff)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR",system-ui,sans-serif;overflow-x:clip}
+a{color:var(--slate)}
+header{border-top:6px solid var(--red);padding:18px max(4vw,14px) 4px;max-width:1080px;margin:auto}
+header .tab{display:inline-block;background:var(--red);color:#fff;font-weight:700;font-size:13px;padding:2px 10px;margin-bottom:8px}
+h1{font:700 clamp(28px,5vw,42px)/1.15 "Noto Serif KR",serif;margin:0 0 4px;text-wrap:balance}
+h2{font:700 21px/1.3 "Noto Serif KR",serif;margin:34px 0 10px;padding-top:10px;border-top:1px solid var(--line)}
+h3{font:700 16px/1.3 "Noto Sans KR",sans-serif;margin:16px 0 8px}
+main{max-width:1080px;margin:auto;padding:0 max(4vw,14px) 60px}
+.sub{color:var(--mute);margin:0 0 8px}
+nav.tabs{display:flex;gap:8px;overflow-x:auto;padding:12px 0 2px}
+nav.tabs a{flex:none;display:flex;align-items:center;padding:6px 14px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--ink);font-size:14px;min-height:40px}
+nav.tabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin:14px 0}
+.kpis div{background:var(--bg);padding:12px 14px}.kpis b{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis div>span{color:var(--mute);font-size:13px}
+.kpi{margin:4px 0 10px}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:6px}
+table.wide{border-collapse:collapse;min-width:100%;font-size:14.5px}
+.wide th,.wide td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap;vertical-align:middle}
+.wide tr:last-child td{border-bottom:0}
+.wide th{font-size:12.5px;color:var(--mute);font-weight:500;background:var(--panel)}
+.wide td:first-child,.wide th:first-child{position:sticky;left:0;z-index:1;background:var(--bg);box-shadow:1px 0 0 var(--line)}.wide th:first-child{background:var(--panel)}
+.wide tr.group td{background:var(--panel);font-size:13.5px;padding:6px 12px;border-top:2px solid var(--ink);position:static;box-shadow:none}.wide tr.muted td{color:var(--mute)}
+.wide td small{color:var(--mute);font-size:12px}
+.r{text-align:right!important}
+.up{color:var(--up);font-weight:600}.dn{color:var(--dn);font-weight:600}
+.empty{color:var(--mute)}small{color:var(--mute)}
+.chip{display:inline-block;padding:1px 8px;border-radius:4px;font-size:12.5px;font-weight:600;color:var(--c);background:color-mix(in srgb,var(--c) 14%,transparent);border-left:3px solid var(--c);white-space:nowrap}
+.bar{display:inline-block;width:4px;height:16px;background:var(--c);margin-right:7px;vertical-align:-3px;border-radius:2px}
+.msg{display:grid;grid-template-columns:48px 1fr;gap:8px;margin:12px 0}
+.msg time{font-weight:700;color:var(--slate);padding-top:10px;font-size:14px}
+.bubble{background:var(--panel);border-radius:4px 14px 14px 14px;padding:11px 14px;white-space:pre-wrap;overflow-wrap:anywhere;font-size:15px}
+.bubble pre{margin:4px 0 8px;white-space:pre;overflow-x:auto;font:13.5px/1.55 ui-monospace,"D2Coding",monospace;background:var(--bg);padding:8px 10px;border-radius:6px}
+.src{display:inline-block;font-size:12px;font-weight:700;padding:0 6px;border-radius:4px;margin-right:6px}.src.vi{background:#5b6ee1;color:#fff}
+.cal{display:grid;gap:4px}.cal6{grid-template-columns:48px repeat(5,minmax(0,1fr))}.cal5{grid-template-columns:repeat(5,minmax(0,1fr))}
+.cal-h{font-size:12px;color:var(--mute);text-align:center}
+.cal-d,.cal-w{min-height:84px;border:1px solid var(--line);border-radius:6px;padding:5px 6px;text-decoration:none;color:var(--ink);font-size:12px;line-height:1.4;display:flex;flex-direction:column;gap:2px;overflow:hidden}
+.cal-d b{font-size:14px}.cal-d.none{color:var(--mute);opacity:.5}.cal-d.off,.cal-w.off{border:0}
+a.cal-d{background:var(--panel)}a.cal-d:hover,a.cal-w:hover,a.cal-d:focus-visible{outline:2px solid var(--slate)}
+.cal-w{align-items:center;justify-content:center;text-align:center;font-weight:700;color:var(--slate);font-size:12px}
+.cal-d .chip{font-size:11px;padding:0 3px;overflow:hidden;white-space:nowrap;max-width:100%}
+.dot{font-size:11.5px;color:var(--mute)}
+.wide td small.k{display:block;font-size:12px;color:var(--mute);font-weight:400;margin-top:1px}
+.wide td:first-child{white-space:normal;min-width:130px;max-width:190px}
+.today{margin:14px 0 0;padding:12px 14px;border-left:4px solid var(--red);background:var(--panel);font-size:15px;line-height:1.7}
+.today a{color:var(--ink);text-decoration:none;display:block}
+.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.kpis div>span{display:block;line-height:1.45}
+details.fold{border-bottom:1px solid var(--line)}details.fold summary{padding:10px 0;display:flex;gap:10px;align-items:center;list-style:none}
+details.fold summary::before{content:"▸";color:var(--slate)}details.fold[open] summary::before{content:"▾"}
+details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{margin-top:0}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:4px;vertical-align:1px;white-space:nowrap}
+.badge.real{background:var(--ink);color:var(--bg)}.badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
+.chart svg{width:100%;height:auto;display:block}.chart .grid{stroke:var(--line);stroke-width:.6}.chart .below{fill:color-mix(in srgb,var(--dn) 9%,transparent)}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--mute);margin:4px 0 6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.thin{opacity:.45}.kpis div:first-child{grid-column:1/-1}.cnt{display:inline-block;white-space:nowrap;margin:0 8px 6px 0}ul.plain{list-style:none;padding:0;margin:4px 0}ul.plain li{padding:6px 0;border-bottom:1px solid var(--line)}
+.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.wide td:last-child{white-space:normal;min-width:110px;font-size:13.5px}
+.kpis.links a{display:block;position:relative;background:var(--bg);padding:12px 26px 12px 14px;color:var(--ink);text-decoration:none}
+.kpis.links a:nth-child(-n+2){grid-column:auto}.kpis.links a.wide{grid-column:1/-1}.kpis.links a:active,.kpis.links a:hover{background:var(--panel)}
+.kpis.links em{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:22px;color:var(--mute)}
+.kpis.links .kv{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis.links .kl{color:var(--mute);font-size:13px;display:block;line-height:1.5}
+.flash{background:color-mix(in srgb,#f3c64a 45%,transparent);transition:background .4s}html{scroll-behavior:smooth;scroll-padding-top:16px}
+.htabs{display:flex;gap:6px;overflow-x:auto;padding:4px 0 8px}.htabs a{flex:none;padding:6px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--ink);font-size:14px;min-height:38px;display:flex;align-items:center;gap:5px}
+.htabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.htabs a b{font-weight:700;opacity:.8}
+.panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
+.pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
+a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
+footer{color:var(--mute);font-size:13px;margin-top:40px}
+@media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
+</style></head><body><header><span class="tab">투자 알림장</span><h1>1월 2일(금) 알림</h1><p class="sub">알림 0개</p>
+<nav class="tabs"><a class="" href="../index.html">처음</a><a class="" href="../index.html#cal">알림 달력</a><a class="" href="../market.html">대장주 달력</a></nav></header><main><nav class="tabs"><a href="../m/20260102.html">이날 시장·대장주</a><a href="../w/20251229.html">이번 주 복기</a></nav><h2>보낸 알림</h2><p class="empty">이날 저장된 알림 원문 없음 (봇은 11/20부터, 노트북 VI봇은 다시 켠 뒤부터 저장)</p><h2>대장주</h2><div class="scroll"><table class="wide"><thead><tr><th class="">종목</th><th class="r">그날</th><th class="r">다음날 종가</th><th class="r">다음날 시가</th><th class="r">거래대금</th><th class="">오른 이유 후보</th></tr></thead><tbody><tr class=""><td class=""><span class="bar" style="--c:#d35400"></span><b>셀트리온</b><small class="k"><span class="chip" style="--c:#d35400" title="밸류업(25년 기업가치 제고계획 발표)">밸류업</span></small></td><td class="r"><span class="up">+11.9%</span></td><td class="r"><span class="up">+3.5%</span></td><td class="r"><span class="">+0.0%</span></td><td class="r">6,967억</td><td class="">테마: 밸류업(25년 기업가치 제고계획 발표)</td></tr><tr class=""><td class=""><span class="bar" style="--c:#16a085"></span><b>제주반도체</b><small class="k"><span class="chip" style="--c:#16a085" title="온디바이스 AI">온디바이스A</span></small></td><td class="r"><span class="up">+16.3%</span></td><td class="r"><span class="up">+7.0%</span></td><td class="r"><span class="up">+13.4%</span></td><td class="r">5,416억</td><td class="">테마: 온디바이스 AI</td></tr><tr class=""><td class=""><span class="bar" style="--c:#b5651d"></span><b>한미반도체</b><small class="k"><span class="chip" style="--c:#b5651d" title="반도체 장비">반도체장비</span></small></td><td class="r"><span class="up">+13.4%</span></td><td class="r"><span class="up">+15.8%</span></td><td class="r"><span class="up">+7.2%</span></td><td class="r">4,851억</td><td class="">테마: 반도체 장비</td></tr><tr class=""><td class=""><span class="bar" style="--c:#d35400"></span><b>노타</b><small class="k"><span class="chip" style="--c:#d35400" title="지능형로봇/인공지능(AI)">AI로봇</span></small></td><td class="r"><span class="up">+21.8%</span></td><td class="r"><span class="dn">-4.6%</span></td><td class="r"><span class="up">+3.9%</span></td><td class="r">4,301억</td><td class="">테마: 지능형로봇/인공지능(AI)</td></tr><tr class=""><td class=""><span class="bar" style="--c:#7f8c2d"></span><b>현대무벡스</b><small class="k"><span class="chip" style="--c:#7f8c2d" title="로봇(산업용/협동로봇 등)">로봇</span></small></td><td class="r"><span class="up">+26.1%</span></td><td class="r"><span class="up">+1.3%</span></td><td class="r"><span class="">+0.0%</span></td><td class="r">4,270억</td><td class="">테마: 로봇(산업용/협동로봇 등)</td></tr></tbody></table></div><h2>초단타 · VI 단타 자동 복기 <span class="badge test">테스트 중</span></h2><p class="empty">VI 복기 기록 없음</p><h2>초단타 · 15분봉 MACD·일목 단타 모의 <span class="badge test">테스트 중</span></h2><p class="empty">신호 없음</p><h2>이날 끝난 매매 (전체)</h2><p class="empty">끝난 매매 없음</p>
+<script>{const o=()=>{const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;const d=t.closest("details");if(d)d.open=true;t.scrollIntoView({block:"center"});t.classList.add("flash");setTimeout(()=>t.classList.remove("flash"),1600)};addEventListener("hashchange",o);o()}</script>
+<footer>평일 15:10·19:00 알림 뒤 자동으로 새로 만들어집니다. 수익률은 비용 0.35%를 뺀 값이고, 모의 기록은 실제 매매가 아닙니다.</footer></main></body></html>

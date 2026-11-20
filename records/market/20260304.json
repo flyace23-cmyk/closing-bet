@@ -1,0 +1,254 @@
+{
+"date": "20260304",
+"kospi": -12.06,
+"kosdaq": -14.0,
+"adv": 32,
+"dec": 2344,
+"flat": 23,
+"limit_up": 8,
+"limit_down": 2,
+"value_total": 719851,
+"hot": [
+{
+"name": "사료",
+"n": 4,
+"lead": "한탑",
+"lead_ret": 29.94,
+"second": "한일사료",
+"second_ret": 20.45
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "그린리소스",
+"lead_ret": 11.1,
+"second": "에이치엠넥스",
+"second_ret": 2.37
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 3,
+"lead": "흥구석유",
+"lead_ret": 29.98,
+"second": "중앙에너비스",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.92,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 29.95,
+"second": "지에스이",
+"second_ret": 29.77
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.69,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 29.98,
+"second": "중앙에너비스",
+"second_ret": 29.9
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.69,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 29.98,
+"second": "중앙에너비스",
+"second_ret": 29.9
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.43,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 29.79,
+"second": "한국석유",
+"second_ret": 29.79
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -1.62,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 29.98,
+"second": "중앙에너비스",
+"second_ret": 29.9
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.86,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.98,
+"second": "극동유화",
+"second_ret": 29.79
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -2.28,
+"up5": 3,
+"lead": "한탑",
+"lead_ret": 29.94,
+"second": "한일사료",
+"second_ret": 20.45
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -4.7,
+"up5": 0,
+"lead": "체리부로",
+"lead_ret": -0.38,
+"second": "푸드나무",
+"second_ret": -2.84
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -4.96,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 29.95,
+"second": "지에스이",
+"second_ret": 29.77
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.39,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 3.99,
+"second": "신송홀딩스",
+"second_ret": -5.53
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -5.48,
+"up5": 1,
+"lead": "한일사료",
+"lead_ret": 20.45,
+"second": "신라교역",
+"second_ret": -2.36
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -5.7,
+"up5": 1,
+"lead": "인트론바이오",
+"lead_ret": 29.96,
+"second": "국제약품",
+"second_ret": -2.6
+}
+],
+"themes_worst": [
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": -16.7,
+"up5": 0,
+"lead": "유비쿼스",
+"lead_ret": -8.02,
+"second": "화천기공",
+"second_ret": -9.91
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -16.44,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": -12.55,
+"second": "서진시스템",
+"second_ret": -12.62
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -16.13,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -12.24,
+"second": "일진전기",
+"second_ret": -12.98
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -15.97,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": -10.67,
+"second": "네오위즈",
+"second_ret": -13.7
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -15.94,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": -8.7,
+"second": "한전KPS",
+"second_ret": -11.88
+}
+],
+"leaders": [
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 24.68,
+"value": 6583,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 29.98,
+"value": 4854,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 20.45,
+"value": 2327,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 29.79,
+"value": 2137,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 29.95,
+"value": 1488,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

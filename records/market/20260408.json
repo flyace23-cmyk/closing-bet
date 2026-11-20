@@ -1,0 +1,254 @@
+{
+"date": "20260408",
+"kospi": 6.87,
+"kosdaq": 5.12,
+"adv": 2032,
+"dec": 296,
+"flat": 76,
+"limit_up": 18,
+"limit_down": 0,
+"value_total": 487071,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 7,
+"lead": "희림",
+"lead_ret": 29.99,
+"second": "대우건설",
+"second_ret": 29.97
+},
+{
+"name": "통신장비",
+"n": 6,
+"lead": "코위버",
+"lead_ret": 30.0,
+"second": "기산텔레콤",
+"second_ret": 30.0
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "에프알텍",
+"lead_ret": 29.93,
+"second": "에이치엠넥스",
+"second_ret": 24.39
+}
+],
+"themes": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 21.27,
+"up5": 6,
+"lead": "대우건설",
+"lead_ret": 29.97,
+"second": "GS건설",
+"second_ret": 29.86
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 11.4,
+"up5": 6,
+"lead": "SK스퀘어",
+"lead_ret": 15.83,
+"second": "삼성물산",
+"second_ret": 12.77
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 11.04,
+"up5": 18,
+"lead": "대우건설",
+"lead_ret": 29.97,
+"second": "GS건설",
+"second_ret": 29.86
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 10.39,
+"up5": 8,
+"lead": "GS건설",
+"lead_ret": 29.86,
+"second": "한신공영",
+"second_ret": 15.0
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 10.24,
+"up5": 10,
+"lead": "엠케이전자",
+"lead_ret": 26.77,
+"second": "심텍",
+"second_ret": 17.44
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 9.96,
+"up5": 28,
+"lead": "희림",
+"lead_ret": 29.99,
+"second": "대우건설",
+"second_ret": 29.97
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 9.94,
+"up5": 13,
+"lead": "수산세보틱스",
+"lead_ret": 29.81,
+"second": "전진건설로봇",
+"second_ret": 25.86
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 9.93,
+"up5": 12,
+"lead": "심텍",
+"lead_ret": 17.44,
+"second": "인텍플러스",
+"second_ret": 15.68
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 9.83,
+"up5": 21,
+"lead": "상지건설",
+"lead_ret": 29.93,
+"second": "동신건설",
+"second_ret": 17.3
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 9.39,
+"up5": 10,
+"lead": "파두",
+"lead_ret": 21.28,
+"second": "큐알티",
+"second_ret": 18.02
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 9.16,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 29.9,
+"second": "옴니시스템",
+"second_ret": 4.86
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 8.81,
+"up5": 4,
+"lead": "앤씨앤",
+"lead_ret": 29.92,
+"second": "삼성전자",
+"second_ret": 7.12
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -7.41,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 5.82,
+"second": "씨티케이",
+"second_ret": 0.39
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.78,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 8.2,
+"second": "GS",
+"second_ret": 6.19
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.78,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 8.2,
+"second": "GS",
+"second_ret": 6.19
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.54,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": 2.84,
+"second": "HMM",
+"second_ret": 2.48
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -2.96,
+"up5": 1,
+"lead": "GS",
+"lead_ret": 6.19,
+"second": "미창석유",
+"second_ret": 1.72
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 12.77,
+"value": 69308,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 29.97,
+"value": 20442,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "현대건설",
+"code": "000720",
+"ret": 21.04,
+"value": 11119,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 16.22,
+"value": 10293,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 18.55,
+"value": 9687,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+}
+],
+"backfilled": true
+}

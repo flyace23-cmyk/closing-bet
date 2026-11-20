@@ -1,0 +1,254 @@
+{
+"date": "20260114",
+"kospi": 0.65,
+"kosdaq": -0.72,
+"adv": 1102,
+"dec": 1172,
+"flat": 124,
+"limit_up": 14,
+"limit_down": 0,
+"value_total": 318343,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "DYP",
+"lead_ret": 29.9,
+"second": "모베이스",
+"second_ret": 29.88
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 5,
+"lead": "아진엑스텍",
+"lead_ret": 29.97,
+"second": "유진로봇",
+"second_ret": 25.63
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "아진엑스텍",
+"lead_ret": 29.97,
+"second": "컴투스엔",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 16.54,
+"up5": 3,
+"lead": "천일고속",
+"lead_ret": 29.94,
+"second": "동양고속",
+"second_ret": 29.91
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 7.26,
+"up5": 2,
+"lead": "한화갤러리아",
+"lead_ret": 29.97,
+"second": "현대백화점",
+"second_ret": 5.51
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 5.46,
+"up5": 6,
+"lead": "천일고속",
+"lead_ret": 29.94,
+"second": "동양고속",
+"second_ret": 29.91
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 5.06,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 19.75,
+"second": "롯데지주",
+"second_ret": 3.64
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.43,
+"up5": 3,
+"lead": "파워로직스",
+"lead_ret": 29.84,
+"second": "탑엔지니어링",
+"second_ret": 13.97
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.09,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 16.61,
+"second": "흥구석유",
+"second_ret": 6.49
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.09,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 16.61,
+"second": "흥구석유",
+"second_ret": 6.49
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 2.93,
+"up5": 1,
+"lead": "루멘스바이오스",
+"lead_ret": 29.93,
+"second": "코세스",
+"second_ret": 2.75
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 2.73,
+"up5": 2,
+"lead": "한화갤러리아",
+"lead_ret": 29.97,
+"second": "현대백화점",
+"second_ret": 5.51
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 2.61,
+"up5": 2,
+"lead": "유성티엔에스",
+"lead_ret": 19.75,
+"second": "KCTC",
+"second_ret": 5.49
+},
+{
+"name": "증강현실(AR)",
+"n": 19,
+"avg": 2.6,
+"up5": 3,
+"lead": "비트맥스",
+"lead_ret": 29.83,
+"second": "버넥트",
+"second_ret": 14.09
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.44,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 16.61,
+"second": "흥구석유",
+"second_ret": 6.49
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -4.22,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": -1.16,
+"second": "삼성중공업",
+"second_ret": -2.07
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.15,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": -0.41,
+"second": "LG에너지솔루션",
+"second_ret": -1.14
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.54,
+"up5": 0,
+"lead": "광무",
+"lead_ret": 1.36,
+"second": "세방전지",
+"second_ret": 0.8
+},
+{
+"name": "조선기자재",
+"n": 36,
+"avg": -2.45,
+"up5": 0,
+"lead": "KS인더스트리",
+"lead_ret": 4.81,
+"second": "화인베스틸",
+"second_ret": 3.12
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -2.28,
+"up5": 0,
+"lead": "미래에셋증권",
+"lead_ret": 3.69,
+"second": "한미반도체",
+"second_ret": 2.66
+}
+],
+"leaders": [
+{
+"name": "한화",
+"code": "000880",
+"ret": 25.37,
+"value": 7882,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 25.63,
+"value": 2741,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 25.26,
+"value": 2124,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "한화갤러리아",
+"code": "452260",
+"ret": 29.97,
+"value": 1139,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 16.61,
+"value": 1022,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+}
+],
+"backfilled": true
+}

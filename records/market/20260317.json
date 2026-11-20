@@ -1,0 +1,254 @@
+{
+"date": "20260317",
+"kospi": 1.63,
+"kosdaq": -0.12,
+"adv": 1432,
+"dec": 865,
+"flat": 104,
+"limit_up": 14,
+"limit_down": 1,
+"value_total": 333267,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "PI첨단소재",
+"lead_ret": 25.78,
+"second": "더블유씨피",
+"second_ret": 23.59
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "에스오에스랩",
+"lead_ret": 16.55,
+"second": "아이엘",
+"second_ret": 15.02
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "앤로보틱스",
+"lead_ret": 29.77,
+"second": "아이엘",
+"second_ret": 15.02
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 6.15,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 30.01,
+"second": "사조대림",
+"second_ret": 2.47
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 5.66,
+"up5": 3,
+"lead": "제이오",
+"lead_ret": 11.14,
+"second": "금호석유화학",
+"second_ret": 6.78
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.94,
+"up5": 1,
+"lead": "더블유씨피",
+"lead_ret": 23.59,
+"second": "LG에너지솔루션",
+"second_ret": 3.96
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.99,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 29.91,
+"second": "DSC인베스트먼트",
+"second_ret": 4.86
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 3.93,
+"up5": 4,
+"lead": "지아이에스",
+"lead_ret": 13.89,
+"second": "삼성전기",
+"second_ret": 8.11
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.93,
+"up5": 2,
+"lead": "동양고속",
+"lead_ret": 9.91,
+"second": "동원산업",
+"second_ret": 6.93
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.57,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 18.17,
+"second": "한화생명",
+"second_ret": 1.81
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.41,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 29.91,
+"second": "케이엔솔",
+"second_ret": 3.51
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 3.38,
+"up5": 6,
+"lead": "와이제이링크",
+"lead_ret": 30.0,
+"second": "PI첨단소재",
+"second_ret": 25.78
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.37,
+"up5": 2,
+"lead": "금호석유화학",
+"lead_ret": 6.78,
+"second": "한국앤컴퍼니",
+"second_ret": 5.23
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 3.3,
+"up5": 2,
+"lead": "와이제이링크",
+"lead_ret": 30.0,
+"second": "아주IB투자",
+"second_ret": 18.17
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.22,
+"up5": 1,
+"lead": "SP삼화",
+"lead_ret": 18.79,
+"second": "KCC",
+"second_ret": 3.72
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.16,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 2.76,
+"second": "LB인베스트먼트",
+"second_ret": 1.98
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -2.14,
+"up5": 1,
+"lead": "티엠씨",
+"lead_ret": 29.98,
+"second": "우리넷",
+"second_ret": 2.25
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": -1.76,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 5.07,
+"second": "LS ELECTRIC",
+"second_ret": 3.96
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -1.65,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 3.64,
+"second": "이노진",
+"second_ret": 2.8
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -1.58,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 2.76,
+"second": "큐알티",
+"second_ret": 2.35
+}
+],
+"leaders": [
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 11.53,
+"value": 11443,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 12.37,
+"value": 4824,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 18.17,
+"value": 3469,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "SP삼화",
+"code": "000390",
+"ret": 18.79,
+"value": 3191,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 29.91,
+"value": 3045,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

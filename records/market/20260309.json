@@ -1,0 +1,254 @@
+{
+"date": "20260309",
+"kospi": -5.96,
+"kosdaq": -4.54,
+"adv": 215,
+"dec": 2154,
+"flat": 32,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 440354,
+"hot": [
+{
+"name": "농업",
+"n": 6,
+"lead": "남해화학",
+"lead_ret": 17.52,
+"second": "조비",
+"second_ret": 11.93
+},
+{
+"name": "조선기자재",
+"n": 6,
+"lead": "태광",
+"lead_ret": 13.62,
+"second": "삼미금속",
+"second_ret": 8.82
+},
+{
+"name": "주유소",
+"n": 3,
+"lead": "남해화학",
+"lead_ret": 17.52,
+"second": "중앙에너비스",
+"second_ret": 11.15
+}
+],
+"themes": [
+{
+"name": "비료",
+"n": 10,
+"avg": 6.48,
+"up5": 6,
+"lead": "남해화학",
+"lead_ret": 17.52,
+"second": "조비",
+"second_ret": 11.93
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.55,
+"up5": 3,
+"lead": "대성에너지",
+"lead_ret": 21.23,
+"second": "지에스이",
+"second_ret": 9.2
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.42,
+"up5": 3,
+"lead": "남해화학",
+"lead_ret": 17.52,
+"second": "조비",
+"second_ret": 11.93
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.03,
+"up5": 4,
+"lead": "남해화학",
+"lead_ret": 17.52,
+"second": "중앙에너비스",
+"second_ret": 11.15
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 1.85,
+"up5": 7,
+"lead": "남해화학",
+"lead_ret": 17.52,
+"second": "조비",
+"second_ret": 11.93
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 1.75,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": 4.0,
+"second": "HD현대중공업",
+"second_ret": 3.97
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.68,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 11.15,
+"second": "극동유화",
+"second_ret": 7.35
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.68,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 11.15,
+"second": "극동유화",
+"second_ret": 7.35
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.19,
+"up5": 1,
+"lead": "롯데정밀화학",
+"lead_ret": 5.61,
+"second": "KG케미칼",
+"second_ret": 2.94
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 0.83,
+"up5": 2,
+"lead": "한국카본",
+"lead_ret": 7.06,
+"second": "SH에너지화학",
+"second_ret": 6.19
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 0.15,
+"up5": 2,
+"lead": "제이씨케미칼",
+"lead_ret": 29.97,
+"second": "효성오앤비",
+"second_ret": 9.09
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 0.15,
+"up5": 2,
+"lead": "제이씨케미칼",
+"lead_ret": 29.97,
+"second": "효성오앤비",
+"second_ret": 9.09
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -9.23,
+"up5": 0,
+"lead": "자람테크놀로지",
+"lead_ret": -6.7,
+"second": "삼성전자",
+"second_ret": -7.81
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -9.06,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": -7.26,
+"second": "삼성전자",
+"second_ret": -7.81
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -8.65,
+"up5": 0,
+"lead": "태성",
+"lead_ret": -2.08,
+"second": "삼성전기",
+"second_ret": -5.56
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -8.55,
+"up5": 0,
+"lead": "태성",
+"lead_ret": -2.08,
+"second": "삼성전기",
+"second_ret": -5.56
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -8.52,
+"up5": 0,
+"lead": "피에스케이홀딩스",
+"lead_ret": -0.85,
+"second": "테크윙",
+"second_ret": -3.66
+}
+],
+"leaders": [
+{
+"name": "페니트리움바이오",
+"code": "187660",
+"ret": 11.84,
+"value": 4769,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 21.23,
+"value": 2989,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 10.58,
+"value": 1844,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "펄어비스",
+"code": "263750",
+"ret": 12.41,
+"value": 1335,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "중앙에너비스",
+"code": "000440",
+"ret": 11.15,
+"value": 1284,
+"theme": "주유소",
+"reason": "테마: 주유소"
+}
+],
+"backfilled": true
+}

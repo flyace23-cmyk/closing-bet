@@ -1,0 +1,254 @@
+{
+"date": "20260529",
+"kospi": 3.55,
+"kosdaq": -2.68,
+"adv": 430,
+"dec": 1914,
+"flat": 64,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 899208,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 8,
+"lead": "LG전자",
+"lead_ret": 29.93,
+"second": "로보스타",
+"second_ret": 20.98
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 7,
+"lead": "LG전자",
+"lead_ret": 29.93,
+"second": "LG이노텍",
+"second_ret": 28.57
+},
+{
+"name": "SI(시스템통합)",
+"n": 7,
+"lead": "LG씨엔에스",
+"lead_ret": 29.91,
+"second": "현대오토에버",
+"second_ret": 24.8
+}
+],
+"themes": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 11.9,
+"up5": 4,
+"lead": "LG전자",
+"lead_ret": 29.93,
+"second": "삼성에스디에스",
+"second_ret": 20.32
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 7.44,
+"up5": 4,
+"lead": "TS인베스트먼트",
+"lead_ret": 30.0,
+"second": "포바이포",
+"second_ret": 20.43
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.57,
+"up5": 4,
+"lead": "삼성전기",
+"lead_ret": 15.04,
+"second": "삼성생명",
+"second_ret": 8.67
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.03,
+"up5": 3,
+"lead": "현대모비스",
+"lead_ret": 11.95,
+"second": "한온시스템",
+"second_ret": 10.39
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.66,
+"up5": 3,
+"lead": "포바이포",
+"lead_ret": 20.43,
+"second": "아센디오",
+"second_ret": 18.46
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.47,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 8.26,
+"second": "GS건설",
+"second_ret": 5.9
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 3.36,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 29.93,
+"second": "삼성전자",
+"second_ret": 5.84
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.27,
+"up5": 5,
+"lead": "LG이노텍",
+"lead_ret": 28.57,
+"second": "대덕전자",
+"second_ret": 15.84
+},
+{
+"name": "SI(시스템통합)",
+"n": 30,
+"avg": 2.79,
+"up5": 9,
+"lead": "LG씨엔에스",
+"lead_ret": 29.91,
+"second": "현대오토에버",
+"second_ret": 24.8
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.69,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 30.0,
+"second": "DSC인베스트먼트",
+"second_ret": 9.39
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 2.6,
+"up5": 13,
+"lead": "LG전자",
+"lead_ret": 29.93,
+"second": "LG이노텍",
+"second_ret": 28.57
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 2.49,
+"up5": 8,
+"lead": "플리토",
+"lead_ret": 29.89,
+"second": "삼성에스디에스",
+"second_ret": 20.32
+}
+],
+"themes_worst": [
+{
+"name": "2026 상반기 신규상장",
+"n": 10,
+"avg": -6.37,
+"up5": 1,
+"lead": "마키나락스",
+"lead_ret": 5.28,
+"second": "케이뱅크",
+"second_ret": 0.17
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -5.78,
+"up5": 0,
+"lead": "티에스이",
+"lead_ret": -2.49,
+"second": "티씨케이",
+"second_ret": -3.46
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -5.4,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": -1.11,
+"second": "한화투자증권",
+"second_ret": -1.29
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -5.29,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -3.28,
+"second": "옴니시스템",
+"second_ret": -4.41
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -5.2,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 3.62,
+"second": "모델솔루션",
+"second_ret": -0.79
+}
+],
+"leaders": [
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 15.04,
+"value": 62976,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 29.93,
+"value": 26746,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "LG이노텍",
+"code": "011070",
+"ret": 28.57,
+"value": 20453,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "NAVER",
+"code": "035420",
+"ret": 14.15,
+"value": 17712,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "현대모비스",
+"code": "012330",
+"ret": 11.95,
+"value": 15078,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

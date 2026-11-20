@@ -1,0 +1,254 @@
+{
+"date": "20260413",
+"kospi": -0.86,
+"kosdaq": 0.57,
+"adv": 1104,
+"dec": 1142,
+"flat": 158,
+"limit_up": 20,
+"limit_down": 0,
+"value_total": 328628,
+"hot": [
+{
+"name": "통신장비",
+"n": 13,
+"lead": "우리넷",
+"lead_ret": 30.0,
+"second": "스퀘어텍",
+"second_ret": 29.97
+},
+{
+"name": "LED",
+"n": 6,
+"lead": "한솔테크닉스",
+"lead_ret": 29.94,
+"second": "빛샘전자",
+"second_ret": 29.94
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "웨이브일렉트로",
+"lead_ret": 29.96,
+"second": "카티스",
+"second_ret": 29.95
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 11.53,
+"up5": 8,
+"lead": "우리넷",
+"lead_ret": 30.0,
+"second": "티엠씨",
+"second_ret": 29.96
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 10.28,
+"up5": 21,
+"lead": "우리넷",
+"lead_ret": 30.0,
+"second": "스퀘어텍",
+"second_ret": 29.97
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 7.68,
+"up5": 20,
+"lead": "우리넷",
+"lead_ret": 30.0,
+"second": "웨이브일렉트로",
+"second_ret": 29.96
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 6.81,
+"up5": 6,
+"lead": "스퀘어텍",
+"lead_ret": 29.97,
+"second": "한솔테크닉스",
+"second_ret": 29.94
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 6.81,
+"up5": 6,
+"lead": "스퀘어텍",
+"lead_ret": 29.97,
+"second": "한솔테크닉스",
+"second_ret": 29.94
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 6.35,
+"up5": 3,
+"lead": "한국팩키지",
+"lead_ret": 15.43,
+"second": "진영",
+"second_ret": 14.56
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.78,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 18.02,
+"second": "강스템바이오텍",
+"second_ret": 12.5
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 5.55,
+"up5": 3,
+"lead": "광전자",
+"lead_ret": 29.91,
+"second": "코세스",
+"second_ret": 21.54
+},
+{
+"name": "LED",
+"n": 37,
+"avg": 5.51,
+"up5": 11,
+"lead": "한솔테크닉스",
+"lead_ret": 29.94,
+"second": "빛샘전자",
+"second_ret": 29.94
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 5.34,
+"up5": 10,
+"lead": "남선알미늄",
+"lead_ret": 29.93,
+"second": "조일알미늄",
+"second_ret": 26.62
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.25,
+"up5": 2,
+"lead": "에스넷",
+"lead_ret": 18.49,
+"second": "광무",
+"second_ret": 15.66
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 5.05,
+"up5": 4,
+"lead": "아이씨에이치",
+"lead_ret": 30.0,
+"second": "아모텍",
+"second_ret": 9.64
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.91,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 0.47,
+"second": "아시아나항공",
+"second_ret": 0.28
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.71,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 0.0,
+"second": "현대건설",
+"second_ret": -1.95
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": -2.47,
+"up5": 0,
+"lead": "덕신이피씨",
+"lead_ret": 2.13,
+"second": "금강공업",
+"second_ret": -0.75
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": -2.34,
+"up5": 0,
+"lead": "GS피앤엘",
+"lead_ret": 0.22,
+"second": "모나용평",
+"second_ret": 0.16
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -2.2,
+"up5": 0,
+"lead": "웰크론한텍",
+"lead_ret": 2.53,
+"second": "대원",
+"second_ret": 2.33
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 11.82,
+"value": 11495,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 29.93,
+"value": 5639,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "세미파이브",
+"code": "490470",
+"ret": 16.61,
+"value": 5319,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 13.71,
+"value": 4610,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 29.91,
+"value": 3419,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+}
+],
+"backfilled": true
+}

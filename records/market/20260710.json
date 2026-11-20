@@ -1,0 +1,254 @@
+{
+"date": "20260710",
+"kospi": 2.52,
+"kosdaq": 5.47,
+"adv": 2099,
+"dec": 253,
+"flat": 59,
+"limit_up": 8,
+"limit_down": 7,
+"value_total": 372209,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 11,
+"lead": "예스티",
+"lead_ret": 26.25,
+"second": "피에스케이",
+"second_ret": 24.44
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "알멕",
+"lead_ret": 20.97,
+"second": "덕산하이메탈",
+"second_ret": 20.0
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "웰킵스하이텍",
+"lead_ret": 23.33,
+"second": "덕산하이메탈",
+"second_ret": 20.0
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": 13.68,
+"up5": 9,
+"lead": "기가레인",
+"lead_ret": 29.92,
+"second": "예스티",
+"second_ret": 26.25
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 11.67,
+"up5": 12,
+"lead": "빛과전자",
+"lead_ret": 29.89,
+"second": "대한광통신",
+"second_ret": 18.31
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 10.24,
+"up5": 81,
+"lead": "기가레인",
+"lead_ret": 29.92,
+"second": "예스티",
+"second_ret": 26.25
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 9.95,
+"up5": 6,
+"lead": "에이직랜드",
+"lead_ret": 16.82,
+"second": "네패스아크",
+"second_ret": 14.06
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 9.93,
+"up5": 36,
+"lead": "기가레인",
+"lead_ret": 29.92,
+"second": "빛과전자",
+"second_ret": 29.89
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 9.84,
+"up5": 7,
+"lead": "대원전선",
+"lead_ret": 17.34,
+"second": "KBI메탈",
+"second_ret": 17.06
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 9.62,
+"up5": 3,
+"lead": "대구백화점",
+"lead_ret": 29.97,
+"second": "광주신세계",
+"second_ret": 19.71
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 9.53,
+"up5": 28,
+"lead": "예스티",
+"lead_ret": 26.25,
+"second": "레이저쎌",
+"second_ret": 23.8
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 9.36,
+"up5": 11,
+"lead": "덕산하이메탈",
+"lead_ret": 20.0,
+"second": "네오티스",
+"second_ret": 19.18
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 8.89,
+"up5": 7,
+"lead": "코세스",
+"lead_ret": 19.78,
+"second": "광전자",
+"second_ret": 18.79
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 8.8,
+"up5": 10,
+"lead": "코세스",
+"lead_ret": 19.78,
+"second": "엘티씨",
+"second_ret": 17.8
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 8.62,
+"up5": 56,
+"lead": "웰킵스하이텍",
+"lead_ret": 23.33,
+"second": "덕산하이메탈",
+"second_ret": 20.0
+}
+],
+"themes_worst": [
+{
+"name": "비만치료제",
+"n": 37,
+"avg": 0.25,
+"up5": 3,
+"lead": "샤페론",
+"lead_ret": 7.32,
+"second": "츌립앤사이언스",
+"second_ret": 6.53
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.08,
+"up5": 2,
+"lead": "풍산",
+"lead_ret": 5.85,
+"second": "POSCO홀딩스",
+"second_ret": 5.56
+},
+{
+"name": "치매",
+"n": 51,
+"avg": 1.15,
+"up5": 9,
+"lead": "알지노믹스",
+"lead_ret": 8.33,
+"second": "바이오스마트",
+"second_ret": 7.95
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.16,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 3.8,
+"second": "한국정보통신",
+"second_ret": 3.31
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.2,
+"up5": 0,
+"lead": "INVENI",
+"lead_ret": 3.43,
+"second": "한국가스공사",
+"second_ret": 2.32
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 18.31,
+"value": 3816,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "원익IPS",
+"code": "240810",
+"ret": 19.16,
+"value": 3722,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 14.67,
+"value": 2242,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "피에스케이",
+"code": "319660",
+"ret": 24.44,
+"value": 2232,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "금호타이어",
+"code": "073240",
+"ret": 30.0,
+"value": 1853,
+"theme": "타이어",
+"reason": "테마: 타이어"
+}
+],
+"backfilled": true
+}

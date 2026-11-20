@@ -1,0 +1,254 @@
+{
+"date": "20260630",
+"kospi": 0.97,
+"kosdaq": -0.48,
+"adv": 859,
+"dec": 1467,
+"flat": 83,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 482780,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 10,
+"lead": "미래산업",
+"lead_ret": 29.96,
+"second": "케이씨텍",
+"second_ret": 26.62
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 3,
+"lead": "심텍",
+"lead_ret": 19.63,
+"second": "대덕전자",
+"second_ret": 16.28
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "심텍",
+"lead_ret": 19.63,
+"second": "대덕전자",
+"second_ret": 16.28
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.69,
+"up5": 10,
+"lead": "심텍",
+"lead_ret": 19.63,
+"second": "대덕전자",
+"second_ret": 16.28
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.87,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 22.51,
+"second": "대원전선",
+"second_ret": 5.2
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.21,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 16.44,
+"second": "유비벨록스",
+"second_ret": 4.57
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 3.14,
+"up5": 24,
+"lead": "미래산업",
+"lead_ret": 29.96,
+"second": "케이씨텍",
+"second_ret": 26.62
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.02,
+"up5": 4,
+"lead": "심텍",
+"lead_ret": 19.63,
+"second": "대덕전자",
+"second_ret": 16.28
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.65,
+"up5": 3,
+"lead": "아이에이",
+"lead_ret": 29.76,
+"second": "LG이노텍",
+"second_ret": 7.21
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 2.57,
+"up5": 2,
+"lead": "덕신이피씨",
+"lead_ret": 29.96,
+"second": "자연과환경",
+"second_ret": 6.27
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 2.35,
+"up5": 7,
+"lead": "심텍",
+"lead_ret": 19.63,
+"second": "대덕전자",
+"second_ret": 16.28
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.32,
+"up5": 4,
+"lead": "삼화콘덴서",
+"lead_ret": 13.53,
+"second": "아바텍",
+"second_ret": 7.91
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.14,
+"up5": 2,
+"lead": "아이에이",
+"lead_ret": 29.76,
+"second": "테스",
+"second_ret": 15.75
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.09,
+"up5": 1,
+"lead": "삼성전기",
+"lead_ret": 7.16,
+"second": "SK스퀘어",
+"second_ret": 3.48
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 1.94,
+"up5": 2,
+"lead": "사조산업",
+"lead_ret": 11.49,
+"second": "사조씨푸드",
+"second_ret": 8.26
+}
+],
+"themes_worst": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -5.2,
+"up5": 0,
+"lead": "HC홈센타",
+"lead_ret": 0.68,
+"second": "서산",
+"second_ret": 0.24
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -5.0,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -2.86,
+"second": "상보",
+"second_ret": -2.94
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -4.52,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": 0.0,
+"second": "대한조선",
+"second_ret": -3.53
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.42,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 1.78,
+"second": "메디포스트",
+"second_ret": -5.6
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -4.31,
+"up5": 1,
+"lead": "아리바이오랩",
+"lead_ret": 11.36,
+"second": "강스템바이오텍",
+"second_ret": 1.78
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 13.82,
+"value": 6658,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 29.97,
+"value": 3580,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "대덕전자",
+"code": "353200",
+"ret": 16.28,
+"value": 2439,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "심텍",
+"code": "222800",
+"ret": 19.63,
+"value": 1952,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 13.53,
+"value": 1943,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+}
+],
+"backfilled": true
+}

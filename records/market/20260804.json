@@ -1,0 +1,254 @@
+{
+"date": "20260804",
+"kospi": 1.62,
+"kosdaq": 5.88,
+"adv": 2117,
+"dec": 220,
+"flat": 75,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 339585,
+"hot": [
+{
+"name": "통신장비",
+"n": 4,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.93,
+"second": "기가레인",
+"second_ret": 21.89
+},
+{
+"name": "의료AI",
+"n": 4,
+"lead": "랩지노믹스",
+"lead_ret": 29.93,
+"second": "스피어",
+"second_ret": 23.14
+},
+{
+"name": "유전자 치료제/분석",
+"n": 4,
+"lead": "랩지노믹스",
+"lead_ret": 29.93,
+"second": "앱클론",
+"second_ret": 20.73
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 10.77,
+"up5": 13,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.93,
+"second": "라이콤",
+"second_ret": 19.43
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 9.57,
+"up5": 23,
+"lead": "랩지노믹스",
+"lead_ret": 29.93,
+"second": "스피어",
+"second_ret": 23.14
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 9.42,
+"up5": 13,
+"lead": "SK이터닉스",
+"lead_ret": 19.87,
+"second": "한선엔지니어링",
+"second_ret": 19.23
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 37,
+"avg": 8.85,
+"up5": 30,
+"lead": "LK삼양",
+"lead_ret": 29.94,
+"second": "스피어",
+"second_ret": 23.14
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 8.48,
+"up5": 5,
+"lead": "GS건설",
+"lead_ret": 18.56,
+"second": "대우건설",
+"second_ret": 14.29
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": 8.13,
+"up5": 25,
+"lead": "큐리언트",
+"lead_ret": 27.25,
+"second": "앱클론",
+"second_ret": 20.73
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 65,
+"avg": 7.87,
+"up5": 41,
+"lead": "비큐AI",
+"lead_ret": 30.0,
+"second": "솔트룩스",
+"second_ret": 29.97
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 7.86,
+"up5": 4,
+"lead": "메디포스트",
+"lead_ret": 17.52,
+"second": "차바이오텍",
+"second_ret": 6.38
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 7.58,
+"up5": 9,
+"lead": "크라우드웍스",
+"lead_ret": 29.83,
+"second": "M83",
+"second_ret": 13.31
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 7.52,
+"up5": 18,
+"lead": "솔트룩스",
+"lead_ret": 29.97,
+"second": "바이브컴퍼니",
+"second_ret": 19.04
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 7.4,
+"up5": 10,
+"lead": "스피어",
+"lead_ret": 23.14,
+"second": "에이치브이엠",
+"second_ret": 16.37
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 7.35,
+"up5": 7,
+"lead": "이스트에이드",
+"lead_ret": 29.95,
+"second": "NHN",
+"second_ret": 17.63
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.11,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 3.41,
+"second": "SK하이닉스",
+"second_ret": 0.64
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 0.32,
+"up5": 0,
+"lead": "iM금융지주",
+"lead_ret": 1.71,
+"second": "케이뱅크",
+"second_ret": 1.26
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 0.48,
+"up5": 1,
+"lead": "켐트로닉스",
+"lead_ret": 6.82,
+"second": "레몬",
+"second_ret": 4.99
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 0.52,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 4.22,
+"second": "쿠쿠홈시스",
+"second_ret": 3.11
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 0.77,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": 4.71,
+"second": "윙입푸드",
+"second_ret": 4.15
+}
+],
+"leaders": [
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 19.87,
+"value": 7370,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "SK텔레콤",
+"code": "017670",
+"ret": 11.46,
+"value": 2259,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 21.9,
+"value": 1840,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "GS건설",
+"code": "006360",
+"ret": 18.56,
+"value": 1561,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 14.29,
+"value": 1479,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+}
+],
+"backfilled": true
+}

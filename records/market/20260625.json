@@ -1,0 +1,254 @@
+{
+"date": "20260625",
+"kospi": 5.42,
+"kosdaq": -2.36,
+"adv": 594,
+"dec": 1722,
+"flat": 92,
+"limit_up": 9,
+"limit_down": 7,
+"value_total": 565414,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 6,
+"lead": "파루",
+"lead_ret": 29.94,
+"second": "SK이터닉스",
+"second_ret": 29.93
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 6,
+"lead": "SK",
+"lead_ret": 20.51,
+"second": "SK네트웍스",
+"second_ret": 13.33
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "이노테크",
+"lead_ret": 20.88,
+"second": "저스템",
+"second_ret": 16.63
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.1,
+"up5": 4,
+"lead": "SK하이닉스",
+"lead_ret": 13.06,
+"second": "삼성물산",
+"second_ret": 7.79
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.45,
+"up5": 4,
+"lead": "티웨이홀딩스",
+"lead_ret": 8.97,
+"second": "대한항공",
+"second_ret": 6.4
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.69,
+"up5": 2,
+"lead": "파루",
+"lead_ret": 29.94,
+"second": "뉴보텍",
+"second_ret": 5.11
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.62,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 13.06,
+"second": "삼성전자",
+"second_ret": 5.29
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.19,
+"up5": 2,
+"lead": "비엘팜텍",
+"lead_ret": 29.86,
+"second": "삼성물산",
+"second_ret": 7.79
+},
+{
+"name": "태양광에너지",
+"n": 43,
+"avg": 1.91,
+"up5": 9,
+"lead": "파루",
+"lead_ret": 29.94,
+"second": "SK이터닉스",
+"second_ret": 29.93
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.39,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 13.06,
+"second": "심텍",
+"second_ret": 7.22
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.31,
+"up5": 2,
+"lead": "SK네트웍스",
+"lead_ret": 13.33,
+"second": "삼성물산",
+"second_ret": 7.79
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.24,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 8.18,
+"second": "현대백화점",
+"second_ret": 3.38
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 1.2,
+"up5": 2,
+"lead": "오에스피",
+"lead_ret": 29.95,
+"second": "애드바이오텍",
+"second_ret": 20.38
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 1.0,
+"up5": 1,
+"lead": "키움증권",
+"lead_ret": 7.48,
+"second": "한국금융지주",
+"second_ret": 4.65
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 0.86,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 3.1,
+"second": "삼성화재",
+"second_ret": 2.36
+}
+],
+"themes_worst": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -6.39,
+"up5": 0,
+"lead": "유진기업",
+"lead_ret": 3.42,
+"second": "성신양회",
+"second_ret": 1.41
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -6.18,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.68,
+"second": "삼화콘덴서",
+"second_ret": -3.01
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -6.06,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": 1.39,
+"second": "씨엑스아이",
+"second_ret": 0.0
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -4.87,
+"up5": 0,
+"lead": "하림",
+"lead_ret": 0.0,
+"second": "이지홀딩스",
+"second_ret": -1.76
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": -4.78,
+"up5": 0,
+"lead": "이수앱지스",
+"lead_ret": 3.23,
+"second": "CG인바이츠",
+"second_ret": 2.4
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 13.06,
+"value": 198089,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "SK",
+"code": "034730",
+"ret": 20.51,
+"value": 7313,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 29.93,
+"value": 3956,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "SK네트웍스",
+"code": "001740",
+"ret": 13.33,
+"value": 2381,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "키스트론",
+"code": "475430",
+"ret": 10.76,
+"value": 1116,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

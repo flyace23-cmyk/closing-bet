@@ -1,0 +1,254 @@
+{
+"date": "20260519",
+"kospi": -3.25,
+"kosdaq": -2.41,
+"adv": 521,
+"dec": 1751,
+"flat": 134,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 501566,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "녹십자엠에스",
+"lead_ret": 18.97,
+"second": "휴온스",
+"second_ret": 17.9
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "엠케이전자",
+"lead_ret": 15.88,
+"second": "에프엔에스테크",
+"second_ret": 14.81
+},
+{
+"name": "통신장비",
+"n": 3,
+"lead": "티엠씨",
+"lead_ret": 29.81,
+"second": "가온그룹",
+"second_ret": 21.21
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 10,
+"avg": 3.11,
+"up5": 2,
+"lead": "졸스",
+"lead_ret": 29.75,
+"second": "콘텐트리중앙",
+"second_ret": 13.93
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.1,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 29.99,
+"second": "에어부산",
+"second_ret": 2.48
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 2.41,
+"up5": 3,
+"lead": "한화손해보험",
+"lead_ret": 7.44,
+"second": "서울보증보험",
+"second_ret": 5.37
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 8,
+"avg": 2.16,
+"up5": 2,
+"lead": "코스모로보틱스",
+"lead_ret": 29.95,
+"second": "지에프아이",
+"second_ret": 6.43
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 1.7,
+"up5": 2,
+"lead": "판타지오",
+"lead_ret": 15.36,
+"second": "NHN벅스",
+"second_ret": 12.6
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 1.32,
+"up5": 4,
+"lead": "아이씨티케이",
+"lead_ret": 29.91,
+"second": "엑스게이트",
+"second_ret": 22.9
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.32,
+"up5": 1,
+"lead": "한선엔지니어링",
+"lead_ret": 19.57,
+"second": "태광",
+"second_ret": 3.55
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.23,
+"up5": 3,
+"lead": "아이진",
+"lead_ret": 10.31,
+"second": "이연제약",
+"second_ret": 5.75
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 0.94,
+"up5": 1,
+"lead": "아이씨티케이",
+"lead_ret": 29.91,
+"second": "한빛소프트",
+"second_ret": 4.09
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 0.85,
+"up5": 1,
+"lead": "휴온스",
+"lead_ret": 17.9,
+"second": "휴젤",
+"second_ret": 1.53
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.73,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 5.25,
+"second": "옴니시스템",
+"second_ret": 3.16
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 0.59,
+"up5": 1,
+"lead": "오가닉티코스메틱",
+"lead_ret": 7.69,
+"second": "크리스탈신소재",
+"second_ret": 1.02
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -7.08,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": -3.22,
+"second": "기아",
+"second_ret": -4.68
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -6.88,
+"up5": 0,
+"lead": "제이오",
+"lead_ret": 2.42,
+"second": "오픈베이스",
+"second_ret": -2.61
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": -5.89,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 5.02,
+"second": "LG이노텍",
+"second_ret": 4.34
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -5.57,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.96,
+"second": "삼성SDI",
+"second_ret": -4.24
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -4.98,
+"up5": 1,
+"lead": "영우디에스피",
+"lead_ret": 5.04,
+"second": "큐에스아이",
+"second_ret": -0.96
+}
+],
+"leaders": [
+{
+"name": "코스모로보틱스",
+"code": "439960",
+"ret": 29.95,
+"value": 13597,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 22.9,
+"value": 2044,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "삼진제약",
+"code": "005500",
+"ret": 23.87,
+"value": 1044,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한선엔지니어링",
+"code": "452280",
+"ret": 19.57,
+"value": 1042,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "엠케이전자",
+"code": "033160",
+"ret": 15.88,
+"value": 885,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

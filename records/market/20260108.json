@@ -1,0 +1,254 @@
+{
+"date": "20260108",
+"kospi": 0.03,
+"kosdaq": -0.35,
+"adv": 493,
+"dec": 1832,
+"flat": 73,
+"limit_up": 9,
+"limit_down": 1,
+"value_total": 358223,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 5,
+"lead": "이노스페이스",
+"lead_ret": 16.74,
+"second": "루미르",
+"second_ret": 14.39
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "솔디펜스",
+"lead_ret": 29.82,
+"second": "제노코",
+"second_ret": 13.05
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "계양전기",
+"lead_ret": 29.94,
+"second": "유진로봇",
+"second_ret": 9.38
+}
+],
+"themes": [
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.11,
+"up5": 4,
+"lead": "솔디펜스",
+"lead_ret": 29.82,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 8.48
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 2.82,
+"up5": 10,
+"lead": "이노스페이스",
+"lead_ret": 16.74,
+"second": "루미르",
+"second_ret": 14.39
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 2.82,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 7.01,
+"second": "HD현대중공업",
+"second_ret": 4.49
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 2.04,
+"up5": 6,
+"lead": "로킷헬스케어",
+"lead_ret": 12.91,
+"second": "파로스아이바이오",
+"second_ret": 9.11
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 66,
+"avg": 1.66,
+"up5": 13,
+"lead": "솔디펜스",
+"lead_ret": 29.82,
+"second": "제노코",
+"second_ret": 13.05
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 1.65,
+"up5": 3,
+"lead": "더핑크퐁컴퍼니",
+"lead_ret": 17.02,
+"second": "NHN벅스",
+"second_ret": 6.71
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 1.49,
+"up5": 2,
+"lead": "빛과전자",
+"lead_ret": 29.92,
+"second": "대한광통신",
+"second_ret": 6.9
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.27,
+"up5": 1,
+"lead": "파마리서치",
+"lead_ret": 6.94,
+"second": "한국비엔씨",
+"second_ret": 4.4
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.06,
+"up5": 1,
+"lead": "삼성바이오로직스",
+"lead_ret": 6.68,
+"second": "에스티팜",
+"second_ret": 1.18
+},
+{
+"name": "비만치료제",
+"n": 37,
+"avg": 0.97,
+"up5": 5,
+"lead": "지투지바이오",
+"lead_ret": 25.27,
+"second": "디앤디파마텍",
+"second_ret": 9.91
+},
+{
+"name": "조선기자재",
+"n": 36,
+"avg": 0.91,
+"up5": 3,
+"lead": "루미르",
+"lead_ret": 14.39,
+"second": "HD현대마린엔진",
+"second_ret": 6.77
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 0.74,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 7.74,
+"second": "인벤티지랩",
+"second_ret": 5.1
+}
+],
+"themes_worst": [
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -4.75,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 0.0,
+"second": "LG화학",
+"second_ret": -1.41
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -4.46,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 3.63,
+"second": "롯데정밀화학",
+"second_ret": -1.99
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -3.68,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": -0.88,
+"second": "흥국화재",
+"second_ret": -2.01
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -3.22,
+"up5": 0,
+"lead": "엑사이엔씨",
+"lead_ret": 1.4,
+"second": "아이텍",
+"second_ret": 0.33
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -3.2,
+"up5": 0,
+"lead": "엘케이켐",
+"lead_ret": 1.24,
+"second": "메카로",
+"second_ret": -0.59
+}
+],
+"leaders": [
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 15.96,
+"value": 3717,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "지투지바이오",
+"code": "456160",
+"ret": 25.27,
+"value": 2921,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "루미르",
+"code": "474170",
+"ret": 14.39,
+"value": 2139,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "계양전기",
+"code": "012200",
+"ret": 29.94,
+"value": 2074,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 12.74,
+"value": 1671,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

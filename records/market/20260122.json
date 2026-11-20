@@ -1,0 +1,254 @@
+{
+"date": "20260122",
+"kospi": 0.87,
+"kosdaq": 2.0,
+"adv": 1399,
+"dec": 874,
+"flat": 126,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 468130,
+"hot": [
+{
+"name": "2차전지",
+"n": 10,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "한농화성",
+"second_ret": 29.83
+},
+{
+"name": "리튬",
+"n": 6,
+"lead": "리튬포어스",
+"lead_ret": 29.95,
+"second": "중앙첨단소재",
+"second_ret": 29.91
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "레이크머티리얼즈",
+"lead_ret": 29.94,
+"second": "에프에스티",
+"second_ret": 23.57
+}
+],
+"themes": [
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 11.55,
+"up5": 26,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "레이크머티리얼즈",
+"second_ret": 29.94
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 10.39,
+"up5": 16,
+"lead": "리튬포어스",
+"lead_ret": 29.95,
+"second": "중앙첨단소재",
+"second_ret": 29.91
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 8.32,
+"up5": 7,
+"lead": "삼성SDI",
+"lead_ret": 18.67,
+"second": "나인테크",
+"second_ret": 12.2
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 7.75,
+"up5": 8,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "엘앤에프",
+"second_ret": 12.81
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 6.18,
+"up5": 3,
+"lead": "리튬포어스",
+"lead_ret": 29.95,
+"second": "SAMG엔터",
+"second_ret": 6.7
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 6.09,
+"up5": 36,
+"lead": "한농화성",
+"lead_ret": 29.83,
+"second": "강원에너지",
+"second_ret": 28.2
+},
+{
+"name": "2차전지",
+"n": 142,
+"avg": 5.85,
+"up5": 69,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "한농화성",
+"second_ret": 29.83
+},
+{
+"name": "2차전지(장비)",
+"n": 47,
+"avg": 5.23,
+"up5": 18,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "강원에너지",
+"second_ret": 28.2
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 4.87,
+"up5": 5,
+"lead": "아모텍",
+"lead_ret": 19.94,
+"second": "대주전자재료",
+"second_ret": 9.87
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 4.55,
+"up5": 8,
+"lead": "새빗켐",
+"lead_ret": 16.27,
+"second": "성일하이텍",
+"second_ret": 16.09
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 42,
+"avg": 4.34,
+"up5": 16,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "삼성SDI",
+"second_ret": 18.67
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 4.23,
+"up5": 9,
+"lead": "이브이첨단소재",
+"lead_ret": 29.9,
+"second": "롯데에너지머티리얼즈",
+"second_ret": 26.61
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.14,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 4.62,
+"second": "KG모빌리티",
+"second_ret": -2.23
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -2.15,
+"up5": 0,
+"lead": "한텍",
+"lead_ret": 0.8,
+"second": "비에이치아이",
+"second_ret": 0.64
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": -1.32,
+"up5": 5,
+"lead": "슈어소프트테크",
+"lead_ret": 19.98,
+"second": "코윈로보틱스",
+"second_ret": 12.35
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": -1.24,
+"up5": 8,
+"lead": "해성에어로보틱스",
+"lead_ret": 29.72,
+"second": "티엑스알로보틱스",
+"second_ret": 20.34
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -1.13,
+"up5": 0,
+"lead": "DB하이텍",
+"lead_ret": 3.1,
+"second": "모트렉스",
+"second_ret": 2.0
+}
+],
+"leaders": [
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 18.67,
+"value": 22402,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 10.41,
+"value": 7158,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "슈어소프트테크",
+"code": "298830",
+"ret": 19.98,
+"value": 5135,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 16.25,
+"value": 4999,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "로보로보",
+"code": "215100",
+"ret": 16.74,
+"value": 4219,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

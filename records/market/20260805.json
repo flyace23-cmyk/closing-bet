@@ -1,0 +1,254 @@
+{
+"date": "20260805",
+"kospi": 3.76,
+"kosdaq": 2.42,
+"adv": 1851,
+"dec": 444,
+"flat": 117,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 312841,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 6,
+"lead": "이노인스트루먼트",
+"lead_ret": 30.0,
+"second": "빛과전자",
+"second_ret": 29.89
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 4,
+"lead": "마키나락스",
+"lead_ret": 29.85,
+"second": "이랜시스",
+"second_ret": 29.82
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "비큐AI",
+"lead_ret": 29.93,
+"second": "마키나락스",
+"second_ret": 29.85
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 11.85,
+"up5": 8,
+"lead": "KBI메탈",
+"lead_ret": 29.99,
+"second": "대원전선",
+"second_ret": 12.04
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 11.06,
+"up5": 13,
+"lead": "빛과전자",
+"lead_ret": 29.89,
+"second": "대한광통신",
+"second_ret": 18.57
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 8.24,
+"up5": 6,
+"lead": "광전자",
+"lead_ret": 21.31,
+"second": "루멘스바이오스",
+"second_ret": 18.51
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 7.96,
+"up5": 11,
+"lead": "코리아써키트",
+"lead_ret": 14.94,
+"second": "LG이노텍",
+"second_ret": 14.48
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 7.54,
+"up5": 26,
+"lead": "이노인스트루먼트",
+"lead_ret": 30.0,
+"second": "빛과전자",
+"second_ret": 29.89
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 7.17,
+"up5": 22,
+"lead": "KBI메탈",
+"lead_ret": 29.99,
+"second": "선도전기",
+"second_ret": 16.6
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 7.07,
+"up5": 8,
+"lead": "코리아써키트",
+"lead_ret": 14.94,
+"second": "오킨스전자",
+"second_ret": 12.81
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": 7.01,
+"up5": 6,
+"lead": "마키나락스",
+"lead_ret": 29.85,
+"second": "져스텍",
+"second_ret": 24.19
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 6.97,
+"up5": 29,
+"lead": "이노인스트루먼트",
+"lead_ret": 30.0,
+"second": "빛과전자",
+"second_ret": 29.89
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.96,
+"up5": 5,
+"lead": "삼성전기",
+"lead_ret": 14.43,
+"second": "삼성물산",
+"second_ret": 7.75
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.82,
+"up5": 5,
+"lead": "현대건설",
+"lead_ret": 8.47,
+"second": "GS건설",
+"second_ret": 8.35
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.28,
+"up5": 4,
+"lead": "자람테크놀로지",
+"lead_ret": 10.66,
+"second": "네패스아크",
+"second_ret": 10.08
+}
+],
+"themes_worst": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": -1.67,
+"up5": 1,
+"lead": "네오리진",
+"lead_ret": 6.3,
+"second": "미투온",
+"second_ret": 2.78
+},
+{
+"name": "게임",
+"n": 30,
+"avg": -1.54,
+"up5": 1,
+"lead": "네오리진",
+"lead_ret": 6.3,
+"second": "미투온",
+"second_ret": 2.78
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.23,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 0.85,
+"second": "E1",
+"second_ret": 0.36
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.23,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 0.85,
+"second": "E1",
+"second_ret": 0.36
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.87,
+"up5": 0,
+"lead": "미창석유",
+"lead_ret": 3.45,
+"second": "한국쉘석유",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 14.43,
+"value": 13873,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 12.04,
+"value": 6736,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 18.57,
+"value": 4877,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 12.5,
+"value": 2359,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "LG이노텍",
+"code": "011070",
+"ret": 14.48,
+"value": 2039,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260105",
+"kospi": 3.43,
+"kosdaq": 1.26,
+"adv": 1112,
+"dec": 1181,
+"flat": 105,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 335455,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "테라뷰",
+"lead_ret": 22.09,
+"second": "SFA반도체",
+"second_ret": 17.45
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 5,
+"lead": "센서뷰",
+"lead_ret": 22.62,
+"second": "한양이엔지",
+"second_ret": 16.59
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "경창산업",
+"lead_ret": 29.97,
+"second": "성문전자",
+"second_ret": 23.96
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 5.38,
+"up5": 6,
+"lead": "비나텍",
+"lead_ret": 12.42,
+"second": "LS머트리얼즈",
+"second_ret": 9.98
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 5.28,
+"up5": 15,
+"lead": "센서뷰",
+"lead_ret": 22.62,
+"second": "한양이엔지",
+"second_ret": 16.59
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 4.68,
+"up5": 4,
+"lead": "센서뷰",
+"lead_ret": 22.62,
+"second": "한미반도체",
+"second_ret": 15.78
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.21,
+"up5": 2,
+"lead": "삼성전자",
+"lead_ret": 7.47,
+"second": "SK스퀘어",
+"second_ret": 6.12
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 4.08,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 12.74,
+"second": "두산에너빌리티",
+"second_ret": 10.64
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 3.8,
+"up5": 5,
+"lead": "유니셈",
+"lead_ret": 7.14,
+"second": "한화에어로스페이스",
+"second_ret": 6.98
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.64,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 7.98,
+"second": "일진전기",
+"second_ret": 7.23
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.63,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 12.4,
+"second": "강스템바이오텍",
+"second_ret": 5.56
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.55,
+"up5": 7,
+"lead": "아이엘",
+"lead_ret": 22.04,
+"second": "엠오티",
+"second_ret": 12.41
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.5,
+"up5": 5,
+"lead": "두산에너빌리티",
+"lead_ret": 10.64,
+"second": "비에이치아이",
+"second_ret": 7.97
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 3.42,
+"up5": 4,
+"lead": "대한광통신",
+"lead_ret": 19.46,
+"second": "성호전자",
+"second_ret": 15.65
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.38,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 5.46,
+"second": "GS",
+"second_ret": 5.42
+}
+],
+"themes_worst": [
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": -2.77,
+"up5": 1,
+"lead": "알비더블유",
+"lead_ret": 5.52,
+"second": "카카오",
+"second_ret": 1.13
+},
+{
+"name": "영상콘텐츠",
+"n": 29,
+"avg": -2.32,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 4.75,
+"second": "더핑크퐁컴퍼니",
+"second_ret": 2.66
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -2.25,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 4.33,
+"second": "동원산업",
+"second_ret": 0.84
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -1.93,
+"up5": 0,
+"lead": "태영건설",
+"lead_ret": -0.12,
+"second": "한솔홀딩스",
+"second_ret": -1.48
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": -1.86,
+"up5": 1,
+"lead": "알비더블유",
+"lead_ret": 5.52,
+"second": "NHN벅스",
+"second_ret": 3.73
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.64,
+"value": 12585,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 15.78,
+"value": 10841,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "테라뷰",
+"code": "950250",
+"ret": 22.09,
+"value": 3140,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "에스오에스랩",
+"code": "464080",
+"ret": 15.13,
+"value": 1884,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 19.46,
+"value": 1621,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

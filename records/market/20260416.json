@@ -1,0 +1,254 @@
+{
+"date": "20260416",
+"kospi": 2.21,
+"kosdaq": 0.91,
+"adv": 1663,
+"dec": 585,
+"flat": 156,
+"limit_up": 19,
+"limit_down": 5,
+"value_total": 420821,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 10,
+"lead": "엑스게이트",
+"lead_ret": 29.97,
+"second": "소프트캠프",
+"second_ret": 29.97
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 6,
+"lead": "케이씨에스",
+"lead_ret": 29.97,
+"second": "엑스게이트",
+"second_ret": 29.97
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "한빛레이저",
+"lead_ret": 29.92,
+"second": "파인텍",
+"second_ret": 29.92
+}
+],
+"themes": [
+{
+"name": "제지",
+"n": 14,
+"avg": 9.05,
+"up5": 5,
+"lead": "무림P&P",
+"lead_ret": 29.95,
+"second": "무림SP",
+"second_ret": 29.84
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 8.67,
+"up5": 3,
+"lead": "오픈베이스",
+"lead_ret": 29.81,
+"second": "에스넷",
+"second_ret": 17.36
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 7.91,
+"up5": 4,
+"lead": "케이씨에스",
+"lead_ret": 29.97,
+"second": "로지시스",
+"second_ret": 16.3
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 7.61,
+"up5": 20,
+"lead": "엑스게이트",
+"lead_ret": 29.97,
+"second": "소프트캠프",
+"second_ret": 29.97
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 7.0,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 29.81,
+"second": "금호석유화학",
+"second_ret": 2.99
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 6.91,
+"up5": 10,
+"lead": "한빛레이저",
+"lead_ret": 29.92,
+"second": "SKC",
+"second_ret": 22.24
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 6.83,
+"up5": 7,
+"lead": "라온시큐어",
+"lead_ret": 29.93,
+"second": "SGA솔루션즈",
+"second_ret": 29.87
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 6.59,
+"up5": 7,
+"lead": "라온시큐어",
+"lead_ret": 29.93,
+"second": "드림시큐리티",
+"second_ret": 29.85
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 6.59,
+"up5": 4,
+"lead": "한국정보통신",
+"lead_ret": 29.92,
+"second": "신세계",
+"second_ret": 8.68
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 6.47,
+"up5": 2,
+"lead": "코나아이",
+"lead_ret": 17.13,
+"second": "웹케시",
+"second_ret": 6.98
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 25,
+"avg": 6.09,
+"up5": 8,
+"lead": "루멘스바이오스",
+"lead_ret": 29.99,
+"second": "파인텍",
+"second_ret": 29.92
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 35,
+"avg": 5.98,
+"up5": 12,
+"lead": "SGA솔루션즈",
+"lead_ret": 29.87,
+"second": "케이사인",
+"second_ret": 29.84
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -10.19,
+"up5": 0,
+"lead": "파이버프로",
+"lead_ret": 3.46,
+"second": "서울바이오시스",
+"second_ret": 3.45
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": -9.31,
+"up5": 1,
+"lead": "피노",
+"lead_ret": 6.15,
+"second": "LS마린솔루션",
+"second_ret": 2.05
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": -6.51,
+"up5": 3,
+"lead": "LS에코에너지",
+"lead_ret": 11.66,
+"second": "나무AX",
+"second_ret": 8.99
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.27,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 6.07,
+"second": "퀀텀레일",
+"second_ret": 3.26
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 6,
+"avg": -1.98,
+"up5": 0,
+"lead": "케이뱅크",
+"lead_ret": -0.31,
+"second": "아이엠바이오로직스",
+"second_ret": -0.49
+}
+],
+"leaders": [
+{
+"name": "OCI홀딩스",
+"code": "010060",
+"ret": 27.66,
+"value": 3046,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "SKC",
+"code": "011790",
+"ret": 22.24,
+"value": 2895,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 29.92,
+"value": 1722,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "덕산하이메탈",
+"code": "077360",
+"ret": 29.93,
+"value": 1327,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "비츠로셀",
+"code": "082920",
+"ret": 12.1,
+"value": 1174,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

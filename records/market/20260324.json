@@ -1,0 +1,254 @@
+{
+"date": "20260324",
+"kospi": 2.74,
+"kosdaq": 2.24,
+"adv": 1801,
+"dec": 527,
+"flat": 74,
+"limit_up": 14,
+"limit_down": 1,
+"value_total": 363149,
+"hot": [
+{
+"name": "통신장비",
+"n": 11,
+"lead": "와이어블",
+"lead_ret": 30.0,
+"second": "우리로",
+"second_ret": 29.97
+},
+{
+"name": "LED",
+"n": 5,
+"lead": "오디텍",
+"lead_ret": 29.98,
+"second": "광전자",
+"second_ret": 29.78
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "기가레인",
+"lead_ret": 29.9,
+"second": "원익IPS",
+"second_ret": 15.92
+}
+],
+"themes": [
+{
+"name": "통신장비",
+"n": 46,
+"avg": 9.48,
+"up5": 29,
+"lead": "와이어블",
+"lead_ret": 30.0,
+"second": "우리로",
+"second_ret": 29.97
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 9.34,
+"up5": 8,
+"lead": "한국첨단소재",
+"lead_ret": 29.86,
+"second": "머큐리",
+"second_ret": 29.81
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 8.28,
+"up5": 12,
+"lead": "큐에스아이",
+"lead_ret": 29.98,
+"second": "우리로",
+"second_ret": 29.97
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 8.08,
+"up5": 3,
+"lead": "큐에스아이",
+"lead_ret": 29.98,
+"second": "광전자",
+"second_ret": 29.78
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 7.27,
+"up5": 25,
+"lead": "와이어블",
+"lead_ret": 30.0,
+"second": "우리로",
+"second_ret": 29.97
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 5.49,
+"up5": 15,
+"lead": "파이버프로",
+"lead_ret": 29.79,
+"second": "에이치브이엠",
+"second_ret": 19.34
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 5.16,
+"up5": 6,
+"lead": "우리로",
+"lead_ret": 29.97,
+"second": "삼륭물산",
+"second_ret": 12.22
+},
+{
+"name": "LED",
+"n": 37,
+"avg": 4.84,
+"up5": 8,
+"lead": "오디텍",
+"lead_ret": 29.98,
+"second": "광전자",
+"second_ret": 29.78
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 4.83,
+"up5": 6,
+"lead": "해성옵틱스",
+"lead_ret": 29.97,
+"second": "아이티센피엔에스",
+"second_ret": 11.03
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.44,
+"up5": 4,
+"lead": "LG에너지솔루션",
+"lead_ret": 10.25,
+"second": "에코프로비엠",
+"second_ret": 7.76
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 4.14,
+"up5": 6,
+"lead": "해성옵틱스",
+"lead_ret": 29.97,
+"second": "라온피플",
+"second_ret": 9.07
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 4.14,
+"up5": 3,
+"lead": "삼양패키징",
+"lead_ret": 14.99,
+"second": "삼륭물산",
+"second_ret": 12.22
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -4.62,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.55,
+"second": "현대건설",
+"second_ret": -2.73
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -3.18,
+"up5": 0,
+"lead": "케이엔알시스템",
+"lead_ret": 3.38,
+"second": "우리기술",
+"second_ret": 2.66
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.67,
+"up5": 0,
+"lead": "크리스탈신소재",
+"lead_ret": 3.14,
+"second": "글로벌에스엠",
+"second_ret": 0.75
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": -2.52,
+"up5": 1,
+"lead": "에이프로젠",
+"lead_ret": 5.03,
+"second": "효성중공업",
+"second_ret": 4.33
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.35,
+"up5": 0,
+"lead": "카페24",
+"lead_ret": 2.65,
+"second": "쿠콘",
+"second_ret": 2.26
+}
+],
+"leaders": [
+{
+"name": "서진시스템",
+"code": "178320",
+"ret": 11.19,
+"value": 3740,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 12.24,
+"value": 2939,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "파이버프로",
+"code": "368770",
+"ret": 29.79,
+"value": 2587,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "LG에너지솔루션",
+"code": "373220",
+"ret": 10.25,
+"value": 2577,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "원익IPS",
+"code": "240810",
+"ret": 15.92,
+"value": 2388,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

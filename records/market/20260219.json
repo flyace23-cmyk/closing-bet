@@ -1,0 +1,254 @@
+{
+"date": "20260219",
+"kospi": 3.09,
+"kosdaq": 4.94,
+"adv": 1624,
+"dec": 695,
+"flat": 80,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 420433,
+"hot": [
+{
+"name": "증권",
+"n": 8,
+"lead": "상상인증권",
+"lead_ret": 29.98,
+"second": "SK증권",
+"second_ret": 29.98
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "광동제약",
+"lead_ret": 29.87,
+"second": "부광약품",
+"second_ret": 28.04
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "아스플로",
+"lead_ret": 29.94,
+"second": "피에스케이홀딩스",
+"second_ret": 21.11
+}
+],
+"themes": [
+{
+"name": "증권",
+"n": 21,
+"avg": 16.87,
+"up5": 20,
+"lead": "상상인증권",
+"lead_ret": 29.98,
+"second": "SK증권",
+"second_ret": 29.98
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 12.48,
+"up5": 8,
+"lead": "선익시스템",
+"lead_ret": 28.5,
+"second": "한화솔루션",
+"second_ret": 27.45
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 10.56,
+"up5": 3,
+"lead": "한화투자증권",
+"lead_ret": 29.89,
+"second": "SBI인베스트먼트",
+"second_ret": 12.76
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 7.99,
+"up5": 6,
+"lead": "대한해운",
+"lead_ret": 9.7,
+"second": "STX그린로지스",
+"second_ret": 9.09
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 7.46,
+"up5": 7,
+"lead": "삼성전기",
+"lead_ret": 15.67,
+"second": "삼화콘덴서",
+"second_ret": 13.8
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 6.95,
+"up5": 9,
+"lead": "SK증권",
+"lead_ret": 29.98,
+"second": "코리아에셋투자증권",
+"second_ret": 29.93
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 6.81,
+"up5": 5,
+"lead": "한화투자증권",
+"lead_ret": 29.89,
+"second": "DSC인베스트먼트",
+"second_ret": 15.72
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 6.61,
+"up5": 5,
+"lead": "포바이포",
+"lead_ret": 21.14,
+"second": "DSC인베스트먼트",
+"second_ret": 15.72
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 6.02,
+"up5": 4,
+"lead": "일진파워",
+"lead_ret": 13.94,
+"second": "삼화콘덴서",
+"second_ret": 13.8
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 6.01,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 29.89,
+"second": "대신정보통신",
+"second_ret": 6.8
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.56,
+"up5": 2,
+"lead": "한온시스템",
+"lead_ret": 18.16,
+"second": "KG모빌리티",
+"second_ret": 7.05
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 5.47,
+"up5": 4,
+"lead": "한화오션",
+"lead_ret": 8.32,
+"second": "HJ중공업",
+"second_ret": 6.47
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.17,
+"up5": 0,
+"lead": "윙입푸드",
+"lead_ret": 0.14,
+"second": "GRT",
+"second_ret": -0.63
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.57,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 2.46,
+"second": "HDC",
+"second_ret": 0.88
+},
+{
+"name": "출산장려정책",
+"n": 22,
+"avg": -1.06,
+"up5": 0,
+"lead": "네오팜",
+"lead_ret": 3.27,
+"second": "아가방컴퍼니",
+"second_ret": 1.07
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.02,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 1.0,
+"second": "코오롱인더",
+"second_ret": 0.8
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.92,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 1.94,
+"second": "레드캡투어",
+"second_ret": -0.43
+}
+],
+"leaders": [
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 27.45,
+"value": 10771,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 14.56,
+"value": 10479,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "한온시스템",
+"code": "018880",
+"ret": 18.16,
+"value": 8615,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 14.45,
+"value": 6864,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "한화투자증권",
+"code": "003530",
+"ret": 29.89,
+"value": 5493,
+"theme": "증권",
+"reason": "테마: 증권"
+}
+],
+"backfilled": true
+}

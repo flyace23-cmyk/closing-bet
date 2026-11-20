@@ -1,0 +1,254 @@
+{
+"date": "20260327",
+"kospi": -0.4,
+"kosdaq": 0.43,
+"adv": 1179,
+"dec": 1093,
+"flat": 131,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 345588,
+"hot": [
+{
+"name": "통신장비",
+"n": 4,
+"lead": "기가레인",
+"lead_ret": 30.0,
+"second": "우리로",
+"second_ret": 29.97
+},
+{
+"name": "유전자 치료제/분석",
+"n": 4,
+"lead": "툴젠",
+"lead_ret": 20.13,
+"second": "HLB파나진",
+"second_ret": 14.22
+},
+{
+"name": "창투사",
+"n": 3,
+"lead": "SV인베스트먼트",
+"lead_ret": 30.0,
+"second": "캡스톤파트너스",
+"second_ret": 29.98
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 7.18,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 29.89,
+"second": "지씨셀",
+"second_ret": 4.3
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 6.25,
+"up5": 5,
+"lead": "SV인베스트먼트",
+"lead_ret": 30.0,
+"second": "캡스톤파트너스",
+"second_ret": 29.98
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 5.08,
+"up5": 3,
+"lead": "파워넷",
+"lead_ret": 29.79,
+"second": "엘앤에프",
+"second_ret": 7.47
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 4.03,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 29.89,
+"second": "JW중외제약",
+"second_ret": 2.07
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.41,
+"up5": 3,
+"lead": "코오롱",
+"lead_ret": 10.79,
+"second": "DSC인베스트먼트",
+"second_ret": 10.73
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.39,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 22.58,
+"second": "LG에너지솔루션",
+"second_ret": 2.6
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 3.35,
+"up5": 3,
+"lead": "강스템바이오텍",
+"lead_ret": 29.89,
+"second": "코아스템켐온",
+"second_ret": 7.87
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 3.1,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 10.73,
+"second": "포바이포",
+"second_ret": 6.64
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 3.0,
+"up5": 14,
+"lead": "기가레인",
+"lead_ret": 30.0,
+"second": "우리로",
+"second_ret": 29.97
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 2.87,
+"up5": 2,
+"lead": "호텔신라",
+"lead_ret": 13.11,
+"second": "GS피앤엘",
+"second_ret": 7.99
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.77,
+"up5": 2,
+"lead": "미래에셋벤처투자",
+"lead_ret": 15.22,
+"second": "DSC인베스트먼트",
+"second_ret": 10.73
+},
+{
+"name": "유전자 치료제/분석",
+"n": 39,
+"avg": 2.77,
+"up5": 6,
+"lead": "툴젠",
+"lead_ret": 20.13,
+"second": "HLB파나진",
+"second_ret": 14.22
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.98,
+"up5": 0,
+"lead": "한솔홀딩스",
+"lead_ret": 0.59,
+"second": "블루산업개발",
+"second_ret": -0.51
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -3.8,
+"up5": 1,
+"lead": "씨티케이",
+"lead_ret": 5.15,
+"second": "세림B&G",
+"second_ret": 4.63
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -3.03,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 1.46,
+"second": "비나텍",
+"second_ret": -0.08
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.81,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 1.85,
+"second": "삼성전자",
+"second_ret": -0.22
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": -2.66,
+"up5": 0,
+"lead": "원일티엔아이",
+"lead_ret": 1.17,
+"second": "GS",
+"second_ret": 0.15
+}
+],
+"leaders": [
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 15.22,
+"value": 7519,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "펄어비스",
+"code": "263750",
+"ret": 15.75,
+"value": 5059,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 29.97,
+"value": 2161,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "파워넷",
+"code": "037030",
+"ret": 29.79,
+"value": 904,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "DSC인베스트먼트",
+"code": "241520",
+"ret": 10.73,
+"value": 896,
+"theme": "창투사",
+"reason": "테마: 창투사"
+}
+],
+"backfilled": true
+}

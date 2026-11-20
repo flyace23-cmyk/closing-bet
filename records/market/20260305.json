@@ -1,0 +1,254 @@
+{
+"date": "20260305",
+"kospi": 9.63,
+"kosdaq": 14.1,
+"adv": 2319,
+"dec": 53,
+"flat": 27,
+"limit_up": 14,
+"limit_down": 1,
+"value_total": 573739,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 9,
+"lead": "테크윙",
+"lead_ret": 30.0,
+"second": "에이팩트",
+"second_ret": 29.96
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 4,
+"lead": "한화시스템",
+"lead_ret": 30.0,
+"second": "스피어",
+"second_ret": 29.89
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "솔브레인",
+"lead_ret": 29.92,
+"second": "코세스",
+"second_ret": 28.71
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": 18.02,
+"up5": 11,
+"lead": "레이저쎌",
+"lead_ret": 29.87,
+"second": "주성엔지니어링",
+"second_ret": 24.16
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 17.04,
+"up5": 34,
+"lead": "테크윙",
+"lead_ret": 30.0,
+"second": "레이저쎌",
+"second_ret": 29.87
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 16.69,
+"up5": 13,
+"lead": "스피어",
+"lead_ret": 29.89,
+"second": "아주IB투자",
+"second_ret": 23.4
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 15.81,
+"up5": 24,
+"lead": "에이팩트",
+"lead_ret": 29.96,
+"second": "태성",
+"second_ret": 25.0
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 15.43,
+"up5": 34,
+"lead": "한화시스템",
+"lead_ret": 30.0,
+"second": "스피어",
+"second_ret": 29.89
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 15.4,
+"up5": 89,
+"lead": "테크윙",
+"lead_ret": 30.0,
+"second": "에이팩트",
+"second_ret": 29.96
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 15.28,
+"up5": 11,
+"lead": "ISC",
+"lead_ret": 23.25,
+"second": "대덕전자",
+"second_ret": 18.84
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 15.17,
+"up5": 12,
+"lead": "엑시콘",
+"lead_ret": 24.08,
+"second": "파두",
+"second_ret": 21.28
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 15.04,
+"up5": 10,
+"lead": "아이티센글로벌",
+"lead_ret": 26.93,
+"second": "DSC인베스트먼트",
+"second_ret": 22.45
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 14.47,
+"up5": 57,
+"lead": "테크윙",
+"lead_ret": 30.0,
+"second": "디아이",
+"second_ret": 24.72
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 14.43,
+"up5": 11,
+"lead": "대주전자재료",
+"lead_ret": 24.07,
+"second": "코칩",
+"second_ret": 15.59
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 14.32,
+"up5": 11,
+"lead": "휴림로봇",
+"lead_ret": 24.78,
+"second": "에스티아이",
+"second_ret": 19.15
+}
+],
+"themes_worst": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.16,
+"up5": 1,
+"lead": "INVENI",
+"lead_ret": 5.34,
+"second": "대성홀딩스",
+"second_ret": 3.24
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.13,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 9.9,
+"second": "대한해운",
+"second_ret": 8.52
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.95,
+"up5": 6,
+"lead": "SK이노베이션",
+"lead_ret": 16.06,
+"second": "흥구석유",
+"second_ret": 10.1
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 3.31,
+"up5": 3,
+"lead": "한국알콜",
+"lead_ret": 6.06,
+"second": "풍국주정",
+"second_ret": 5.83
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.38,
+"up5": 5,
+"lead": "아이티센씨티에스",
+"lead_ret": 11.76,
+"second": "SG",
+"second_ret": 7.94
+}
+],
+"leaders": [
+{
+"name": "삼성전자",
+"code": "005930",
+"ret": 11.27,
+"value": 103386,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 10.84,
+"value": 60624,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 10.1,
+"value": 17130,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 23.26,
+"value": 15391,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 30.0,
+"value": 12333,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

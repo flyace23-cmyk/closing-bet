@@ -1,0 +1,254 @@
+{
+"date": "20260729",
+"kospi": -5.98,
+"kosdaq": -6.12,
+"adv": 193,
+"dec": 2157,
+"flat": 62,
+"limit_up": 2,
+"limit_down": 3,
+"value_total": 535511,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 11,
+"lead": "티엑스알로보틱스",
+"lead_ret": 24.62,
+"second": "에스피지",
+"second_ret": 20.29
+},
+{
+"name": "화장품",
+"n": 6,
+"lead": "제닉",
+"lead_ret": 6.33,
+"second": "펌텍코리아",
+"second_ret": 5.05
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "파마리서치",
+"lead_ret": 4.13,
+"second": "오리온",
+"second_ret": 3.93
+}
+],
+"themes": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.1,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 7.28,
+"second": "강원랜드",
+"second_ret": 0.7
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.1,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 7.28,
+"second": "강원랜드",
+"second_ret": 0.7
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -0.25,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 5.1,
+"second": "HMM",
+"second_ret": 1.25
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -0.59,
+"up5": 1,
+"lead": "마니커",
+"lead_ret": 5.73,
+"second": "체리부로",
+"second_ret": 0.0
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.82,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.21,
+"second": "한국쉘석유",
+"second_ret": 0.2
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -1.08,
+"up5": 1,
+"lead": "마니커",
+"lead_ret": 5.73,
+"second": "하이트진로",
+"second_ret": 0.72
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.26,
+"up5": 1,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.72,
+"second": "컬러레이",
+"second_ret": 3.73
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.53,
+"up5": 0,
+"lead": "롯데칠성",
+"lead_ret": 1.0,
+"second": "하이트진로",
+"second_ret": 0.72
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.55,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.21,
+"second": "중앙에너비스",
+"second_ret": 1.36
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.55,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.21,
+"second": "중앙에너비스",
+"second_ret": 1.36
+},
+{
+"name": "엔젤산업",
+"n": 26,
+"avg": -1.72,
+"up5": 2,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.72,
+"second": "오로라",
+"second_ret": 11.76
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -1.75,
+"up5": 2,
+"lead": "우진비앤지",
+"lead_ret": 14.29,
+"second": "마니커",
+"second_ret": 5.73
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -14.36,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -5.23,
+"second": "오픈엣지테크놀로지",
+"second_ret": -10.46
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -13.03,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -9.14,
+"second": "LS에코에너지",
+"second_ret": -10.25
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -10.12,
+"up5": 0,
+"lead": "에이팩트",
+"lead_ret": 3.37,
+"second": "삼성전자",
+"second_ret": -5.23
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -10.11,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -5.23,
+"second": "LB인베스트먼트",
+"second_ret": -7.64
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -9.96,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": -6.17,
+"second": "네오티스",
+"second_ret": -7.2
+}
+],
+"leaders": [
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 12.47,
+"value": 1777,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 20.29,
+"value": 1654,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "아이로보틱스",
+"code": "066430",
+"ret": 12.71,
+"value": 323,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "티엑스알로보틱스",
+"code": "484810",
+"ret": 24.62,
+"value": 320,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼현",
+"code": "437730",
+"ret": 11.75,
+"value": 190,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

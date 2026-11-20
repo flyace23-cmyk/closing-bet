@@ -1,0 +1,254 @@
+{
+"date": "20260520",
+"kospi": -0.86,
+"kosdaq": -2.61,
+"adv": 291,
+"dec": 2035,
+"flat": 81,
+"limit_up": 7,
+"limit_down": 2,
+"value_total": 520454,
+"hot": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 4,
+"lead": "한국첨단소재",
+"lead_ret": 12.49,
+"second": "성호전자",
+"second_ret": 11.61
+},
+{
+"name": "LED",
+"n": 4,
+"lead": "광전자",
+"lead_ret": 29.96,
+"second": "성호전자",
+"second_ret": 11.61
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "쎄크",
+"lead_ret": 15.04,
+"second": "티에스이",
+"second_ret": 12.86
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 5.02,
+"up5": 5,
+"lead": "코칩",
+"lead_ret": 29.9,
+"second": "삼화콘덴서",
+"second_ret": 23.0
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 3.09,
+"up5": 3,
+"lead": "광전자",
+"lead_ret": 29.96,
+"second": "영우디에스피",
+"second_ret": 8.88
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 1.01,
+"up5": 5,
+"lead": "한국첨단소재",
+"lead_ret": 12.49,
+"second": "성호전자",
+"second_ret": 11.61
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.99,
+"up5": 1,
+"lead": "삼성전기",
+"lead_ret": 7.5,
+"second": "SK스퀘어",
+"second_ret": 0.88
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 0.98,
+"up5": 2,
+"lead": "에이직랜드",
+"lead_ret": 10.9,
+"second": "네패스",
+"second_ret": 6.86
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 0.66,
+"up5": 2,
+"lead": "티에스이",
+"lead_ret": 12.86,
+"second": "지아이에스",
+"second_ret": 7.63
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.55,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 29.83,
+"second": "아시아나항공",
+"second_ret": -1.83
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 0.46,
+"up5": 2,
+"lead": "코리아써키트",
+"lead_ret": 10.77,
+"second": "삼성전기",
+"second_ret": 7.5
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 0.44,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 10.77,
+"second": "파두",
+"second_ret": 3.99
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 0.33,
+"up5": 2,
+"lead": "수젠텍",
+"lead_ret": 15.08,
+"second": "엑세스바이오",
+"second_ret": 6.29
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 0.2,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 10.77,
+"second": "심텍",
+"second_ret": 4.96
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 0.15,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 23.0,
+"second": "SFA",
+"second_ret": 3.7
+}
+],
+"themes_worst": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -9.95,
+"up5": 0,
+"lead": "한미반도체",
+"lead_ret": -0.17,
+"second": "LG에너지솔루션",
+"second_ret": -3.87
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -7.4,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -2.26,
+"second": "대원전선",
+"second_ret": -3.84
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 37,
+"avg": -6.97,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 3.7,
+"second": "이수페타시스",
+"second_ret": 0.58
+},
+{
+"name": "항공기부품",
+"n": 15,
+"avg": -6.15,
+"up5": 0,
+"lead": "오르비텍",
+"lead_ret": -1.12,
+"second": "한국카본",
+"second_ret": -2.34
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -5.59,
+"up5": 0,
+"lead": "엔비티",
+"lead_ret": -1.47,
+"second": "디앤씨미디어",
+"second_ret": -3.22
+}
+],
+"leaders": [
+{
+"name": "코스모로보틱스",
+"code": "439960",
+"ret": 15.64,
+"value": 18488,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 23.0,
+"value": 2313,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 11.5,
+"value": 2053,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 15.08,
+"value": 1646,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "광전자",
+"code": "017900",
+"ret": 29.96,
+"value": 1593,
+"theme": "LED",
+"reason": "테마: LED"
+}
+],
+"backfilled": true
+}

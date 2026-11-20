@@ -1,0 +1,254 @@
+{
+"date": "20260313",
+"kospi": -1.72,
+"kosdaq": 0.4,
+"adv": 1118,
+"dec": 1178,
+"flat": 105,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 369639,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 29.94,
+"second": "SKAI",
+"second_ret": 29.38
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "와이즈넛",
+"lead_ret": 27.18,
+"second": "뉴엔AI",
+"second_ret": 17.35
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 3,
+"lead": "LS머트리얼즈",
+"lead_ret": 22.13,
+"second": "한선엔지니어링",
+"second_ret": 16.51
+}
+],
+"themes": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.12,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 17.78,
+"second": "GS건설",
+"second_ret": 8.49
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 6.04,
+"up5": 10,
+"lead": "폴라리스오피스",
+"lead_ret": 29.94,
+"second": "SKAI",
+"second_ret": 29.38
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 5.05,
+"up5": 3,
+"lead": "루트K",
+"lead_ret": 30.0,
+"second": "한국정밀기계",
+"second_ret": 29.89
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 4.84,
+"up5": 13,
+"lead": "루트K",
+"lead_ret": 30.0,
+"second": "에스티큐브",
+"second_ret": 24.48
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.78,
+"up5": 5,
+"lead": "LS머트리얼즈",
+"lead_ret": 22.13,
+"second": "한선엔지니어링",
+"second_ret": 16.51
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 3.4,
+"up5": 6,
+"lead": "대우건설",
+"lead_ret": 17.78,
+"second": "폴라리스AI",
+"second_ret": 16.53
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 3.14,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 29.94,
+"second": "제이엘케이",
+"second_ret": 26.94
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.07,
+"up5": 4,
+"lead": "우리기술",
+"lead_ret": 11.64,
+"second": "한텍",
+"second_ret": 6.94
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.04,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 29.81,
+"second": "윙입푸드",
+"second_ret": 5.06
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.28,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": 4.69,
+"second": "파미셀",
+"second_ret": 3.79
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 2.25,
+"up5": 2,
+"lead": "제이엘케이",
+"lead_ret": 26.94,
+"second": "다이나믹솔루션",
+"second_ret": 7.27
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.2,
+"up5": 4,
+"lead": "대우건설",
+"lead_ret": 17.78,
+"second": "우리기술",
+"second_ret": 11.64
+}
+],
+"themes_worst": [
+{
+"name": "윤활유",
+"n": 7,
+"avg": -4.69,
+"up5": 0,
+"lead": "한국쉘석유",
+"lead_ret": -0.56,
+"second": "미창석유",
+"second_ret": -2.26
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -4.05,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": -0.43,
+"second": "E1",
+"second_ret": -1.54
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -4.05,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": -0.43,
+"second": "E1",
+"second_ret": -1.54
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.97,
+"up5": 0,
+"lead": "남해화학",
+"lead_ret": 2.52,
+"second": "우양피앤엘",
+"second_ret": 2.14
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": -2.73,
+"up5": 0,
+"lead": "한화에어로스페이스",
+"lead_ret": 1.57,
+"second": "GST",
+"second_ret": 0.85
+}
+],
+"leaders": [
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 11.64,
+"value": 14912,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 17.78,
+"value": 10585,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "LS머트리얼즈",
+"code": "417200",
+"ret": 22.13,
+"value": 8777,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 10.66,
+"value": 3111,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "폴라리스AI",
+"code": "039980",
+"ret": 16.53,
+"value": 2076,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

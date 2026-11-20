@@ -1,0 +1,254 @@
+{
+"date": "20260406",
+"kospi": 1.36,
+"kosdaq": -1.54,
+"adv": 795,
+"dec": 1508,
+"flat": 101,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 303869,
+"hot": [
+{
+"name": "비철금속",
+"n": 5,
+"lead": "풍산홀딩스",
+"lead_ret": 29.99,
+"second": "남선알미늄",
+"second_ret": 18.01
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 5,
+"lead": "CS",
+"lead_ret": 30.02,
+"second": "이노인스트루먼트",
+"second_ret": 29.98
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "APS이노베이션",
+"lead_ret": 17.62,
+"second": "알루코",
+"second_ret": 13.93
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 6.89,
+"up5": 2,
+"lead": "진영",
+"lead_ret": 29.9,
+"second": "세림B&G",
+"second_ret": 13.15
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 6,
+"avg": 4.85,
+"up5": 2,
+"lead": "한패스",
+"lead_ret": 29.97,
+"second": "케이뱅크",
+"second_ret": 5.1
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.71,
+"up5": 2,
+"lead": "다날",
+"lead_ret": 30.0,
+"second": "헥토파이낸셜",
+"second_ret": 7.83
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 3.7,
+"up5": 6,
+"lead": "풍산홀딩스",
+"lead_ret": 29.99,
+"second": "남선알미늄",
+"second_ret": 18.01
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 3.22,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 30.0,
+"second": "제이케이시냅스",
+"second_ret": 30.0
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 3.14,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 30.0,
+"second": "미투온",
+"second_ret": 14.7
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.84,
+"up5": 1,
+"lead": "네패스아크",
+"lead_ret": 11.28,
+"second": "앤씨앤",
+"second_ret": 4.11
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.59,
+"up5": 2,
+"lead": "풍산",
+"lead_ret": 12.91,
+"second": "프리엠스",
+"second_ret": 6.68
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.58,
+"up5": 4,
+"lead": "CS",
+"lead_ret": 30.02,
+"second": "프리티",
+"second_ret": 8.85
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.45,
+"up5": 2,
+"lead": "GS글로벌",
+"lead_ret": 16.4,
+"second": "효성티앤씨",
+"second_ret": 8.11
+},
+{
+"name": "핀테크(FinTech)",
+"n": 33,
+"avg": 2.33,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 30.0,
+"second": "한패스",
+"second_ret": 29.97
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.3,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 4.11,
+"second": "제이오",
+"second_ret": 3.94
+}
+],
+"themes_worst": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -4.44,
+"up5": 0,
+"lead": "서진시스템",
+"lead_ret": 1.22,
+"second": "범한퓨얼셀",
+"second_ret": -0.88
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -4.32,
+"up5": 0,
+"lead": "스맥",
+"lead_ret": 0.44,
+"second": "모아텍",
+"second_ret": -1.31
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -3.59,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.06,
+"second": "JW중외제약",
+"second_ret": -1.38
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -3.32,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -0.93,
+"second": "HD현대중공업",
+"second_ret": -1.77
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": -3.31,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 3.88,
+"second": "셀바스AI",
+"second_ret": 2.7
+}
+],
+"leaders": [
+{
+"name": "삼성E&A",
+"code": "028050",
+"ret": 12.58,
+"value": 4935,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 18.01,
+"value": 4279,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "한국첨단소재",
+"code": "062970",
+"ret": 14.54,
+"value": 2608,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "풍산",
+"code": "103140",
+"ret": 12.91,
+"value": 2516,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "기가레인",
+"code": "049080",
+"ret": 16.87,
+"value": 1836,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+}
+],
+"backfilled": true
+}

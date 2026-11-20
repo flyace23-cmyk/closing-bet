@@ -471,8 +471,8 @@ def index_svg(code, label, n=40):
     return head + f'<div class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="{label} 지수와 20일선, 거래량">{"".join(g)}</svg></div>'
 
 
-def market_bars_svg(days):
-    a, b = index_svg("KOSPI", "코스피"), index_svg("KOSDAQ", "코스닥")
+def market_bars_svg(days, n=40):
+    a, b = index_svg("KOSPI", "코스피", n), index_svg("KOSDAQ", "코스닥", n)
     if not (a or b):
         return '<p class="empty">지수 데이터를 받지 못했어요.</p>'
     return ('<div class="legend"><span><i style="background:var(--ink)"></i>지수</span><span><i style="background:var(--mute)"></i>20일선(점선)</span>'
@@ -713,7 +713,7 @@ def index_page(days, t, h, fm, vi, expect):
     body += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
     ds = set(days)
     body += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
-    body += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days))
+    body += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days)[:2])
     if days:
         ms = messages(days[0])
         body += f'<h2>최근 알림 · {fmt_d(days[0])}</h2>'
@@ -764,9 +764,11 @@ def market_page_day(d, lead):
 
 
 def market_page(days, lead):
-    body = market_bars_svg(days)
+    body = market_bars_svg(days, n=230)
     body += '<p class="sub">날짜마다 코스피(코)·코스닥(닥) 등락과 그날 돈이 가장 몰린 테마예요. 누르면 테마별 상승률과 대장주가 나와요.</p>'
-    body += "".join(month_cal(ym, set(days), lambda d: market_cell(d, lead), lambda d: f"m/{d}.html", week_link=False, tint=mkt_tint) for ym in months(days))
+    ms_ = months(days)
+    body += '<nav class="tabs">' + "".join(f'<a href="#mon-{ym}">{int(ym[4:])}월</a>' for ym in ms_) + "</nav>"
+    body += "".join(f'<div id="mon-{ym}">' + month_cal(ym, set(days), lambda d: market_cell(d, lead), lambda d: f"m/{d}.html", week_link=False, tint=mkt_tint) + "</div>" for ym in ms_)
     from collections import Counter
     cnt = Counter()
     for d in days:

@@ -1,0 +1,254 @@
+{
+"date": "20260102",
+"kospi": 2.27,
+"kosdaq": 2.17,
+"adv": 1393,
+"dec": 908,
+"flat": 97,
+"limit_up": 10,
+"limit_down": 1,
+"value_total": 276329,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "LS티라유텍",
+"lead_ret": 29.97,
+"second": "현대무벡스",
+"second_ret": 26.13
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "테라뷰",
+"lead_ret": 29.88,
+"second": "테스",
+"second_ret": 19.42
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "네오오토",
+"lead_ret": 29.94,
+"second": "씨티알모빌리티",
+"second_ret": 26.39
+}
+],
+"themes": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 9.53,
+"up5": 10,
+"lead": "스피어",
+"lead_ret": 29.95,
+"second": "아주IB투자",
+"second_ret": 15.77
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 7.52,
+"up5": 6,
+"lead": "대한광통신",
+"lead_ret": 25.84,
+"second": "파이버프로",
+"second_ret": 18.52
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 6.69,
+"up5": 7,
+"lead": "기가레인",
+"lead_ret": 14.48,
+"second": "티에스이",
+"second_ret": 10.07
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 6.56,
+"up5": 20,
+"lead": "고영",
+"lead_ret": 18.56,
+"second": "한미반도체",
+"second_ret": 13.42
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 6.28,
+"up5": 16,
+"lead": "스피어",
+"lead_ret": 29.95,
+"second": "쎄트렉아이",
+"second_ret": 29.88
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 5.74,
+"up5": 8,
+"lead": "미스터블루",
+"lead_ret": 15.45,
+"second": "핑거스토리",
+"second_ret": 9.88
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 5.55,
+"up5": 12,
+"lead": "노타",
+"lead_ret": 21.81,
+"second": "제주반도체",
+"second_ret": 16.32
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 5.47,
+"up5": 9,
+"lead": "테스",
+"lead_ret": 19.42,
+"second": "아이언디바이스",
+"second_ret": 13.5
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 5.19,
+"up5": 42,
+"lead": "테라뷰",
+"lead_ret": 29.88,
+"second": "테스",
+"second_ret": 19.42
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 4.95,
+"up5": 24,
+"lead": "고영",
+"lead_ret": 18.56,
+"second": "엠디바이스",
+"second_ret": 17.55
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.83,
+"up5": 4,
+"lead": "GRT",
+"lead_ret": 14.31,
+"second": "오가닉티코스메틱",
+"second_ret": 6.33
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.79,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 8.43,
+"second": "삼성전자",
+"second_ret": 7.17
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 6,
+"avg": -3.31,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 0.18,
+"second": "광주신세계",
+"second_ret": -0.47
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.02,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.23,
+"second": "녹십자",
+"second_ret": 0.25
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.65,
+"up5": 0,
+"lead": "넥센타이어",
+"lead_ret": -1.06,
+"second": "HS효성첨단소재",
+"second_ret": -1.38
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -2.31,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 1.39,
+"second": "동양고속",
+"second_ret": 0.0
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.24,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.3,
+"second": "현대건설",
+"second_ret": -1.57
+}
+],
+"leaders": [
+{
+"name": "셀트리온",
+"code": "068270",
+"ret": 11.88,
+"value": 6967,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 16.32,
+"value": 5416,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 13.42,
+"value": 4851,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "노타",
+"code": "486990",
+"ret": 21.81,
+"value": 4301,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 26.13,
+"value": 4270,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

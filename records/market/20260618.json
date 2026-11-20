@@ -1,0 +1,254 @@
+{
+"date": "20260618",
+"kospi": 2.25,
+"kosdaq": -3.01,
+"adv": 303,
+"dec": 2036,
+"flat": 69,
+"limit_up": 15,
+"limit_down": 0,
+"value_total": 584538,
+"hot": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 7,
+"lead": "한울반도체",
+"lead_ret": 29.95,
+"second": "삼화콘덴서",
+"second_ret": 25.56
+},
+{
+"name": "전기차",
+"n": 6,
+"lead": "삼화전기",
+"lead_ret": 30.0,
+"second": "삼화전자",
+"second_ret": 29.86
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "예스티",
+"lead_ret": 18.42,
+"second": "인텍플러스",
+"second_ret": 14.66
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 10.36,
+"up5": 7,
+"lead": "한울반도체",
+"lead_ret": 29.95,
+"second": "삼화콘덴서",
+"second_ret": 25.56
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.99,
+"up5": 3,
+"lead": "삼성전기",
+"lead_ret": 8.27,
+"second": "SK스퀘어",
+"second_ret": 6.52
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.97,
+"up5": 2,
+"lead": "예스티",
+"lead_ret": 18.42,
+"second": "지아이에스",
+"second_ret": 12.85
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 1.63,
+"up5": 2,
+"lead": "한울앤제주",
+"lead_ret": 18.07,
+"second": "보해양조",
+"second_ret": 15.25
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.16,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 18.07,
+"second": "한성기업",
+"second_ret": 0.11
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 0.95,
+"up5": 2,
+"lead": "강동씨앤엘",
+"lead_ret": 30.0,
+"second": "서산",
+"second_ret": 29.96
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 0.62,
+"up5": 2,
+"lead": "삼화전기",
+"lead_ret": 30.0,
+"second": "삼화전자",
+"second_ret": 29.86
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 0.62,
+"up5": 2,
+"lead": "삼화전기",
+"lead_ret": 30.0,
+"second": "삼화전자",
+"second_ret": 29.86
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 0.44,
+"up5": 2,
+"lead": "브이씨",
+"lead_ret": 16.24,
+"second": "한세엠케이",
+"second_ret": 7.25
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 0.36,
+"up5": 2,
+"lead": "서전기전",
+"lead_ret": 29.98,
+"second": "삼화콘덴서",
+"second_ret": 25.56
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 0.32,
+"up5": 2,
+"lead": "대원화성",
+"lead_ret": 29.98,
+"second": "삼화전자",
+"second_ret": 29.86
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 0.15,
+"up5": 1,
+"lead": "와이즈넛",
+"lead_ret": 29.91,
+"second": "TS인베스트먼트",
+"second_ret": 0.0
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -5.71,
+"up5": 0,
+"lead": "엔브이에이치코리아",
+"lead_ret": -1.94,
+"second": "콜마바이오텍",
+"second_ret": -2.55
+},
+{
+"name": "항공기부품",
+"n": 15,
+"avg": -5.12,
+"up5": 0,
+"lead": "대한항공",
+"lead_ret": 0.17,
+"second": "한국항공우주",
+"second_ret": -2.31
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -5.07,
+"up5": 0,
+"lead": "비엠티",
+"lead_ret": 0.34,
+"second": "하이록코리아",
+"second_ret": -3.17
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -4.99,
+"up5": 0,
+"lead": "현대차",
+"lead_ret": -2.75,
+"second": "KG모빌리티",
+"second_ret": -3.41
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -4.94,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": -2.82,
+"second": "대한화섬",
+"second_ret": -3.48
+}
+],
+"leaders": [
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 25.56,
+"value": 7886,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "예스티",
+"code": "122640",
+"ret": 18.42,
+"value": 2724,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 13.05,
+"value": 1906,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "코칩",
+"code": "126730",
+"ret": 13.22,
+"value": 1321,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "효성화학",
+"code": "298000",
+"ret": 12.17,
+"value": 966,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

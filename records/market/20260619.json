@@ -1,0 +1,254 @@
+{
+"date": "20260619",
+"kospi": -0.13,
+"kosdaq": -3.43,
+"adv": 277,
+"dec": 2067,
+"flat": 64,
+"limit_up": 8,
+"limit_down": 1,
+"value_total": 739914,
+"hot": [
+{
+"name": "탈모 치료",
+"n": 4,
+"lead": "삼익제약",
+"lead_ret": 29.98,
+"second": "위더스제약",
+"second_ret": 13.59
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 3,
+"lead": "한울반도체",
+"lead_ret": 29.98,
+"second": "지아이에스",
+"second_ret": 17.51
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "화신",
+"lead_ret": 19.12,
+"second": "LS ELECTRIC",
+"second_ret": 7.02
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.62,
+"up5": 1,
+"lead": "삼성생명",
+"lead_ret": 5.97,
+"second": "SK스퀘어",
+"second_ret": 4.71
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.33,
+"up5": 3,
+"lead": "한울반도체",
+"lead_ret": 29.98,
+"second": "지아이에스",
+"second_ret": 17.51
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.02,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 15.07,
+"second": "사조대림",
+"second_ret": 3.55
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 1.29,
+"up5": 2,
+"lead": "보해양조",
+"lead_ret": 29.88,
+"second": "한울앤제주",
+"second_ret": 15.07
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 0.16,
+"up5": 4,
+"lead": "삼익제약",
+"lead_ret": 29.98,
+"second": "위더스제약",
+"second_ret": 13.59
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.46,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 3.55,
+"second": "사조씨푸드",
+"second_ret": 1.18
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.56,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.59,
+"second": "롯데관광개발",
+"second_ret": -0.18
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.56,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.59,
+"second": "롯데관광개발",
+"second_ret": -0.18
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.69,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 6.98,
+"second": "롯데관광개발",
+"second_ret": -0.18
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.72,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 6.32,
+"second": "SK하이닉스",
+"second_ret": 2.94
+},
+{
+"name": "광고",
+"n": 24,
+"avg": -0.87,
+"up5": 3,
+"lead": "비케이홀딩스",
+"lead_ret": 7.87,
+"second": "SM C&C",
+"second_ret": 6.98
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -1.16,
+"up5": 0,
+"lead": "레몬",
+"lead_ret": 3.4,
+"second": "아모텍",
+"second_ret": 2.19
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -6.13,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.34,
+"second": "앤씨앤",
+"second_ret": -4.68
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -6.0,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 1.12,
+"second": "미래에셋증권",
+"second_ret": -3.85
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 10,
+"avg": -5.75,
+"up5": 0,
+"lead": "리센스메디컬",
+"lead_ret": 1.36,
+"second": "케이뱅크",
+"second_ret": 1.02
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -5.45,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": -1.79,
+"second": "오로라",
+"second_ret": -3.53
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 37,
+"avg": -5.36,
+"up5": 0,
+"lead": "한양이엔지",
+"lead_ret": -0.64,
+"second": "한컴",
+"second_ret": -1.1
+}
+],
+"leaders": [
+{
+"name": "화신",
+"code": "010690",
+"ret": 19.12,
+"value": 1724,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 13.08,
+"value": 1488,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "위더스제약",
+"code": "330350",
+"ret": 13.59,
+"value": 676,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 29.98,
+"value": 556,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "다스코",
+"code": "058730",
+"ret": 29.96,
+"value": 326,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

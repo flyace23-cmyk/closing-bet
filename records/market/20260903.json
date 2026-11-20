@@ -1,0 +1,246 @@
+{
+"date": "20260903",
+"kospi": 0.26,
+"kosdaq": -1.71,
+"adv": 870,
+"dec": 1405,
+"flat": 142,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 263081,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 6,
+"lead": "신스틸",
+"lead_ret": 29.86,
+"second": "금강철강",
+"second_ret": 17.68
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 3,
+"lead": "삼성중공업",
+"lead_ret": 8.58,
+"second": "팬오션",
+"second_ret": 7.8
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.9,
+"up5": 3,
+"lead": "흥국화재",
+"lead_ret": 9.7,
+"second": "삼성화재",
+"second_ret": 6.85
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 4.53,
+"up5": 2,
+"lead": "삼성중공업",
+"lead_ret": 8.58,
+"second": "한화오션",
+"second_ret": 5.49
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 3.09,
+"up5": 3,
+"lead": "전진건설로봇",
+"lead_ret": 11.78,
+"second": "HD건설기계",
+"second_ret": 8.5
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.04,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 6.13,
+"second": "GS건설",
+"second_ret": 4.19
+},
+{
+"name": "철강 중소형",
+"n": 35,
+"avg": 2.82,
+"up5": 7,
+"lead": "신스틸",
+"lead_ret": 29.86,
+"second": "금강철강",
+"second_ret": 17.68
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.79,
+"up5": 3,
+"lead": "KBI동양철관",
+"lead_ret": 8.26,
+"second": "SK오션플랜트",
+"second_ret": 7.5
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 2.73,
+"up5": 4,
+"lead": "삼성중공업",
+"lead_ret": 8.58,
+"second": "팬오션",
+"second_ret": 7.8
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.61,
+"up5": 3,
+"lead": "KBI동양철관",
+"lead_ret": 8.26,
+"second": "SK오션플랜트",
+"second_ret": 7.5
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.35,
+"up5": 1,
+"lead": "LG화학",
+"lead_ret": 6.69,
+"second": "금호석유화학",
+"second_ret": 4.64
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 2.31,
+"up5": 6,
+"lead": "전진건설로봇",
+"lead_ret": 11.78,
+"second": "HD건설기계",
+"second_ret": 8.5
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 2.26,
+"up5": 2,
+"lead": "세아제강",
+"lead_ret": 6.5,
+"second": "현대제철",
+"second_ret": 5.85
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 2.12,
+"up5": 1,
+"lead": "KB금융",
+"lead_ret": 5.2,
+"second": "BNK금융지주",
+"second_ret": 4.49
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 8,
+"avg": -5.18,
+"up5": 0,
+"lead": "진코스텍",
+"lead_ret": 0.75,
+"second": "케이앤에스아이앤씨",
+"second_ret": -2.33
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -4.07,
+"up5": 0,
+"lead": "인텍플러스",
+"lead_ret": 1.78,
+"second": "네오티스",
+"second_ret": -0.6
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -3.41,
+"up5": 0,
+"lead": "머큐리",
+"lead_ret": -0.59,
+"second": "LS",
+"second_ret": -1.52
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -3.37,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 3.73,
+"second": "손오공",
+"second_ret": -2.51
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.01,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": 4.47,
+"second": "코스모신소재",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 10.65,
+"value": 2561,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "서산",
+"code": "079650",
+"ret": 11.49,
+"value": 1694,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "원익",
+"code": "032940",
+"ret": 18.84,
+"value": 1265,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "녹십자웰빙",
+"code": "234690",
+"ret": 16.47,
+"value": 1135,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "파인엠텍",
+"code": "441270",
+"ret": 18.81,
+"value": 648,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

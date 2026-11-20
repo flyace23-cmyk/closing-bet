@@ -1,0 +1,254 @@
+{
+"date": "20260907",
+"kospi": 4.61,
+"kosdaq": 1.07,
+"adv": 1194,
+"dec": 1080,
+"flat": 144,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 272010,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "삼미금속",
+"lead_ret": 22.16,
+"second": "SNT에너지",
+"second_ret": 14.98
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "네오오토",
+"lead_ret": 29.98,
+"second": "금호에이치티",
+"second_ret": 20.64
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "나무가",
+"lead_ret": 18.73,
+"second": "하이젠알앤엠",
+"second_ret": 13.66
+}
+],
+"themes": [
+{
+"name": "2026 하반기 신규상장",
+"n": 9,
+"avg": 7.39,
+"up5": 4,
+"lead": "스카이랩스",
+"lead_ret": 30.0,
+"second": "레메디",
+"second_ret": 15.17
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.88,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 8.26,
+"second": "SK스퀘어",
+"second_ret": 8.07
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 5.35,
+"up5": 6,
+"lead": "두산퓨얼셀",
+"lead_ret": 13.8,
+"second": "비에이치아이",
+"second_ret": 12.83
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.72,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 9.26,
+"second": "DL이앤씨",
+"second_ret": 6.27
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 4.64,
+"up5": 7,
+"lead": "한전기술",
+"lead_ret": 13.66,
+"second": "비에이치아이",
+"second_ret": 12.83
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.27,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 10.61,
+"second": "LS",
+"second_ret": 5.68
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 4.07,
+"up5": 19,
+"lead": "삼미금속",
+"lead_ret": 22.16,
+"second": "SNT에너지",
+"second_ret": 14.98
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 4.03,
+"up5": 6,
+"lead": "필옵틱스",
+"lead_ret": 29.84,
+"second": "피아이이",
+"second_ret": 8.84
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.83,
+"up5": 3,
+"lead": "SNT에너지",
+"lead_ret": 14.98,
+"second": "비에이치아이",
+"second_ret": 12.83
+},
+{
+"name": "LED",
+"n": 37,
+"avg": 3.62,
+"up5": 8,
+"lead": "우리바이오",
+"lead_ret": 29.99,
+"second": "우리엔터프라이즈",
+"second_ret": 23.42
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.6,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 8.26,
+"second": "LG전자",
+"second_ret": 6.2
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 3.53,
+"up5": 11,
+"lead": "두산에너빌리티",
+"lead_ret": 10.98,
+"second": "가온전선",
+"second_ret": 10.61
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.56,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 2.29,
+"second": "삼성바이오로직스",
+"second_ret": 1.31
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -1.4,
+"up5": 0,
+"lead": "파루",
+"lead_ret": 0.42,
+"second": "롯데정밀화학",
+"second_ret": 0.22
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -1.36,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 0.22,
+"second": "NH농우바이오",
+"second_ret": 0.14
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": -1.26,
+"up5": 1,
+"lead": "나노실리칸첨단소재",
+"lead_ret": 5.39,
+"second": "이스트소프트",
+"second_ret": 4.95
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.19,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.25,
+"second": "카페24",
+"second_ret": 0.06
+}
+],
+"leaders": [
+{
+"name": "스카이랩스",
+"code": "386380",
+"ret": 30.0,
+"value": 9005,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.98,
+"value": 5469,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "삼미금속",
+"code": "012210",
+"ret": 22.16,
+"value": 1763,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 13.8,
+"value": 1646,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "레메디",
+"code": "387690",
+"ret": 15.17,
+"value": 1309,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+}
+],
+"backfilled": true
+}

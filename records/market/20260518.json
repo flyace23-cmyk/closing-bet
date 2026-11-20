@@ -1,0 +1,254 @@
+{
+"date": "20260518",
+"kospi": 0.31,
+"kosdaq": -1.66,
+"adv": 568,
+"dec": 1724,
+"flat": 114,
+"limit_up": 8,
+"limit_down": 2,
+"value_total": 580457,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 7,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 29.81,
+"second": "에이치브이엠",
+"second_ret": 27.99
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 6,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 29.81,
+"second": "에이치브이엠",
+"second_ret": 27.99
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "주성엔지니어링",
+"lead_ret": 29.96,
+"second": "미래산업",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 10.46,
+"up5": 9,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 29.81,
+"second": "에이치브이엠",
+"second_ret": 27.99
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 9.15,
+"up5": 7,
+"lead": "주성엔지니어링",
+"lead_ret": 29.96,
+"second": "레이저쎌",
+"second_ret": 23.4
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 5.54,
+"up5": 14,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 29.81,
+"second": "에이치브이엠",
+"second_ret": 27.99
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.89,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 18.87,
+"second": "한화생명",
+"second_ret": 5.19
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.82,
+"up5": 3,
+"lead": "현대해상",
+"lead_ret": 14.99,
+"second": "코리안리",
+"second_ret": 9.82
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.19,
+"up5": 3,
+"lead": "가온전선",
+"lead_ret": 12.26,
+"second": "LS",
+"second_ret": 11.75
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.42,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 3.88,
+"second": "삼성전기",
+"second_ret": 2.08
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 1.31,
+"up5": 3,
+"lead": "미래에셋벤처투자",
+"lead_ret": 22.77,
+"second": "아주IB투자",
+"second_ret": 18.87
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 1.1,
+"up5": 2,
+"lead": "메가터치",
+"lead_ret": 11.81,
+"second": "더블유씨피",
+"second_ret": 8.19
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 0.97,
+"up5": 2,
+"lead": "베셀",
+"lead_ret": 29.94,
+"second": "켄코아에어로스페이스",
+"second_ret": 29.81
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 0.88,
+"up5": 1,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 29.81,
+"second": "신화프리텍",
+"second_ret": 4.65
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 0.7,
+"up5": 1,
+"lead": "미래에셋벤처투자",
+"lead_ret": 22.77,
+"second": "지어소프트",
+"second_ret": 0.94
+}
+],
+"themes_worst": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -12.42,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": -3.67,
+"second": "대성산업",
+"second_ret": -6.97
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 8,
+"avg": -7.62,
+"up5": 0,
+"lead": "케이뱅크",
+"lead_ret": 1.1,
+"second": "에스팀",
+"second_ret": 0.85
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -7.45,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 3.88,
+"second": "에이직랜드",
+"second_ret": 2.57
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -6.46,
+"up5": 0,
+"lead": "한화비전",
+"lead_ret": 0.99,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -5.99,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 0.0,
+"second": "손오공",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 12.52,
+"value": 8597,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 29.96,
+"value": 8014,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 22.77,
+"value": 7995,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 18.87,
+"value": 7486,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 12.26,
+"value": 3207,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

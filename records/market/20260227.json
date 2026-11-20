@@ -1,0 +1,254 @@
+{
+"date": "20260227",
+"kospi": -1.0,
+"kosdaq": 0.39,
+"adv": 667,
+"dec": 1637,
+"flat": 95,
+"limit_up": 8,
+"limit_down": 1,
+"value_total": 662996,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "케이엔더블유",
+"lead_ret": 23.85,
+"second": "네오티스",
+"second_ret": 21.3
+},
+{
+"name": "전기차",
+"n": 5,
+"lead": "서진시스템",
+"lead_ret": 21.61,
+"second": "네오티스",
+"second_ret": 21.3
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "서진시스템",
+"lead_ret": 21.61,
+"second": "한미반도체",
+"second_ret": 17.42
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.87,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 29.98,
+"second": "SBI인베스트먼트",
+"second_ret": 2.84
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 4.22,
+"up5": 3,
+"lead": "현대제철",
+"lead_ret": 19.85,
+"second": "동국제강",
+"second_ret": 11.15
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.41,
+"up5": 2,
+"lead": "모헨즈",
+"lead_ret": 29.92,
+"second": "삼표시멘트",
+"second_ret": 13.62
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.14,
+"up5": 3,
+"lead": "신성이엔지",
+"lead_ret": 14.75,
+"second": "콜마바이오텍",
+"second_ret": 5.38
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 2.42,
+"up5": 1,
+"lead": "바텍",
+"lead_ret": 29.93,
+"second": "레이",
+"second_ret": 4.59
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.36,
+"up5": 3,
+"lead": "인벤티지랩",
+"lead_ret": 13.04,
+"second": "올릭스",
+"second_ret": 12.92
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.17,
+"up5": 1,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 30.0,
+"second": "대주전자재료",
+"second_ret": 4.03
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 1.99,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 29.98,
+"second": "한미반도체",
+"second_ret": 17.42
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.75,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 3.27,
+"second": "메디포스트",
+"second_ret": 2.09
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.73,
+"up5": 2,
+"lead": "현대차",
+"lead_ret": 10.67,
+"second": "현대위아",
+"second_ret": 9.87
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.73,
+"up5": 1,
+"lead": "대원전선",
+"lead_ret": 5.93,
+"second": "LS에코에너지",
+"second_ret": 3.35
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 1.54,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 29.98,
+"second": "TS인베스트먼트",
+"second_ret": 4.32
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": -4.73,
+"up5": 0,
+"lead": "서울보증보험",
+"lead_ret": -1.85,
+"second": "현대해상",
+"second_ret": -2.41
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.5,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -1.66,
+"second": "SK이노베이션",
+"second_ret": -1.77
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.5,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -1.66,
+"second": "SK이노베이션",
+"second_ret": -1.77
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -3.38,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": 0.0,
+"second": "큐로홀딩스",
+"second_ret": -0.23
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.24,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.69,
+"second": "삼성물산",
+"second_ret": -2.64
+}
+],
+"leaders": [
+{
+"name": "현대차",
+"code": "005380",
+"ret": 10.67,
+"value": 29349,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 17.42,
+"value": 21680,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 13.62,
+"value": 7804,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "HD현대에너지솔루션",
+"code": "322000",
+"ret": 30.0,
+"value": 5737,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "현대제철",
+"code": "004020",
+"ret": 19.85,
+"value": 5558,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+}
+],
+"backfilled": true
+}

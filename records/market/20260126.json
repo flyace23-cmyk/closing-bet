@@ -1,0 +1,254 @@
+{
+"date": "20260126",
+"kospi": -0.81,
+"kosdaq": 7.09,
+"adv": 1720,
+"dec": 600,
+"flat": 79,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 472694,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "쎄노텍",
+"lead_ret": 29.94,
+"second": "대성하이텍",
+"second_ret": 29.9
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "유일로보틱스",
+"lead_ret": 29.93,
+"second": "레인보우로보틱스",
+"second_ret": 25.97
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "와이투솔루션",
+"lead_ret": 23.33,
+"second": "레이크머티리얼즈",
+"second_ret": 21.43
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 8.37,
+"up5": 4,
+"lead": "에코프로",
+"lead_ret": 22.95,
+"second": "에코프로비엠",
+"second_ret": 19.91
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 6.04,
+"up5": 14,
+"lead": "원준",
+"lead_ret": 22.33,
+"second": "레이크머티리얼즈",
+"second_ret": 21.43
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 5.93,
+"up5": 4,
+"lead": "아이티아이즈",
+"lead_ret": 29.84,
+"second": "헥토이노베이션",
+"second_ret": 15.13
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 5.85,
+"up5": 7,
+"lead": "티씨케이",
+"lead_ret": 10.26,
+"second": "레이저쎌",
+"second_ret": 8.62
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 5.62,
+"up5": 11,
+"lead": "헥토파이낸셜",
+"lead_ret": 23.08,
+"second": "헥토이노베이션",
+"second_ret": 15.13
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.47,
+"up5": 3,
+"lead": "메디포스트",
+"lead_ret": 9.65,
+"second": "차바이오텍",
+"second_ret": 9.37
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 5.37,
+"up5": 5,
+"lead": "헥토파이낸셜",
+"lead_ret": 23.08,
+"second": "NHN KCP",
+"second_ret": 10.6
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.31,
+"up5": 9,
+"lead": "에코프로",
+"lead_ret": 22.95,
+"second": "성일하이텍",
+"second_ret": 12.96
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 5.11,
+"up5": 4,
+"lead": "쎄노텍",
+"lead_ret": 29.94,
+"second": "고려아연",
+"second_ret": 14.37
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 5.07,
+"up5": 16,
+"lead": "에이비엘바이오",
+"lead_ret": 21.72,
+"second": "오스코텍",
+"second_ret": 12.17
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 4.9,
+"up5": 10,
+"lead": "케어젠",
+"lead_ret": 16.94,
+"second": "케이바이오랩스",
+"second_ret": 13.73
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 4.74,
+"up5": 24,
+"lead": "쎄노텍",
+"lead_ret": 29.94,
+"second": "에코프로",
+"second_ret": 22.95
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.92,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -0.73,
+"second": "GS건설",
+"second_ret": -1.98
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.33,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 1.2,
+"second": "광주신세계",
+"second_ret": 0.32
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -2.21,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 0.0,
+"second": "대성산업",
+"second_ret": -1.61
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.58,
+"up5": 0,
+"lead": "토니모리",
+"lead_ret": 1.81,
+"second": "HDC",
+"second_ret": 1.67
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.36,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 1.75,
+"second": "KG모빌리티",
+"second_ret": 0.99
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 22.95,
+"value": 18835,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 25.97,
+"value": 12162,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 10.11,
+"value": 9365,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 21.72,
+"value": 9168,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 19.91,
+"value": 8915,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

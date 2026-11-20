@@ -1,0 +1,254 @@
+{
+"date": "20260824",
+"kospi": -3.12,
+"kosdaq": 1.42,
+"adv": 1382,
+"dec": 880,
+"flat": 154,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 285811,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "삼아알미늄",
+"lead_ret": 21.91,
+"second": "솔브레인홀딩스",
+"second_ret": 17.52
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "셀리드",
+"lead_ret": 29.98,
+"second": "신풍제약",
+"second_ret": 29.93
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "한미약품",
+"lead_ret": 29.96,
+"second": "신풍제약",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 7.8,
+"up5": 6,
+"lead": "한미약품",
+"lead_ret": 29.96,
+"second": "한미사이언스",
+"second_ret": 25.7
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 5.16,
+"up5": 9,
+"lead": "셀리드",
+"lead_ret": 29.98,
+"second": "신풍제약",
+"second_ret": 29.93
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.13,
+"up5": 4,
+"lead": "수젠텍",
+"lead_ret": 23.06,
+"second": "엑세스바이오",
+"second_ret": 6.65
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.56,
+"up5": 11,
+"lead": "광무",
+"lead_ret": 12.46,
+"second": "포스코퓨처엠",
+"second_ret": 10.33
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.55,
+"up5": 4,
+"lead": "에코프로비엠",
+"lead_ret": 10.8,
+"second": "삼성SDI",
+"second_ret": 7.74
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 4.45,
+"up5": 18,
+"lead": "셀리드",
+"lead_ret": 29.98,
+"second": "SV인베스트먼트",
+"second_ret": 29.95
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 4.3,
+"up5": 10,
+"lead": "한미약품",
+"lead_ret": 29.96,
+"second": "신풍제약",
+"second_ret": 29.93
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 4.08,
+"up5": 24,
+"lead": "삼아알미늄",
+"lead_ret": 21.91,
+"second": "솔브레인홀딩스",
+"second_ret": 17.52
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 4.03,
+"up5": 5,
+"lead": "한미약품",
+"lead_ret": 29.96,
+"second": "LG화학",
+"second_ret": 8.12
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 4.02,
+"up5": 10,
+"lead": "수젠텍",
+"lead_ret": 23.06,
+"second": "녹십자엠에스",
+"second_ret": 21.07
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.91,
+"up5": 3,
+"lead": "엑스플러스",
+"lead_ret": 13.55,
+"second": "NHN KCP",
+"second_ret": 8.39
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 3.64,
+"up5": 8,
+"lead": "아이티센글로벌",
+"lead_ret": 16.44,
+"second": "더즌",
+"second_ret": 11.44
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 7,
+"avg": -7.94,
+"up5": 0,
+"lead": "진코스텍",
+"lead_ret": -1.81,
+"second": "인제니아테라퓨틱스(Reg.S)",
+"second_ret": -3.93
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -6.18,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 0.15,
+"second": "SK하이닉스",
+"second_ret": -3.41
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.33,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 2.02,
+"second": "이루온",
+"second_ret": -0.36
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.23,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 4.77,
+"second": "사조대림",
+"second_ret": 1.66
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": -2.16,
+"up5": 0,
+"lead": "지에프아이",
+"lead_ret": 4.19,
+"second": "져스텍",
+"second_ret": 0.6
+}
+],
+"leaders": [
+{
+"name": "한미약품",
+"code": "128940",
+"ret": 29.96,
+"value": 2779,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "한미사이언스",
+"code": "008930",
+"ret": 25.7,
+"value": 2321,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 16.36,
+"value": 1298,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "아이티센글로벌",
+"code": "124500",
+"ret": 16.44,
+"value": 1139,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 10.33,
+"value": 989,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

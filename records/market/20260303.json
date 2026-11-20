@@ -1,0 +1,254 @@
+{
+"date": "20260303",
+"kospi": -7.24,
+"kosdaq": -4.62,
+"adv": 231,
+"dec": 2137,
+"flat": 31,
+"limit_up": 15,
+"limit_down": 0,
+"value_total": 644987,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 8,
+"lead": "빅텍",
+"lead_ret": 30.0,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 29.86
+},
+{
+"name": "주유소",
+"n": 6,
+"lead": "극동유화",
+"lead_ret": 30.0,
+"second": "우양피앤엘",
+"second_ret": 29.98
+},
+{
+"name": "해운",
+"n": 5,
+"lead": "대한해운",
+"lead_ret": 29.95,
+"second": "STX그린로지스",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 23.11,
+"up5": 6,
+"lead": "대한해운",
+"lead_ret": 29.95,
+"second": "STX그린로지스",
+"second_ret": 29.9
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 18.34,
+"up5": 6,
+"lead": "극동유화",
+"lead_ret": 30.0,
+"second": "중앙에너비스",
+"second_ret": 29.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 18.34,
+"up5": 6,
+"lead": "극동유화",
+"lead_ret": 30.0,
+"second": "중앙에너비스",
+"second_ret": 29.89
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 16.28,
+"up5": 5,
+"lead": "극동유화",
+"lead_ret": 30.0,
+"second": "흥구석유",
+"second_ret": 29.76
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 14.79,
+"up5": 7,
+"lead": "극동유화",
+"lead_ret": 30.0,
+"second": "우양피앤엘",
+"second_ret": 29.98
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 7.22,
+"up5": 3,
+"lead": "대성에너지",
+"lead_ret": 29.98,
+"second": "지에스이",
+"second_ret": 29.83
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.81,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 30.0,
+"second": "한국석유",
+"second_ret": 29.75
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 3.7,
+"up5": 8,
+"lead": "케이알엠",
+"lead_ret": 29.9,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 29.86
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 66,
+"avg": 2.52,
+"up5": 19,
+"lead": "빅텍",
+"lead_ret": 30.0,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 29.86
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.58,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 29.1,
+"second": "신세계",
+"second_ret": -2.44
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 1.56,
+"up5": 7,
+"lead": "RF머트리얼즈",
+"lead_ret": 20.33,
+"second": "RFHIC",
+"second_ret": 12.32
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.24,
+"up5": 3,
+"lead": "대성에너지",
+"lead_ret": 29.98,
+"second": "지에스이",
+"second_ret": 29.83
+}
+],
+"themes_worst": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -10.92,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": -8.92,
+"second": "삼성전자",
+"second_ret": -9.88
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": -8.98,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": -2.9,
+"second": "한솔테크닉스",
+"second_ret": -4.84
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -8.89,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -3.7,
+"second": "삼성전기",
+"second_ret": -8.81
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -8.59,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": -3.65,
+"second": "KG모빌리티",
+"second_ret": -5.81
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -8.53,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": -2.9,
+"second": "리튬포어스",
+"second_ret": -3.42
+}
+],
+"leaders": [
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 19.83,
+"value": 18550,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 29.14,
+"value": 14938,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 29.86,
+"value": 7689,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "S-Oil",
+"code": "010950",
+"ret": 28.45,
+"value": 6022,
+"theme": "주유소",
+"reason": "테마: 주유소"
+},
+{
+"name": "테크윙",
+"code": "089030",
+"ret": 10.09,
+"value": 4737,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

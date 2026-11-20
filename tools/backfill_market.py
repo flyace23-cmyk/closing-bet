@@ -14,7 +14,7 @@ import market_data as md, info  # noqa: E402
 REC = os.path.join(ROOT, "records")
 
 
-def raw_daily(code, n=40):
+def raw_daily(code, n=260):
     try:
         t = md.S.get(f"https://fchart.stock.naver.com/sise.nhn?symbol={code}&timeframe=day&count={n}&requestType=0", timeout=15).text
         d = pd.DataFrame(md._items(t), columns=["date", "o", "h", "l", "c", "v"])

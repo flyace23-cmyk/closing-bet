@@ -1,0 +1,254 @@
+{
+"date": "20260707",
+"kospi": -4.91,
+"kosdaq": -1.87,
+"adv": 749,
+"dec": 1560,
+"flat": 102,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 458619,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "클리오",
+"lead_ret": 12.86,
+"second": "파마리서치",
+"second_ret": 8.44
+},
+{
+"name": "시멘트/레미콘",
+"n": 4,
+"lead": "서산",
+"lead_ret": 29.93,
+"second": "강동씨앤엘",
+"second_ret": 13.27
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한스바이오메드",
+"lead_ret": 14.57,
+"second": "큐리오시스",
+"second_ret": 11.88
+}
+],
+"themes": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.76,
+"up5": 5,
+"lead": "서산",
+"lead_ret": 29.93,
+"second": "강동씨앤엘",
+"second_ret": 13.27
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.6,
+"up5": 2,
+"lead": "에스와이",
+"lead_ret": 29.95,
+"second": "오텍",
+"second_ret": 7.21
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.21,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 9.95,
+"second": "팬오션",
+"second_ret": 3.04
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.75,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 8.98,
+"second": "SK이노베이션",
+"second_ret": 7.56
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 2.13,
+"up5": 4,
+"lead": "서부T&D",
+"lead_ret": 7.03,
+"second": "GS피앤엘",
+"second_ret": 6.35
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.08,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.09,
+"second": "파라다이스",
+"second_ret": 2.44
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.08,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.09,
+"second": "파라다이스",
+"second_ret": 2.44
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.03,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 29.95,
+"second": "NHN",
+"second_ret": 4.86
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 1.92,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 29.95,
+"second": "자연과환경",
+"second_ret": 1.1
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.87,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 3.41,
+"second": "롯데지주",
+"second_ret": 2.9
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.82,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 8.98,
+"second": "SK이노베이션",
+"second_ret": 7.56
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.82,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 8.98,
+"second": "SK이노베이션",
+"second_ret": 7.56
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -7.43,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -1.23,
+"second": "대한조선",
+"second_ret": -2.5
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -7.26,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -0.75,
+"second": "LS",
+"second_ret": -3.4
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -7.06,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -4.7,
+"second": "삼성물산",
+"second_ret": -5.56
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -6.73,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": 1.68,
+"second": "엔비티",
+"second_ret": -2.44
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -6.2,
+"up5": 0,
+"lead": "태성",
+"lead_ret": -0.39,
+"second": "다원넥스뷰",
+"second_ret": -2.41
+}
+],
+"leaders": [
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 13.36,
+"value": 4882,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "디앤디파마텍",
+"code": "347850",
+"ret": 12.38,
+"value": 3504,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "레몬헬스케어",
+"code": "365660",
+"ret": 30.0,
+"value": 2813,
+"theme": "2026 하반기 신규상장",
+"reason": "테마: 2026 하반기 신규상장"
+},
+{
+"name": "삼양식품",
+"code": "003230",
+"ret": 11.29,
+"value": 1538,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "다스코",
+"code": "058730",
+"ret": 13.31,
+"value": 661,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

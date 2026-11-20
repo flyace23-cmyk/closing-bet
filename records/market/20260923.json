@@ -1,0 +1,254 @@
+{
+"date": "20260923",
+"kospi": 0.9,
+"kosdaq": 1.21,
+"adv": 1070,
+"dec": 1224,
+"flat": 124,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 279004,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "아스플로",
+"lead_ret": 21.24,
+"second": "엑시콘",
+"second_ret": 13.95
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "HT로보틱스",
+"lead_ret": 30.09,
+"second": "삼기에너지솔루션즈",
+"second_ret": 18.12
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "알멕",
+"lead_ret": 14.78,
+"second": "에이치브이엠",
+"second_ret": 9.95
+}
+],
+"themes": [
+{
+"name": "2026 하반기 신규상장",
+"n": 9,
+"avg": 3.9,
+"up5": 3,
+"lead": "레메디",
+"lead_ret": 19.18,
+"second": "인제니아테라퓨틱스(Reg.S)",
+"second_ret": 5.91
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.36,
+"up5": 3,
+"lead": "엑시콘",
+"lead_ret": 13.95,
+"second": "파두",
+"second_ret": 12.59
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 3.31,
+"up5": 5,
+"lead": "우리넷",
+"lead_ret": 22.42,
+"second": "엑스게이트",
+"second_ret": 9.44
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 3.03,
+"up5": 18,
+"lead": "피엠티",
+"lead_ret": 17.52,
+"second": "메가터치",
+"second_ret": 14.99
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 2.72,
+"up5": 3,
+"lead": "에이치브이엠",
+"lead_ret": 9.95,
+"second": "와이제이링크",
+"second_ret": 7.45
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 2.7,
+"up5": 18,
+"lead": "아스플로",
+"lead_ret": 21.24,
+"second": "엑시콘",
+"second_ret": 13.95
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.4,
+"up5": 4,
+"lead": "다원넥스뷰",
+"lead_ret": 8.51,
+"second": "대덕전자",
+"second_ret": 6.71
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.27,
+"up5": 3,
+"lead": "유니테스트",
+"lead_ret": 6.67,
+"second": "한화솔루션",
+"second_ret": 6.52
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 2.25,
+"up5": 4,
+"lead": "제우스",
+"lead_ret": 13.69,
+"second": "케이씨텍",
+"second_ret": 8.44
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.2,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 5.18,
+"second": "네패스아크",
+"second_ret": 4.46
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 2.1,
+"up5": 2,
+"lead": "우리넷",
+"lead_ret": 22.42,
+"second": "빛샘전자",
+"second_ret": 9.61
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.01,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 4.14,
+"second": "삼성전자",
+"second_ret": 3.24
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -4.12,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 1.1,
+"second": "IPARK현대산업개발",
+"second_ret": -0.42
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -3.68,
+"up5": 0,
+"lead": "케이엔알시스템",
+"lead_ret": 0.71,
+"second": "대창솔루션",
+"second_ret": -0.1
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": -2.74,
+"up5": 1,
+"lead": "디티앤씨",
+"lead_ret": 5.5,
+"second": "비엠티",
+"second_ret": 3.03
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": -2.51,
+"up5": 0,
+"lead": "동국씨엠",
+"lead_ret": -0.38,
+"second": "고려제강",
+"second_ret": -0.95
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.12,
+"up5": 0,
+"lead": "동양에스텍",
+"lead_ret": 0.86,
+"second": "엔케이",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "레메디",
+"code": "387690",
+"ret": 19.18,
+"value": 1431,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "파두",
+"code": "440110",
+"ret": 12.59,
+"value": 1041,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "우리넷",
+"code": "115440",
+"ret": 22.42,
+"value": 859,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "HT로보틱스",
+"code": "396300",
+"ret": 30.09,
+"value": 775,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼기에너지솔루션즈",
+"code": "419050",
+"ret": 18.12,
+"value": 687,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

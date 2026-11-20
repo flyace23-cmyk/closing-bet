@@ -1,0 +1,254 @@
+{
+"date": "20260601",
+"kospi": 3.68,
+"kosdaq": -2.3,
+"adv": 361,
+"dec": 1999,
+"flat": 48,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 816276,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 8,
+"lead": "로보스타",
+"lead_ret": 30.0,
+"second": "두산로보틱스",
+"second_ret": 29.95
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 8,
+"lead": "로보스타",
+"lead_ret": 30.0,
+"second": "오브젠",
+"second_ret": 29.9
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 5,
+"lead": "LG씨엔에스",
+"lead_ret": 26.27,
+"second": "삼성에스디에스",
+"second_ret": 21.07
+}
+],
+"themes": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 9.21,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "삼성에스디에스",
+"second_ret": 21.07
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 5.43,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "삼성전자",
+"second_ret": 10.09
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": 3.39,
+"up5": 4,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "성호전자",
+"second_ret": 18.11
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.04,
+"up5": 3,
+"lead": "삼성전자",
+"lead_ret": 10.09,
+"second": "삼성생명",
+"second_ret": 5.53
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 2.36,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "삼성전자",
+"second_ret": 10.09
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 1.73,
+"up5": 3,
+"lead": "로보스타",
+"lead_ret": 30.0,
+"second": "로킷헬스케어",
+"second_ret": 8.39
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 65,
+"avg": 1.46,
+"up5": 13,
+"lead": "로보스타",
+"lead_ret": 30.0,
+"second": "오브젠",
+"second_ret": 29.9
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 1.4,
+"up5": 8,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "크라우드웍스",
+"second_ret": 29.86
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.25,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 14.29,
+"second": "LS마린솔루션",
+"second_ret": 6.25
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 1.05,
+"up5": 8,
+"lead": "팸텍",
+"lead_ret": 29.95,
+"second": "LG씨엔에스",
+"second_ret": 26.27
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 0.64,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "삼성전자",
+"second_ret": 10.09
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 23,
+"avg": 0.64,
+"up5": 5,
+"lead": "LG전자",
+"lead_ret": 29.86,
+"second": "포스코DX",
+"second_ret": 19.26
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -10.66,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": 4.39,
+"second": "코스모신소재",
+"second_ret": -4.31
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -6.99,
+"up5": 1,
+"lead": "SK텔레콤",
+"lead_ret": 11.53,
+"second": "LG유플러스",
+"second_ret": 1.8
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -6.25,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -2.38,
+"second": "이루온",
+"second_ret": -5.01
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.73,
+"up5": 0,
+"lead": "태경산업",
+"lead_ret": -1.24,
+"second": "상신전자",
+"second_ret": -1.85
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.73,
+"up5": 0,
+"lead": "태경산업",
+"lead_ret": -1.24,
+"second": "상신전자",
+"second_ret": -1.85
+}
+],
+"leaders": [
+{
+"name": "삼성전자",
+"code": "005930",
+"ret": 10.09,
+"value": 157233,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "NAVER",
+"code": "035420",
+"ret": 16.03,
+"value": 39384,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 29.86,
+"value": 19697,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "LG씨엔에스",
+"code": "064400",
+"ret": 26.27,
+"value": 15928,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "삼성에스디에스",
+"code": "018260",
+"ret": 21.07,
+"value": 10707,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

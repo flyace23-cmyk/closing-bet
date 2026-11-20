@@ -1,0 +1,254 @@
+{
+"date": "20260223",
+"kospi": 0.65,
+"kosdaq": -0.17,
+"adv": 1296,
+"dec": 1015,
+"flat": 88,
+"limit_up": 14,
+"limit_down": 0,
+"value_total": 441294,
+"hot": [
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "아모텍",
+"lead_ret": 25.0,
+"second": "해성옵틱스",
+"second_ret": 19.74
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 3,
+"lead": "삼화콘덴서",
+"lead_ret": 29.99,
+"second": "아모텍",
+"second_ret": 25.0
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에이치엠넥스",
+"lead_ret": 29.76,
+"second": "KBI메탈",
+"second_ret": 24.66
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 11.62,
+"up5": 7,
+"lead": "삼화콘덴서",
+"lead_ret": 29.99,
+"second": "아모텍",
+"second_ret": 25.0
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 11.53,
+"up5": 5,
+"lead": "대원전선",
+"lead_ret": 29.99,
+"second": "KBI메탈",
+"second_ret": 24.66
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 6.5,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 29.97,
+"second": "팜스토리",
+"second_ret": 16.14
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 5.61,
+"up5": 4,
+"lead": "DSC인베스트먼트",
+"lead_ret": 25.9,
+"second": "TS인베스트먼트",
+"second_ret": 11.17
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 5.25,
+"up5": 4,
+"lead": "DSC인베스트먼트",
+"lead_ret": 25.9,
+"second": "TS인베스트먼트",
+"second_ret": 11.17
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 5.19,
+"up5": 2,
+"lead": "이지홀딩스",
+"lead_ret": 29.97,
+"second": "팜스토리",
+"second_ret": 16.14
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 4.92,
+"up5": 4,
+"lead": "토모큐브",
+"lead_ret": 15.71,
+"second": "티앤알바이오팹",
+"second_ret": 8.47
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.72,
+"up5": 3,
+"lead": "글로벌에스엠",
+"lead_ret": 21.47,
+"second": "GRT",
+"second_ret": 15.25
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 4.31,
+"up5": 12,
+"lead": "대원전선",
+"lead_ret": 29.99,
+"second": "KBI메탈",
+"second_ret": 24.66
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.12,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 21.79,
+"second": "태광산업",
+"second_ret": 5.93
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.04,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 29.97,
+"second": "팜스토리",
+"second_ret": 16.14
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 4.02,
+"up5": 6,
+"lead": "삼화콘덴서",
+"lead_ret": 29.99,
+"second": "일진전기",
+"second_ret": 14.15
+}
+],
+"themes_worst": [
+{
+"name": "증권",
+"n": 21,
+"avg": -4.45,
+"up5": 1,
+"lead": "부국증권",
+"lead_ret": 16.46,
+"second": "신영증권",
+"second_ret": 4.94
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -3.96,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 1.73,
+"second": "석경에이티",
+"second_ret": 0.88
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.95,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": -0.59,
+"second": "아주IB투자",
+"second_ret": -0.81
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -3.75,
+"up5": 0,
+"lead": "한미반도체",
+"lead_ret": 1.75,
+"second": "미래에셋벤처투자",
+"second_ret": 1.07
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": -3.11,
+"up5": 3,
+"lead": "퍼스텍",
+"lead_ret": 8.18,
+"second": "이수페타시스",
+"second_ret": 6.67
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 14.76,
+"value": 9287,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 14.01,
+"value": 7792,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 13.13,
+"value": 7017,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "페니트리움바이오",
+"code": "187660",
+"ret": 29.95,
+"value": 3486,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 15.82,
+"value": 2688,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

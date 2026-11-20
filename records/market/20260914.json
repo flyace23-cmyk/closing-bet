@@ -1,0 +1,254 @@
+{
+"date": "20260914",
+"kospi": -3.26,
+"kosdaq": -1.69,
+"adv": 892,
+"dec": 1409,
+"flat": 117,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 264196,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 7,
+"lead": "샌즈랩",
+"lead_ret": 29.95,
+"second": "라온시큐어",
+"second_ret": 23.35
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 4,
+"lead": "빛샘전자",
+"lead_ret": 30.0,
+"second": "한국첨단소재",
+"second_ret": 29.9
+},
+{
+"name": "스테이블코인",
+"n": 3,
+"lead": "라온시큐어",
+"lead_ret": 23.35,
+"second": "미투온",
+"second_ret": 9.67
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 6.96,
+"up5": 6,
+"lead": "샌즈랩",
+"lead_ret": 29.95,
+"second": "라온시큐어",
+"second_ret": 23.35
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 5.47,
+"up5": 5,
+"lead": "빛샘전자",
+"lead_ret": 30.0,
+"second": "한국첨단소재",
+"second_ret": 29.9
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 4.27,
+"up5": 9,
+"lead": "한국첨단소재",
+"lead_ret": 29.9,
+"second": "라온시큐어",
+"second_ret": 23.35
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 3.78,
+"up5": 14,
+"lead": "샌즈랩",
+"lead_ret": 29.95,
+"second": "라온시큐어",
+"second_ret": 23.35
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.71,
+"up5": 3,
+"lead": "엔키AX",
+"lead_ret": 16.16,
+"second": "키다리스튜디오",
+"second_ret": 11.11
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 2.67,
+"up5": 6,
+"lead": "라온시큐어",
+"lead_ret": 23.35,
+"second": "미투온",
+"second_ret": 9.67
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.66,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 12.08,
+"second": "오픈베이스",
+"second_ret": 4.21
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 2.29,
+"up5": 4,
+"lead": "라온시큐어",
+"lead_ret": 23.35,
+"second": "SGA솔루션즈",
+"second_ret": 14.88
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.13,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 9.54,
+"second": "EG",
+"second_ret": 8.87
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.13,
+"up5": 4,
+"lead": "라온시큐어",
+"lead_ret": 23.35,
+"second": "해성옵틱스",
+"second_ret": 6.57
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.13,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 9.54,
+"second": "EG",
+"second_ret": 8.87
+},
+{
+"name": "통신장비",
+"n": 47,
+"avg": 2.1,
+"up5": 9,
+"lead": "빛샘전자",
+"lead_ret": 30.0,
+"second": "한국첨단소재",
+"second_ret": 29.9
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -5.47,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -3.81,
+"second": "삼성생명",
+"second_ret": -3.9
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -4.95,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.36,
+"second": "엠케이전자",
+"second_ret": -3.83
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -4.9,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -2.41,
+"second": "DL이앤씨",
+"second_ret": -2.45
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.62,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": -1.42,
+"second": "풀무원",
+"second_ret": -1.59
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -4.53,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 0.43,
+"second": "대창솔루션",
+"second_ret": 0.35
+}
+],
+"leaders": [
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 12.53,
+"value": 3504,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "광전자",
+"code": "017900",
+"ret": 30.0,
+"value": 2975,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+},
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 19.85,
+"value": 1529,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "샌즈랩",
+"code": "411080",
+"ret": 29.95,
+"value": 922,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "티엠씨",
+"code": "217590",
+"ret": 20.96,
+"value": 920,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260605",
+"kospi": -5.54,
+"kosdaq": -4.5,
+"adv": 528,
+"dec": 1805,
+"flat": 75,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 561901,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "피에스케이",
+"lead_ret": 10.58,
+"second": "코미코",
+"second_ret": 9.92
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "피에스케이",
+"lead_ret": 10.58,
+"second": "코미코",
+"second_ret": 9.92
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "아이로보틱스",
+"lead_ret": 29.84,
+"second": "싸이맥스",
+"second_ret": 9.09
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.54,
+"up5": 2,
+"lead": "한켐",
+"lead_ret": 29.94,
+"second": "아바텍",
+"second_ret": 9.86
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 2.39,
+"up5": 2,
+"lead": "신한지주",
+"lead_ret": 7.39,
+"second": "제주은행",
+"second_ret": 6.8
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.65,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.51,
+"second": "GKL",
+"second_ret": 3.22
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.65,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.51,
+"second": "GKL",
+"second_ret": 3.22
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.31,
+"up5": 1,
+"lead": "모헨즈",
+"lead_ret": 28.86,
+"second": "HC보광산업",
+"second_ret": 4.04
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 0.78,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 7.02,
+"second": "졸스",
+"second_ret": 2.15
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 0.63,
+"up5": 1,
+"lead": "오에스피",
+"lead_ret": 6.48,
+"second": "팜스코",
+"second_ret": 4.68
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 0.43,
+"up5": 1,
+"lead": "모헨즈",
+"lead_ret": 28.86,
+"second": "일신석재",
+"second_ret": 2.14
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 0.42,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 5.39,
+"second": "하나금융지주",
+"second_ret": 2.49
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 0.34,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 4.79,
+"second": "글로벌텍스프리",
+"second_ret": 4.14
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 0.2,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 4.51,
+"second": "인포뱅크",
+"second_ret": 4.42
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 0.12,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 4.79,
+"second": "대구백화점",
+"second_ret": 2.35
+}
+],
+"themes_worst": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -6.97,
+"up5": 0,
+"lead": "LG디스플레이",
+"lead_ret": -5.65,
+"second": "삼성에스디에스",
+"second_ret": -5.78
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -6.87,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 2.39,
+"second": "삼성생명",
+"second_ret": -5.82
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -6.35,
+"up5": 1,
+"lead": "HPSP",
+"lead_ret": 5.89,
+"second": "삼성전기",
+"second_ret": 2.39
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -6.24,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -1.51,
+"second": "네패스아크",
+"second_ret": -4.47
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 25,
+"avg": -5.77,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": -1.79,
+"second": "도우인시스",
+"second_ret": -2.49
+}
+],
+"leaders": [
+{
+"name": "피에스케이",
+"code": "319660",
+"ret": 10.58,
+"value": 1552,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한켐",
+"code": "457370",
+"ret": 29.94,
+"value": 1222,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "라이콤",
+"code": "388790",
+"ret": 20.37,
+"value": 1075,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "나무AX",
+"code": "242040",
+"ret": 10.01,
+"value": 872,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "비보존 제약",
+"code": "082800",
+"ret": 15.28,
+"value": 299,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

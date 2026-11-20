@@ -1,0 +1,254 @@
+{
+"date": "20261014",
+"kospi": -0.44,
+"kosdaq": -1.57,
+"adv": 1161,
+"dec": 1167,
+"flat": 93,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 262049,
+"hot": [
+{
+"name": "전력저장장치(ESS)",
+"n": 5,
+"lead": "에스엠벡셀",
+"lead_ret": 28.99,
+"second": "HT로보틱스",
+"second_ret": 12.97
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에스엠벡셀",
+"lead_ret": 28.99,
+"second": "HT로보틱스",
+"second_ret": 12.97
+},
+{
+"name": "2차전지(전고체)",
+"n": 3,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 10.04,
+"second": "이수스페셜티케미컬",
+"second_ret": 9.95
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 13.87,
+"up5": 3,
+"lead": "천일고속",
+"lead_ret": 29.78,
+"second": "동양고속",
+"second_ret": 22.13
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 6.49,
+"up5": 5,
+"lead": "한선엔지니어링",
+"lead_ret": 28.06,
+"second": "화성밸브",
+"second_ret": 17.0
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 5.56,
+"up5": 3,
+"lead": "팬오션",
+"lead_ret": 10.21,
+"second": "STX그린로지스",
+"second_ret": 7.25
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.35,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 18.4,
+"second": "SK이노베이션",
+"second_ret": 5.54
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.35,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 18.4,
+"second": "SK이노베이션",
+"second_ret": 5.54
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 4.14,
+"up5": 4,
+"lead": "천일고속",
+"lead_ret": 29.78,
+"second": "동양고속",
+"second_ret": 22.13
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.12,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 29.99,
+"second": "GRT",
+"second_ret": 6.87
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.89,
+"up5": 2,
+"lead": "제주항공",
+"lead_ret": 21.1,
+"second": "AK홀딩스",
+"second_ret": 10.62
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.16,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 18.4,
+"second": "SK이노베이션",
+"second_ret": 5.54
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.68,
+"up5": 3,
+"lead": "대성산업",
+"lead_ret": 18.4,
+"second": "큐로홀딩스",
+"second_ret": 8.39
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.56,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 5.54,
+"second": "흥구석유",
+"second_ret": 4.12
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.51,
+"up5": 6,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 10.04,
+"second": "이수스페셜티케미컬",
+"second_ret": 9.95
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -5.42,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.21,
+"second": "LB인베스트먼트",
+"second_ret": -2.06
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": -5.12,
+"up5": 1,
+"lead": "에스티아이",
+"lead_ret": 5.1,
+"second": "다원넥스뷰",
+"second_ret": 4.6
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -5.06,
+"up5": 0,
+"lead": "미래컴퍼니",
+"lead_ret": 0.57,
+"second": "탑엔지니어링",
+"second_ret": 0.33
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -4.86,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": 3.92,
+"second": "국순당",
+"second_ret": 1.16
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.66,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.21,
+"second": "자람테크놀로지",
+"second_ret": -0.69
+}
+],
+"leaders": [
+{
+"name": "HT로보틱스",
+"code": "396300",
+"ret": 12.97,
+"value": 1393,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "팬오션",
+"code": "028670",
+"ret": 10.21,
+"value": 1259,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "한선엔지니어링",
+"code": "452280",
+"ret": 28.06,
+"value": 967,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "동양고속",
+"code": "084670",
+"ret": 22.13,
+"value": 632,
+"theme": "서울고속버스터미널 재개발 수혜",
+"reason": "테마: 서울고속버스터미널 재개발 수혜"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 18.4,
+"value": 590,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+}
+],
+"backfilled": true
+}

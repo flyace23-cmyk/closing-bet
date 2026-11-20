@@ -1,0 +1,254 @@
+{
+"date": "20260527",
+"kospi": 2.25,
+"kosdaq": -3.36,
+"adv": 227,
+"dec": 2132,
+"flat": 49,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 687760,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "라온로보틱스",
+"lead_ret": 22.28,
+"second": "아이에스티이",
+"second_ret": 14.95
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "삼성에스디에스",
+"lead_ret": 29.78,
+"second": "라온로보틱스",
+"second_ret": 22.28
+},
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "삼성에스디에스",
+"lead_ret": 29.78,
+"second": "현대오토에버",
+"second_ret": 19.91
+}
+],
+"themes": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 4.74,
+"up5": 2,
+"lead": "삼성에스디에스",
+"lead_ret": 29.78,
+"second": "SK하이닉스",
+"second_ret": 9.31
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.24,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 9.31,
+"second": "SK스퀘어",
+"second_ret": 8.04
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 0.6,
+"up5": 1,
+"lead": "3S",
+"lead_ret": 16.01,
+"second": "SK",
+"second_ret": 3.66
+},
+{
+"name": "SI(시스템통합)",
+"n": 30,
+"avg": 0.08,
+"up5": 4,
+"lead": "삼성에스디에스",
+"lead_ret": 29.78,
+"second": "현대오토에버",
+"second_ret": 19.91
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 0.06,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 4.89,
+"second": "메디포스트",
+"second_ret": 2.97
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": -0.11,
+"up5": 2,
+"lead": "코아스템켐온",
+"lead_ret": 29.93,
+"second": "네이처셀",
+"second_ret": 9.4
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -0.18,
+"up5": 2,
+"lead": "한올바이오파마",
+"lead_ret": 19.63,
+"second": "알테오젠",
+"second_ret": 5.75
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.47,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 4.89,
+"second": "에스티팜",
+"second_ret": 0.79
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -0.61,
+"up5": 3,
+"lead": "아리바이오랩",
+"lead_ret": 22.79,
+"second": "네이처셀",
+"second_ret": 9.4
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": -0.63,
+"up5": 4,
+"lead": "에이프릴바이오",
+"lead_ret": 13.28,
+"second": "안국약품",
+"second_ret": 8.88
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -0.65,
+"up5": 1,
+"lead": "올릭스",
+"lead_ret": 7.0,
+"second": "녹십자",
+"second_ret": 4.89
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 35,
+"avg": -0.74,
+"up5": 5,
+"lead": "삼성에스디에스",
+"lead_ret": 29.78,
+"second": "엠로",
+"second_ret": 15.04
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -8.35,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": -5.85,
+"second": "LS에코에너지",
+"second_ret": -6.03
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -8.27,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 4.03,
+"second": "대한광통신",
+"second_ret": -0.72
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 10,
+"avg": -7.45,
+"up5": 0,
+"lead": "리센스메디컬",
+"lead_ret": 0.88,
+"second": "케이뱅크",
+"second_ret": -2.47
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": -7.27,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": 1.07,
+"second": "케이엠더블유",
+"second_ret": 0.28
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": -6.73,
+"up5": 0,
+"lead": "일지테크",
+"lead_ret": -2.65,
+"second": "램테크놀러지",
+"second_ret": -3.87
+}
+],
+"leaders": [
+{
+"name": "삼성에스디에스",
+"code": "018260",
+"ret": 29.78,
+"value": 8186,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "현대오토에버",
+"code": "307950",
+"ret": 19.91,
+"value": 4923,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "LG씨엔에스",
+"code": "064400",
+"ret": 14.11,
+"value": 4744,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "디앤디파마텍",
+"code": "347850",
+"ret": 30.0,
+"value": 3444,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 18.02,
+"value": 2613,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+}
+],
+"backfilled": true
+}

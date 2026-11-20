@@ -1,0 +1,246 @@
+{
+"date": "20261030",
+"kospi": -3.48,
+"kosdaq": -3.83,
+"adv": 422,
+"dec": 1949,
+"flat": 51,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 233658,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 6,
+"lead": "SGA솔루션즈",
+"lead_ret": 28.75,
+"second": "안랩",
+"second_ret": 22.32
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "아모레퍼시픽",
+"lead_ret": 4.14,
+"second": "롯데칠성",
+"second_ret": 3.6
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "아모레퍼시픽홀딩스",
+"lead_ret": 6.55,
+"second": "아모레퍼시픽",
+"second_ret": 4.14
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 1.42,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 3.33,
+"second": "대한해운",
+"second_ret": 2.44
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 1.27,
+"up5": 4,
+"lead": "SGA솔루션즈",
+"lead_ret": 28.75,
+"second": "라온시큐어",
+"second_ret": 14.95
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 0.88,
+"up5": 6,
+"lead": "SGA솔루션즈",
+"lead_ret": 28.75,
+"second": "안랩",
+"second_ret": 22.32
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 0.57,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 14.86,
+"second": "롯데칠성",
+"second_ret": 3.6
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 0.14,
+"up5": 2,
+"lead": "라온시큐어",
+"lead_ret": 14.95,
+"second": "파수AI",
+"second_ret": 10.41
+},
+{
+"name": "교육/온라인 교육",
+"n": 24,
+"avg": 0.12,
+"up5": 2,
+"lead": "메가엠디",
+"lead_ret": 9.98,
+"second": "이퓨쳐",
+"second_ret": 7.72
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.03,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.12,
+"second": "SK가스",
+"second_ret": 2.2
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.03,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.12,
+"second": "SK가스",
+"second_ret": 2.2
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.08,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.12,
+"second": "한국쉘석유",
+"second_ret": 1.56
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -0.12,
+"up5": 1,
+"lead": "메가엠디",
+"lead_ret": 9.98,
+"second": "사람인",
+"second_ret": 4.61
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": -0.14,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 10.41,
+"second": "세종텔레콤",
+"second_ret": 4.9
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.17,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 2.17,
+"second": "GS리테일",
+"second_ret": 1.35
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -9.66,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": -3.56,
+"second": "태성",
+"second_ret": -6.65
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -8.25,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": -3.3,
+"second": "대주전자재료",
+"second_ret": -3.8
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -8.09,
+"up5": 0,
+"lead": "자람테크놀로지",
+"lead_ret": 0.8,
+"second": "서울바이오시스",
+"second_ret": -2.68
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -8.01,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": -1.62,
+"second": "미래컴퍼니",
+"second_ret": -4.32
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -7.98,
+"up5": 0,
+"lead": "티에프이",
+"lead_ret": -0.92,
+"second": "LB인베스트먼트",
+"second_ret": -1.87
+}
+],
+"leaders": [
+{
+"name": "안랩",
+"code": "053800",
+"ret": 22.32,
+"value": 1630,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "라온시큐어",
+"code": "042510",
+"ret": 14.95,
+"value": 1606,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "라온로보틱스",
+"code": "232680",
+"ret": 24.28,
+"value": 731,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "진양화학",
+"code": "051630",
+"ret": 30.0,
+"value": 200,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20260831",
+"kospi": 0.46,
+"kosdaq": -0.49,
+"adv": 993,
+"dec": 1266,
+"flat": 158,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 319904,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "덕산테코피아",
+"lead_ret": 23.34,
+"second": "피노",
+"second_ret": 16.3
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "원익",
+"lead_ret": 19.4,
+"second": "레메디",
+"second_ret": 14.2
+}
+],
+"themes": [
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 2.84,
+"up5": 5,
+"lead": "LK삼양",
+"lead_ret": 29.99,
+"second": "액트로",
+"second_ret": 16.45
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.78,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 8.04,
+"second": "메가터치",
+"second_ret": 3.94
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.6,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 6.06,
+"second": "덕산하이메탈",
+"second_ret": 5.58
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.44,
+"up5": 5,
+"lead": "덕산테코피아",
+"lead_ret": 23.34,
+"second": "SK이노베이션",
+"second_ret": 7.36
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.26,
+"up5": 2,
+"lead": "엑사이엔씨",
+"lead_ret": 30.0,
+"second": "덕산하이메탈",
+"second_ret": 5.58
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 1.98,
+"up5": 3,
+"lead": "키다리스튜디오",
+"lead_ret": 13.11,
+"second": "엔키AX",
+"second_ret": 10.43
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.86,
+"up5": 1,
+"lead": "강동씨앤엘",
+"lead_ret": 29.94,
+"second": "아세아시멘트",
+"second_ret": 3.44
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 1.81,
+"up5": 9,
+"lead": "덕산테코피아",
+"lead_ret": 23.34,
+"second": "피노",
+"second_ret": 16.3
+},
+{
+"name": "LED",
+"n": 37,
+"avg": 1.8,
+"up5": 4,
+"lead": "우리이앤엘하루틴",
+"lead_ret": 29.95,
+"second": "금호전기",
+"second_ret": 16.85
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.78,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 6.06,
+"second": "심텍",
+"second_ret": 5.29
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 1.69,
+"up5": 1,
+"lead": "원준",
+"lead_ret": 5.36,
+"second": "코칩",
+"second_ret": 4.72
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.68,
+"up5": 3,
+"lead": "LK삼양",
+"lead_ret": 29.99,
+"second": "이노메트리",
+"second_ret": 11.72
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.99,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": -1.96,
+"second": "코나아이",
+"second_ret": -2.71
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": -2.49,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 2.95,
+"second": "비엠티",
+"second_ret": 0.95
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -2.47,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 0.44,
+"second": "POSCO홀딩스",
+"second_ret": 0.3
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.42,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 1.08,
+"second": "삼성물산",
+"second_ret": 0.4
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -2.34,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": -0.47,
+"second": "흥국화재",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "금호전기",
+"code": "001210",
+"ret": 16.85,
+"value": 3431,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 22.07,
+"value": 1152,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "레메디",
+"code": "387690",
+"ret": 14.2,
+"value": 826,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "원익",
+"code": "032940",
+"ret": 19.4,
+"value": 802,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 21.85,
+"value": 448,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

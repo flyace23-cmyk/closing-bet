@@ -1,0 +1,254 @@
+{
+"date": "20260212",
+"kospi": 3.13,
+"kosdaq": 1.0,
+"adv": 1346,
+"dec": 920,
+"flat": 133,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 434851,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "레이저쎌",
+"lead_ret": 29.89,
+"second": "원익IPS",
+"second_ret": 29.77
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "에스코넥",
+"lead_ret": 29.99,
+"second": "소프트센",
+"second_ret": 29.64
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "케이바이오랩스",
+"lead_ret": 29.97,
+"second": "지구홀딩스",
+"second_ret": 29.92
+}
+],
+"themes": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 5.94,
+"up5": 2,
+"lead": "태광산업",
+"lead_ret": 25.21,
+"second": "대한화섬",
+"second_ret": 5.26
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 5.54,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 16.13,
+"second": "엔투텍",
+"second_ret": 10.33
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.68,
+"up5": 3,
+"lead": "SK스퀘어",
+"lead_ret": 7.14,
+"second": "삼성전자",
+"second_ret": 6.44
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 4.15,
+"up5": 4,
+"lead": "서남",
+"lead_ret": 29.87,
+"second": "모비스",
+"second_ret": 15.82
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 3.98,
+"up5": 4,
+"lead": "현대비앤지스틸",
+"lead_ret": 15.12,
+"second": "에코프로머티",
+"second_ret": 9.91
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.51,
+"up5": 3,
+"lead": "JB금융지주",
+"lead_ret": 6.74,
+"second": "BNK금융지주",
+"second_ret": 5.93
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.4,
+"up5": 3,
+"lead": "태광산업",
+"lead_ret": 25.21,
+"second": "대한유화",
+"second_ret": 9.56
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.11,
+"up5": 3,
+"lead": "포스코인터내셔널",
+"lead_ret": 6.65,
+"second": "삼성물산",
+"second_ret": 5.53
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.06,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 16.13,
+"second": "유한양행",
+"second_ret": 0.18
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 2.95,
+"up5": 4,
+"lead": "대동금속",
+"lead_ret": 9.52,
+"second": "진성티이씨",
+"second_ret": 7.46
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.83,
+"up5": 1,
+"lead": "오리엔트정공",
+"lead_ret": 29.93,
+"second": "다산솔루에타",
+"second_ret": 4.95
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.82,
+"up5": 4,
+"lead": "한국금융지주",
+"lead_ret": 8.83,
+"second": "한양증권",
+"second_ret": 6.68
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -1.7,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 1.72,
+"second": "더핑크퐁컴퍼니",
+"second_ret": 1.55
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -1.68,
+"up5": 0,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 4.45,
+"second": "유니테스트",
+"second_ret": 0.25
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.42,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 3.32,
+"second": "롯데지주",
+"second_ret": 1.36
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -1.24,
+"up5": 1,
+"lead": "DI동일",
+"lead_ret": 7.78,
+"second": "방림",
+"second_ret": 1.48
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -1.16,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 7.51,
+"second": "라이콤",
+"second_ret": 4.93
+}
+],
+"leaders": [
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 10.28,
+"value": 14734,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "페니트리움바이오",
+"code": "187660",
+"ret": 30.0,
+"value": 3137,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 16.13,
+"value": 2059,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "파두",
+"code": "440110",
+"ret": 11.45,
+"value": 1779,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "모비스",
+"code": "250060",
+"ret": 15.82,
+"value": 1270,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

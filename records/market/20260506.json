@@ -1,0 +1,254 @@
+{
+"date": "20260506",
+"kospi": 6.45,
+"kosdaq": -0.29,
+"adv": 534,
+"dec": 1720,
+"flat": 150,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 756467,
+"hot": [
+{
+"name": "유리 기판",
+"n": 9,
+"lead": "SKC",
+"lead_ret": 30.0,
+"second": "HB테크놀러지",
+"second_ret": 29.89
+},
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "해성옵틱스",
+"lead_ret": 29.97,
+"second": "케스피온",
+"second_ret": 29.97
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 4,
+"lead": "루멘스바이오스",
+"lead_ret": 30.0,
+"second": "SKC",
+"second_ret": 30.0
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 13.34,
+"up5": 17,
+"lead": "SKC",
+"lead_ret": 30.0,
+"second": "HB테크놀러지",
+"second_ret": 29.89
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 10.68,
+"up5": 5,
+"lead": "삼성물산",
+"lead_ret": 17.34,
+"second": "삼성전자",
+"second_ret": 14.41
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 10.13,
+"up5": 3,
+"lead": "KBI메탈",
+"lead_ret": 29.86,
+"second": "가온전선",
+"second_ret": 27.21
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 9.29,
+"up5": 16,
+"lead": "유안타증권",
+"lead_ret": 29.85,
+"second": "미래에셋증권",
+"second_ret": 19.2
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 6.84,
+"up5": 8,
+"lead": "워트",
+"lead_ret": 29.94,
+"second": "케이엔솔",
+"second_ret": 16.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 6.29,
+"up5": 3,
+"lead": "삼성전자",
+"lead_ret": 14.41,
+"second": "SK하이닉스",
+"second_ret": 10.64
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 4.65,
+"up5": 6,
+"lead": "켐트로닉스",
+"lead_ret": 20.11,
+"second": "삼성전자",
+"second_ret": 14.41
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.65,
+"up5": 4,
+"lead": "삼성전자",
+"lead_ret": 14.41,
+"second": "SK하이닉스",
+"second_ret": 10.64
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 4.46,
+"up5": 4,
+"lead": "파워넷",
+"lead_ret": 29.97,
+"second": "삼성전자",
+"second_ret": 14.41
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 25,
+"avg": 4.45,
+"up5": 6,
+"lead": "SKC",
+"lead_ret": 30.0,
+"second": "루멘스바이오스",
+"second_ret": 30.0
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 4.35,
+"up5": 4,
+"lead": "루멘스바이오스",
+"lead_ret": 30.0,
+"second": "삼성전자",
+"second_ret": 14.41
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.99,
+"up5": 11,
+"lead": "키움증권",
+"lead_ret": 14.67,
+"second": "한화투자증권",
+"second_ret": 14.41
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -5.12,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -3.75,
+"second": "삼양패키징",
+"second_ret": -3.79
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.85,
+"up5": 0,
+"lead": "딥커머스",
+"lead_ret": 4.75,
+"second": "글로벌에스엠",
+"second_ret": 0.0
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -3.84,
+"up5": 0,
+"lead": "동방아그로",
+"lead_ret": -1.14,
+"second": "대동",
+"second_ret": -1.7
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": -3.79,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": -0.88,
+"second": "원텍",
+"second_ret": -0.96
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -3.79,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 5.07,
+"second": "한국주강",
+"second_ret": 0.91
+}
+],
+"leaders": [
+{
+"name": "삼성전자",
+"code": "005930",
+"ret": 14.41,
+"value": 141241,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 10.64,
+"value": 106177,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 14.0,
+"value": 20651,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 19.2,
+"value": 17322,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "한온시스템",
+"code": "018880",
+"ret": 11.55,
+"value": 7427,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+}
+],
+"backfilled": true
+}

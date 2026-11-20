@@ -1,0 +1,254 @@
+{
+"date": "20261028",
+"kospi": 6.63,
+"kosdaq": 3.69,
+"adv": 1591,
+"dec": 771,
+"flat": 60,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 273517,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 6,
+"lead": "지니언스",
+"lead_ret": 28.17,
+"second": "에스피소프트",
+"second_ret": 27.87
+},
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "멜콘",
+"lead_ret": 18.76,
+"second": "엑시콘",
+"second_ret": 17.24
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "엘티씨",
+"lead_ret": 20.15,
+"second": "해성디에스",
+"second_ret": 18.94
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 8.14,
+"up5": 6,
+"lead": "SK하이닉스",
+"lead_ret": 9.75,
+"second": "SK스퀘어",
+"second_ret": 9.35
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 7.99,
+"up5": 9,
+"lead": "티에프이",
+"lead_ret": 11.29,
+"second": "SK하이닉스",
+"second_ret": 9.75
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 7.3,
+"up5": 9,
+"lead": "엑시콘",
+"lead_ret": 17.24,
+"second": "오킨스전자",
+"second_ret": 11.52
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 7.18,
+"up5": 8,
+"lead": "빛과전자",
+"lead_ret": 20.89,
+"second": "빛샘전자",
+"second_ret": 18.66
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 6.69,
+"up5": 6,
+"lead": "아모텍",
+"lead_ret": 15.84,
+"second": "한켐",
+"second_ret": 15.41
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": 6.0,
+"up5": 22,
+"lead": "디아이",
+"lead_ret": 15.76,
+"second": "피에스케이홀딩스",
+"second_ret": 14.33
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 5.67,
+"up5": 21,
+"lead": "지니언스",
+"lead_ret": 28.17,
+"second": "에스피소프트",
+"second_ret": 27.87
+},
+{
+"name": "반도체 장비",
+"n": 95,
+"avg": 5.41,
+"up5": 51,
+"lead": "멜콘",
+"lead_ret": 18.76,
+"second": "엑시콘",
+"second_ret": 17.24
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 35,
+"avg": 5.21,
+"up5": 10,
+"lead": "케이아이엔엑스",
+"lead_ret": 30.07,
+"second": "에스피소프트",
+"second_ret": 27.87
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 5.14,
+"up5": 5,
+"lead": "에스피소프트",
+"lead_ret": 27.87,
+"second": "아이씨티케이",
+"second_ret": 17.25
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 5.06,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 9.75,
+"second": "삼성전자",
+"second_ret": 8.89
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 5.05,
+"up5": 11,
+"lead": "아이씨티케이",
+"lead_ret": 17.25,
+"second": "엑스게이트",
+"second_ret": 14.52
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.16,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 1.52,
+"second": "녹십자",
+"second_ret": 0.7
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -1.17,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.55,
+"second": "대한조선",
+"second_ret": 0.27
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -1.15,
+"up5": 2,
+"lead": "GST",
+"lead_ret": 6.6,
+"second": "한익스프레스",
+"second_ret": 5.54
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": -0.99,
+"up5": 1,
+"lead": "더코디",
+"lead_ret": 16.22,
+"second": "큐라클",
+"second_ret": 3.91
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.96,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 4.5,
+"second": "동원산업",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "멜콘",
+"code": "179880",
+"ret": 18.76,
+"value": 4526,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 15.43,
+"value": 1863,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 20.89,
+"value": 1621,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 17.85,
+"value": 1418,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 14.52,
+"value": 1188,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

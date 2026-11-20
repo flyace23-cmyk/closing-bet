@@ -1,0 +1,254 @@
+{
+"date": "20260513",
+"kospi": 2.63,
+"kosdaq": -0.2,
+"adv": 852,
+"dec": 1399,
+"flat": 154,
+"limit_up": 23,
+"limit_down": 0,
+"value_total": 642438,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "저스템",
+"lead_ret": 30.0,
+"second": "디바이스",
+"second_ret": 30.0
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "코스모로보틱스",
+"lead_ret": 29.97,
+"second": "TPC로보틱스",
+"second_ret": 29.91
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "디바이스",
+"lead_ret": 30.0,
+"second": "뉴파워프라즈마",
+"second_ret": 29.95
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 17.34,
+"up5": 4,
+"lead": "동양고속",
+"lead_ret": 29.88,
+"second": "천일고속",
+"second_ret": 29.79
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 7.35,
+"up5": 6,
+"lead": "레이저쎌",
+"lead_ret": 29.95,
+"second": "이오테크닉스",
+"second_ret": 12.03
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 6.46,
+"up5": 3,
+"lead": "한화갤러리아",
+"lead_ret": 30.0,
+"second": "신세계",
+"second_ret": 9.29
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 5.9,
+"up5": 2,
+"lead": "네패스아크",
+"lead_ret": 22.01,
+"second": "네패스",
+"second_ret": 6.76
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 5.77,
+"up5": 8,
+"lead": "동양고속",
+"lead_ret": 29.88,
+"second": "천일고속",
+"second_ret": 29.79
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.59,
+"up5": 4,
+"lead": "현대모비스",
+"lead_ret": 18.43,
+"second": "현대차",
+"second_ret": 9.91
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.57,
+"up5": 8,
+"lead": "대덕전자",
+"lead_ret": 11.64,
+"second": "티엘비",
+"second_ret": 11.3
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 4.77,
+"up5": 6,
+"lead": "현대모비스",
+"lead_ret": 18.43,
+"second": "DB하이텍",
+"second_ret": 11.94
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.47,
+"up5": 5,
+"lead": "대덕전자",
+"lead_ret": 11.64,
+"second": "티엘비",
+"second_ret": 11.3
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 4.29,
+"up5": 10,
+"lead": "네패스아크",
+"lead_ret": 22.01,
+"second": "대덕전자",
+"second_ret": 11.64
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 4.14,
+"up5": 2,
+"lead": "LG디스플레이",
+"lead_ret": 11.05,
+"second": "SK하이닉스",
+"second_ret": 7.68
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 3.96,
+"up5": 28,
+"lead": "저스템",
+"lead_ret": 30.0,
+"second": "디바이스",
+"second_ret": 30.0
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.68,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.66,
+"second": "강스템바이오텍",
+"second_ret": -1.55
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.59,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 3.78,
+"second": "LS",
+"second_ret": 1.37
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -3.18,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 3.01,
+"second": "원일티엔아이",
+"second_ret": -1.44
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": -3.08,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 3.78,
+"second": "지엔씨에너지",
+"second_ret": 1.43
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.01,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": -0.17,
+"second": "웹케시",
+"second_ret": -2.18
+}
+],
+"leaders": [
+{
+"name": "현대모비스",
+"code": "012330",
+"ret": 18.43,
+"value": 11359,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "현대오토에버",
+"code": "307950",
+"ret": 13.66,
+"value": 6136,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "LG디스플레이",
+"code": "034220",
+"ret": 11.05,
+"value": 5298,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "계양전기",
+"code": "012200",
+"ret": 12.64,
+"value": 4894,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 12.59,
+"value": 4330,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

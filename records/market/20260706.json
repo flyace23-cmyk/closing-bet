@@ -1,0 +1,254 @@
+{
+"date": "20260706",
+"kospi": -0.46,
+"kosdaq": -2.46,
+"adv": 1028,
+"dec": 1285,
+"flat": 97,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 359233,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 7,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "일성건설",
+"second_ret": 29.74
+},
+{
+"name": "여름",
+"n": 4,
+"lead": "파세코",
+"lead_ret": 29.87,
+"second": "위닉스",
+"second_ret": 15.04
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "금호전기",
+"lead_ret": 29.96,
+"second": "에스폴리텍",
+"second_ret": 13.96
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 7.68,
+"up5": 11,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "대원",
+"second_ret": 29.77
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 6.51,
+"up5": 3,
+"lead": "파세코",
+"lead_ret": 29.87,
+"second": "위닉스",
+"second_ret": 15.04
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.4,
+"up5": 1,
+"lead": "금호타이어",
+"lead_ret": 29.96,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 4.75
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.36,
+"up5": 1,
+"lead": "광주신세계",
+"lead_ret": 29.82,
+"second": "롯데쇼핑",
+"second_ret": 3.35
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 4.33,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 12.03,
+"second": "한성기업",
+"second_ret": 9.57
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.95,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 29.88,
+"second": "졸스",
+"second_ret": 9.34
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 3.12,
+"up5": 5,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "남광토건",
+"second_ret": 27.47
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.03,
+"up5": 3,
+"lead": "유진기업",
+"lead_ret": 8.62,
+"second": "HC보광산업",
+"second_ret": 7.73
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.87,
+"up5": 1,
+"lead": "GS건설",
+"lead_ret": 7.18,
+"second": "IPARK현대산업개발",
+"second_ret": 4.5
+},
+{
+"name": "리모델링/인테리어",
+"n": 24,
+"avg": 2.81,
+"up5": 3,
+"lead": "파세코",
+"lead_ret": 29.87,
+"second": "조이웍스앤코",
+"second_ret": 10.93
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.66,
+"up5": 3,
+"lead": "와이지-원",
+"lead_ret": 18.14,
+"second": "화천기공",
+"second_ret": 7.96
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.54,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 9.57,
+"second": "사조산업",
+"second_ret": 6.18
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -6.27,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 2.94,
+"second": "LG이노텍",
+"second_ret": -1.95
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -5.64,
+"up5": 1,
+"lead": "범한퓨얼셀",
+"lead_ret": 14.82,
+"second": "SFA",
+"second_ret": -2.16
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.87,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 2.75,
+"second": "LB인베스트먼트",
+"second_ret": 1.86
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.59,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": 1.91,
+"second": "지아이에스",
+"second_ret": -1.96
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": -3.28,
+"up5": 1,
+"lead": "우리바이오",
+"lead_ret": 9.2,
+"second": "태성",
+"second_ret": 2.94
+}
+],
+"leaders": [
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 30.0,
+"value": 2487,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "마키나락스",
+"code": "477850",
+"ret": 29.91,
+"value": 2006,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "와이지-원",
+"code": "019210",
+"ret": 18.14,
+"value": 823,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "파세코",
+"code": "037070",
+"ret": 29.87,
+"value": 734,
+"theme": "여름",
+"reason": "테마: 여름"
+},
+{
+"name": "남화토건",
+"code": "091590",
+"ret": 11.68,
+"value": 703,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

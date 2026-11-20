@@ -1,0 +1,254 @@
+{
+"date": "20260203",
+"kospi": 6.84,
+"kosdaq": 4.19,
+"adv": 2014,
+"dec": 317,
+"flat": 68,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 440179,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 5,
+"lead": "전진건설로봇",
+"lead_ret": 29.96,
+"second": "HD건설기계",
+"second_ret": 26.65
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "아이로보틱스",
+"lead_ret": 22.74,
+"second": "TPC로보틱스",
+"second_ret": 22.0
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 3,
+"lead": "미래에셋벤처투자",
+"lead_ret": 30.0,
+"second": "미래에셋증권",
+"second_ret": 24.72
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 16,
+"avg": 10.75,
+"up5": 12,
+"lead": "전진건설로봇",
+"lead_ret": 29.96,
+"second": "HD건설기계",
+"second_ret": 26.65
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 10.71,
+"up5": 10,
+"lead": "미래에셋벤처투자",
+"lead_ret": 30.0,
+"second": "미래에셋증권",
+"second_ret": 24.72
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 8.81,
+"up5": 8,
+"lead": "파두",
+"lead_ret": 29.88,
+"second": "네오셈",
+"second_ret": 27.08
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 8.42,
+"up5": 18,
+"lead": "미래에셋증권",
+"lead_ret": 24.72,
+"second": "한화투자증권",
+"second_ret": 12.73
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 8.33,
+"up5": 27,
+"lead": "전진건설로봇",
+"lead_ret": 29.96,
+"second": "HD건설기계",
+"second_ret": 26.65
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 8.29,
+"up5": 5,
+"lead": "삼성전자",
+"lead_ret": 11.37,
+"second": "SK하이닉스",
+"second_ret": 9.28
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 8.23,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 14.19,
+"second": "한화투자증권",
+"second_ret": 12.73
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 7.58,
+"up5": 6,
+"lead": "대한전선",
+"lead_ret": 15.57,
+"second": "일진전기",
+"second_ret": 9.76
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 7.2,
+"up5": 3,
+"lead": "인콘",
+"lead_ret": 30.01,
+"second": "한화비전",
+"second_ret": 12.3
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 7.06,
+"up5": 21,
+"lead": "LK삼양",
+"lead_ret": 29.95,
+"second": "한화시스템",
+"second_ret": 28.63
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 6.83,
+"up5": 5,
+"lead": "엔알비",
+"lead_ret": 12.42,
+"second": "한신공영",
+"second_ret": 10.5
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.61,
+"up5": 5,
+"lead": "현대건설",
+"lead_ret": 9.92,
+"second": "삼성물산",
+"second_ret": 8.25
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 0.39,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 2.55,
+"second": "CJ씨푸드",
+"second_ret": 1.45
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 0.46,
+"up5": 0,
+"lead": "무학",
+"lead_ret": 3.46,
+"second": "한국알콜",
+"second_ret": 2.14
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 0.47,
+"up5": 0,
+"lead": "애니플러스",
+"lead_ret": 2.58,
+"second": "콘텐트리중앙",
+"second_ret": 2.02
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 0.52,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 2.73,
+"second": "오가닉티코스메틱",
+"second_ret": 2.24
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 0.57,
+"up5": 0,
+"lead": "위더스제약",
+"lead_ret": 2.92,
+"second": "광동제약",
+"second_ret": 1.69
+}
+],
+"leaders": [
+{
+"name": "삼성전자",
+"code": "005930",
+"ret": 11.37,
+"value": 61187,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 28.63,
+"value": 16939,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 24.72,
+"value": 9515,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 15.57,
+"value": 4807,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 30.0,
+"value": 3449,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260811",
+"kospi": 0.73,
+"kosdaq": 0.39,
+"adv": 1542,
+"dec": 741,
+"flat": 129,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 282061,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "다이나믹솔루션",
+"lead_ret": 24.07,
+"second": "씨이랩",
+"second_ret": 22.23
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "위메이드맥스",
+"lead_ret": 29.88,
+"second": "NHN",
+"second_ret": 29.82
+},
+{
+"name": "태양광에너지",
+"n": 3,
+"lead": "에스에너지",
+"lead_ret": 20.32,
+"second": "혜인",
+"second_ret": 19.39
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 5.25,
+"up5": 6,
+"lead": "금호건설",
+"lead_ret": 29.98,
+"second": "남화토건",
+"second_ret": 29.98
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 4.59,
+"up5": 4,
+"lead": "위메이드맥스",
+"lead_ret": 29.88,
+"second": "NHN",
+"second_ret": 29.82
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 4.38,
+"up5": 4,
+"lead": "서산",
+"lead_ret": 29.86,
+"second": "강동씨앤엘",
+"second_ret": 16.52
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 4.32,
+"up5": 5,
+"lead": "위메이드맥스",
+"lead_ret": 29.88,
+"second": "NHN",
+"second_ret": 29.82
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 4.03,
+"up5": 2,
+"lead": "코칩",
+"lead_ret": 29.7,
+"second": "한켐",
+"second_ret": 8.73
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.93,
+"up5": 4,
+"lead": "아이텍",
+"lead_ret": 23.91,
+"second": "대한과학",
+"second_ret": 7.63
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.83,
+"up5": 4,
+"lead": "오킨스전자",
+"lead_ret": 13.48,
+"second": "대교",
+"second_ret": 11.65
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 3.58,
+"up5": 3,
+"lead": "에이루트",
+"lead_ret": 24.34,
+"second": "시지트로닉스",
+"second_ret": 9.89
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.55,
+"up5": 3,
+"lead": "예스티",
+"lead_ret": 14.09,
+"second": "주성엔지니어링",
+"second_ret": 12.15
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.22,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 9.53,
+"second": "서한",
+"second_ret": 3.71
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.99,
+"up5": 1,
+"lead": "NHN",
+"lead_ret": 29.82,
+"second": "NHN KCP",
+"second_ret": 4.17
+},
+{
+"name": "화장품",
+"n": 93,
+"avg": 2.97,
+"up5": 19,
+"lead": "본느",
+"lead_ret": 30.0,
+"second": "오가닉티코스메틱",
+"second_ret": 15.86
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -3.1,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": -0.2,
+"second": "HD한국조선해양",
+"second_ret": -1.49
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -2.77,
+"up5": 0,
+"lead": "한국첨단소재",
+"lead_ret": 2.16,
+"second": "자람테크놀로지",
+"second_ret": 0.0
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.95,
+"up5": 0,
+"lead": "금호타이어",
+"lead_ret": 2.04,
+"second": "금호석유화학",
+"second_ret": 1.84
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.31,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 0.47,
+"second": "가온전선",
+"second_ret": 0.45
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.05,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 1.18,
+"second": "BGF리테일",
+"second_ret": -0.33
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 12.15,
+"value": 5342,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 29.98,
+"value": 1545,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "본느",
+"code": "226340",
+"ret": 30.0,
+"value": 1245,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "코스메카코리아",
+"code": "241710",
+"ret": 15.16,
+"value": 877,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "비에이치",
+"code": "090460",
+"ret": 16.83,
+"value": 833,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+}
+],
+"backfilled": true
+}

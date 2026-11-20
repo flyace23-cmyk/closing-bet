@@ -1,0 +1,254 @@
+{
+"date": "20260908",
+"kospi": -0.58,
+"kosdaq": -1.25,
+"adv": 662,
+"dec": 1624,
+"flat": 132,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 325473,
+"hot": [
+{
+"name": "원자력발전",
+"n": 6,
+"lead": "오르비텍",
+"lead_ret": 29.83,
+"second": "서전기전",
+"second_ret": 29.8
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "에스엠벡셀",
+"lead_ret": 23.53,
+"second": "덕산테코피아",
+"second_ret": 13.27
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "한빛레이저",
+"lead_ret": 10.7,
+"second": "하이젠알앤엠",
+"second_ret": 8.49
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 4.74,
+"up5": 4,
+"lead": "오르비텍",
+"lead_ret": 29.83,
+"second": "한전기술",
+"second_ret": 16.6
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 3.18,
+"up5": 11,
+"lead": "오르비텍",
+"lead_ret": 29.83,
+"second": "서전기전",
+"second_ret": 29.8
+},
+{
+"name": "항공기부품",
+"n": 15,
+"avg": 3.05,
+"up5": 3,
+"lead": "오르비텍",
+"lead_ret": 29.83,
+"second": "솔디펜스",
+"second_ret": 10.15
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 2.4,
+"up5": 2,
+"lead": "빛과전자",
+"lead_ret": 30.0,
+"second": "한국첨단소재",
+"second_ret": 5.54
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.1,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 8.47,
+"second": "현대건설",
+"second_ret": 3.55
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 19,
+"avg": 1.86,
+"up5": 2,
+"lead": "서전기전",
+"lead_ret": 29.8,
+"second": "유엔젤",
+"second_ret": 6.22
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 1.64,
+"up5": 3,
+"lead": "현대약품",
+"lead_ret": 23.99,
+"second": "JW신약",
+"second_ret": 8.66
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 9,
+"avg": 1.64,
+"up5": 2,
+"lead": "레몬헬스케어",
+"lead_ret": 7.86,
+"second": "니어스랩",
+"second_ret": 7.73
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.59,
+"up5": 2,
+"lead": "제주항공",
+"lead_ret": 7.46,
+"second": "진에어",
+"second_ret": 5.18
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.49,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 4.9,
+"second": "현대백화점",
+"second_ret": 2.87
+},
+{
+"name": "2026 상반기 신규상장",
+"n": 12,
+"avg": 1.4,
+"up5": 2,
+"lead": "스트라드비젼",
+"lead_ret": 19.22,
+"second": "아이엠바이오로직스",
+"second_ret": 5.84
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.36,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 4.89,
+"second": "성광벤드",
+"second_ret": 3.83
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.55,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": -1.29,
+"second": "아바텍",
+"second_ret": -1.89
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": -3.3,
+"up5": 0,
+"lead": "위츠",
+"lead_ret": 0.62,
+"second": "삼성전자",
+"second_ret": -0.19
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -3.28,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 1.37,
+"second": "조이시티",
+"second_ret": 0.79
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.92,
+"up5": 0,
+"lead": "현대차",
+"lead_ret": -2.04,
+"second": "KG모빌리티",
+"second_ret": -2.2
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.83,
+"up5": 0,
+"lead": "인포바인",
+"lead_ret": 1.4,
+"second": "인포뱅크",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 23.99,
+"value": 3366,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 16.6,
+"value": 3193,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "서산",
+"code": "079650",
+"ret": 14.46,
+"value": 1577,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 30.0,
+"value": 1522,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "광전자",
+"code": "017900",
+"ret": 15.37,
+"value": 1187,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+}
+],
+"backfilled": true
+}

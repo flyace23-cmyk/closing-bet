@@ -1,0 +1,246 @@
+{
+"date": "20260311",
+"kospi": 1.4,
+"kosdaq": -0.07,
+"adv": 1661,
+"dec": 649,
+"flat": 91,
+"limit_up": 16,
+"limit_down": 0,
+"value_total": 408943,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 14,
+"lead": "이루온",
+"lead_ret": 30.0,
+"second": "에치에프알",
+"second_ret": 29.97
+},
+{
+"name": "드론(Drone)",
+"n": 3,
+"lead": "기산텔레콤",
+"lead_ret": 29.88,
+"second": "덕산하이메탈",
+"second_ret": 16.26
+}
+],
+"themes": [
+{
+"name": "통신장비",
+"n": 46,
+"avg": 12.39,
+"up5": 36,
+"lead": "에치에프알",
+"lead_ret": 29.97,
+"second": "쏠리드",
+"second_ret": 29.97
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 11.13,
+"up5": 12,
+"lead": "대한광통신",
+"lead_ret": 29.95,
+"second": "자람테크놀로지",
+"second_ret": 25.51
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 10.18,
+"up5": 33,
+"lead": "이루온",
+"lead_ret": 30.0,
+"second": "에치에프알",
+"second_ret": 29.97
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 7.52,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 19.26,
+"second": "한화생명",
+"second_ret": 8.74
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 7.14,
+"up5": 7,
+"lead": "센서뷰",
+"lead_ret": 24.51,
+"second": "아주IB투자",
+"second_ret": 19.26
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 5.86,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 25.51,
+"second": "오픈엣지테크놀로지",
+"second_ret": 10.66
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 5.27,
+"up5": 7,
+"lead": "삼표시멘트",
+"lead_ret": 29.94,
+"second": "SG세계물산",
+"second_ret": 11.85
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.23,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 30.0,
+"second": "유비벨록스",
+"second_ret": 1.57
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 5.15,
+"up5": 3,
+"lead": "아모센스",
+"lead_ret": 29.77,
+"second": "웰킵스하이텍",
+"second_ret": 10.12
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 5.0,
+"up5": 2,
+"lead": "코오롱인더",
+"lead_ret": 16.34,
+"second": "효성티앤씨",
+"second_ret": 9.09
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.75,
+"up5": 1,
+"lead": "롯데정밀화학",
+"lead_ret": 7.58,
+"second": "유니온머티리얼",
+"second_ret": 4.98
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 4.67,
+"up5": 7,
+"lead": "쏠리드",
+"lead_ret": 29.97,
+"second": "한울소재과학",
+"second_ret": 17.62
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -1.52,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.48,
+"second": "대한해운",
+"second_ret": 0.23
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -1.18,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 1.59,
+"second": "이월드",
+"second_ret": 0.06
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.65,
+"up5": 0,
+"lead": "INVENI",
+"lead_ret": 2.28,
+"second": "인천도시가스",
+"second_ret": 0.94
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -0.63,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 3.33,
+"second": "미래산업",
+"second_ret": 1.55
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": -0.57,
+"up5": 0,
+"lead": "그래피",
+"lead_ret": 4.97,
+"second": "덴티움",
+"second_ret": 2.82
+}
+],
+"leaders": [
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 10.53,
+"value": 8682,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 29.95,
+"value": 4794,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 12.26,
+"value": 4062,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "쏠리드",
+"code": "050890",
+"ret": 29.97,
+"value": 3828,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 29.94,
+"value": 3778,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,222 @@
+{
+"date": "20261020",
+"kospi": -3.73,
+"kosdaq": -3.33,
+"adv": 346,
+"dec": 2010,
+"flat": 66,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 206291,
+"hot": [
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 5,
+"lead": "오리온",
+"lead_ret": 2.92,
+"second": "동서",
+"second_ret": 2.91
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "삼익제약",
+"lead_ret": 3.29,
+"second": "현대약품",
+"second_ret": 2.17
+}
+],
+"themes": [
+{
+"name": "영상콘텐츠",
+"n": 30,
+"avg": 0.71,
+"up5": 2,
+"lead": "에스팀",
+"lead_ret": 29.52,
+"second": "자이언트스텝",
+"second_ret": 27.46
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": 0.7,
+"up5": 2,
+"lead": "에스팀",
+"lead_ret": 29.52,
+"second": "티엔엔터테인먼트",
+"second_ret": 22.45
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -0.36,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 13.77,
+"second": "KG파이낸셜",
+"second_ret": -0.87
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -0.38,
+"up5": 0,
+"lead": "콘텐트리중앙",
+"lead_ret": 1.27,
+"second": "아시아경제",
+"second_ret": 1.22
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -0.42,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 2.48,
+"second": "롯데손해보험",
+"second_ret": 1.21
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.56,
+"up5": 0,
+"lead": "하이트진로",
+"lead_ret": 0.88,
+"second": "SOOP",
+"second_ret": 0.51
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.73,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 1.89,
+"second": "BGF리테일",
+"second_ret": 0.82
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.73,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 0.7,
+"second": "사조씨푸드",
+"second_ret": 0.31
+},
+{
+"name": "은행",
+"n": 11,
+"avg": -0.74,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 0.94,
+"second": "우리금융지주",
+"second_ret": 0.79
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.75,
+"up5": 0,
+"lead": "엑세스바이오",
+"lead_ret": 2.23,
+"second": "멕아이씨에스",
+"second_ret": 1.1
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -0.81,
+"up5": 1,
+"lead": "나라셀라",
+"lead_ret": 5.55,
+"second": "하이트진로",
+"second_ret": 0.88
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": -1.0,
+"up5": 1,
+"lead": "비비안",
+"lead_ret": 8.61,
+"second": "아가방컴퍼니",
+"second_ret": 2.52
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -10.26,
+"up5": 0,
+"lead": "대원전선",
+"lead_ret": -7.52,
+"second": "KBI메탈",
+"second_ret": -8.39
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -8.48,
+"up5": 0,
+"lead": "서울바이오시스",
+"lead_ret": -6.34,
+"second": "한국첨단소재",
+"second_ret": -6.36
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": -7.48,
+"up5": 0,
+"lead": "예스티",
+"lead_ret": 1.66,
+"second": "큐알티",
+"second_ret": -1.32
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -7.47,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": -3.97,
+"second": "나인테크",
+"second_ret": -4.19
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -7.46,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -6.16,
+"second": "삼성중공업",
+"second_ret": -6.26
+}
+],
+"leaders": [
+{
+"name": "양지사",
+"code": "030960",
+"ret": 15.38,
+"value": 667,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "플리토",
+"code": "300080",
+"ret": 29.99,
+"value": 138,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

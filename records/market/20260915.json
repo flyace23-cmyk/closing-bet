@@ -1,0 +1,254 @@
+{
+"date": "20260915",
+"kospi": -0.85,
+"kosdaq": 0.7,
+"adv": 1155,
+"dec": 1164,
+"flat": 99,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 226928,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 10,
+"lead": "삼현",
+"lead_ret": 33.08,
+"second": "하이젠알앤엠",
+"second_ret": 27.11
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 4,
+"lead": "SFA",
+"lead_ret": 15.9,
+"second": "두산퓨얼셀",
+"second_ret": 11.85
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "코닉오토메이션",
+"lead_ret": 18.44,
+"second": "SFA",
+"second_ret": 15.9
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 5.37,
+"up5": 7,
+"lead": "아이티센피엔에스",
+"lead_ret": 32.67,
+"second": "한컴위드",
+"second_ret": 32.24
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.99,
+"up5": 6,
+"lead": "미투온",
+"lead_ret": 34.11,
+"second": "아이티센피엔에스",
+"second_ret": 32.67
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 73,
+"avg": 4.9,
+"up5": 24,
+"lead": "삼현",
+"lead_ret": 33.08,
+"second": "하이젠알앤엠",
+"second_ret": 27.11
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.87,
+"up5": 4,
+"lead": "SFA",
+"lead_ret": 15.9,
+"second": "두산퓨얼셀",
+"second_ret": 11.85
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 4.5,
+"up5": 13,
+"lead": "삼현",
+"lead_ret": 33.08,
+"second": "케이엔알시스템",
+"second_ret": 23.64
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.73,
+"up5": 2,
+"lead": "메가터치",
+"lead_ret": 5.76,
+"second": "디아이씨",
+"second_ret": 5.08
+},
+{
+"name": "핀테크(FinTech)",
+"n": 33,
+"avg": 3.38,
+"up5": 6,
+"lead": "아이티센피엔에스",
+"lead_ret": 32.67,
+"second": "한컴위드",
+"second_ret": 32.24
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 3.35,
+"up5": 1,
+"lead": "SFA",
+"lead_ret": 15.9,
+"second": "삼화콘덴서",
+"second_ret": 4.65
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 3.19,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 19.66,
+"second": "LG전자",
+"second_ret": 3.64
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.17,
+"up5": 3,
+"lead": "DL이앤씨",
+"lead_ret": 5.73,
+"second": "GS건설",
+"second_ret": 5.39
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 3.0,
+"up5": 4,
+"lead": "아이티센피엔에스",
+"lead_ret": 32.67,
+"second": "드림텍",
+"second_ret": 8.36
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.96,
+"up5": 2,
+"lead": "케이엔알시스템",
+"lead_ret": 23.64,
+"second": "한전기술",
+"second_ret": 10.27
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -3.38,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": -0.32,
+"second": "한화오션",
+"second_ret": -2.46
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.46,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -1.1,
+"second": "STX그린로지스",
+"second_ret": -1.56
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.28,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 0.19,
+"second": "CJ씨푸드",
+"second_ret": -1.46
+},
+{
+"name": "보안주(물리)",
+"n": 20,
+"avg": -2.12,
+"up5": 1,
+"lead": "이랜시스",
+"lead_ret": 6.81,
+"second": "싸이버원",
+"second_ret": 2.5
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.01,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -0.21,
+"second": "미래생명자원",
+"second_ret": -1.33
+}
+],
+"leaders": [
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 21.55,
+"value": 2585,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 20.46,
+"value": 2429,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 10.27,
+"value": 2062,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 19.66,
+"value": 1771,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 15.95,
+"value": 1530,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

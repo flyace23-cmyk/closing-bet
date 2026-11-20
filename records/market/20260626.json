@@ -1,0 +1,254 @@
+{
+"date": "20260626",
+"kospi": -5.81,
+"kosdaq": -4.1,
+"adv": 284,
+"dec": 2058,
+"flat": 66,
+"limit_up": 9,
+"limit_down": 1,
+"value_total": 600985,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "티이엠씨씨엔에스",
+"lead_ret": 30.0,
+"second": "테스",
+"second_ret": 10.36
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "남화토건",
+"second_ret": 29.96
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 3,
+"lead": "동양파일",
+"lead_ret": 29.91,
+"second": "삼일씨엔에스",
+"second_ret": 14.79
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.91,
+"up5": 1,
+"lead": "광주신세계",
+"lead_ret": 29.98,
+"second": "현대백화점",
+"second_ret": 2.56
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 1.5,
+"up5": 5,
+"lead": "금호건설",
+"lead_ret": 30.0,
+"second": "남화토건",
+"second_ret": 29.96
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 0.53,
+"up5": 2,
+"lead": "광주신세계",
+"lead_ret": 29.98,
+"second": "청담글로벌",
+"second_ret": 5.97
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 0.51,
+"up5": 1,
+"lead": "남화산업",
+"lead_ret": 29.97,
+"second": "브이씨",
+"second_ret": 3.92
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 19,
+"avg": -0.28,
+"up5": 3,
+"lead": "동양파일",
+"lead_ret": 29.91,
+"second": "삼일씨엔에스",
+"second_ret": 14.79
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -0.33,
+"up5": 1,
+"lead": "크리스탈신소재",
+"lead_ret": 18.81,
+"second": "엑사이엔씨",
+"second_ret": 4.35
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.6,
+"up5": 0,
+"lead": "사조오양",
+"lead_ret": 0.39,
+"second": "신라교역",
+"second_ret": 0.23
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -0.71,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 7.57,
+"second": "조비",
+"second_ret": 1.29
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.92,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 0.89,
+"second": "서울가스",
+"second_ret": 0.38
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -0.98,
+"up5": 0,
+"lead": "마니커",
+"lead_ret": 4.84,
+"second": "우진비앤지",
+"second_ret": 1.09
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.01,
+"up5": 1,
+"lead": "금호타이어",
+"lead_ret": 11.38,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 3.51
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -1.21,
+"up5": 1,
+"lead": "일신방직",
+"lead_ret": 13.16,
+"second": "세이브존I&C",
+"second_ret": 0.23
+}
+],
+"themes_worst": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -7.95,
+"up5": 0,
+"lead": "미코",
+"lead_ret": -2.14,
+"second": "엘티씨",
+"second_ret": -2.62
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -6.92,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 3.67,
+"second": "삼성전기",
+"second_ret": -0.2
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -6.69,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 0.52,
+"second": "서울바이오시스",
+"second_ret": -4.49
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -6.63,
+"up5": 0,
+"lead": "DB하이텍",
+"lead_ret": 0.19,
+"second": "인포뱅크",
+"second_ret": 0.0
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -6.6,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": -1.56,
+"second": "한전KPS",
+"second_ret": -2.87
+}
+],
+"leaders": [
+{
+"name": "피에스케이",
+"code": "319660",
+"ret": 10.32,
+"value": 1805,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "테스",
+"code": "095610",
+"ret": 10.36,
+"value": 1673,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "광주신세계",
+"code": "037710",
+"ret": 29.98,
+"value": 1511,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+},
+{
+"name": "금호타이어",
+"code": "073240",
+"ret": 11.38,
+"value": 1096,
+"theme": "타이어",
+"reason": "테마: 타이어"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 10.22,
+"value": 731,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260210",
+"kospi": 0.07,
+"kosdaq": -1.1,
+"adv": 1514,
+"dec": 794,
+"flat": 91,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 341444,
+"hot": [
+{
+"name": "퓨리오사AI",
+"n": 5,
+"lead": "엑스페릭스",
+"lead_ret": 29.98,
+"second": "포바이포",
+"second_ret": 29.94
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "웰킵스하이텍",
+"lead_ret": 29.91,
+"second": "아이컴포넌트",
+"second_ret": 22.76
+},
+{
+"name": "창투사",
+"n": 4,
+"lead": "GMI벤처",
+"lead_ret": 29.98,
+"second": "DSC인베스트먼트",
+"second_ret": 29.94
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 17.68,
+"up5": 9,
+"lead": "엑스페릭스",
+"lead_ret": 29.98,
+"second": "포바이포",
+"second_ret": 29.94
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 8.65,
+"up5": 9,
+"lead": "GMI벤처",
+"lead_ret": 29.98,
+"second": "DSC인베스트먼트",
+"second_ret": 29.94
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 7.35,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 29.94,
+"second": "TS인베스트먼트",
+"second_ret": 29.93
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.18,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 22.36,
+"second": "IPARK현대산업개발",
+"second_ret": 7.53
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 6.15,
+"up5": 3,
+"lead": "롯데쇼핑",
+"lead_ret": 14.88,
+"second": "현대백화점",
+"second_ret": 7.66
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 5.86,
+"up5": 3,
+"lead": "신대양제지",
+"lead_ret": 26.98,
+"second": "아세아제지",
+"second_ret": 12.64
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 5.57,
+"up5": 3,
+"lead": "포바이포",
+"lead_ret": 29.94,
+"second": "롯데쇼핑",
+"second_ret": 14.88
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 5.41,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 29.94,
+"second": "TS인베스트먼트",
+"second_ret": 29.93
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 5.18,
+"up5": 1,
+"lead": "SP삼화",
+"lead_ret": 30.0,
+"second": "조광페인트",
+"second_ret": 3.05
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 4.64,
+"up5": 8,
+"lead": "롯데쇼핑",
+"lead_ret": 14.88,
+"second": "이마트",
+"second_ret": 9.5
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.41,
+"up5": 3,
+"lead": "한화손해보험",
+"lead_ret": 14.26,
+"second": "현대해상",
+"second_ret": 6.98
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.05,
+"up5": 2,
+"lead": "이마트",
+"lead_ret": 9.5,
+"second": "GS리테일",
+"second_ret": 6.43
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -2.67,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 5.84,
+"second": "코콤",
+"second_ret": 0.73
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -2.17,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 4.83,
+"second": "메카로",
+"second_ret": 0.4
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.06,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 3.65,
+"second": "대교",
+"second_ret": 1.4
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": -2.04,
+"up5": 1,
+"lead": "에스엠벡셀",
+"lead_ret": 5.05,
+"second": "대한항공",
+"second_ret": 3.1
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": -1.91,
+"up5": 6,
+"lead": "레이저쎌",
+"lead_ret": 17.38,
+"second": "티에프이",
+"second_ret": 11.15
+}
+],
+"leaders": [
+{
+"name": "한온시스템",
+"code": "018880",
+"ret": 17.94,
+"value": 5711,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 21.7,
+"value": 3803,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 22.36,
+"value": 3620,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 16.0,
+"value": 2860,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "나인테크",
+"code": "267320",
+"ret": 18.55,
+"value": 1319,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

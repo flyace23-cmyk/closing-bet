@@ -1,0 +1,254 @@
+{
+"date": "20260319",
+"kospi": -2.73,
+"kosdaq": -1.79,
+"adv": 570,
+"dec": 1751,
+"flat": 80,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 335759,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "우리로",
+"lead_ret": 29.91,
+"second": "빛과전자",
+"second_ret": 14.22
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "SK이터닉스",
+"lead_ret": 26.06,
+"second": "그리드위즈",
+"second_ret": 14.57
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "SK이터닉스",
+"lead_ret": 26.06,
+"second": "대창솔루션",
+"second_ret": 19.54
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.86,
+"up5": 4,
+"lead": "엠케이전자",
+"lead_ret": 22.56,
+"second": "티엘비",
+"second_ret": 12.24
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.8,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 19.68,
+"second": "대성에너지",
+"second_ret": 11.46
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.78,
+"up5": 2,
+"lead": "앤씨앤",
+"lead_ret": 29.86,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.63
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 3.24,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.86,
+"second": "한화비전",
+"second_ret": 3.93
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.11,
+"up5": 3,
+"lead": "인텍플러스",
+"lead_ret": 13.32,
+"second": "티엘비",
+"second_ret": 12.24
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.56,
+"up5": 1,
+"lead": "SK가스",
+"lead_ret": 7.79,
+"second": "흥구석유",
+"second_ret": 4.49
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.56,
+"up5": 1,
+"lead": "SK가스",
+"lead_ret": 7.79,
+"second": "흥구석유",
+"second_ret": 4.49
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 1.47,
+"up5": 2,
+"lead": "SK이터닉스",
+"lead_ret": 26.06,
+"second": "엘티씨",
+"second_ret": 13.86
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.4,
+"up5": 1,
+"lead": "세중",
+"lead_ret": 23.25,
+"second": "롯데관광개발",
+"second_ret": 0.48
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 1.34,
+"up5": 2,
+"lead": "한네트",
+"lead_ret": 8.84,
+"second": "로지시스",
+"second_ret": 5.15
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 1.27,
+"up5": 7,
+"lead": "우리로",
+"lead_ret": 29.91,
+"second": "빛과전자",
+"second_ret": 14.22
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 1.19,
+"up5": 3,
+"lead": "대창솔루션",
+"lead_ret": 19.54,
+"second": "오르비텍",
+"second_ret": 10.69
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.86,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": -2.57,
+"second": "기아",
+"second_ret": -2.63
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -3.82,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": -0.91,
+"second": "토마토시스템",
+"second_ret": -1.65
+},
+{
+"name": "게임",
+"n": 30,
+"avg": -3.39,
+"up5": 0,
+"lead": "네오리진",
+"lead_ret": 2.07,
+"second": "카카오게임즈",
+"second_ret": 1.55
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": -3.31,
+"up5": 0,
+"lead": "네오리진",
+"lead_ret": 2.07,
+"second": "카카오게임즈",
+"second_ret": 1.55
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -3.2,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 3.01,
+"second": "코오롱인더",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "SK증권",
+"code": "001510",
+"ret": 15.94,
+"value": 7944,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 26.06,
+"value": 7856,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "메지온",
+"code": "140410",
+"ret": 13.81,
+"value": 3101,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "오르비텍",
+"code": "046120",
+"ret": 10.69,
+"value": 1559,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 11.46,
+"value": 1369,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260813",
+"kospi": 3.56,
+"kosdaq": 0.29,
+"adv": 859,
+"dec": 1417,
+"flat": 137,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 403616,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "한라캐스트",
+"lead_ret": 21.28,
+"second": "씨이랩",
+"second_ret": 14.35
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "미래산업",
+"lead_ret": 19.37,
+"second": "이노테크",
+"second_ret": 14.83
+},
+{
+"name": "카메라모듈/부품",
+"n": 3,
+"lead": "삼성전기",
+"lead_ret": 12.58,
+"second": "자화전자",
+"second_ret": 11.42
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 7.97,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 29.89,
+"second": "한화생명",
+"second_ret": 7.02
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.16,
+"up5": 3,
+"lead": "삼성전기",
+"lead_ret": 12.58,
+"second": "SK스퀘어",
+"second_ret": 9.08
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 4.43,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 17.39,
+"second": "일진파워",
+"second_ret": 3.98
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.39,
+"up5": 4,
+"lead": "티에프이",
+"lead_ret": 11.24,
+"second": "ISC",
+"second_ret": 7.1
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 4.3,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 29.89,
+"second": "미래에셋벤처투자",
+"second_ret": 8.39
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 3.87,
+"up5": 6,
+"lead": "범한퓨얼셀",
+"lead_ret": 12.26,
+"second": "비나텍",
+"second_ret": 9.1
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 3.7,
+"up5": 4,
+"lead": "지투파워",
+"lead_ret": 29.89,
+"second": "삼화콘덴서",
+"second_ret": 17.39
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.98,
+"up5": 2,
+"lead": "삼화콘덴서",
+"lead_ret": 17.39,
+"second": "삼성전기",
+"second_ret": 12.58
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.81,
+"up5": 4,
+"lead": "이브이첨단소재",
+"lead_ret": 30.0,
+"second": "미래컴퍼니",
+"second_ret": 13.27
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 37,
+"avg": 2.66,
+"up5": 9,
+"lead": "LK삼양",
+"lead_ret": 10.08,
+"second": "태웅",
+"second_ret": 9.77
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.61,
+"up5": 4,
+"lead": "삼성전기",
+"lead_ret": 12.58,
+"second": "이수페타시스",
+"second_ret": 7.44
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 2.4,
+"up5": 4,
+"lead": "엣지파운드리",
+"lead_ret": 29.84,
+"second": "삼기에너지솔루션즈",
+"second_ret": 19.2
+}
+],
+"themes_worst": [
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -2.97,
+"up5": 0,
+"lead": "동성제약",
+"lead_ret": 3.21,
+"second": "인산가",
+"second_ret": 2.95
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.91,
+"up5": 0,
+"lead": "오가닉티코스메틱",
+"lead_ret": 2.04,
+"second": "로스웰",
+"second_ret": 0.98
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": -2.72,
+"up5": 0,
+"lead": "제이엘케이",
+"lead_ret": 1.29,
+"second": "토마토시스템",
+"second_ret": 0.4
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.64,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -0.88,
+"second": "강원랜드",
+"second_ret": -1.44
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.64,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -0.88,
+"second": "강원랜드",
+"second_ret": -1.44
+}
+],
+"leaders": [
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 12.58,
+"value": 17397,
+"theme": "카메라모듈/부품",
+"reason": "테마: 카메라모듈/부품"
+},
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 17.39,
+"value": 4153,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "PS일렉트로닉스",
+"code": "332570",
+"ret": 29.92,
+"value": 2163,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "코오롱티슈진",
+"code": "950160",
+"ret": 19.91,
+"value": 1592,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 14.94,
+"value": 1024,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

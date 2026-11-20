@@ -1,0 +1,254 @@
+{
+"date": "20260818",
+"kospi": -1.55,
+"kosdaq": -3.52,
+"adv": 498,
+"dec": 1818,
+"flat": 98,
+"limit_up": 12,
+"limit_down": 1,
+"value_total": 352269,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "제너셈",
+"lead_ret": 18.5,
+"second": "인텍플러스",
+"second_ret": 17.31
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "코데즈컴바인",
+"lead_ret": 30.0,
+"second": "일신석재",
+"second_ret": 22.24
+},
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "코데즈컴바인",
+"lead_ret": 30.0,
+"second": "제이에스티나",
+"second_ret": 16.4
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 8.91,
+"up5": 3,
+"lead": "STX그린로지스",
+"lead_ret": 29.91,
+"second": "흥아해운",
+"second_ret": 12.9
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 4.44,
+"up5": 8,
+"lead": "좋은사람들",
+"lead_ret": 30.04,
+"second": "코데즈컴바인",
+"second_ret": 30.0
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 2.69,
+"up5": 4,
+"lead": "오텍",
+"lead_ret": 15.79,
+"second": "유니셈",
+"second_ret": 11.3
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.46,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 6.24,
+"second": "S-Oil",
+"second_ret": 4.07
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 2.0,
+"up5": 2,
+"lead": "베뉴지",
+"lead_ret": 29.82,
+"second": "아난티",
+"second_ret": 13.92
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 1.95,
+"up5": 4,
+"lead": "인텍플러스",
+"lead_ret": 17.31,
+"second": "티엘비",
+"second_ret": 9.39
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.87,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 6.24,
+"second": "S-Oil",
+"second_ret": 4.07
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.87,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 6.24,
+"second": "S-Oil",
+"second_ret": 4.07
+},
+{
+"name": "패션/의류",
+"n": 57,
+"avg": 1.7,
+"up5": 11,
+"lead": "좋은사람들",
+"lead_ret": 30.04,
+"second": "코데즈컴바인",
+"second_ret": 30.0
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.43,
+"up5": 1,
+"lead": "현대해상",
+"lead_ret": 9.59,
+"second": "DB손해보험",
+"second_ret": 2.94
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.21,
+"up5": 2,
+"lead": "위즈코프",
+"lead_ret": 6.26,
+"second": "흥구석유",
+"second_ret": 6.24
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 1.2,
+"up5": 3,
+"lead": "좋은사람들",
+"lead_ret": 30.04,
+"second": "코데즈컴바인",
+"second_ret": 30.0
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -7.21,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": -4.53,
+"second": "삼화콘덴서",
+"second_ret": -5.44
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -6.4,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 0.18,
+"second": "에피소드컴퍼니",
+"second_ret": 0.0
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -6.33,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -3.85,
+"second": "지씨셀",
+"second_ret": -4.25
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": -5.36,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": -1.87,
+"second": "SFA",
+"second_ret": -4.11
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -5.22,
+"up5": 0,
+"lead": "일신바이오",
+"lead_ret": -0.3,
+"second": "삼성바이오로직스",
+"second_ret": -1.1
+}
+],
+"leaders": [
+{
+"name": "아난티",
+"code": "025980",
+"ret": 13.92,
+"value": 959,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 12.9,
+"value": 913,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "레메디",
+"code": "387690",
+"ret": 22.76,
+"value": 907,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "삼성공조",
+"code": "006660",
+"ret": 29.92,
+"value": 486,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "마이크로컨텍솔",
+"code": "098120",
+"ret": 29.9,
+"value": 418,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

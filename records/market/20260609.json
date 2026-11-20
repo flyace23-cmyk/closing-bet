@@ -1,0 +1,254 @@
+{
+"date": "20260609",
+"kospi": 8.18,
+"kosdaq": 6.19,
+"adv": 2022,
+"dec": 326,
+"flat": 60,
+"limit_up": 7,
+"limit_down": 1,
+"value_total": 566492,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 17,
+"lead": "브이엠",
+"lead_ret": 27.03,
+"second": "싸이맥스",
+"second_ret": 24.68
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "타이거일렉",
+"lead_ret": 29.92,
+"second": "후성",
+"second_ret": 20.18
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "타이거일렉",
+"lead_ret": 29.92,
+"second": "삼성전기",
+"second_ret": 18.39
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 11.89,
+"up5": 10,
+"lead": "티에프이",
+"lead_ret": 20.71,
+"second": "펨트론",
+"second_ret": 18.12
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 11.08,
+"up5": 5,
+"lead": "삼성전기",
+"lead_ret": 18.39,
+"second": "SK하이닉스",
+"second_ret": 15.91
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 10.75,
+"up5": 21,
+"lead": "HPSP",
+"lead_ret": 20.89,
+"second": "에이팩트",
+"second_ret": 19.76
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 10.71,
+"up5": 27,
+"lead": "테크윙",
+"lead_ret": 20.97,
+"second": "고영",
+"second_ret": 20.32
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 9.98,
+"up5": 69,
+"lead": "브이엠",
+"lead_ret": 27.03,
+"second": "싸이맥스",
+"second_ret": 24.68
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 9.29,
+"up5": 11,
+"lead": "삼성전기",
+"lead_ret": 18.39,
+"second": "심텍",
+"second_ret": 15.1
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 8.71,
+"up5": 52,
+"lead": "타이거일렉",
+"lead_ret": 29.92,
+"second": "후성",
+"second_ret": 20.18
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 8.68,
+"up5": 6,
+"lead": "네패스아크",
+"lead_ret": 16.29,
+"second": "에이직랜드",
+"second_ret": 10.98
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 8.56,
+"up5": 10,
+"lead": "SK하이닉스",
+"lead_ret": 15.91,
+"second": "오킨스전자",
+"second_ret": 15.63
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 8.49,
+"up5": 7,
+"lead": "광전자",
+"lead_ret": 18.43,
+"second": "코세스",
+"second_ret": 18.09
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 8.48,
+"up5": 23,
+"lead": "타이거일렉",
+"lead_ret": 29.92,
+"second": "삼성전기",
+"second_ret": 18.39
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 8.38,
+"up5": 40,
+"lead": "이미지스",
+"lead_ret": 29.77,
+"second": "피에스케이",
+"second_ret": 24.28
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": 0.28,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 2.51,
+"second": "대한조선",
+"second_ret": 1.33
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 0.46,
+"up5": 0,
+"lead": "한국주철관",
+"lead_ret": 2.76,
+"second": "KBI동양철관",
+"second_ret": 2.76
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.49,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 9.09,
+"second": "대성산업",
+"second_ret": 2.18
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 0.7,
+"up5": 2,
+"lead": "삼표시멘트",
+"lead_ret": 7.21,
+"second": "아세아시멘트",
+"second_ret": 5.08
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 0.74,
+"up5": 2,
+"lead": "SAMG엔터",
+"lead_ret": 7.26,
+"second": "대원미디어",
+"second_ret": 5.89
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 15.91,
+"value": 130199,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 18.39,
+"value": 32517,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 13.51,
+"value": 10773,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 20.89,
+"value": 6285,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "테크윙",
+"code": "089030",
+"ret": 20.97,
+"value": 5862,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

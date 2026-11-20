@@ -1,0 +1,254 @@
+{
+"date": "20260611",
+"kospi": 0.43,
+"kosdaq": 4.76,
+"adv": 1651,
+"dec": 676,
+"flat": 81,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 598356,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "코미코",
+"lead_ret": 29.97,
+"second": "티에스이",
+"second_ret": 25.3
+},
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "엠케이전자",
+"lead_ret": 26.7,
+"second": "피엠티",
+"second_ret": 19.66
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 3,
+"lead": "엠케이전자",
+"lead_ret": 26.7,
+"second": "심텍",
+"second_ret": 21.74
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 10.44,
+"up5": 8,
+"lead": "엠케이전자",
+"lead_ret": 26.7,
+"second": "심텍",
+"second_ret": 21.74
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 10.15,
+"up5": 4,
+"lead": "마니커",
+"lead_ret": 29.97,
+"second": "마니커에프앤지",
+"second_ret": 29.83
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 9.57,
+"up5": 6,
+"lead": "티에스이",
+"lead_ret": 25.3,
+"second": "주성엔지니어링",
+"second_ret": 23.37
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 9.4,
+"up5": 10,
+"lead": "심텍",
+"lead_ret": 21.74,
+"second": "코리아써키트",
+"second_ret": 20.31
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 7.54,
+"up5": 22,
+"lead": "윈팩",
+"lead_ret": 29.87,
+"second": "엠케이전자",
+"second_ret": 26.7
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 6.86,
+"up5": 53,
+"lead": "코미코",
+"lead_ret": 29.97,
+"second": "티에스이",
+"second_ret": 25.3
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 6.61,
+"up5": 43,
+"lead": "엠케이전자",
+"lead_ret": 26.7,
+"second": "피엠티",
+"second_ret": 19.66
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.98,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 29.94,
+"second": "유비벨록스",
+"second_ret": 2.09
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 5.94,
+"up5": 15,
+"lead": "심텍",
+"lead_ret": 21.74,
+"second": "코리아써키트",
+"second_ret": 20.31
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 5.85,
+"up5": 6,
+"lead": "소프트센",
+"lead_ret": 29.88,
+"second": "스피어",
+"second_ret": 29.85
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.68,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 11.29,
+"second": "강스템바이오텍",
+"second_ret": 9.11
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.39,
+"up5": 1,
+"lead": "오텍",
+"lead_ret": 29.83,
+"second": "신성이엔지",
+"second_ret": 3.54
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.78,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.61,
+"second": "DL이앤씨",
+"second_ret": -0.28
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -1.59,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 1.96,
+"second": "HD현대중공업",
+"second_ret": 0.78
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.2,
+"up5": 0,
+"lead": "대동스틸",
+"lead_ret": 1.73,
+"second": "엔케이",
+"second_ret": 1.63
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.15,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 1.05,
+"second": "HL만도",
+"second_ret": -0.6
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.93,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 2.42,
+"second": "아시아나항공",
+"second_ret": 1.49
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 23.37,
+"value": 18059,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "원익IPS",
+"code": "240810",
+"ret": 20.82,
+"value": 5020,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 10.16,
+"value": 3232,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "심텍",
+"code": "222800",
+"ret": 21.74,
+"value": 3203,
+"theme": "소캠(SOCAMM)",
+"reason": "테마: 소캠(SOCAMM)"
+},
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 15.25,
+"value": 3109,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

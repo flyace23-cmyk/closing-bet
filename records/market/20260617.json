@@ -1,0 +1,246 @@
+{
+"date": "20260617",
+"kospi": 1.58,
+"kosdaq": 1.3,
+"adv": 1203,
+"dec": 1065,
+"flat": 140,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 447401,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "리센스메디컬",
+"lead_ret": 13.6,
+"second": "큐리오시스",
+"second_ret": 11.19
+},
+{
+"name": "전선",
+"n": 3,
+"lead": "가온전선",
+"lead_ret": 29.9,
+"second": "KBI메탈",
+"second_ret": 16.42
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 8.48,
+"up5": 4,
+"lead": "가온전선",
+"lead_ret": 29.9,
+"second": "KBI메탈",
+"second_ret": 16.42
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 4.23,
+"up5": 4,
+"lead": "SAMG엔터",
+"lead_ret": 9.03,
+"second": "데브시스터즈",
+"second_ret": 7.34
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 4.01,
+"up5": 7,
+"lead": "JW신약",
+"lead_ret": 29.87,
+"second": "위더스제약",
+"second_ret": 11.68
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 3.99,
+"up5": 4,
+"lead": "율촌",
+"lead_ret": 29.9,
+"second": "KBI동양철관",
+"second_ret": 8.39
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": 3.79,
+"up5": 10,
+"lead": "네오이뮨텍",
+"lead_ret": 16.04,
+"second": "샤페론",
+"second_ret": 11.6
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.64,
+"up5": 3,
+"lead": "서산",
+"lead_ret": 30.0,
+"second": "강동씨앤엘",
+"second_ret": 30.0
+},
+{
+"name": "철강 중소형",
+"n": 35,
+"avg": 3.09,
+"up5": 8,
+"lead": "동일스틸럭스",
+"lead_ret": 29.95,
+"second": "율촌",
+"second_ret": 29.9
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": 2.82,
+"up5": 3,
+"lead": "아스테라시스",
+"lead_ret": 10.56,
+"second": "휴젤",
+"second_ret": 7.72
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.68,
+"up5": 2,
+"lead": "위더스제약",
+"lead_ret": 11.68,
+"second": "멕아이씨에스",
+"second_ret": 5.16
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.65,
+"up5": 1,
+"lead": "휴젤",
+"lead_ret": 7.72,
+"second": "청담글로벌",
+"second_ret": 4.85
+},
+{
+"name": "유전자 치료제/분석",
+"n": 39,
+"avg": 2.48,
+"up5": 5,
+"lead": "툴젠",
+"lead_ret": 15.97,
+"second": "큐로셀",
+"second_ret": 9.12
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.45,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 6.33,
+"second": "SK하이닉스",
+"second_ret": 5.84
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -5.16,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -1.41,
+"second": "IPARK현대산업개발",
+"second_ret": -1.69
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -4.48,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 1.34,
+"second": "이녹스첨단소재",
+"second_ret": 0.69
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -3.74,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 0.0,
+"second": "코세스",
+"second_ret": -0.27
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.51,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": -0.92,
+"second": "기아",
+"second_ret": -2.29
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.15,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": 0.0,
+"second": "중앙에너비스",
+"second_ret": -0.65
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 10.18,
+"value": 10114,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "디앤디파마텍",
+"code": "347850",
+"ret": 18.01,
+"value": 5831,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 10.58,
+"value": 5600,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 10.46,
+"value": 1603,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 29.9,
+"value": 1378,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

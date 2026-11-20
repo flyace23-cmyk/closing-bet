@@ -1,0 +1,254 @@
+{
+"date": "20260511",
+"kospi": 4.32,
+"kosdaq": -0.03,
+"adv": 498,
+"dec": 1778,
+"flat": 128,
+"limit_up": 9,
+"limit_down": 1,
+"value_total": 683999,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 5,
+"lead": "한울반도체",
+"lead_ret": 29.99,
+"second": "에이치브이엠",
+"second_ret": 18.02
+},
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "한솔테크닉스",
+"lead_ret": 29.97,
+"second": "유니트론텍",
+"second_ret": 21.6
+},
+{
+"name": "통신장비",
+"n": 5,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.95,
+"second": "가온그룹",
+"second_ret": 19.43
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 7.79,
+"up5": 8,
+"lead": "대한광통신",
+"lead_ret": 25.06,
+"second": "빛과전자",
+"second_ret": 16.73
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.91,
+"up5": 4,
+"lead": "한온시스템",
+"lead_ret": 20.13,
+"second": "현대모비스",
+"second_ret": 8.64
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.49,
+"up5": 4,
+"lead": "SK하이닉스",
+"lead_ret": 11.51,
+"second": "SK스퀘어",
+"second_ret": 8.11
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 3.66,
+"up5": 5,
+"lead": "에이치브이엠",
+"lead_ret": 18.02,
+"second": "스피어",
+"second_ret": 12.73
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.62,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 11.51,
+"second": "삼성전자",
+"second_ret": 6.33
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 3.44,
+"up5": 4,
+"lead": "한솔테크닉스",
+"lead_ret": 29.97,
+"second": "LG이노텍",
+"second_ret": 10.26
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 3.43,
+"up5": 16,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.95,
+"second": "가온그룹",
+"second_ret": 19.43
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 3.19,
+"up5": 4,
+"lead": "광전자",
+"lead_ret": 17.75,
+"second": "라온텍",
+"second_ret": 10.74
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 3.1,
+"up5": 1,
+"lead": "삼성중공업",
+"lead_ret": 6.26,
+"second": "HD한국조선해양",
+"second_ret": 4.87
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.07,
+"up5": 3,
+"lead": "주성엔지니어링",
+"lead_ret": 17.93,
+"second": "기가레인",
+"second_ret": 15.06
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 2.98,
+"up5": 15,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.95,
+"second": "대한광통신",
+"second_ret": 25.06
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.48,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 9.38,
+"second": "롯데쇼핑",
+"second_ret": 5.0
+}
+],
+"themes_worst": [
+{
+"name": "2026 상반기 신규상장",
+"n": 6,
+"avg": -5.01,
+"up5": 0,
+"lead": "지에프아이",
+"lead_ret": 1.08,
+"second": "케이뱅크",
+"second_ret": -2.69
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -4.74,
+"up5": 0,
+"lead": "동일금속",
+"lead_ret": -0.27,
+"second": "전진건설로봇",
+"second_ret": -2.08
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -4.52,
+"up5": 1,
+"lead": "재영솔루텍",
+"lead_ret": 6.04,
+"second": "현대건설",
+"second_ret": 1.1
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -4.41,
+"up5": 0,
+"lead": "한국주철관",
+"lead_ret": -1.95,
+"second": "유에스티",
+"second_ret": -2.3
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.08,
+"up5": 0,
+"lead": "후성",
+"lead_ret": 1.51,
+"second": "광무",
+"second_ret": 0.94
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 11.51,
+"value": 139741,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 25.06,
+"value": 23605,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "한온시스템",
+"code": "018880",
+"ret": 20.13,
+"value": 8780,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 11.75,
+"value": 5982,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 10.33,
+"value": 3842,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

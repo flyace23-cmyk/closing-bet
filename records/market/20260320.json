@@ -1,0 +1,254 @@
+{
+"date": "20260320",
+"kospi": 0.31,
+"kosdaq": 1.58,
+"adv": 1784,
+"dec": 545,
+"flat": 72,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 460758,
+"hot": [
+{
+"name": "원자력발전",
+"n": 10,
+"lead": "서전기전",
+"lead_ret": 29.92,
+"second": "DL이앤씨",
+"second_ret": 29.87
+},
+{
+"name": "통신장비",
+"n": 5,
+"lead": "우리로",
+"lead_ret": 29.98,
+"second": "주성코퍼레이션",
+"second_ret": 29.9
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "네패스아크",
+"lead_ret": 29.87,
+"second": "더코디",
+"second_ret": 25.84
+}
+],
+"themes": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 13.57,
+"up5": 4,
+"lead": "DL이앤씨",
+"lead_ret": 29.87,
+"second": "GS건설",
+"second_ret": 22.54
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 9.88,
+"up5": 5,
+"lead": "한신공영",
+"lead_ret": 29.99,
+"second": "GS건설",
+"second_ret": 22.54
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 9.04,
+"up5": 29,
+"lead": "서전기전",
+"lead_ret": 29.92,
+"second": "DL이앤씨",
+"second_ret": 29.87
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 8.46,
+"up5": 20,
+"lead": "한신공영",
+"lead_ret": 29.99,
+"second": "HL D&I",
+"second_ret": 15.29
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 8.4,
+"up5": 5,
+"lead": "태광",
+"lead_ret": 23.53,
+"second": "성광벤드",
+"second_ret": 17.17
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 7.98,
+"up5": 14,
+"lead": "DL이앤씨",
+"lead_ret": 29.87,
+"second": "GS건설",
+"second_ret": 22.54
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 7.2,
+"up5": 3,
+"lead": "네패스아크",
+"lead_ret": 29.87,
+"second": "네패스",
+"second_ret": 17.07
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 6.83,
+"up5": 6,
+"lead": "SK오션플랜트",
+"lead_ret": 29.83,
+"second": "KBI동양철관",
+"second_ret": 7.75
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 6.48,
+"up5": 15,
+"lead": "SK오션플랜트",
+"lead_ret": 29.83,
+"second": "태웅",
+"second_ret": 26.49
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 6.44,
+"up5": 4,
+"lead": "빛과전자",
+"lead_ret": 29.82,
+"second": "RF머트리얼즈",
+"second_ret": 22.15
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 6.42,
+"up5": 17,
+"lead": "오늘이엔엠",
+"lead_ret": 29.89,
+"second": "DL이앤씨",
+"second_ret": 29.87
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 6.22,
+"up5": 5,
+"lead": "SK오션플랜트",
+"lead_ret": 29.83,
+"second": "KBI동양철관",
+"second_ret": 7.75
+}
+],
+"themes_worst": [
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": -1.52,
+"up5": 1,
+"lead": "대한항공",
+"lead_ret": 7.33,
+"second": "케이알엠",
+"second_ret": 4.6
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -1.06,
+"up5": 0,
+"lead": "서암기계공업",
+"lead_ret": 3.85,
+"second": "SIMPAC",
+"second_ret": 2.45
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -0.94,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 2.34,
+"second": "삼성중공업",
+"second_ret": 0.18
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -0.81,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": 3.38,
+"second": "LG에너지솔루션",
+"second_ret": 1.21
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -0.77,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 5.43,
+"second": "한울반도체",
+"second_ret": 1.93
+}
+],
+"leaders": [
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 18.18,
+"value": 18477,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "SK증권",
+"code": "001510",
+"ret": 18.58,
+"value": 12044,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 11.55,
+"value": 6274,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 14.09,
+"value": 5851,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 19.34,
+"value": 4518,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

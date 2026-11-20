@@ -1,0 +1,254 @@
+{
+"date": "20260429",
+"kospi": 0.75,
+"kosdaq": 0.39,
+"adv": 1168,
+"dec": 1012,
+"flat": 224,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 432690,
+"hot": [
+{
+"name": "전력설비",
+"n": 6,
+"lead": "선도전기",
+"lead_ret": 116.67,
+"second": "제일일렉트릭",
+"second_ret": 30.0
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "LS머트리얼즈",
+"lead_ret": 16.39,
+"second": "성문전자",
+"second_ret": 14.45
+},
+{
+"name": "석유화학",
+"n": 4,
+"lead": "롯데케미칼",
+"lead_ret": 24.87,
+"second": "이수화학",
+"second_ret": 20.92
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 14.35,
+"up5": 6,
+"lead": "대원전선",
+"lead_ret": 29.99,
+"second": "KBI메탈",
+"second_ret": 29.97
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 10.95,
+"up5": 15,
+"lead": "선도전기",
+"lead_ret": 116.67,
+"second": "제일일렉트릭",
+"second_ret": 30.0
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 8.39,
+"up5": 10,
+"lead": "비나텍",
+"lead_ret": 29.98,
+"second": "LS머트리얼즈",
+"second_ret": 16.39
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 6.31,
+"up5": 6,
+"lead": "롯데케미칼",
+"lead_ret": 24.87,
+"second": "이수화학",
+"second_ret": 20.92
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 5.56,
+"up5": 2,
+"lead": "오로라",
+"lead_ret": 29.93,
+"second": "SAMG엔터",
+"second_ret": 7.79
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 5.55,
+"up5": 7,
+"lead": "선도전기",
+"lead_ret": 116.67,
+"second": "대원전선",
+"second_ret": 29.99
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.89,
+"up5": 4,
+"lead": "S-Oil",
+"lead_ret": 13.14,
+"second": "SK이노베이션",
+"second_ret": 12.63
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.89,
+"up5": 4,
+"lead": "S-Oil",
+"lead_ret": 13.14,
+"second": "SK이노베이션",
+"second_ret": 12.63
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.82,
+"up5": 3,
+"lead": "S-Oil",
+"lead_ret": 13.14,
+"second": "SK이노베이션",
+"second_ret": 12.63
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 4.54,
+"up5": 5,
+"lead": "S-Oil",
+"lead_ret": 13.14,
+"second": "SK이노베이션",
+"second_ret": 12.63
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 4.33,
+"up5": 6,
+"lead": "피앤씨테크",
+"lead_ret": 29.92,
+"second": "옴니시스템",
+"second_ret": 9.58
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 4.29,
+"up5": 3,
+"lead": "티씨머티리얼즈",
+"lead_ret": 11.62,
+"second": "세명전기",
+"second_ret": 10.43
+}
+],
+"themes_worst": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -2.18,
+"up5": 0,
+"lead": "스피어",
+"lead_ret": 2.27,
+"second": "모델솔루션",
+"second_ret": 0.68
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -1.79,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.0,
+"second": "팬오션",
+"second_ret": -0.54
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.73,
+"up5": 1,
+"lead": "휴스틸",
+"lead_ret": 5.64,
+"second": "SK오션플랜트",
+"second_ret": 3.41
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -1.73,
+"up5": 0,
+"lead": "LS증권",
+"lead_ret": 1.25,
+"second": "교보증권",
+"second_ret": 0.14
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -1.7,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 2.77,
+"second": "라온시큐어",
+"second_ret": 1.31
+}
+],
+"leaders": [
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 11.55,
+"value": 15332,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 29.99,
+"value": 11222,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "LS머트리얼즈",
+"code": "417200",
+"ret": 16.39,
+"value": 6130,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 12.63,
+"value": 4670,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "서진시스템",
+"code": "178320",
+"ret": 10.53,
+"value": 3115,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

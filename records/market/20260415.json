@@ -1,0 +1,254 @@
+{
+"date": "20260415",
+"kospi": 2.07,
+"kosdaq": 2.72,
+"adv": 1589,
+"dec": 651,
+"flat": 164,
+"limit_up": 23,
+"limit_down": 0,
+"value_total": 464211,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 10,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "아이씨티케이",
+"second_ret": 29.95
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 10,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "큐에스아이",
+"second_ret": 29.99
+},
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "SGA솔루션즈",
+"lead_ret": 29.94,
+"second": "케이씨에스",
+"second_ret": 29.91
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 17.44,
+"up5": 19,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "큐에스아이",
+"second_ret": 29.99
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 15.25,
+"up5": 7,
+"lead": "대한전선",
+"lead_ret": 28.3,
+"second": "가온전선",
+"second_ret": 20.75
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 11.73,
+"up5": 34,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "아이씨티케이",
+"second_ret": 29.95
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 10.84,
+"up5": 6,
+"lead": "아이씨티케이",
+"lead_ret": 29.95,
+"second": "파수AI",
+"second_ret": 29.92
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 10.2,
+"up5": 4,
+"lead": "큐에스아이",
+"lead_ret": 29.99,
+"second": "광전자",
+"second_ret": 29.97
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 10.02,
+"up5": 13,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "라온시큐어",
+"second_ret": 29.9
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 9.65,
+"up5": 10,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "SGA솔루션즈",
+"second_ret": 29.94
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 8.32,
+"up5": 5,
+"lead": "파수AI",
+"lead_ret": 29.92,
+"second": "아톤",
+"second_ret": 29.9
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 8.08,
+"up5": 3,
+"lead": "비츠로테크",
+"lead_ret": 30.0,
+"second": "모비스",
+"second_ret": 16.79
+},
+{
+"name": "핀테크(FinTech)",
+"n": 33,
+"avg": 7.88,
+"up5": 13,
+"lead": "SGA솔루션즈",
+"lead_ret": 29.94,
+"second": "라온시큐어",
+"second_ret": 29.9
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 7.82,
+"up5": 15,
+"lead": "비츠로테크",
+"lead_ret": 30.0,
+"second": "서남",
+"second_ret": 29.96
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 7.58,
+"up5": 6,
+"lead": "드림시큐리티",
+"lead_ret": 30.0,
+"second": "라온시큐어",
+"second_ret": 29.9
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -2.3,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.64,
+"second": "삼양패키징",
+"second_ret": -0.08
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.18,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 2.18,
+"second": "에이직랜드",
+"second_ret": 0.17
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -1.17,
+"up5": 0,
+"lead": "HD현대",
+"lead_ret": 2.0,
+"second": "극동유화",
+"second_ret": 0.89
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -1.16,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 3.69,
+"second": "KG케미칼",
+"second_ret": 0.17
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.0,
+"up5": 0,
+"lead": "미래에셋벤처투자",
+"lead_ret": 1.67,
+"second": "흥국에프엔비",
+"second_ret": 0.49
+}
+],
+"leaders": [
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 21.28,
+"value": 25837,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 28.3,
+"value": 17002,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 10.16,
+"value": 4980,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 19.73,
+"value": 4914,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 18.69,
+"value": 4281,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

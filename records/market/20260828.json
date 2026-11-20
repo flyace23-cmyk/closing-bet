@@ -1,0 +1,254 @@
+{
+"date": "20260828",
+"kospi": -1.79,
+"kosdaq": 0.09,
+"adv": 1466,
+"dec": 822,
+"flat": 129,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 253838,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "동국제약",
+"lead_ret": 15.34,
+"second": "한국콜마",
+"second_ret": 10.91
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "조아제약",
+"lead_ret": 20.97,
+"second": "동국제약",
+"second_ret": 15.34
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "에스피소프트",
+"lead_ret": 29.9,
+"second": "지니언스",
+"second_ret": 19.02
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 10,
+"avg": 40.38,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 395.32,
+"second": "콘텐트리중앙",
+"second_ret": 4.74
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 26.52,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 395.32,
+"second": "고려제강",
+"second_ret": 2.81
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": 14.8,
+"up5": 3,
+"lead": "아센디오",
+"lead_ret": 395.32,
+"second": "고스트스튜디오",
+"second_ret": 13.1
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 7.16,
+"up5": 2,
+"lead": "쿠콘",
+"lead_ret": 23.85,
+"second": "갤럭시아머니트리",
+"second_ret": 6.32
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 5.03,
+"up5": 5,
+"lead": "쿠콘",
+"lead_ret": 23.85,
+"second": "헥토파이낸셜",
+"second_ret": 10.38
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.82,
+"up5": 10,
+"lead": "쿠콘",
+"lead_ret": 23.85,
+"second": "라온시큐어",
+"second_ret": 16.32
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 4.61,
+"up5": 3,
+"lead": "에스피소프트",
+"lead_ret": 29.9,
+"second": "라온시큐어",
+"second_ret": 16.32
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.94,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 17.34,
+"second": "풀무원",
+"second_ret": 2.62
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 3.87,
+"up5": 3,
+"lead": "쿠콘",
+"lead_ret": 23.85,
+"second": "아이티아이즈",
+"second_ret": 7.79
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 3.69,
+"up5": 2,
+"lead": "한화손해보험",
+"lead_ret": 9.31,
+"second": "현대해상",
+"second_ret": 7.05
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.39,
+"up5": 3,
+"lead": "위더스제약",
+"lead_ret": 14.27,
+"second": "엑세스바이오",
+"second_ret": 6.99
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 3.33,
+"up5": 7,
+"lead": "한울앤제주",
+"lead_ret": 17.34,
+"second": "DI동일",
+"second_ret": 10.65
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -3.23,
+"up5": 0,
+"lead": "서울바이오시스",
+"lead_ret": 3.14,
+"second": "LS",
+"second_ret": 0.0
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.35,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": 1.29,
+"second": "LB인베스트먼트",
+"second_ret": 0.11
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.04,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": 0.25,
+"second": "광주신세계",
+"second_ret": -0.27
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.89,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 2.86,
+"second": "LS",
+"second_ret": 0.0
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": -1.83,
+"up5": 0,
+"lead": "KEC",
+"lead_ret": 2.27,
+"second": "디아이티",
+"second_ret": 1.53
+}
+],
+"leaders": [
+{
+"name": "금호건설",
+"code": "002990",
+"ret": 12.34,
+"value": 6019,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "금호전기",
+"code": "001210",
+"ret": 29.93,
+"value": 2749,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "한국콜마",
+"code": "161890",
+"ret": 10.91,
+"value": 805,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "헥토파이낸셜",
+"code": "234340",
+"ret": 10.38,
+"value": 584,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 11.76,
+"value": 393,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

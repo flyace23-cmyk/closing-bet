@@ -1,0 +1,254 @@
+{
+"date": "20260806",
+"kospi": -4.58,
+"kosdaq": 0.26,
+"adv": 1117,
+"dec": 1154,
+"flat": 141,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 313551,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "본느",
+"lead_ret": 29.93,
+"second": "LG생활건강",
+"second_ret": 10.77
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "피앤에스로보틱스",
+"lead_ret": 11.18,
+"second": "클로봇",
+"second_ret": 10.74
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "인바디",
+"lead_ret": 23.46,
+"second": "피앤에스로보틱스",
+"second_ret": 11.18
+}
+],
+"themes": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.34,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 12.24,
+"second": "코오롱인더",
+"second_ret": 5.76
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.04,
+"up5": 2,
+"lead": "BGF리테일",
+"lead_ret": 9.16,
+"second": "GS리테일",
+"second_ret": 6.65
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.57,
+"up5": 2,
+"lead": "금호타이어",
+"lead_ret": 7.59,
+"second": "코오롱인더",
+"second_ret": 5.76
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.5,
+"up5": 2,
+"lead": "큐라티스",
+"lead_ret": 29.93,
+"second": "한미사이언스",
+"second_ret": 8.55
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.08,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 11.29,
+"second": "코나아이",
+"second_ret": 3.47
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 2.85,
+"up5": 2,
+"lead": "코리안리",
+"lead_ret": 5.78,
+"second": "현대해상",
+"second_ret": 5.31
+},
+{
+"name": "면역항암제",
+"n": 34,
+"avg": 2.77,
+"up5": 7,
+"lead": "안국약품",
+"lead_ret": 13.97,
+"second": "CG인바이츠",
+"second_ret": 13.41
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.45,
+"up5": 1,
+"lead": "누리플렉스",
+"lead_ret": 15.3,
+"second": "한네트",
+"second_ret": 4.76
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 2.34,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 8.75,
+"second": "GS건설",
+"second_ret": 4.65
+},
+{
+"name": "화장품",
+"n": 93,
+"avg": 2.33,
+"up5": 17,
+"lead": "본느",
+"lead_ret": 29.93,
+"second": "코디",
+"second_ret": 12.11
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 2.28,
+"up5": 1,
+"lead": "고려아연",
+"lead_ret": 12.69,
+"second": "오리온",
+"second_ret": 3.99
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.21,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 4.65,
+"second": "IPARK현대산업개발",
+"second_ret": 4.61
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -7.57,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -2.21,
+"second": "삼성물산",
+"second_ret": -3.88
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.33,
+"up5": 0,
+"lead": "에이직랜드",
+"lead_ret": -2.54,
+"second": "앤씨앤",
+"second_ret": -2.61
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -3.97,
+"up5": 0,
+"lead": "빛과전자",
+"lead_ret": 0.69,
+"second": "한국첨단소재",
+"second_ret": 0.0
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.71,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 2.46,
+"second": "코스모신소재",
+"second_ret": -0.28
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -3.61,
+"up5": 0,
+"lead": "코웨이",
+"lead_ret": 4.09,
+"second": "쿠쿠홈시스",
+"second_ret": 0.23
+}
+],
+"leaders": [
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 12.69,
+"value": 1050,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "LG생활건강",
+"code": "051900",
+"ret": 10.77,
+"value": 925,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 16.21,
+"value": 748,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 22.33,
+"value": 735,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 12.65,
+"value": 531,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

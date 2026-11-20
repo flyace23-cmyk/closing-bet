@@ -1,0 +1,238 @@
+{
+"date": "20260720",
+"kospi": -4.46,
+"kosdaq": -5.33,
+"adv": 242,
+"dec": 2100,
+"flat": 70,
+"limit_up": 11,
+"limit_down": 6,
+"value_total": 328802,
+"hot": [
+{
+"name": "사료",
+"n": 5,
+"lead": "고려산업",
+"lead_ret": 29.99,
+"second": "미래생명자원",
+"second_ret": 29.8
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 4.73,
+"up5": 2,
+"lead": "진영",
+"lead_ret": 29.92,
+"second": "세림B&G",
+"second_ret": 9.66
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.72,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 29.8,
+"second": "신송홀딩스",
+"second_ret": 0.21
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 4.31,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 29.98,
+"second": "흥아해운",
+"second_ret": 2.13
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.85,
+"up5": 5,
+"lead": "고려산업",
+"lead_ret": 29.99,
+"second": "미래생명자원",
+"second_ret": 29.8
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.35,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 11.91,
+"second": "한국쉘석유",
+"second_ret": 1.8
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.07,
+"up5": 2,
+"lead": "콘텐트리중앙",
+"lead_ret": 25.12,
+"second": "졸스",
+"second_ret": 9.45
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.89,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 11.91,
+"second": "S-Oil",
+"second_ret": 1.24
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.89,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 11.91,
+"second": "S-Oil",
+"second_ret": 1.24
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 0.85,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 29.98,
+"second": "오로라",
+"second_ret": -1.0
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 0.57,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 29.98,
+"second": "삼일",
+"second_ret": 7.68
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 30,
+"avg": 0.21,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 29.8,
+"second": "한일사료",
+"second_ret": 14.94
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 0.1,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 11.91,
+"second": "우양피앤엘",
+"second_ret": 1.75
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 6,
+"avg": -9.37,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": -6.13,
+"second": "대구백화점",
+"second_ret": -7.16
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": -8.47,
+"up5": 0,
+"lead": "메디앙스",
+"lead_ret": 0.84,
+"second": "애경산업",
+"second_ret": -2.07
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -7.7,
+"up5": 0,
+"lead": "메디앙스",
+"lead_ret": 0.84,
+"second": "그리티",
+"second_ret": 0.0
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -7.56,
+"up5": 1,
+"lead": "네오티스",
+"lead_ret": 12.03,
+"second": "삼성전기",
+"second_ret": -0.16
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -7.26,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -1.87,
+"second": "일진전기",
+"second_ret": -3.53
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 11.91,
+"value": 1291,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "기가레인",
+"code": "049080",
+"ret": 15.06,
+"value": 768,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 14.94,
+"value": 712,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 12.39,
+"value": 704,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "한울반도체",
+"code": "320000",
+"ret": 22.09,
+"value": 676,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

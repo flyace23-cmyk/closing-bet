@@ -1,0 +1,254 @@
+{
+"date": "20260604",
+"kospi": -1.84,
+"kosdaq": 2.31,
+"adv": 1142,
+"dec": 1184,
+"flat": 82,
+"limit_up": 10,
+"limit_down": 1,
+"value_total": 563383,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 14,
+"lead": "유진테크",
+"lead_ret": 29.97,
+"second": "팸텍",
+"second_ret": 29.96
+},
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "덕산하이메탈",
+"lead_ret": 29.96,
+"second": "에스에이엠티",
+"second_ret": 15.92
+},
+{
+"name": "통신장비",
+"n": 3,
+"lead": "라이콤",
+"lead_ret": 29.89,
+"second": "센서뷰",
+"second_ret": 19.07
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 7.45,
+"up5": 3,
+"lead": "신세계",
+"lead_ret": 15.82,
+"second": "현대백화점",
+"second_ret": 14.78
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 6.91,
+"up5": 48,
+"lead": "유진테크",
+"lead_ret": 29.97,
+"second": "팸텍",
+"second_ret": 29.96
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 6.7,
+"up5": 8,
+"lead": "덕산하이메탈",
+"lead_ret": 29.96,
+"second": "네오티스",
+"second_ret": 18.01
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 6.51,
+"up5": 7,
+"lead": "라이콤",
+"lead_ret": 29.89,
+"second": "RFHIC",
+"second_ret": 10.32
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 6.08,
+"up5": 17,
+"lead": "피에스케이홀딩스",
+"lead_ret": 23.56,
+"second": "한화비전",
+"second_ret": 17.43
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 5.96,
+"up5": 6,
+"lead": "주성엔지니어링",
+"lead_ret": 27.22,
+"second": "이오테크닉스",
+"second_ret": 14.81
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 4.92,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 15.82,
+"second": "동양고속",
+"second_ret": 6.56
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.78,
+"up5": 3,
+"lead": "신세계",
+"lead_ret": 15.82,
+"second": "현대백화점",
+"second_ret": 14.78
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.49,
+"up5": 6,
+"lead": "코리아써키트",
+"lead_ret": 12.2,
+"second": "엠케이전자",
+"second_ret": 9.15
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": 4.26,
+"up5": 31,
+"lead": "덕산하이메탈",
+"lead_ret": 29.96,
+"second": "에스에이엠티",
+"second_ret": 15.92
+},
+{
+"name": "통신장비",
+"n": 46,
+"avg": 4.13,
+"up5": 16,
+"lead": "라이콤",
+"lead_ret": 29.89,
+"second": "센서뷰",
+"second_ret": 19.07
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.81,
+"up5": 6,
+"lead": "코리아써키트",
+"lead_ret": 12.2,
+"second": "오킨스전자",
+"second_ret": 10.96
+}
+],
+"themes_worst": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -5.83,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 0.83,
+"second": "삼성전자",
+"second_ret": -2.5
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -4.78,
+"up5": 0,
+"lead": "파세코",
+"lead_ret": 0.96,
+"second": "쿠쿠홈시스",
+"second_ret": -0.9
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": -3.28,
+"up5": 1,
+"lead": "성호전자",
+"lead_ret": 8.21,
+"second": "크린앤사이언스",
+"second_ret": 2.78
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.2,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": -1.45,
+"second": "기아",
+"second_ret": -2.67
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -3.16,
+"up5": 0,
+"lead": "유진기업",
+"lead_ret": 1.58,
+"second": "한국석유",
+"second_ret": 0.99
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 27.22,
+"value": 17104,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 10.34,
+"value": 7282,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼성물산",
+"code": "028260",
+"ret": 10.2,
+"value": 7126,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "삼성화재",
+"code": "000810",
+"ret": 13.88,
+"value": 3240,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "SKC",
+"code": "011790",
+"ret": 11.2,
+"value": 3082,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260422",
+"kospi": 0.46,
+"kosdaq": 0.18,
+"adv": 1005,
+"dec": 1218,
+"flat": 181,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 450683,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "애경케미칼",
+"lead_ret": 24.35,
+"second": "삼아알미늄",
+"second_ret": 21.88
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "KEC",
+"lead_ret": 29.97,
+"second": "와이엠텍",
+"second_ret": 18.85
+},
+{
+"name": "창투사",
+"n": 3,
+"lead": "GMI벤처",
+"lead_ret": 29.81,
+"second": "미래에셋벤처투자",
+"second_ret": 21.86
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 6,
+"avg": 7.4,
+"up5": 5,
+"lead": "HD현대중공업",
+"lead_ret": 11.28,
+"second": "HJ중공업",
+"second_ret": 10.71
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.34,
+"up5": 8,
+"lead": "이수페타시스",
+"lead_ret": 21.17,
+"second": "LG이노텍",
+"second_ret": 17.65
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.91,
+"up5": 7,
+"lead": "엘티씨",
+"lead_ret": 14.48,
+"second": "두산퓨얼셀",
+"second_ret": 11.3
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 4.72,
+"up5": 4,
+"lead": "GMI벤처",
+"lead_ret": 29.81,
+"second": "미래에셋벤처투자",
+"second_ret": 21.86
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.24,
+"up5": 3,
+"lead": "애경케미칼",
+"lead_ret": 24.35,
+"second": "더블유씨피",
+"second_ret": 7.51
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 3.84,
+"up5": 13,
+"lead": "이수페타시스",
+"lead_ret": 21.17,
+"second": "아모그린텍",
+"second_ret": 18.11
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.83,
+"up5": 2,
+"lead": "GS글로벌",
+"lead_ret": 17.21,
+"second": "LX인터내셔널",
+"second_ret": 5.59
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 3.79,
+"up5": 4,
+"lead": "KEC",
+"lead_ret": 29.97,
+"second": "코스텍시스",
+"second_ret": 14.86
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.71,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 16.75,
+"second": "그래디언트",
+"second_ret": 1.36
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.65,
+"up5": 2,
+"lead": "케이에스피",
+"lead_ret": 13.42,
+"second": "한선엔지니어링",
+"second_ret": 5.59
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.6,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 9.23,
+"second": "퀀텀레일",
+"second_ret": 4.36
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 3.31,
+"up5": 3,
+"lead": "미래에셋벤처투자",
+"lead_ret": 21.86,
+"second": "아주IB투자",
+"second_ret": 16.75
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -2.96,
+"up5": 2,
+"lead": "RFHIC",
+"lead_ret": 6.03,
+"second": "LS",
+"second_ret": 5.19
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -2.9,
+"up5": 0,
+"lead": "푸른로보틱스",
+"lead_ret": 2.1,
+"second": "풍산",
+"second_ret": 1.5
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.57,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 9.23,
+"second": "KG파이낸셜",
+"second_ret": -0.56
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -1.55,
+"up5": 0,
+"lead": "깨끗한나라",
+"lead_ret": 0.49,
+"second": "해성산업",
+"second_ret": 0.39
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.51,
+"up5": 0,
+"lead": "엑세스바이오",
+"lead_ret": 1.16,
+"second": "광동제약",
+"second_ret": -0.61
+}
+],
+"leaders": [
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 12.21,
+"value": 12813,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 21.17,
+"value": 11559,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "HD현대중공업",
+"code": "329180",
+"ret": 11.28,
+"value": 8952,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 21.86,
+"value": 7587,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 16.75,
+"value": 5242,
+"theme": "창투사",
+"reason": "테마: 창투사"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260904",
+"kospi": 1.64,
+"kosdaq": 2.95,
+"adv": 1617,
+"dec": 653,
+"flat": 147,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 220754,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "TPC로보틱스",
+"lead_ret": 30.0,
+"second": "원익홀딩스",
+"second_ret": 29.91
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "원익홀딩스",
+"lead_ret": 29.91,
+"second": "인텍플러스",
+"second_ret": 16.72
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 3,
+"lead": "쿠콘",
+"lead_ret": 14.21,
+"second": "헥토파이낸셜",
+"second_ret": 13.48
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 6.74,
+"up5": 2,
+"lead": "쿠콘",
+"lead_ret": 14.21,
+"second": "갤럭시아머니트리",
+"second_ret": 10.87
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 5.55,
+"up5": 3,
+"lead": "TPC로보틱스",
+"lead_ret": 30.0,
+"second": "링크솔루션",
+"second_ret": 14.41
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 5.52,
+"up5": 7,
+"lead": "쿠콘",
+"lead_ret": 14.21,
+"second": "헥토파이낸셜",
+"second_ret": 13.48
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 73,
+"avg": 5.31,
+"up5": 24,
+"lead": "TPC로보틱스",
+"lead_ret": 30.0,
+"second": "원익홀딩스",
+"second_ret": 29.91
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 4.93,
+"up5": 6,
+"lead": "에이치브이엠",
+"lead_ret": 15.22,
+"second": "한미반도체",
+"second_ret": 9.26
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 45,
+"avg": 4.77,
+"up5": 18,
+"lead": "로보티즈",
+"lead_ret": 22.54,
+"second": "디케이티",
+"second_ret": 16.67
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.65,
+"up5": 10,
+"lead": "쿠콘",
+"lead_ret": 14.21,
+"second": "헥토파이낸셜",
+"second_ret": 13.48
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.31,
+"up5": 4,
+"lead": "두산퓨얼셀",
+"lead_ret": 12.44,
+"second": "엘티씨",
+"second_ret": 9.77
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 3.79,
+"up5": 7,
+"lead": "갤럭시아머니트리",
+"lead_ret": 10.87,
+"second": "티사이언티픽",
+"second_ret": 10.8
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 65,
+"avg": 3.64,
+"up5": 16,
+"lead": "로보티즈",
+"lead_ret": 22.54,
+"second": "씨이랩",
+"second_ret": 10.87
+},
+{
+"name": "핀테크(FinTech)",
+"n": 33,
+"avg": 3.39,
+"up5": 10,
+"lead": "헥토파이낸셜",
+"lead_ret": 13.48,
+"second": "갤럭시아머니트리",
+"second_ret": 10.87
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 3.37,
+"up5": 3,
+"lead": "쿠콘",
+"lead_ret": 14.21,
+"second": "아톤",
+"second_ret": 8.26
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": -4.95,
+"up5": 0,
+"lead": "서울보증보험",
+"lead_ret": -2.68,
+"second": "DB손해보험",
+"second_ret": -3.6
+},
+{
+"name": "은행",
+"n": 11,
+"avg": -2.3,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.69,
+"second": "케이뱅크",
+"second_ret": 0.54
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.95,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 1.23,
+"second": "휴비스",
+"second_ret": -1.0
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.53,
+"up5": 0,
+"lead": "금호타이어",
+"lead_ret": 0.84,
+"second": "한국앤컴퍼니",
+"second_ret": 0.61
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.02,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 1.27,
+"second": "글로벌에스엠",
+"second_ret": 0.9
+}
+],
+"leaders": [
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 22.54,
+"value": 4364,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 29.91,
+"value": 1608,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "원익",
+"code": "032940",
+"ret": 17.13,
+"value": 1476,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 12.41,
+"value": 1045,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "헥토파이낸셜",
+"code": "234340",
+"ret": 13.48,
+"value": 719,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+}
+],
+"backfilled": true
+}

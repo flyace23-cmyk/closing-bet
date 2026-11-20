@@ -1,0 +1,254 @@
+{
+"date": "20260421",
+"kospi": 2.72,
+"kosdaq": 0.36,
+"adv": 959,
+"dec": 1269,
+"flat": 176,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 464467,
+"hot": [
+{
+"name": "2차전지",
+"n": 12,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "파인텍",
+"second_ret": 29.69
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 5,
+"lead": "주성엔지니어링",
+"lead_ret": 29.95,
+"second": "파인텍",
+"second_ret": 29.69
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "씨이랩",
+"lead_ret": 29.9,
+"second": "선익시스템",
+"second_ret": 16.95
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 8.9,
+"up5": 17,
+"lead": "리튬포어스",
+"lead_ret": 29.89,
+"second": "중앙첨단소재",
+"second_ret": 29.71
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 8.63,
+"up5": 20,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "이브이첨단소재",
+"second_ret": 29.83
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 6.82,
+"up5": 6,
+"lead": "삼성SDI",
+"lead_ret": 19.89,
+"second": "LG에너지솔루션",
+"second_ret": 11.42
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 6.65,
+"up5": 7,
+"lead": "대주전자재료",
+"lead_ret": 14.92,
+"second": "삼성전기",
+"second_ret": 13.53
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 42,
+"avg": 6.47,
+"up5": 18,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "한중엔시에스",
+"second_ret": 29.93
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.27,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 16.9,
+"second": "GS건설",
+"second_ret": 13.27
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 5.9,
+"up5": 5,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "LG에너지솔루션",
+"second_ret": 11.42
+},
+{
+"name": "2차전지",
+"n": 142,
+"avg": 5.55,
+"up5": 67,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "파인텍",
+"second_ret": 29.69
+},
+{
+"name": "2차전지(장비)",
+"n": 47,
+"avg": 5.38,
+"up5": 19,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "파인텍",
+"second_ret": 29.69
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 5.27,
+"up5": 37,
+"lead": "솔루스첨단소재",
+"lead_ret": 26.07,
+"second": "엔켐",
+"second_ret": 17.96
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 5.16,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 19.89,
+"second": "SK하이닉스",
+"second_ret": 4.97
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 4.97,
+"up5": 6,
+"lead": "SFA넥셀",
+"lead_ret": 29.96,
+"second": "삼성SDI",
+"second_ret": 19.89
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 34,
+"avg": -3.71,
+"up5": 0,
+"lead": "더코디",
+"lead_ret": 3.44,
+"second": "CG인바이츠",
+"second_ret": 0.0
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -3.47,
+"up5": 1,
+"lead": "파인텍",
+"lead_ret": 29.69,
+"second": "SK텔레콤",
+"second_ret": 4.15
+},
+{
+"name": "유전자 치료제/분석",
+"n": 39,
+"avg": -3.44,
+"up5": 0,
+"lead": "툴젠",
+"lead_ret": 2.57,
+"second": "엑셀세라퓨틱스",
+"second_ret": 0.25
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -3.39,
+"up5": 0,
+"lead": "영림원소프트랩",
+"lead_ret": 0.79,
+"second": "포시에스",
+"second_ret": 0.48
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.17,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -1.06,
+"second": "소마젠",
+"second_ret": -1.89
+}
+],
+"leaders": [
+{
+"name": "대우건설",
+"code": "047040",
+"ret": 16.9,
+"value": 31062,
+"theme": "건설 대표주",
+"reason": "테마: 건설 대표주"
+},
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 19.89,
+"value": 16342,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 29.95,
+"value": 12017,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 13.53,
+"value": 8434,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 29.96,
+"value": 7137,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

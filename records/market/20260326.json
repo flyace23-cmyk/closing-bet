@@ -1,0 +1,254 @@
+{
+"date": "20260326",
+"kospi": -3.22,
+"kosdaq": -1.98,
+"adv": 520,
+"dec": 1812,
+"flat": 71,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 367415,
+"hot": [
+{
+"name": "고령화 사회(노인복지)",
+"n": 4,
+"lead": "코오롱티슈진",
+"lead_ret": 17.11,
+"second": "큐렉소",
+"second_ret": 15.07
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 4,
+"lead": "세림B&G",
+"lead_ret": 29.89,
+"second": "한국팩키지",
+"second_ret": 29.87
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "피노",
+"lead_ret": 17.49,
+"second": "엔켐",
+"second_ret": 15.68
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 16.04,
+"up5": 7,
+"lead": "세림B&G",
+"lead_ret": 29.89,
+"second": "한국팩키지",
+"second_ret": 29.87
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 5.36,
+"up5": 4,
+"lead": "대영포장",
+"lead_ret": 29.98,
+"second": "태림포장",
+"second_ret": 13.41
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.19,
+"up5": 3,
+"lead": "엔피케이",
+"lead_ret": 18.65,
+"second": "HC보광산업",
+"second_ret": 9.06
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.73,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 13.66,
+"second": "강스템바이오텍",
+"second_ret": 4.94
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.74,
+"up5": 5,
+"lead": "무림P&P",
+"lead_ret": 10.28,
+"second": "무림SP",
+"second_ret": 7.45
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.53,
+"up5": 2,
+"lead": "조비",
+"lead_ret": 7.74,
+"second": "남해화학",
+"second_ret": 5.63
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.28,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 5.8,
+"second": "KG케미칼",
+"second_ret": 3.97
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.58,
+"up5": 2,
+"lead": "제이씨케미칼",
+"lead_ret": 14.89,
+"second": "무림P&P",
+"second_ret": 10.28
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.58,
+"up5": 2,
+"lead": "제이씨케미칼",
+"lead_ret": 14.89,
+"second": "무림P&P",
+"second_ret": 10.28
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 1.46,
+"up5": 6,
+"lead": "셀바스AI",
+"lead_ret": 23.8,
+"second": "씨어스",
+"second_ret": 10.71
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 0.93,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 13.66,
+"second": "바이오솔루션",
+"second_ret": 12.04
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 0.86,
+"up5": 4,
+"lead": "메디포스트",
+"lead_ret": 13.66,
+"second": "씨어스",
+"second_ret": 10.71
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -5.57,
+"up5": 0,
+"lead": "레이저쎌",
+"lead_ret": 3.94,
+"second": "레이언스",
+"second_ret": -1.56
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -5.35,
+"up5": 0,
+"lead": "에이직랜드",
+"lead_ret": -3.47,
+"second": "네패스아크",
+"second_ret": -4.41
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -4.98,
+"up5": 0,
+"lead": "루멘스바이오스",
+"lead_ret": 1.93,
+"second": "LG전자",
+"second_ret": -1.48
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": -4.7,
+"up5": 0,
+"lead": "아이앤씨",
+"lead_ret": 1.96,
+"second": "지니틱스",
+"second_ret": 1.22
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": -4.67,
+"up5": 1,
+"lead": "에이치엠넥스",
+"lead_ret": 8.33,
+"second": "인텍플러스",
+"second_ret": 4.86
+}
+],
+"leaders": [
+{
+"name": "SK오션플랜트",
+"code": "100090",
+"ret": 14.57,
+"value": 4228,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 23.8,
+"value": 3880,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "코오롱티슈진",
+"code": "950160",
+"ret": 17.11,
+"value": 3285,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "에코플라스틱",
+"code": "038110",
+"ret": 21.03,
+"value": 2800,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+},
+{
+"name": "큐렉소",
+"code": "060280",
+"ret": 15.07,
+"value": 1749,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

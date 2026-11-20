@@ -1,0 +1,254 @@
+{
+"date": "20260911",
+"kospi": -1.76,
+"kosdaq": -1.95,
+"adv": 891,
+"dec": 1341,
+"flat": 186,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 251086,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 8,
+"lead": "에스피소프트",
+"lead_ret": 29.99,
+"second": "엑스게이트",
+"second_ret": 29.94
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 5,
+"lead": "아모텍",
+"lead_ret": 29.98,
+"second": "삼화콘덴서",
+"second_ret": 18.76
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "삼화콘덴서",
+"lead_ret": 18.76,
+"second": "알멕",
+"second_ret": 12.73
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 7.69,
+"up5": 5,
+"lead": "아모텍",
+"lead_ret": 29.98,
+"second": "삼화콘덴서",
+"second_ret": 18.76
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 6.04,
+"up5": 6,
+"lead": "에스피소프트",
+"lead_ret": 29.99,
+"second": "샌즈랩",
+"second_ret": 29.8
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 5.71,
+"up5": 17,
+"lead": "에스피소프트",
+"lead_ret": 29.99,
+"second": "엑스게이트",
+"second_ret": 29.94
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 4.86,
+"up5": 8,
+"lead": "엑스게이트",
+"lead_ret": 29.94,
+"second": "드림시큐리티",
+"second_ret": 23.29
+},
+{
+"name": "보안주(물리)",
+"n": 20,
+"avg": 4.01,
+"up5": 4,
+"lead": "카티스",
+"lead_ret": 29.91,
+"second": "앤씨앤",
+"second_ret": 29.8
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 3.65,
+"up5": 1,
+"lead": "진영",
+"lead_ret": 29.88,
+"second": "삼륭물산",
+"second_ret": 1.74
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 3.05,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.8,
+"second": "포커스에이아이",
+"second_ret": 1.67
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.98,
+"up5": 5,
+"lead": "드림시큐리티",
+"lead_ret": 23.29,
+"second": "엑스페릭스",
+"second_ret": 12.42
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.6,
+"up5": 3,
+"lead": "케스피온",
+"lead_ret": 23.47,
+"second": "스퀘어텍",
+"second_ret": 5.19
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.6,
+"up5": 3,
+"lead": "케스피온",
+"lead_ret": 23.47,
+"second": "스퀘어텍",
+"second_ret": 5.19
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 2.56,
+"up5": 1,
+"lead": "드림시큐리티",
+"lead_ret": 23.29,
+"second": "KB금융",
+"second_ret": 2.6
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 2.34,
+"up5": 4,
+"lead": "아모텍",
+"lead_ret": 29.98,
+"second": "드림시큐리티",
+"second_ret": 23.29
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 9,
+"avg": -3.42,
+"up5": 0,
+"lead": "진코스텍",
+"lead_ret": 0.45,
+"second": "레몬헬스케어",
+"second_ret": -2.03
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -3.35,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 1.37,
+"second": "탑엔지니어링",
+"second_ret": 0.54
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.23,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": 3.23,
+"second": "풀무원",
+"second_ret": -0.53
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -3.22,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": 0.71,
+"second": "삼성전기",
+"second_ret": 0.0
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": -2.81,
+"up5": 0,
+"lead": "피에스케이홀딩스",
+"lead_ret": 1.29,
+"second": "큐알티",
+"second_ret": 0.71
+}
+],
+"leaders": [
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 18.76,
+"value": 5451,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 29.94,
+"value": 2302,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "한국화장품제조",
+"code": "003350",
+"ret": 19.38,
+"value": 1854,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "드림시큐리티",
+"code": "203650",
+"ret": 23.29,
+"value": 1348,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "아모텍",
+"code": "052710",
+"ret": 29.98,
+"value": 514,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20260127",
+"kospi": 2.73,
+"kosdaq": 1.71,
+"adv": 1197,
+"dec": 1086,
+"flat": 116,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 450082,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "제우스",
+"lead_ret": 24.5,
+"second": "하나마이크론",
+"second_ret": 18.41
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "하나마이크론",
+"lead_ret": 18.41,
+"second": "한양디지텍",
+"second_ret": 16.99
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "한전산업",
+"lead_ret": 20.21,
+"second": "지에프아이",
+"second_ret": 14.24
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 10.77,
+"up5": 4,
+"lead": "메디포스트",
+"lead_ret": 29.77,
+"second": "차바이오텍",
+"second_ret": 11.33
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 6.19,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 29.98,
+"second": "인선이엔티",
+"second_ret": 2.52
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 6.1,
+"up5": 2,
+"lead": "제주은행",
+"lead_ret": 30.0,
+"second": "KB금융",
+"second_ret": 5.54
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 4.46,
+"up5": 5,
+"lead": "메디포스트",
+"lead_ret": 29.77,
+"second": "코아스템켐온",
+"second_ret": 15.62
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.07,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 8.7,
+"second": "SK스퀘어",
+"second_ret": 7.26
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 3.86,
+"up5": 6,
+"lead": "한컴위드",
+"lead_ret": 29.85,
+"second": "NHN KCP",
+"second_ret": 12.71
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.81,
+"up5": 9,
+"lead": "제우스",
+"lead_ret": 24.5,
+"second": "넥스틴",
+"second_ret": 9.38
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 3.42,
+"up5": 4,
+"lead": "한컴위드",
+"lead_ret": 29.85,
+"second": "SK텔레콤",
+"second_ret": 12.3
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 3.21,
+"up5": 6,
+"lead": "엘티씨",
+"lead_ret": 9.24,
+"second": "미코",
+"second_ret": 8.19
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 3.14,
+"up5": 5,
+"lead": "리노공업",
+"lead_ret": 10.62,
+"second": "SK하이닉스",
+"second_ret": 8.7
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 3.0,
+"up5": 4,
+"lead": "제이케이시냅스",
+"lead_ret": 30.02,
+"second": "NHN KCP",
+"second_ret": 12.71
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 2.93,
+"up5": 25,
+"lead": "제우스",
+"lead_ret": 24.5,
+"second": "하나마이크론",
+"second_ret": 18.41
+}
+],
+"themes_worst": [
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": -2.06,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 2.53,
+"second": "두산에너빌리티",
+"second_ret": 1.96
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": -1.29,
+"up5": 0,
+"lead": "포스코스틸리온",
+"lead_ret": 0.36,
+"second": "대한제강",
+"second_ret": 0.0
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.19,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": -0.14,
+"second": "오픈베이스",
+"second_ret": -0.21
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": -1.11,
+"up5": 4,
+"lead": "제우스",
+"lead_ret": 24.5,
+"second": "싸이맥스",
+"second_ret": 8.21
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.04,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 2.05,
+"second": "로지시스",
+"second_ret": 0.96
+}
+],
+"leaders": [
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 18.41,
+"value": 4428,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "SK텔레콤",
+"code": "017670",
+"ret": 12.3,
+"value": 4121,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "NHN KCP",
+"code": "060250",
+"ret": 12.71,
+"value": 3447,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "제우스",
+"code": "079370",
+"ret": 24.5,
+"value": 1963,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 20.21,
+"value": 1869,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}
