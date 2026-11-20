@@ -26,7 +26,7 @@ STAGE_NOTE = {"초단타": "장중", "단타": "하룻밤", "스윙": "며칠~�
 SHOW_NAME = {"중기 스윙": "CAN SLIM"}
 EXPECT_M15 = (27, -0.41)   # 1년 검증 (15분봉, 288종목)
 STATUS = {"종가베팅": "검증 통과 (11년)", "중기 스윙": "검증 통과 (20년)", "저가매수": "검증 통과 · 모의 확인 중",
-          "스윙 A": "테스트 중", "VI 단타": "테스트 중", M15: "테스트 중 (1년 검증 미통과)"}
+          "스윙 A": "검증 통과 (12년)", "VI 단타": "테스트 중", M15: "테스트 중 (1년 검증 미통과)"}
 PALETTE = ["#e3120b", "#2e6f8e", "#e8a317", "#3c8d5a", "#8e44ad", "#d35400", "#16a085", "#c0398b", "#5b6ee1", "#7f8c2d", "#b5651d", "#0f8fbf"]
 
 
@@ -704,7 +704,7 @@ def index_page(days, t, h, fm, vi, expect):
                   f'{label} <span class="badge ok">검증 통과</span><br>' + (f"끝난 {n}건" + (" · 표본 부족" if n < 30 else "") if n else "아직 끝난 매매 없음"),
                   f"#perf-{s_.replace(' ', '-')}"))
     body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
-    body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타, 스윙 A)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
+    body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
     body += '<h2 id="real">실제 계좌</h2>' + real_html
     body += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
              '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
