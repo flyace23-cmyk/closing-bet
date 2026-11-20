@@ -188,39 +188,49 @@ def theme_of(r, mk):
 
 
 # ---------- 조각 ----------
-def strat_rows(t, expect, with_expect=True):
-    """단계 → 매매법 → 구분. 3칸(매매법 / 평균·건수 / 승률), 30건 미만은 흐리게, 0건은 접어 둠"""
-    keys = [k for k, _ in t.groupby(["매매법", "구분"], sort=False)] if len(t) else []
-    for k in list(expect.keys()) + [(M15, "모의"), ("VI 단타", "자동 복기(정식 시간)")]:
-        if k not in keys:
-            keys.append(k)
-    keys = sorted([k for k in keys if k[0] in STAGE], key=lambda k: (STAGE_ORDER.index(STAGE[k[0]]), k[0], k[1]))
-    rows, empty, last, seen = [], [], None, set()
-    aid = lambda name: "" if name in seen or seen.add(name) else f' id="perf-{name.replace(" ", "-")}"'
-    for s, k in keys:
-        g = t[(t.매매법 == s) & (t.구분 == k)] if len(t) else t
+# 매매법 한 줄씩: (매매법 키, 보이는 이름, 대표 구분 후보 순서). 진행 중 탭과 같은 이름·같은 순서
+STRATS = [("VI 단타", "VI 단타", ["자동 복기(정식 시간)", "봇 신호"]),
+          (M15, M15, ["모의"]),
+          ("종가베팅", "종가베팅", ["실제", "모의(알려준 후보)"]),
+          ("저가매수", "저가매수", ["내 5칸", "전체 신호"]),
+          ("스윙 A", "스윙 A", ["모의"]),
+          ("중기 스윙", "CAN SLIM", ["실제", "모의"])]
+
+
+def strat_rows(t, expect, with_expect=True, h=None):
+    """매매법마다 한 줄. 큰 숫자는 대표 구분(실제가 있으면 실제), 나머지 구분은 작은 글씨. 진행 중 종목 수와 탭 연결"""
+    base = h["매매법"].astype(str).str.split("(").str[0] if h is not None and len(h) else pd.Series(dtype=str)
+    tab_idx = {k: i for i, (k, _, _) in enumerate(HOLD_TABS)}
+    rows, last = [], None
+    for key, label, kinds in STRATS:
+        g_all = t[t.매매법 == key] if len(t) else t
+        main = next((k for k in kinds if len(g_all) and (g_all.구분 == k).any()), next((k for k in kinds if k != "실제"), kinds[0]))
+        g = g_all[g_all.구분 == main] if len(g_all) else g_all
         n, w, a = stat(g["수익률(%)"] if len(g) else [])
-        e = expect.get((s, k)) or (EXPECT_M15 if s == M15 else (None, None))
-        st = STATUS.get(s, "")
+        e = expect.get((key, main)) or (EXPECT_M15 if key == M15 else (None, None))
+        st = STATUS.get(key, "")
         badge = f'<span class="badge {"test" if st.startswith("테스트") else "ok"}">{E(st.split(" (")[0].split(" ·")[0])}</span>' if st else ""
-        if n == 0:
-            empty.append(f'<li{aid(s)}><b>{E(SHOW_NAME.get(s, s))}</b> {badge} <small>{E(k)} · 기대 평균 {num(e[1]) if e[1] is not None else "–"}</small></li>')
-            continue
-        stage = STAGE[s]
+        stage = STAGE[key]
         if stage != last:
             rows.append(("group", f"<b>{stage}</b> <small>{STAGE_NOTE[stage]}</small>"))
             last = stage
+        others = []
+        for k2, g2 in (g_all.groupby("구분") if len(g_all) else []):
+            if k2 != main:
+                n2, w2, a2 = stat(g2["수익률(%)"])
+                others.append(f"{E(k2)} {n2}건 {num(a2)}")
+        hold_n = int((base == key).sum()) if len(base) else 0
+        link = (f'<a class="go" href="#hp-{tab_idx[key]}">진행 중 {hold_n}종목 ›</a>' if key in tab_idx and hold_n
+                else (f'<small class="k">진행 중 없음</small>' if key in tab_idx else ""))
+        sub = f'{E(main)}' + (f' · 기대 {num(e[1])}' if with_expect and e[1] is not None else "")
+        name_cell = (f'<b id="perf-{key.replace(" ", "-")}">{E(label)}</b> {badge}<small class="k">{sub}</small>'
+                     + (f'<small class="k">{extra(g["수익률(%)"])}</small>' if n else "")
+                     + (f'<small class="k">그 밖: {" · ".join(others)}</small>' if others else "") + link)
         small = n < 30
-        sub = f'{E(k)}' + (f' · 기대 {num(e[1])}' if with_expect and e[1] is not None else "")
-        ex = extra(g["수익률(%)"])
-        cells = [f'<b{aid(s)}>{E(SHOW_NAME.get(s, s))}</b> {badge}<small class="k">{sub}</small><small class="k">{ex}</small>',
-                 f'<span class="{"thin" if small else ""}">{num(a)}</span><small class="k">승률 {f"{w:.0f}%" if w is not None else "–"} · {n}건</small>'
-                 + (f'<small class="k">표본 부족 {n}/30</small>' if small else "")]
-        rows.append(cells)
-    out = wide(["매매법", "평균"], rows, right=(1,)) if rows else '<p class="empty">아직 끝난 매매가 없어요.</p>'
-    if empty:
-        out += f'<details class="fold"><summary>아직 기록 없는 매매법 {len(empty)}개</summary><ul class="plain">{"".join(empty)}</ul></details>'
-    return out
+        val = (f'<span class="{"thin" if small else ""}">{num(a)}</span><small class="k">승률 {f"{w:.0f}%" if w is not None else "–"} · {n}건</small>'
+               + (f'<small class="k">표본 부족 {n}/30</small>' if small else "")) if n else '<span class="empty">–</span><small class="k">끝난 매매 0건</small>'
+        rows.append(("muted" if n == 0 and not hold_n else "", [name_cell, val]))
+    return wide(["매매법", "평균"], rows, right=(1,))
 
 
 HOLD_TABS = [("저가매수", "저가매수", "엔벨로프 아래로 빠지면 3번 나눠 사고, 20일선 회복에 팔아요. 1차 신호(종가가 20일선보다 10% 아래)가 나면 칸이 채워져요."),
@@ -258,7 +268,10 @@ def holdings(h):
         g = h[base == key] if len(h) else h
         n, w, a = stat(g["수익률(%)"]) if len(g) else (0, None, None)
         tabs.append(f'<a href="#hp-{i}" data-i="{i}" class="{"on" if i == 0 else ""}">{label} <b>{len(g)}</b></a>')
-        head = f'<p class="kpi"><b>{label}</b> {len(g)}종목' + (f' · 평가 평균 {num(a)}' if len(g) else "") + "</p>"
+        st = STATUS.get(key, "")
+        badge = f'<span class="badge {"test" if st.startswith("테스트") else "ok"}">{E(st.split(" (")[0].split(" ·")[0])}</span>' if st else ""
+        head = (f'<p class="kpi"><b>{label}</b> {badge} <small>{STAGE[key]}</small> · {len(g)}종목' + (f' · 평가 평균 {num(a)}' if len(g) else "")
+                + f' <a class="go" href="#perf-{key.replace(" ", "-")}">성적 보기 ›</a></p>')
         body = wide(["종목", "평가 수익률", "다음 할 일"], hold_rows(g), right=(1,)) if len(g) else '<p class="empty">지금 들고 있는 종목 없음</p>'
         panes.append(f'<section class="pane" id="hp-{i}">{head}{body}<p class="sub">{E(note)}</p></section>')
     n, w, a = stat(h["수익률(%)"]) if len(h) else (0, None, None)
@@ -624,6 +637,7 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .htabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.htabs a b{font-weight:700;opacity:.8}
 .panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
 .pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
+a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
@@ -692,7 +706,8 @@ def index_page(days, t, h, fm, vi, expect):
     body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
     body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타, 스윙 A)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
     body += '<h2 id="real">실제 계좌</h2>' + real_html
-    body += '<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요.</p>' + strat_rows(t, expect)
+    body += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
+             '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
     body += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
     body += '<h2 id="hold">지금 진행 중 (모의)</h2>' + holdings(h)
     body += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
