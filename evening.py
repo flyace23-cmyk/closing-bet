@@ -190,6 +190,11 @@ def main():
         send(father_mock.daily_section(), html=True)
     except Exception as e:
         send(f"(15분봉 MACD·일목 단타 모의 실패: {e})")
+    try:
+        import real
+        send(real.section(msgs, L), html=True)
+    except Exception as e:
+        send(f"(실제 계좌 정리 실패: {e})")
 
 
 if __name__ == "__main__":

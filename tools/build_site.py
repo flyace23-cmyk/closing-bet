@@ -78,7 +78,7 @@ def chip(theme, short=True):
 
 
 def read(path):
-    return pd.read_csv(path, dtype={"code": str, "date": str, "종목코드": str}) if os.path.exists(path) and os.path.getsize(path) else pd.DataFrame()
+    return pd.read_csv(path, dtype={"code": str, "date": str, "종목코드": str, "코드": str, "날짜": str, "시작일": str}) if os.path.exists(path) and os.path.getsize(path) else pd.DataFrame()
 
 
 def wide(head, rows, right=()):
@@ -247,6 +247,35 @@ def holdings(h):
     n, w, a = stat(h["수익률(%)"])
     head = f'<p class="kpi">{len(h)}종목 · 평가 평균 {num(a)} <small>(아직 팔지 않은 손익, 최근 종가 기준)</small></p>'
     return head + wide(["종목", "평가 수익률", "다음 할 일"], rows, right=(1,))
+
+
+def real_block():
+    pos = read(os.path.join(REC, "real", "positions.csv"))
+    trd = read(os.path.join(REC, "real", "trades.csv"))
+    if not len(pos) and not len(trd):
+        return '<p class="empty">실제 계좌 기록 없음</p>', None
+    try:
+        import market_data as md
+        L = md.all_stocks(); price = dict(zip(L.code, L.price))
+    except Exception:
+        price = {}
+    rows, rets = [], []
+    for r in pos.itertuples():
+        c = price.get(r.코드); avg = fnum(r.평단)
+        ret = (c / avg - 1) * 100 if c and avg else None
+        if ret is not None:
+            rets.append(ret)
+        rows.append([f'<b>{E(r.종목)}</b> <span class="badge real">실제</span><small class="k">{E(r.계좌)} · {E(fmt_d(str(r.시작일), False))}부터 기록</small>',
+                     num(ret) + f'<small class="k">{(c or 0):,.0f} / 평단 {(avg or 0):,.0f}</small>', E(r.계획 if isinstance(r.계획, str) else "")])
+    html_ = wide(["종목", "평가 수익률", "계획"], rows, right=(1,)) if rows else ""
+    if len(trd):
+        tr = [[f'<b>{E(r.종목)}</b><small class="k">{E(r.계좌)} · {E(r.구분)} 매도 · {E(fmt_d(str(r.날짜), False))}</small>', num(r._8),
+               f'{fnum(r.평단) or 0:,.0f} → {fnum(r.매도가) or 0:,.0f}'] for r in trd.itertuples()]
+        html_ += "<h3>판 기록</h3>" + wide(["종목", "수익률", "평단 → 매도가"], tr, right=(1,))
+    html_ += ('<p class="sub">키움은 평일 16:13 노트북이 잔고를 읽어 자동으로 맞춰요. 미래에셋 등은 봇에게 '
+              '"실제 종목 평단 계좌", "실제매도 종목 매도가", "실제일부매도 종목 매도가", "실제계획 종목 내용"으로 알려 주세요. 수량·금액은 저장하지 않아요.</p>')
+    avg_ret = sum(rets) / len(rets) if rets else None
+    return html_, (len(pos), avg_ret)
 
 
 def leaders_table(lead, d, mk):
@@ -559,14 +588,14 @@ details.fold{border-bottom:1px solid var(--line)}details.fold summary{padding:10
 details.fold summary::before{content:"▸";color:var(--slate)}details.fold[open] summary::before{content:"▾"}
 details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{margin-top:0}
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:4px;vertical-align:1px;white-space:nowrap}
-.badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
+.badge.real{background:var(--ink);color:var(--bg)}.badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
 .chart svg{width:100%;height:auto;display:block}.chart .grid{stroke:var(--line);stroke-width:.6}.chart .below{fill:color-mix(in srgb,var(--dn) 9%,transparent)}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
 .legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--mute);margin:4px 0 6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
 .thin{opacity:.45}.kpis div:first-child{grid-column:1/-1}.cnt{display:inline-block;white-space:nowrap;margin:0 8px 6px 0}ul.plain{list-style:none;padding:0;margin:4px 0}ul.plain li{padding:6px 0;border-bottom:1px solid var(--line)}
 .kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
 .wide td:last-child{white-space:normal;min-width:110px;font-size:13.5px}
 .kpis.links a{display:block;position:relative;background:var(--bg);padding:12px 26px 12px 14px;color:var(--ink);text-decoration:none}
-.kpis.links a:first-child{grid-column:1/-1}.kpis.links a:active,.kpis.links a:hover{background:var(--panel)}
+.kpis.links a:nth-child(-n+2){grid-column:auto}.kpis.links a.wide{grid-column:1/-1}.kpis.links a:active,.kpis.links a:hover{background:var(--panel)}
 .kpis.links em{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:22px;color:var(--mute)}
 .kpis.links .kv{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis.links .kl{color:var(--mute);font-size:13px;display:block;line-height:1.5}
 .flash{background:color-mix(in srgb,#f3c64a 45%,transparent);transition:background .4s}html{scroll-behavior:smooth;scroll-padding-top:16px}
@@ -619,13 +648,16 @@ def index_page(days, t, h, fm, vi, expect):
         line += f' · 알림 {len(ms)}개'
         body += f'<div class="today"><a href="m/{d0}.html">{line}</a></div>'
     k = []
+    real_html, real_sum = real_block()
+    if real_sum:
+        k.append((num(real_sum[1]), f'실제 계좌 <span class="badge real">실제</span> {real_sum[0]}종목<br>평가 평균 (미래에셋 포함)', "#real"))
     if gap:
         on = all(v > 0 for v in gap.values())
         k.append((f'<span class="{"up" if on else "dn"}">{"매매 가능" if on else "매매 쉼"}</span>',
                   "종가베팅 · 신규 매수<br>코스피 20일선 " + f'{num(gap.get("KOSPI"), 1)}' + " · 코스닥 " + f'{num(gap.get("KOSDAQ"), 1)}', "#mkt"))
     if len(h):
         n, w, a = stat(h["수익률(%)"])
-        k.append((num(a), f"지금 진행 중 {len(h)}종목<br>평가 평균 (아직 안 판 손익)", "#hold"))
+        k.append((num(a), f"모의 진행 중 {len(h)}종목<br>평가 평균 (아직 안 판 손익)", "#hold"))
     for s_, kinds, label in (("종가베팅", ("실제", "모의(알려준 후보)"), "종가베팅"), ("저가매수", ("내 5칸",), "저가매수 5칸"), ("중기 스윙", ("실제", "모의"), "CAN SLIM")):
         g = t[(t.매매법 == s_) & t.구분.isin(kinds)] if len(t) else t
         n, w, a = stat(g["수익률(%)"] if len(g) else [])
@@ -634,9 +666,10 @@ def index_page(days, t, h, fm, vi, expect):
                   f"#perf-{s_.replace(' ', '-')}"))
     body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
     body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타, 스윙 A)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
+    body += '<h2 id="real">실제 계좌</h2>' + real_html
     body += '<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요.</p>' + strat_rows(t, expect)
     body += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
-    body += '<h2 id="hold">지금 진행 중</h2>' + holdings(h)
+    body += '<h2 id="hold">지금 진행 중 (모의)</h2>' + holdings(h)
     body += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
     ds = set(days)
     body += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
