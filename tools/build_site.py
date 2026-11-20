@@ -355,36 +355,65 @@ def curve_svg(t):
             '<p class="sub">끝난 매매의 수익률을 판 날 순서로 더한 값(매매마다 같은 금액 가정). 점을 누르면 종목과 누적값이 나와요.</p>' + note)
 
 
-def market_bars_svg(days):
-    pts = [(d, market(d)) for d in sorted(days)[-30:] if market(d)]
-    if not pts:
+def index_svg(code, label, n=40):
+    """지수 선 + 20일선(점선) + 거래량 막대. 지수가 20일선 아래인 구간은 바탕을 옅게 칠함"""
+    try:
+        import market_data as md
+        x = md.daily(code, n + 25).reset_index(drop=True)
+    except Exception:
         return ""
-    vals = [fnum(m.get(k)) or 0 for _, m in pts for k in ("kospi", "kosdaq")] + [0]
-    lo, hi = min(vals), max(vals)
-    pad = (hi - lo) * 0.1 or 1
+    x["ma20"] = x.c.rolling(20).mean()
+    x = x.tail(n).reset_index(drop=True)
+    if len(x) < 5:
+        return ""
+    W, H, L, R, T = 640, 250, 52, 10, 10
+    PH, VH, GAP, B = 150, 50, 10, 22          # 지수 칸, 거래량 칸, 사이, 아래 글씨
+    lo, hi = min(x.l.min(), x.ma20.min()), max(x.h.max(), x.ma20.max())
+    pad = (hi - lo) * 0.06
     lo, hi = lo - pad, hi + pad
-    W, H, L, R, T, B = 640, 220, 40, 8, 8, 26
-    n = len(pts)
-    bw = (W - L - R) / n
-    Y = lambda v: T + (H - T - B) * (hi - v) / (hi - lo)
-    g = [f'<line x1="{L}" x2="{W - R}" y1="{Y(0):.1f}" y2="{Y(0):.1f}" class="zero"/>']
-    for k in range(5):
-        v = lo + (hi - lo) * k / 4
-        g.append(f'<text x="{L - 6}" y="{Y(v) + 4:.1f}" text-anchor="end">{v:+.0f}%</text>')
-    for i, (d, m) in enumerate(pts):
-        x0 = L + i * bw
-        th = (m.get("hot") or m.get("themes") or [{}])[0].get("name", "")
-        ld = (m.get("leaders") or [{}])[0]
-        tip = f'{fmt_d(d)} 코스피 {fnum(m.get("kospi")) or 0:+.2f}% · 코스닥 {fnum(m.get("kosdaq")) or 0:+.2f}% · 1등 테마 {th} · 대장주 {ld.get("name", "-")}'
-        for j, (k, c) in enumerate((("kospi", "var(--slate)"), ("kosdaq", "#e8a317"))):
-            v = fnum(m.get(k)) or 0
-            y0, y1 = sorted((Y(0), Y(v)))
-            g.append(f'<a href="m/{d}.html"><rect x="{x0 + bw * 0.12 + j * bw * 0.38:.1f}" y="{y0:.1f}" width="{bw * 0.36:.1f}" height="{max(1, y1 - y0):.1f}" fill="{c}"><title>{E(tip)}</title></rect></a>')
-        if i % max(1, n // 7) == 0:
-            g.append(f'<text x="{x0 + bw / 2:.1f}" y="{H - 6}" text-anchor="middle">{int(d[4:6])}/{int(d[6:])}</text>')
-    return ('<div class="legend"><span><i style="background:var(--slate)"></i>코스피</span><span><i style="background:#e8a317"></i>코스닥</span></div>'
-            f'<div class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="날짜별 코스피·코스닥 등락">{"".join(g)}</svg></div>'
-            '<p class="sub">막대를 누르면 그날 시장·테마·대장주 페이지가 열려요.</p>')
+    m = len(x); bw = (W - L - R) / m
+    X = lambda i: L + bw * (i + 0.5)
+    Y = lambda v: T + PH * (hi - v) / (hi - lo)
+    vmax = x.v.max() or 1
+    VY0 = T + PH + GAP + VH
+    g = []
+    for i, r in x.iterrows():          # 20일선 아래인 날은 바탕을 옅게
+        if r.ma20 == r.ma20 and r.c < r.ma20:
+            g.append(f'<rect x="{L + bw * i:.1f}" y="{T}" width="{bw:.1f}" height="{PH}" class="below"/>')
+    for k in range(4):
+        v = lo + (hi - lo) * k / 3
+        g.append(f'<line x1="{L}" x2="{W - R}" y1="{Y(v):.1f}" y2="{Y(v):.1f}" class="grid"/><text x="{L - 6}" y="{Y(v) + 4:.1f}" text-anchor="end">{v:,.0f}</text>')
+    ma = " ".join(f"{'M' if j == 0 else 'L'}{X(i):.1f},{Y(v):.1f}" for j, (i, v) in enumerate((i, v) for i, v in x.ma20.items() if v == v))
+    g.append(f'<path d="{ma}" fill="none" stroke="var(--mute)" stroke-width="1.6" stroke-dasharray="5 4"/>')
+    cl = " ".join(f"{'M' if i == 0 else 'L'}{X(i):.1f},{Y(v):.1f}" for i, v in x.c.items())
+    g.append(f'<path d="{cl}" fill="none" stroke="var(--ink)" stroke-width="2.2"/>')
+    for i, r in x.iterrows():
+        up = i == 0 or r.c >= x.c[i - 1]
+        h_ = VH * r.v / vmax
+        chg = (r.c / x.c[i - 1] - 1) * 100 if i else 0
+        d = r.date
+        g.append(f'<a href="{"m/" + d + ".html" if market(d) else "#"}"><rect x="{L + bw * i + bw * 0.15:.1f}" y="{VY0 - h_:.1f}" width="{bw * 0.7:.1f}" height="{max(1, h_):.1f}" '
+                 f'fill="var({"--up" if up else "--dn"})" opacity=".55"><title>{int(d[4:6])}/{int(d[6:])} {label} {r.c:,.2f} ({chg:+.2f}%) · 20일선 {r.ma20:,.0f} · 거래량 {r.v:,.0f}천주</title></rect></a>')
+        g.append(f'<circle cx="{X(i):.1f}" cy="{Y(r.c):.1f}" r="7" fill="transparent"><title>{int(d[4:6])}/{int(d[6:])} {label} {r.c:,.2f} ({chg:+.2f}%) · 20일선 {r.ma20:,.0f}</title></circle>')
+    g.append(f'<text x="{L - 6}" y="{VY0 - VH + 10}" text-anchor="end">거래량</text>')
+    step = max(1, m // 6)
+    for i in range(0, m, step):
+        d = x.date[i]
+        g.append(f'<text x="{X(i):.1f}" y="{H - 4}" text-anchor="middle">{int(d[4:6])}/{int(d[6:])}</text>')
+    last = x.iloc[-1]
+    gap = (last.c / last.ma20 - 1) * 100
+    head = (f'<h3>{label} <b>{last.c:,.2f}</b> {num((last.c / x.c.iloc[-2] - 1) * 100)} '
+            f'<small>· 20일선 {last.ma20:,.0f} ({num(gap, 1)} {"위" if gap > 0 else "아래"})</small></h3>')
+    return head + f'<div class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="{label} 지수와 20일선, 거래량">{"".join(g)}</svg></div>'
+
+
+def market_bars_svg(days):
+    a, b = index_svg("KOSPI", "코스피"), index_svg("KOSDAQ", "코스닥")
+    if not (a or b):
+        return '<p class="empty">지수 데이터를 받지 못했어요.</p>'
+    return ('<div class="legend"><span><i style="background:var(--ink)"></i>지수</span><span><i style="background:var(--mute)"></i>20일선(점선)</span>'
+            '<span><i style="background:color-mix(in srgb,var(--dn) 25%,transparent)"></i>20일선 아래 구간</span><span><i style="background:var(--up)"></i>거래량(오른 날 빨강, 내린 날 파랑)</span></div>'
+            + a + b + '<p class="sub">지수가 20일선(점선) 위로 올라가야 종가베팅·신규 매수를 다시 해요. 거래량 막대를 누르면 그날 시장 페이지가 열려요.</p>')
 
 
 # ---------- 달력 ----------
@@ -530,7 +559,7 @@ details.fold summary::before{content:"▸";color:var(--slate)}details.fold[open]
 details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{margin-top:0}
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:4px;vertical-align:1px;white-space:nowrap}
 .badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
-.chart svg{width:100%;height:auto;display:block}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
+.chart svg{width:100%;height:auto;display:block}.chart .grid{stroke:var(--line);stroke-width:.6}.chart .below{fill:color-mix(in srgb,var(--dn) 9%,transparent)}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
 .legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--mute);margin:4px 0 6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
 .thin{opacity:.45}.kpis div:first-child{grid-column:1/-1}.cnt{display:inline-block;white-space:nowrap;margin:0 8px 6px 0}ul.plain{list-style:none;padding:0;margin:4px 0}ul.plain li{padding:6px 0;border-bottom:1px solid var(--line)}
 .kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
