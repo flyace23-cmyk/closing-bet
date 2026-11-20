@@ -894,6 +894,35 @@ function ixChart(key, label, r) {
   const a = S[hl[0] - 1] || S[hl[0]], b = S[hl[1]], gap = ma[hl[1]] ? (b.c / ma[hl[1]] - 1) * 100 : null;
   return `<h3>${label} <b>${b.c.toLocaleString()}</b> ${pct((b.c / a.c - 1) * 100)} <small>기간 · 20일선 ${gap == null ? '–' : pct(gap) + (gap > 0 ? ' 위' : ' 아래')}</small></h3><div class="chart"><svg viewBox="0 0 ${W} ${H}">${g}</svg></div>`;
 }
+// 이 기간 가장 세게 오른 종목: 기간 안에 대장주였던 종목의 '기간 등락률' (기간 시작 전날 종가 → 기간 마지막 종가)
+const PX = {};
+const loadPx = (y) => PX[y] || (PX[y] = fetch(`px/${y}.json`).then((r) => r.ok ? r.json() : null).catch(() => null));
+let bestTok = 0;
+async function periodBest(rows, r) {
+  const tok = ++bestTok, box = () => document.getElementById('bestbox');
+  const cand = {};
+  rows.forEach((z) => (z.ls || []).forEach(([n, rr, th, c]) => { if (!c) return; const f = (cand[c] = cand[c] || {n, th, k: 0, first: z.d}); f.k++; if (th) f.th = th; }));
+  if (!Object.keys(cand).length) return;
+  if (box()) box().innerHTML = '<h3>이 기간 가장 세게 오른 종목</h3><p class="sub">불러오는 중…</p>';
+  const y0 = +r[0].slice(0, 4), y1 = +r[1].slice(0, 4), ys = [];
+  for (let y = y0 - 1; y <= y1; y++) ys.push(y);
+  const files = (await Promise.all(ys.map(loadPx))).filter(Boolean);
+  if (tok !== bestTok || !box()) return;
+  const res = [];
+  Object.entries(cand).forEach(([c, f]) => {
+    let base = null, last = null, hi = null, lastD = null;
+    files.forEach((F) => { const p = F.p[c]; if (!p) return; F.d.forEach((d, i) => { const v = p[i]; if (v == null) return;
+      if (d < r[0]) base = v; else if (d <= r[1]) { if (base == null) base = v; last = v; lastD = d; hi = Math.max(hi ?? v, v); } }); });
+    if (base && last) res.push({c, ...f, ret: (last / base - 1) * 100, hi: (hi / base - 1) * 100, lastD});
+  });
+  if (!res.length) { box().innerHTML = ''; return; }
+  res.sort((a, b) => b.ret - a.ret);
+  const th = (t) => t ? chip(THS[t] || t.split('(')[0].replace(/ /g, '').slice(0, 6), THC[t] || '#8a959c', t) : '';
+  box().innerHTML = '<h3>이 기간 가장 세게 오른 종목</h3><p class="sub">이 기간에 대장주(+10%↑·거래대금 100억↑)로 한 번이라도 뜬 종목을, 기간 시작 전날 종가부터 기간 마지막 날 종가까지 오른 비율로 줄 세웠어요. 고점은 기간 중 가장 높았던 종가 기준이에요.</p>'
+    + '<div class="scroll"><table class="wide"><thead><tr><th>종목</th><th class="r">기간 등락</th><th class="r">고점까지</th></tr></thead><tbody>' + res.slice(0, 10).map((z) =>
+      `<tr><td><b>${esc(z.n)}</b><small class="k">${th(z.th)} · 대장주 ${z.k}회 · 처음 ${fd(z.first)}</small></td><td class="r"><b>${pct(z.ret)}</b></td><td class="r">${pct(z.hi)}</td></tr>`).join('')
+    + '</tbody></table></div>';
+}
 function render() {
   const r = range(), rows = D.filter((z) => z.d >= r[0] && z.d <= r[1]);
   const ic = document.getElementById('ichart');
@@ -906,7 +935,6 @@ function render() {
   const cnt = {}; rows.forEach((z) => { if (z.t) cnt[z.t] = (cnt[z.t] || 0) + 1; });
   const tops = Object.entries(cnt).sort((a, b) => b[1] - a[1]);
   const meta = Object.fromEntries(rows.map((z) => [z.t, z]));
-  const best = rows.filter((z) => z.l).sort((a, b) => b.lr - a.lr).slice(0, 5);
   let h = '';
   if (!rows.length) { app.querySelector('.out').innerHTML = h + '<p class="empty">이 기간에는 기록이 없어요.</p>'; return; }
   h += `<div class="kpis"><div><b>${pct(comp('k'))}</b><span>코스피 기간 등락</span></div><div><b>${pct(comp('q'))}</b><span>코스닥 기간 등락</span></div>`
@@ -922,10 +950,7 @@ function render() {
     h += '<h3>1등 테마가 된 횟수</h3><div class="bars">' + tops.slice(0, 12).map(([t, n]) => `<div class="bar-row"><span class="bl">${chip(meta[t].ts, meta[t].c, t)}</span><span class="bt"><i style="width:${n / mx * 100}%;background:${meta[t].c}"></i></span><b>${n}회</b></div>`).join('') + '</div>';
   }
   h += themeFlow(rows, r);
-  if (best.length && mode !== 'day') {
-    h += '<h3>이 기간 가장 세게 오른 대장주</h3><div class="scroll"><table class="wide"><tbody>' + best.map((z) =>
-      `<tr><td><span class="bar" style="--c:${z.lc}"></span><b>${esc(z.l)}</b><small class="k">${fd(z.d, true)} ${chip(z.lts, z.lc, z.lt)}</small></td><td class="r">${pct(z.lr)}</td><td class="r"><a class="go" href="m/${z.d}.html">그날 보기 ›</a></td></tr>`).join('') + '</tbody></table></div>';
-  }
+  if (mode !== 'day') h += '<div id="bestbox"></div>';
   if (mode !== 'day') {
     const fq = {};
     rows.forEach((z) => (z.ls || []).forEach(([n, rr, th]) => { if (!n) return; const f = (fq[n] = fq[n] || {n: 0, s: 0, th, last: z.d}); f.n++; f.s += rr; f.last = z.d; if (th) f.th = th; }));
@@ -938,6 +963,7 @@ function render() {
     }
   }
   app.querySelector('.out').innerHTML = h;
+  if (mode !== 'day') periodBest(rows, r);
   app.querySelectorAll('.pmode a').forEach((a) => a.classList.toggle('on', a.dataset.m === mode));
   app.querySelector('.custom').hidden = mode !== 'custom';
   app.querySelectorAll('.pnav').forEach((b) => b.disabled = mode === 'custom');
@@ -994,7 +1020,7 @@ def market_page(days, lead):
         lt = lr.get("theme") or ""
         rows.append(dict(d=d, k=k, q=q, avg=round(((k or 0) + (q or 0)) / 2, 2), t=hot, ts=short_theme(hot) if hot else "", c=color(hot) if hot else "",
                          l=lr.get("name", ""), lr=fnum(lr.get("ret")) or 0, lt=lt, lts=short_theme(lt) if lt else "", lc=color(lt),
-                         ls=[[x.get("name", ""), fnum(x.get("ret")) or 0, x.get("theme") or ""] for x in (mk.get("leaders") or [])]))
+                         ls=[[x.get("name", ""), fnum(x.get("ret")) or 0, x.get("theme") or "", str(x.get("code") or "")] for x in (mk.get("leaders") or [])]))
     data = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
     allth = {x[2] for r in rows for x in r["ls"] if x[2]}
     thmap = json.dumps({"s": {t: short_theme(t) for t in allth}, "c": {t: color(t) for t in allth}}, ensure_ascii=False)

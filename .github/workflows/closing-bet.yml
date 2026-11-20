@@ -45,7 +45,9 @@ jobs:
           else python scan_1510.py; fi
       - name: build page
         if: always() && github.event.inputs.mode != 'preview'
-        run: python tools/build_site.py || true
+        run: |
+          python tools/build_prices.py || true
+          python tools/build_site.py || true
       - name: save records
         if: always() && github.event.inputs.mode != 'preview'
         run: |
