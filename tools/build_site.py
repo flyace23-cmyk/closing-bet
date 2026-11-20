@@ -25,6 +25,8 @@ STAGE_ORDER = ["초단타", "단타", "스윙", "중기 스윙"]
 STAGE_NOTE = {"초단타": "장중", "단타": "하룻밤", "스윙": "며칠~몇 주", "중기 스윙": "몇 주~몇 달"}
 SHOW_NAME = {"중기 스윙": "CAN SLIM"}
 EXPECT_M15 = (27, -0.41)   # 1년 검증 (15분봉, 288종목)
+STATUS = {"종가베팅": "검증 통과 (11년)", "중기 스윙": "검증 통과 (20년)", "저가매수": "검증 통과 · 모의 확인 중",
+          "스윙 A": "테스트 중", "VI 단타": "테스트 중", M15: "테스트 중 (1년 검증 미통과)"}
 PALETTE = ["#e3120b", "#2e6f8e", "#e8a317", "#3c8d5a", "#8e44ad", "#d35400", "#16a085", "#c0398b", "#5b6ee1", "#7f8c2d", "#b5651d", "#0f8fbf"]
 
 
@@ -138,9 +140,6 @@ def load():
     fm = read(os.path.join(REC, "father_mock.csv"))
     if len(fm):
         fm["ret"] = pd.to_numeric(fm.ret)
-        add = pd.DataFrame({"매매법": M15, "구분": "모의", "종목": fm.name, "산 날": fm.date.map(ymd), "판 날": fm.date.map(ymd),
-                            "수익률(%)": fm.ret.round(2), "메모": fm.why})
-        t = pd.concat([t, add], ignore_index=True)
     lead = read(os.path.join(REC, "leaders.csv"))
     vi = read(os.path.join(VI, "review.csv"))
     if len(vi):
@@ -189,7 +188,9 @@ def strat_rows(t, expect, with_expect=True):
         if stage != last:
             rows.append(("group", f"<b>{stage}</b> <small>{STAGE_NOTE[stage]}</small>"))
             last = stage
-        cells = [f'<b>{E(SHOW_NAME.get(s, s))}</b><small class="k">{E(k)}</small>', num(a), f"{w:.0f}%" if w is not None else "–", str(n)]
+        st = STATUS.get(s, "")
+        badge = f'<span class="badge {"test" if st.startswith("테스트") else "ok"}">{E(st.split(" (")[0].split(" ·")[0])}</span>' if st else ""
+        cells = [f'<b>{E(SHOW_NAME.get(s, s))}</b> {badge}<small class="k">{E(k)} · {E(st)}</small>', num(a), f"{w:.0f}%" if w is not None else "–", str(n)]
         if with_expect:
             cells += [num(e[1]) if e[1] is not None else "–"]
         rows.append(("muted" if n == 0 else "", cells))
@@ -388,6 +389,8 @@ a.cal-d{background:var(--panel)}a.cal-d:hover,a.cal-w:hover,a.cal-d:focus-visibl
 details.fold{border-bottom:1px solid var(--line)}details.fold summary{padding:10px 0;display:flex;gap:10px;align-items:center;list-style:none}
 details.fold summary::before{content:"▸";color:var(--slate)}details.fold[open] summary::before{content:"▾"}
 details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{margin-top:0}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:4px;vertical-align:1px;white-space:nowrap}
+.badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
@@ -423,10 +426,10 @@ def index_page(days, t, h, fm, vi, expect):
         body += f'<div class="today"><a href="m/{d0}.html">{line}</a></div>'
     k = []
     if len(fm):
-        n, w, a = stat(fm.ret); k.append((num(a), f"15분봉 MACD·일목 단타 모의<br>{n}건 · 승률 {w:.0f}%"))
+        n, w, a = stat(fm.ret); k.append((num(a), f'15분봉 MACD·일목 단타 <span class="badge test">테스트 중</span><br>{n}건 · 승률 {w:.0f}%'))
     vv = t[(t.매매법 == "VI 단타") & t.구분.str.contains("정식")] if len(t) else t
     n, w, a = stat(vv["수익률(%)"] if len(vv) else [])
-    k.append((num(a) if n else "–", f"VI 단타 자동 복기<br>{n}건" + (f" · 승률 {w:.0f}%" if n else "")))
+    k.append((num(a) if n else "–", f'VI 단타 자동 복기 <span class="badge test">테스트 중</span><br>{n}건' + (f" · 승률 {w:.0f}%" if n else "")))
     cb = t[(t.매매법 == "종가베팅") & (t.구분 != "쉰 날 후보(참고)")] if len(t) else t
     n, w, a = stat(cb["수익률(%)"] if len(cb) else [])
     k.append((num(a) if n else "–", f"종가베팅<br>{n}건" + (f" · 승률 {w:.0f}%" if n else " · 시장 회복 대기")))
@@ -457,8 +460,8 @@ def day_page(d, t, fm, lead, vi):
     body = f'<nav class="tabs"><a href="../m/{d}.html">이날 시장·대장주</a><a href="../w/{monday(d)}.html">이번 주 복기</a></nav>'
     body += "<h2>보낸 알림</h2>" + ("".join(msg_html(m) for m in ms) if ms else '<p class="empty">이날 저장된 알림 원문 없음 (봇은 11/20부터, 노트북 VI봇은 다시 켠 뒤부터 저장)</p>')
     body += "<h2>대장주</h2>" + leaders_table(lead, d, market(d))
-    body += "<h2>초단타 · VI 단타 자동 복기</h2>" + vi_table(vi, [d])
-    body += f"<h2>초단타 · {M15} 모의</h2>" + m15_table(fm, [d])
+    body += '<h2>초단타 · VI 단타 자동 복기 <span class="badge test">테스트 중</span></h2>' + vi_table(vi, [d])
+    body += f'<h2>초단타 · {M15} 모의 <span class="badge test">테스트 중</span></h2>' + m15_table(fm, [d])
     body += "<h2>이날 끝난 매매 (전체)</h2>" + trades_wide(td)
     return page(fmt_d(d) + " 알림", f"알림 {len(ms)}개", body, depth=1)
 
@@ -523,8 +526,8 @@ def week_page(mon, days, t, fm, lead, vi, expect):
         body += wide(["종목", "그날", "다음날 종가", "다음날 시가", "오른 이유 후보"], rows, right=(1, 2, 3))
     else:
         body += '<p class="empty">기록 없음</p>'
-    body += "<h2>초단타 · VI 단타 자동 복기</h2>" + vi_table(vi, wk)
-    body += f"<h2>초단타 · {M15} 모의</h2>" + m15_table(fm, wk)
+    body += '<h2>초단타 · VI 단타 자동 복기 <span class="badge test">테스트 중</span></h2>' + vi_table(vi, wk)
+    body += f'<h2>초단타 · {M15} 모의 <span class="badge test">테스트 중</span></h2>' + m15_table(fm, wk)
     body += "<h2>이번 주 끝난 매매 (전체)</h2>" + trades_wide(tw)
     x = dt.datetime.strptime(mon, "%Y%m%d")
     return page(f"{x.month}월 {x.day}일 주간 복기", f"{fmt_d(mon)} ~ {fmt_d(end)}", body, depth=1)

@@ -22,7 +22,13 @@ EXPECT = {
     ("스윙 A", "모의"): (55, 2.4),
     ("중기 스윙", "모의"): (28, 4.0), ("중기 스윙", "실제"): (28, 4.0),
 }
-ORDER = ["종가베팅", "저가매수", "스윙 A", "중기 스윙", "VI 단타"]
+M15 = "15분봉 MACD·일목 단타"
+EXPECT[(M15, "모의")] = (27, -0.41)
+# 보유 기간으로 나눈 단계, 검증 상태 (근거: 프로젝트 검증 문서들)
+STAGE = {"VI 단타": "초단타", M15: "초단타", "종가베팅": "단타", "저가매수": "스윙", "스윙 A": "스윙", "중기 스윙": "중기 스윙"}
+STATUS = {"종가베팅": "검증 통과 (11년)", "중기 스윙": "검증 통과 (20년)", "저가매수": "검증 통과 · 모의 확인 중",
+          "스윙 A": "테스트 중", "VI 단타": "테스트 중", M15: "테스트 중 (1년 검증 미통과)"}
+ORDER = ["VI 단타", M15, "종가베팅", "저가매수", "스윙 A", "중기 스윙"]
 
 
 def _read(name, **kw):
@@ -112,6 +118,11 @@ def collect(vi_dir=None):
                     r.get("종료이유", ""))
 
     t = pd.DataFrame(rows, columns=["매매법", "구분", "종목", "산 날", "판 날", "수익률(%)", "메모"])
+    fm = _read("father_mock.csv")
+    if len(fm):
+        add15 = pd.DataFrame({"매매법": M15, "구분": "모의", "종목": fm.name, "산 날": fm.date.map(_d), "판 날": fm.date.map(_d),
+                              "수익률(%)": pd.to_numeric(fm.ret).round(2), "메모": fm.why})
+        t = pd.concat([t, add15], ignore_index=True)
     t = t.sort_values(["판 날", "매매법"], ascending=[False, True])
 
     # 요약: 저가매수 '전체 신호'는 5칸 매매도 포함
@@ -135,6 +146,8 @@ def collect(vi_dir=None):
         if key not in have:
             summ.append({"매매법": key[0], "구분": key[1], "건수": 0, "승률(%)": None, "평균(%)": None,
                          "기대 승률(%)": EXPECT[key][0], "기대 평균(%)": EXPECT[key][1]})
+    if (M15, "모의") not in have:
+        summ.append({"매매법": M15, "구분": "모의", "건수": 0, "승률(%)": None, "평균(%)": None, "기대 승률(%)": 27, "기대 평균(%)": -0.41})
     for k in ("자동 복기(정식 시간)", "봇 신호"):
         if ("VI 단타", k) not in have:
             summ.append({"매매법": "VI 단타", "구분": k, "건수": 0, "승률(%)": None, "평균(%)": None,
@@ -142,6 +155,10 @@ def collect(vi_dir=None):
     s = pd.DataFrame(summ)
     s["순서"] = s.매매법.map({k: i for i, k in enumerate(ORDER)})
     s = s.sort_values(["순서", "구분"]).drop(columns="순서")
+    s.insert(0, "단계", s.매매법.map(STAGE))
+    s["검증 상태"] = s.매매법.map(STATUS)
+    s["테스트 중"] = s["검증 상태"].str.startswith("테스트")
+    t.insert(0, "단계", t.매매법.map(STAGE))
     h = pd.DataFrame(hold, columns=["매매법", "종목", "시작일", "상태", "평단", "최근 기록일", "코드"])
     h = _mark_prices(h)
     return t, s, h
@@ -171,12 +188,30 @@ def _mark_prices(h):
     return h.drop(columns=["코드", "최근 기록일"])
 
 
+def market_rows(out):
+    """records/market/날짜.json → market.csv (날짜별 지수 등락·오른/내린 종목·1등 테마·대장주)"""
+    import glob, json
+    rows = []
+    for f in sorted(glob.glob(os.path.join(REC, "market", "*.json"))):
+        try:
+            m = json.load(open(f, encoding="utf-8"))
+        except Exception:
+            continue
+        hot = (m.get("hot") or m.get("themes") or [{}])[0]
+        ld = (m.get("leaders") or [{}])[0]
+        rows.append({"날짜": _d(m["date"]), "코스피(%)": m.get("kospi"), "코스닥(%)": m.get("kosdaq"), "오른 종목": m.get("adv"),
+                     "내린 종목": m.get("dec"), "상한가": m.get("limit_up"), "1등 테마": hot.get("name", ""),
+                     "대장주": ld.get("name", ""), "대장주 등락(%)": ld.get("ret")})
+    pd.DataFrame(rows).to_csv(os.path.join(out, "market.csv"), index=False)
+
+
 if __name__ == "__main__":
     out = sys.argv[1] if len(sys.argv) > 1 else "."
-    vi = sys.argv[2] if len(sys.argv) > 2 else None
+    vi = sys.argv[2] if len(sys.argv) > 2 else (os.path.join(REC, "vi") if os.path.isdir(os.path.join(REC, "vi")) else None)
     os.makedirs(out, exist_ok=True)
     t, s, h = collect(vi)
     t.to_csv(os.path.join(out, "trades.csv"), index=False)
     s.to_csv(os.path.join(out, "summary.csv"), index=False)
     h.to_csv(os.path.join(out, "holdings.csv"), index=False)
+    market_rows(out)
     print(f"매매 {len(t)}건, 요약 {len(s)}줄, 진행 중 {len(h)}건 → {out}")
