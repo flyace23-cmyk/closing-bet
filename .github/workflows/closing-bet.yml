@@ -7,10 +7,10 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "test=시험 메시지 / preview=지금 가격으로 15:10 알림 미리보기(기록 안 남김) / scan=후보 찾기(15:08 전이면 15:08까지 기다림) / evening=지금 바로 저녁 정리"
+        description: "test=시험 메시지 / preview=지금 가격으로 15:10 알림 미리보기(기록 안 남김) / scan=후보 찾기(15:08 전이면 15:08까지 기다림) / evening=지금 바로 저녁 정리 / leaders=대장주 복기만 미리보기"
         default: test
         type: choice
-        options: [test, preview, scan, evening]
+        options: [test, preview, scan, evening, leaders]
 permissions:
   contents: write
 concurrency: closing-bet
@@ -35,6 +35,7 @@ jobs:
           elif [ "$MODE" = "preview" ]; then PREVIEW=1 python scan_1510.py --now
           elif [ "$MODE" = "scan" ]; then python scan_1510.py
           elif [ "$MODE" = "evening" ]; then python evening.py --now
+          elif [ "$MODE" = "leaders" ]; then python leaders.py --send
           elif [ "${{ github.event.schedule }}" = "0 10 * * 1-5" ]; then python evening.py
           else python scan_1510.py; fi
       - name: save records

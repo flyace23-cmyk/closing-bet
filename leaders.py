@@ -202,4 +202,10 @@ def evening_section(all_df=None):
 
 
 if __name__ == "__main__":
-    print(evening_section())
+    import sys
+    text = evening_section()
+    if "--send" in sys.argv:
+        from telegram import send
+        send("🧪 미리보기\n" + text)
+    else:
+        print(text)
