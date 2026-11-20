@@ -195,7 +195,8 @@ def strat_rows(t, expect, with_expect=True):
         if k not in keys:
             keys.append(k)
     keys = sorted([k for k in keys if k[0] in STAGE], key=lambda k: (STAGE_ORDER.index(STAGE[k[0]]), k[0], k[1]))
-    rows, empty, last = [], [], None
+    rows, empty, last, seen = [], [], None, set()
+    aid = lambda name: "" if name in seen or seen.add(name) else f' id="perf-{name.replace(" ", "-")}"'
     for s, k in keys:
         g = t[(t.매매법 == s) & (t.구분 == k)] if len(t) else t
         n, w, a = stat(g["수익률(%)"] if len(g) else [])
@@ -203,7 +204,7 @@ def strat_rows(t, expect, with_expect=True):
         st = STATUS.get(s, "")
         badge = f'<span class="badge {"test" if st.startswith("테스트") else "ok"}">{E(st.split(" (")[0].split(" ·")[0])}</span>' if st else ""
         if n == 0:
-            empty.append(f'<li><b>{E(SHOW_NAME.get(s, s))}</b> {badge} <small>{E(k)} · 기대 평균 {num(e[1]) if e[1] is not None else "–"}</small></li>')
+            empty.append(f'<li{aid(s)}><b>{E(SHOW_NAME.get(s, s))}</b> {badge} <small>{E(k)} · 기대 평균 {num(e[1]) if e[1] is not None else "–"}</small></li>')
             continue
         stage = STAGE[s]
         if stage != last:
@@ -212,7 +213,7 @@ def strat_rows(t, expect, with_expect=True):
         small = n < 30
         sub = f'{E(k)}' + (f' · 기대 {num(e[1])}' if with_expect and e[1] is not None else "")
         ex = extra(g["수익률(%)"])
-        cells = [f'<b>{E(SHOW_NAME.get(s, s))}</b> {badge}<small class="k">{sub}</small><small class="k">{ex}</small>',
+        cells = [f'<b{aid(s)}>{E(SHOW_NAME.get(s, s))}</b> {badge}<small class="k">{sub}</small><small class="k">{ex}</small>',
                  f'<span class="{"thin" if small else ""}">{num(a)}</span><small class="k">승률 {f"{w:.0f}%" if w is not None else "–"} · {n}건</small>'
                  + (f'<small class="k">표본 부족 {n}/30</small>' if small else "")]
         rows.append(cells)
@@ -564,6 +565,11 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .thin{opacity:.45}.kpis div:first-child{grid-column:1/-1}.cnt{display:inline-block;white-space:nowrap;margin:0 8px 6px 0}ul.plain{list-style:none;padding:0;margin:4px 0}ul.plain li{padding:6px 0;border-bottom:1px solid var(--line)}
 .kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
 .wide td:last-child{white-space:normal;min-width:110px;font-size:13.5px}
+.kpis.links a{display:block;position:relative;background:var(--bg);padding:12px 26px 12px 14px;color:var(--ink);text-decoration:none}
+.kpis.links a:first-child{grid-column:1/-1}.kpis.links a:active,.kpis.links a:hover{background:var(--panel)}
+.kpis.links em{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:22px;color:var(--mute)}
+.kpis.links .kv{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis.links .kl{color:var(--mute);font-size:13px;display:block;line-height:1.5}
+.flash{background:color-mix(in srgb,#f3c64a 45%,transparent);transition:background .4s}html{scroll-behavior:smooth;scroll-padding-top:16px}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
@@ -578,6 +584,7 @@ def page(title, sub, body, nav="", depth=0):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body><header><span class="tab">투자 알림장</span><h1>{E(title)}</h1><p class="sub">{sub}</p>
 <nav class="tabs">{navs}</nav></header><main>{body}
+<script>{{const o=()=>{{const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;const d=t.closest("details");if(d)d.open=true;t.scrollIntoView({{block:"center"}});t.classList.add("flash");setTimeout(()=>t.classList.remove("flash"),1600)}};addEventListener("hashchange",o);o()}}</script>
 <footer>평일 15:10·19:00 알림 뒤 자동으로 새로 만들어집니다. 수익률은 비용 0.35%를 뺀 값이고, 모의 기록은 실제 매매가 아닙니다.</footer></main></body></html>"""
 
 
@@ -615,21 +622,22 @@ def index_page(days, t, h, fm, vi, expect):
     if gap:
         on = all(v > 0 for v in gap.values())
         k.append((f'<span class="{"up" if on else "dn"}">{"매매 가능" if on else "매매 쉼"}</span>',
-                  "종가베팅 · 신규 매수<br>코스피 20일선 " + f'{num(gap.get("KOSPI"), 1)}' + " · 코스닥 " + f'{num(gap.get("KOSDAQ"), 1)}'))
+                  "종가베팅 · 신규 매수<br>코스피 20일선 " + f'{num(gap.get("KOSPI"), 1)}' + " · 코스닥 " + f'{num(gap.get("KOSDAQ"), 1)}', "#mkt"))
     if len(h):
         n, w, a = stat(h["수익률(%)"])
-        k.append((num(a), f"지금 진행 중 {len(h)}종목<br>평가 평균 (아직 안 판 손익)"))
+        k.append((num(a), f"지금 진행 중 {len(h)}종목<br>평가 평균 (아직 안 판 손익)", "#hold"))
     for s_, kinds, label in (("종가베팅", ("실제", "모의(알려준 후보)"), "종가베팅"), ("저가매수", ("내 5칸",), "저가매수 5칸"), ("중기 스윙", ("실제", "모의"), "CAN SLIM")):
         g = t[(t.매매법 == s_) & t.구분.isin(kinds)] if len(t) else t
         n, w, a = stat(g["수익률(%)"] if len(g) else [])
         k.append((f'<span class="{"thin" if n < 30 else ""}">{num(a)}</span>' if n else "–",
-                  f'{label} <span class="badge ok">검증 통과</span><br>' + (f"끝난 {n}건" + (" · 표본 부족" if n < 30 else "") if n else "아직 끝난 매매 없음")))
-    body += '<div class="kpis">' + "".join(f"<div><b>{a}</b><span>{b}</span></div>" for a, b in k) + "</div>"
-    body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타, 스윙 A)은 아래 표와 그래프에서만 보여요.</p>'
-    body += '<h2>매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요.</p>' + strat_rows(t, expect)
-    body += "<h2>누적 수익 흐름</h2>" + curve_svg(t)
-    body += "<h2>지금 진행 중</h2>" + holdings(h)
-    body += "<h2>시장 흐름</h2>" + market_bars_svg(days)
+                  f'{label} <span class="badge ok">검증 통과</span><br>' + (f"끝난 {n}건" + (" · 표본 부족" if n < 30 else "") if n else "아직 끝난 매매 없음"),
+                  f"#perf-{s_.replace(' ', '-')}"))
+    body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
+    body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타, 스윙 A)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
+    body += '<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요.</p>' + strat_rows(t, expect)
+    body += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
+    body += '<h2 id="hold">지금 진행 중</h2>' + holdings(h)
+    body += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
     ds = set(days)
     body += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
     body += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days))
