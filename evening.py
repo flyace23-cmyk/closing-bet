@@ -180,6 +180,11 @@ def main():
         send(canslim.evening_section(msgs))
     except Exception as e:
         send(f"(중기 스윙 확인 실패: {e})")
+    try:
+        import leaders
+        send(leaders.evening_section(L))
+    except Exception as e:
+        send(f"(대장주 복기 실패: {e})")
 
 
 if __name__ == "__main__":
