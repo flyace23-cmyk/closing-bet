@@ -1,0 +1,254 @@
+{
+"date": "20231129",
+"kospi": -0.08,
+"kosdaq": 0.73,
+"adv": 715,
+"dec": 1358,
+"flat": 147,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 174398,
+"hot": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 5,
+"lead": "서울옥션",
+"lead_ret": 29.94,
+"second": "갤럭시아에스엠",
+"second_ret": 29.85
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "엘앤에프",
+"lead_ret": 15.95,
+"second": "새로닉스",
+"second_ret": 10.62
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 25.95,
+"second": "파라택시스이더리움",
+"second_ret": 19.13
+}
+],
+"themes": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 5.68,
+"up5": 7,
+"lead": "서울옥션",
+"lead_ret": 29.94,
+"second": "갤럭시아에스엠",
+"second_ret": 29.85
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 5.41,
+"up5": 6,
+"lead": "서울옥션",
+"lead_ret": 29.94,
+"second": "갤럭시아에스엠",
+"second_ret": 29.85
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.15,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 25.95,
+"second": "유엔젤",
+"second_ret": 6.16
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.71,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 17.99,
+"second": "차바이오텍",
+"second_ret": 4.1
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 3.32,
+"up5": 1,
+"lead": "크라우드웍스",
+"lead_ret": 26.7,
+"second": "알체라",
+"second_ret": 3.54
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.93,
+"up5": 3,
+"lead": "강스템바이오텍",
+"lead_ret": 17.99,
+"second": "바이오솔루션",
+"second_ret": 17.47
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.61,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 17.99,
+"second": "JW중외제약",
+"second_ret": 3.93
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.45,
+"up5": 1,
+"lead": "엘앤에프",
+"lead_ret": 15.95,
+"second": "탑머티리얼",
+"second_ret": 4.78
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.42,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 25.95,
+"second": "셀바스AI",
+"second_ret": 7.14
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.34,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 25.95,
+"second": "NHN KCP",
+"second_ret": 5.27
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.29,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 10.22,
+"second": "에코프로",
+"second_ret": 4.08
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 1.99,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 15.04,
+"second": "DSC인베스트먼트",
+"second_ret": 3.84
+}
+],
+"themes_worst": [
+{
+"name": "테마파크",
+"n": 5,
+"avg": -6.38,
+"up5": 0,
+"lead": "국보디자인",
+"lead_ret": -0.36,
+"second": "이월드",
+"second_ret": -0.9
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.74,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.35,
+"second": "한국선재",
+"second_ret": 0.13
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.49,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": -0.65,
+"second": "삼성물산",
+"second_ret": -1.01
+},
+{
+"name": "리모델링/인테리어",
+"n": 24,
+"avg": -2.23,
+"up5": 0,
+"lead": "SUN&L",
+"lead_ret": 1.97,
+"second": "조이웍스앤코",
+"second_ret": 1.85
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": -2.17,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.38,
+"second": "롯데관광개발",
+"second_ret": -0.6
+}
+],
+"leaders": [
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 10.22,
+"value": 4297,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 15.95,
+"value": 3504,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 25.95,
+"value": 2508,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "KTcs",
+"code": "058850",
+"ret": 15.76,
+"value": 1191,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "서울옥션",
+"code": "063170",
+"ret": 29.94,
+"value": 962,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+}
+],
+"backfilled": true
+}

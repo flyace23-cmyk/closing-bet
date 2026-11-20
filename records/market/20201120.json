@@ -1,0 +1,254 @@
+{
+"date": "20201120",
+"kospi": 0.24,
+"kosdaq": 1.19,
+"adv": 1228,
+"dec": 522,
+"flat": 204,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 342006,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "자비스",
+"lead_ret": 29.95,
+"second": "더코디",
+"second_ret": 11.69
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "종근당홀딩스",
+"lead_ret": 29.85,
+"second": "원익홀딩스",
+"second_ret": 10.27
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "종근당",
+"lead_ret": 17.7,
+"second": "이연제약",
+"second_ret": 15.0
+}
+],
+"themes": [
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 6.58,
+"up5": 7,
+"lead": "고바이오랩",
+"lead_ret": 29.91,
+"second": "종근당바이오",
+"second_ret": 29.85
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 5.74,
+"up5": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "세종텔레콤",
+"second_ret": 18.37
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 5.4,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 30.1,
+"second": "가온전선",
+"second_ret": 7.66
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": 4.31,
+"up5": 3,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "셀바스AI",
+"second_ret": 6.29
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 4.21,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 18.37,
+"second": "NICE평가정보",
+"second_ret": 4.63
+},
+{
+"name": "건강기능식품",
+"n": 35,
+"avg": 3.9,
+"up5": 6,
+"lead": "종근당바이오",
+"lead_ret": 29.85,
+"second": "종근당홀딩스",
+"second_ret": 29.85
+},
+{
+"name": "유전자 치료제/분석",
+"n": 27,
+"avg": 3.22,
+"up5": 6,
+"lead": "고바이오랩",
+"lead_ret": 29.91,
+"second": "헬릭스미스",
+"second_ret": 9.0
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 19,
+"avg": 3.13,
+"up5": 3,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "위메이드",
+"second_ret": 7.33
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": 3.08,
+"up5": 7,
+"lead": "드림텍",
+"lead_ret": 29.78,
+"second": "종근당",
+"second_ret": 17.7
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 20,
+"avg": 3.07,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "다산네트웍스",
+"second_ret": 6.88
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 3.03,
+"up5": 1,
+"lead": "이스트에이드",
+"lead_ret": 24.09,
+"second": "미투온",
+"second_ret": 3.63
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.03,
+"up5": 3,
+"lead": "국전",
+"lead_ret": 6.02,
+"second": "엑세스바이오",
+"second_ret": 5.96
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.7,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 4.17,
+"second": "삼성바이오로직스",
+"second_ret": -1.11
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.49,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": 0.41,
+"second": "유한양행",
+"second_ret": 0.0
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.12,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 1.81,
+"second": "인콘",
+"second_ret": 0.51
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -1.1,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.15,
+"second": "삼성전기",
+"second_ret": -1.0
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.81,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 4.48,
+"second": "동원수산",
+"second_ret": 0.44
+}
+],
+"leaders": [
+{
+"name": "고바이오랩",
+"code": "348150",
+"ret": 29.91,
+"value": 6959,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "종근당",
+"code": "185750",
+"ret": 17.7,
+"value": 5131,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 17.86,
+"value": 4685,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 30.1,
+"value": 3159,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "이스트에이드",
+"code": "239340",
+"ret": 24.09,
+"value": 2348,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

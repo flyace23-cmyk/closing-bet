@@ -1,0 +1,238 @@
+{
+"date": "20240325",
+"kospi": -0.4,
+"kosdaq": 1.07,
+"adv": 892,
+"dec": 1211,
+"flat": 143,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 180440,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "케이바이오랩스",
+"lead_ret": 26.03,
+"second": "진시스템",
+"second_ret": 13.01
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.89,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 13.0,
+"second": "신송홀딩스",
+"second_ret": 7.77
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 4.56,
+"up5": 4,
+"lead": "한일사료",
+"lead_ret": 26.32,
+"second": "미래생명자원",
+"second_ret": 13.0
+},
+{
+"name": "미용기기",
+"n": 15,
+"avg": 3.78,
+"up5": 3,
+"lead": "원텍",
+"lead_ret": 18.59,
+"second": "파마리서치",
+"second_ret": 8.46
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.28,
+"up5": 3,
+"lead": "삼천당제약",
+"lead_ret": 29.94,
+"second": "한올바이오파마",
+"second_ret": 6.43
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 30,
+"avg": 2.68,
+"up5": 4,
+"lead": "한일사료",
+"lead_ret": 26.32,
+"second": "미래생명자원",
+"second_ret": 13.0
+},
+{
+"name": "비만치료제",
+"n": 35,
+"avg": 2.65,
+"up5": 4,
+"lead": "삼천당제약",
+"lead_ret": 29.94,
+"second": "DXVX",
+"second_ret": 12.62
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 2.46,
+"up5": 1,
+"lead": "HLB테라퓨틱스",
+"lead_ret": 17.71,
+"second": "GST",
+"second_ret": 3.2
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.36,
+"up5": 3,
+"lead": "케이바이오랩스",
+"lead_ret": 26.03,
+"second": "신풍제약",
+"second_ret": 12.67
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.34,
+"up5": 1,
+"lead": "HLB생명과학",
+"lead_ret": 21.92,
+"second": "차바이오텍",
+"second_ret": 4.06
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.23,
+"up5": 1,
+"lead": "아미노로직스",
+"lead_ret": 5.93,
+"second": "한미약품",
+"second_ret": 4.2
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.22,
+"up5": 5,
+"lead": "메드팩토",
+"lead_ret": 10.94,
+"second": "박셀바이오",
+"second_ret": 9.62
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.2,
+"up5": 2,
+"lead": "성호전자",
+"lead_ret": 25.33,
+"second": "RFHIC",
+"second_ret": 5.15
+}
+],
+"themes_worst": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.2,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 1.13,
+"second": "SK하이닉스",
+"second_ret": -0.24
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.14,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.94,
+"second": "GS건설",
+"second_ret": -1.38
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.0,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": 0.96,
+"second": "예스티",
+"second_ret": 0.44
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -1.93,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 1.14,
+"second": "나이스정보통신",
+"second_ret": 0.46
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": -1.85,
+"up5": 0,
+"lead": "디와이파워",
+"lead_ret": 0.61,
+"second": "수산세보틱스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 21.92,
+"value": 3403,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 29.94,
+"value": 2973,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 26.32,
+"value": 2038,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 12.67,
+"value": 1938,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "HLB테라퓨틱스",
+"code": "115450",
+"ret": 17.71,
+"value": 1694,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

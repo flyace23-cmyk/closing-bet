@@ -1,0 +1,254 @@
+{
+"date": "20220504",
+"kospi": -0.11,
+"kosdaq": -0.83,
+"adv": 527,
+"dec": 1369,
+"flat": 182,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 174915,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "에코플라스틱",
+"lead_ret": 29.83,
+"second": "서진오토모티브",
+"second_ret": 9.03
+},
+{
+"name": "통신장비",
+"n": 4,
+"lead": "에프알텍",
+"lead_ret": 29.9,
+"second": "기산텔레콤",
+"second_ret": 14.32
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "퍼스텍",
+"lead_ret": 16.83,
+"second": "다산네트웍스",
+"second_ret": 10.89
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 6.28,
+"up5": 2,
+"lead": "에코플라스틱",
+"lead_ret": 29.83,
+"second": "세림B&G",
+"second_ret": 10.62
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.31,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 16.55,
+"second": "퀀텀레일",
+"second_ret": 0.26
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": 2.1,
+"up5": 7,
+"lead": "에프알텍",
+"lead_ret": 29.9,
+"second": "기산텔레콤",
+"second_ret": 14.32
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 52,
+"avg": 1.94,
+"up5": 7,
+"lead": "에프알텍",
+"lead_ret": 29.9,
+"second": "이루온",
+"second_ret": 16.55
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.86,
+"up5": 1,
+"lead": "아바텍",
+"lead_ret": 11.6,
+"second": "아모텍",
+"second_ret": 3.93
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 1.38,
+"up5": 2,
+"lead": "퍼스텍",
+"lead_ret": 16.83,
+"second": "기산텔레콤",
+"second_ret": 14.32
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.33,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": 4.56,
+"second": "일진전기",
+"second_ret": 2.23
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 1.24,
+"up5": 1,
+"lead": "한전기술",
+"lead_ret": 9.5,
+"second": "비에이치아이",
+"second_ret": 4.48
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.22,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 2.52,
+"second": "한화손해보험",
+"second_ret": 2.34
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 1.17,
+"up5": 3,
+"lead": "퍼스텍",
+"lead_ret": 16.83,
+"second": "기산텔레콤",
+"second_ret": 14.32
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.07,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 16.55,
+"second": "NICE",
+"second_ret": 0.89
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 1.03,
+"up5": 1,
+"lead": "지엔씨에너지",
+"lead_ret": 21.79,
+"second": "대한전선",
+"second_ret": 4.56
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -7.01,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": 0.0,
+"second": "선진",
+"second_ret": -1.09
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -6.03,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.8,
+"second": "샘표식품",
+"second_ret": -5.08
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -5.74,
+"up5": 0,
+"lead": "체리부로",
+"lead_ret": -0.36,
+"second": "교촌에프앤비",
+"second_ret": -2.58
+},
+{
+"name": "농업",
+"n": 22,
+"avg": -4.73,
+"up5": 0,
+"lead": "TYM",
+"lead_ret": 2.89,
+"second": "롯데정밀화학",
+"second_ret": 0.37
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -4.17,
+"up5": 0,
+"lead": "사조산업",
+"lead_ret": -0.9,
+"second": "대성미생물",
+"second_ret": -0.96
+}
+],
+"leaders": [
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 16.83,
+"value": 2803,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "기산텔레콤",
+"code": "035460",
+"ret": 14.32,
+"value": 1970,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 21.79,
+"value": 1377,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "에코플라스틱",
+"code": "038110",
+"ret": 29.83,
+"value": 1376,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 16.55,
+"value": 1317,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+}
+],
+"backfilled": true
+}

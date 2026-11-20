@@ -1,0 +1,254 @@
+{
+"date": "20220405",
+"kospi": 0.05,
+"kosdaq": 0.54,
+"adv": 1026,
+"dec": 838,
+"flat": 213,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 159878,
+"hot": [
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "성우전자",
+"lead_ret": 11.78,
+"second": "해성옵틱스",
+"second_ret": 9.44
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "시지메드텍",
+"lead_ret": 29.83,
+"second": "뷰노",
+"second_ret": 12.66
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "금호에이치티",
+"lead_ret": 29.98,
+"second": "신흥에스이씨",
+"second_ret": 8.86
+}
+],
+"themes": [
+{
+"name": "제지",
+"n": 14,
+"avg": 4.47,
+"up5": 4,
+"lead": "무림SP",
+"lead_ret": 19.06,
+"second": "신풍",
+"second_ret": 10.49
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 3.73,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 12.89,
+"second": "에코프로비엠",
+"second_ret": 6.74
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.98,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 11.78,
+"second": "이루온",
+"second_ret": 1.88
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.76,
+"up5": 1,
+"lead": "NICE인프라",
+"lead_ret": 19.48,
+"second": "케이씨에스",
+"second_ret": 2.32
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.38,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 11.39,
+"second": "강스템바이오텍",
+"second_ret": 1.5
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.09,
+"up5": 2,
+"lead": "누보",
+"lead_ret": 8.02,
+"second": "효성오앤비",
+"second_ret": 5.26
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.05,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 11.39,
+"second": "스맥",
+"second_ret": 2.55
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 2.01,
+"up5": 1,
+"lead": "네오셈",
+"lead_ret": 13.71,
+"second": "국순당",
+"second_ret": 4.85
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 21,
+"avg": 1.98,
+"up5": 3,
+"lead": "금호에이치티",
+"lead_ret": 29.98,
+"second": "신흥에스이씨",
+"second_ret": 8.86
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 1.95,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 11.38,
+"second": "HMM",
+"second_ret": -0.18
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.69,
+"up5": 3,
+"lead": "TYM",
+"lead_ret": 8.49,
+"second": "누보",
+"second_ret": 8.02
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 1.68,
+"up5": 1,
+"lead": "큐캐피탈",
+"lead_ret": 29.87,
+"second": "SV인베스트먼트",
+"second_ret": 0.82
+}
+],
+"themes_worst": [
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": -2.2,
+"up5": 0,
+"lead": "큐로홀딩스",
+"lead_ret": 5.0,
+"second": "삼화네트웍스",
+"second_ret": 2.4
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.98,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 0.12,
+"second": "iM금융지주",
+"second_ret": -1.5
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -1.86,
+"up5": 0,
+"lead": "드림어스컴퍼니",
+"lead_ret": 2.35,
+"second": "카카오",
+"second_ret": 1.9
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.42,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 3.14,
+"second": "풀무원",
+"second_ret": -0.28
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -1.24,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": 2.18,
+"second": "인텍플러스",
+"second_ret": 1.74
+}
+],
+"leaders": [
+{
+"name": "큐캐피탈",
+"code": "016600",
+"ret": 29.87,
+"value": 2529,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "금호에이치티",
+"code": "214330",
+"ret": 29.98,
+"value": 2003,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 12.89,
+"value": 1706,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "NICE인프라",
+"code": "063570",
+"ret": 19.48,
+"value": 1680,
+"theme": "전기차(충전소/충전기)",
+"reason": "테마: 전기차(충전소/충전기)"
+},
+{
+"name": "무림SP",
+"code": "001810",
+"ret": 19.06,
+"value": 988,
+"theme": "제지",
+"reason": "테마: 제지"
+}
+],
+"backfilled": true
+}

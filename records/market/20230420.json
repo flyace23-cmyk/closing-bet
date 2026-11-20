@@ -1,0 +1,254 @@
+{
+"date": "20230420",
+"kospi": -0.46,
+"kosdaq": -2.58,
+"adv": 333,
+"dec": 1722,
+"flat": 93,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 235487,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "KBI메탈",
+"lead_ret": 29.8,
+"second": "디젠스",
+"second_ret": 25.45
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "퍼스텍",
+"lead_ret": 24.66,
+"second": "현대로템",
+"second_ret": 11.62
+},
+{
+"name": "남북경협",
+"n": 3,
+"lead": "양지사",
+"lead_ret": 29.81,
+"second": "코데즈컴바인",
+"second_ret": 25.68
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.91,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 11.06,
+"second": "샘표",
+"second_ret": 5.61
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.01,
+"up5": 4,
+"lead": "팜스토리",
+"lead_ret": 16.83,
+"second": "미래생명자원",
+"second_ret": 11.06
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 2.21,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 16.83,
+"second": "이지홀딩스",
+"second_ret": 4.27
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.09,
+"up5": 1,
+"lead": "KBI메탈",
+"lead_ret": 29.8,
+"second": "대원전선",
+"second_ret": 1.34
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.74,
+"up5": 1,
+"lead": "CJ씨푸드",
+"lead_ret": 8.53,
+"second": "우양",
+"second_ret": 4.62
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.64,
+"up5": 4,
+"lead": "양지사",
+"lead_ret": 29.81,
+"second": "코데즈컴바인",
+"second_ret": 25.68
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.48,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.03,
+"second": "삼성화재",
+"second_ret": 2.59
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.13,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 10.77,
+"second": "대성에너지",
+"second_ret": 2.95
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 1.11,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 16.83,
+"second": "이지홀딩스",
+"second_ret": 4.27
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.1,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 2.9,
+"second": "HD현대중공업",
+"second_ret": 1.64
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.88,
+"up5": 3,
+"lead": "팜스토리",
+"lead_ret": 16.83,
+"second": "한일사료",
+"second_ret": 10.47
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 0.58,
+"up5": 1,
+"lead": "퍼스텍",
+"lead_ret": 24.66,
+"second": "한국항공우주",
+"second_ret": 4.86
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -6.56,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": 1.0,
+"second": "삼성전기",
+"second_ret": -0.68
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": -6.24,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": -0.61,
+"second": "제이에스링크",
+"second_ret": -0.96
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -5.15,
+"up5": 0,
+"lead": "SFA넥셀",
+"lead_ret": 0.14,
+"second": "소프트센",
+"second_ret": 0.0
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.0,
+"up5": 0,
+"lead": "한일화학",
+"lead_ret": 1.47,
+"second": "씨큐브",
+"second_ret": -1.48
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.0,
+"up5": 0,
+"lead": "한일화학",
+"lead_ret": 1.47,
+"second": "씨큐브",
+"second_ret": -1.48
+}
+],
+"leaders": [
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 11.62,
+"value": 9760,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 16.94,
+"value": 5243,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 24.66,
+"value": 2661,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 16.83,
+"value": 1732,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 10.47,
+"value": 1497,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

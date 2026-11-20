@@ -1,0 +1,254 @@
+{
+"date": "20220125",
+"kospi": -2.56,
+"kosdaq": -2.84,
+"adv": 152,
+"dec": 1828,
+"flat": 80,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 197975,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 5,
+"lead": "하이스틸",
+"lead_ret": 29.83,
+"second": "대동스틸",
+"second_ret": 21.72
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "한일단조",
+"lead_ret": 8.75,
+"second": "웹스",
+"second_ret": 7.59
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "휴마시스",
+"lead_ret": 9.16,
+"second": "나노엔텍",
+"second_ret": 8.76
+}
+],
+"themes": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.77,
+"up5": 4,
+"lead": "하이스틸",
+"lead_ret": 29.83,
+"second": "대동스틸",
+"second_ret": 21.72
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.71,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 24.6,
+"second": "대성에너지",
+"second_ret": 12.92
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.12,
+"up5": 1,
+"lead": "하이스틸",
+"lead_ret": 29.83,
+"second": "휴스틸",
+"second_ret": 3.18
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 0.93,
+"up5": 6,
+"lead": "하이스틸",
+"lead_ret": 29.83,
+"second": "대동스틸",
+"second_ret": 21.72
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -0.2,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 24.6,
+"second": "대성에너지",
+"second_ret": 12.92
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -0.63,
+"up5": 0,
+"lead": "심텍",
+"lead_ret": 4.46,
+"second": "대덕전자",
+"second_ret": 1.59
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.67,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 6.13,
+"second": "신송홀딩스",
+"second_ret": -0.99
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -0.7,
+"up5": 0,
+"lead": "심텍",
+"lead_ret": 4.46,
+"second": "대덕전자",
+"second_ret": 1.59
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": -0.71,
+"up5": 1,
+"lead": "국순당",
+"lead_ret": 10.0,
+"second": "코리아써키트",
+"second_ret": 1.04
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.76,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 7.88,
+"second": "하이로닉",
+"second_ret": 5.28
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -0.83,
+"up5": 1,
+"lead": "대한제강",
+"lead_ret": 7.13,
+"second": "세아베스틸지주",
+"second_ret": 0.0
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.85,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 7.88,
+"second": "디에스케이",
+"second_ret": 2.69
+}
+],
+"themes_worst": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -7.63,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": 0.33,
+"second": "하나금융지주",
+"second_ret": -2.82
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -6.89,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": -1.34,
+"second": "NAVER",
+"second_ret": -1.98
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -6.66,
+"up5": 0,
+"lead": "풍산",
+"lead_ret": -3.7,
+"second": "푸른로보틱스",
+"second_ret": -5.13
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -5.52,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": -3.3,
+"second": "TKG휴켐스",
+"second_ret": -3.4
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -5.36,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 1.92,
+"second": "대원미디어",
+"second_ret": -3.22
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 24.6,
+"value": 3431,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 12.92,
+"value": 1506,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "컴퍼니케이",
+"code": "307930",
+"ret": 21.83,
+"value": 1354,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "오토앤",
+"code": "353590",
+"ret": 29.68,
+"value": 1082,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "LS네트웍스",
+"code": "000680",
+"ret": 21.11,
+"value": 1029,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+}
+],
+"backfilled": true
+}

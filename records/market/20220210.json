@@ -1,0 +1,254 @@
+{
+"date": "20220210",
+"kospi": 0.11,
+"kosdaq": -1.63,
+"adv": 628,
+"dec": 1236,
+"flat": 200,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 191234,
+"hot": [
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 4,
+"lead": "한울앤제주",
+"lead_ret": 29.96,
+"second": "무학",
+"second_ret": 25.7
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "위드텍",
+"lead_ret": 12.01,
+"second": "엔투텍",
+"second_ret": 8.56
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "유유제약",
+"lead_ret": 14.27,
+"second": "부광약품",
+"second_ret": 7.97
+}
+],
+"themes": [
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": 6.89,
+"up5": 4,
+"lead": "한울앤제주",
+"lead_ret": 29.96,
+"second": "무학",
+"second_ret": 25.7
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 5.09,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 29.96,
+"second": "사조대림",
+"second_ret": 1.22
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.85,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 12.81,
+"second": "대한해운",
+"second_ret": 7.97
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.72,
+"up5": 0,
+"lead": "동양고속",
+"lead_ret": 4.86,
+"second": "신세계",
+"second_ret": 3.72
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 1.66,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 29.96,
+"second": "에스씨디",
+"second_ret": 3.4
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 1.24,
+"up5": 1,
+"lead": "주성엔지니어링",
+"lead_ret": 7.09,
+"second": "기가레인",
+"second_ret": 3.68
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.03,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 3.72,
+"second": "JTC",
+"second_ret": 2.51
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.98,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 8.56,
+"second": "녹십자",
+"second_ret": 0.79
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.93,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 3.35,
+"second": "롯데지주",
+"second_ret": 1.07
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 0.89,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 4.03,
+"second": "코오롱글로벌",
+"second_ret": 2.74
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 0.86,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.78,
+"second": "심텍",
+"second_ret": 2.51
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 0.76,
+"up5": 0,
+"lead": "동양고속",
+"lead_ret": 4.86,
+"second": "신세계",
+"second_ret": 3.72
+}
+],
+"themes_worst": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -5.15,
+"up5": 0,
+"lead": "썸에이지",
+"lead_ret": 4.78,
+"second": "NC",
+"second_ret": 1.85
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -4.9,
+"up5": 0,
+"lead": "NC",
+"lead_ret": 1.85,
+"second": "NAVER",
+"second_ret": 1.69
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -4.89,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 1.69,
+"second": "카카오",
+"second_ret": 1.39
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -4.76,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 1.39,
+"second": "매커스",
+"second_ret": 0.95
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 30,
+"avg": -2.98,
+"up5": 0,
+"lead": "자이언트스텝",
+"lead_ret": 2.4,
+"second": "NAVER",
+"second_ret": 1.69
+}
+],
+"leaders": [
+{
+"name": "유유제약",
+"code": "000220",
+"ret": 14.27,
+"value": 3490,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 14.73,
+"value": 1632,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "팬오션",
+"code": "028670",
+"ret": 12.81,
+"value": 1346,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "한울앤제주",
+"code": "276730",
+"ret": 29.96,
+"value": 1262,
+"theme": "주류업(주정, 에탄올 등)",
+"reason": "테마: 주류업(주정, 에탄올 등)"
+},
+{
+"name": "나노씨엠에스",
+"code": "247660",
+"ret": 10.37,
+"value": 832,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

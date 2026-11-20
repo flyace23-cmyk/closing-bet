@@ -1,0 +1,246 @@
+{
+"date": "20220809",
+"kospi": 0.42,
+"kosdaq": 0.34,
+"adv": 876,
+"dec": 1011,
+"flat": 208,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 143800,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "유니온머티리얼",
+"lead_ret": 15.95,
+"second": "덕우전자",
+"second_ret": 8.46
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "조광페인트",
+"lead_ret": 10.13,
+"second": "코스모화학",
+"second_ret": 8.24
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 6.07,
+"up5": 4,
+"lead": "화성밸브",
+"lead_ret": 19.58,
+"second": "하이록코리아",
+"second_ret": 11.02
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.89,
+"up5": 2,
+"lead": "뉴보텍",
+"lead_ret": 19.25,
+"second": "인선이엔티",
+"second_ret": 7.12
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.61,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 15.95,
+"second": "유니온",
+"second_ret": 2.67
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.23,
+"up5": 4,
+"lead": "SG",
+"lead_ret": 12.09,
+"second": "엔피케이",
+"second_ret": 6.09
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.13,
+"up5": 3,
+"lead": "이루온",
+"lead_ret": 14.51,
+"second": "NHN KCP",
+"second_ret": 11.31
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.85,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 19.58,
+"second": "대동스틸",
+"second_ret": 5.3
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.74,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 14.51,
+"second": "퀀텀레일",
+"second_ret": 1.59
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.55,
+"up5": 3,
+"lead": "SG",
+"lead_ret": 12.09,
+"second": "HC보광산업",
+"second_ret": 5.47
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.37,
+"up5": 2,
+"lead": "로지시스",
+"lead_ret": 11.47,
+"second": "한네트",
+"second_ret": 5.76
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 2.03,
+"up5": 1,
+"lead": "푸드나무",
+"lead_ret": 6.51,
+"second": "하림",
+"second_ret": 3.78
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.85,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 14.51,
+"second": "NAVER",
+"second_ret": 2.51
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 1.71,
+"up5": 2,
+"lead": "NHN KCP",
+"lead_ret": 11.31,
+"second": "한국정보통신",
+"second_ret": 5.1
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.22,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": 0.56,
+"second": "삼성전기",
+"second_ret": 0.37
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.96,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 0.22,
+"second": "효성티앤씨",
+"second_ret": -0.15
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.94,
+"up5": 0,
+"lead": "주성엔지니어링",
+"lead_ret": 1.57,
+"second": "예스티",
+"second_ret": -0.23
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": -1.91,
+"up5": 0,
+"lead": "대림통상",
+"lead_ret": 1.54,
+"second": "동화기업",
+"second_ret": 0.44
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 26,
+"avg": -1.39,
+"up5": 1,
+"lead": "엠케이전자",
+"lead_ret": 8.23,
+"second": "켐트로스",
+"second_ret": 1.55
+}
+],
+"leaders": [
+{
+"name": "유니온머티리얼",
+"code": "047400",
+"ret": 15.95,
+"value": 2802,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 14.51,
+"value": 2731,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 15.87,
+"value": 1226,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "HLB제넥스",
+"code": "187420",
+"ret": 22.22,
+"value": 1171,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "화성밸브",
+"code": "039610",
+"ret": 19.58,
+"value": 942,
+"theme": "남-북-러 가스관사업",
+"reason": "테마: 남-북-러 가스관사업"
+}
+],
+"backfilled": true
+}

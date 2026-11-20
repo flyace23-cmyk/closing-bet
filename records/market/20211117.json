@@ -1,0 +1,254 @@
+{
+"date": "20211117",
+"kospi": -1.16,
+"kosdaq": -0.41,
+"adv": 551,
+"dec": 1391,
+"flat": 112,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 772565,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 6,
+"lead": "비트맥스",
+"lead_ret": 20.49,
+"second": "이노뎁",
+"second_ret": 18.75
+},
+{
+"name": "보안주(정보)",
+"n": 4,
+"lead": "소프트캠프",
+"lead_ret": 30.0,
+"second": "지니언스",
+"second_ret": 11.53
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 4,
+"lead": "다날",
+"lead_ret": 15.88,
+"second": "엠게임",
+"second_ret": 13.31
+}
+],
+"themes": [
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 5.96,
+"up5": 7,
+"lead": "소프트캠프",
+"lead_ret": 30.0,
+"second": "파수AI",
+"second_ret": 11.32
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 5.06,
+"up5": 5,
+"lead": "비트맥스",
+"lead_ret": 20.49,
+"second": "동운아나텍",
+"second_ret": 17.16
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 4.69,
+"up5": 20,
+"lead": "비트맥스",
+"lead_ret": 20.49,
+"second": "이노뎁",
+"second_ret": 18.75
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.16,
+"up5": 7,
+"lead": "다날",
+"lead_ret": 15.88,
+"second": "엠게임",
+"second_ret": 13.31
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 3.99,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 15.88,
+"second": "NHN벅스",
+"second_ret": 13.0
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.85,
+"up5": 4,
+"lead": "파수AI",
+"lead_ret": 11.32,
+"second": "알체라",
+"second_ret": 8.34
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.82,
+"up5": 6,
+"lead": "NEW",
+"lead_ret": 23.57,
+"second": "아틀라스링크",
+"second_ret": 20.67
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 3.56,
+"up5": 6,
+"lead": "NEW",
+"lead_ret": 23.57,
+"second": "초록뱀미디어",
+"second_ret": 12.4
+},
+{
+"name": "엔터테인먼트",
+"n": 27,
+"avg": 3.23,
+"up5": 8,
+"lead": "NEW",
+"lead_ret": 23.57,
+"second": "초록뱀미디어",
+"second_ret": 12.4
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": 3.2,
+"up5": 10,
+"lead": "한컴",
+"lead_ret": 29.98,
+"second": "다날",
+"second_ret": 15.88
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 23,
+"avg": 3.17,
+"up5": 6,
+"lead": "한컴",
+"lead_ret": 29.98,
+"second": "바이브컴퍼니",
+"second_ret": 9.59
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.05,
+"up5": 2,
+"lead": "퀀텀레일",
+"lead_ret": 8.66,
+"second": "성우전자",
+"second_ret": 6.98
+}
+],
+"themes_worst": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -3.91,
+"up5": 0,
+"lead": "에스와이",
+"lead_ret": 4.61,
+"second": "금강공업",
+"second_ret": 0.64
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.87,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -2.08,
+"second": "차바이오텍",
+"second_ret": -3.55
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -3.64,
+"up5": 0,
+"lead": "SK",
+"lead_ret": 1.39,
+"second": "제이씨케미칼",
+"second_ret": 0.11
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -3.64,
+"up5": 0,
+"lead": "SK",
+"lead_ret": 1.39,
+"second": "제이씨케미칼",
+"second_ret": 0.11
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.5,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": -1.15,
+"second": "아미노로직스",
+"second_ret": -1.95
+}
+],
+"leaders": [
+{
+"name": "초록뱀미디어",
+"code": "047820",
+"ret": 12.4,
+"value": 543620,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 15.88,
+"value": 6526,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 15.98,
+"value": 4026,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "엠게임",
+"code": "058630",
+"ret": 13.31,
+"value": 3149,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "한컴",
+"code": "030520",
+"ret": 29.98,
+"value": 2551,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230203",
+"kospi": 0.47,
+"kosdaq": 0.28,
+"adv": 925,
+"dec": 1052,
+"flat": 155,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 152159,
+"hot": [
+{
+"name": "삼성페이",
+"n": 3,
+"lead": "한국정보통신",
+"lead_ret": 25.96,
+"second": "이루온",
+"second_ret": 9.59
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "캐프",
+"lead_ret": 30.0,
+"second": "엑스플러스",
+"second_ret": 17.08
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "컴투스엔",
+"lead_ret": 27.86,
+"second": "칩스앤미디어",
+"second_ret": 9.84
+}
+],
+"themes": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": 8.94,
+"up5": 4,
+"lead": "한국정보통신",
+"lead_ret": 25.96,
+"second": "엑스플러스",
+"second_ret": 17.08
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.27,
+"up5": 3,
+"lead": "한국정보통신",
+"lead_ret": 25.96,
+"second": "KG파이낸셜",
+"second_ret": 6.82
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.9,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 25.96,
+"second": "현대백화점",
+"second_ret": 2.56
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.51,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 9.59,
+"second": "유비벨록스",
+"second_ret": 4.23
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.12,
+"up5": 3,
+"lead": "소프트캠프",
+"lead_ret": 16.99,
+"second": "링네트",
+"second_ret": 8.19
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 3.12,
+"up5": 5,
+"lead": "한국정보통신",
+"lead_ret": 25.96,
+"second": "이루온",
+"second_ret": 9.59
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 3.02,
+"up5": 5,
+"lead": "세코닉스",
+"lead_ret": 14.45,
+"second": "나무가",
+"second_ret": 8.44
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.0,
+"up5": 2,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 9.73,
+"second": "넥센타이어",
+"second_ret": 5.6
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 2.53,
+"up5": 5,
+"lead": "컴투스엔",
+"lead_ret": 27.86,
+"second": "인크로스",
+"second_ret": 9.0
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.31,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 4.53,
+"second": "한화오션",
+"second_ret": 4.05
+},
+{
+"name": "카메라모듈/부품",
+"n": 25,
+"avg": 2.15,
+"up5": 4,
+"lead": "세코닉스",
+"lead_ret": 14.45,
+"second": "픽셀플러스",
+"second_ret": 8.72
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.15,
+"up5": 1,
+"lead": "세코닉스",
+"lead_ret": 14.45,
+"second": "MDS테크",
+"second_ret": 4.25
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.71,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.78,
+"second": "한화생명",
+"second_ret": 0.0
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": -1.82,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 4.08,
+"second": "코리아에셋투자증권",
+"second_ret": 2.05
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -1.6,
+"up5": 0,
+"lead": "코리아에셋투자증권",
+"lead_ret": 2.05,
+"second": "NH투자증권",
+"second_ret": 1.83
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": -1.17,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": 0.65,
+"second": "올릭스",
+"second_ret": 0.22
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -1.08,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": 2.1,
+"second": "아모텍",
+"second_ret": 0.5
+}
+],
+"leaders": [
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 27.86,
+"value": 3352,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "한국정보통신",
+"code": "025770",
+"ret": 25.96,
+"value": 2479,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 13.67,
+"value": 2458,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "오브젠",
+"code": "417860",
+"ret": 29.98,
+"value": 2239,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 13.88,
+"value": 1332,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

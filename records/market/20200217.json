@@ -1,0 +1,254 @@
+{
+"date": "20200217",
+"kospi": -0.06,
+"kosdaq": 0.53,
+"adv": 818,
+"dec": 884,
+"flat": 201,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 342421,
+"hot": [
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "해성옵틱스",
+"lead_ret": 18.44,
+"second": "나무가",
+"second_ret": 15.67
+},
+{
+"name": "카메라모듈/부품",
+"n": 3,
+"lead": "해성옵틱스",
+"lead_ret": 18.44,
+"second": "세코닉스",
+"second_ret": 16.44
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "DH오토웨어",
+"lead_ret": 30.01,
+"second": "풍강",
+"second_ret": 21.05
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 7.77,
+"up5": 2,
+"lead": "손오공",
+"lead_ret": 29.84,
+"second": "리튬포어스",
+"second_ret": 7.36
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 4.48,
+"up5": 7,
+"lead": "해성옵틱스",
+"lead_ret": 18.44,
+"second": "세코닉스",
+"second_ret": 16.44
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": 3.8,
+"up5": 3,
+"lead": "세코닉스",
+"lead_ret": 16.44,
+"second": "나무가",
+"second_ret": 15.67
+},
+{
+"name": "가상현실(VR)",
+"n": 19,
+"avg": 3.03,
+"up5": 4,
+"lead": "세코닉스",
+"lead_ret": 16.44,
+"second": "나무가",
+"second_ret": 15.67
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 2.83,
+"up5": 4,
+"lead": "해성옵틱스",
+"lead_ret": 18.44,
+"second": "엠씨넥스",
+"second_ret": 7.04
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 2.82,
+"up5": 5,
+"lead": "초록뱀미디어",
+"lead_ret": 30.07,
+"second": "아이오케이이엔엠",
+"second_ret": 13.06
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.5,
+"up5": 2,
+"lead": "손오공",
+"lead_ret": 29.84,
+"second": "제로투세븐",
+"second_ret": 6.94
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 2.49,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 7.93,
+"second": "DSC인베스트먼트",
+"second_ret": 4.45
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 2.34,
+"up5": 3,
+"lead": "초록뱀미디어",
+"lead_ret": 30.07,
+"second": "키이스트",
+"second_ret": 5.19
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 2.24,
+"up5": 2,
+"lead": "세코닉스",
+"lead_ret": 16.44,
+"second": "엠씨넥스",
+"second_ret": 7.04
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 2.1,
+"up5": 4,
+"lead": "DH오토웨어",
+"lead_ret": 30.01,
+"second": "세코닉스",
+"second_ret": 16.44
+},
+{
+"name": "스마트폰",
+"n": 53,
+"avg": 2.01,
+"up5": 6,
+"lead": "해성옵틱스",
+"lead_ret": 18.44,
+"second": "나무가",
+"second_ret": 15.67
+}
+],
+"themes_worst": [
+{
+"name": "제습기",
+"n": 8,
+"avg": -2.63,
+"up5": 0,
+"lead": "파세코",
+"lead_ret": 1.04,
+"second": "위닉스",
+"second_ret": 0.9
+},
+{
+"name": "공기청정기",
+"n": 10,
+"avg": -2.24,
+"up5": 0,
+"lead": "위닉스",
+"lead_ret": 0.9,
+"second": "오텍",
+"second_ret": 0.83
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.76,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -0.84,
+"second": "메디포스트",
+"second_ret": -1.06
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -1.7,
+"up5": 0,
+"lead": "사조씨푸드",
+"lead_ret": -0.42,
+"second": "신라교역",
+"second_ret": -0.45
+},
+{
+"name": "육계",
+"n": 8,
+"avg": -1.61,
+"up5": 0,
+"lead": "팜스토리",
+"lead_ret": 0.47,
+"second": "푸드나무",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "초록뱀미디어",
+"code": "047820",
+"ret": 30.07,
+"value": 216324,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 16.34,
+"value": 6554,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "JW홀딩스",
+"code": "096760",
+"ret": 16.99,
+"value": 948,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "오션인더블유",
+"code": "052300",
+"ret": 24.77,
+"value": 644,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "DH오토웨어",
+"code": "025440",
+"ret": 30.01,
+"value": 606,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

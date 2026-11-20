@@ -1,0 +1,254 @@
+{
+"date": "20220511",
+"kospi": -0.17,
+"kosdaq": 1.19,
+"adv": 924,
+"dec": 958,
+"flat": 196,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 137412,
+"hot": [
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "태웅로직스",
+"lead_ret": 29.53,
+"second": "코미코",
+"second_ret": 9.75
+},
+{
+"name": "철도",
+"n": 3,
+"lead": "서암기계공업",
+"lead_ret": 29.86,
+"second": "유신",
+"second_ret": 12.41
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "박셀바이오",
+"lead_ret": 19.22,
+"second": "큐라클",
+"second_ret": 7.79
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 6.45,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 26.18,
+"second": "씨티케이",
+"second_ret": 16.26
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.95,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 9.87,
+"second": "팬오션",
+"second_ret": 7.08
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 4.85,
+"up5": 4,
+"lead": "태웅로직스",
+"lead_ret": 29.53,
+"second": "인터지스",
+"second_ret": 8.37
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 3.09,
+"up5": 6,
+"lead": "박셀바이오",
+"lead_ret": 19.22,
+"second": "큐라클",
+"second_ret": 7.79
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.89,
+"up5": 3,
+"lead": "인트론바이오",
+"lead_ret": 9.71,
+"second": "수젠텍",
+"second_ret": 6.76
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.86,
+"up5": 3,
+"lead": "이오테크닉스",
+"lead_ret": 7.99,
+"second": "프로텍",
+"second_ret": 6.25
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.46,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 4.09,
+"second": "신세계",
+"second_ret": 3.89
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.24,
+"up5": 1,
+"lead": "티엘비",
+"lead_ret": 13.19,
+"second": "엠케이전자",
+"second_ret": 1.81
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.1,
+"up5": 1,
+"lead": "블루산업개발",
+"lead_ret": 20.33,
+"second": "대림제지",
+"second_ret": 1.94
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 1.95,
+"up5": 2,
+"lead": "신풍",
+"lead_ret": 9.62,
+"second": "무림SP",
+"second_ret": 5.33
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.94,
+"up5": 3,
+"lead": "삼륭물산",
+"lead_ret": 26.18,
+"second": "웹스",
+"second_ret": 10.97
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 1.9,
+"up5": 3,
+"lead": "리가켐바이오",
+"lead_ret": 7.05,
+"second": "압타바이오",
+"second_ret": 5.72
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.19,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 0.31,
+"second": "오르비텍",
+"second_ret": 0.0
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.01,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 0.64,
+"second": "대한항공",
+"second_ret": 0.17
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.92,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -0.69,
+"second": "HJ중공업",
+"second_ret": -1.27
+},
+{
+"name": "원자력발전",
+"n": 44,
+"avg": -1.92,
+"up5": 1,
+"lead": "SG&G",
+"lead_ret": 6.9,
+"second": "한양이엔지",
+"second_ret": 1.86
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.85,
+"up5": 0,
+"lead": "성광벤드",
+"lead_ret": -0.3,
+"second": "화성밸브",
+"second_ret": -0.45
+}
+],
+"leaders": [
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 19.22,
+"value": 2432,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "서암기계공업",
+"code": "100660",
+"ret": 29.86,
+"value": 1606,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "태웅로직스",
+"code": "124560",
+"ret": 29.53,
+"value": 1361,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "아바코",
+"code": "083930",
+"ret": 11.52,
+"value": 576,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "웹스",
+"code": "196700",
+"ret": 10.97,
+"value": 550,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

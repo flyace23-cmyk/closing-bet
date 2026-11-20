@@ -1,0 +1,254 @@
+{
+"date": "20250213",
+"kospi": 1.36,
+"kosdaq": 0.55,
+"adv": 1315,
+"dec": 877,
+"flat": 139,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 243239,
+"hot": [
+{
+"name": "전기차",
+"n": 5,
+"lead": "엠에스오토텍",
+"lead_ret": 13.45,
+"second": "신성에스티",
+"second_ret": 12.48
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "대동기어",
+"lead_ret": 22.41,
+"second": "오리엔트정공",
+"second_ret": 19.51
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "한화비전",
+"lead_ret": 29.99,
+"second": "엠에스오토텍",
+"second_ret": 13.45
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 16,
+"avg": 4.89,
+"up5": 5,
+"lead": "전진건설로봇",
+"lead_ret": 14.66,
+"second": "현대에버다임",
+"second_ret": 10.05
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 4.36,
+"up5": 2,
+"lead": "비엘팜텍",
+"lead_ret": 29.98,
+"second": "현대코퍼레이션",
+"second_ret": 6.44
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 4.12,
+"up5": 1,
+"lead": "레드캡투어",
+"lead_ret": 29.92,
+"second": "노랑풍선",
+"second_ret": 2.33
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.96,
+"up5": 3,
+"lead": "POSCO홀딩스",
+"lead_ret": 6.94,
+"second": "GS건설",
+"second_ret": 6.94
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 3.94,
+"up5": 1,
+"lead": "한화비전",
+"lead_ret": 29.99,
+"second": "코콤",
+"second_ret": 4.04
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.85,
+"up5": 2,
+"lead": "IPARK현대산업개발",
+"lead_ret": 7.68,
+"second": "GS건설",
+"second_ret": 6.94
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.67,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 8.17,
+"second": "LG에너지솔루션",
+"second_ret": 5.76
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 3.63,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.5,
+"second": "원티드랩",
+"second_ret": 4.2
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.62,
+"up5": 9,
+"lead": "대동기어",
+"lead_ret": 22.41,
+"second": "전진건설로봇",
+"second_ret": 14.66
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.6,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.5,
+"second": "네오위즈",
+"second_ret": 7.76
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.17,
+"up5": 1,
+"lead": "우원개발",
+"lead_ret": 5.14,
+"second": "LS",
+"second_ret": 4.3
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 2.91,
+"up5": 2,
+"lead": "현대제철",
+"lead_ret": 7.06,
+"second": "POSCO홀딩스",
+"second_ret": 6.94
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -2.22,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.5,
+"second": "TS인베스트먼트",
+"second_ret": 0.5
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -1.44,
+"up5": 0,
+"lead": "포니링크",
+"lead_ret": 3.51,
+"second": "이루온",
+"second_ret": 0.66
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.23,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.38,
+"second": "코텍",
+"second_ret": 0.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.23,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.38,
+"second": "코텍",
+"second_ret": 0.0
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": -1.21,
+"up5": 1,
+"lead": "이수페타시스",
+"lead_ret": 5.65,
+"second": "코난테크놀로지",
+"second_ret": 2.09
+}
+],
+"leaders": [
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 29.99,
+"value": 7935,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 10.27,
+"value": 4849,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "전진건설로봇",
+"code": "079900",
+"ret": 14.66,
+"value": 4519,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 22.41,
+"value": 2831,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한화",
+"code": "000880",
+"ret": 11.81,
+"value": 2090,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210610",
+"kospi": 0.26,
+"kosdaq": 0.92,
+"adv": 971,
+"dec": 835,
+"flat": 205,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 280962,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 23.73,
+"second": "현대바이오",
+"second_ret": 9.97
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.8,
+"second": "한국비티비",
+"second_ret": 11.67
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "캐스텍코리아",
+"lead_ret": 16.91,
+"second": "인팩",
+"second_ret": 9.68
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.74,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 21.82,
+"second": "유비벨록스",
+"second_ret": 1.69
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.64,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 21.82,
+"second": "포니링크",
+"second_ret": 13.35
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.88,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 21.82,
+"second": "KG이니시스",
+"second_ret": 4.57
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.41,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.8,
+"second": "삼성바이오로직스",
+"second_ret": 2.52
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.26,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 7.77,
+"second": "지씨셀",
+"second_ret": 4.24
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.93,
+"up5": 3,
+"lead": "코아스템켐온",
+"lead_ret": 11.83,
+"second": "안트로젠",
+"second_ret": 8.2
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.86,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.8,
+"second": "코렌텍",
+"second_ret": 6.59
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.76,
+"up5": 2,
+"lead": "한국비티비",
+"lead_ret": 11.67,
+"second": "휴메딕스",
+"second_ret": 6.01
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 2.65,
+"up5": 4,
+"lead": "신풍제약",
+"lead_ret": 23.73,
+"second": "현대바이오",
+"second_ret": 9.97
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.6,
+"up5": 2,
+"lead": "덴티움",
+"lead_ret": 6.24,
+"second": "바텍",
+"second_ret": 6.13
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.45,
+"up5": 1,
+"lead": "동양",
+"lead_ret": 30.0,
+"second": "HC홈센타",
+"second_ret": 3.79
+},
+{
+"name": "마스크",
+"n": 21,
+"avg": 2.38,
+"up5": 2,
+"lead": "동양",
+"lead_ret": 30.0,
+"second": "디케이앤디",
+"second_ret": 14.03
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -3.43,
+"up5": 0,
+"lead": "대창솔루션",
+"lead_ret": 4.54,
+"second": "비츠로테크",
+"second_ret": 1.73
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -2.61,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 4.95,
+"second": "흥국",
+"second_ret": 0.78
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.48,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 1.61,
+"second": "LS마린솔루션",
+"second_ret": -0.94
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": -2.4,
+"up5": 0,
+"lead": "대창솔루션",
+"lead_ret": 4.54,
+"second": "에이프로젠",
+"second_ret": 2.61
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.4,
+"up5": 0,
+"lead": "휴니드",
+"lead_ret": 1.95,
+"second": "신화프리텍",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 23.73,
+"value": 10528,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "포니링크",
+"code": "064800",
+"ret": 13.35,
+"value": 3146,
+"theme": "클라우드 컴퓨팅",
+"reason": "테마: 클라우드 컴퓨팅"
+},
+{
+"name": "한창제지",
+"code": "009460",
+"ret": 10.93,
+"value": 1452,
+"theme": "제지",
+"reason": "테마: 제지"
+},
+{
+"name": "CMG제약",
+"code": "058820",
+"ret": 10.06,
+"value": 1380,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "동양",
+"code": "001520",
+"ret": 30.0,
+"value": 1298,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

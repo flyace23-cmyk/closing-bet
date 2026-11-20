@@ -1,0 +1,254 @@
+{
+"date": "20240304",
+"kospi": 1.21,
+"kosdaq": 1.16,
+"adv": 1058,
+"dec": 1057,
+"flat": 128,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 225915,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "한울반도체",
+"lead_ret": 29.93,
+"second": "덕산테코피아",
+"second_ret": 29.92
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "에스피소프트",
+"lead_ret": 29.98,
+"second": "폴라리스AI",
+"second_ret": 24.66
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "빛과전자",
+"lead_ret": 29.98,
+"second": "아고스",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 5.57,
+"up5": 11,
+"lead": "유니퀘스트",
+"lead_ret": 19.93,
+"second": "퀄리타스반도체",
+"second_ret": 16.29
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.15,
+"up5": 7,
+"lead": "티에프이",
+"lead_ret": 9.56,
+"second": "대덕전자",
+"second_ret": 7.42
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.86,
+"up5": 7,
+"lead": "이수페타시스",
+"lead_ret": 20.13,
+"second": "인텍플러스",
+"second_ret": 7.77
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.54,
+"up5": 3,
+"lead": "오파스넷",
+"lead_ret": 12.38,
+"second": "광무",
+"second_ret": 7.69
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 4.51,
+"up5": 14,
+"lead": "고영",
+"lead_ret": 14.0,
+"second": "한미반도체",
+"second_ret": 12.5
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 4.32,
+"up5": 5,
+"lead": "퀄리타스반도체",
+"lead_ret": 16.29,
+"second": "오킨스전자",
+"second_ret": 7.45
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.85,
+"up5": 2,
+"lead": "에이직랜드",
+"lead_ret": 8.3,
+"second": "네패스",
+"second_ret": 7.54
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 3.65,
+"up5": 3,
+"lead": "GST",
+"lead_ret": 24.87,
+"second": "케이엔솔",
+"second_ret": 12.09
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.5,
+"up5": 2,
+"lead": "한울반도체",
+"lead_ret": 29.93,
+"second": "지아이에스",
+"second_ret": 5.36
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 3.44,
+"up5": 5,
+"lead": "에스피소프트",
+"lead_ret": 29.98,
+"second": "폴라리스AI",
+"second_ret": 24.66
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 3.4,
+"up5": 21,
+"lead": "GST",
+"lead_ret": 24.87,
+"second": "고영",
+"second_ret": 14.0
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 3.28,
+"up5": 3,
+"lead": "아이비김영",
+"lead_ret": 12.58,
+"second": "메가엠디",
+"second_ret": 9.05
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -3.23,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": -0.61,
+"second": "아시아나항공",
+"second_ret": -1.12
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.85,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.43,
+"second": "한화오션",
+"second_ret": -2.97
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -2.54,
+"up5": 0,
+"lead": "졸스",
+"lead_ret": -0.49,
+"second": "롯데쇼핑",
+"second_ret": -0.77
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -1.35,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": -0.1,
+"second": "한전KPS",
+"second_ret": -0.13
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": -1.29,
+"up5": 0,
+"lead": "에이엘티",
+"lead_ret": 4.43,
+"second": "한국첨단소재",
+"second_ret": 1.87
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 12.5,
+"value": 8953,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 20.13,
+"value": 6465,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "코셈",
+"code": "360350",
+"ret": 18.38,
+"value": 3527,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "고영",
+"code": "098460",
+"ret": 14.0,
+"value": 3481,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "덕산테코피아",
+"code": "317330",
+"ret": 29.92,
+"value": 2628,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

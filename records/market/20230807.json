@@ -1,0 +1,254 @@
+{
+"date": "20230807",
+"kospi": -0.85,
+"kosdaq": -2.2,
+"adv": 915,
+"dec": 1152,
+"flat": 113,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 236735,
+"hot": [
+{
+"name": "초전도체",
+"n": 7,
+"lead": "파워로직스",
+"lead_ret": 29.92,
+"second": "신성델타테크",
+"second_ret": 29.84
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "씨앤씨인터내셔널",
+"lead_ret": 18.92,
+"second": "마녀공장",
+"second_ret": 13.35
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "유진로봇",
+"lead_ret": 29.84,
+"second": "모비스",
+"second_ret": 19.97
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 14.26,
+"up5": 13,
+"lead": "파워로직스",
+"lead_ret": 29.92,
+"second": "신성델타테크",
+"second_ret": 29.84
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 6.42,
+"up5": 3,
+"lead": "모비스",
+"lead_ret": 19.97,
+"second": "고려제강",
+"second_ret": 11.84
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.38,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 6.52,
+"second": "미래생명자원",
+"second_ret": 6.2
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 3.29,
+"up5": 1,
+"lead": "NICE평가정보",
+"lead_ret": 19.4,
+"second": "NAVER",
+"second_ret": 4.92
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.16,
+"up5": 2,
+"lead": "와이랩",
+"lead_ret": 20.89,
+"second": "엔키AX",
+"second_ret": 9.31
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 2.81,
+"up5": 5,
+"lead": "한울소재과학",
+"lead_ret": 30.0,
+"second": "아이티센피엔에스",
+"second_ret": 8.64
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.74,
+"up5": 2,
+"lead": "뉴보텍",
+"lead_ret": 7.52,
+"second": "조비",
+"second_ret": 6.69
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.74,
+"up5": 4,
+"lead": "한일사료",
+"lead_ret": 11.61,
+"second": "고려산업",
+"second_ret": 7.76
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 2.63,
+"up5": 4,
+"lead": "국일신동",
+"lead_ret": 29.97,
+"second": "서원",
+"second_ret": 29.82
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.07,
+"up5": 1,
+"lead": "가비아",
+"lead_ret": 9.81,
+"second": "NAVER",
+"second_ret": 4.92
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.0,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 18.3,
+"second": "심텍",
+"second_ret": 3.8
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 1.94,
+"up5": 2,
+"lead": "파워로직스",
+"lead_ret": 29.92,
+"second": "아이티센피엔에스",
+"second_ret": 8.64
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -5.2,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -1.55,
+"second": "디아이씨",
+"second_ret": -2.45
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.77,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 2.45,
+"second": "후성",
+"second_ret": -1.58
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": -4.06,
+"up5": 0,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 1.17,
+"second": "원준",
+"second_ret": 0.6
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 20,
+"avg": -2.93,
+"up5": 0,
+"lead": "동국알앤에스",
+"lead_ret": 4.81,
+"second": "대원화성",
+"second_ret": 1.29
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -2.87,
+"up5": 0,
+"lead": "LX인터내셔널",
+"lead_ret": 0.71,
+"second": "SK네트웍스",
+"second_ret": -0.5
+}
+],
+"leaders": [
+{
+"name": "서남",
+"code": "294630",
+"ret": 14.85,
+"value": 8761,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "와이랩",
+"code": "432430",
+"ret": 20.89,
+"value": 3255,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 29.63,
+"value": 3057,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "원익피앤이",
+"code": "217820",
+"ret": 10.54,
+"value": 2581,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "파워로직스",
+"code": "047310",
+"ret": 29.92,
+"value": 2089,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

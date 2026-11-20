@@ -1,0 +1,254 @@
+{
+"date": "20240108",
+"kospi": -0.4,
+"kosdaq": 0.11,
+"adv": 1033,
+"dec": 1038,
+"flat": 157,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 165870,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "바이브컴퍼니",
+"lead_ret": 29.88,
+"second": "비아이매트릭스",
+"second_ret": 20.16
+},
+{
+"name": "초전도체",
+"n": 5,
+"lead": "파워로직스",
+"lead_ret": 30.0,
+"second": "신성델타테크",
+"second_ret": 25.0
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 5,
+"lead": "한컴",
+"lead_ret": 29.99,
+"second": "이스트소프트",
+"second_ret": 29.94
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 7.62,
+"up5": 6,
+"lead": "파워로직스",
+"lead_ret": 30.0,
+"second": "신성델타테크",
+"second_ret": 25.0
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": 6.98,
+"up5": 11,
+"lead": "한컴",
+"lead_ret": 29.99,
+"second": "이스트소프트",
+"second_ret": 29.94
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 5.43,
+"up5": 5,
+"lead": "디앤씨미디어",
+"lead_ret": 20.61,
+"second": "미스터블루",
+"second_ret": 13.07
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 4.63,
+"up5": 3,
+"lead": "이스트소프트",
+"lead_ret": 29.94,
+"second": "크라우드웍스",
+"second_ret": 8.14
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": 4.62,
+"up5": 9,
+"lead": "한컴",
+"lead_ret": 29.99,
+"second": "디앤씨미디어",
+"second_ret": 20.61
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 4.33,
+"up5": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 19.96,
+"second": "세종텔레콤",
+"second_ret": 7.02
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 4.05,
+"up5": 8,
+"lead": "한컴",
+"lead_ret": 29.99,
+"second": "엑셈",
+"second_ret": 20.0
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 3.44,
+"up5": 2,
+"lead": "엑셈",
+"lead_ret": 20.0,
+"second": "드림시큐리티",
+"second_ret": 5.61
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.44,
+"up5": 1,
+"lead": "SOOP",
+"lead_ret": 15.96,
+"second": "가비아",
+"second_ret": 4.45
+},
+{
+"name": "보안주(정보)",
+"n": 45,
+"avg": 3.09,
+"up5": 9,
+"lead": "이스트소프트",
+"lead_ret": 29.94,
+"second": "한컴위드",
+"second_ret": 17.08
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 52,
+"avg": 2.93,
+"up5": 9,
+"lead": "바이브컴퍼니",
+"lead_ret": 29.88,
+"second": "비아이매트릭스",
+"second_ret": 20.16
+},
+{
+"name": "인터넷은행",
+"n": 27,
+"avg": 2.85,
+"up5": 5,
+"lead": "엑셈",
+"lead_ret": 20.0,
+"second": "한컴위드",
+"second_ret": 17.08
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.05,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -1.29,
+"second": "메디포스트",
+"second_ret": -1.79
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -1.97,
+"up5": 0,
+"lead": "안트로젠",
+"lead_ret": 1.32,
+"second": "동구바이오제약",
+"second_ret": 0.85
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -1.59,
+"up5": 0,
+"lead": "큐리언트",
+"lead_ret": 1.02,
+"second": "HLB",
+"second_ret": 0.73
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -1.54,
+"up5": 0,
+"lead": "태영건설",
+"lead_ret": 3.39,
+"second": "와이엔텍",
+"second_ret": 2.35
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.5,
+"up5": 0,
+"lead": "진매트릭스",
+"lead_ret": 1.32,
+"second": "코미팜",
+"second_ret": 0.48
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 25.0,
+"value": 6809,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "SOOP",
+"code": "067160",
+"ret": 15.96,
+"value": 4162,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 29.91,
+"value": 3869,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 19.96,
+"value": 3349,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "한컴",
+"code": "030520",
+"ret": 29.99,
+"value": 3191,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

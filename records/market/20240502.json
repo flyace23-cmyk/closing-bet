@@ -1,0 +1,254 @@
+{
+"date": "20240502",
+"kospi": -0.31,
+"kosdaq": -0.17,
+"adv": 1062,
+"dec": 1042,
+"flat": 147,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 158067,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "아고스",
+"lead_ret": 15.0,
+"second": "RFHIC",
+"second_ret": 13.4
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "에이텀",
+"lead_ret": 30.0,
+"second": "계양전기",
+"second_ret": 29.89
+},
+{
+"name": "드론(Drone)",
+"n": 3,
+"lead": "사토시홀딩스",
+"lead_ret": 18.75,
+"second": "아고스",
+"second_ret": 15.0
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 3.81,
+"up5": 2,
+"lead": "SM C&C",
+"lead_ret": 20.64,
+"second": "레드캡투어",
+"second_ret": 7.13
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.43,
+"up5": 1,
+"lead": "레이저쎌",
+"lead_ret": 29.96,
+"second": "탑엔지니어링",
+"second_ret": 2.21
+},
+{
+"name": "드론(Drone)",
+"n": 26,
+"avg": 2.37,
+"up5": 3,
+"lead": "사토시홀딩스",
+"lead_ret": 18.75,
+"second": "아고스",
+"second_ret": 15.0
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.37,
+"up5": 1,
+"lead": "트리니티항공",
+"lead_ret": 7.8,
+"second": "에어부산",
+"second_ret": 3.15
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 2.28,
+"up5": 3,
+"lead": "사토시홀딩스",
+"lead_ret": 18.75,
+"second": "아이티센피엔에스",
+"second_ret": 13.56
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.19,
+"up5": 3,
+"lead": "와이씨켐",
+"lead_ret": 17.04,
+"second": "한빛레이저",
+"second_ret": 8.24
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.13,
+"up5": 1,
+"lead": "풍산",
+"lead_ret": 11.85,
+"second": "프리엠스",
+"second_ret": 3.17
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 2.03,
+"up5": 3,
+"lead": "사토시홀딩스",
+"lead_ret": 18.75,
+"second": "아이티센피엔에스",
+"second_ret": 13.56
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.03,
+"up5": 3,
+"lead": "아이티센피엔에스",
+"lead_ret": 13.56,
+"second": "엑스페릭스",
+"second_ret": 11.96
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 1.96,
+"up5": 1,
+"lead": "오픈놀",
+"lead_ret": 7.21,
+"second": "대성창투",
+"second_ret": 3.21
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.79,
+"up5": 1,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 11.26,
+"second": "한국항공우주",
+"second_ret": 4.44
+},
+{
+"name": "통신장비",
+"n": 44,
+"avg": 1.67,
+"up5": 4,
+"lead": "피노",
+"lead_ret": 30.0,
+"second": "아고스",
+"second_ret": 15.0
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.5,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": -1.03,
+"second": "코리안리",
+"second_ret": -1.22
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.49,
+"up5": 0,
+"lead": "SAMG엔터",
+"lead_ret": 2.49,
+"second": "대원미디어",
+"second_ret": 0.1
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.46,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": -0.24,
+"second": "JB금융지주",
+"second_ret": -0.9
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": -1.85,
+"up5": 0,
+"lead": "헥토파이낸셜",
+"lead_ret": 0.38,
+"second": "아이티아이즈",
+"second_ret": 0.36
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.66,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 1.18,
+"second": "그래디언트",
+"second_ret": -0.55
+}
+],
+"leaders": [
+{
+"name": "제일일렉트릭",
+"code": "199820",
+"ret": 14.86,
+"value": 2891,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "풍산",
+"code": "103140",
+"ret": 11.85,
+"value": 2046,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "와이씨켐",
+"code": "112290",
+"ret": 17.04,
+"value": 1933,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 11.26,
+"value": 1215,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "본느",
+"code": "226340",
+"ret": 15.23,
+"value": 1134,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

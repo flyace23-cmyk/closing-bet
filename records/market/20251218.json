@@ -1,0 +1,254 @@
+{
+"date": "20251218",
+"kospi": -1.53,
+"kosdaq": -1.07,
+"adv": 543,
+"dec": 1740,
+"flat": 112,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 210332,
+"hot": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 6,
+"lead": "미래에셋벤처투자",
+"lead_ret": 29.93,
+"second": "아주IB투자",
+"second_ret": 22.41
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 5,
+"lead": "에이치브이엠",
+"lead_ret": 17.94,
+"second": "이노스페이스",
+"second_ret": 15.37
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "계양전기",
+"lead_ret": 29.99,
+"second": "현대무벡스",
+"second_ret": 9.85
+}
+],
+"themes": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 7.37,
+"up5": 8,
+"lead": "미래에셋벤처투자",
+"lead_ret": 29.93,
+"second": "아주IB투자",
+"second_ret": 22.41
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 5.83,
+"up5": 3,
+"lead": "드림씨아이에스",
+"lead_ret": 29.94,
+"second": "오가노이드사이언스",
+"second_ret": 11.75
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.24,
+"up5": 1,
+"lead": "SP삼화",
+"lead_ret": 30.0,
+"second": "조광페인트",
+"second_ret": 3.77
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.63,
+"up5": 2,
+"lead": "미래에셋벤처투자",
+"lead_ret": 29.93,
+"second": "지어소프트",
+"second_ret": 10.73
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 3.0,
+"up5": 2,
+"lead": "미래에셋벤처투자",
+"lead_ret": 29.93,
+"second": "아주IB투자",
+"second_ret": 22.41
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.83,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 22.41,
+"second": "그래디언트",
+"second_ret": -0.61
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": 1.91,
+"up5": 7,
+"lead": "에이치브이엠",
+"lead_ret": 17.94,
+"second": "이노스페이스",
+"second_ret": 15.37
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.67,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 13.23,
+"second": "동양고속",
+"second_ret": 0.0
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 1.61,
+"up5": 3,
+"lead": "세이브존I&C",
+"lead_ret": 29.92,
+"second": "지어소프트",
+"second_ret": 10.73
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.93,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.21,
+"second": "파라다이스",
+"second_ret": 1.6
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.93,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.21,
+"second": "파라다이스",
+"second_ret": 1.6
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 0.9,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": 3.39,
+"second": "엔키AX",
+"second_ret": 2.49
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.51,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": -1.41,
+"second": "나인테크",
+"second_ret": -1.98
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -4.33,
+"up5": 1,
+"lead": "메타랩스",
+"lead_ret": 5.68,
+"second": "바이오니아",
+"second_ret": 0.97
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.12,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 1.01,
+"second": "앱튼",
+"second_ret": -1.41
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -3.53,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.73,
+"second": "에스티팜",
+"second_ret": 0.47
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": -3.18,
+"up5": 0,
+"lead": "효성화학",
+"lead_ret": 0.0,
+"second": "KPX케미칼",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "나라스페이스테크놀로지",
+"code": "478340",
+"ret": 14.92,
+"value": 5837,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 29.93,
+"value": 1924,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 22.41,
+"value": 1576,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "드림씨아이에스",
+"code": "223250",
+"ret": 29.94,
+"value": 1068,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "에이치브이엠",
+"code": "295310",
+"ret": 17.94,
+"value": 848,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+}
+],
+"backfilled": true
+}

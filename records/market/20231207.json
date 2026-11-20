@@ -1,0 +1,254 @@
+{
+"date": "20231207",
+"kospi": -0.13,
+"kosdaq": -0.77,
+"adv": 681,
+"dec": 1404,
+"flat": 138,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 147788,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "유유제약",
+"lead_ret": 24.33,
+"second": "그린생명과학",
+"second_ret": 18.79
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 3,
+"lead": "카페24",
+"lead_ret": 19.19,
+"second": "갤럭시아머니트리",
+"second_ret": 14.66
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 14.66,
+"second": "다날",
+"second_ret": 13.7
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.79,
+"up5": 3,
+"lead": "나이벡",
+"lead_ret": 29.76,
+"second": "한미사이언스",
+"second_ret": 7.14
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.8,
+"up5": 4,
+"lead": "카페24",
+"lead_ret": 19.19,
+"second": "갤럭시아머니트리",
+"second_ret": 14.66
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.79,
+"up5": 1,
+"lead": "에어부산",
+"lead_ret": 6.23,
+"second": "아시아나항공",
+"second_ret": 4.21
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.03,
+"up5": 4,
+"lead": "와이바이오로직스",
+"lead_ret": 29.95,
+"second": "헬릭스미스",
+"second_ret": 18.82
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 1.72,
+"up5": 2,
+"lead": "더블유씨피",
+"lead_ret": 9.41,
+"second": "메가터치",
+"second_ret": 6.07
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": 1.56,
+"up5": 1,
+"lead": "나이벡",
+"lead_ret": 29.76,
+"second": "레이",
+"second_ret": 0.24
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 1.49,
+"up5": 9,
+"lead": "유유제약",
+"lead_ret": 24.33,
+"second": "그린생명과학",
+"second_ret": 18.79
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.46,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 5.06,
+"second": "JW중외제약",
+"second_ret": 3.42
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 1.44,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 14.66,
+"second": "다날",
+"second_ret": 13.7
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.43,
+"up5": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 14.66,
+"second": "다날",
+"second_ret": 13.7
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 1.43,
+"up5": 4,
+"lead": "나이벡",
+"lead_ret": 29.76,
+"second": "동아에스티",
+"second_ret": 7.6
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 1.42,
+"up5": 2,
+"lead": "케이엔에스",
+"lead_ret": 18.15,
+"second": "KEC",
+"second_ret": 9.13
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.04,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 0.51,
+"second": "TKG휴켐스",
+"second_ret": -0.23
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.93,
+"up5": 0,
+"lead": "나이스정보통신",
+"lead_ret": -0.45,
+"second": "NICE",
+"second_ret": -1.19
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.7,
+"up5": 0,
+"lead": "네패스",
+"lead_ret": 0.99,
+"second": "앤씨앤",
+"second_ret": 0.0
+},
+{
+"name": "가상현실(VR)",
+"n": 22,
+"avg": -2.35,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": -0.22,
+"second": "삼성전자",
+"second_ret": -0.28
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.32,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.29,
+"second": "샘표",
+"second_ret": -1.43
+}
+],
+"leaders": [
+{
+"name": "케이엔에스",
+"code": "432470",
+"ret": 18.15,
+"value": 4002,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "카페24",
+"code": "042000",
+"ret": 19.19,
+"value": 3799,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "와이바이오로직스",
+"code": "338840",
+"ret": 29.95,
+"value": 2537,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 11.35,
+"value": 2047,
+"theme": "NI(네트워크통합)",
+"reason": "테마: NI(네트워크통합)"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 13.7,
+"value": 1855,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+}
+],
+"backfilled": true
+}

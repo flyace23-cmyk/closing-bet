@@ -1,0 +1,254 @@
+{
+"date": "20201029",
+"kospi": -0.79,
+"kosdaq": 0.96,
+"adv": 632,
+"dec": 1150,
+"flat": 166,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 170602,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "셀레믹스",
+"lead_ret": 8.93,
+"second": "수젠텍",
+"second_ret": 6.96
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "엔투텍",
+"lead_ret": 11.39,
+"second": "피에스케이",
+"second_ret": 9.24
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "신흥",
+"lead_ret": 29.66,
+"second": "수젠텍",
+"second_ret": 6.96
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 6.73,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "DSC인베스트먼트",
+"second_ret": 4.42
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 6.49,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "DSC인베스트먼트",
+"second_ret": 4.42
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 6.02,
+"up5": 3,
+"lead": "엔투텍",
+"lead_ret": 11.39,
+"second": "삼성바이오로직스",
+"second_ret": 9.42
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.71,
+"up5": 3,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "아주IB투자",
+"second_ret": 29.8
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.66,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 29.8,
+"second": "SBI인베스트먼트",
+"second_ret": -0.72
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 4.62,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 29.8,
+"second": "한미반도체",
+"second_ret": 4.83
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.21,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 7.96,
+"second": "강스템바이오텍",
+"second_ret": 5.28
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.83,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "DSC인베스트먼트",
+"second_ret": 4.42
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.58,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 6.4,
+"second": "파미셀",
+"second_ret": 3.64
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.47,
+"up5": 3,
+"lead": "녹십자",
+"lead_ret": 7.96,
+"second": "서린바이오",
+"second_ret": 7.83
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.27,
+"up5": 2,
+"lead": "삼성바이오로직스",
+"lead_ret": 9.42,
+"second": "강스템바이오텍",
+"second_ret": 5.28
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.22,
+"up5": 1,
+"lead": "신흥",
+"lead_ret": 29.66,
+"second": "오스코텍",
+"second_ret": 2.14
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": -3.04,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -0.96,
+"second": "신세계",
+"second_ret": -1.17
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.16,
+"up5": 0,
+"lead": "금강공업",
+"lead_ret": 0.46,
+"second": "자연과환경",
+"second_ret": -0.72
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": -2.16,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": -0.22,
+"second": "지어소프트",
+"second_ret": -0.46
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -2.14,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 0.0,
+"second": "삼성물산",
+"second_ret": -1.77
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 23,
+"avg": -2.04,
+"up5": 1,
+"lead": "하이즈항공",
+"lead_ret": 15.0,
+"second": "켄코아에어로스페이스",
+"second_ret": 1.91
+}
+],
+"leaders": [
+{
+"name": "TS인베스트먼트",
+"code": "246690",
+"ret": 29.86,
+"value": 1815,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "FSN",
+"code": "214270",
+"ret": 19.61,
+"value": 1636,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 29.8,
+"value": 1626,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "비케이홀딩스",
+"code": "050090",
+"ret": 18.43,
+"value": 1338,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "컬러레이",
+"code": "900310",
+"ret": 10.0,
+"value": 1069,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

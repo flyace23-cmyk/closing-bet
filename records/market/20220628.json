@@ -1,0 +1,254 @@
+{
+"date": "20220628",
+"kospi": 0.84,
+"kosdaq": -0.14,
+"adv": 1262,
+"dec": 639,
+"flat": 183,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 122993,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "비에이치아이",
+"lead_ret": 21.15,
+"second": "HRS",
+"second_ret": 10.44
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 4,
+"lead": "HD현대일렉트릭",
+"lead_ret": 11.45,
+"second": "LS ELECTRIC",
+"second_ret": 9.23
+},
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "씨에스베어링",
+"lead_ret": 29.57,
+"second": "유니슨",
+"second_ret": 9.85
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.84,
+"up5": 5,
+"lead": "비에이치아이",
+"lead_ret": 21.15,
+"second": "오르비텍",
+"second_ret": 9.46
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 4.43,
+"up5": 3,
+"lead": "케이에스피",
+"lead_ret": 10.0,
+"second": "비엠티",
+"second_ret": 6.93
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 4.01,
+"up5": 10,
+"lead": "씨에스베어링",
+"lead_ret": 29.57,
+"second": "유니슨",
+"second_ret": 9.85
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.8,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 21.15,
+"second": "우림피티에스",
+"second_ret": 8.42
+},
+{
+"name": "원자력발전",
+"n": 44,
+"avg": 3.8,
+"up5": 12,
+"lead": "비에이치아이",
+"lead_ret": 21.15,
+"second": "HRS",
+"second_ret": 10.44
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 3.55,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 17.94,
+"second": "대성창투",
+"second_ret": 5.82
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 3.23,
+"up5": 2,
+"lead": "덴티스",
+"lead_ret": 14.34,
+"second": "레이",
+"second_ret": 7.54
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.1,
+"up5": 7,
+"lead": "HD현대일렉트릭",
+"lead_ret": 11.45,
+"second": "LS ELECTRIC",
+"second_ret": 9.23
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.03,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 9.42,
+"second": "LX인터내셔널",
+"second_ret": 3.79
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 2.96,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 17.94,
+"second": "포바이포",
+"second_ret": 4.04
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.86,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 7.1,
+"second": "일진전기",
+"second_ret": 5.48
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 2.84,
+"up5": 5,
+"lead": "조선선재",
+"lead_ret": 16.43,
+"second": "케이에스피",
+"second_ret": 10.0
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.49,
+"up5": 0,
+"lead": "수젠텍",
+"lead_ret": 1.99,
+"second": "멕아이씨에스",
+"second_ret": 1.47
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -1.48,
+"up5": 0,
+"lead": "랩지노믹스",
+"lead_ret": 3.26,
+"second": "HLB제넥스",
+"second_ret": 1.33
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.41,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.0,
+"second": "샘표식품",
+"second_ret": -0.14
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -1.23,
+"up5": 0,
+"lead": "이수앱지스",
+"lead_ret": 3.52,
+"second": "동아에스티",
+"second_ret": 3.2
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -1.22,
+"up5": 1,
+"lead": "애드바이오텍",
+"lead_ret": 5.07,
+"second": "케이씨피드",
+"second_ret": 1.73
+}
+],
+"leaders": [
+{
+"name": "SDN",
+"code": "099220",
+"ret": 11.11,
+"value": 1770,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 17.06,
+"value": 1745,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "신화인터텍",
+"code": "056700",
+"ret": 19.16,
+"value": 1662,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 21.15,
+"value": 839,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "씨에스베어링",
+"code": "297090",
+"ret": 29.57,
+"value": 709,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

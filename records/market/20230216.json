@@ -1,0 +1,254 @@
+{
+"date": "20230216",
+"kospi": 1.96,
+"kosdaq": 2.51,
+"adv": 1598,
+"dec": 434,
+"flat": 104,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 172474,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 8,
+"lead": "위메이드플레이",
+"lead_ret": 30.0,
+"second": "위메이드맥스",
+"second_ret": 30.0
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 6,
+"lead": "위메이드",
+"lead_ret": 29.86,
+"second": "컴투스홀딩스",
+"second_ret": 24.27
+},
+{
+"name": "2차전지",
+"n": 6,
+"lead": "코스모화학",
+"lead_ret": 29.77,
+"second": "후성",
+"second_ret": 14.62
+}
+],
+"themes": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 7.61,
+"up5": 15,
+"lead": "위메이드플레이",
+"lead_ret": 30.0,
+"second": "위메이드맥스",
+"second_ret": 30.0
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 6.65,
+"up5": 12,
+"lead": "위메이드맥스",
+"lead_ret": 30.0,
+"second": "위메이드",
+"second_ret": 29.86
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 6.56,
+"up5": 13,
+"lead": "위메이드",
+"lead_ret": 29.86,
+"second": "컴투스홀딩스",
+"second_ret": 24.27
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 6.03,
+"up5": 6,
+"lead": "코스모화학",
+"lead_ret": 29.77,
+"second": "에코프로",
+"second_ret": 11.94
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 5.76,
+"up5": 7,
+"lead": "위메이드",
+"lead_ret": 29.86,
+"second": "컴투스홀딩스",
+"second_ret": 24.27
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.7,
+"up5": 10,
+"lead": "코스모화학",
+"lead_ret": 29.77,
+"second": "후성",
+"second_ret": 14.62
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 5.16,
+"up5": 6,
+"lead": "코스모신소재",
+"lead_ret": 9.89,
+"second": "삼화콘덴서",
+"second_ret": 9.42
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.66,
+"up5": 2,
+"lead": "안트로젠",
+"lead_ret": 29.93,
+"second": "강스템바이오텍",
+"second_ret": 7.78
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 64,
+"avg": 3.93,
+"up5": 18,
+"lead": "코스모화학",
+"lead_ret": 29.77,
+"second": "후성",
+"second_ret": 14.62
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 3.91,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 29.86,
+"second": "다날",
+"second_ret": 9.86
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.82,
+"up5": 4,
+"lead": "태성",
+"lead_ret": 17.39,
+"second": "이수페타시스",
+"second_ret": 6.58
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 3.81,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 11.94,
+"second": "에코프로비엠",
+"second_ret": 4.54
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.68,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 2.6,
+"second": "유진기업",
+"second_ret": 1.55
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.32,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 2.89,
+"second": "동원수산",
+"second_ret": 0.66
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 9,
+"avg": -0.21,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": 4.56,
+"second": "플랜티넷",
+"second_ret": 3.59
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.17,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.91,
+"second": "KSS해운",
+"second_ret": 0.54
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -0.11,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 2.6,
+"second": "인성정보",
+"second_ret": 1.36
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 11.94,
+"value": 5114,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 29.77,
+"value": 4334,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 29.86,
+"value": 4074,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 16.09,
+"value": 2633,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "컴투스",
+"code": "078340",
+"ret": 12.25,
+"value": 2080,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

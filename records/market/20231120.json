@@ -1,0 +1,229 @@
+{
+"date": "20231120",
+"kospi": 0.86,
+"kosdaq": 1.75,
+"adv": 1600,
+"dec": 487,
+"flat": 126,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 120890,
+"hot": [],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 10.14,
+"up5": 4,
+"lead": "오픈놀",
+"lead_ret": 29.98,
+"second": "원티드랩",
+"second_ret": 29.97
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.39,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 12.04,
+"second": "삼성중공업",
+"second_ret": 4.32
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 3.77,
+"up5": 7,
+"lead": "메디아나",
+"lead_ret": 29.95,
+"second": "제이에스링크",
+"second_ret": 6.57
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 3.77,
+"up5": 1,
+"lead": "에코프로머티",
+"lead_ret": 29.9,
+"second": "황금에스티",
+"second_ret": 3.24
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.72,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 12.56,
+"second": "HC홈센타",
+"second_ret": 7.54
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.44,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 12.56,
+"second": "흥구석유",
+"second_ret": 4.06
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.32,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 17.98,
+"second": "에피소드컴퍼니",
+"second_ret": 3.26
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.24,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 7.22,
+"second": "에코프로비엠",
+"second_ret": 5.46
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 3.15,
+"up5": 4,
+"lead": "SAMG엔터",
+"lead_ret": 17.98,
+"second": "꿈비",
+"second_ret": 11.7
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.01,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 12.56,
+"second": "흥구석유",
+"second_ret": 4.06
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.01,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 12.56,
+"second": "흥구석유",
+"second_ret": 4.06
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.82,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 6.62,
+"second": "미래생명자원",
+"second_ret": 2.74
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.32,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": 1.01,
+"second": "한진칼",
+"second_ret": 0.0
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -0.92,
+"up5": 0,
+"lead": "HS효성첨단소재",
+"lead_ret": 1.45,
+"second": "코오롱인더",
+"second_ret": 0.8
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.75,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 1.19,
+"second": "에스티팜",
+"second_ret": 0.14
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.55,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.15,
+"second": "삼성전자",
+"second_ret": 0.28
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": -0.46,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 3.31,
+"second": "S-Oil",
+"second_ret": 2.21
+}
+],
+"leaders": [
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 29.9,
+"value": 6876,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "두산로보틱스",
+"code": "454910",
+"ret": 13.81,
+"value": 5331,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "메디아나",
+"code": "041920",
+"ret": 29.95,
+"value": 2708,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "부방",
+"code": "014470",
+"ret": 27.03,
+"value": 973,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "극동유화",
+"code": "014530",
+"ret": 12.56,
+"value": 644,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+}
+],
+"backfilled": true
+}

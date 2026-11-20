@@ -1,0 +1,254 @@
+{
+"date": "20200109",
+"kospi": 1.63,
+"kosdaq": 3.92,
+"adv": 1649,
+"dec": 167,
+"flat": 86,
+"limit_up": 1,
+"limit_down": 2,
+"value_total": 113628,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "에프에스티",
+"lead_ret": 14.29,
+"second": "테크윙",
+"second_ret": 11.0
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "에스앤에스텍",
+"lead_ret": 16.43,
+"second": "에프에스티",
+"second_ret": 14.29
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "이스트에이드",
+"lead_ret": 14.45,
+"second": "라온피플",
+"second_ret": 13.49
+}
+],
+"themes": [
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 6.93,
+"up5": 7,
+"lead": "삼륭물산",
+"lead_ret": 29.72,
+"second": "에스앤에스텍",
+"second_ret": 16.43
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.88,
+"up5": 6,
+"lead": "우원개발",
+"lead_ret": 15.86,
+"second": "특수건설",
+"second_ret": 10.03
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 6.7,
+"up5": 7,
+"lead": "엔키AX",
+"lead_ret": 17.65,
+"second": "이스트에이드",
+"second_ret": 14.45
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 6.5,
+"up5": 9,
+"lead": "삼륭물산",
+"lead_ret": 29.72,
+"second": "일신석재",
+"second_ret": 17.67
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 6.44,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 29.72,
+"second": "삼양패키징",
+"second_ret": 5.7
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 5.8,
+"up5": 4,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 12.17,
+"second": "유니테스트",
+"second_ret": 9.85
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 5.64,
+"up5": 5,
+"lead": "NICE평가정보",
+"lead_ret": 12.01,
+"second": "헥토이노베이션",
+"second_ret": 7.25
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 5.3,
+"up5": 3,
+"lead": "ISC",
+"lead_ret": 12.03,
+"second": "심텍",
+"second_ret": 6.22
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 5.29,
+"up5": 3,
+"lead": "이월드",
+"lead_ret": 10.0,
+"second": "대신정보통신",
+"second_ret": 8.12
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 5.02,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 13.59,
+"second": "NICE",
+"second_ret": 4.35
+},
+{
+"name": "반도체 재료/부품",
+"n": 56,
+"avg": 4.96,
+"up5": 21,
+"lead": "에스앤에스텍",
+"lead_ret": 16.43,
+"second": "에프에스티",
+"second_ret": 14.29
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 4.9,
+"up5": 8,
+"lead": "위메이드맥스",
+"lead_ret": 28.95,
+"second": "위메이드",
+"second_ret": 12.59
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -10.2,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 0.97,
+"second": "SK이노베이션",
+"second_ret": 0.36
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -10.2,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 0.97,
+"second": "SK이노베이션",
+"second_ret": 0.36
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -9.48,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.36,
+"second": "한국쉘석유",
+"second_ret": 0.32
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -6.73,
+"up5": 0,
+"lead": "엔피케이",
+"lead_ret": 4.4,
+"second": "유진기업",
+"second_ret": 3.08
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -6.29,
+"up5": 0,
+"lead": "위즈코프",
+"lead_ret": 4.72,
+"second": "남해화학",
+"second_ret": 2.86
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 10.19,
+"value": 1739,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "한국화장품",
+"code": "123690",
+"ret": 10.68,
+"value": 1097,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "젬백스",
+"code": "082270",
+"ret": 15.16,
+"value": 1066,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한국정보통신",
+"code": "025770",
+"ret": 13.59,
+"value": 856,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 17.67,
+"value": 604,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

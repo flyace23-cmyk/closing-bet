@@ -1,0 +1,254 @@
+{
+"date": "20220110",
+"kospi": -0.95,
+"kosdaq": -1.49,
+"adv": 538,
+"dec": 1376,
+"flat": 144,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 193505,
+"hot": [
+{
+"name": "원자력발전",
+"n": 6,
+"lead": "우리기술",
+"lead_ret": 24.86,
+"second": "보성파워텍",
+"second_ret": 18.07
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "아진엑스텍",
+"lead_ret": 19.56,
+"second": "에스피시스템스",
+"second_ret": 16.37
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "스맥",
+"lead_ret": 9.8,
+"second": "데이타솔루션",
+"second_ret": 9.75
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.53,
+"up5": 1,
+"lead": "DB손해보험",
+"lead_ret": 6.27,
+"second": "한화손해보험",
+"second_ret": 4.42
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.17,
+"up5": 3,
+"lead": "우리기술",
+"lead_ret": 24.86,
+"second": "비에이치아이",
+"second_ret": 5.8
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.03,
+"up5": 2,
+"lead": "모아텍",
+"lead_ret": 14.83,
+"second": "스맥",
+"second_ret": 9.8
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.61,
+"up5": 1,
+"lead": "우리금융지주",
+"lead_ret": 6.49,
+"second": "하나금융지주",
+"second_ret": 4.49
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 2.41,
+"up5": 9,
+"lead": "우리기술",
+"lead_ret": 24.86,
+"second": "보성파워텍",
+"second_ret": 18.07
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.17,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 13.36,
+"second": "대성에너지",
+"second_ret": 4.77
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.53,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 5.8,
+"second": "SNT에너지",
+"second_ret": 5.69
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 1.38,
+"up5": 1,
+"lead": "디지캡",
+"lead_ret": 8.83,
+"second": "한빛소프트",
+"second_ret": 2.23
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 1.37,
+"up5": 1,
+"lead": "한세엠케이",
+"lead_ret": 30.0,
+"second": "남화산업",
+"second_ret": 2.7
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 31,
+"avg": 1.35,
+"up5": 4,
+"lead": "아진엑스텍",
+"lead_ret": 19.56,
+"second": "에스피시스템스",
+"second_ret": 16.37
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.17,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 2.59,
+"second": "HD한국조선해양",
+"second_ret": 1.99
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 0.9,
+"up5": 3,
+"lead": "우리기술",
+"lead_ret": 24.86,
+"second": "에너토크",
+"second_ret": 6.9
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -4.06,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": -0.26,
+"second": "한진칼",
+"second_ret": -0.34
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -3.22,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.37,
+"second": "우원개발",
+"second_ret": -1.14
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.13,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "현대차",
+"second_ret": -2.56
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -3.08,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -1.77,
+"second": "삼성SDI",
+"second_ret": -1.89
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -2.87,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 0.0,
+"second": "모베이스전자",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "아진엑스텍",
+"code": "059120",
+"ret": 19.56,
+"value": 3902,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 24.86,
+"value": 2296,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 17.15,
+"value": 1543,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 18.07,
+"value": 1366,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 13.36,
+"value": 980,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

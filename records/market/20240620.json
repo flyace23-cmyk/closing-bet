@@ -1,0 +1,238 @@
+{
+"date": "20240620",
+"kospi": 0.37,
+"kosdaq": -0.43,
+"adv": 1036,
+"dec": 1070,
+"flat": 155,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 199740,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "풍원정밀",
+"lead_ret": 29.94,
+"second": "LX세미콘",
+"second_ret": 9.72
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 6.13,
+"up5": 3,
+"lead": "에피소드컴퍼니",
+"lead_ret": 29.94,
+"second": "리튬포어스",
+"second_ret": 7.28
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 5.92,
+"up5": 4,
+"lead": "한선엔지니어링",
+"lead_ret": 19.9,
+"second": "디케이락",
+"second_ret": 8.45
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.37,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 29.98,
+"second": "LX인터내셔널",
+"second_ret": 3.85
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.95,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 6.36,
+"second": "STX그린로지스",
+"second_ret": 5.91
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.8,
+"up5": 1,
+"lead": "흥국화재",
+"lead_ret": 7.47,
+"second": "한화손해보험",
+"second_ret": 4.66
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.53,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 29.98,
+"second": "GS건설",
+"second_ret": 1.61
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 3.3,
+"up5": 4,
+"lead": "동방",
+"lead_ret": 17.25,
+"second": "한솔로지스틱스",
+"second_ret": 13.07
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.22,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 13.8,
+"second": "삼천리",
+"second_ret": 3.42
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 3.17,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 15.57,
+"second": "한국가스공사",
+"second_ret": 13.8
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.82,
+"up5": 3,
+"lead": "깨끗한나라",
+"lead_ret": 29.94,
+"second": "에피소드컴퍼니",
+"second_ret": 29.94
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.78,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 15.57,
+"second": "E1",
+"second_ret": 4.09
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.78,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 15.57,
+"second": "E1",
+"second_ret": 4.09
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.53,
+"up5": 0,
+"lead": "네패스",
+"lead_ret": 1.82,
+"second": "삼성전자",
+"second_ret": 0.49
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -2.15,
+"up5": 0,
+"lead": "RF머트리얼즈",
+"lead_ret": 1.7,
+"second": "RFHIC",
+"second_ret": 1.35
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": -1.81,
+"up5": 0,
+"lead": "HB테크놀러지",
+"lead_ret": 0.72,
+"second": "아이씨디",
+"second_ret": 0.72
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.75,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": 1.09,
+"second": "탑엔지니어링",
+"second_ret": 0.55
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -1.74,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.71,
+"second": "대교",
+"second_ret": 1.01
+}
+],
+"leaders": [
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 15.57,
+"value": 10331,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "DB하이텍",
+"code": "000990",
+"ret": 24.54,
+"value": 8971,
+"theme": "반도체 대표주(생산)",
+"reason": "테마: 반도체 대표주(생산)"
+},
+{
+"name": "한국가스공사",
+"code": "036460",
+"ret": 13.8,
+"value": 7936,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "카페24",
+"code": "042000",
+"ret": 11.78,
+"value": 4536,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 11.36,
+"value": 2849,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

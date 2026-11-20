@@ -1,0 +1,254 @@
+{
+"date": "20231106",
+"kospi": 5.66,
+"kosdaq": 7.34,
+"adv": 1752,
+"dec": 362,
+"flat": 90,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 260733,
+"hot": [
+{
+"name": "2차전지",
+"n": 14,
+"lead": "에코프로비엠",
+"lead_ret": 30.0,
+"second": "에코프로",
+"second_ret": 29.98
+},
+{
+"name": "리튬",
+"n": 9,
+"lead": "에코프로",
+"lead_ret": 29.98,
+"second": "포스코퓨처엠",
+"second_ret": 29.93
+},
+{
+"name": "2차전지(전고체)",
+"n": 5,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 24.31,
+"second": "LG에너지솔루션",
+"second_ret": 22.76
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 15.19,
+"up5": 7,
+"lead": "에코프로비엠",
+"lead_ret": 30.0,
+"second": "에코프로",
+"second_ret": 29.98
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 15.12,
+"up5": 20,
+"lead": "에코프로",
+"lead_ret": 29.98,
+"second": "포스코퓨처엠",
+"second_ret": 29.93
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 9.91,
+"up5": 13,
+"lead": "에코프로",
+"lead_ret": 29.98,
+"second": "LG에너지솔루션",
+"second_ret": 22.76
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 9.52,
+"up5": 23,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 24.31,
+"second": "LG에너지솔루션",
+"second_ret": 22.76
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 68,
+"avg": 9.18,
+"up5": 51,
+"lead": "에코프로비엠",
+"lead_ret": 30.0,
+"second": "에코프로",
+"second_ret": 29.98
+},
+{
+"name": "2차전지",
+"n": 125,
+"avg": 8.3,
+"up5": 89,
+"lead": "에코프로비엠",
+"lead_ret": 30.0,
+"second": "에코프로",
+"second_ret": 29.98
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 8.19,
+"up5": 6,
+"lead": "LG에너지솔루션",
+"lead_ret": 22.76,
+"second": "포스코인터내셔널",
+"second_ret": 21.19
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 8.03,
+"up5": 7,
+"lead": "엘앤에프",
+"lead_ret": 25.3,
+"second": "LG에너지솔루션",
+"second_ret": 22.76
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 7.66,
+"up5": 5,
+"lead": "대주전자재료",
+"lead_ret": 16.69,
+"second": "코스모신소재",
+"second_ret": 11.04
+},
+{
+"name": "2차전지(장비)",
+"n": 39,
+"avg": 6.59,
+"up5": 26,
+"lead": "윤성에프앤씨",
+"lead_ret": 18.8,
+"second": "APS이노베이션",
+"second_ret": 16.3
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 6.48,
+"up5": 11,
+"lead": "포스코인터내셔널",
+"lead_ret": 21.19,
+"second": "TCC스틸",
+"second_ret": 14.79
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 6.45,
+"up5": 5,
+"lead": "에코프로",
+"lead_ret": 29.98,
+"second": "에코프로에이치엔",
+"second_ret": 28.73
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -1.08,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 1.76,
+"second": "HC홈센타",
+"second_ret": 1.54
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.12,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 13.42,
+"second": "S-Oil",
+"second_ret": 2.95
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.12,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 13.42,
+"second": "S-Oil",
+"second_ret": 2.95
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 0.11,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 2.99,
+"second": "유진로봇",
+"second_ret": 2.89
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 0.23,
+"up5": 0,
+"lead": "원티드랩",
+"lead_ret": 2.47,
+"second": "TS인베스트먼트",
+"second_ret": 2.21
+}
+],
+"leaders": [
+{
+"name": "POSCO홀딩스",
+"code": "005490",
+"ret": 19.18,
+"value": 17442,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 30.0,
+"value": 11862,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 29.93,
+"value": 11521,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 27.0,
+"value": 10384,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 29.98,
+"value": 9548,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

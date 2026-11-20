@@ -1,0 +1,254 @@
+{
+"date": "20210114",
+"kospi": 0.05,
+"kosdaq": 0.12,
+"adv": 1128,
+"dec": 663,
+"flat": 179,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 354561,
+"hot": [
+{
+"name": "2차전지(전고체)",
+"n": 6,
+"lead": "한농화성",
+"lead_ret": 29.65,
+"second": "티에스아이",
+"second_ret": 22.18
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "한국파마",
+"lead_ret": 29.89,
+"second": "국전",
+"second_ret": 26.6
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "국전",
+"lead_ret": 26.6,
+"second": "덕산테코피아",
+"second_ret": 13.81
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.3,
+"up5": 7,
+"lead": "제주항공",
+"lead_ret": 11.99,
+"second": "AK홀딩스",
+"second_ret": 8.46
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 6.25,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 29.66,
+"second": "효성티앤씨",
+"second_ret": 6.05
+},
+{
+"name": "2차전지(전고체)",
+"n": 24,
+"avg": 6.01,
+"up5": 10,
+"lead": "한농화성",
+"lead_ret": 29.65,
+"second": "티에스아이",
+"second_ret": 22.18
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 5.92,
+"up5": 4,
+"lead": "나인테크",
+"lead_ret": 16.22,
+"second": "디아이씨",
+"second_ret": 6.67
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.94,
+"up5": 3,
+"lead": "흥국",
+"lead_ret": 29.51,
+"second": "프리엠스",
+"second_ret": 14.11
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 4.5,
+"up5": 4,
+"lead": "참좋은여행",
+"lead_ret": 8.06,
+"second": "하나투어",
+"second_ret": 7.02
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 4.35,
+"up5": 3,
+"lead": "오스테오닉",
+"lead_ret": 29.88,
+"second": "레이",
+"second_ret": 9.82
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 4.19,
+"up5": 2,
+"lead": "가온그룹",
+"lead_ret": 21.62,
+"second": "팅크웨어",
+"second_ret": 19.44
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 4.18,
+"up5": 5,
+"lead": "SFA넥셀",
+"lead_ret": 13.01,
+"second": "코윈로보틱스",
+"second_ret": 9.51
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 3.9,
+"up5": 7,
+"lead": "인바이오",
+"lead_ret": 14.6,
+"second": "NH농우바이오",
+"second_ret": 14.08
+},
+{
+"name": "2차전지(장비)",
+"n": 31,
+"avg": 3.67,
+"up5": 10,
+"lead": "티에스아이",
+"lead_ret": 22.18,
+"second": "나인테크",
+"second_ret": 16.22
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.65,
+"up5": 4,
+"lead": "미래에셋벤처투자",
+"lead_ret": 16.42,
+"second": "흥국에프엔비",
+"second_ret": 7.35
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -2.37,
+"up5": 0,
+"lead": "리더스코스메틱",
+"lead_ret": 2.75,
+"second": "한솔홀딩스",
+"second_ret": 2.39
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.76,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 2.22,
+"second": "한온시스템",
+"second_ret": 0.85
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -1.61,
+"up5": 0,
+"lead": "아시아경제",
+"lead_ret": 1.84,
+"second": "콘텐트리중앙",
+"second_ret": 0.88
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.28,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 1.25,
+"second": "한국쉘석유",
+"second_ret": 0.2
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.13,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 2.42,
+"second": "드림씨아이에스",
+"second_ret": -0.25
+}
+],
+"leaders": [
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 14.9,
+"value": 6723,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "종근당",
+"code": "185750",
+"ret": 12.84,
+"value": 6346,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "나인테크",
+"code": "267320",
+"ret": 16.22,
+"value": 5566,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 13.01,
+"value": 2932,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "인바이오",
+"code": "352940",
+"ret": 14.6,
+"value": 2478,
+"theme": "농업",
+"reason": "테마: 농업"
+}
+],
+"backfilled": true
+}

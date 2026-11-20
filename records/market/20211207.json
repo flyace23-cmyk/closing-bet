@@ -1,0 +1,254 @@
+{
+"date": "20211207",
+"kospi": 0.62,
+"kosdaq": 0.48,
+"adv": 1244,
+"dec": 627,
+"flat": 187,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 230783,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "일동제약",
+"lead_ret": 29.82,
+"second": "바이오니아",
+"second_ret": 14.72
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "일동제약",
+"lead_ret": 29.82,
+"second": "영진약품",
+"second_ret": 18.33
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "이녹스첨단소재",
+"lead_ret": 14.37,
+"second": "램테크놀러지",
+"second_ret": 9.7
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 5.29,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 15.37,
+"second": "유니온머티리얼",
+"second_ret": 7.97
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 4.29,
+"up5": 2,
+"lead": "KG파이낸셜",
+"lead_ret": 19.15,
+"second": "KG이니시스",
+"second_ret": 7.2
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.24,
+"up5": 1,
+"lead": "서울제약",
+"lead_ret": 6.75,
+"second": "제일약품",
+"second_ret": 3.29
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 3.12,
+"up5": 2,
+"lead": "마크로젠",
+"lead_ret": 10.37,
+"second": "풍전약품",
+"second_ret": 7.63
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.1,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 7.53,
+"second": "메디포스트",
+"second_ret": 3.68
+},
+{
+"name": "제약업체",
+"n": 84,
+"avg": 2.86,
+"up5": 12,
+"lead": "일동제약",
+"lead_ret": 29.82,
+"second": "영진약품",
+"second_ret": 18.33
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.64,
+"up5": 5,
+"lead": "신테카바이오",
+"lead_ret": 29.71,
+"second": "바이오니아",
+"second_ret": 14.72
+},
+{
+"name": "탈모 치료",
+"n": 22,
+"avg": 2.63,
+"up5": 4,
+"lead": "바이오니아",
+"lead_ret": 14.72,
+"second": "현대약품",
+"second_ret": 6.18
+},
+{
+"name": "비만치료제",
+"n": 31,
+"avg": 2.58,
+"up5": 2,
+"lead": "일동제약",
+"lead_ret": 29.82,
+"second": "HK이노엔",
+"second_ret": 8.81
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.5,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 4.74,
+"second": "대우건설",
+"second_ret": 3.69
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 2.34,
+"up5": 3,
+"lead": "지씨셀",
+"lead_ret": 7.53,
+"second": "앱클론",
+"second_ret": 6.1
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.23,
+"up5": 2,
+"lead": "서연탑메탈",
+"lead_ret": 9.75,
+"second": "두산밥캣",
+"second_ret": 7.63
+}
+],
+"themes_worst": [
+{
+"name": "게임",
+"n": 28,
+"avg": -2.93,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 2.34,
+"second": "넷마블",
+"second_ret": 1.27
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -2.79,
+"up5": 1,
+"lead": "미스터블루",
+"lead_ret": 6.2,
+"second": "넷마블",
+"second_ret": 1.27
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -2.45,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 0.0,
+"second": "라온시큐어",
+"second_ret": -0.52
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.21,
+"up5": 1,
+"lead": "아톤",
+"lead_ret": 5.95,
+"second": "삼성전자",
+"second_ret": 1.44
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -1.93,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": 1.25,
+"second": "덕산하이메탈",
+"second_ret": 1.2
+}
+],
+"leaders": [
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 14.72,
+"value": 5161,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 29.82,
+"value": 2415,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "이녹스첨단소재",
+"code": "272290",
+"ret": 14.37,
+"value": 2187,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "KG파이낸셜",
+"code": "046440",
+"ret": 19.15,
+"value": 2111,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "영진약품",
+"code": "003520",
+"ret": 18.33,
+"value": 1866,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250911",
+"kospi": 0.9,
+"kosdaq": 0.21,
+"adv": 1077,
+"dec": 1125,
+"flat": 177,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 223999,
+"hot": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 5,
+"lead": "한선엔지니어링",
+"lead_ret": 29.9,
+"second": "범한퓨얼셀",
+"second_ret": 19.35
+},
+{
+"name": "풍력에너지",
+"n": 5,
+"lead": "SK오션플랜트",
+"lead_ret": 22.01,
+"second": "서암기계공업",
+"second_ret": 16.89
+},
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "씨피시스템",
+"lead_ret": 22.93,
+"second": "SK오션플랜트",
+"second_ret": 22.01
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 7.07,
+"up5": 6,
+"lead": "한선엔지니어링",
+"lead_ret": 29.9,
+"second": "범한퓨얼셀",
+"second_ret": 19.35
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 6.1,
+"up5": 3,
+"lead": "한선엔지니어링",
+"lead_ret": 29.9,
+"second": "케이에스피",
+"second_ret": 8.11
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 4.65,
+"up5": 4,
+"lead": "한국정밀기계",
+"lead_ret": 29.81,
+"second": "서암기계공업",
+"second_ret": 16.89
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 4.43,
+"up5": 10,
+"lead": "씨피시스템",
+"lead_ret": 22.93,
+"second": "SK오션플랜트",
+"second_ret": 22.01
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.19,
+"up5": 2,
+"lead": "퀀텀레일",
+"lead_ret": 13.44,
+"second": "유비벨록스",
+"second_ret": 5.54
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.9,
+"up5": 4,
+"lead": "SK오션플랜트",
+"lead_ret": 22.01,
+"second": "동양에스텍",
+"second_ret": 21.29
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 3.1,
+"up5": 1,
+"lead": "대한조선",
+"lead_ret": 7.77,
+"second": "삼성중공업",
+"second_ret": 3.71
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.98,
+"up5": 2,
+"lead": "코칩",
+"lead_ret": 22.88,
+"second": "지아이에스",
+"second_ret": 7.62
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.97,
+"up5": 2,
+"lead": "글로벌텍스프리",
+"lead_ret": 12.98,
+"second": "JTC",
+"second_ret": 5.97
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 2.52,
+"up5": 7,
+"lead": "SK오션플랜트",
+"lead_ret": 22.01,
+"second": "서암기계공업",
+"second_ret": 16.89
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.4,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 4.48,
+"second": "삼성전기",
+"second_ret": 4.16
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.15,
+"up5": 2,
+"lead": "엑시콘",
+"lead_ret": 9.22,
+"second": "오킨스전자",
+"second_ret": 8.73
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.28,
+"up5": 0,
+"lead": "SAMG엔터",
+"lead_ret": 0.37,
+"second": "에피소드컴퍼니",
+"second_ret": 0.1
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -2.08,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": -0.69,
+"second": "SFA",
+"second_ret": -0.85
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -1.67,
+"up5": 0,
+"lead": "유안타증권",
+"lead_ret": 1.07,
+"second": "유진투자증권",
+"second_ret": 0.94
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.45,
+"up5": 0,
+"lead": "아이진",
+"lead_ret": 0.51,
+"second": "한미약품",
+"second_ret": 0.34
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -1.37,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": -0.67,
+"second": "유라클",
+"second_ret": -1.04
+}
+],
+"leaders": [
+{
+"name": "SK오션플랜트",
+"code": "100090",
+"ret": 22.01,
+"value": 6124,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 15.82,
+"value": 3457,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "케이프",
+"code": "064820",
+"ret": 20.41,
+"value": 1745,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "농심",
+"code": "004370",
+"ret": 19.17,
+"value": 1358,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "씨피시스템",
+"code": "413630",
+"ret": 22.93,
+"value": 1276,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

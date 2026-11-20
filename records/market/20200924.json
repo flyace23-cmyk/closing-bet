@@ -1,0 +1,254 @@
+{
+"date": "20200924",
+"kospi": -2.59,
+"kosdaq": -4.33,
+"adv": 159,
+"dec": 1707,
+"flat": 77,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 401444,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "우리기술",
+"lead_ret": 29.61,
+"second": "빅텍",
+"second_ret": 25.13
+},
+{
+"name": "드론(Drone)",
+"n": 3,
+"lead": "매커스",
+"lead_ret": 12.18,
+"second": "제이씨현시스템",
+"second_ret": 7.07
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "비보존 제약",
+"lead_ret": 29.87,
+"second": "일양약품",
+"second_ret": 10.34
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 3.8,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 29.92,
+"second": "우리기술",
+"second_ret": 29.61
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.24,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 17.39,
+"second": "SBI인베스트먼트",
+"second_ret": -1.05
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 0.48,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 29.92,
+"second": "휴니드",
+"second_ret": 6.84
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.3,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 16.18,
+"second": "아이티센씨티에스",
+"second_ret": 2.81
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.07,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.39,
+"second": "현대해상",
+"second_ret": 2.49
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -0.78,
+"up5": 1,
+"lead": "옴니시스템",
+"lead_ret": 9.21,
+"second": "퀀텀레일",
+"second_ret": 0.0
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": -0.91,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 17.39,
+"second": "이녹스첨단소재",
+"second_ret": -1.76
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -0.95,
+"up5": 1,
+"lead": "경방",
+"lead_ret": 12.08,
+"second": "KCTC",
+"second_ret": 2.65
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.03,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 2.79,
+"second": "노랑풍선",
+"second_ret": 0.33
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -1.13,
+"up5": 1,
+"lead": "신풍",
+"lead_ret": 14.59,
+"second": "한창제지",
+"second_ret": 1.84
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": -1.25,
+"up5": 4,
+"lead": "매커스",
+"lead_ret": 12.18,
+"second": "제이씨현시스템",
+"second_ret": 7.07
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 50,
+"avg": -1.26,
+"up5": 5,
+"lead": "우리기술",
+"lead_ret": 29.61,
+"second": "빅텍",
+"second_ret": 25.13
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -6.73,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": 0.0,
+"second": "한미약품",
+"second_ret": -5.07
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": -6.5,
+"up5": 0,
+"lead": "한농화성",
+"lead_ret": 4.71,
+"second": "이브이첨단소재",
+"second_ret": -0.69
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -6.44,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": -2.04,
+"second": "콜마바이오텍",
+"second_ret": -4.21
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -6.29,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "국전",
+"second_ret": -2.23
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -6.26,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -4.54,
+"second": "티앤알바이오팹",
+"second_ret": -4.65
+}
+],
+"leaders": [
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 25.13,
+"value": 8831,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "케이피엠테크",
+"code": "042040",
+"ret": 29.93,
+"value": 3797,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "스페코",
+"code": "013810",
+"ret": 16.18,
+"value": 3225,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "비보존 제약",
+"code": "082800",
+"ret": 29.87,
+"value": 3115,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 10.34,
+"value": 1702,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

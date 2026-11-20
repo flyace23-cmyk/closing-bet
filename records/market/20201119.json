@@ -1,0 +1,254 @@
+{
+"date": "20201119",
+"kospi": 0.07,
+"kosdaq": 0.96,
+"adv": 794,
+"dec": 963,
+"flat": 197,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 271774,
+"hot": [
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "비트컴퓨터",
+"lead_ret": 29.55,
+"second": "GC메디아이",
+"second_ret": 24.18
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "루트K",
+"lead_ret": 29.98,
+"second": "헬릭스미스",
+"second_ret": 29.87
+},
+{
+"name": "유전자 치료제/분석",
+"n": 3,
+"lead": "헬릭스미스",
+"lead_ret": 29.87,
+"second": "제이에스링크",
+"second_ret": 17.39
+}
+],
+"themes": [
+{
+"name": "의료AI",
+"n": 11,
+"avg": 5.45,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 17.85,
+"second": "제이에스링크",
+"second_ret": 17.39
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 5.04,
+"up5": 6,
+"lead": "비트컴퓨터",
+"lead_ret": 29.55,
+"second": "GC메디아이",
+"second_ret": 24.18
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": 3.19,
+"up5": 4,
+"lead": "루트K",
+"lead_ret": 29.98,
+"second": "헬릭스미스",
+"second_ret": 29.87
+},
+{
+"name": "유전자 치료제/분석",
+"n": 27,
+"avg": 2.87,
+"up5": 5,
+"lead": "헬릭스미스",
+"lead_ret": 29.87,
+"second": "제이에스링크",
+"second_ret": 17.39
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 2.8,
+"up5": 6,
+"lead": "비트컴퓨터",
+"lead_ret": 29.55,
+"second": "GC메디아이",
+"second_ret": 24.18
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.75,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 9.11,
+"second": "에코프로비엠",
+"second_ret": 3.81
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 2.66,
+"up5": 1,
+"lead": "루트K",
+"lead_ret": 29.98,
+"second": "와이지-원",
+"second_ret": 3.37
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.56,
+"up5": 1,
+"lead": "한온시스템",
+"lead_ret": 14.39,
+"second": "HL만도",
+"second_ret": 2.56
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.36,
+"up5": 3,
+"lead": "비트컴퓨터",
+"lead_ret": 29.55,
+"second": "YBM넷",
+"second_ret": 6.19
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.34,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 10.48,
+"second": "오텍",
+"second_ret": 4.9
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.26,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 17.85,
+"second": "포시에스",
+"second_ret": 7.85
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.25,
+"up5": 1,
+"lead": "인콘",
+"lead_ret": 16.11,
+"second": "앤씨앤",
+"second_ret": 0.97
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.73,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": -1.21,
+"second": "티웨이홀딩스",
+"second_ret": -1.38
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.29,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 0.0,
+"second": "KSS해운",
+"second_ret": -0.48
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.97,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 1.4,
+"second": "그래디언트",
+"second_ret": -0.67
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -1.95,
+"up5": 0,
+"lead": "조광페인트",
+"lead_ret": 0.73,
+"second": "노루홀딩스",
+"second_ret": -1.24
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.87,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "딥커머스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "루트K",
+"code": "195990",
+"ret": 29.98,
+"value": 6749,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "유나이티드제약",
+"code": "033270",
+"ret": 26.77,
+"value": 5899,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "바이오톡스텍",
+"code": "086040",
+"ret": 29.96,
+"value": 3559,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 13.19,
+"value": 3382,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "비트컴퓨터",
+"code": "032850",
+"ret": 29.55,
+"value": 2966,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

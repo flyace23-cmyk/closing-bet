@@ -1,0 +1,238 @@
+{
+"date": "20250722",
+"kospi": -1.27,
+"kosdaq": -1.06,
+"adv": 530,
+"dec": 1742,
+"flat": 96,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 167125,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "산돌",
+"lead_ret": 19.71,
+"second": "비큐AI",
+"second_ret": 10.02
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.89,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 29.99,
+"second": "손오공",
+"second_ret": 0.89
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 2.79,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 29.94,
+"second": "롯데쇼핑",
+"second_ret": 1.21
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.77,
+"up5": 2,
+"lead": "휴메딕스",
+"lead_ret": 26.08,
+"second": "휴온스글로벌",
+"second_ret": 5.0
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.66,
+"up5": 2,
+"lead": "에스엠국일",
+"lead_ret": 29.87,
+"second": "상보",
+"second_ret": 9.43
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 2.4,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 29.94,
+"second": "DSC인베스트먼트",
+"second_ret": 5.07
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.3,
+"up5": 1,
+"lead": "로스웰",
+"lead_ret": 21.77,
+"second": "딥커머스",
+"second_ret": 2.13
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 1.8,
+"up5": 2,
+"lead": "NHN KCP",
+"lead_ret": 13.15,
+"second": "인포바인",
+"second_ret": 12.46
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 1.75,
+"up5": 1,
+"lead": "에스엠국일",
+"lead_ret": 29.87,
+"second": "신풍",
+"second_ret": 2.66
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.59,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 8.09,
+"second": "한화오션",
+"second_ret": 2.01
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.09,
+"up5": 1,
+"lead": "NHN KCP",
+"lead_ret": 13.15,
+"second": "나이스정보통신",
+"second_ret": 2.77
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": 0.95,
+"up5": 2,
+"lead": "휴메딕스",
+"lead_ret": 26.08,
+"second": "휴온스글로벌",
+"second_ret": 5.0
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 0.77,
+"up5": 2,
+"lead": "부국증권",
+"lead_ret": 18.84,
+"second": "신영증권",
+"second_ret": 6.53
+}
+],
+"themes_worst": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -4.72,
+"up5": 0,
+"lead": "와이엔텍",
+"lead_ret": -1.25,
+"second": "한솔홀딩스",
+"second_ret": -1.61
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -4.39,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": -1.39,
+"second": "갤럭시아머니트리",
+"second_ret": -3.56
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -3.83,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 1.37,
+"second": "원일티엔아이",
+"second_ret": 0.97
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.86,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 0.76,
+"second": "더블유씨피",
+"second_ret": -0.39
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.79,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -1.53,
+"second": "자람테크놀로지",
+"second_ret": -1.97
+}
+],
+"leaders": [
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 14.1,
+"value": 2883,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "NHN KCP",
+"code": "060250",
+"ret": 13.15,
+"value": 2553,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "비에이치",
+"code": "090460",
+"ret": 19.34,
+"value": 2422,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+},
+{
+"name": "휴메딕스",
+"code": "200670",
+"ret": 26.08,
+"value": 1644,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "스튜디오미르",
+"code": "408900",
+"ret": 14.88,
+"value": 1585,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+}
+],
+"backfilled": true
+}

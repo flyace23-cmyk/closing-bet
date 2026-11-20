@@ -1,0 +1,254 @@
+{
+"date": "20210106",
+"kospi": -0.75,
+"kosdaq": -0.44,
+"adv": 808,
+"dec": 1012,
+"flat": 150,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 454741,
+"hot": [
+{
+"name": "증권",
+"n": 3,
+"lead": "한화투자증권",
+"lead_ret": 16.41,
+"second": "다올투자증권",
+"second_ret": 14.54
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "엘앤케이바이오",
+"lead_ret": 16.59,
+"second": "한국비티비",
+"second_ret": 11.79
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "삼성제약",
+"lead_ret": 29.82,
+"second": "동성제약",
+"second_ret": 29.69
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 6.84,
+"up5": 3,
+"lead": "아미노로직스",
+"lead_ret": 29.96,
+"second": "서린바이오",
+"second_ret": 29.83
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.15,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 16.41,
+"second": "한화생명",
+"second_ret": 6.63
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 5.17,
+"up5": 8,
+"lead": "한화투자증권",
+"lead_ret": 16.41,
+"second": "다올투자증권",
+"second_ret": 14.54
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 4.11,
+"up5": 5,
+"lead": "그린케미칼",
+"lead_ret": 29.58,
+"second": "대한유화",
+"second_ret": 17.87
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 20,
+"avg": 3.9,
+"up5": 7,
+"lead": "한화투자증권",
+"lead_ret": 16.41,
+"second": "SK증권",
+"second_ret": 8.63
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 3.8,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 16.41,
+"second": "하나금융지주",
+"second_ret": 2.06
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.17,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.83,
+"second": "일신바이오",
+"second_ret": 6.78
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.1,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 16.41,
+"second": "우리기술투자",
+"second_ret": 7.16
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 2.85,
+"up5": 5,
+"lead": "위지트",
+"lead_ret": 21.78,
+"second": "한화투자증권",
+"second_ret": 16.41
+},
+{
+"name": "탈모 치료",
+"n": 21,
+"avg": 2.85,
+"up5": 5,
+"lead": "동성제약",
+"lead_ret": 29.69,
+"second": "현대약품",
+"second_ret": 21.72
+},
+{
+"name": "제약업체",
+"n": 80,
+"avg": 2.72,
+"up5": 13,
+"lead": "삼성제약",
+"lead_ret": 29.82,
+"second": "동성제약",
+"second_ret": 29.69
+},
+{
+"name": "치매",
+"n": 44,
+"avg": 2.62,
+"up5": 10,
+"lead": "삼성제약",
+"lead_ret": 29.82,
+"second": "현대약품",
+"second_ret": 21.72
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -3.12,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 0.0,
+"second": "대한해운",
+"second_ret": -2.35
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.39,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "HL만도",
+"second_ret": -1.35
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": -2.0,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 0.77,
+"second": "아바텍",
+"second_ret": -0.12
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -1.94,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": 0.29,
+"second": "아센디오",
+"second_ret": 0.0
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": -1.89,
+"up5": 0,
+"lead": "이랜텍",
+"lead_ret": 1.22,
+"second": "비에이치",
+"second_ret": 0.23
+}
+],
+"leaders": [
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 21.72,
+"value": 7784,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "명문제약",
+"code": "017180",
+"ret": 10.47,
+"value": 6860,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "압타바이오",
+"code": "293780",
+"ret": 14.9,
+"value": 6711,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "동성제약",
+"code": "002210",
+"ret": 29.69,
+"value": 3732,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "위지트",
+"code": "036090",
+"ret": 21.78,
+"value": 3256,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

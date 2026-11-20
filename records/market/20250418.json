@@ -1,0 +1,254 @@
+{
+"date": "20250418",
+"kospi": 0.53,
+"kosdaq": 0.85,
+"adv": 1426,
+"dec": 775,
+"flat": 147,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 119051,
+"hot": [
+{
+"name": "퓨리오사AI",
+"n": 3,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 29.97,
+"second": "포바이포",
+"second_ret": 29.89
+},
+{
+"name": "시멘트/레미콘",
+"n": 3,
+"lead": "성신양회",
+"lead_ret": 21.52,
+"second": "HC보광산업",
+"second_ret": 15.0
+},
+{
+"name": "의료AI",
+"n": 3,
+"lead": "인성정보",
+"lead_ret": 23.96,
+"second": "온코크로스",
+"second_ret": 18.92
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 8.75,
+"up5": 5,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 29.97,
+"second": "포바이포",
+"second_ret": 29.89
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 6.15,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 23.96,
+"second": "광무",
+"second_ret": 11.97
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.13,
+"up5": 2,
+"lead": "한국선재",
+"lead_ret": 29.97,
+"second": "부산산업",
+"second_ret": 11.98
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 4.61,
+"up5": 3,
+"lead": "아이티아이즈",
+"lead_ret": 29.98,
+"second": "핑거",
+"second_ret": 13.13
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 4.57,
+"up5": 6,
+"lead": "성신양회",
+"lead_ret": 21.52,
+"second": "HC보광산업",
+"second_ret": 15.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.18,
+"up5": 3,
+"lead": "HC보광산업",
+"lead_ret": 15.0,
+"second": "HC홈센타",
+"second_ret": 10.39
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 4.11,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 28.62,
+"second": "KB금융",
+"second_ret": 2.62
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.97,
+"up5": 5,
+"lead": "아이티아이즈",
+"lead_ret": 29.98,
+"second": "핑거",
+"second_ret": 13.13
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.91,
+"up5": 1,
+"lead": "유라클",
+"lead_ret": 7.53,
+"second": "웹케시",
+"second_ret": 3.96
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.35,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 29.89,
+"second": "롯데쇼핑",
+"second_ret": 3.85
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.1,
+"up5": 4,
+"lead": "계룡건설",
+"lead_ret": 29.92,
+"second": "금호건설",
+"second_ret": 10.59
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 3.08,
+"up5": 2,
+"lead": "삼일",
+"lead_ret": 27.44,
+"second": "현대글로비스",
+"second_ret": 5.44
+}
+],
+"themes_worst": [
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.6,
+"up5": 0,
+"lead": "핑거스토리",
+"lead_ret": 3.59,
+"second": "NAVER",
+"second_ret": 2.12
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.53,
+"up5": 0,
+"lead": "엔케이",
+"lead_ret": 0.83,
+"second": "부국철강",
+"second_ret": 0.2
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.14,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 0.0,
+"second": "미래생명자원",
+"second_ret": -0.13
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.11,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 0.64,
+"second": "HJ중공업",
+"second_ret": -0.13
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -1.05,
+"up5": 0,
+"lead": "티플랙스",
+"lead_ret": 1.55,
+"second": "엔젯",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "온코크로스",
+"code": "382150",
+"ret": 18.92,
+"value": 3229,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 23.96,
+"value": 1872,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "경남스틸",
+"code": "039240",
+"ret": 30.0,
+"value": 1794,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 11.04,
+"value": 1542,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 28.62,
+"value": 1251,
+"theme": "은행",
+"reason": "테마: 은행"
+}
+],
+"backfilled": true
+}

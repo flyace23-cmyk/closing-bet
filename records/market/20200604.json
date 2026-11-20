@@ -1,0 +1,254 @@
+{
+"date": "20200604",
+"kospi": 0.19,
+"kosdaq": 0.64,
+"adv": 881,
+"dec": 845,
+"flat": 187,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 241958,
+"hot": [
+{
+"name": "드론(Drone)",
+"n": 7,
+"lead": "제이씨현시스템",
+"lead_ret": 29.89,
+"second": "지아이에스",
+"second_ret": 29.79
+},
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "드림텍",
+"lead_ret": 25.27,
+"second": "인터플렉스",
+"second_ret": 20.93
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "베셀",
+"lead_ret": 15.25,
+"second": "와이엠씨",
+"second_ret": 10.92
+}
+],
+"themes": [
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 6.36,
+"up5": 9,
+"lead": "제이씨현시스템",
+"lead_ret": 29.89,
+"second": "지아이에스",
+"second_ret": 29.79
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 6.32,
+"up5": 3,
+"lead": "지아이에스",
+"lead_ret": 29.79,
+"second": "코스모신소재",
+"second_ret": 8.47
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 4.07,
+"up5": 2,
+"lead": "지아이에스",
+"lead_ret": 29.79,
+"second": "티에스이",
+"second_ret": 5.34
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 4.06,
+"up5": 6,
+"lead": "TBH글로벌",
+"lead_ret": 14.88,
+"second": "모나미",
+"second_ret": 14.32
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 23,
+"avg": 4.04,
+"up5": 6,
+"lead": "지아이에스",
+"lead_ret": 29.79,
+"second": "기산텔레콤",
+"second_ret": 23.98
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 3.85,
+"up5": 5,
+"lead": "드림텍",
+"lead_ret": 25.27,
+"second": "동운아나텍",
+"second_ret": 11.97
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.46,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 13.42,
+"second": "에코프로비엠",
+"second_ret": 3.34
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 3.43,
+"up5": 5,
+"lead": "일지테크",
+"lead_ret": 11.86,
+"second": "삼륭물산",
+"second_ret": 9.34
+},
+{
+"name": "가상현실(VR)",
+"n": 19,
+"avg": 3.07,
+"up5": 4,
+"lead": "제이씨현시스템",
+"lead_ret": 29.89,
+"second": "동운아나텍",
+"second_ret": 11.97
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.85,
+"up5": 3,
+"lead": "웰크론",
+"lead_ret": 16.85,
+"second": "퍼스텍",
+"second_ret": 10.14
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 2.8,
+"up5": 4,
+"lead": "동운아나텍",
+"lead_ret": 11.97,
+"second": "해성옵틱스",
+"second_ret": 8.33
+},
+{
+"name": "스마트폰",
+"n": 57,
+"avg": 2.69,
+"up5": 9,
+"lead": "드림텍",
+"lead_ret": 25.27,
+"second": "인터플렉스",
+"second_ret": 20.93
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -4.35,
+"up5": 0,
+"lead": "케이에스피",
+"lead_ret": 0.47,
+"second": "한국선재",
+"second_ret": -1.84
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -4.32,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 0.25,
+"second": "포스코스틸리온",
+"second_ret": -3.05
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": -3.09,
+"up5": 0,
+"lead": "세진중공업",
+"lead_ret": 2.02,
+"second": "KS인더스트리",
+"second_ret": 0.88
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.78,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": -1.07,
+"second": "TKG휴켐스",
+"second_ret": -1.11
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.06,
+"up5": 0,
+"lead": "하이스틸",
+"lead_ret": 3.89,
+"second": "휴스틸",
+"second_ret": 0.61
+}
+],
+"leaders": [
+{
+"name": "모나미",
+"code": "005360",
+"ret": 14.32,
+"value": 4555,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+},
+{
+"name": "드림텍",
+"code": "192650",
+"ret": 25.27,
+"value": 3874,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 16.85,
+"value": 2476,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 12.07,
+"value": 2353,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "제이씨현시스템",
+"code": "033320",
+"ret": 29.89,
+"value": 1512,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230824",
+"kospi": 1.28,
+"kosdaq": 2.14,
+"adv": 1436,
+"dec": 620,
+"flat": 129,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 210237,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "큐렉소",
+"lead_ret": 18.73,
+"second": "모비스",
+"second_ret": 15.9
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "큐렉소",
+"lead_ret": 18.73,
+"second": "아이쓰리시스템",
+"second_ret": 15.55
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "포스코퓨처엠",
+"lead_ret": 11.14,
+"second": "제이스로보틱스",
+"second_ret": 11.01
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 6.46,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 28.05,
+"second": "풀무원",
+"second_ret": 5.64
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 4.8,
+"up5": 10,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "브리지텍",
+"second_ret": 9.82
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 4.48,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 28.05,
+"second": "동원수산",
+"second_ret": 9.35
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.4,
+"up5": 4,
+"lead": "티에프이",
+"lead_ret": 19.51,
+"second": "ISC",
+"second_ret": 6.24
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 3.99,
+"up5": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "엠로",
+"second_ret": 9.57
+},
+{
+"name": "의료AI",
+"n": 21,
+"avg": 3.78,
+"up5": 6,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "신테카바이오",
+"second_ret": 15.55
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.67,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 23.11,
+"second": "대원미디어",
+"second_ret": 1.96
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 3.66,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 15.38,
+"second": "대신정보통신",
+"second_ret": 3.18
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 50,
+"avg": 3.62,
+"up5": 11,
+"lead": "큐렉소",
+"lead_ret": 18.73,
+"second": "모비스",
+"second_ret": 15.9
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.52,
+"up5": 3,
+"lead": "주성엔지니어링",
+"lead_ret": 10.37,
+"second": "프로텍",
+"second_ret": 6.25
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 3.45,
+"up5": 8,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "엠로",
+"second_ret": 9.57
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.38,
+"up5": 1,
+"lead": "벽산",
+"lead_ret": 21.57,
+"second": "AK홀딩스",
+"second_ret": 2.11
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 9,
+"avg": -2.98,
+"up5": 0,
+"lead": "체리부로",
+"lead_ret": -0.53,
+"second": "교촌에프앤비",
+"second_ret": -0.6
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -2.26,
+"up5": 0,
+"lead": "RF머트리얼즈",
+"lead_ret": 2.08,
+"second": "빛과전자",
+"second_ret": 1.39
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.78,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 5.64,
+"second": "미래생명자원",
+"second_ret": 0.92
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.77,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 0.79,
+"second": "태광산업",
+"second_ret": 0.17
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -1.31,
+"up5": 0,
+"lead": "SOOP",
+"lead_ret": 0.98,
+"second": "하이트진로",
+"second_ret": 0.73
+}
+],
+"leaders": [
+{
+"name": "큐렉소",
+"code": "060280",
+"ret": 18.73,
+"value": 5837,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 30.0,
+"value": 5285,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 11.14,
+"value": 4779,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "스마트레이더시스템",
+"code": "424960",
+"ret": 16.46,
+"value": 3570,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 24.04,
+"value": 1573,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+}
+],
+"backfilled": true
+}

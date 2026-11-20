@@ -1,0 +1,229 @@
+{
+"date": "20231011",
+"kospi": 1.98,
+"kosdaq": 2.78,
+"adv": 1787,
+"dec": 312,
+"flat": 98,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 152570,
+"hot": [],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 5.31,
+"up5": 2,
+"lead": "푸른로보틱스",
+"lead_ret": 29.97,
+"second": "로지시스",
+"second_ret": 6.11
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 4.89,
+"up5": 4,
+"lead": "에코프로비엠",
+"lead_ret": 9.19,
+"second": "LG에너지솔루션",
+"second_ret": 7.31
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.81,
+"up5": 10,
+"lead": "중앙첨단소재",
+"lead_ret": 9.33,
+"second": "포스코퓨처엠",
+"second_ret": 8.43
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 4.63,
+"up5": 2,
+"lead": "오픈베이스",
+"lead_ret": 6.15,
+"second": "제이오",
+"second_ret": 5.69
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 4.55,
+"up5": 2,
+"lead": "동운아나텍",
+"lead_ret": 28.72,
+"second": "텔레칩스",
+"second_ret": 7.53
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 4.3,
+"up5": 3,
+"lead": "탑머티리얼",
+"lead_ret": 10.44,
+"second": "LG에너지솔루션",
+"second_ret": 7.31
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.13,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 10.7,
+"second": "비츠로테크",
+"second_ret": 5.25
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.83,
+"up5": 5,
+"lead": "코스모화학",
+"lead_ret": 8.43,
+"second": "LG에너지솔루션",
+"second_ret": 7.31
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.73,
+"up5": 3,
+"lead": "모비스",
+"lead_ret": 10.7,
+"second": "서남",
+"second_ret": 9.46
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 3.71,
+"up5": 5,
+"lead": "아이엘",
+"lead_ret": 8.04,
+"second": "LG에너지솔루션",
+"second_ret": 7.31
+},
+{
+"name": "2차전지(장비)",
+"n": 39,
+"avg": 3.7,
+"up5": 7,
+"lead": "디아이티",
+"lead_ret": 20.74,
+"second": "티이엠씨씨엔에스",
+"second_ret": 7.63
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 3.7,
+"up5": 2,
+"lead": "동운아나텍",
+"lead_ret": 28.72,
+"second": "라온시큐어",
+"second_ret": 5.6
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.43,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.89,
+"second": "샘표",
+"second_ret": 0.72
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.31,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 1.54,
+"second": "신세계",
+"second_ret": 0.34
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.01,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 1.92,
+"second": "제주은행",
+"second_ret": 1.5
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.11,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 1.33,
+"second": "롯데지주",
+"second_ret": 0.0
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 0.16,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 1.31,
+"second": "HDC",
+"second_ret": 0.99
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 24.78,
+"value": 3239,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 13.58,
+"value": 1979,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "솔트웨어",
+"code": "328380",
+"ret": 13.57,
+"value": 1154,
+"theme": "클라우드 컴퓨팅",
+"reason": "테마: 클라우드 컴퓨팅"
+},
+{
+"name": "동운아나텍",
+"code": "094170",
+"ret": 28.72,
+"value": 1100,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "에이스테크",
+"code": "088800",
+"ret": 16.95,
+"value": 645,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

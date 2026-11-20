@@ -1,0 +1,254 @@
+{
+"date": "20250204",
+"kospi": 1.13,
+"kosdaq": 2.29,
+"adv": 1782,
+"dec": 442,
+"flat": 103,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 185319,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 8,
+"lead": "포톤",
+"lead_ret": 29.96,
+"second": "파인텍",
+"second_ret": 29.91
+},
+{
+"name": "의료AI",
+"n": 6,
+"lead": "토마토시스템",
+"lead_ret": 29.94,
+"second": "딥노이드",
+"second_ret": 17.37
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "파인텍",
+"lead_ret": 29.91,
+"second": "펨트론",
+"second_ret": 26.9
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 7.64,
+"up5": 13,
+"lead": "포톤",
+"lead_ret": 29.96,
+"second": "파인텍",
+"second_ret": 29.91
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 7.5,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 23.97,
+"second": "샘표식품",
+"second_ret": 4.69
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": 6.93,
+"up5": 13,
+"lead": "토마토시스템",
+"lead_ret": 29.94,
+"second": "딥노이드",
+"second_ret": 17.37
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 6.9,
+"up5": 3,
+"lead": "풀무원",
+"lead_ret": 23.97,
+"second": "사조대림",
+"second_ret": 5.75
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 6.11,
+"up5": 4,
+"lead": "대한광통신",
+"lead_ret": 30.0,
+"second": "RF머트리얼즈",
+"second_ret": 12.81
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 5.18,
+"up5": 2,
+"lead": "HJ중공업",
+"lead_ret": 10.52,
+"second": "한화오션",
+"second_ret": 6.65
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.71,
+"up5": 3,
+"lead": "펨트론",
+"lead_ret": 26.9,
+"second": "티에프이",
+"second_ret": 6.12
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 4.58,
+"up5": 5,
+"lead": "토마토시스템",
+"lead_ret": 29.94,
+"second": "스피어",
+"second_ret": 16.61
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.24,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 14.97,
+"second": "카카오페이",
+"second_ret": 5.79
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 3.96,
+"up5": 3,
+"lead": "포톤",
+"lead_ret": 29.96,
+"second": "드림시큐리티",
+"second_ret": 7.48
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.63,
+"up5": 3,
+"lead": "파미셀",
+"lead_ret": 8.17,
+"second": "올릭스",
+"second_ret": 7.08
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 3.61,
+"up5": 10,
+"lead": "스피어",
+"lead_ret": 16.61,
+"second": "알멕",
+"second_ret": 10.68
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.02,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 2.07,
+"second": "대성산업",
+"second_ret": 1.58
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.02,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 2.07,
+"second": "대성산업",
+"second_ret": 1.58
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.81,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 2.07,
+"second": "미창석유",
+"second_ret": 1.36
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -0.55,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 2.07,
+"second": "대성산업",
+"second_ret": 1.58
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -0.38,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 1.03,
+"second": "한화생명",
+"second_ret": 1.02
+}
+],
+"leaders": [
+{
+"name": "카페24",
+"code": "042000",
+"ret": 15.69,
+"value": 2656,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "두산로보틱스",
+"code": "454910",
+"ret": 11.2,
+"value": 2239,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 24.38,
+"value": 1842,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "한국첨단소재",
+"code": "062970",
+"ret": 10.67,
+"value": 1192,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "효성중공업",
+"code": "298040",
+"ret": 14.41,
+"value": 1171,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

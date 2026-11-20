@@ -1,0 +1,254 @@
+{
+"date": "20241007",
+"kospi": 1.58,
+"kosdaq": 1.56,
+"adv": 1534,
+"dec": 618,
+"flat": 134,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 152241,
+"hot": [
+{
+"name": "2차전지",
+"n": 11,
+"lead": "메가터치",
+"lead_ret": 29.9,
+"second": "TCC스틸",
+"second_ret": 24.54
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "메가터치",
+"lead_ret": 29.9,
+"second": "마이크로투나노",
+"second_ret": 11.8
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "중앙첨단소재",
+"lead_ret": 20.69,
+"second": "강원에너지",
+"second_ret": 19.51
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 6.61,
+"up5": 4,
+"lead": "메가터치",
+"lead_ret": 29.9,
+"second": "더블유씨피",
+"second_ret": 6.31
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.97,
+"up5": 7,
+"lead": "중앙첨단소재",
+"lead_ret": 20.69,
+"second": "강원에너지",
+"second_ret": 19.51
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 5.42,
+"up5": 14,
+"lead": "원준",
+"lead_ret": 22.82,
+"second": "동화기업",
+"second_ret": 13.7
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 5.2,
+"up5": 3,
+"lead": "원준",
+"lead_ret": 22.82,
+"second": "코칩",
+"second_ret": 9.48
+},
+{
+"name": "2차전지(장비)",
+"n": 43,
+"avg": 4.59,
+"up5": 16,
+"lead": "원준",
+"lead_ret": 22.82,
+"second": "강원에너지",
+"second_ret": 19.51
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 4.44,
+"up5": 10,
+"lead": "마이크로투나노",
+"lead_ret": 11.8,
+"second": "윈팩",
+"second_ret": 10.97
+},
+{
+"name": "2차전지",
+"n": 133,
+"avg": 4.33,
+"up5": 48,
+"lead": "메가터치",
+"lead_ret": 29.9,
+"second": "TCC스틸",
+"second_ret": 24.54
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 4.21,
+"up5": 23,
+"lead": "메가터치",
+"lead_ret": 29.9,
+"second": "TCC스틸",
+"second_ret": 24.54
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.11,
+"up5": 3,
+"lead": "이오테크닉스",
+"lead_ret": 9.53,
+"second": "예스티",
+"second_ret": 8.94
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.83,
+"up5": 3,
+"lead": "엘앤에프",
+"lead_ret": 11.07,
+"second": "코윈로보틱스",
+"second_ret": 6.67
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 3.53,
+"up5": 3,
+"lead": "동국제강",
+"lead_ret": 11.86,
+"second": "동국씨엠",
+"second_ret": 5.36
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 3.36,
+"up5": 7,
+"lead": "제일일렉트릭",
+"lead_ret": 16.27,
+"second": "케이엔에스",
+"second_ret": 12.79
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 9,
+"avg": -1.15,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 2.48,
+"second": "포바이포",
+"second_ret": 0.83
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.04,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.57,
+"second": "삼성중공업",
+"second_ret": -0.3
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -1.04,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": 0.27,
+"second": "코나아이",
+"second_ret": 0.21
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -0.81,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 1.77,
+"second": "대한해운",
+"second_ret": -0.26
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.79,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 0.7,
+"second": "녹십자",
+"second_ret": 0.6
+}
+],
+"leaders": [
+{
+"name": "원준",
+"code": "382840",
+"ret": 22.82,
+"value": 1752,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "제일일렉트릭",
+"code": "199820",
+"ret": 16.27,
+"value": 1370,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "TCC스틸",
+"code": "002710",
+"ret": 24.54,
+"value": 1157,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "중앙첨단소재",
+"code": "051980",
+"ret": 20.69,
+"value": 1025,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "프리티",
+"code": "006490",
+"ret": 13.98,
+"value": 939,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+}
+],
+"backfilled": true
+}

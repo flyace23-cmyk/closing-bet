@@ -1,0 +1,254 @@
+{
+"date": "20200727",
+"kospi": 0.79,
+"kosdaq": 0.81,
+"adv": 1110,
+"dec": 648,
+"flat": 167,
+"limit_up": 5,
+"limit_down": 2,
+"value_total": 215428,
+"hot": [
+{
+"name": "日제품 불매운동(수혜)",
+"n": 5,
+"lead": "모나미",
+"lead_ret": 29.88,
+"second": "코데즈컴바인",
+"second_ret": 15.66
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "영보화학",
+"lead_ret": 22.92,
+"second": "금호에이치티",
+"second_ret": 19.57
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "엘티씨",
+"lead_ret": 29.73,
+"second": "미코",
+"second_ret": 12.1
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 6.13,
+"up5": 3,
+"lead": "엘티씨",
+"lead_ret": 29.73,
+"second": "미코",
+"second_ret": 12.1
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 5.93,
+"up5": 8,
+"lead": "모나미",
+"lead_ret": 29.88,
+"second": "코데즈컴바인",
+"second_ret": 15.66
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 5.1,
+"up5": 3,
+"lead": "바텍",
+"lead_ret": 29.9,
+"second": "덴티움",
+"second_ret": 12.42
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 4.52,
+"up5": 1,
+"lead": "광전자",
+"lead_ret": 29.92,
+"second": "코세스",
+"second_ret": 3.35
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 3.61,
+"up5": 6,
+"lead": "율촌화학",
+"lead_ret": 10.13,
+"second": "삼륭물산",
+"second_ret": 8.7
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 3.39,
+"up5": 12,
+"lead": "두산테스나",
+"lead_ret": 15.55,
+"second": "한솔테크닉스",
+"second_ret": 11.03
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.15,
+"up5": 1,
+"lead": "조비",
+"lead_ret": 13.22,
+"second": "경농",
+"second_ret": 4.8
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 3.09,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 6.64,
+"second": "TS인베스트먼트",
+"second_ret": 4.35
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.87,
+"up5": 3,
+"lead": "대성창투",
+"lead_ret": 7.86,
+"second": "네오위즈",
+"second_ret": 5.34
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 2.73,
+"up5": 2,
+"lead": "네오셈",
+"lead_ret": 14.43,
+"second": "오킨스전자",
+"second_ret": 5.52
+},
+{
+"name": "반도체 재료/부품",
+"n": 56,
+"avg": 2.57,
+"up5": 13,
+"lead": "엘티씨",
+"lead_ret": 29.73,
+"second": "미코",
+"second_ret": 12.1
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.57,
+"up5": 3,
+"lead": "대주산업",
+"lead_ret": 24.68,
+"second": "우진비앤지",
+"second_ret": 10.0
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -5.1,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 0.35,
+"second": "대한약품",
+"second_ret": 0.33
+},
+{
+"name": "제약업체",
+"n": 78,
+"avg": -4.91,
+"up5": 2,
+"lead": "팜젠사이언스",
+"lead_ret": 5.1,
+"second": "녹십자",
+"second_ret": 5.09
+},
+{
+"name": "치매",
+"n": 40,
+"avg": -2.98,
+"up5": 1,
+"lead": "SK케미칼",
+"lead_ret": 10.52,
+"second": "동구바이오제약",
+"second_ret": 4.42
+},
+{
+"name": "탈모 치료",
+"n": 20,
+"avg": -2.6,
+"up5": 0,
+"lead": "프리티",
+"lead_ret": 4.77,
+"second": "인산가",
+"second_ret": 4.4
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.93,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 0.8,
+"second": "티웨이홀딩스",
+"second_ret": 0.53
+}
+],
+"leaders": [
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 10.52,
+"value": 14375,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "모나미",
+"code": "005360",
+"ret": 29.88,
+"value": 2867,
+"theme": "日제품 불매운동(수혜)",
+"reason": "테마: 日제품 불매운동(수혜)"
+},
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 10.56,
+"value": 2098,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "미코",
+"code": "059090",
+"ret": 12.1,
+"value": 2023,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "SK디스커버리",
+"code": "006120",
+"ret": 10.97,
+"value": 2008,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220209",
+"kospi": 0.81,
+"kosdaq": 1.7,
+"adv": 1639,
+"dec": 299,
+"flat": 126,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 156855,
+"hot": [
+{
+"name": "의료기기",
+"n": 8,
+"lead": "멕아이씨에스",
+"lead_ret": 29.93,
+"second": "메디아나",
+"second_ret": 29.88
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "엔켐",
+"lead_ret": 14.32,
+"second": "광무",
+"second_ret": 13.04
+},
+{
+"name": "패션/의류",
+"n": 4,
+"lead": "대현",
+"lead_ret": 21.29,
+"second": "온타이드",
+"second_ret": 11.28
+}
+],
+"themes": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 4.37,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 21.02,
+"second": "뉴보텍",
+"second_ret": 3.83
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 4.26,
+"up5": 10,
+"lead": "씨유메디칼",
+"lead_ret": 29.58,
+"second": "대원제약",
+"second_ret": 21.03
+},
+{
+"name": "의료기기",
+"n": 67,
+"avg": 4.18,
+"up5": 17,
+"lead": "멕아이씨에스",
+"lead_ret": 29.93,
+"second": "메디아나",
+"second_ret": 29.88
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.15,
+"up5": 2,
+"lead": "멕아이씨에스",
+"lead_ret": 29.93,
+"second": "국제약품",
+"second_ret": 5.55
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 4.07,
+"up5": 4,
+"lead": "메디아나",
+"lead_ret": 29.88,
+"second": "셀바스헬스케어",
+"second_ret": 10.27
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.72,
+"up5": 3,
+"lead": "대한제강",
+"lead_ret": 9.13,
+"second": "POSCO홀딩스",
+"second_ret": 5.62
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.56,
+"up5": 7,
+"lead": "인피니트헬스케어",
+"lead_ret": 10.45,
+"second": "GC메디아이",
+"second_ret": 9.01
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.56,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 7.8,
+"second": "콜마바이오텍",
+"second_ret": 5.73
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.29,
+"up5": 5,
+"lead": "효성화학",
+"lead_ret": 11.13,
+"second": "금호석유화학",
+"second_ret": 9.33
+},
+{
+"name": "패션/의류",
+"n": 47,
+"avg": 3.2,
+"up5": 8,
+"lead": "대현",
+"lead_ret": 21.29,
+"second": "온타이드",
+"second_ret": 11.28
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.17,
+"up5": 1,
+"lead": "금호석유화학",
+"lead_ret": 9.33,
+"second": "HS효성첨단소재",
+"second_ret": 4.54
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.1,
+"up5": 1,
+"lead": "POSCO홀딩스",
+"lead_ret": 5.62,
+"second": "코오롱글로벌",
+"second_ret": 4.16
+}
+],
+"themes_worst": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.28,
+"up5": 0,
+"lead": "삼천리",
+"lead_ret": 0.73,
+"second": "서울가스",
+"second_ret": 0.56
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.88,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 1.87,
+"second": "소마젠",
+"second_ret": 0.82
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.88,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 1.34,
+"second": "롯데지주",
+"second_ret": 0.72
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.73,
+"up5": 1,
+"lead": "SK가스",
+"lead_ret": 5.53,
+"second": "GS",
+"second_ret": 1.36
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.73,
+"up5": 1,
+"lead": "SK가스",
+"lead_ret": 5.53,
+"second": "GS",
+"second_ret": 1.36
+}
+],
+"leaders": [
+{
+"name": "대원제약",
+"code": "003220",
+"ret": 21.03,
+"value": 2761,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "유유제약",
+"code": "000220",
+"ret": 15.18,
+"value": 1197,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "인피니트헬스케어",
+"code": "071200",
+"ret": 10.45,
+"value": 929,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 14.32,
+"value": 829,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "디와이",
+"code": "013570",
+"ret": 12.26,
+"value": 747,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

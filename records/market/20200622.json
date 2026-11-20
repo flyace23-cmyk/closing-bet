@@ -1,0 +1,254 @@
+{
+"date": "20200622",
+"kospi": -0.68,
+"kosdaq": 1.3,
+"adv": 668,
+"dec": 1108,
+"flat": 140,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 190300,
+"hot": [
+{
+"name": "전기차",
+"n": 4,
+"lead": "KG모빌리티",
+"lead_ret": 29.97,
+"second": "상아프론테크",
+"second_ret": 12.17
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "디엔에프",
+"lead_ret": 13.87,
+"second": "레이크머티리얼즈",
+"second_ret": 11.79
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "KG모빌리티",
+"lead_ret": 29.97,
+"second": "포니링크",
+"second_ret": 14.89
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 8,
+"avg": 6.26,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 29.86,
+"second": "체리부로",
+"second_ret": 5.65
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 5.2,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 29.86,
+"second": "SOOP",
+"second_ret": 5.04
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.39,
+"up5": 4,
+"lead": "포니링크",
+"lead_ret": 14.89,
+"second": "NAVER",
+"second_ret": 8.22
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 3.83,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 30.0,
+"second": "코스모신소재",
+"second_ret": 1.57
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.72,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 29.86,
+"second": "이지바이오",
+"second_ret": 29.8
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 20,
+"avg": 3.07,
+"up5": 5,
+"lead": "포니링크",
+"lead_ret": 14.89,
+"second": "위세아이텍",
+"second_ret": 12.9
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 28,
+"avg": 3.02,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 29.86,
+"second": "이지바이오",
+"second_ret": 29.8
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.0,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 6.7,
+"second": "풀무원",
+"second_ret": 5.42
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.92,
+"up5": 1,
+"lead": "KG모빌리티",
+"lead_ret": 29.97,
+"second": "현대모비스",
+"second_ret": -0.81
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 2.65,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 13.11,
+"second": "콜마바이오텍",
+"second_ret": 3.94
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 2.41,
+"up5": 2,
+"lead": "카페24",
+"lead_ret": 9.8,
+"second": "헥토파이낸셜",
+"second_ret": 5.36
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 2.36,
+"up5": 7,
+"lead": "휴마시스",
+"lead_ret": 29.95,
+"second": "지구홀딩스",
+"second_ret": 15.0
+}
+],
+"themes_worst": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -7.19,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": -1.81,
+"second": "대성산업",
+"second_ret": -2.85
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -3.02,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": -0.4,
+"second": "태경산업",
+"second_ret": -0.51
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.54,
+"up5": 0,
+"lead": "HC홈센타",
+"lead_ret": 0.0,
+"second": "유진기업",
+"second_ret": 0.0
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.44,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": 1.44,
+"second": "한국철강",
+"second_ret": -0.53
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -2.31,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.51,
+"second": "녹십자",
+"second_ret": 2.57
+}
+],
+"leaders": [
+{
+"name": "KG모빌리티",
+"code": "003620",
+"ret": 29.97,
+"value": 14291,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 25.62,
+"value": 3147,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "풍전약품",
+"code": "298060",
+"ret": 12.54,
+"value": 2667,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "이지홀딩스",
+"code": "035810",
+"ret": 29.86,
+"value": 2511,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "포니링크",
+"code": "064800",
+"ret": 14.89,
+"value": 2463,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20250416",
+"kospi": -1.21,
+"kosdaq": -1.8,
+"adv": 635,
+"dec": 1581,
+"flat": 132,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 129800,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "청보",
+"lead_ret": 25.24,
+"second": "유니크",
+"second_ret": 16.83
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 4,
+"lead": "인성정보",
+"lead_ret": 27.2,
+"second": "GC메디아이",
+"second_ret": 13.31
+}
+],
+"themes": [
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 4.93,
+"up5": 9,
+"lead": "케어랩스",
+"lead_ret": 29.84,
+"second": "인성정보",
+"second_ret": 27.2
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 4.4,
+"up5": 3,
+"lead": "포바이포",
+"lead_ret": 29.98,
+"second": "DSC인베스트먼트",
+"second_ret": 7.27
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.35,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 27.2,
+"second": "아이티센씨티에스",
+"second_ret": 1.88
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.12,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 17.52,
+"second": "조비",
+"second_ret": 0.91
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.77,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 7.63,
+"second": "지씨셀",
+"second_ret": 2.23
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.72,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 29.98,
+"second": "졸스",
+"second_ret": 2.24
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 1.53,
+"up5": 1,
+"lead": "시공테크",
+"lead_ret": 14.31,
+"second": "이월드",
+"second_ret": 3.21
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.45,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 3.41,
+"second": "샘표식품",
+"second_ret": 1.49
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 1.35,
+"up5": 1,
+"lead": "동원산업",
+"lead_ret": 5.76,
+"second": "사조대림",
+"second_ret": 2.54
+},
+{
+"name": "음식료업종",
+"n": 63,
+"avg": 1.33,
+"up5": 3,
+"lead": "대한제당",
+"lead_ret": 29.93,
+"second": "서울식품",
+"second_ret": 24.83
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.16,
+"up5": 1,
+"lead": "동원산업",
+"lead_ret": 5.76,
+"second": "신세계",
+"second_ret": 1.74
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.16,
+"up5": 1,
+"lead": "대한제당",
+"lead_ret": 29.93,
+"second": "농심",
+"second_ret": 4.86
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -3.47,
+"up5": 0,
+"lead": "레이저쎌",
+"lead_ret": 1.42,
+"second": "오픈엣지테크놀로지",
+"second_ret": 0.15
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.27,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -1.75,
+"second": "가온전선",
+"second_ret": -2.1
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -3.26,
+"up5": 0,
+"lead": "케이에스피",
+"lead_ret": -1.94,
+"second": "한선엔지니어링",
+"second_ret": -2.26
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": -3.23,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 0.19,
+"second": "SGC에너지",
+"second_ret": 0.0
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -3.17,
+"up5": 0,
+"lead": "성창기업지주",
+"lead_ret": 0.91,
+"second": "이건산업",
+"second_ret": -1.24
+}
+],
+"leaders": [
+{
+"name": "심플랫폼",
+"code": "444530",
+"ret": 25.48,
+"value": 2188,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "상지건설",
+"code": "042940",
+"ret": 29.96,
+"value": 2105,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "포바이포",
+"code": "389140",
+"ret": 29.98,
+"value": 1811,
+"theme": "영화",
+"reason": "테마: 영화"
+},
+{
+"name": "노바텍",
+"code": "285490",
+"ret": 13.68,
+"value": 1621,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "대한제당",
+"code": "001790",
+"ret": 29.93,
+"value": 1476,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250710",
+"kospi": 1.58,
+"kosdaq": 0.93,
+"adv": 1353,
+"dec": 866,
+"flat": 148,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 201263,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 5,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 29.97,
+"second": "더즌",
+"second_ret": 24.67
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "아톤",
+"lead_ret": 8.94,
+"second": "비트플래닛",
+"second_ret": 8.12
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "리가켐바이오",
+"lead_ret": 16.9,
+"second": "케이바이오랩스",
+"second_ret": 14.07
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": 5.37,
+"up5": 2,
+"lead": "흥국화재",
+"lead_ret": 21.6,
+"second": "한화손해보험",
+"second_ret": 16.07
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 5.29,
+"up5": 9,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 29.97,
+"second": "더즌",
+"second_ret": 24.67
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.98,
+"up5": 3,
+"lead": "제주은행",
+"lead_ret": 21.38,
+"second": "카카오뱅크",
+"second_ret": 5.79
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.79,
+"up5": 1,
+"lead": "한화생명",
+"lead_ret": 11.85,
+"second": "SBI인베스트먼트",
+"second_ret": 2.77
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.33,
+"up5": 5,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 29.97,
+"second": "헥토파이낸셜",
+"second_ret": 10.63
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.16,
+"up5": 2,
+"lead": "신성이엔지",
+"lead_ret": 12.06,
+"second": "코오롱",
+"second_ret": 11.59
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.13,
+"up5": 1,
+"lead": "삼성바이오로직스",
+"lead_ret": 6.09,
+"second": "파미셀",
+"second_ret": 4.87
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 2.8,
+"up5": 4,
+"lead": "이뮨온시아",
+"lead_ret": 19.48,
+"second": "리가켐바이오",
+"second_ret": 16.9
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 2.64,
+"up5": 3,
+"lead": "아톤",
+"lead_ret": 8.94,
+"second": "아이티아이즈",
+"second_ret": 6.35
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.59,
+"up5": 2,
+"lead": "삼성에스디에스",
+"lead_ret": 6.01,
+"second": "SK하이닉스",
+"second_ret": 5.69
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.47,
+"up5": 3,
+"lead": "한양증권",
+"lead_ret": 13.22,
+"second": "부국증권",
+"second_ret": 9.41
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.43,
+"up5": 2,
+"lead": "넥센",
+"lead_ret": 8.63,
+"second": "한국앤컴퍼니",
+"second_ret": 7.99
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.03,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.49,
+"second": "글로벌에스엠",
+"second_ret": 0.0
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.52,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 0.47,
+"second": "퀀텀레일",
+"second_ret": 0.39
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -1.08,
+"up5": 0,
+"lead": "율촌",
+"lead_ret": 1.05,
+"second": "한국주철관",
+"second_ret": 0.83
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -1.01,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 3.97,
+"second": "휴온스",
+"second_ret": 0.87
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -0.8,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 0.52,
+"second": "대한전선",
+"second_ret": -0.19
+}
+],
+"leaders": [
+{
+"name": "더즌",
+"code": "462860",
+"ret": 24.67,
+"value": 4966,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 16.9,
+"value": 2584,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 21.38,
+"value": 2492,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 12.06,
+"value": 1953,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "흥국화재",
+"code": "000540",
+"ret": 21.6,
+"value": 1089,
+"theme": "손해보험",
+"reason": "테마: 손해보험"
+}
+],
+"backfilled": true
+}

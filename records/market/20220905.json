@@ -1,0 +1,254 @@
+{
+"date": "20220905",
+"kospi": -0.24,
+"kosdaq": -1.84,
+"adv": 415,
+"dec": 1545,
+"flat": 138,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 109548,
+"hot": [
+{
+"name": "비철금속",
+"n": 3,
+"lead": "풍산",
+"lead_ret": 7.85,
+"second": "피제이메탈",
+"second_ret": 7.13
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "삼영에스앤씨",
+"lead_ret": 29.9,
+"second": "에코플라스틱",
+"second_ret": 21.99
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "노루홀딩스",
+"lead_ret": 8.91,
+"second": "세아베스틸지주",
+"second_ret": 8.75
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.17,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 12.72,
+"second": "중앙에너비스",
+"second_ret": 6.18
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.17,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 12.72,
+"second": "중앙에너비스",
+"second_ret": 6.18
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.14,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 12.72,
+"second": "S-Oil",
+"second_ret": 3.15
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.82,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 11.27,
+"second": "대성에너지",
+"second_ret": 6.11
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.42,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 21.99,
+"second": "세림B&G",
+"second_ret": 2.75
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 9,
+"avg": 2.24,
+"up5": 2,
+"lead": "스피어",
+"lead_ret": 23.01,
+"second": "세아베스틸지주",
+"second_ret": 8.75
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.89,
+"up5": 2,
+"lead": "금호타이어",
+"lead_ret": 8.56,
+"second": "한국앤컴퍼니",
+"second_ret": 7.22
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.84,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 12.72,
+"second": "중앙에너비스",
+"second_ret": 6.18
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.54,
+"up5": 2,
+"lead": "SNT에너지",
+"lead_ret": 7.29,
+"second": "포스코인터내셔널",
+"second_ret": 5.04
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 1.41,
+"up5": 2,
+"lead": "나노엔텍",
+"lead_ret": 29.88,
+"second": "스피어",
+"second_ret": 23.01
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.4,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 5.04,
+"second": "LX인터내셔널",
+"second_ret": 3.27
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.18,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 5.04,
+"second": "LX인터내셔널",
+"second_ret": 3.27
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 29,
+"avg": -4.03,
+"up5": 0,
+"lead": "루트K",
+"lead_ret": 3.35,
+"second": "유한양행",
+"second_ret": 0.36
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -3.9,
+"up5": 0,
+"lead": "코아스템켐온",
+"lead_ret": 0.0,
+"second": "메디포스트",
+"second_ret": -0.53
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -3.45,
+"up5": 0,
+"lead": "코미팜",
+"lead_ret": 0.0,
+"second": "현대바이오",
+"second_ret": 0.0
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.91,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": -0.64,
+"second": "모두투어",
+"second_ret": -1.69
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.84,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": 1.98,
+"second": "삼성전기",
+"second_ret": -0.37
+}
+],
+"leaders": [
+{
+"name": "에코플라스틱",
+"code": "038110",
+"ret": 21.99,
+"value": 1686,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "유신",
+"code": "054930",
+"ret": 16.2,
+"value": 1530,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 11.27,
+"value": 1306,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 10.0,
+"value": 956,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "나노엔텍",
+"code": "039860",
+"ret": 29.88,
+"value": 807,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

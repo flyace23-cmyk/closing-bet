@@ -1,0 +1,254 @@
+{
+"date": "20220817",
+"kospi": -0.67,
+"kosdaq": -0.88,
+"adv": 502,
+"dec": 1449,
+"flat": 145,
+"limit_up": 2,
+"limit_down": 3,
+"value_total": 135823,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "삼성공조",
+"lead_ret": 16.67,
+"second": "에스엘",
+"second_ret": 15.21
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "엔켐",
+"lead_ret": 14.92,
+"second": "솔브레인홀딩스",
+"second_ret": 12.39
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "엔켐",
+"lead_ret": 14.92,
+"second": "미래나노텍",
+"second_ret": 8.07
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 3.14,
+"up5": 2,
+"lead": "고려산업",
+"lead_ret": 18.2,
+"second": "한일사료",
+"second_ret": 10.19
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.81,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 15.78,
+"second": "대성에너지",
+"second_ret": 4.35
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.28,
+"up5": 3,
+"lead": "미투온",
+"lead_ret": 29.86,
+"second": "대원미디어",
+"second_ret": 7.61
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.41,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 3.45,
+"second": "미래생명자원",
+"second_ret": 2.11
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 1.15,
+"up5": 2,
+"lead": "셀레믹스",
+"lead_ret": 15.92,
+"second": "한일사료",
+"second_ret": 10.19
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.06,
+"up5": 3,
+"lead": "엔켐",
+"lead_ret": 14.92,
+"second": "미래나노텍",
+"second_ret": 8.07
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 0.91,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 15.78,
+"second": "영원무역",
+"second_ret": 4.55
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 0.9,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 7.61,
+"second": "오로라",
+"second_ret": 0.11
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.89,
+"up5": 1,
+"lead": "한일사료",
+"lead_ret": 10.19,
+"second": "팜스토리",
+"second_ret": 3.42
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.83,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 2.8,
+"second": "티웨이홀딩스",
+"second_ret": 2.67
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 0.74,
+"up5": 2,
+"lead": "제이에스링크",
+"lead_ret": 9.19,
+"second": "쎄노텍",
+"second_ret": 8.93
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.72,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 3.19,
+"second": "S-Oil",
+"second_ret": 1.9
+}
+],
+"themes_worst": [
+{
+"name": "마이데이터",
+"n": 11,
+"avg": -4.2,
+"up5": 0,
+"lead": "아톤",
+"lead_ret": 2.84,
+"second": "파수AI",
+"second_ret": 0.2
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -2.76,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": -1.04,
+"second": "한미약품",
+"second_ret": -1.11
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.64,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 0.91,
+"second": "휴스틸",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.52,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.66,
+"second": "엔투텍",
+"second_ret": -1.14
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -2.31,
+"up5": 0,
+"lead": "메타바이오메드",
+"lead_ret": 1.6,
+"second": "신흥",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 15.78,
+"value": 2228,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 18.2,
+"value": 2005,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "미투온",
+"code": "201490",
+"ret": 29.86,
+"value": 1359,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 10.19,
+"value": 1265,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "어보브반도체",
+"code": "102120",
+"ret": 20.27,
+"value": 928,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+}
+],
+"backfilled": true
+}

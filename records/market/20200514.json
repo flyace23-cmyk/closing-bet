@@ -1,0 +1,254 @@
+{
+"date": "20200514",
+"kospi": -0.8,
+"kosdaq": -0.14,
+"adv": 510,
+"dec": 1294,
+"flat": 107,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 196468,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 10,
+"lead": "제일약품",
+"lead_ret": 29.98,
+"second": "씨젠",
+"second_ret": 29.97
+},
+{
+"name": "의료기기",
+"n": 6,
+"lead": "랩지노믹스",
+"lead_ret": 23.3,
+"second": "수젠텍",
+"second_ret": 17.67
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "제일약품",
+"lead_ret": 29.98,
+"second": "JW중외제약",
+"second_ret": 21.19
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 5.86,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 29.98,
+"second": "서울제약",
+"second_ret": 2.02
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 5.09,
+"up5": 12,
+"lead": "씨젠",
+"lead_ret": 29.97,
+"second": "랩지노믹스",
+"second_ret": 23.3
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 5.05,
+"up5": 2,
+"lead": "JW중외제약",
+"lead_ret": 21.19,
+"second": "티앤알바이오팹",
+"second_ret": 6.78
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 4.53,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 23.3,
+"second": "제이에스링크",
+"second_ret": 9.23
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": 4.51,
+"up5": 20,
+"lead": "제일약품",
+"lead_ret": 29.98,
+"second": "씨젠",
+"second_ret": 29.97
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.79,
+"up5": 10,
+"lead": "씨젠",
+"lead_ret": 29.97,
+"second": "랩지노믹스",
+"second_ret": 23.3
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 3.43,
+"up5": 2,
+"lead": "수젠텍",
+"lead_ret": 17.67,
+"second": "국제약품",
+"second_ret": 6.24
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 3.43,
+"up5": 2,
+"lead": "NHN KCP",
+"lead_ret": 14.87,
+"second": "KG이니시스",
+"second_ret": 5.52
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 3.27,
+"up5": 5,
+"lead": "씨젠",
+"lead_ret": 29.97,
+"second": "랩지노믹스",
+"second_ret": 23.3
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.07,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 10.12,
+"second": "유니온머티리얼",
+"second_ret": 6.9
+},
+{
+"name": "탈모 치료",
+"n": 19,
+"avg": 2.61,
+"up5": 4,
+"lead": "JW중외제약",
+"lead_ret": 21.19,
+"second": "명문제약",
+"second_ret": 9.23
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 2.47,
+"up5": 4,
+"lead": "JW중외제약",
+"lead_ret": 21.19,
+"second": "케이엠",
+"second_ret": 11.17
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -2.88,
+"up5": 0,
+"lead": "SFA넥셀",
+"lead_ret": 1.06,
+"second": "EG",
+"second_ret": 0.38
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -2.77,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 3.02,
+"second": "상보",
+"second_ret": 1.46
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -2.72,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.13,
+"second": "LG전자",
+"second_ret": -1.45
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -2.69,
+"up5": 0,
+"lead": "티에스이",
+"lead_ret": -1.13,
+"second": "티씨케이",
+"second_ret": -1.47
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.65,
+"up5": 0,
+"lead": "인성정보",
+"lead_ret": 1.93,
+"second": "에스넷",
+"second_ret": -1.24
+}
+],
+"leaders": [
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 29.97,
+"value": 12637,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 23.3,
+"value": 5422,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 17.67,
+"value": 4522,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 17.91,
+"value": 2994,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 10.95,
+"value": 2881,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

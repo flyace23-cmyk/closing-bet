@@ -1,0 +1,254 @@
+{
+"date": "20201113",
+"kospi": 0.74,
+"kosdaq": -0.11,
+"adv": 672,
+"dec": 1089,
+"flat": 191,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 283363,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "소마젠",
+"lead_ret": 29.75,
+"second": "신풍제약",
+"second_ret": 20.0
+},
+{
+"name": "재택근무/스마트워크",
+"n": 4,
+"lead": "소프트캠프",
+"lead_ret": 19.68,
+"second": "링네트",
+"second_ret": 10.94
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "휴마시스",
+"lead_ret": 16.89,
+"second": "미래컴퍼니",
+"second_ret": 10.13
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 7.16,
+"up5": 2,
+"lead": "소마젠",
+"lead_ret": 29.75,
+"second": "엔투텍",
+"second_ret": 15.73
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.55,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 12.52,
+"second": "콜마바이오텍",
+"second_ret": 6.12
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.46,
+"up5": 4,
+"lead": "소프트캠프",
+"lead_ret": 19.68,
+"second": "링네트",
+"second_ret": 10.94
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 2.86,
+"up5": 1,
+"lead": "메가엠디",
+"lead_ret": 8.96,
+"second": "사람인",
+"second_ret": 3.77
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.78,
+"up5": 3,
+"lead": "블루산업개발",
+"lead_ret": 13.27,
+"second": "대영포장",
+"second_ret": 6.78
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": 2.53,
+"up5": 5,
+"lead": "소마젠",
+"lead_ret": 29.75,
+"second": "휴마시스",
+"second_ret": 16.89
+},
+{
+"name": "마이크로바이옴",
+"n": 16,
+"avg": 2.5,
+"up5": 2,
+"lead": "소마젠",
+"lead_ret": 29.75,
+"second": "랩지노믹스",
+"second_ret": 6.73
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.5,
+"up5": 4,
+"lead": "YBM넷",
+"lead_ret": 21.51,
+"second": "메가엠디",
+"second_ret": 8.96
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": 2.42,
+"up5": 3,
+"lead": "소마젠",
+"lead_ret": 29.75,
+"second": "헬릭스미스",
+"second_ret": 10.54
+},
+{
+"name": "전력반도체",
+"n": 13,
+"avg": 2.32,
+"up5": 3,
+"lead": "에이루트",
+"lead_ret": 12.59,
+"second": "테스",
+"second_ret": 7.34
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 2.24,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 4.88,
+"second": "삼성전자",
+"second_ret": 3.61
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.21,
+"up5": 1,
+"lead": "링네트",
+"lead_ret": 10.94,
+"second": "오픈베이스",
+"second_ret": 2.49
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -3.71,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.35,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -2.4,
+"up5": 0,
+"lead": "HD건설기계",
+"lead_ret": 1.03,
+"second": "디와이파워",
+"second_ret": 0.87
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -2.35,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 1.57,
+"second": "티앤알바이오팹",
+"second_ret": 0.81
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.04,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.44,
+"second": "대한약품",
+"second_ret": 0.16
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -1.9,
+"up5": 1,
+"lead": "애드바이오텍",
+"lead_ret": 5.26,
+"second": "대한제당",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 11.35,
+"value": 16446,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 20.0,
+"value": 13844,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "엔투텍",
+"code": "227950",
+"ret": 15.73,
+"value": 8318,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "크리스탈신소재",
+"code": "900250",
+"ret": 11.72,
+"value": 2074,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "소마젠",
+"code": "950200",
+"ret": 29.75,
+"value": 1962,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

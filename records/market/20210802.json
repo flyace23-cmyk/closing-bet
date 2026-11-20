@@ -1,0 +1,254 @@
+{
+"date": "20210802",
+"kospi": 0.65,
+"kosdaq": 0.65,
+"adv": 794,
+"dec": 1027,
+"flat": 196,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 195750,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "성우테크론",
+"lead_ret": 25.55,
+"second": "씨앤지하이테크",
+"second_ret": 9.14
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.73,
+"second": "고영",
+"second_ret": 7.98
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "케이알엠",
+"lead_ret": 10.94,
+"second": "고영",
+"second_ret": 7.98
+}
+],
+"themes": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.81,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.73,
+"second": "일신바이오",
+"second_ret": 3.93
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.73,
+"up5": 1,
+"lead": "엠케이전자",
+"lead_ret": 12.93,
+"second": "심텍",
+"second_ret": 4.84
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.7,
+"up5": 2,
+"lead": "안트로젠",
+"lead_ret": 20.08,
+"second": "코아스템켐온",
+"second_ret": 7.92
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 2.59,
+"up5": 3,
+"lead": "나노씨엠에스",
+"lead_ret": 7.5,
+"second": "에이루트",
+"second_ret": 7.01
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.37,
+"up5": 2,
+"lead": "삼천당제약",
+"lead_ret": 15.15,
+"second": "이수앱지스",
+"second_ret": 5.65
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.33,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.73,
+"second": "하이비젼시스템",
+"second_ret": 2.94
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.23,
+"up5": 1,
+"lead": "3S",
+"lead_ret": 17.07,
+"second": "한화에어로스페이스",
+"second_ret": 4.25
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.08,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 13.76,
+"second": "한화생명",
+"second_ret": 0.15
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.04,
+"up5": 2,
+"lead": "클래시스",
+"lead_ret": 7.9,
+"second": "휴메딕스",
+"second_ret": 6.12
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 1.99,
+"up5": 2,
+"lead": "NHN벅스",
+"lead_ret": 14.29,
+"second": "YG PLUS",
+"second_ret": 5.46
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 1.92,
+"up5": 3,
+"lead": "성우테크론",
+"lead_ret": 25.55,
+"second": "비에이치",
+"second_ret": 5.74
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 1.9,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 5.72,
+"second": "네패스아크",
+"second_ret": 4.86
+}
+],
+"themes_worst": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -3.86,
+"up5": 0,
+"lead": "대동",
+"lead_ret": 0.8,
+"second": "인선이엔티",
+"second_ret": -0.4
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -3.09,
+"up5": 0,
+"lead": "태경비케이",
+"lead_ret": 1.66,
+"second": "누보",
+"second_ret": 0.0
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -2.65,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 2.01,
+"second": "남화토건",
+"second_ret": 1.56
+},
+{
+"name": "농업",
+"n": 22,
+"avg": -2.24,
+"up5": 1,
+"lead": "그린플러스",
+"lead_ret": 9.37,
+"second": "그린생명과학",
+"second_ret": 1.74
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.16,
+"up5": 0,
+"lead": "동아지질",
+"lead_ret": 0.94,
+"second": "한국선재",
+"second_ret": -1.53
+}
+],
+"leaders": [
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 13.76,
+"value": 8469,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "SK바이오사이언스",
+"code": "302440",
+"ret": 15.54,
+"value": 8045,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "안트로젠",
+"code": "065660",
+"ret": 20.08,
+"value": 2562,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "성우테크론",
+"code": "045300",
+"ret": 25.55,
+"value": 2384,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 15.15,
+"value": 1951,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20230717",
+"kospi": -0.35,
+"kosdaq": 0.22,
+"adv": 998,
+"dec": 1072,
+"flat": 101,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 202335,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "유니셈",
+"lead_ret": 18.99,
+"second": "네오셈",
+"second_ret": 13.48
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "알체라",
+"lead_ret": 29.91,
+"second": "오브젠",
+"second_ret": 22.53
+}
+],
+"themes": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 5.07,
+"up5": 5,
+"lead": "자연과환경",
+"lead_ret": 20.08,
+"second": "한신공영",
+"second_ret": 7.04
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 10,
+"avg": 4.7,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 29.91,
+"second": "이스트소프트",
+"second_ret": 6.25
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.88,
+"up5": 2,
+"lead": "경농",
+"lead_ret": 17.18,
+"second": "조비",
+"second_ret": 5.23
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.66,
+"up5": 2,
+"lead": "대우건설",
+"lead_ret": 9.82,
+"second": "GS건설",
+"second_ret": 5.15
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.29,
+"up5": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 29.86,
+"second": "플리토",
+"second_ret": 9.93
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.95,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 16.01,
+"second": "CJ씨푸드",
+"second_ret": 1.21
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.88,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 20.08,
+"second": "웰크론",
+"second_ret": 11.43
+},
+{
+"name": "증강현실(AR)",
+"n": 16,
+"avg": 2.85,
+"up5": 3,
+"lead": "동운아나텍",
+"lead_ret": 16.04,
+"second": "라온텍",
+"second_ret": 8.85
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.71,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 29.86,
+"second": "NHN",
+"second_ret": 5.76
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.7,
+"up5": 4,
+"lead": "경농",
+"lead_ret": 17.18,
+"second": "인바이오",
+"second_ret": 6.79
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 50,
+"avg": 2.64,
+"up5": 6,
+"lead": "알체라",
+"lead_ret": 29.91,
+"second": "오브젠",
+"second_ret": 22.53
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 2.63,
+"up5": 4,
+"lead": "퓨런티어",
+"lead_ret": 23.03,
+"second": "동운아나텍",
+"second_ret": 16.04
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.99,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": 2.83,
+"second": "나이벡",
+"second_ret": 2.67
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.8,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": -0.13,
+"second": "차바이오텍",
+"second_ret": -0.16
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.76,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.36,
+"second": "한온시스템",
+"second_ret": -0.74
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -1.64,
+"up5": 1,
+"lead": "지노믹트리",
+"lead_ret": 6.2,
+"second": "씨젠",
+"second_ret": 0.96
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -1.57,
+"up5": 0,
+"lead": "메가엠디",
+"lead_ret": 2.59,
+"second": "아이비김영",
+"second_ret": 1.48
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 13.01,
+"value": 3605,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 13.48,
+"value": 2421,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 12.07,
+"value": 2178,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "자연과환경",
+"code": "043910",
+"ret": 20.08,
+"value": 2110,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 10.64,
+"value": 1887,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+}
+],
+"backfilled": true
+}

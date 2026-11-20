@@ -1,0 +1,254 @@
+{
+"date": "20250620",
+"kospi": 1.48,
+"kosdaq": 1.15,
+"adv": 1281,
+"dec": 940,
+"flat": 143,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 252184,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "한국화장품",
+"lead_ret": 29.95,
+"second": "코리아나",
+"second_ret": 29.84
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "티사이언티픽",
+"lead_ret": 19.42,
+"second": "아톤",
+"second_ret": 17.75
+},
+{
+"name": "스테이블코인",
+"n": 3,
+"lead": "미투온",
+"lead_ret": 30.0,
+"second": "카카오페이",
+"second_ret": 29.85
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 10,
+"avg": 5.55,
+"up5": 4,
+"lead": "졸스",
+"lead_ret": 29.97,
+"second": "CJ CGV",
+"second_ret": 10.95
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.74,
+"up5": 3,
+"lead": "에코프로비엠",
+"lead_ret": 12.21,
+"second": "에코프로",
+"second_ret": 7.14
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 4.37,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 29.98,
+"second": "이월드",
+"second_ret": 1.38
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.28,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 18.12,
+"second": "한국정보통신",
+"second_ret": 8.87
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 4.13,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 15.78,
+"second": "LG화학",
+"second_ret": 2.67
+},
+{
+"name": "화장품",
+"n": 92,
+"avg": 3.71,
+"up5": 21,
+"lead": "졸스",
+"lead_ret": 29.97,
+"second": "한국화장품",
+"second_ret": 29.95
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 3.65,
+"up5": 6,
+"lead": "미투온",
+"lead_ret": 30.0,
+"second": "카카오페이",
+"second_ret": 29.85
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 3.34,
+"up5": 2,
+"lead": "카카오뱅크",
+"lead_ret": 14.06,
+"second": "카카오",
+"second_ret": 10.26
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 3.32,
+"up5": 1,
+"lead": "카카오페이",
+"lead_ret": 29.85,
+"second": "누리플렉스",
+"second_ret": 4.63
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.25,
+"up5": 5,
+"lead": "미투온",
+"lead_ret": 30.0,
+"second": "아톤",
+"second_ret": 17.75
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.16,
+"up5": 3,
+"lead": "미투온",
+"lead_ret": 30.0,
+"second": "카카오",
+"second_ret": 10.26
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.65,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 15.78,
+"second": "광무",
+"second_ret": 1.51
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -12.35,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": -1.26,
+"second": "쿠콘",
+"second_ret": -9.85
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.36,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 1.1,
+"second": "KSS해운",
+"second_ret": -0.1
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.95,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": -1.58,
+"second": "IPARK현대산업개발",
+"second_ret": -2.02
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -2.78,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 1.47,
+"second": "토마토시스템",
+"second_ret": 1.21
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.72,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.59,
+"second": "남해화학",
+"second_ret": 1.15
+}
+],
+"leaders": [
+{
+"name": "카카오",
+"code": "035720",
+"ret": 10.26,
+"value": 11158,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 29.85,
+"value": 5466,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "카카오뱅크",
+"code": "323410",
+"ret": 14.06,
+"value": 3566,
+"theme": "인터넷은행",
+"reason": "테마: 인터넷은행"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 20.88,
+"value": 1906,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 12.21,
+"value": 1829,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

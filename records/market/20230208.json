@@ -1,0 +1,254 @@
+{
+"date": "20230208",
+"kospi": 1.3,
+"kosdaq": 0.93,
+"adv": 1338,
+"dec": 651,
+"flat": 145,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 165048,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 7,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "미디어젠",
+"second_ret": 25.15
+},
+{
+"name": "핀테크(FinTech)",
+"n": 4,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "이글루",
+"second_ret": 11.93
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "이노테나",
+"lead_ret": 16.84,
+"second": "코닉오토메이션",
+"second_ret": 12.97
+}
+],
+"themes": [
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 8.71,
+"up5": 6,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "유엔젤",
+"second_ret": 16.05
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 6.49,
+"up5": 11,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "미디어젠",
+"second_ret": 25.15
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 5.67,
+"up5": 3,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "MDS테크",
+"second_ret": 16.14
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 4.98,
+"up5": 5,
+"lead": "린드먼아시아",
+"lead_ret": 20.83,
+"second": "미래에셋벤처투자",
+"second_ret": 12.59
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.67,
+"up5": 3,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 9.42
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 4.45,
+"up5": 2,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "엑셈",
+"second_ret": 8.21
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 4.41,
+"up5": 6,
+"lead": "인포뱅크",
+"lead_ret": 30.0,
+"second": "MDS테크",
+"second_ret": 16.14
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 4.35,
+"up5": 3,
+"lead": "미디어젠",
+"lead_ret": 25.15,
+"second": "브리지텍",
+"second_ret": 10.32
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 4.27,
+"up5": 4,
+"lead": "토마토시스템",
+"lead_ret": 7.89,
+"second": "TS인베스트먼트",
+"second_ret": 7.1
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 4.06,
+"up5": 4,
+"lead": "핑거",
+"lead_ret": 11.71,
+"second": "아이티아이즈",
+"second_ret": 9.95
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 4.02,
+"up5": 3,
+"lead": "드림어스컴퍼니",
+"lead_ret": 16.71,
+"second": "NHN벅스",
+"second_ret": 10.71
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.73,
+"up5": 2,
+"lead": "삼성에스디에스",
+"lead_ret": 5.85,
+"second": "LG전자",
+"second_ret": 5.49
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -1.21,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.12,
+"second": "HD한국조선해양",
+"second_ret": -0.38
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.98,
+"up5": 0,
+"lead": "대한항공",
+"lead_ret": 0.85,
+"second": "한진칼",
+"second_ret": 0.62
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.93,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 1.25,
+"second": "레드캡투어",
+"second_ret": 0.85
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.9,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 1.8,
+"second": "강원랜드",
+"second_ret": -0.22
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.9,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 1.8,
+"second": "강원랜드",
+"second_ret": -0.22
+}
+],
+"leaders": [
+{
+"name": "MDS테크",
+"code": "086960",
+"ret": 16.14,
+"value": 7403,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "유엔젤",
+"code": "072130",
+"ret": 16.05,
+"value": 2299,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "엑스플러스",
+"code": "373200",
+"ret": 14.39,
+"value": 2265,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "스튜디오미르",
+"code": "408900",
+"ret": 16.96,
+"value": 1971,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "인포뱅크",
+"code": "039290",
+"ret": 30.0,
+"value": 1649,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

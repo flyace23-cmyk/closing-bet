@@ -1,0 +1,254 @@
+{
+"date": "20230602",
+"kospi": 1.25,
+"kosdaq": 0.5,
+"adv": 1257,
+"dec": 747,
+"flat": 158,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 156651,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "뷰노",
+"lead_ret": 17.37,
+"second": "큐렉소",
+"second_ret": 14.17
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "경창산업",
+"lead_ret": 23.58,
+"second": "동원모빌리티",
+"second_ret": 17.16
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "대보마그네틱",
+"lead_ret": 16.92,
+"second": "펨트론",
+"second_ret": 11.54
+}
+],
+"themes": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": 4.16,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 30.02,
+"second": "KG파이낸셜",
+"second_ret": 2.08
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.09,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 23.09,
+"second": "에스넷",
+"second_ret": 9.13
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": 3.45,
+"up5": 4,
+"lead": "인성정보",
+"lead_ret": 23.09,
+"second": "뷰노",
+"second_ret": 17.37
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.17,
+"up5": 4,
+"lead": "대보마그네틱",
+"lead_ret": 16.92,
+"second": "앱튼",
+"second_ret": 7.91
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.72,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 10.89,
+"second": "나인테크",
+"second_ret": 4.88
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.58,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 5.93,
+"second": "유니온",
+"second_ret": 2.68
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.57,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 8.12,
+"second": "대원전선",
+"second_ret": 3.1
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 2.56,
+"up5": 3,
+"lead": "노바텍",
+"lead_ret": 8.22,
+"second": "엔젯",
+"second_ret": 7.44
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 2.23,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 23.09,
+"second": "소프트센",
+"second_ret": 5.01
+},
+{
+"name": "풍력에너지",
+"n": 34,
+"avg": 2.16,
+"up5": 3,
+"lead": "유니슨",
+"lead_ret": 17.17,
+"second": "효성중공업",
+"second_ret": 8.08
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.11,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 7.33,
+"second": "손오공",
+"second_ret": 5.1
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 2.05,
+"up5": 4,
+"lead": "HD현대일렉트릭",
+"lead_ret": 9.62,
+"second": "일진전기",
+"second_ret": 8.12
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -1.49,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.83,
+"second": "자람테크놀로지",
+"second_ret": 1.45
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.13,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.06,
+"second": "메디포스트",
+"second_ret": -0.07
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -0.92,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 4.81,
+"second": "제너셈",
+"second_ret": 0.5
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -0.89,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 4.3,
+"second": "큐알티",
+"second_ret": 2.58
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -0.78,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": 2.08,
+"second": "한국비엔씨",
+"second_ret": 1.56
+}
+],
+"leaders": [
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 23.09,
+"value": 3132,
+"theme": "NI(네트워크통합)",
+"reason": "테마: NI(네트워크통합)"
+},
+{
+"name": "DB",
+"code": "012030",
+"ret": 29.86,
+"value": 1827,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "대보마그네틱",
+"code": "290670",
+"ret": 16.92,
+"value": 1378,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엑스플러스",
+"code": "373200",
+"ret": 30.02,
+"value": 963,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "뷰노",
+"code": "338220",
+"ret": 17.37,
+"value": 817,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

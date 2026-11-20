@@ -1,0 +1,254 @@
+{
+"date": "20240425",
+"kospi": -1.76,
+"kosdaq": -1.04,
+"adv": 735,
+"dec": 1360,
+"flat": 155,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 161448,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "알에스오토메이션",
+"lead_ret": 29.81,
+"second": "와이씨",
+"second_ret": 12.71
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "알에스오토메이션",
+"lead_ret": 29.81,
+"second": "삼현",
+"second_ret": 12.16
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "삼현",
+"lead_ret": 12.16,
+"second": "코리아에프티",
+"second_ret": 7.07
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.82,
+"up5": 1,
+"lead": "유비벨록스",
+"lead_ret": 28.24,
+"second": "이루온",
+"second_ret": -0.35
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 2.33,
+"up5": 1,
+"lead": "유비벨록스",
+"lead_ret": 28.24,
+"second": "세종텔레콤",
+"second_ret": 1.03
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.96,
+"up5": 1,
+"lead": "유비벨록스",
+"lead_ret": 28.24,
+"second": "LG이노텍",
+"second_ret": 1.67
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.91,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 4.11,
+"second": "코오롱인더",
+"second_ret": 3.97
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 1.62,
+"up5": 1,
+"lead": "삼륭물산",
+"lead_ret": 13.68,
+"second": "한국팩키지",
+"second_ret": 1.24
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.22,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 13.68,
+"second": "시그네틱스",
+"second_ret": 10.34
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.15,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 6.13,
+"second": "강스템바이오텍",
+"second_ret": 4.39
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 0.88,
+"up5": 0,
+"lead": "강남제비스코",
+"lead_ret": 3.78,
+"second": "SP삼화",
+"second_ret": 2.93
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 0.78,
+"up5": 1,
+"lead": "모나리자",
+"lead_ret": 12.94,
+"second": "깨끗한나라",
+"second_ret": 3.17
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.77,
+"up5": 0,
+"lead": "마니커",
+"lead_ret": 1.73,
+"second": "하림",
+"second_ret": 1.16
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 0.77,
+"up5": 1,
+"lead": "모나리자",
+"lead_ret": 12.94,
+"second": "보라티알",
+"second_ret": 3.49
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 0.75,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 1.73,
+"second": "샘표식품",
+"second_ret": 1.25
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -3.51,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 3.58,
+"second": "LS에코에너지",
+"second_ret": 0.99
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.07,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": 1.17,
+"second": "삼성물산",
+"second_ret": -0.2
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": -2.95,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": 0.79,
+"second": "스톤브릿지벤처스",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.41,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.49,
+"second": "파워넷",
+"second_ret": -0.77
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.32,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.13,
+"second": "HD한국조선해양",
+"second_ret": -1.62
+}
+],
+"leaders": [
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 12.71,
+"value": 5373,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "알에스오토메이션",
+"code": "140670",
+"ret": 29.81,
+"value": 3114,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "시그네틱스",
+"code": "033170",
+"ret": 10.34,
+"value": 778,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "린드먼아시아",
+"code": "277070",
+"ret": 13.11,
+"value": 754,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 12.94,
+"value": 625,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

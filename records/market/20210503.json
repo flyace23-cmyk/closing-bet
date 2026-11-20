@@ -1,0 +1,254 @@
+{
+"date": "20210503",
+"kospi": -0.66,
+"kosdaq": -2.2,
+"adv": 684,
+"dec": 1154,
+"flat": 162,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 235969,
+"hot": [
+{
+"name": "조선기자재",
+"n": 8,
+"lead": "한라IMS",
+"lead_ret": 29.88,
+"second": "HD현대마린엔진",
+"second_ret": 29.45
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "SJM",
+"lead_ret": 29.81,
+"second": "인화정공",
+"second_ret": 14.16
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "CSA 코스믹",
+"lead_ret": 13.47,
+"second": "제닉",
+"second_ret": 12.15
+}
+],
+"themes": [
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 6.54,
+"up5": 10,
+"lead": "한라IMS",
+"lead_ret": 29.88,
+"second": "HD현대마린엔진",
+"second_ret": 29.45
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.57,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 29.48,
+"second": "NH농우바이오",
+"second_ret": 5.0
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.93,
+"up5": 4,
+"lead": "대한제당",
+"lead_ret": 9.1,
+"second": "한일사료",
+"second_ret": 8.17
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.65,
+"up5": 4,
+"lead": "효성오앤비",
+"lead_ret": 29.48,
+"second": "아시아종묘",
+"second_ret": 10.7
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.23,
+"up5": 1,
+"lead": "HL만도",
+"lead_ret": 7.06,
+"second": "기아",
+"second_ret": 4.03
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.15,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 3.26,
+"second": "신송홀딩스",
+"second_ret": 3.17
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.65,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 3.32,
+"second": "코오롱인더",
+"second_ret": 2.64
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.63,
+"up5": 1,
+"lead": "경농",
+"lead_ret": 5.14,
+"second": "조비",
+"second_ret": 4.52
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 1.61,
+"up5": 1,
+"lead": "비엠티",
+"lead_ret": 5.81,
+"second": "케이에스피",
+"second_ret": 4.68
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.61,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 6.44,
+"second": "하림",
+"second_ret": 2.19
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 1.15,
+"up5": 2,
+"lead": "한일사료",
+"lead_ret": 8.17,
+"second": "팜스토리",
+"second_ret": 6.44
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.05,
+"up5": 1,
+"lead": "효성오앤비",
+"lead_ret": 29.48,
+"second": "제이씨케미칼",
+"second_ret": 3.78
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": -4.77,
+"up5": 0,
+"lead": "바이오니아",
+"lead_ret": 4.8,
+"second": "지구홀딩스",
+"second_ret": 3.23
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -4.58,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 3.27,
+"second": "리튬포어스",
+"second_ret": 1.83
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -4.56,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 1.1,
+"second": "현대제철",
+"second_ret": -0.9
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -4.48,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": -0.6,
+"second": "삼화콘덴서",
+"second_ret": -1.09
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 62,
+"avg": -4.22,
+"up5": 0,
+"lead": "바이오니아",
+"lead_ret": 4.8,
+"second": "네이처셀",
+"second_ret": 4.62
+}
+],
+"leaders": [
+{
+"name": "KCTC",
+"code": "009070",
+"ret": 15.58,
+"value": 5230,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "티케이케미칼",
+"code": "104480",
+"ret": 12.05,
+"value": 2341,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "HD현대마린엔진",
+"code": "071970",
+"ret": 29.45,
+"value": 1823,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 14.57,
+"value": 1235,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "오리엔탈정공",
+"code": "014940",
+"ret": 20.23,
+"value": 1171,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

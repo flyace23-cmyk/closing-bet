@@ -1,0 +1,254 @@
+{
+"date": "20241113",
+"kospi": -2.64,
+"kosdaq": -2.94,
+"adv": 278,
+"dec": 1953,
+"flat": 71,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 170216,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "유진로봇",
+"second_ret": 17.25
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "유진로봇",
+"second_ret": 17.25
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "지투파워",
+"lead_ret": 9.62,
+"second": "비츠로셀",
+"second_ret": 7.07
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.34,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 29.88,
+"second": "SBI인베스트먼트",
+"second_ret": 4.24
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.3,
+"up5": 1,
+"lead": "윙입푸드",
+"lead_ret": 17.49,
+"second": "컬러레이",
+"second_ret": 3.51
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.76,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "스맥",
+"second_ret": 8.35
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 0.58,
+"up5": 2,
+"lead": "에코캡",
+"lead_ret": 29.98,
+"second": "대원화성",
+"second_ret": 29.92
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 0.0,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 6.24,
+"second": "팬오션",
+"second_ret": -0.58
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": -0.35,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 29.88,
+"second": "미래에셋벤처투자",
+"second_ret": 24.78
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -0.4,
+"up5": 0,
+"lead": "YG PLUS",
+"lead_ret": 4.23,
+"second": "에스엠",
+"second_ret": 4.08
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -0.46,
+"up5": 1,
+"lead": "펨트론",
+"lead_ret": 8.17,
+"second": "티엘비",
+"second_ret": 4.55
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": -0.55,
+"up5": 2,
+"lead": "디어유",
+"lead_ret": 7.07,
+"second": "스튜디오드래곤",
+"second_ret": 6.93
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -0.82,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 29.88,
+"second": "미래에셋벤처투자",
+"second_ret": 24.78
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -0.93,
+"up5": 1,
+"lead": "미래에셋벤처투자",
+"lead_ret": 24.78,
+"second": "이씨에스",
+"second_ret": 0.35
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 67,
+"avg": -0.98,
+"up5": 5,
+"lead": "휴림로봇",
+"lead_ret": 29.98,
+"second": "유진로봇",
+"second_ret": 17.25
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -5.64,
+"up5": 0,
+"lead": "대원전선",
+"lead_ret": -3.6,
+"second": "KBI메탈",
+"second_ret": -3.79
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -5.33,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -2.5,
+"second": "GS건설",
+"second_ret": -2.7
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -5.12,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -3.75,
+"second": "파미셀",
+"second_ret": -4.07
+},
+{
+"name": "퓨리오사AI",
+"n": 9,
+"avg": -4.93,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": -0.32,
+"second": "LB인베스트먼트",
+"second_ret": -1.05
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -4.76,
+"up5": 0,
+"lead": "까뮤이앤씨",
+"lead_ret": 0.16,
+"second": "KCC건설",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "미래에셋벤처투자",
+"code": "100790",
+"ret": 24.78,
+"value": 2260,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "하이젠알앤엠",
+"code": "160190",
+"ret": 11.84,
+"value": 1099,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 12.78,
+"value": 1037,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 10.96,
+"value": 823,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 29.98,
+"value": 705,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

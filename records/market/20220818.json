@@ -1,0 +1,254 @@
+{
+"date": "20220818",
+"kospi": -0.33,
+"kosdaq": -0.16,
+"adv": 781,
+"dec": 1140,
+"flat": 175,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 130664,
+"hot": [
+{
+"name": "출산장려정책",
+"n": 7,
+"lead": "아가방컴퍼니",
+"lead_ret": 30.0,
+"second": "메디앙스",
+"second_ret": 24.82
+},
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "성광벤드",
+"lead_ret": 11.72,
+"second": "일승",
+"second_ret": 11.21
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "HPSP",
+"lead_ret": 9.16,
+"second": "레이저쎌",
+"second_ret": 8.65
+}
+],
+"themes": [
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 7.14,
+"up5": 7,
+"lead": "아가방컴퍼니",
+"lead_ret": 30.0,
+"second": "메디앙스",
+"second_ret": 24.82
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 5.68,
+"up5": 5,
+"lead": "성광벤드",
+"lead_ret": 11.72,
+"second": "하이록코리아",
+"second_ret": 10.67
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 5.6,
+"up5": 6,
+"lead": "아가방컴퍼니",
+"lead_ret": 30.0,
+"second": "메디앙스",
+"second_ret": 24.82
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 3.44,
+"up5": 11,
+"lead": "성광벤드",
+"lead_ret": 11.72,
+"second": "일승",
+"second_ret": 11.21
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 3.15,
+"up5": 3,
+"lead": "아가방컴퍼니",
+"lead_ret": 30.0,
+"second": "메디앙스",
+"second_ret": 24.82
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 3.06,
+"up5": 4,
+"lead": "아가방컴퍼니",
+"lead_ret": 30.0,
+"second": "메디앙스",
+"second_ret": 24.82
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.44,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 8.35,
+"second": "티엘비",
+"second_ret": 3.93
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.3,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 10.74,
+"second": "대원미디어",
+"second_ret": 6.11
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.26,
+"up5": 3,
+"lead": "SH에너지화학",
+"lead_ret": 6.61,
+"second": "SNT에너지",
+"second_ret": 6.18
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": 2.12,
+"up5": 9,
+"lead": "성광벤드",
+"lead_ret": 11.72,
+"second": "하이록코리아",
+"second_ret": 10.67
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 9,
+"avg": 2.06,
+"up5": 1,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 14.07,
+"second": "미래에셋벤처투자",
+"second_ret": 4.52
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.96,
+"up5": 2,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 14.07,
+"second": "한국카본",
+"second_ret": 5.36
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.87,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 0.44,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": -1.73,
+"up5": 0,
+"lead": "한세예스24홀딩스",
+"lead_ret": 0.17,
+"second": "드림시큐리티",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.7,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": 0.59,
+"second": "오텍",
+"second_ret": 0.28
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.61,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 1.13,
+"second": "갤럭시아머니트리",
+"second_ret": 1.09
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.54,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "한온시스템",
+"second_ret": -0.46
+}
+],
+"leaders": [
+{
+"name": "서울옥션",
+"code": "063170",
+"ret": 16.14,
+"value": 2222,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "제로투세븐",
+"code": "159580",
+"ret": 18.47,
+"value": 843,
+"theme": "출산장려정책",
+"reason": "테마: 출산장려정책"
+},
+{
+"name": "성광벤드",
+"code": "014620",
+"ret": 11.72,
+"value": 599,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "아가방컴퍼니",
+"code": "013990",
+"ret": 30.0,
+"value": 449,
+"theme": "출산장려정책",
+"reason": "테마: 출산장려정책"
+},
+{
+"name": "일승",
+"code": "333430",
+"ret": 11.21,
+"value": 442,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

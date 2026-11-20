@@ -1,0 +1,254 @@
+{
+"date": "20241114",
+"kospi": 0.07,
+"kosdaq": -1.17,
+"adv": 844,
+"dec": 1341,
+"flat": 118,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 187789,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 6,
+"lead": "한컴",
+"lead_ret": 18.34,
+"second": "컨텍",
+"second_ret": 17.76
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "신원종합개발",
+"lead_ret": 17.46,
+"second": "일성건설",
+"second_ret": 13.12
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "한화오션",
+"lead_ret": 15.98,
+"second": "한화시스템",
+"second_ret": 10.97
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 7.3,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 15.98,
+"second": "HD현대중공업",
+"second_ret": 9.41
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.18,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 29.85,
+"second": "SBI인베스트먼트",
+"second_ret": 4.07
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.59,
+"up5": 3,
+"lead": "한신공영",
+"lead_ret": 11.28,
+"second": "금강공업",
+"second_ret": 11.24
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.77,
+"up5": 1,
+"lead": "이마트",
+"lead_ret": 5.77,
+"second": "GS리테일",
+"second_ret": 4.43
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 2.67,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 29.85,
+"second": "미래에셋증권",
+"second_ret": 10.99
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.58,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 7.4,
+"second": "DL이앤씨",
+"second_ret": 3.75
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.54,
+"up5": 10,
+"lead": "한컴",
+"lead_ret": 18.34,
+"second": "컨텍",
+"second_ret": 17.76
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 2.51,
+"up5": 5,
+"lead": "신원종합개발",
+"lead_ret": 17.46,
+"second": "일성건설",
+"second_ret": 13.12
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.34,
+"up5": 2,
+"lead": "누리플렉스",
+"lead_ret": 9.8,
+"second": "케이씨에스",
+"second_ret": 6.91
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.31,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 11.11,
+"second": "HD현대중공업",
+"second_ret": 9.41
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.08,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 6.5,
+"second": "유니온머티리얼",
+"second_ret": 4.86
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.03,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 11.11,
+"second": "두산에너빌리티",
+"second_ret": 8.19
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": -4.27,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 3.52,
+"second": "LG에너지솔루션",
+"second_ret": 2.43
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -4.17,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -0.37,
+"second": "네오티스",
+"second_ret": -0.47
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -3.77,
+"up5": 0,
+"lead": "마음AI",
+"lead_ret": 1.33,
+"second": "아이언디바이스",
+"second_ret": -0.29
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -3.64,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -0.22,
+"second": "LG화학",
+"second_ret": -0.52
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -3.57,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 3.79,
+"second": "디에스케이",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 15.98,
+"value": 7787,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 10.97,
+"value": 2982,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "한컴",
+"code": "030520",
+"ret": 18.34,
+"value": 2127,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 11.11,
+"value": 1314,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 29.85,
+"value": 1186,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+}
+],
+"backfilled": true
+}

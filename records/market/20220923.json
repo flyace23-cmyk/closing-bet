@@ -1,0 +1,246 @@
+{
+"date": "20220923",
+"kospi": -1.81,
+"kosdaq": -2.93,
+"adv": 225,
+"dec": 1782,
+"flat": 91,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 130968,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 6,
+"lead": "문배철강",
+"lead_ret": 29.96,
+"second": "부국철강",
+"second_ret": 15.14
+},
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "가온칩스",
+"second_ret": 19.96
+}
+],
+"themes": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.83,
+"up5": 2,
+"lead": "문배철강",
+"lead_ret": 29.96,
+"second": "부국철강",
+"second_ret": 15.14
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.74,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 23.35,
+"second": "하나금융지주",
+"second_ret": 2.62
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 2.6,
+"up5": 6,
+"lead": "문배철강",
+"lead_ret": 29.96,
+"second": "부국철강",
+"second_ret": 15.14
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.35,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "시스템반도체",
+"n": 42,
+"avg": 0.46,
+"up5": 7,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "가온칩스",
+"second_ret": 19.96
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.37,
+"up5": 1,
+"lead": "삼천리",
+"lead_ret": 8.32,
+"second": "서울가스",
+"second_ret": 4.49
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.26,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 1.85,
+"second": "삼성화재",
+"second_ret": 1.81
+},
+{
+"name": "온디바이스 AI",
+"n": 19,
+"avg": 0.04,
+"up5": 3,
+"lead": "가온칩스",
+"lead_ret": 19.96,
+"second": "에이디테크놀로지",
+"second_ret": 12.88
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -0.13,
+"up5": 1,
+"lead": "레이저쎌",
+"lead_ret": 20.72,
+"second": "기가레인",
+"second_ret": 3.25
+},
+{
+"name": "보안주(물리)",
+"n": 15,
+"avg": -0.13,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": -0.38,
+"up5": 2,
+"lead": "쎄니트",
+"lead_ret": 6.22,
+"second": "이구산업",
+"second_ret": 5.02
+},
+{
+"name": "자율주행차",
+"n": 50,
+"avg": -0.63,
+"up5": 5,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "MDS테크",
+"second_ret": 7.87
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -6.24,
+"up5": 0,
+"lead": "한일사료",
+"lead_ret": 4.35,
+"second": "애드바이오텍",
+"second_ret": -0.81
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -6.09,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -2.87,
+"second": "풀무원",
+"second_ret": -3.33
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -5.07,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.18,
+"second": "SK하이닉스",
+"second_ret": -2.91
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": -5.05,
+"up5": 0,
+"lead": "서진시스템",
+"lead_ret": -2.81,
+"second": "미코",
+"second_ret": -3.11
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -4.91,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 0.44,
+"second": "세중",
+"second_ret": -0.66
+}
+],
+"leaders": [
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 19.96,
+"value": 3844,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 23.35,
+"value": 3119,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 29.92,
+"value": 2315,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "문배철강",
+"code": "008420",
+"ret": 29.96,
+"value": 1294,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "레이저쎌",
+"code": "412350",
+"ret": 20.72,
+"value": 709,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230228",
+"kospi": 0.42,
+"kosdaq": 1.45,
+"adv": 1345,
+"dec": 654,
+"flat": 139,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 183643,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "미래컴퍼니",
+"lead_ret": 29.96,
+"second": "위세아이텍",
+"second_ret": 17.92
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "미래컴퍼니",
+"lead_ret": 29.96,
+"second": "한농화성",
+"second_ret": 17.77
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "미래컴퍼니",
+"lead_ret": 29.96,
+"second": "선익시스템",
+"second_ret": 10.88
+}
+],
+"themes": [
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.39,
+"up5": 7,
+"lead": "미래컴퍼니",
+"lead_ret": 29.96,
+"second": "한농화성",
+"second_ret": 17.77
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.64,
+"up5": 5,
+"lead": "스피어",
+"lead_ret": 14.13,
+"second": "다이나믹솔루션",
+"second_ret": 12.86
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.19,
+"up5": 1,
+"lead": "하나투어",
+"lead_ret": 6.79,
+"second": "모두투어",
+"second_ret": 4.83
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.09,
+"up5": 1,
+"lead": "미래컴퍼니",
+"lead_ret": 29.96,
+"second": "예스티",
+"second_ret": 2.21
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 3.08,
+"up5": 4,
+"lead": "핑거스토리",
+"lead_ret": 10.53,
+"second": "조이시티",
+"second_ret": 6.32
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.06,
+"up5": 1,
+"lead": "아이큐어",
+"lead_ret": 19.94,
+"second": "GST",
+"second_ret": 4.99
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 2.85,
+"up5": 5,
+"lead": "스피어",
+"lead_ret": 14.13,
+"second": "뷰노",
+"second_ret": 12.0
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.68,
+"up5": 2,
+"lead": "엘앤에프",
+"lead_ret": 8.94,
+"second": "소프트센",
+"second_ret": 5.26
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.67,
+"up5": 3,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 7.61,
+"second": "에스엠",
+"second_ret": 6.07
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.67,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 6.27,
+"second": "한국정보통신",
+"second_ret": 4.43
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.59,
+"up5": 5,
+"lead": "위세아이텍",
+"lead_ret": 17.92,
+"second": "갤럭시아머니트리",
+"second_ret": 8.01
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 2.54,
+"up5": 3,
+"lead": "파워로직스",
+"lead_ret": 10.49,
+"second": "코스모화학",
+"second_ret": 8.16
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.79,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -0.86,
+"second": "삼성물산",
+"second_ret": -1.17
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.56,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.11,
+"second": "HMM",
+"second_ret": -0.44
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.29,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 1.18,
+"second": "HJ중공업",
+"second_ret": -0.51
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": -1.16,
+"up5": 0,
+"lead": "대덕전자",
+"lead_ret": 1.45,
+"second": "심텍",
+"second_ret": 0.52
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.0,
+"up5": 0,
+"lead": "한국철강",
+"lead_ret": 3.11,
+"second": "세아제강",
+"second_ret": 0.22
+}
+],
+"leaders": [
+{
+"name": "KTcs",
+"code": "058850",
+"ret": 16.17,
+"value": 3012,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 20.49,
+"value": 2115,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "브리지텍",
+"code": "064480",
+"ret": 16.1,
+"value": 2061,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "선익시스템",
+"code": "171090",
+"ret": 10.88,
+"value": 1635,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "미래컴퍼니",
+"code": "049950",
+"ret": 29.96,
+"value": 1239,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20210607",
+"kospi": 0.37,
+"kosdaq": -0.17,
+"adv": 792,
+"dec": 1018,
+"flat": 201,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 283029,
+"hot": [
+{
+"name": "원자력발전",
+"n": 14,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "서전기전",
+"second_ret": 29.97
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 13.87,
+"up5": 9,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "우리기술",
+"second_ret": 29.89
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 10.83,
+"up5": 26,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "서전기전",
+"second_ret": 29.97
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 10.65,
+"up5": 7,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "두산에너빌리티",
+"second_ret": 27.49
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 8.3,
+"up5": 3,
+"lead": "두산에너빌리티",
+"lead_ret": 27.49,
+"second": "일진파워",
+"second_ret": 22.22
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 7.4,
+"up5": 11,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 29.97
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.84,
+"up5": 3,
+"lead": "두산에너빌리티",
+"lead_ret": 27.49,
+"second": "솔디펜스",
+"second_ret": 26.25
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.71,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 29.96,
+"second": "LS마린솔루션",
+"second_ret": 7.8
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 4.43,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "두산퓨얼셀",
+"second_ret": 5.27
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 4.17,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 29.2,
+"second": "에코프로비엠",
+"second_ret": 0.34
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 4.1,
+"up5": 6,
+"lead": "비에이치아이",
+"lead_ret": 30.0,
+"second": "SNT에너지",
+"second_ret": 24.54
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 19,
+"avg": 4.1,
+"up5": 3,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 29.97
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.88,
+"up5": 7,
+"lead": "우리기술",
+"lead_ret": 29.89,
+"second": "두산에너빌리티",
+"second_ret": 27.49
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -3.11,
+"up5": 0,
+"lead": "한국철강",
+"lead_ret": -0.96,
+"second": "고려제강",
+"second_ret": -2.14
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.29,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.41,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -2.08,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 1.7,
+"second": "GMI벤처",
+"second_ret": 1.12
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.95,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 0.0,
+"second": "에어부산",
+"second_ret": 0.0
+},
+{
+"name": "의료AI",
+"n": 14,
+"avg": -1.91,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 2.77,
+"second": "폴라리스오피스",
+"second_ret": 0.71
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 27.49,
+"value": 25260,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 29.96,
+"value": 10257,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 15.62,
+"value": 6044,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 29.79,
+"value": 4035,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "일진파워",
+"code": "094820",
+"ret": 22.22,
+"value": 3064,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

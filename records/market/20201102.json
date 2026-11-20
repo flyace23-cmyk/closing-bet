@@ -1,0 +1,246 @@
+{
+"date": "20201102",
+"kospi": 1.46,
+"kosdaq": 1.3,
+"adv": 1380,
+"dec": 397,
+"flat": 173,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 148145,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "서연탑메탈",
+"lead_ret": 21.54,
+"second": "디젠스",
+"second_ret": 10.57
+},
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "형지엘리트",
+"lead_ret": 29.81,
+"second": "토박스코리아",
+"second_ret": 16.82
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 5.69,
+"up5": 4,
+"lead": "케이씨에스",
+"lead_ret": 15.3,
+"second": "로지시스",
+"second_ret": 12.45
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 5.22,
+"up5": 4,
+"lead": "한솔홈데코",
+"lead_ret": 12.91,
+"second": "성창기업지주",
+"second_ret": 11.04
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 5.22,
+"up5": 4,
+"lead": "한솔홈데코",
+"lead_ret": 12.91,
+"second": "성창기업지주",
+"second_ret": 11.04
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 5.16,
+"up5": 5,
+"lead": "서연탑메탈",
+"lead_ret": 21.54,
+"second": "두산밥캣",
+"second_ret": 9.01
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 4.51,
+"up5": 2,
+"lead": "iM금융지주",
+"lead_ret": 7.77,
+"second": "하나금융지주",
+"second_ret": 6.09
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 3.63,
+"up5": 1,
+"lead": "하나금융지주",
+"lead_ret": 6.09,
+"second": "이월드",
+"second_ret": 3.68
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.47,
+"up5": 8,
+"lead": "씨에스베어링",
+"lead_ret": 7.98,
+"second": "스페코",
+"second_ret": 7.82
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.32,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 8.74,
+"second": "태광산업",
+"second_ret": 5.63
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 3.28,
+"up5": 1,
+"lead": "한화솔루션",
+"lead_ret": 6.98,
+"second": "HD현대에너지솔루션",
+"second_ret": 4.87
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.22,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 8.74,
+"second": "LX인터내셔널",
+"second_ret": 4.53
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.21,
+"up5": 1,
+"lead": "이연제약",
+"lead_ret": 9.39,
+"second": "아이진",
+"second_ret": 4.46
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 2.98,
+"up5": 1,
+"lead": "유에스티",
+"lead_ret": 7.52,
+"second": "LX인터내셔널",
+"second_ret": 4.53
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -0.73,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": 4.06,
+"second": "하이비젼시스템",
+"second_ret": 2.31
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.22,
+"up5": 0,
+"lead": "휴메딕스",
+"lead_ret": 0.93,
+"second": "휴온스글로벌",
+"second_ret": 0.72
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -0.15,
+"up5": 0,
+"lead": "메가스터디교육",
+"lead_ret": 3.32,
+"second": "메가스터디",
+"second_ret": 3.06
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.09,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 2.07,
+"second": "녹십자",
+"second_ret": 0.5
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.04,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 1.29,
+"second": "GS",
+"second_ret": 0.45
+}
+],
+"leaders": [
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 16.88,
+"value": 4733,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "오성첨단소재",
+"code": "052420",
+"ret": 19.13,
+"value": 3461,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "국영지앤엠",
+"code": "006050",
+"ret": 10.0,
+"value": 2443,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 29.57,
+"value": 2179,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "일월지엠엘",
+"code": "178780",
+"ret": 14.34,
+"value": 1469,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

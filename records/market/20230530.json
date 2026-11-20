@@ -1,0 +1,254 @@
+{
+"date": "20230530",
+"kospi": 1.04,
+"kosdaq": 0.98,
+"adv": 1216,
+"dec": 797,
+"flat": 146,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 176115,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "매커스",
+"lead_ret": 21.92,
+"second": "칩스앤미디어",
+"second_ret": 15.86
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 14.71,
+"second": "윈팩",
+"second_ret": 10.6
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "해성에어로보틱스",
+"lead_ret": 29.95,
+"second": "아진엑스텍",
+"second_ret": 10.97
+}
+],
+"themes": [
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 5.61,
+"up5": 3,
+"lead": "광전자",
+"lead_ret": 16.76,
+"second": "LG전자",
+"second_ret": 10.83
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": 5.6,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 14.71,
+"second": "네패스",
+"second_ret": 5.39
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.85,
+"up5": 4,
+"lead": "아이티센씨티에스",
+"lead_ret": 15.16,
+"second": "인성정보",
+"second_ret": 11.08
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 4.69,
+"up5": 7,
+"lead": "칩스앤미디어",
+"lead_ret": 15.86,
+"second": "오픈엣지테크놀로지",
+"second_ret": 14.71
+},
+{
+"name": "가상현실(VR)",
+"n": 21,
+"avg": 4.44,
+"up5": 7,
+"lead": "제이씨현시스템",
+"lead_ret": 29.89,
+"second": "칩스앤미디어",
+"second_ret": 15.86
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.2,
+"up5": 5,
+"lead": "제이씨현시스템",
+"lead_ret": 29.89,
+"second": "매커스",
+"second_ret": 21.92
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 4.06,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 10.83,
+"second": "LG디스플레이",
+"second_ret": 3.81
+},
+{
+"name": "시스템반도체",
+"n": 46,
+"avg": 3.97,
+"up5": 11,
+"lead": "매커스",
+"lead_ret": 21.92,
+"second": "칩스앤미디어",
+"second_ret": 15.86
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 3.52,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 14.71,
+"second": "큐알티",
+"second_ret": 5.0
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 3.47,
+"up5": 8,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 14.71,
+"second": "윈팩",
+"second_ret": 10.6
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.17,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 10.83,
+"second": "LG이노텍",
+"second_ret": 6.75
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.08,
+"up5": 2,
+"lead": "제이씨현시스템",
+"lead_ret": 29.89,
+"second": "에스넷",
+"second_ret": 5.58
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.09,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.0,
+"second": "풀무원",
+"second_ret": -0.64
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -1.55,
+"up5": 0,
+"lead": "오스코텍",
+"lead_ret": 0.41,
+"second": "레이",
+"second_ret": 0.28
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.41,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.47,
+"second": "코리안리",
+"second_ret": 0.0
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -1.34,
+"up5": 0,
+"lead": "오에스피",
+"lead_ret": 3.55,
+"second": "애드바이오텍",
+"second_ret": 1.71
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -1.32,
+"up5": 1,
+"lead": "삼화전기",
+"lead_ret": 6.03,
+"second": "한솔테크닉스",
+"second_ret": 2.27
+}
+],
+"leaders": [
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 10.83,
+"value": 4696,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "크리스탈신소재",
+"code": "900250",
+"ret": 15.63,
+"value": 2946,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 14.71,
+"value": 1240,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 15.86,
+"value": 1164,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "광전자",
+"code": "017900",
+"ret": 16.76,
+"value": 1070,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+}
+],
+"backfilled": true
+}

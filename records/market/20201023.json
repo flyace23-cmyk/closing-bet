@@ -1,0 +1,254 @@
+{
+"date": "20201023",
+"kospi": 0.24,
+"kosdaq": -0.58,
+"adv": 780,
+"dec": 985,
+"flat": 182,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 182213,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "SV인베스트먼트",
+"lead_ret": 16.33,
+"second": "파미셀",
+"second_ret": 16.15
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "서연탑메탈",
+"lead_ret": 29.89,
+"second": "나라엠앤디",
+"second_ret": 10.85
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "녹십자",
+"lead_ret": 16.96,
+"second": "삼천당제약",
+"second_ret": 8.43
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 5.54,
+"up5": 3,
+"lead": "파미셀",
+"lead_ret": 16.15,
+"second": "서울제약",
+"second_ret": 7.9
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.51,
+"up5": 3,
+"lead": "녹십자",
+"lead_ret": 16.96,
+"second": "파미셀",
+"second_ret": 16.15
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.88,
+"up5": 1,
+"lead": "녹십자",
+"lead_ret": 16.96,
+"second": "메디포스트",
+"second_ret": 2.09
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.71,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 14.68,
+"second": "한화손해보험",
+"second_ret": 3.35
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.19,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 29.91,
+"second": "TPC로보틱스",
+"second_ret": 5.75
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 2.57,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 3.83,
+"second": "신한지주",
+"second_ret": 3.81
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 2.4,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 16.96,
+"second": "삼천당제약",
+"second_ret": 8.43
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.23,
+"up5": 2,
+"lead": "태림포장",
+"lead_ret": 9.53,
+"second": "블루산업개발",
+"second_ret": 5.11
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 38,
+"avg": 1.9,
+"up5": 5,
+"lead": "휴림로봇",
+"lead_ret": 29.91,
+"second": "티로보틱스",
+"second_ret": 8.6
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 1.79,
+"up5": 1,
+"lead": "케이씨에스",
+"lead_ret": 19.23,
+"second": "로지시스",
+"second_ret": 4.51
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 1.74,
+"up5": 1,
+"lead": "제이에스링크",
+"lead_ret": 9.38,
+"second": "POSCO홀딩스",
+"second_ret": 4.76
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.73,
+"up5": 1,
+"lead": "아이티센씨티에스",
+"lead_ret": 5.21,
+"second": "오픈베이스",
+"second_ret": 3.77
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -4.36,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.31,
+"second": "한성기업",
+"second_ret": -1.18
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -4.02,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": 0.11,
+"second": "동원산업",
+"second_ret": 0.0
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -3.25,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 3.56,
+"second": "코오롱",
+"second_ret": 0.49
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -2.94,
+"up5": 0,
+"lead": "인선이엔티",
+"lead_ret": -0.75,
+"second": "한솔홀딩스",
+"second_ret": -0.99
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -2.82,
+"up5": 0,
+"lead": "메가엠디",
+"lead_ret": 4.45,
+"second": "아이비김영",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "SV인베스트먼트",
+"code": "289080",
+"ret": 16.33,
+"value": 9692,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "녹십자",
+"code": "006280",
+"ret": 16.96,
+"value": 6245,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 16.15,
+"value": 5116,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 17.41,
+"value": 1376,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "나라엠앤디",
+"code": "051490",
+"ret": 10.85,
+"value": 1310,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

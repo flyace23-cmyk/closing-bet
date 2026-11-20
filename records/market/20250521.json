@@ -1,0 +1,246 @@
+{
+"date": "20250521",
+"kospi": 0.91,
+"kosdaq": 1.13,
+"adv": 1367,
+"dec": 844,
+"flat": 147,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 134035,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한국비티비",
+"lead_ret": 26.54,
+"second": "엘앤씨바이오",
+"second_ret": 17.31
+},
+{
+"name": "조선기자재",
+"n": 3,
+"lead": "세진중공업",
+"lead_ret": 29.91,
+"second": "오리엔탈정공",
+"second_ret": 11.91
+}
+],
+"themes": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 5.14,
+"up5": 5,
+"lead": "디에스케이",
+"lead_ret": 13.64,
+"second": "휴메딕스",
+"second_ret": 12.53
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 4.49,
+"up5": 3,
+"lead": "오가노이드사이언스",
+"lead_ret": 18.89,
+"second": "일신바이오",
+"second_ret": 7.63
+},
+{
+"name": "미용기기",
+"n": 18,
+"avg": 3.99,
+"up5": 5,
+"lead": "한국비티비",
+"lead_ret": 26.54,
+"second": "휴메딕스",
+"second_ret": 12.53
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.83,
+"up5": 2,
+"lead": "서울제약",
+"lead_ret": 8.03,
+"second": "파미셀",
+"second_ret": 5.38
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.49,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 5.46,
+"second": "삼성중공업",
+"second_ret": 4.93
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.39,
+"up5": 1,
+"lead": "삼성물산",
+"lead_ret": 11.74,
+"second": "현대건설",
+"second_ret": 4.71
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.38,
+"up5": 7,
+"lead": "셀리드",
+"lead_ret": 30.0,
+"second": "진매트릭스",
+"second_ret": 9.61
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 3.37,
+"up5": 8,
+"lead": "세진중공업",
+"lead_ret": 29.91,
+"second": "오리엔탈정공",
+"second_ret": 11.91
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 3.12,
+"up5": 2,
+"lead": "부국증권",
+"lead_ret": 10.94,
+"second": "미래에셋증권",
+"second_ret": 5.36
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.98,
+"up5": 2,
+"lead": "삼성바이오로직스",
+"lead_ret": 7.11,
+"second": "파미셀",
+"second_ret": 5.38
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 2.81,
+"up5": 13,
+"lead": "셀리드",
+"lead_ret": 30.0,
+"second": "오상헬스케어",
+"second_ret": 9.68
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.77,
+"up5": 9,
+"lead": "쎄트렉아이",
+"lead_ret": 15.3,
+"second": "AP위성",
+"second_ret": 10.58
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -2.29,
+"up5": 0,
+"lead": "씨티케이",
+"lead_ret": 0.57,
+"second": "진영",
+"second_ret": 0.45
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.57,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 0.21,
+"second": "대한화섬",
+"second_ret": -0.08
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 1.24,
+"second": "코텍",
+"second_ret": 0.2
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 1.24,
+"second": "코텍",
+"second_ret": 0.2
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -1.1,
+"up5": 0,
+"lead": "진성티이씨",
+"lead_ret": 1.24,
+"second": "대창단조",
+"second_ret": 0.89
+}
+],
+"leaders": [
+{
+"name": "나우로보틱스",
+"code": "459510",
+"ret": 10.68,
+"value": 4379,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "오가노이드사이언스",
+"code": "476040",
+"ret": 18.89,
+"value": 4284,
+"theme": "오가노이드",
+"reason": "테마: 오가노이드"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 15.62,
+"value": 2467,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "삼성물산",
+"code": "028260",
+"ret": 11.74,
+"value": 2428,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "세진중공업",
+"code": "075580",
+"ret": 29.91,
+"value": 1607,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

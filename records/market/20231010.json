@@ -1,0 +1,254 @@
+{
+"date": "20231010",
+"kospi": -0.26,
+"kosdaq": -2.62,
+"adv": 481,
+"dec": 1631,
+"flat": 84,
+"limit_up": 7,
+"limit_down": 1,
+"value_total": 159099,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 10,
+"lead": "빅텍",
+"lead_ret": 29.97,
+"second": "대성하이텍",
+"second_ret": 29.87
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "퍼스텍",
+"lead_ret": 20.79,
+"second": "이랜시스",
+"second_ret": 12.27
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 4,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 29.8
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 11.12,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 29.8
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 11.12,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 29.8
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 9.6,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "극동유화",
+"second_ret": 26.1
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 8.94,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 27.39,
+"second": "대성에너지",
+"second_ret": 27.36
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 8.43,
+"up5": 3,
+"lead": "한국석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 26.1
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 7.68,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 29.8
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.24,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 22.73,
+"second": "신송홀딩스",
+"second_ret": 7.23
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 3.5,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 27.39,
+"second": "대성에너지",
+"second_ret": 27.36
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 59,
+"avg": 3.25,
+"up5": 15,
+"lead": "빅텍",
+"lead_ret": 29.97,
+"second": "대성하이텍",
+"second_ret": 29.87
+},
+{
+"name": "드론(Drone)",
+"n": 26,
+"avg": 3.05,
+"up5": 6,
+"lead": "휴니드",
+"lead_ret": 25.64,
+"second": "퍼스텍",
+"second_ret": 20.79
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.59,
+"up5": 2,
+"lead": "엘컴텍",
+"lead_ret": 17.06,
+"second": "대성산업",
+"second_ret": 10.04
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.42,
+"up5": 4,
+"lead": "미래생명자원",
+"lead_ret": 22.73,
+"second": "한일사료",
+"second_ret": 9.76
+}
+],
+"themes_worst": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": -4.07,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": 0.56,
+"second": "NAVER",
+"second_ret": 0.16
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -3.89,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 1.62,
+"second": "한신공영",
+"second_ret": -0.42
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -3.89,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": -1.76,
+"second": "신세계",
+"second_ret": -2.09
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.85,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.24,
+"second": "팬오션",
+"second_ret": -0.74
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": -3.79,
+"up5": 2,
+"lead": "드림씨아이에스",
+"lead_ret": 29.98,
+"second": "엔젠바이오",
+"second_ret": 29.82
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 12.16,
+"value": 6092,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 18.53,
+"value": 2225,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "이랜시스",
+"code": "264850",
+"ret": 12.27,
+"value": 1529,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에코심플렉스",
+"code": "038870",
+"ret": 18.93,
+"value": 860,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 29.95,
+"value": 738,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+}
+],
+"backfilled": true
+}

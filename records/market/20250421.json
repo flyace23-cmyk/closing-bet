@@ -1,0 +1,254 @@
+{
+"date": "20250421",
+"kospi": 0.2,
+"kosdaq": -0.32,
+"adv": 1067,
+"dec": 1121,
+"flat": 160,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 109010,
+"hot": [
+{
+"name": "창투사",
+"n": 5,
+"lead": "컴퍼니케이",
+"lead_ret": 30.0,
+"second": "LB인베스트먼트",
+"second_ret": 29.86
+},
+{
+"name": "퓨리오사AI",
+"n": 3,
+"lead": "엑스페릭스",
+"lead_ret": 30.0,
+"second": "팬스타엔터프라이즈",
+"second_ret": 29.96
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "삼호개발",
+"lead_ret": 29.93,
+"second": "계룡건설",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 13.08,
+"up5": 7,
+"lead": "엑스페릭스",
+"lead_ret": 30.0,
+"second": "팬스타엔터프라이즈",
+"second_ret": 29.96
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 9.09,
+"up5": 11,
+"lead": "컴퍼니케이",
+"lead_ret": 30.0,
+"second": "LB인베스트먼트",
+"second_ret": 29.86
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 5.38,
+"up5": 3,
+"lead": "유라클",
+"lead_ret": 13.35,
+"second": "쿠콘",
+"second_ret": 6.09
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.56,
+"up5": 3,
+"lead": "에이직랜드",
+"lead_ret": 17.6,
+"second": "자람테크놀로지",
+"second_ret": 7.94
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 4.38,
+"up5": 4,
+"lead": "아이티아이즈",
+"lead_ret": 29.97,
+"second": "아이지넷",
+"second_ret": 8.12
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 4.36,
+"up5": 4,
+"lead": "대한과학",
+"lead_ret": 26.08,
+"second": "아이텍",
+"second_ret": 12.97
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.1,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 19.88,
+"second": "파미셀",
+"second_ret": 3.71
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.76,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 9.59,
+"second": "SBI인베스트먼트",
+"second_ret": 5.67
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.63,
+"up5": 2,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 29.96,
+"second": "소프트센",
+"second_ret": 15.76
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.59,
+"up5": 3,
+"lead": "성신양회",
+"lead_ret": 29.91,
+"second": "모헨즈",
+"second_ret": 11.25
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 2.61,
+"up5": 2,
+"lead": "미래에셋벤처투자",
+"lead_ret": 13.35,
+"second": "아주IB투자",
+"second_ret": 9.59
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.56,
+"up5": 3,
+"lead": "아이티아이즈",
+"lead_ret": 29.97,
+"second": "유라클",
+"second_ret": 13.35
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -4.13,
+"up5": 0,
+"lead": "비엠티",
+"lead_ret": 0.0,
+"second": "화성밸브",
+"second_ret": -0.67
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.67,
+"up5": 0,
+"lead": "특수건설",
+"lead_ret": 3.02,
+"second": "동아지질",
+"second_ret": 1.88
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.32,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -0.64,
+"second": "HD한국조선해양",
+"second_ret": -1.77
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.14,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -0.15,
+"second": "삼성SDI",
+"second_ret": -1.22
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": -1.21,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 0.72,
+"second": "지투파워",
+"second_ret": 0.52
+}
+],
+"leaders": [
+{
+"name": "대한제당",
+"code": "001790",
+"ret": 12.61,
+"value": 2398,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 28.99,
+"value": 2392,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "토마토시스템",
+"code": "393210",
+"ret": 12.83,
+"value": 2255,
+"theme": "퓨리오사AI",
+"reason": "테마: 퓨리오사AI"
+},
+{
+"name": "신신제약",
+"code": "002800",
+"ret": 25.67,
+"value": 1576,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 17.26,
+"value": 999,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20220411",
+"kospi": -0.27,
+"kosdaq": -1.38,
+"adv": 721,
+"dec": 1166,
+"flat": 190,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 140213,
+"hot": [
+{
+"name": "농업",
+"n": 3,
+"lead": "남해화학",
+"lead_ret": 13.48,
+"second": "KG케미칼",
+"second_ret": 12.77
+}
+],
+"themes": [
+{
+"name": "비료",
+"n": 10,
+"avg": 5.82,
+"up5": 4,
+"lead": "남해화학",
+"lead_ret": 13.48,
+"second": "KG케미칼",
+"second_ret": 12.77
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.82,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 16.22,
+"second": "샘표",
+"second_ret": 6.45
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 4.68,
+"up5": 3,
+"lead": "남해화학",
+"lead_ret": 13.48,
+"second": "동방아그로",
+"second_ret": 12.93
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.3,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 29.98,
+"second": "LX인터내셔널",
+"second_ret": 3.51
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 4.03,
+"up5": 2,
+"lead": "GS글로벌",
+"lead_ret": 29.98,
+"second": "비엘팜텍",
+"second_ret": 9.25
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 3.65,
+"up5": 5,
+"lead": "남해화학",
+"lead_ret": 13.48,
+"second": "동방아그로",
+"second_ret": 12.93
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.89,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 16.22,
+"second": "사조동아원",
+"second_ret": 9.89
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 2.32,
+"up5": 3,
+"lead": "남해화학",
+"lead_ret": 13.48,
+"second": "파세코",
+"second_ret": 6.01
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.28,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 3.74,
+"second": "사조대림",
+"second_ret": 3.53
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.22,
+"up5": 1,
+"lead": "남해화학",
+"lead_ret": 13.48,
+"second": "S-Oil",
+"second_ret": 4.55
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.21,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 9.62,
+"second": "스맥",
+"second_ret": 5.1
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.0,
+"up5": 1,
+"lead": "세아제강",
+"lead_ret": 6.25,
+"second": "대한제강",
+"second_ret": 3.66
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": -2.84,
+"up5": 0,
+"lead": "종근당",
+"lead_ret": 1.47,
+"second": "진시스템",
+"second_ret": 0.9
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.64,
+"up5": 0,
+"lead": "인성정보",
+"lead_ret": -0.19,
+"second": "오파스넷",
+"second_ret": -0.49
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.62,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "광동제약",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": -2.53,
+"up5": 0,
+"lead": "종근당",
+"lead_ret": 1.47,
+"second": "진시스템",
+"second_ret": 0.9
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -2.34,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 0.4,
+"second": "케이바이오랩스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "KG케미칼",
+"code": "001390",
+"ret": 12.77,
+"value": 3590,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 29.98,
+"value": 2988,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "케이피에프",
+"code": "024880",
+"ret": 18.37,
+"value": 2074,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "남해화학",
+"code": "025860",
+"ret": 13.48,
+"value": 1383,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 16.22,
+"value": 1187,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

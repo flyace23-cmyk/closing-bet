@@ -1,0 +1,254 @@
+{
+"date": "20200416",
+"kospi": -0.0,
+"kosdaq": 2.15,
+"adv": 1201,
+"dec": 580,
+"flat": 129,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 237598,
+"hot": [
+{
+"name": "철도",
+"n": 7,
+"lead": "대아티아이",
+"lead_ret": 26.75,
+"second": "부산산업",
+"second_ret": 25.1
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "아난티",
+"lead_ret": 29.72,
+"second": "일신석재",
+"second_ret": 27.74
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "푸른로보틱스",
+"lead_ret": 20.94,
+"second": "서암기계공업",
+"second_ret": 17.15
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 7.06,
+"up5": 5,
+"lead": "부산산업",
+"lead_ret": 25.1,
+"second": "특수건설",
+"second_ret": 11.02
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 6.64,
+"up5": 15,
+"lead": "아난티",
+"lead_ret": 29.72,
+"second": "일신석재",
+"second_ret": 27.74
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 6.6,
+"up5": 20,
+"lead": "대아티아이",
+"lead_ret": 26.75,
+"second": "부산산업",
+"second_ret": 25.1
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 6.44,
+"up5": 7,
+"lead": "부산산업",
+"lead_ret": 25.1,
+"second": "강동씨앤엘",
+"second_ret": 13.2
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 5.76,
+"up5": 4,
+"lead": "SFA넥셀",
+"lead_ret": 16.06,
+"second": "파워넷",
+"second_ret": 15.61
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 5.75,
+"up5": 7,
+"lead": "일신석재",
+"lead_ret": 27.74,
+"second": "모나용평",
+"second_ret": 17.04
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 5.66,
+"up5": 2,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 11.91,
+"second": "DSC인베스트먼트",
+"second_ret": 7.46
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 5.43,
+"up5": 3,
+"lead": "뉴보텍",
+"lead_ret": 29.8,
+"second": "경농",
+"second_ret": 8.79
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 5.06,
+"up5": 4,
+"lead": "아난티",
+"lead_ret": 29.72,
+"second": "모나용평",
+"second_ret": 17.04
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 5.03,
+"up5": 10,
+"lead": "대아티아이",
+"lead_ret": 26.75,
+"second": "도화엔지니어링",
+"second_ret": 13.77
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 4.98,
+"up5": 4,
+"lead": "KG이니시스",
+"lead_ret": 9.25,
+"second": "NHN KCP",
+"second_ret": 9.14
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.91,
+"up5": 2,
+"lead": "가비아",
+"lead_ret": 30.0,
+"second": "이루온",
+"second_ret": 6.25
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -3.21,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 0.76,
+"second": "광동제약",
+"second_ret": 0.17
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -2.81,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 1.75,
+"second": "한화투자증권",
+"second_ret": -1.92
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -2.45,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.0,
+"second": "우리금융지주",
+"second_ret": -0.74
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.22,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": -0.91,
+"second": "대한약품",
+"second_ret": -1.03
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -1.77,
+"up5": 0,
+"lead": "아이진",
+"lead_ret": 1.9,
+"second": "일양약품",
+"second_ret": 1.57
+}
+],
+"leaders": [
+{
+"name": "아난티",
+"code": "025980",
+"ret": 29.72,
+"value": 8578,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "대아티아이",
+"code": "045390",
+"ret": 26.75,
+"value": 1951,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 27.74,
+"value": 1194,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "가비아",
+"code": "079940",
+"ret": 30.0,
+"value": 1159,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 16.06,
+"value": 1053,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

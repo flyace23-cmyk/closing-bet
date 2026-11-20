@@ -1,0 +1,254 @@
+{
+"date": "20250717",
+"kospi": 0.19,
+"kosdaq": 0.74,
+"adv": 1108,
+"dec": 1085,
+"flat": 175,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 208764,
+"hot": [
+{
+"name": "제약업체",
+"n": 8,
+"lead": "국전",
+"lead_ret": 30.0,
+"second": "그린생명과학",
+"second_ret": 28.57
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "국전",
+"lead_ret": 30.0,
+"second": "펩트론",
+"second_ret": 19.62
+},
+{
+"name": "유전자 치료제/분석",
+"n": 3,
+"lead": "제넥신",
+"lead_ret": 29.98,
+"second": "CJ 바이오사이언스",
+"second_ret": 14.14
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.71,
+"up5": 2,
+"lead": "국전",
+"lead_ret": 30.0,
+"second": "인트론바이오",
+"second_ret": 8.96
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 5.3,
+"up5": 11,
+"lead": "제넥신",
+"lead_ret": 29.98,
+"second": "유한양행",
+"second_ret": 20.5
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 4.89,
+"up5": 1,
+"lead": "유한양행",
+"lead_ret": 20.5,
+"second": "서울제약",
+"second_ret": 3.15
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 4.71,
+"up5": 6,
+"lead": "국전",
+"lead_ret": 30.0,
+"second": "펩트론",
+"second_ret": 19.62
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 4.67,
+"up5": 11,
+"lead": "국전",
+"lead_ret": 30.0,
+"second": "현대약품",
+"second_ret": 25.36
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 4.49,
+"up5": 10,
+"lead": "제넥신",
+"lead_ret": 29.98,
+"second": "유한양행",
+"second_ret": 20.5
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.97,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 9.26,
+"second": "지씨셀",
+"second_ret": 5.67
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.83,
+"up5": 6,
+"lead": "한올바이오파마",
+"lead_ret": 13.47,
+"second": "녹십자",
+"second_ret": 9.26
+},
+{
+"name": "제약업체",
+"n": 86,
+"avg": 3.73,
+"up5": 13,
+"lead": "국전",
+"lead_ret": 30.0,
+"second": "그린생명과학",
+"second_ret": 28.57
+},
+{
+"name": "탈모 치료",
+"n": 26,
+"avg": 3.48,
+"up5": 4,
+"lead": "현대약품",
+"lead_ret": 25.36,
+"second": "인벤티지랩",
+"second_ret": 10.37
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.42,
+"up5": 2,
+"lead": "인벤티지랩",
+"lead_ret": 10.37,
+"second": "녹십자",
+"second_ret": 9.26
+},
+{
+"name": "유전자 치료제/분석",
+"n": 38,
+"avg": 3.41,
+"up5": 7,
+"lead": "제넥신",
+"lead_ret": 29.98,
+"second": "CJ 바이오사이언스",
+"second_ret": 14.14
+}
+],
+"themes_worst": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -3.2,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": -1.33,
+"second": "휴비스",
+"second_ret": -1.38
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -3.17,
+"up5": 0,
+"lead": "NHN KCP",
+"lead_ret": 1.76,
+"second": "아이티센피엔에스",
+"second_ret": 0.99
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.9,
+"up5": 0,
+"lead": "NHN KCP",
+"lead_ret": 1.76,
+"second": "쿠콘",
+"second_ret": 0.83
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.81,
+"up5": 0,
+"lead": "케이씨에스",
+"lead_ret": 0.96,
+"second": "풍산",
+"second_ret": 0.61
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.79,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 3.09,
+"second": "삼성생명",
+"second_ret": 2.34
+}
+],
+"leaders": [
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 20.5,
+"value": 7032,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 19.62,
+"value": 2510,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 15.86,
+"value": 1437,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 25.36,
+"value": 1347,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 30.0,
+"value": 885,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

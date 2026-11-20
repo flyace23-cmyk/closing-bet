@@ -1,0 +1,254 @@
+{
+"date": "20240417",
+"kospi": -0.98,
+"kosdaq": 0.03,
+"adv": 1094,
+"dec": 990,
+"flat": 166,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 169638,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "디아이티",
+"lead_ret": 29.79,
+"second": "유니셈",
+"second_ret": 22.38
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "오가닉티코스메틱",
+"lead_ret": 28.92,
+"second": "제이투케이바이오",
+"second_ret": 21.3
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 3,
+"lead": "디아이티",
+"lead_ret": 29.79,
+"second": "와이씨",
+"second_ret": 17.61
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.02,
+"up5": 3,
+"lead": "오가닉티코스메틱",
+"lead_ret": 28.92,
+"second": "딥커머스",
+"second_ret": 15.38
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.35,
+"up5": 2,
+"lead": "한국첨단소재",
+"lead_ret": 30.03,
+"second": "빛과전자",
+"second_ret": 18.76
+},
+{
+"name": "광고",
+"n": 22,
+"avg": 2.81,
+"up5": 4,
+"lead": "모비데이즈",
+"lead_ret": 30.0,
+"second": "플레이디",
+"second_ret": 11.99
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 2.75,
+"up5": 2,
+"lead": "디아이티",
+"lead_ret": 29.79,
+"second": "에스티아이",
+"second_ret": 5.99
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 2.51,
+"up5": 2,
+"lead": "유니셈",
+"lead_ret": 22.38,
+"second": "GST",
+"second_ret": 10.38
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.51,
+"up5": 5,
+"lead": "디아이티",
+"lead_ret": 29.79,
+"second": "와이씨",
+"second_ret": 17.61
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 2.41,
+"up5": 11,
+"lead": "디아이티",
+"lead_ret": 29.79,
+"second": "유니셈",
+"second_ret": 22.38
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.29,
+"up5": 3,
+"lead": "와이씨켐",
+"lead_ret": 14.05,
+"second": "HB테크놀러지",
+"second_ret": 8.33
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.28,
+"up5": 3,
+"lead": "서남",
+"lead_ret": 7.86,
+"second": "LS ELECTRIC",
+"second_ret": 7.59
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.1,
+"up5": 3,
+"lead": "에스바이오메딕스",
+"lead_ret": 11.94,
+"second": "코아스템켐온",
+"second_ret": 11.93
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.02,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.06,
+"second": "GKL",
+"second_ret": 3.74
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.02,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.06,
+"second": "GKL",
+"second_ret": 3.74
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.61,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 4.77,
+"second": "한성기업",
+"second_ret": 0.31
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.44,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.96,
+"second": "리드코프",
+"second_ret": 0.58
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.43,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 1.32,
+"second": "SK이노베이션",
+"second_ret": 0.96
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.43,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 1.32,
+"second": "SK이노베이션",
+"second_ret": 0.96
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -2.39,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.96,
+"second": "한국쉘석유",
+"second_ret": 0.76
+}
+],
+"leaders": [
+{
+"name": "유니셈",
+"code": "036200",
+"ret": 22.38,
+"value": 3373,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "와이씨켐",
+"code": "112290",
+"ret": 14.05,
+"value": 1615,
+"theme": "HBM(고대역폭메모리)",
+"reason": "테마: HBM(고대역폭메모리)"
+},
+{
+"name": "아이엠비디엑스",
+"code": "461030",
+"ret": 29.77,
+"value": 1276,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "디아이티",
+"code": "110990",
+"ret": 29.79,
+"value": 1111,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "씨엔알리서치",
+"code": "359090",
+"ret": 20.91,
+"value": 918,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

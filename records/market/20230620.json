@@ -1,0 +1,254 @@
+{
+"date": "20230620",
+"kospi": -0.18,
+"kosdaq": -0.25,
+"adv": 784,
+"dec": 1253,
+"flat": 130,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 189403,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "티에프이",
+"lead_ret": 29.93,
+"second": "서진시스템",
+"second_ret": 11.05
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "루닛",
+"lead_ret": 29.92,
+"second": "한스바이오메드",
+"second_ret": 17.77
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "서진시스템",
+"lead_ret": 11.05,
+"second": "금호에이치티",
+"second_ret": 10.35
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 9.96,
+"up5": 3,
+"lead": "흥아해운",
+"lead_ret": 29.98,
+"second": "대한해운",
+"second_ret": 10.12
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.93,
+"up5": 3,
+"lead": "엔피케이",
+"lead_ret": 15.59,
+"second": "스페코",
+"second_ret": 13.59
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": 4.42,
+"up5": 7,
+"lead": "루닛",
+"lead_ret": 29.92,
+"second": "뷰노",
+"second_ret": 17.48
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.18,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 12.02,
+"second": "HD현대중공업",
+"second_ret": 3.9
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.04,
+"up5": 5,
+"lead": "소프트센",
+"lead_ret": 13.22,
+"second": "인성정보",
+"second_ret": 12.26
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.52,
+"up5": 5,
+"lead": "아이티센피엔에스",
+"lead_ret": 14.85,
+"second": "엑스페릭스",
+"second_ret": 8.25
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.37,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 29.93,
+"second": "엠케이전자",
+"second_ret": 1.24
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 2.33,
+"up5": 1,
+"lead": "쇼박스",
+"lead_ret": 11.95,
+"second": "졸스",
+"second_ret": 3.19
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.27,
+"up5": 3,
+"lead": "메타바이오메드",
+"lead_ret": 6.96,
+"second": "디오",
+"second_ret": 6.91
+},
+{
+"name": "의료기기",
+"n": 70,
+"avg": 2.09,
+"up5": 13,
+"lead": "루닛",
+"lead_ret": 29.92,
+"second": "한스바이오메드",
+"second_ret": 17.77
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.72,
+"up5": 2,
+"lead": "금호석유화학",
+"lead_ret": 9.24,
+"second": "효성티앤씨",
+"second_ret": 7.36
+},
+{
+"name": "영상콘텐츠",
+"n": 26,
+"avg": 1.7,
+"up5": 1,
+"lead": "쇼박스",
+"lead_ret": 11.95,
+"second": "팬엔터테인먼트",
+"second_ret": 4.51
+}
+],
+"themes_worst": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": -3.45,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": -0.98,
+"second": "태경산업",
+"second_ret": -1.05
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -3.45,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": -0.98,
+"second": "태경산업",
+"second_ret": -1.05
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.2,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 0.0,
+"second": "미래산업",
+"second_ret": -0.26
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -2.19,
+"up5": 0,
+"lead": "오에스피",
+"lead_ret": -0.59,
+"second": "미래생명자원",
+"second_ret": -0.76
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": -2.14,
+"up5": 0,
+"lead": "제이에스링크",
+"lead_ret": 3.27,
+"second": "엔젯",
+"second_ret": 1.25
+}
+],
+"leaders": [
+{
+"name": "루닛",
+"code": "328130",
+"ret": 29.92,
+"value": 3805,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "동국홀딩스",
+"code": "001230",
+"ret": 11.13,
+"value": 3335,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 12.02,
+"value": 2407,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 12.26,
+"value": 1845,
+"theme": "NI(네트워크통합)",
+"reason": "테마: NI(네트워크통합)"
+},
+{
+"name": "마녀공장",
+"code": "439090",
+"ret": 10.35,
+"value": 1768,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

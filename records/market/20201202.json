@@ -1,0 +1,254 @@
+{
+"date": "20201202",
+"kospi": 1.58,
+"kosdaq": 0.9,
+"adv": 1036,
+"dec": 737,
+"flat": 185,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 284283,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 23.26,
+"second": "지엘팜텍",
+"second_ret": 21.43
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "비트플래닛",
+"lead_ret": 29.98,
+"second": "SGA솔루션즈",
+"second_ret": 29.41
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "서연이화",
+"lead_ret": 29.88,
+"second": "캐스텍코리아",
+"second_ret": 17.1
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 4.32,
+"up5": 3,
+"lead": "모두투어",
+"lead_ret": 11.22,
+"second": "하나투어",
+"second_ret": 8.93
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 20,
+"avg": 3.77,
+"up5": 3,
+"lead": "이미지스",
+"lead_ret": 30.1,
+"second": "키네마스터",
+"second_ret": 29.7
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.74,
+"up5": 1,
+"lead": "천일고속",
+"lead_ret": 14.11,
+"second": "대성산업",
+"second_ret": 2.34
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.42,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 7.65,
+"second": "서울제약",
+"second_ret": 7.11
+},
+{
+"name": "전력반도체",
+"n": 13,
+"avg": 3.31,
+"up5": 3,
+"lead": "KEC",
+"lead_ret": 15.41,
+"second": "SK하이닉스",
+"second_ret": 8.46
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 3.22,
+"up5": 4,
+"lead": "비트플래닛",
+"lead_ret": 29.98,
+"second": "SGA솔루션즈",
+"second_ret": 29.41
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.2,
+"up5": 1,
+"lead": "한화손해보험",
+"lead_ret": 9.79,
+"second": "흥국화재",
+"second_ret": 3.98
+},
+{
+"name": "핀테크(FinTech)",
+"n": 30,
+"avg": 3.07,
+"up5": 5,
+"lead": "SGA솔루션즈",
+"lead_ret": 29.41,
+"second": "한국정보인증",
+"second_ret": 12.2
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.07,
+"up5": 2,
+"lead": "한국정보통신",
+"lead_ret": 6.11,
+"second": "현대백화점",
+"second_ret": 5.47
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 23,
+"avg": 3.06,
+"up5": 4,
+"lead": "국전",
+"lead_ret": 12.99,
+"second": "SK하이닉스",
+"second_ret": 8.46
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.04,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 5.69,
+"second": "NICE인프라",
+"second_ret": 5.25
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.99,
+"up5": 1,
+"lead": "GKL",
+"lead_ret": 5.33,
+"second": "파라다이스",
+"second_ret": 3.82
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 11,
+"avg": -2.22,
+"up5": 0,
+"lead": "폴라리스오피스",
+"lead_ret": 1.04,
+"second": "드림씨아이에스",
+"second_ret": 0.0
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -1.9,
+"up5": 0,
+"lead": "한솔제지",
+"lead_ret": -0.36,
+"second": "해성산업",
+"second_ret": -0.42
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": -1.29,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 0.93,
+"second": "KCTC",
+"second_ret": 0.76
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.12,
+"up5": 0,
+"lead": "대영포장",
+"lead_ret": 1.67,
+"second": "신대양제지",
+"second_ret": 0.93
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -1.09,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 0.29,
+"second": "시공테크",
+"second_ret": 0.1
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 23.26,
+"value": 18575,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "KEC",
+"code": "092220",
+"ret": 15.41,
+"value": 7091,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 29.97,
+"value": 3623,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "한국정보인증",
+"code": "053300",
+"ret": 12.2,
+"value": 3489,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 11.78,
+"value": 1371,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

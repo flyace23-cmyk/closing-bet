@@ -1,0 +1,254 @@
+{
+"date": "20231005",
+"kospi": -0.09,
+"kosdaq": -0.79,
+"adv": 664,
+"dec": 1414,
+"flat": 116,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 137198,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "TCC스틸",
+"lead_ret": 15.77,
+"second": "나인테크",
+"second_ret": 14.68
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 3,
+"lead": "솔트웨어",
+"lead_ret": 30.0,
+"second": "폴라리스오피스",
+"second_ret": 29.91
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "폴라리스세원",
+"lead_ret": 30.0,
+"second": "DH오토리드",
+"second_ret": 9.21
+}
+],
+"themes": [
+{
+"name": "리비안(RIVIAN)",
+"n": 20,
+"avg": 2.65,
+"up5": 3,
+"lead": "폴라리스세원",
+"lead_ret": 30.0,
+"second": "TCC스틸",
+"second_ret": 15.77
+},
+{
+"name": "창투사",
+"n": 17,
+"avg": 1.98,
+"up5": 1,
+"lead": "SV인베스트먼트",
+"lead_ret": 29.87,
+"second": "대성창투",
+"second_ret": 2.62
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.84,
+"up5": 1,
+"lead": "BGF리테일",
+"lead_ret": 7.36,
+"second": "이마트",
+"second_ret": 1.6
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.7,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 29.91,
+"second": "알서포트",
+"second_ret": 21.55
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 1.36,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 14.68,
+"second": "더블유씨피",
+"second_ret": 4.42
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.28,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 5.66,
+"second": "삼성바이오로직스",
+"second_ret": 4.63
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.17,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 2.68,
+"second": "한울앤제주",
+"second_ret": 1.99
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.15,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 4.42,
+"second": "롯데손해보험",
+"second_ret": 2.4
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.04,
+"up5": 0,
+"lead": "제이오",
+"lead_ret": 3.95,
+"second": "LG화학",
+"second_ret": 3.29
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 0.97,
+"up5": 4,
+"lead": "솔트웨어",
+"lead_ret": 30.0,
+"second": "폴라리스오피스",
+"second_ret": 29.91
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 0.81,
+"up5": 1,
+"lead": "알서포트",
+"lead_ret": 21.55,
+"second": "한국금융지주",
+"second_ret": 1.35
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.77,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 4.16,
+"second": "SK스퀘어",
+"second_ret": 3.26
+}
+],
+"themes_worst": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 61,
+"avg": -4.38,
+"up5": 1,
+"lead": "신성델타테크",
+"lead_ret": 8.6,
+"second": "코윈로보틱스",
+"second_ret": 0.91
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.04,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": -0.64,
+"second": "대한해운",
+"second_ret": -1.37
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -3.0,
+"up5": 0,
+"lead": "엔비티",
+"lead_ret": -0.18,
+"second": "대원미디어",
+"second_ret": -0.62
+},
+{
+"name": "농업",
+"n": 23,
+"avg": -2.99,
+"up5": 0,
+"lead": "아세아텍",
+"lead_ret": 2.33,
+"second": "경농",
+"second_ret": 0.0
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": -2.93,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 14.68,
+"second": "유비쿼스",
+"second_ret": 2.4
+}
+],
+"leaders": [
+{
+"name": "한싹",
+"code": "430690",
+"ret": 23.02,
+"value": 2622,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "TCC스틸",
+"code": "002710",
+"ret": 15.77,
+"value": 1353,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "솔트웨어",
+"code": "328380",
+"ret": 30.0,
+"value": 996,
+"theme": "클라우드 컴퓨팅",
+"reason": "테마: 클라우드 컴퓨팅"
+},
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 21.55,
+"value": 708,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "부국철강",
+"code": "026940",
+"ret": 10.89,
+"value": 595,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

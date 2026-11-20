@@ -1,0 +1,254 @@
+{
+"date": "20240716",
+"kospi": 0.18,
+"kosdaq": -1.56,
+"adv": 746,
+"dec": 1360,
+"flat": 162,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 192756,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 5,
+"lead": "에스와이스틸텍",
+"lead_ret": 27.64,
+"second": "오늘이엔엠",
+"second_ret": 19.15
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "신신제약",
+"lead_ret": 29.91,
+"second": "아이큐어",
+"second_ret": 17.51
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "HD건설기계",
+"lead_ret": 11.07,
+"second": "현대엘리베이터",
+"second_ret": 9.1
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 4.5,
+"up5": 3,
+"lead": "성광벤드",
+"lead_ret": 15.21,
+"second": "한선엔지니어링",
+"second_ret": 9.23
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 3.25,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 25.44,
+"second": "갤럭시아에스엠",
+"second_ret": 23.15
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": 2.88,
+"up5": 5,
+"lead": "에스와이스틸텍",
+"lead_ret": 27.64,
+"second": "오늘이엔엠",
+"second_ret": 19.15
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.84,
+"up5": 1,
+"lead": "HD한국조선해양",
+"lead_ret": 5.63,
+"second": "HD현대중공업",
+"second_ret": 4.69
+},
+{
+"name": "조선기자재",
+"n": 34,
+"avg": 2.45,
+"up5": 7,
+"lead": "성광벤드",
+"lead_ret": 15.21,
+"second": "HD현대마린엔진",
+"second_ret": 9.27
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.3,
+"up5": 1,
+"lead": "한국주강",
+"lead_ret": 26.53,
+"second": "서암기계공업",
+"second_ret": 3.37
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.29,
+"up5": 5,
+"lead": "라파스",
+"lead_ret": 29.96,
+"second": "신신제약",
+"second_ret": 29.91
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 2.2,
+"up5": 1,
+"lead": "케이엔에스",
+"lead_ret": 29.91,
+"second": "디아이티",
+"second_ret": 3.64
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 2.19,
+"up5": 2,
+"lead": "HD건설기계",
+"lead_ret": 11.07,
+"second": "대창단조",
+"second_ret": 6.13
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.1,
+"up5": 1,
+"lead": "삼성전기",
+"lead_ret": 7.23,
+"second": "삼성물산",
+"second_ret": 2.91
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.02,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 25.44,
+"second": "갤럭시아에스엠",
+"second_ret": 23.15
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.84,
+"up5": 1,
+"lead": "우양피앤엘",
+"lead_ret": 9.08,
+"second": "HD현대",
+"second_ret": 4.99
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -6.32,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -2.01,
+"second": "우양",
+"second_ret": -2.14
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.47,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 0.68,
+"second": "세방전지",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.36,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": -0.18,
+"second": "애경케미칼",
+"second_ret": -1.61
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -3.02,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 3.83,
+"second": "대창솔루션",
+"second_ret": 2.99
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": -2.65,
+"up5": 1,
+"lead": "디케이티",
+"lead_ret": 9.3,
+"second": "SK이노베이션",
+"second_ret": 4.91
+}
+],
+"leaders": [
+{
+"name": "대원제약",
+"code": "003220",
+"ret": 14.75,
+"value": 2110,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "에스와이스틸텍",
+"code": "365330",
+"ret": 27.64,
+"value": 1958,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 25.44,
+"value": 1608,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "HD건설기계",
+"code": "267270",
+"ret": 11.07,
+"value": 1057,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "아이엠비디엑스",
+"code": "461030",
+"ret": 18.92,
+"value": 850,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+}
+],
+"backfilled": true
+}

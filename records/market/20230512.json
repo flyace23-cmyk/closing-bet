@@ -1,0 +1,254 @@
+{
+"date": "20230512",
+"kospi": -0.63,
+"kosdaq": -0.26,
+"adv": 592,
+"dec": 1444,
+"flat": 116,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 158706,
+"hot": [
+{
+"name": "자동차부품",
+"n": 8,
+"lead": "디젠스",
+"lead_ret": 18.44,
+"second": "캐스텍코리아",
+"second_ret": 18.1
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 4,
+"lead": "대성미생물",
+"lead_ret": 29.95,
+"second": "이글벳",
+"second_ret": 22.74
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "스모트로닉",
+"lead_ret": 11.5,
+"second": "명신산업",
+"second_ret": 10.4
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.05,
+"up5": 2,
+"lead": "크리스탈신소재",
+"lead_ret": 29.98,
+"second": "오가닉티코스메틱",
+"second_ret": 7.08
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 3.18,
+"up5": 6,
+"lead": "대성미생물",
+"lead_ret": 29.95,
+"second": "이글벳",
+"second_ret": 22.74
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.95,
+"up5": 4,
+"lead": "대성미생물",
+"lead_ret": 29.95,
+"second": "동원산업",
+"second_ret": 7.59
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.41,
+"up5": 2,
+"lead": "크리스탈신소재",
+"lead_ret": 29.98,
+"second": "오리엔트정공",
+"second_ret": 9.56
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.26,
+"up5": 1,
+"lead": "동원산업",
+"lead_ret": 7.59,
+"second": "한성기업",
+"second_ret": 4.39
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 39,
+"avg": 1.75,
+"up5": 5,
+"lead": "대성미생물",
+"lead_ret": 29.95,
+"second": "이글벳",
+"second_ret": 22.74
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.75,
+"up5": 1,
+"lead": "마니커에프앤지",
+"lead_ret": 13.07,
+"second": "마니커",
+"second_ret": 3.34
+},
+{
+"name": "자동차부품",
+"n": 136,
+"avg": 1.6,
+"up5": 17,
+"lead": "디젠스",
+"lead_ret": 18.44,
+"second": "캐스텍코리아",
+"second_ret": 18.1
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.43,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 16.17,
+"second": "아바텍",
+"second_ret": 3.14
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.41,
+"up5": 1,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 17.09,
+"second": "판타지오",
+"second_ret": 2.93
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.32,
+"up5": 1,
+"lead": "동원산업",
+"lead_ret": 7.59,
+"second": "동양고속",
+"second_ret": 1.48
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.22,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 4.39,
+"second": "CJ씨푸드",
+"second_ret": 3.02
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.93,
+"up5": 0,
+"lead": "대림제지",
+"lead_ret": -0.11,
+"second": "한솔홀딩스",
+"second_ret": -0.48
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.65,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.94,
+"second": "샘표식품",
+"second_ret": -1.53
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -3.58,
+"up5": 0,
+"lead": "미래나노텍",
+"lead_ret": 0.46,
+"second": "상신전자",
+"second_ret": 0.0
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -3.58,
+"up5": 0,
+"lead": "미래나노텍",
+"lead_ret": 0.46,
+"second": "상신전자",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -3.12,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": -1.03,
+"second": "롯데손해보험",
+"second_ret": -1.15
+}
+],
+"leaders": [
+{
+"name": "와이지엔터테인먼트",
+"code": "122870",
+"ret": 17.09,
+"value": 3494,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 17.43,
+"value": 3162,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 16.86,
+"value": 2759,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "슈어소프트테크",
+"code": "298830",
+"ret": 20.9,
+"value": 2606,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "라온텍",
+"code": "418420",
+"ret": 12.1,
+"value": 1822,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+}
+],
+"backfilled": true
+}

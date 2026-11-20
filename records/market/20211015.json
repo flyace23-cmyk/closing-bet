@@ -1,0 +1,254 @@
+{
+"date": "20211015",
+"kospi": 0.88,
+"kosdaq": 0.72,
+"adv": 1444,
+"dec": 432,
+"flat": 164,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 232380,
+"hot": [
+{
+"name": "원자력발전",
+"n": 6,
+"lead": "일진파워",
+"lead_ret": 27.59,
+"second": "서전기전",
+"second_ret": 15.91
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "아진전자부품",
+"lead_ret": 29.82,
+"second": "경창산업",
+"second_ret": 10.87
+},
+{
+"name": "종합 물류",
+"n": 3,
+"lead": "동방",
+"lead_ret": 18.02,
+"second": "유성티엔에스",
+"second_ret": 11.37
+}
+],
+"themes": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 5.06,
+"up5": 4,
+"lead": "우리기술투자",
+"lead_ret": 22.75,
+"second": "에이티넘인베스트",
+"second_ret": 11.27
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.98,
+"up5": 4,
+"lead": "티비씨",
+"lead_ret": 29.87,
+"second": "iMBC",
+"second_ret": 7.3
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.95,
+"up5": 1,
+"lead": "일진파워",
+"lead_ret": 27.59,
+"second": "두산에너빌리티",
+"second_ret": 4.45
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.51,
+"up5": 5,
+"lead": "한전기술",
+"lead_ret": 13.87,
+"second": "우진",
+"second_ret": 8.89
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.43,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 18.54,
+"second": "KSS해운",
+"second_ret": 1.35
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 4.39,
+"up5": 12,
+"lead": "일진파워",
+"lead_ret": 27.59,
+"second": "서전기전",
+"second_ret": 15.91
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.34,
+"up5": 3,
+"lead": "우리기술투자",
+"lead_ret": 22.75,
+"second": "에이티넘인베스트",
+"second_ret": 11.27
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.19,
+"up5": 6,
+"lead": "우리기술투자",
+"lead_ret": 22.75,
+"second": "에이티넘인베스트",
+"second_ret": 11.27
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 3.91,
+"up5": 4,
+"lead": "동방",
+"lead_ret": 18.02,
+"second": "유성티엔에스",
+"second_ret": 11.37
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.43,
+"up5": 2,
+"lead": "디지캡",
+"lead_ret": 8.11,
+"second": "파수AI",
+"second_ret": 6.38
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 3.2,
+"up5": 2,
+"lead": "서전기전",
+"lead_ret": 15.91,
+"second": "HRS",
+"second_ret": 11.17
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 3.16,
+"up5": 7,
+"lead": "서전기전",
+"lead_ret": 15.91,
+"second": "보성파워텍",
+"second_ret": 12.74
+}
+],
+"themes_worst": [
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -1.21,
+"up5": 0,
+"lead": "에코캡",
+"lead_ret": 3.61,
+"second": "SFA넥셀",
+"second_ret": 3.08
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.98,
+"up5": 0,
+"lead": "멕아이씨에스",
+"lead_ret": 2.36,
+"second": "수젠텍",
+"second_ret": 1.44
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.98,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 0.99,
+"second": "휴온스",
+"second_ret": 0.58
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.85,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 1.3,
+"second": "한국비티비",
+"second_ret": 1.05
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.63,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 2.15,
+"second": "세중",
+"second_ret": 1.18
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 22.75,
+"value": 5790,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "일진파워",
+"code": "094820",
+"ret": 27.59,
+"value": 4206,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "신원",
+"code": "009270",
+"ret": 12.87,
+"value": 4073,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "티비씨",
+"code": "033830",
+"ret": 29.87,
+"value": 2953,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "티에스아이",
+"code": "277880",
+"ret": 23.96,
+"value": 2411,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+}
+],
+"backfilled": true
+}

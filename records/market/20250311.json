@@ -1,0 +1,254 @@
+{
+"date": "20250311",
+"kospi": -1.28,
+"kosdaq": -0.6,
+"adv": 554,
+"dec": 1692,
+"flat": 94,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 178979,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "티로보틱스",
+"lead_ret": 29.92,
+"second": "클로봇",
+"second_ret": 13.93
+},
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "시노펙스",
+"lead_ret": 15.95,
+"second": "엘케이켐",
+"second_ret": 11.51
+},
+{
+"name": "유리 기판",
+"n": 5,
+"lead": "이노메트리",
+"lead_ret": 29.97,
+"second": "와이엠티",
+"second_ret": 21.95
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 4.46,
+"up5": 5,
+"lead": "이노메트리",
+"lead_ret": 29.97,
+"second": "와이엠티",
+"second_ret": 21.95
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.98,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 29.99,
+"second": "포바이포",
+"second_ret": 1.17
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.86,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 29.99,
+"second": "신성델타테크",
+"second_ret": 9.16
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 23,
+"avg": 1.66,
+"up5": 2,
+"lead": "위너스일렉",
+"lead_ret": 29.97,
+"second": "옴니시스템",
+"second_ret": 9.57
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 67,
+"avg": 1.63,
+"up5": 13,
+"lead": "티로보틱스",
+"lead_ret": 29.92,
+"second": "클로봇",
+"second_ret": 13.93
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 1.25,
+"up5": 5,
+"lead": "와이엠티",
+"lead_ret": 21.95,
+"second": "시노펙스",
+"second_ret": 15.95
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.2,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 9.74,
+"second": "유한양행",
+"second_ret": -0.5
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 40,
+"avg": 1.19,
+"up5": 6,
+"lead": "티로보틱스",
+"lead_ret": 29.92,
+"second": "클로봇",
+"second_ret": 13.93
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.07,
+"up5": 3,
+"lead": "이노메트리",
+"lead_ret": 29.97,
+"second": "제이케이시냅스",
+"second_ret": 23.54
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.02,
+"up5": 1,
+"lead": "휴온스글로벌",
+"lead_ret": 15.26,
+"second": "제테마",
+"second_ret": 2.93
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 0.72,
+"up5": 3,
+"lead": "대봉엘에스",
+"lead_ret": 29.96,
+"second": "대화제약",
+"second_ret": 15.67
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 0.65,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 4.2,
+"second": "위닉스",
+"second_ret": 2.26
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -4.24,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 0.41,
+"second": "HL만도",
+"second_ret": -0.36
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -3.95,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.07,
+"second": "롯데관광개발",
+"second_ret": -0.75
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.64,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -2.13,
+"second": "한화오션",
+"second_ret": -2.26
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.87,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": -1.0,
+"second": "IPARK현대산업개발",
+"second_ret": -1.64
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.86,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": -0.76,
+"second": "KSS해운",
+"second_ret": -1.89
+}
+],
+"leaders": [
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 13.93,
+"value": 5547,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 15.67,
+"value": 3479,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 10.16,
+"value": 2291,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 15.95,
+"value": 1957,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "대봉엘에스",
+"code": "078140",
+"ret": 29.96,
+"value": 1843,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

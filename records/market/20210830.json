@@ -1,0 +1,254 @@
+{
+"date": "20210830",
+"kospi": 0.33,
+"kosdaq": 0.81,
+"adv": 1177,
+"dec": 659,
+"flat": 192,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 229648,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "위메이드",
+"lead_ret": 29.97,
+"second": "위메이드맥스",
+"second_ret": 15.14
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에코캡",
+"lead_ret": 29.01,
+"second": "평화산업",
+"second_ret": 9.97
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 3,
+"lead": "에코캡",
+"lead_ret": 29.01,
+"second": "대원화성",
+"second_ret": 13.79
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 4.65,
+"up5": 8,
+"lead": "신원종합개발",
+"lead_ret": 29.97,
+"second": "일성건설",
+"second_ret": 11.8
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.17,
+"up5": 4,
+"lead": "덕신이피씨",
+"lead_ret": 10.77,
+"second": "코오롱글로벌",
+"second_ret": 7.28
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.81,
+"up5": 3,
+"lead": "고려제강",
+"lead_ret": 7.66,
+"second": "POSCO홀딩스",
+"second_ret": 5.4
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 3.39,
+"up5": 3,
+"lead": "에코캡",
+"lead_ret": 29.01,
+"second": "대원화성",
+"second_ret": 13.79
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.3,
+"up5": 1,
+"lead": "GS건설",
+"lead_ret": 6.85,
+"second": "DL이앤씨",
+"second_ret": 4.51
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.24,
+"up5": 2,
+"lead": "한일시멘트",
+"lead_ret": 8.03,
+"second": "모헨즈",
+"second_ret": 7.0
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.99,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 5.6,
+"second": "시공테크",
+"second_ret": 3.75
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.75,
+"up5": 4,
+"lead": "위메이드",
+"lead_ret": 29.97,
+"second": "위메이드맥스",
+"second_ret": 15.14
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 2.72,
+"up5": 3,
+"lead": "대림바스",
+"lead_ret": 7.96,
+"second": "조이웍스앤코",
+"second_ret": 7.01
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.62,
+"up5": 1,
+"lead": "서한",
+"lead_ret": 7.51,
+"second": "태영건설",
+"second_ret": 4.29
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.59,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 4.73,
+"second": "강스템바이오텍",
+"second_ret": 3.89
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.54,
+"up5": 2,
+"lead": "서한",
+"lead_ret": 7.51,
+"second": "GS건설",
+"second_ret": 6.85
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 10,
+"avg": -2.47,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": -1.2,
+"second": "기업은행",
+"second_ret": -1.44
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.61,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 3.89,
+"second": "드림씨아이에스",
+"second_ret": 1.39
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.52,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 1.09,
+"second": "엔브이에이치코리아",
+"second_ret": 1.08
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.3,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.55,
+"second": "코리안리",
+"second_ret": -0.43
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -0.86,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.04,
+"second": "누보",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "펄어비스",
+"code": "263750",
+"ret": 14.61,
+"value": 12403,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 20.0,
+"value": 5023,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 11.26,
+"value": 3999,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 23.77,
+"value": 3995,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "HLB글로벌",
+"code": "003580",
+"ret": 15.63,
+"value": 3658,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

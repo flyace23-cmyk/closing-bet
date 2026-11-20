@@ -1,0 +1,254 @@
+{
+"date": "20210115",
+"kospi": -2.03,
+"kosdaq": -1.62,
+"adv": 538,
+"dec": 1310,
+"flat": 122,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 342903,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한국비티비",
+"lead_ret": 10.31,
+"second": "오스테오닉",
+"second_ret": 10.26
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "글로벌에스엠",
+"lead_ret": 29.86,
+"second": "인텍플러스",
+"second_ret": 10.37
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "한국파마",
+"lead_ret": 29.88,
+"second": "안국약품",
+"second_ret": 14.23
+}
+],
+"themes": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 6.06,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 29.96,
+"second": "효성티앤씨",
+"second_ret": 9.65
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.33,
+"up5": 1,
+"lead": "글로벌에스엠",
+"lead_ret": 29.86,
+"second": "오가닉티코스메틱",
+"second_ret": 3.97
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.25,
+"up5": 3,
+"lead": "동신건설",
+"lead_ret": 11.16,
+"second": "이건홀딩스",
+"second_ret": 10.23
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.25,
+"up5": 3,
+"lead": "동신건설",
+"lead_ret": 11.16,
+"second": "이건홀딩스",
+"second_ret": 10.23
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 1.19,
+"up5": 3,
+"lead": "한화에어로스페이스",
+"lead_ret": 10.62,
+"second": "인지컨트롤스",
+"second_ret": 7.18
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.18,
+"up5": 2,
+"lead": "오리엔트정공",
+"lead_ret": 29.61,
+"second": "디와이덕양",
+"second_ret": 7.83
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 1.13,
+"up5": 2,
+"lead": "오스테오닉",
+"lead_ret": 10.26,
+"second": "신흥",
+"second_ret": 7.08
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.97,
+"up5": 2,
+"lead": "정다운",
+"lead_ret": 17.05,
+"second": "팜스토리",
+"second_ret": 6.17
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 0.91,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 29.96,
+"second": "유니온머티리얼",
+"second_ret": 4.5
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 0.86,
+"up5": 4,
+"lead": "지니틱스",
+"lead_ret": 30.0,
+"second": "디아이",
+"second_ret": 10.08
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.85,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 6.68,
+"second": "이루온",
+"second_ret": 4.46
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 0.78,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 10.43,
+"second": "시공테크",
+"second_ret": 0.0
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.26,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": -2.28,
+"second": "그래디언트",
+"second_ret": -2.98
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -3.11,
+"up5": 0,
+"lead": "브리지텍",
+"lead_ret": 1.62,
+"second": "현대에이치티",
+"second_ret": 0.0
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.95,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "현대모비스",
+"second_ret": -1.68
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -2.94,
+"up5": 0,
+"lead": "이월드",
+"lead_ret": -0.45,
+"second": "하나금융지주",
+"second_ret": -2.8
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.94,
+"up5": 0,
+"lead": "TPC로보틱스",
+"lead_ret": 0.73,
+"second": "에스티아이",
+"second_ret": -0.79
+}
+],
+"leaders": [
+{
+"name": "KT지니뮤직",
+"code": "043610",
+"ret": 14.26,
+"value": 5649,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 11.16,
+"value": 3748,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 29.88,
+"value": 3724,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "에넥스",
+"code": "011090",
+"ret": 11.4,
+"value": 2594,
+"theme": "리모델링/인테리어",
+"reason": "테마: 리모델링/인테리어"
+},
+{
+"name": "형지엘리트",
+"code": "093240",
+"ret": 17.42,
+"value": 2303,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

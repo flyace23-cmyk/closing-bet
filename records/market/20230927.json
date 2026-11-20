@@ -1,0 +1,254 @@
+{
+"date": "20230927",
+"kospi": 0.09,
+"kosdaq": 1.59,
+"adv": 1619,
+"dec": 458,
+"flat": 115,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 127675,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "오리엔트정공",
+"lead_ret": 30.0,
+"second": "티피씨글로벌",
+"second_ret": 21.74
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "큐라티스",
+"lead_ret": 13.9,
+"second": "휴마시스",
+"second_ret": 12.21
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "유진로봇",
+"lead_ret": 19.89,
+"second": "대동",
+"second_ret": 10.47
+}
+],
+"themes": [
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.8,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 25.43,
+"second": "이건홀딩스",
+"second_ret": 5.56
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.8,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 25.43,
+"second": "이건홀딩스",
+"second_ret": 5.56
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.67,
+"up5": 2,
+"lead": "손오공",
+"lead_ret": 7.16,
+"second": "데브시스터즈",
+"second_ret": 5.63
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 61,
+"avg": 3.53,
+"up5": 14,
+"lead": "유진로봇",
+"lead_ret": 19.89,
+"second": "한국피아이엠",
+"second_ret": 10.9
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.49,
+"up5": 4,
+"lead": "한올바이오파마",
+"lead_ret": 29.82,
+"second": "대웅제약",
+"second_ret": 10.16
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.46,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 19.71,
+"second": "이루온",
+"second_ret": 3.07
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.42,
+"up5": 2,
+"lead": "에스티아이",
+"lead_ret": 6.8,
+"second": "휴림로봇",
+"second_ret": 6.37
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.27,
+"up5": 2,
+"lead": "오리엔트정공",
+"lead_ret": 30.0,
+"second": "아이텍",
+"second_ret": 5.77
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": 3.12,
+"up5": 7,
+"lead": "유진로봇",
+"lead_ret": 19.89,
+"second": "한국피아이엠",
+"second_ret": 10.9
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.0,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 14.94,
+"second": "일신바이오",
+"second_ret": 1.09
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 2.99,
+"up5": 4,
+"lead": "큐라티스",
+"lead_ret": 13.9,
+"second": "대웅제약",
+"second_ret": 10.16
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.94,
+"up5": 2,
+"lead": "유진로봇",
+"lead_ret": 19.89,
+"second": "누리플랜",
+"second_ret": 9.89
+}
+],
+"themes_worst": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -1.34,
+"up5": 0,
+"lead": "삼화콘덴서",
+"lead_ret": 2.13,
+"second": "SFA",
+"second_ret": 0.63
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -0.77,
+"up5": 0,
+"lead": "에프엔씨엔터",
+"lead_ret": 2.15,
+"second": "CJ ENM",
+"second_ret": 1.6
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.68,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 0.2,
+"second": "삼성에스디에스",
+"second_ret": -0.22
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -0.67,
+"up5": 0,
+"lead": "포바이포",
+"lead_ret": 1.54,
+"second": "팬스타엔터프라이즈",
+"second_ret": 1.3
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.61,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.67,
+"second": "롯데손해보험",
+"second_ret": -0.18
+}
+],
+"leaders": [
+{
+"name": "대동",
+"code": "000490",
+"ret": 10.47,
+"value": 1993,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 19.89,
+"value": 1966,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "휴마시스",
+"code": "205470",
+"ret": 12.21,
+"value": 1180,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 15.9,
+"value": 645,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 25.43,
+"value": 611,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+}
+],
+"backfilled": true
+}

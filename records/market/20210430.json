@@ -1,0 +1,254 @@
+{
+"date": "20210430",
+"kospi": -0.83,
+"kosdaq": -0.73,
+"adv": 631,
+"dec": 1216,
+"flat": 153,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 263927,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 5,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "동일스틸럭스",
+"second_ret": 19.87
+},
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "HD현대마린엔진",
+"lead_ret": 29.94,
+"second": "케이에스피",
+"second_ret": 15.71
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 4,
+"lead": "HJ중공업",
+"lead_ret": 11.54,
+"second": "한화엔진",
+"second_ret": 8.75
+}
+],
+"themes": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.45,
+"up5": 4,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "유에스티",
+"second_ret": 8.63
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 3.78,
+"up5": 6,
+"lead": "HD현대마린엔진",
+"lead_ret": 29.94,
+"second": "케이에스피",
+"second_ret": 15.71
+},
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": 2.89,
+"up5": 8,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "동일스틸럭스",
+"second_ret": 19.87
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.78,
+"up5": 1,
+"lead": "레드캡투어",
+"lead_ret": 9.48,
+"second": "노랑풍선",
+"second_ret": 4.67
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.49,
+"up5": 1,
+"lead": "케이에스피",
+"lead_ret": 15.71,
+"second": "한국선재",
+"second_ret": 4.48
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.3,
+"up5": 0,
+"lead": "진에어",
+"lead_ret": 4.16,
+"second": "티웨이홀딩스",
+"second_ret": 3.81
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.16,
+"up5": 3,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "SK오션플랜트",
+"second_ret": 7.5
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 1.69,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 4.78,
+"second": "iM금융지주",
+"second_ret": 4.36
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.56,
+"up5": 1,
+"lead": "글로벌텍스프리",
+"lead_ret": 8.63,
+"second": "HDC",
+"second_ret": 2.53
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 1.56,
+"up5": 3,
+"lead": "CSA 코스믹",
+"lead_ret": 29.97,
+"second": "하이스틸",
+"second_ret": 29.97
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.53,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.82,
+"second": "롯데관광개발",
+"second_ret": 2.5
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.53,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.82,
+"second": "롯데관광개발",
+"second_ret": 2.5
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.66,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -0.53,
+"second": "DL이앤씨",
+"second_ret": -1.85
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -3.23,
+"up5": 0,
+"lead": "HC보광산업",
+"lead_ret": 0.7,
+"second": "스페코",
+"second_ret": 0.22
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.86,
+"up5": 0,
+"lead": "푸른로보틱스",
+"lead_ret": 0.9,
+"second": "누리플렉스",
+"second_ret": -1.09
+},
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": -2.54,
+"up5": 1,
+"lead": "휴온스",
+"lead_ret": 9.73,
+"second": "엑세스바이오",
+"second_ret": 4.26
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.5,
+"up5": 0,
+"lead": "포스코스틸리온",
+"lead_ret": 1.98,
+"second": "대한제강",
+"second_ret": 1.93
+}
+],
+"leaders": [
+{
+"name": "지니틱스",
+"code": "303030",
+"ret": 13.49,
+"value": 2941,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 29.97,
+"value": 2166,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "이지바이오",
+"code": "353810",
+"ret": 10.72,
+"value": 1269,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "HD현대마린엔진",
+"code": "071970",
+"ret": 29.94,
+"value": 1124,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "화인베스틸",
+"code": "133820",
+"ret": 13.03,
+"value": 578,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

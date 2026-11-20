@@ -1,0 +1,254 @@
+{
+"date": "20250703",
+"kospi": 1.34,
+"kosdaq": 1.43,
+"adv": 1631,
+"dec": 632,
+"flat": 101,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 197588,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "강원에너지",
+"lead_ret": 16.54,
+"second": "케이지에이",
+"second_ret": 12.52
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 4,
+"lead": "세림B&G",
+"lead_ret": 29.99,
+"second": "삼륭물산",
+"second_ret": 29.91
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "에프에스티",
+"lead_ret": 16.8,
+"second": "유진테크",
+"second_ret": 13.89
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 13.16,
+"up5": 7,
+"lead": "세림B&G",
+"lead_ret": 29.99,
+"second": "삼륭물산",
+"second_ret": 29.91
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.16,
+"up5": 9,
+"lead": "중앙첨단소재",
+"lead_ret": 17.81,
+"second": "강원에너지",
+"second_ret": 16.54
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 5.11,
+"up5": 3,
+"lead": "현대제철",
+"lead_ret": 16.18,
+"second": "POSCO홀딩스",
+"second_ret": 8.33
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.33,
+"up5": 2,
+"lead": "딥커머스",
+"lead_ret": 30.01,
+"second": "GRT",
+"second_ret": 5.43
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 4.08,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 29.91,
+"second": "에스앤에스텍",
+"second_ret": 11.45
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 4.04,
+"up5": 7,
+"lead": "이브이첨단소재",
+"lead_ret": 30.01,
+"second": "덕산테코피아",
+"second_ret": 8.77
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.77,
+"up5": 8,
+"lead": "미래반도체",
+"lead_ret": 9.68,
+"second": "케이씨텍",
+"second_ret": 8.85
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 3.74,
+"up5": 1,
+"lead": "로킷헬스케어",
+"lead_ret": 27.13,
+"second": "에스티아이",
+"second_ret": 4.64
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.74,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 7.64,
+"second": "이수페타시스",
+"second_ret": 6.82
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.7,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 7.64,
+"second": "ISC",
+"second_ret": 6.06
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 3.52,
+"up5": 18,
+"lead": "강원에너지",
+"lead_ret": 16.54,
+"second": "에코프로머티",
+"second_ret": 12.08
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.52,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 4.93,
+"second": "네패스",
+"second_ret": 4.26
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -3.43,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -0.75,
+"second": "KBI메탈",
+"second_ret": -0.97
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.99,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 0.52,
+"second": "삼성중공업",
+"second_ret": -1.51
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -1.94,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": 3.79,
+"second": "한성기업",
+"second_ret": 0.97
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": -1.69,
+"up5": 0,
+"lead": "위너스일렉",
+"lead_ret": 2.62,
+"second": "바이오스마트",
+"second_ret": 1.34
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -1.65,
+"up5": 0,
+"lead": "KT지니뮤직",
+"lead_ret": 2.5,
+"second": "다날",
+"second_ret": 2.22
+}
+],
+"leaders": [
+{
+"name": "로킷헬스케어",
+"code": "376900",
+"ret": 27.13,
+"value": 2349,
+"theme": "3D 프린터",
+"reason": "테마: 3D 프린터"
+},
+{
+"name": "에코플라스틱",
+"code": "038110",
+"ret": 17.16,
+"value": 2334,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+},
+{
+"name": "현대제철",
+"code": "004020",
+"ret": 16.18,
+"value": 1901,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "KCTC",
+"code": "009070",
+"ret": 14.05,
+"value": 1535,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 12.08,
+"value": 1125,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20200827",
+"kospi": -1.05,
+"kosdaq": -0.59,
+"adv": 402,
+"dec": 1433,
+"flat": 100,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 309321,
+"hot": [
+{
+"name": "재택근무/스마트워크",
+"n": 8,
+"lead": "알서포트",
+"lead_ret": 29.9,
+"second": "링네트",
+"second_ret": 29.89
+},
+{
+"name": "교육/온라인 교육",
+"n": 4,
+"lead": "YBM넷",
+"lead_ret": 26.6,
+"second": "크레버스",
+"second_ret": 18.2
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "엘엠에스",
+"lead_ret": 29.4,
+"second": "크레버스",
+"second_ret": 18.2
+}
+],
+"themes": [
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 12.69,
+"up5": 9,
+"lead": "알서포트",
+"lead_ret": 29.9,
+"second": "링네트",
+"second_ret": 29.89
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 11.01,
+"up5": 5,
+"lead": "링네트",
+"lead_ret": 29.89,
+"second": "에스넷",
+"second_ret": 12.82
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 5.9,
+"up5": 7,
+"lead": "YBM넷",
+"lead_ret": 26.6,
+"second": "크레버스",
+"second_ret": 18.2
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 3.79,
+"up5": 2,
+"lead": "에스와이",
+"lead_ret": 11.27,
+"second": "오텍",
+"second_ret": 6.17
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.46,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 17.13,
+"second": "우양",
+"second_ret": 9.69
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 3.03,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 18.89,
+"second": "이스트소프트",
+"second_ret": 3.48
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 2.95,
+"up5": 4,
+"lead": "알서포트",
+"lead_ret": 29.9,
+"second": "비트컴퓨터",
+"second_ret": 13.77
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": 2.74,
+"up5": 6,
+"lead": "HLB제넥스",
+"lead_ret": 29.65,
+"second": "제넥신",
+"second_ret": 16.99
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 20,
+"avg": 2.41,
+"up5": 3,
+"lead": "영림원소프트랩",
+"lead_ret": 29.78,
+"second": "유엔젤",
+"second_ret": 8.04
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 2.38,
+"up5": 1,
+"lead": "알서포트",
+"lead_ret": 29.9,
+"second": "카카오",
+"second_ret": 4.72
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.2,
+"up5": 2,
+"lead": "코오롱글로벌",
+"lead_ret": 29.86,
+"second": "에스와이",
+"second_ret": 11.27
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 2.16,
+"up5": 5,
+"lead": "링네트",
+"lead_ret": 29.89,
+"second": "비트컴퓨터",
+"second_ret": 13.77
+}
+],
+"themes_worst": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -5.78,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": -1.49,
+"second": "동방아그로",
+"second_ret": -4.25
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -4.86,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 3.35,
+"second": "드림씨아이에스",
+"second_ret": 0.0
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -4.41,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": -1.49,
+"second": "유니온머티리얼",
+"second_ret": -4.03
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -4.08,
+"up5": 0,
+"lead": "마크로젠",
+"lead_ret": 0.88,
+"second": "제일약품",
+"second_ret": 0.0
+},
+{
+"name": "농업",
+"n": 21,
+"avg": -3.69,
+"up5": 0,
+"lead": "대동금속",
+"lead_ret": 0.46,
+"second": "NH농우바이오",
+"second_ret": 0.46
+}
+],
+"leaders": [
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 16.99,
+"value": 15724,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 29.9,
+"value": 9105,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 26.6,
+"value": 5147,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "유니슨",
+"code": "018000",
+"ret": 10.68,
+"value": 4350,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "비트컴퓨터",
+"code": "032850",
+"ret": 13.77,
+"value": 4189,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

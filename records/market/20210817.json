@@ -1,0 +1,254 @@
+{
+"date": "20210817",
+"kospi": -0.89,
+"kosdaq": -2.86,
+"adv": 218,
+"dec": 1720,
+"flat": 84,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 334005,
+"hot": [
+{
+"name": "전기차",
+"n": 3,
+"lead": "SFA넥셀",
+"lead_ret": 16.94,
+"second": "영화테크",
+"second_ret": 12.3
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "바이오니아",
+"lead_ret": 16.7,
+"second": "SK바이오사이언스",
+"second_ret": 10.57
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "SK바이오사이언스",
+"lead_ret": 10.57,
+"second": "이연제약",
+"second_ret": 9.31
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.03,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.85,
+"second": "이연제약",
+"second_ret": 9.31
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.29,
+"up5": 1,
+"lead": "DB손해보험",
+"lead_ret": 5.56,
+"second": "삼성화재",
+"second_ret": 4.79
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 1.18,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.85,
+"second": "대한과학",
+"second_ret": 5.0
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.03,
+"up5": 1,
+"lead": "카카오뱅크",
+"lead_ret": 14.1,
+"second": "제주은행",
+"second_ret": 0.29
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.36,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 3.79,
+"second": "삼성바이오로직스",
+"second_ret": 2.95
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 0.24,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 3.78,
+"second": "대한해운",
+"second_ret": 1.21
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 0.04,
+"up5": 1,
+"lead": "이오테크닉스",
+"lead_ret": 6.48,
+"second": "프로텍",
+"second_ret": 3.68
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": -0.25,
+"up5": 1,
+"lead": "제너셈",
+"lead_ret": 5.92,
+"second": "켐트로닉스",
+"second_ret": 4.12
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": -0.53,
+"up5": 2,
+"lead": "카카오뱅크",
+"lead_ret": 14.1,
+"second": "예스24",
+"second_ret": 9.06
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -0.67,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.0,
+"second": "삼성전자",
+"second_ret": -0.27
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.67,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 0.33,
+"second": "SK하이닉스",
+"second_ret": 0.0
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.93,
+"up5": 0,
+"lead": "INVENI",
+"lead_ret": 4.58,
+"second": "한국가스공사",
+"second_ret": 0.43
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 14,
+"avg": -7.13,
+"up5": 0,
+"lead": "셀바스AI",
+"lead_ret": 0.3,
+"second": "엔젠바이오",
+"second_ret": -2.22
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -6.43,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -4.48,
+"second": "옴니시스템",
+"second_ret": -5.36
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.81,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": -2.73,
+"second": "풀무원",
+"second_ret": -3.33
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -5.77,
+"up5": 0,
+"lead": "태림포장",
+"lead_ret": -3.19,
+"second": "한솔홀딩스",
+"second_ret": -4.41
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -5.7,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 1.37,
+"second": "하나금융지주",
+"second_ret": -0.34
+}
+],
+"leaders": [
+{
+"name": "SK바이오사이언스",
+"code": "302440",
+"ret": 10.57,
+"value": 38614,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "카카오뱅크",
+"code": "323410",
+"ret": 14.1,
+"value": 21215,
+"theme": "인터넷은행",
+"reason": "테마: 인터넷은행"
+},
+{
+"name": "서린바이오",
+"code": "038070",
+"ret": 29.85,
+"value": 5667,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 16.7,
+"value": 4970,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 16.94,
+"value": 4806,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

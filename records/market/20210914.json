@@ -1,0 +1,254 @@
+{
+"date": "20210914",
+"kospi": 0.67,
+"kosdaq": 1.11,
+"adv": 1319,
+"dec": 542,
+"flat": 170,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 262058,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "웰크론한텍",
+"lead_ret": 24.45,
+"second": "영화테크",
+"second_ret": 14.62
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "영화테크",
+"lead_ret": 14.62,
+"second": "HS효성첨단소재",
+"second_ret": 9.57
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "상아프론테크",
+"lead_ret": 12.65,
+"second": "덕산테코피아",
+"second_ret": 12.3
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 5.53,
+"up5": 4,
+"lead": "노랑풍선",
+"lead_ret": 19.03,
+"second": "하나투어",
+"second_ret": 9.16
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.53,
+"up5": 3,
+"lead": "티웨이홀딩스",
+"lead_ret": 11.24,
+"second": "진에어",
+"second_ret": 6.99
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 3.92,
+"up5": 3,
+"lead": "웰크론한텍",
+"lead_ret": 24.45,
+"second": "영화테크",
+"second_ret": 14.62
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.44,
+"up5": 2,
+"lead": "HLB테라퓨틱스",
+"lead_ret": 21.01,
+"second": "태경케미컬",
+"second_ret": 9.9
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.38,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 24.45,
+"second": "인선이엔티",
+"second_ret": 3.02
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.9,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 9.44,
+"second": "에코프로비엠",
+"second_ret": 8.33
+},
+{
+"name": "2차전지(장비)",
+"n": 32,
+"avg": 2.89,
+"up5": 5,
+"lead": "웰크론한텍",
+"lead_ret": 24.45,
+"second": "코윈로보틱스",
+"second_ret": 14.54
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.88,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 26.1,
+"second": "폴라리스오피스",
+"second_ret": 8.54
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.69,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 5.93,
+"second": "특수건설",
+"second_ret": 4.35
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.69,
+"up5": 1,
+"lead": "HS효성첨단소재",
+"lead_ret": 9.57,
+"second": "코오롱인더",
+"second_ret": 3.6
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 2.64,
+"up5": 5,
+"lead": "위메이드",
+"lead_ret": 26.1,
+"second": "위메이드맥스",
+"second_ret": 7.75
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.58,
+"up5": 1,
+"lead": "글로벌텍스프리",
+"lead_ret": 5.39,
+"second": "호텔신라",
+"second_ret": 3.91
+}
+],
+"themes_worst": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -0.97,
+"up5": 0,
+"lead": "동양",
+"lead_ret": 2.44,
+"second": "HC보광산업",
+"second_ret": 1.36
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.7,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.9,
+"second": "파미셀",
+"second_ret": 0.32
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -0.64,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": 1.9,
+"second": "콜마바이오텍",
+"second_ret": 0.48
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": -0.64,
+"up5": 0,
+"lead": "대창",
+"lead_ret": 2.63,
+"second": "풍산홀딩스",
+"second_ret": 2.26
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": -0.58,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 2.45,
+"second": "대보마그네틱",
+"second_ret": 0.87
+}
+],
+"leaders": [
+{
+"name": "영화테크",
+"code": "265560",
+"ret": 14.62,
+"value": 2676,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 26.1,
+"value": 2317,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "웰크론한텍",
+"code": "076080",
+"ret": 24.45,
+"value": 2214,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "상아프론테크",
+"code": "089980",
+"ret": 12.65,
+"value": 1838,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "원익큐브",
+"code": "014190",
+"ret": 29.99,
+"value": 1835,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

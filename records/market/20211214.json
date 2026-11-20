@@ -1,0 +1,254 @@
+{
+"date": "20211214",
+"kospi": -0.46,
+"kosdaq": -0.31,
+"adv": 625,
+"dec": 1252,
+"flat": 181,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 270603,
+"hot": [
+{
+"name": "면역항암제",
+"n": 6,
+"lead": "메드팩토",
+"lead_ret": 20.19,
+"second": "앱클론",
+"second_ret": 15.38
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 5,
+"lead": "아이진",
+"lead_ret": 29.78,
+"second": "앱클론",
+"second_ret": 15.38
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "대원제약",
+"lead_ret": 29.85,
+"second": "킵스파마",
+"second_ret": 16.89
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 6.06,
+"up5": 4,
+"lead": "아이진",
+"lead_ret": 29.78,
+"second": "나이벡",
+"second_ret": 13.43
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 3.53,
+"up5": 8,
+"lead": "메드팩토",
+"lead_ret": 20.19,
+"second": "앱클론",
+"second_ret": 15.38
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 2.63,
+"up5": 6,
+"lead": "아이진",
+"lead_ret": 29.78,
+"second": "앱클론",
+"second_ret": 15.38
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.52,
+"up5": 1,
+"lead": "풍전약품",
+"lead_ret": 29.83,
+"second": "파미셀",
+"second_ret": 4.25
+},
+{
+"name": "비만치료제",
+"n": 31,
+"avg": 2.52,
+"up5": 6,
+"lead": "대원제약",
+"lead_ret": 29.85,
+"second": "일동제약",
+"second_ret": 14.32
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.38,
+"up5": 3,
+"lead": "에코캡",
+"lead_ret": 29.64,
+"second": "대원화성",
+"second_ret": 13.57
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.75,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 8.09,
+"second": "아주IB투자",
+"second_ret": 1.19
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 1.59,
+"up5": 2,
+"lead": "휴온스글로벌",
+"lead_ret": 7.72,
+"second": "디에스케이",
+"second_ret": 5.91
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 1.4,
+"up5": 1,
+"lead": "킵스파마",
+"lead_ret": 16.89,
+"second": "나인테크",
+"second_ret": 4.8
+},
+{
+"name": "제약업체",
+"n": 84,
+"avg": 1.38,
+"up5": 6,
+"lead": "대원제약",
+"lead_ret": 29.85,
+"second": "킵스파마",
+"second_ret": 16.89
+},
+{
+"name": "건강기능식품",
+"n": 38,
+"avg": 1.33,
+"up5": 3,
+"lead": "대원제약",
+"lead_ret": 29.85,
+"second": "압타바이오",
+"second_ret": 9.25
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.26,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 3.37,
+"second": "미래생명자원",
+"second_ret": 1.32
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -3.55,
+"up5": 0,
+"lead": "오텍",
+"lead_ret": -2.57,
+"second": "케이엔솔",
+"second_ret": -2.79
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.48,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": -0.58,
+"second": "링네트",
+"second_ret": -1.21
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.29,
+"up5": 0,
+"lead": "하이비젼시스템",
+"lead_ret": 0.66,
+"second": "스맥",
+"second_ret": 0.26
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.97,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 2.41,
+"second": "퀀텀레일",
+"second_ret": 1.64
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -1.79,
+"up5": 0,
+"lead": "한솔테크닉스",
+"lead_ret": 1.86,
+"second": "삼성전자",
+"second_ret": 0.26
+}
+],
+"leaders": [
+{
+"name": "대원제약",
+"code": "003220",
+"ret": 29.85,
+"value": 2880,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "에코캡",
+"code": "128540",
+"ret": 29.64,
+"value": 2604,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "대원화성",
+"code": "024890",
+"ret": 13.57,
+"value": 2499,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "메드팩토",
+"code": "235980",
+"ret": 20.19,
+"value": 2297,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "아이진",
+"code": "185490",
+"ret": 29.78,
+"value": 1233,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

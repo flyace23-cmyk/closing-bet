@@ -1,0 +1,254 @@
+{
+"date": "20241223",
+"kospi": 1.57,
+"kosdaq": 1.64,
+"adv": 1701,
+"dec": 522,
+"flat": 94,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 121709,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "알멕",
+"lead_ret": 29.89,
+"second": "루미르",
+"second_ret": 21.69
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "아이티센피엔에스",
+"lead_ret": 21.92,
+"second": "포톤",
+"second_ret": 13.3
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "동원모빌리티",
+"lead_ret": 30.0,
+"second": "알멕",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 7.07,
+"up5": 3,
+"lead": "HJ중공업",
+"lead_ret": 13.85,
+"second": "HD한국조선해양",
+"second_ret": 8.24
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 5.8,
+"up5": 4,
+"lead": "SNT에너지",
+"lead_ret": 24.4,
+"second": "포스코인터내셔널",
+"second_ret": 7.31
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 5.37,
+"up5": 11,
+"lead": "알멕",
+"lead_ret": 29.89,
+"second": "루미르",
+"second_ret": 21.69
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 5.22,
+"up5": 15,
+"lead": "와이씨",
+"lead_ret": 14.88,
+"second": "레이저쎌",
+"second_ret": 13.76
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 4.88,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 17.64,
+"second": "사조대림",
+"second_ret": 9.71
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.46,
+"up5": 4,
+"lead": "대원전선",
+"lead_ret": 11.13,
+"second": "KBI메탈",
+"second_ret": 7.35
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.23,
+"up5": 5,
+"lead": "레이저쎌",
+"lead_ret": 13.76,
+"second": "이오테크닉스",
+"second_ret": 8.35
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.15,
+"up5": 3,
+"lead": "SBS",
+"lead_ret": 30.0,
+"second": "아시아경제",
+"second_ret": 8.35
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.09,
+"up5": 3,
+"lead": "티에프이",
+"lead_ret": 10.41,
+"second": "ISC",
+"second_ret": 8.28
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 3.91,
+"up5": 6,
+"lead": "SNT에너지",
+"lead_ret": 24.4,
+"second": "HJ중공업",
+"second_ret": 13.85
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.76,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 30.0,
+"second": "이지홀딩스",
+"second_ret": 1.87
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 3.71,
+"up5": 6,
+"lead": "아이티센피엔에스",
+"lead_ret": 21.92,
+"second": "포톤",
+"second_ret": 13.3
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -5.75,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 2.34,
+"second": "녹십자",
+"second_ret": 2.1
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": -2.8,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": 3.83,
+"second": "JW중외제약",
+"second_ret": 1.91
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": -1.73,
+"up5": 1,
+"lead": "에스바이오메딕스",
+"lead_ret": 8.6,
+"second": "바이오솔루션",
+"second_ret": 2.34
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.51,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 2.38,
+"second": "SAMG엔터",
+"second_ret": 2.33
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.29,
+"up5": 0,
+"lead": "에스티아이",
+"lead_ret": 4.72,
+"second": "스맥",
+"second_ret": 3.53
+}
+],
+"leaders": [
+{
+"name": "이스트소프트",
+"code": "047560",
+"ret": 21.96,
+"value": 2279,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 13.73,
+"value": 2165,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "스튜디오쏠쏠",
+"code": "200350",
+"ret": 10.9,
+"value": 1716,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 29.97,
+"value": 1566,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 11.13,
+"value": 1359,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

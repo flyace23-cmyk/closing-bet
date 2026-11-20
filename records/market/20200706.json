@@ -1,0 +1,254 @@
+{
+"date": "20200706",
+"kospi": 1.65,
+"kosdaq": 1.03,
+"adv": 1151,
+"dec": 612,
+"flat": 158,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 302882,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "영화테크",
+"lead_ret": 29.89,
+"second": "디와이덕양",
+"second_ret": 29.76
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "비아트론",
+"lead_ret": 11.8,
+"second": "뉴파워프라즈마",
+"second_ret": 10.79
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "넵튠",
+"lead_ret": 19.81,
+"second": "액토즈소프트",
+"second_ret": 11.11
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 8.28,
+"up5": 4,
+"lead": "콜마바이오텍",
+"lead_ret": 16.97,
+"second": "GH신소재",
+"second_ret": 15.14
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.67,
+"up5": 4,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 11.65,
+"second": "한국앤컴퍼니",
+"second_ret": 9.84
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 4.17,
+"up5": 8,
+"lead": "넵튠",
+"lead_ret": 19.81,
+"second": "액토즈소프트",
+"second_ret": 11.11
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.97,
+"up5": 2,
+"lead": "롯데정밀화학",
+"lead_ret": 15.55,
+"second": "조비",
+"second_ret": 12.89
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 30,
+"avg": 3.94,
+"up5": 9,
+"lead": "넵튠",
+"lead_ret": 19.81,
+"second": "액토즈소프트",
+"second_ret": 11.11
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.77,
+"up5": 3,
+"lead": "디지틀조선",
+"lead_ret": 14.9,
+"second": "YTN",
+"second_ret": 11.92
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.49,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 6.5,
+"second": "현대모비스",
+"second_ret": 4.6
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.43,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 9.93,
+"second": "디아이씨",
+"second_ret": 4.89
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 3.41,
+"up5": 1,
+"lead": "영화테크",
+"lead_ret": 29.89,
+"second": "에코프로",
+"second_ret": 3.05
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.37,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 7.09,
+"second": "가온그룹",
+"second_ret": 7.0
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.35,
+"up5": 1,
+"lead": "LG디스플레이",
+"lead_ret": 9.87,
+"second": "LG전자",
+"second_ret": 4.77
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.28,
+"up5": 2,
+"lead": "롯데정밀화학",
+"lead_ret": 15.55,
+"second": "조비",
+"second_ret": 12.89
+}
+],
+"themes_worst": [
+{
+"name": "탈모 치료",
+"n": 20,
+"avg": -1.69,
+"up5": 2,
+"lead": "메타케어",
+"lead_ret": 7.64,
+"second": "대웅제약",
+"second_ret": 6.37
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.48,
+"up5": 1,
+"lead": "광동제약",
+"lead_ret": 5.63,
+"second": "국제약품",
+"second_ret": 4.04
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.77,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.66,
+"second": "메디포스트",
+"second_ret": -0.18
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.64,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 1.64,
+"second": "AK홀딩스",
+"second_ret": 0.52
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.53,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 2.39,
+"second": "스페코",
+"second_ret": 1.15
+}
+],
+"leaders": [
+{
+"name": "SK바이오팜",
+"code": "326030",
+"ret": 30.0,
+"value": 15286,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 21.65,
+"value": 7863,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "콜마바이오텍",
+"code": "215380",
+"ret": 16.97,
+"value": 2073,
+"theme": "코로나19(음압병실/음압구급차)",
+"reason": "테마: 코로나19(음압병실/음압구급차)"
+},
+{
+"name": "에스티팜",
+"code": "237690",
+"ret": 18.77,
+"value": 1391,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "동화기업",
+"code": "025900",
+"ret": 19.31,
+"value": 1037,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+}
+],
+"backfilled": true
+}

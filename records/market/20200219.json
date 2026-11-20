@@ -1,0 +1,254 @@
+{
+"date": "20200219",
+"kospi": 0.07,
+"kosdaq": 0.27,
+"adv": 716,
+"dec": 1023,
+"flat": 164,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 545200,
+"hot": [
+{
+"name": "마스크",
+"n": 6,
+"lead": "깨끗한나라",
+"lead_ret": 30.0,
+"second": "모나리자",
+"second_ret": 29.98
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "국제약품",
+"lead_ret": 20.0,
+"second": "삼천당제약",
+"second_ret": 17.79
+},
+{
+"name": "치매",
+"n": 4,
+"lead": "모나리자",
+"lead_ret": 29.98,
+"second": "펩트론",
+"second_ret": 10.95
+}
+],
+"themes": [
+{
+"name": "마스크",
+"n": 19,
+"avg": 9.29,
+"up5": 6,
+"lead": "깨끗한나라",
+"lead_ret": 30.0,
+"second": "모나리자",
+"second_ret": 29.98
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": 6.08,
+"up5": 6,
+"lead": "모나리자",
+"lead_ret": 29.98,
+"second": "웰크론",
+"second_ret": 29.93
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 3.95,
+"up5": 4,
+"lead": "깨끗한나라",
+"lead_ret": 30.0,
+"second": "모나리자",
+"second_ret": 29.98
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 3.89,
+"up5": 4,
+"lead": "깨끗한나라",
+"lead_ret": 30.0,
+"second": "무림SP",
+"second_ret": 10.71
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 3.85,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 20.0,
+"second": "수젠텍",
+"second_ret": 6.37
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 3.81,
+"up5": 3,
+"lead": "웰크론",
+"lead_ret": 29.93,
+"second": "자연과환경",
+"second_ret": 29.9
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 3.72,
+"up5": 3,
+"lead": "깨끗한나라",
+"lead_ret": 30.0,
+"second": "모나리자",
+"second_ret": 29.98
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.67,
+"up5": 8,
+"lead": "파루",
+"lead_ret": 24.27,
+"second": "랩지노믹스",
+"second_ret": 17.0
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.29,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 11.39,
+"second": "사조대림",
+"second_ret": 4.01
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.82,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 29.9,
+"second": "코오롱글로벌",
+"second_ret": 1.98
+},
+{
+"name": "치매",
+"n": 40,
+"avg": 2.55,
+"up5": 6,
+"lead": "모나리자",
+"lead_ret": 29.98,
+"second": "펩트론",
+"second_ret": 10.95
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 2.5,
+"up5": 2,
+"lead": "에이디테크놀로지",
+"lead_ret": 13.68,
+"second": "네패스",
+"second_ret": 11.41
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.88,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": 0.6,
+"second": "금호타이어",
+"second_ret": -0.12
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.81,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": -0.65,
+"second": "이마트",
+"second_ret": -1.83
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": -1.79,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 1.14,
+"second": "천보",
+"second_ret": 0.39
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -1.72,
+"up5": 0,
+"lead": "광전자",
+"lead_ret": 0.98,
+"second": "삼성전자",
+"second_ret": 0.67
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.69,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": -0.97,
+"second": "흥국화재",
+"second_ret": -1.22
+}
+],
+"leaders": [
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 29.93,
+"value": 5246,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 11.3,
+"value": 4886,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "오공",
+"code": "045060",
+"ret": 29.97,
+"value": 4497,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 29.98,
+"value": 2675,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "파루",
+"code": "043200",
+"ret": 24.27,
+"value": 1712,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

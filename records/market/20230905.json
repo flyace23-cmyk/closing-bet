@@ -1,0 +1,254 @@
+{
+"date": "20230905",
+"kospi": -0.09,
+"kosdaq": 0.25,
+"adv": 907,
+"dec": 1128,
+"flat": 152,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 195428,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "동화기업",
+"lead_ret": 29.86,
+"second": "브이원텍",
+"second_ret": 17.14
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "브이원텍",
+"lead_ret": 17.14,
+"second": "피제이전자",
+"second_ret": 16.0
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "루닛",
+"lead_ret": 29.92,
+"second": "퀀타매트릭스",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "의료AI",
+"n": 21,
+"avg": 6.57,
+"up5": 8,
+"lead": "루닛",
+"lead_ret": 29.92,
+"second": "노을",
+"second_ret": 29.91
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 5.21,
+"up5": 5,
+"lead": "파워로직스",
+"lead_ret": 14.97,
+"second": "덕성",
+"second_ret": 14.29
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 4.73,
+"up5": 7,
+"lead": "옵트론텍",
+"lead_ret": 29.95,
+"second": "코아시아씨엠",
+"second_ret": 18.3
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.93,
+"up5": 2,
+"lead": "레이저쎌",
+"lead_ret": 29.96,
+"second": "예스티",
+"second_ret": 5.41
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 3.77,
+"up5": 3,
+"lead": "디지캡",
+"lead_ret": 20.12,
+"second": "크라우드웍스",
+"second_ret": 15.31
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.51,
+"up5": 2,
+"lead": "체시스",
+"lead_ret": 30.0,
+"second": "KG케미칼",
+"second_ret": 6.04
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.09,
+"up5": 6,
+"lead": "이지케어텍",
+"lead_ret": 11.58,
+"second": "토마토시스템",
+"second_ret": 9.79
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 51,
+"avg": 2.49,
+"up5": 9,
+"lead": "크라우드웍스",
+"lead_ret": 15.31,
+"second": "솔트룩스",
+"second_ret": 12.4
+},
+{
+"name": "의료기기",
+"n": 70,
+"avg": 2.37,
+"up5": 13,
+"lead": "루닛",
+"lead_ret": 29.92,
+"second": "퀀타매트릭스",
+"second_ret": 29.89
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.04,
+"up5": 3,
+"lead": "SOOP",
+"lead_ret": 8.65,
+"second": "이루온",
+"second_ret": 7.82
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 61,
+"avg": 1.9,
+"up5": 9,
+"lead": "브이원텍",
+"lead_ret": 17.14,
+"second": "피제이전자",
+"second_ret": 16.0
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.88,
+"up5": 3,
+"lead": "오비고",
+"lead_ret": 11.8,
+"second": "세코닉스",
+"second_ret": 5.37
+}
+],
+"themes_worst": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.58,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 1.19,
+"second": "GS건설",
+"second_ret": -0.54
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.48,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 1.71,
+"second": "데브시스터즈",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.28,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -0.31,
+"second": "샘표",
+"second_ret": -0.76
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": -1.16,
+"up5": 0,
+"lead": "이건산업",
+"lead_ret": 0.88,
+"second": "에이치엠넥스",
+"second_ret": 0.51
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": -1.15,
+"up5": 0,
+"lead": "호텔신라",
+"lead_ret": 0.45,
+"second": "소노스퀘어",
+"second_ret": 0.17
+}
+],
+"leaders": [
+{
+"name": "루닛",
+"code": "328130",
+"ret": 29.92,
+"value": 4934,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 13.94,
+"value": 3856,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "대동",
+"code": "000490",
+"ret": 15.24,
+"value": 3725,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "뷰노",
+"code": "338220",
+"ret": 18.45,
+"value": 3676,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 10.9,
+"value": 3059,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

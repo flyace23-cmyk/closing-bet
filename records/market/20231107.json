@@ -1,0 +1,254 @@
+{
+"date": "20231107",
+"kospi": -2.33,
+"kosdaq": -1.8,
+"adv": 559,
+"dec": 1533,
+"flat": 112,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 221168,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "코스메카코리아",
+"lead_ret": 15.06,
+"second": "잉글우드랩",
+"second_ret": 11.28
+},
+{
+"name": "농업",
+"n": 5,
+"lead": "경농",
+"lead_ret": 29.94,
+"second": "인바이오",
+"second_ret": 29.77
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "경남제약",
+"lead_ret": 29.78,
+"second": "동성제약",
+"second_ret": 10.71
+}
+],
+"themes": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 4.09,
+"up5": 2,
+"lead": "경농",
+"lead_ret": 29.94,
+"second": "조비",
+"second_ret": 8.65
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.95,
+"up5": 3,
+"lead": "체시스",
+"lead_ret": 21.29,
+"second": "누보",
+"second_ret": 12.07
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 3.63,
+"up5": 5,
+"lead": "경농",
+"lead_ret": 29.94,
+"second": "인바이오",
+"second_ret": 29.77
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 1.01,
+"up5": 2,
+"lead": "멕아이씨에스",
+"lead_ret": 11.15,
+"second": "국제약품",
+"second_ret": 9.77
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 0.94,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 4.44,
+"second": "이월드",
+"second_ret": 1.51
+},
+{
+"name": "화장품",
+"n": 84,
+"avg": 0.92,
+"up5": 13,
+"lead": "코스메카코리아",
+"lead_ret": 15.06,
+"second": "잉글우드랩",
+"second_ret": 11.28
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 0.76,
+"up5": 2,
+"lead": "켐트로닉스",
+"lead_ret": 11.37,
+"second": "한미반도체",
+"second_ret": 7.01
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 40,
+"avg": 0.57,
+"up5": 3,
+"lead": "체시스",
+"lead_ret": 21.29,
+"second": "우진비앤지",
+"second_ret": 19.71
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 0.46,
+"up5": 5,
+"lead": "경남제약",
+"lead_ret": 29.78,
+"second": "동성제약",
+"second_ret": 10.71
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 0.45,
+"up5": 2,
+"lead": "경농",
+"lead_ret": 29.94,
+"second": "조비",
+"second_ret": 8.65
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 0.26,
+"up5": 1,
+"lead": "아미노로직스",
+"lead_ret": 14.63,
+"second": "파미셀",
+"second_ret": 0.76
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 0.21,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 5.59,
+"second": "ISC",
+"second_ret": 0.91
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -5.37,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 3.74,
+"second": "포스코엠텍",
+"second_ret": -0.35
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": -5.04,
+"up5": 0,
+"lead": "동화기업",
+"lead_ret": -0.74,
+"second": "이브이첨단소재",
+"second_ret": -0.92
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -4.96,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 3.74,
+"second": "나인테크",
+"second_ret": -3.61
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -4.67,
+"up5": 0,
+"lead": "브이티",
+"lead_ret": 0.56,
+"second": "팬스타엔터프라이즈",
+"second_ret": -0.87
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 68,
+"avg": -4.23,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 3.74,
+"second": "대한유화",
+"second_ret": 3.19
+}
+],
+"leaders": [
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 10.93,
+"value": 1827,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "경남제약",
+"code": "053950",
+"ret": 29.78,
+"value": 1246,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "노을",
+"code": "376930",
+"ret": 17.54,
+"value": 894,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "경농",
+"code": "002100",
+"ret": 29.94,
+"value": 696,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "빛과전자",
+"code": "069540",
+"ret": 16.99,
+"value": 629,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

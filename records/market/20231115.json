@@ -1,0 +1,254 @@
+{
+"date": "20231115",
+"kospi": 2.2,
+"kosdaq": 1.91,
+"adv": 1752,
+"dec": 350,
+"flat": 109,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 157435,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "티에프이",
+"lead_ret": 13.86,
+"second": "피에스케이홀딩스",
+"second_ret": 11.51
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "휴림에이텍",
+"lead_ret": 29.91,
+"second": "체시스",
+"second_ret": 25.72
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "티로보틱스",
+"lead_ret": 18.71,
+"second": "신성델타테크",
+"second_ret": 16.26
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.32,
+"up5": 2,
+"lead": "에이직랜드",
+"lead_ret": 29.87,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.02
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.86,
+"up5": 5,
+"lead": "티에스이",
+"lead_ret": 11.29,
+"second": "티씨케이",
+"second_ret": 8.57
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.8,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 7.97,
+"second": "삼성중공업",
+"second_ret": 5.02
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 4.69,
+"up5": 13,
+"lead": "마이크로투나노",
+"lead_ret": 13.45,
+"second": "피에스케이홀딩스",
+"second_ret": 11.51
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.33,
+"up5": 1,
+"lead": "체시스",
+"lead_ret": 25.72,
+"second": "유니드",
+"second_ret": 2.91
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 4.21,
+"up5": 5,
+"lead": "씨아이테크",
+"lead_ret": 29.71,
+"second": "웹스",
+"second_ret": 6.95
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 4.13,
+"up5": 4,
+"lead": "퀄리타스반도체",
+"lead_ret": 15.1,
+"second": "파두",
+"second_ret": 9.94
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.07,
+"up5": 3,
+"lead": "선익시스템",
+"lead_ret": 13.18,
+"second": "한화솔루션",
+"second_ret": 7.76
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 3.79,
+"up5": 3,
+"lead": "퀄리타스반도체",
+"lead_ret": 15.1,
+"second": "칩스앤미디어",
+"second_ret": 12.85
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 3.61,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 10.26,
+"second": "에코플라스틱",
+"second_ret": 7.61
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": 3.51,
+"up5": 5,
+"lead": "티로보틱스",
+"lead_ret": 18.71,
+"second": "크라우드웍스",
+"second_ret": 14.1
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.47,
+"up5": 3,
+"lead": "그린케미칼",
+"lead_ret": 9.42,
+"second": "한화솔루션",
+"second_ret": 7.76
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.62,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": 0.26,
+"second": "유성티엔에스",
+"second_ret": -0.49
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.56,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": -0.17,
+"second": "현대해상",
+"second_ret": -0.17
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.11,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 2.35,
+"second": "그래디언트",
+"second_ret": 0.63
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -0.56,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 1.57,
+"second": "대신정보통신",
+"second_ret": 1.48
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.39,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 1.14,
+"second": "녹십자",
+"second_ret": 0.93
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 16.36,
+"value": 3122,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "컨텍",
+"code": "451760",
+"ret": 17.08,
+"value": 2696,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 29.87,
+"value": 1874,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 16.26,
+"value": 1865,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 10.38,
+"value": 1081,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+}
+],
+"backfilled": true
+}

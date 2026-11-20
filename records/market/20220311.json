@@ -1,0 +1,254 @@
+{
+"date": "20220311",
+"kospi": -0.71,
+"kosdaq": 0.3,
+"adv": 1274,
+"dec": 620,
+"flat": 178,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 192273,
+"hot": [
+{
+"name": "원자력발전",
+"n": 10,
+"lead": "한신기계",
+"lead_ret": 29.84,
+"second": "일진파워",
+"second_ret": 29.83
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "우원개발",
+"lead_ret": 21.48,
+"second": "까뮤이앤씨",
+"second_ret": 16.48
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 3,
+"lead": "에너토크",
+"lead_ret": 17.24,
+"second": "자연과환경",
+"second_ret": 12.45
+}
+],
+"themes": [
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 7.47,
+"up5": 22,
+"lead": "한신기계",
+"lead_ret": 29.84,
+"second": "일진파워",
+"second_ret": 29.83
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 7.46,
+"up5": 8,
+"lead": "비에이치아이",
+"lead_ret": 15.9,
+"second": "우진",
+"second_ret": 14.19
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 7.21,
+"up5": 8,
+"lead": "SM C&C",
+"lead_ret": 15.93,
+"second": "모두투어",
+"second_ret": 8.31
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 7.1,
+"up5": 4,
+"lead": "우원개발",
+"lead_ret": 21.48,
+"second": "LS마린솔루션",
+"second_ret": 6.93
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 6.76,
+"up5": 2,
+"lead": "일진파워",
+"lead_ret": 29.83,
+"second": "두산에너빌리티",
+"second_ret": 10.19
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 6.35,
+"up5": 3,
+"lead": "한국종합기술",
+"lead_ret": 11.29,
+"second": "시공테크",
+"second_ret": 7.37
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.77,
+"up5": 3,
+"lead": "오픈베이스",
+"lead_ret": 15.49,
+"second": "광무",
+"second_ret": 9.54
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 5.7,
+"up5": 11,
+"lead": "우원개발",
+"lead_ret": 21.48,
+"second": "까뮤이앤씨",
+"second_ret": 16.48
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 5.64,
+"up5": 8,
+"lead": "서전기전",
+"lead_ret": 21.64,
+"second": "대창스틸",
+"second_ret": 21.11
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 4.71,
+"up5": 11,
+"lead": "서전기전",
+"lead_ret": 21.64,
+"second": "한전산업",
+"second_ret": 16.47
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 4.67,
+"up5": 10,
+"lead": "에넥스",
+"lead_ret": 11.14,
+"second": "이건홀딩스",
+"second_ret": 9.29
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.4,
+"up5": 3,
+"lead": "자연과환경",
+"lead_ret": 12.45,
+"second": "덕신이피씨",
+"second_ret": 11.69
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.16,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.12,
+"second": "E1",
+"second_ret": -1.61
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.16,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.12,
+"second": "E1",
+"second_ret": -1.61
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.77,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -0.31,
+"second": "샘표식품",
+"second_ret": -0.48
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": -2.71,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": 0.5,
+"second": "디아이씨",
+"second_ret": 0.4
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -2.37,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.12,
+"second": "미창석유",
+"second_ret": -0.38
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.19,
+"value": 7157,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "일진파워",
+"code": "094820",
+"ret": 29.83,
+"value": 5216,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 17.21,
+"value": 3151,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 15.93,
+"value": 2548,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 29.84,
+"value": 2529,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

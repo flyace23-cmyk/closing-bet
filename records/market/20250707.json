@@ -1,0 +1,246 @@
+{
+"date": "20250707",
+"kospi": 0.17,
+"kosdaq": 0.34,
+"adv": 951,
+"dec": 1284,
+"flat": 130,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 148948,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 3,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "쿠콘",
+"second_ret": 28.32
+},
+{
+"name": "핀테크(FinTech)",
+"n": 3,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "다날",
+"second_ret": 14.64
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 11.72,
+"up5": 4,
+"lead": "쿠콘",
+"lead_ret": 28.32,
+"second": "웹케시",
+"second_ret": 12.39
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.97,
+"up5": 3,
+"lead": "쿠콘",
+"lead_ret": 28.32,
+"second": "다날",
+"second_ret": 14.64
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.5,
+"up5": 6,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "쿠콘",
+"second_ret": 28.32
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 3.79,
+"up5": 2,
+"lead": "쿠콘",
+"lead_ret": 28.32,
+"second": "아톤",
+"second_ret": 6.86
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 3.51,
+"up5": 6,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "다날",
+"second_ret": 14.64
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 3.38,
+"up5": 3,
+"lead": "GS피앤엘",
+"lead_ret": 12.82,
+"second": "제이에스코퍼레이션",
+"second_ret": 11.11
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.09,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 14.64,
+"second": "헥토파이낸셜",
+"second_ret": 8.8
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.72,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 8.47,
+"second": "신한지주",
+"second_ret": 4.76
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 2.65,
+"up5": 2,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "케이엘넷",
+"second_ret": 5.71
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": 2.64,
+"up5": 6,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "다날",
+"second_ret": 14.64
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.54,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 14.64,
+"second": "컴투스홀딩스",
+"second_ret": 8.13
+},
+{
+"name": "인터넷은행",
+"n": 27,
+"avg": 2.4,
+"up5": 2,
+"lead": "한컴위드",
+"lead_ret": 29.96,
+"second": "코나아이",
+"second_ret": 6.64
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -7.44,
+"up5": 1,
+"lead": "로스웰",
+"lead_ret": 15.11,
+"second": "GRT",
+"second_ret": -2.35
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -2.3,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": -0.59,
+"second": "JW중외제약",
+"second_ret": -0.66
+},
+{
+"name": "엔젤산업",
+"n": 23,
+"avg": -2.17,
+"up5": 0,
+"lead": "웅진씽크빅",
+"lead_ret": 3.34,
+"second": "SAMG엔터",
+"second_ret": 3.33
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": -2.11,
+"up5": 0,
+"lead": "인콘",
+"lead_ret": 0.91,
+"second": "동양파일",
+"second_ret": 0.74
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.08,
+"up5": 0,
+"lead": "SAMG엔터",
+"lead_ret": 3.33,
+"second": "에피소드컴퍼니",
+"second_ret": 1.81
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 14.64,
+"value": 4307,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 11.05,
+"value": 4197,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "쿠콘",
+"code": "294570",
+"ret": 28.32,
+"value": 1077,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "달바글로벌",
+"code": "483650",
+"ret": 10.29,
+"value": 873,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "웹케시",
+"code": "053580",
+"ret": 12.39,
+"value": 746,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+}
+],
+"backfilled": true
+}

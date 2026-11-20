@@ -1,0 +1,246 @@
+{
+"date": "20241219",
+"kospi": -1.95,
+"kosdaq": -1.89,
+"adv": 499,
+"dec": 1706,
+"flat": 110,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 136773,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 5,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "큐에스아이",
+"second_ret": 20.86
+},
+{
+"name": "조선기자재",
+"n": 3,
+"lead": "태광",
+"lead_ret": 11.17,
+"second": "오리엔탈정공",
+"second_ret": 8.57
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 4.12,
+"up5": 10,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "큐에스아이",
+"second_ret": 20.86
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 2.98,
+"up5": 2,
+"lead": "그린리소스",
+"lead_ret": 29.95,
+"second": "우성머티리얼스",
+"second_ret": 23.52
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.98,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 23.52,
+"second": "태광산업",
+"second_ret": 1.82
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.75,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "머큐리",
+"second_ret": 9.63
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.45,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 11.17,
+"second": "한국선재",
+"second_ret": 8.45
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 1.66,
+"up5": 1,
+"lead": "대신정보통신",
+"lead_ret": 22.74,
+"second": "엔비티",
+"second_ret": -0.59
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 1.48,
+"up5": 1,
+"lead": "큐에스아이",
+"lead_ret": 20.86,
+"second": "루멘스바이오스",
+"second_ret": 2.94
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 1.1,
+"up5": 2,
+"lead": "전진건설로봇",
+"lead_ret": 27.44,
+"second": "두산밥캣",
+"second_ret": 5.18
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 0.97,
+"up5": 3,
+"lead": "태광",
+"lead_ret": 11.17,
+"second": "오리엔탈정공",
+"second_ret": 8.57
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 0.94,
+"up5": 3,
+"lead": "전진건설로봇",
+"lead_ret": 27.44,
+"second": "대동기어",
+"second_ret": 12.43
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.71,
+"up5": 0,
+"lead": "HC홈센타",
+"lead_ret": 3.62,
+"second": "SG",
+"second_ret": 2.97
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 0.7,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 5.15,
+"second": "HD한국조선해양",
+"second_ret": 2.39
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -5.57,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": -3.29,
+"second": "쿠콘",
+"second_ret": -3.43
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.93,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -1.11,
+"second": "차바이오텍",
+"second_ret": -3.24
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": -4.7,
+"up5": 0,
+"lead": "에스바이오메딕스",
+"lead_ret": 1.47,
+"second": "파미셀",
+"second_ret": 0.38
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.12,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.76,
+"second": "인포바인",
+"second_ret": -0.45
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.08,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": -0.72,
+"second": "이루온",
+"second_ret": -1.63
+}
+],
+"leaders": [
+{
+"name": "SG글로벌",
+"code": "001380",
+"ret": 25.57,
+"value": 3716,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "전진건설로봇",
+"code": "079900",
+"ret": 27.44,
+"value": 2674,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 10.36,
+"value": 1564,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 12.43,
+"value": 1480,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "태광",
+"code": "023160",
+"ret": 11.17,
+"value": 623,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

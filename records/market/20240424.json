@@ -1,0 +1,254 @@
+{
+"date": "20240424",
+"kospi": 2.01,
+"kosdaq": 1.99,
+"adv": 1616,
+"dec": 505,
+"flat": 129,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 174490,
+"hot": [
+{
+"name": "자율주행차",
+"n": 5,
+"lead": "라이콤",
+"lead_ret": 29.82,
+"second": "포니링크",
+"second_ret": 15.35
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "티에스이",
+"lead_ret": 19.33,
+"second": "풍원정밀",
+"second_ret": 13.64
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "제룡전기",
+"lead_ret": 18.73,
+"second": "LG이노텍",
+"second_ret": 11.65
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": 5.23,
+"up5": 4,
+"lead": "티에스이",
+"lead_ret": 19.33,
+"second": "미래컴퍼니",
+"second_ret": 8.24
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 4.0,
+"up5": 1,
+"lead": "라이콤",
+"lead_ret": 29.82,
+"second": "RF머트리얼즈",
+"second_ret": 4.6
+},
+{
+"name": "광고",
+"n": 22,
+"avg": 3.77,
+"up5": 4,
+"lead": "와이즈버즈",
+"lead_ret": 29.08,
+"second": "플레이디",
+"second_ret": 14.13
+},
+{
+"name": "자율주행차",
+"n": 55,
+"avg": 3.6,
+"up5": 12,
+"lead": "라이콤",
+"lead_ret": 29.82,
+"second": "포니링크",
+"second_ret": 15.35
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 3.55,
+"up5": 6,
+"lead": "제주반도체",
+"lead_ret": 5.94,
+"second": "리노공업",
+"second_ret": 5.77
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 3.5,
+"up5": 21,
+"lead": "티에스이",
+"lead_ret": 19.33,
+"second": "싸이맥스",
+"second_ret": 14.88
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 3.43,
+"up5": 9,
+"lead": "피에스케이홀딩스",
+"lead_ret": 10.59,
+"second": "와이씨",
+"second_ret": 8.85
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.36,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 10.81,
+"second": "LG화학",
+"second_ret": 2.55
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.34,
+"up5": 2,
+"lead": "LG이노텍",
+"lead_ret": 11.65,
+"second": "세코닉스",
+"second_ret": 8.63
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 3.27,
+"up5": 7,
+"lead": "폴라리스AI",
+"lead_ret": 20.9,
+"second": "플리토",
+"second_ret": 12.73
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 3.25,
+"up5": 4,
+"lead": "덕산테코피아",
+"lead_ret": 10.19,
+"second": "미래컴퍼니",
+"second_ret": 8.24
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 3.23,
+"up5": 4,
+"lead": "한미반도체",
+"lead_ret": 8.52,
+"second": "성우전자",
+"second_ret": 7.35
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -0.83,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 0.92,
+"second": "우양",
+"second_ret": -0.45
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.81,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.82,
+"second": "iM금융지주",
+"second_ret": -0.36
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.7,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 1.25,
+"second": "코리안리",
+"second_ret": 0.75
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.57,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 0.68,
+"second": "샘표식품",
+"second_ret": 0.0
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.33,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 0.0,
+"second": "동원산업",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "제룡전기",
+"code": "033100",
+"ret": 18.73,
+"value": 3289,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "폴라리스AI",
+"code": "039980",
+"ret": 20.9,
+"value": 1095,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "LG이노텍",
+"code": "011070",
+"ret": 11.65,
+"value": 1076,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "쎄트렉아이",
+"code": "099320",
+"ret": 18.94,
+"value": 1025,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "풍원정밀",
+"code": "371950",
+"ret": 13.64,
+"value": 931,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

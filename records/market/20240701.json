@@ -1,0 +1,254 @@
+{
+"date": "20240701",
+"kospi": 0.23,
+"kosdaq": 0.8,
+"adv": 1104,
+"dec": 1030,
+"flat": 130,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 162495,
+"hot": [
+{
+"name": "비만치료제",
+"n": 7,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "블루엠텍",
+"second_ret": 23.78
+},
+{
+"name": "치매",
+"n": 5,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "펩트론",
+"second_ret": 18.13
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "솔루스첨단소재",
+"lead_ret": 26.37,
+"second": "램테크놀러지",
+"second_ret": 18.05
+}
+],
+"themes": [
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 6.28,
+"up5": 14,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "블루엠텍",
+"second_ret": 23.78
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 5.25,
+"up5": 5,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "큐라티스",
+"second_ret": 10.15
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 4.61,
+"up5": 5,
+"lead": "오킨스전자",
+"lead_ret": 17.37,
+"second": "엑시콘",
+"second_ret": 16.96
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.98,
+"up5": 6,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "펩트론",
+"second_ret": 18.13
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.6,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 4.9,
+"second": "지씨셀",
+"second_ret": 4.43
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.95,
+"up5": 8,
+"lead": "에스티큐브",
+"lead_ret": 10.36,
+"second": "오스코텍",
+"second_ret": 10.25
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.94,
+"up5": 2,
+"lead": "더블유씨피",
+"lead_ret": 9.26,
+"second": "LG에너지솔루션",
+"second_ret": 6.28
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 2.86,
+"up5": 8,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "펩트론",
+"second_ret": 18.13
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.44,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 7.54,
+"second": "삼성바이오로직스",
+"second_ret": 4.4
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 2.43,
+"up5": 11,
+"lead": "인벤티지랩",
+"lead_ret": 29.98,
+"second": "펩트론",
+"second_ret": 18.13
+},
+{
+"name": "의료AI",
+"n": 23,
+"avg": 2.39,
+"up5": 5,
+"lead": "드림씨아이에스",
+"lead_ret": 7.54,
+"second": "파로스아이바이오",
+"second_ret": 6.98
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": 2.36,
+"up5": 4,
+"lead": "오늘이엔엠",
+"lead_ret": 29.98,
+"second": "SG",
+"second_ret": 7.98
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -6.88,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": -3.9,
+"second": "한울앤제주",
+"second_ret": -3.99
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -6.37,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": -2.5,
+"second": "LS마린솔루션",
+"second_ret": -2.78
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": -4.06,
+"up5": 0,
+"lead": "비츠로시스",
+"lead_ret": 1.08,
+"second": "에이루트",
+"second_ret": 0.9
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.93,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": -2.11,
+"second": "미래생명자원",
+"second_ret": -3.55
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -3.9,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": -0.89,
+"second": "신라교역",
+"second_ret": -1.52
+}
+],
+"leaders": [
+{
+"name": "솔루스첨단소재",
+"code": "336370",
+"ret": 26.37,
+"value": 5761,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 18.13,
+"value": 3318,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 16.96,
+"value": 1379,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "오스코텍",
+"code": "039200",
+"ret": 10.25,
+"value": 751,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한독",
+"code": "002390",
+"ret": 12.33,
+"value": 739,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+}
+],
+"backfilled": true
+}

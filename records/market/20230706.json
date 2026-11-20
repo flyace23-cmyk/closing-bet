@@ -1,0 +1,254 @@
+{
+"date": "20230706",
+"kospi": -0.88,
+"kosdaq": -2.32,
+"adv": 303,
+"dec": 1797,
+"flat": 69,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 189472,
+"hot": [
+{
+"name": "자동차부품",
+"n": 11,
+"lead": "성우하이텍",
+"lead_ret": 26.47,
+"second": "디와이덕양",
+"second_ret": 10.02
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "풍국주정",
+"lead_ret": 21.46,
+"second": "일지테크",
+"second_ret": 6.73
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "성우하이텍",
+"lead_ret": 26.47,
+"second": "동국알앤에스",
+"second_ret": 7.62
+}
+],
+"themes": [
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 0.58,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 15.91,
+"second": "팜스코",
+"second_ret": 2.73
+},
+{
+"name": "자동차부품",
+"n": 138,
+"avg": 0.52,
+"up5": 18,
+"lead": "성우하이텍",
+"lead_ret": 26.47,
+"second": "삼미금속",
+"second_ret": 12.26
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 0.44,
+"up5": 1,
+"lead": "메디톡스",
+"lead_ret": 6.21,
+"second": "제테마",
+"second_ret": 4.63
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 20,
+"avg": 0.32,
+"up5": 3,
+"lead": "동국알앤에스",
+"lead_ret": 7.62,
+"second": "피에이치에이",
+"second_ret": 6.07
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 0.28,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 7.3,
+"second": "삼양패키징",
+"second_ret": 0.87
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 0.17,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 15.91,
+"second": "풀무원",
+"second_ret": -0.95
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 0.12,
+"up5": 1,
+"lead": "메디톡스",
+"lead_ret": 6.21,
+"second": "제테마",
+"second_ret": 4.63
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.08,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 1.86,
+"second": "대성산업",
+"second_ret": 1.38
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -0.01,
+"up5": 1,
+"lead": "풍국주정",
+"lead_ret": 21.46,
+"second": "한국알콜",
+"second_ret": 3.28
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -0.1,
+"up5": 0,
+"lead": "넥센타이어",
+"lead_ret": 3.36,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 2.94
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.12,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 4.89,
+"second": "유니온",
+"second_ret": 0.14
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.13,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 1.04,
+"second": "기아",
+"second_ret": 1.02
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -6.01,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -1.06,
+"second": "대우건설",
+"second_ret": -3.09
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": -5.22,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.56,
+"second": "이오테크닉스",
+"second_ret": -1.26
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -4.54,
+"up5": 0,
+"lead": "이오테크닉스",
+"lead_ret": -1.26,
+"second": "지아이에스",
+"second_ret": -2.21
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -3.92,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.56,
+"second": "자람테크놀로지",
+"second_ret": -1.44
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -3.87,
+"up5": 0,
+"lead": "아이씨에이치",
+"lead_ret": -0.16,
+"second": "아모텍",
+"second_ret": -1.64
+}
+],
+"leaders": [
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 26.47,
+"value": 9010,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "디와이덕양",
+"code": "024900",
+"ret": 10.02,
+"value": 1448,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "풍국주정",
+"code": "023900",
+"ret": 21.46,
+"value": 1105,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "신스틸",
+"code": "162300",
+"ret": 14.26,
+"value": 775,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "우양",
+"code": "103840",
+"ret": 15.91,
+"value": 648,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+}
+],
+"backfilled": true
+}

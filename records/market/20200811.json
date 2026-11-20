@@ -1,0 +1,254 @@
+{
+"date": "20200811",
+"kospi": 1.35,
+"kosdaq": -0.29,
+"adv": 956,
+"dec": 793,
+"flat": 181,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 302968,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "유에스티",
+"lead_ret": 29.94,
+"second": "알루코",
+"second_ret": 29.85
+},
+{
+"name": "철도",
+"n": 4,
+"lead": "알루코",
+"lead_ret": 29.85,
+"second": "황금에스티",
+"second_ret": 21.69
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "필옵틱스",
+"lead_ret": 19.17,
+"second": "자비스",
+"second_ret": 15.44
+}
+],
+"themes": [
+{
+"name": "니켈",
+"n": 10,
+"avg": 7.43,
+"up5": 3,
+"lead": "유에스티",
+"lead_ret": 29.94,
+"second": "황금에스티",
+"second_ret": 21.69
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 7.02,
+"up5": 2,
+"lead": "일신바이오",
+"lead_ret": 29.98,
+"second": "티앤알바이오팹",
+"second_ret": 5.5
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.57,
+"up5": 2,
+"lead": "유에스티",
+"lead_ret": 29.94,
+"second": "SK오션플랜트",
+"second_ret": 12.39
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.08,
+"up5": 2,
+"lead": "KG스틸",
+"lead_ret": 14.62,
+"second": "세아베스틸지주",
+"second_ret": 6.45
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 4.05,
+"up5": 3,
+"lead": "DB손해보험",
+"lead_ret": 9.81,
+"second": "현대해상",
+"second_ret": 6.33
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.32,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 11.68,
+"second": "대성창투",
+"second_ret": 6.07
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.28,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 8.17,
+"second": "KG케미칼",
+"second_ret": 4.81
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.22,
+"up5": 2,
+"lead": "코오롱글로벌",
+"lead_ret": 13.09,
+"second": "덕신이피씨",
+"second_ret": 6.45
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 3.21,
+"up5": 3,
+"lead": "알루코",
+"lead_ret": 29.85,
+"second": "황금에스티",
+"second_ret": 21.69
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 3.15,
+"up5": 1,
+"lead": "신한지주",
+"lead_ret": 6.48,
+"second": "iM금융지주",
+"second_ret": 4.63
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.11,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 13.09,
+"second": "LX인터내셔널",
+"second_ret": 3.33
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.89,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 21.31,
+"second": "한국비티비",
+"second_ret": 6.63
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": -2.71,
+"up5": 2,
+"lead": "엑세스바이오",
+"lead_ret": 20.64,
+"second": "바이오스마트",
+"second_ret": 9.42
+},
+{
+"name": "마이크로바이옴",
+"n": 16,
+"avg": -2.01,
+"up5": 1,
+"lead": "LG생활건강",
+"lead_ret": 8.86,
+"second": "아모레퍼시픽",
+"second_ret": 3.57
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.92,
+"up5": 1,
+"lead": "엑세스바이오",
+"lead_ret": 20.64,
+"second": "인트론바이오",
+"second_ret": 2.23
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 30,
+"avg": -1.75,
+"up5": 1,
+"lead": "플레이위드",
+"lead_ret": 13.62,
+"second": "더블유게임즈",
+"second_ret": 2.71
+},
+{
+"name": "반도체 재료/부품",
+"n": 57,
+"avg": -1.71,
+"up5": 1,
+"lead": "뉴파워프라즈마",
+"lead_ret": 5.62,
+"second": "티이엠씨씨엔에스",
+"second_ret": 3.03
+}
+],
+"leaders": [
+{
+"name": "SK디스커버리",
+"code": "006120",
+"ret": 15.03,
+"value": 10350,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 29.98,
+"value": 5151,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "엑세스바이오",
+"code": "950130",
+"ret": 20.64,
+"value": 2475,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "PS일렉트로닉스",
+"code": "332570",
+"ret": 23.23,
+"value": 2441,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "특수건설",
+"code": "026150",
+"ret": 11.14,
+"value": 1940,
+"theme": "철도",
+"reason": "테마: 철도"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240902",
+"kospi": 0.25,
+"kosdaq": 0.2,
+"adv": 798,
+"dec": 1326,
+"flat": 157,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 153863,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "포스코퓨처엠",
+"lead_ret": 14.92,
+"second": "엔켐",
+"second_ret": 12.01
+},
+{
+"name": "리튬",
+"n": 5,
+"lead": "리튬포어스",
+"lead_ret": 21.48,
+"second": "포스코엠텍",
+"second_ret": 16.37
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "포스코DX",
+"lead_ret": 14.29,
+"second": "이랜시스",
+"second_ret": 8.61
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.85,
+"up5": 12,
+"lead": "리튬포어스",
+"lead_ret": 21.48,
+"second": "포스코엠텍",
+"second_ret": 16.37
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.21,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 21.48,
+"second": "대원미디어",
+"second_ret": 2.62
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.07,
+"up5": 3,
+"lead": "에코프로비엠",
+"lead_ret": 8.02,
+"second": "LG에너지솔루션",
+"second_ret": 6.19
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.62,
+"up5": 6,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 19.33,
+"second": "갤럭시아에스엠",
+"second_ret": 7.33
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 1.99,
+"up5": 1,
+"lead": "유라클",
+"lead_ret": 6.37,
+"second": "갤럭시아머니트리",
+"second_ret": 4.56
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 1.99,
+"up5": 14,
+"lead": "포스코퓨처엠",
+"lead_ret": 14.92,
+"second": "엔켐",
+"second_ret": 12.01
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 1.93,
+"up5": 5,
+"lead": "DS단석",
+"lead_ret": 10.92,
+"second": "코스모화학",
+"second_ret": 10.45
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 1.79,
+"up5": 2,
+"lead": "LG에너지솔루션",
+"lead_ret": 6.19,
+"second": "탑머티리얼",
+"second_ret": 5.36
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 1.65,
+"up5": 2,
+"lead": "대한제강",
+"lead_ret": 7.17,
+"second": "POSCO홀딩스",
+"second_ret": 5.88
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 1.61,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 9.61,
+"second": "한울반도체",
+"second_ret": 5.05
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 1.54,
+"up5": 3,
+"lead": "LG에너지솔루션",
+"lead_ret": 6.19,
+"second": "POSCO홀딩스",
+"second_ret": 5.88
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.37,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 4.26,
+"second": "삼성화재",
+"second_ret": 3.9
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -2.64,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -0.17,
+"second": "가온전선",
+"second_ret": -1.13
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.4,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 1.03,
+"second": "한화오션",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.31,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -1.53,
+"second": "소마젠",
+"second_ret": -1.67
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.29,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": -0.66,
+"second": "국제약품",
+"second_ret": -0.73
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.19,
+"up5": 0,
+"lead": "레이저쎌",
+"lead_ret": 4.65,
+"second": "예스티",
+"second_ret": 2.93
+}
+],
+"leaders": [
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 14.92,
+"value": 3432,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "티디에스팜",
+"code": "464280",
+"ret": 11.28,
+"value": 3283,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "엑셀세라퓨틱스",
+"code": "373110",
+"ret": 22.85,
+"value": 2619,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 14.29,
+"value": 1717,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 12.01,
+"value": 1344,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

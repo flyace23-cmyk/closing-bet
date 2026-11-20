@@ -1,0 +1,254 @@
+{
+"date": "20240813",
+"kospi": 0.12,
+"kosdaq": -1.02,
+"adv": 688,
+"dec": 1454,
+"flat": 131,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 158955,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "레몬",
+"lead_ret": 29.91,
+"second": "한농화성",
+"second_ret": 23.07
+},
+{
+"name": "전기차",
+"n": 8,
+"lead": "와이엠텍",
+"lead_ret": 29.94,
+"second": "SFA넥셀",
+"second_ret": 15.9
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 4,
+"lead": "와이엠텍",
+"lead_ret": 29.94,
+"second": "와이투솔루션",
+"second_ret": 22.69
+}
+],
+"themes": [
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 4.52,
+"up5": 9,
+"lead": "레몬",
+"lead_ret": 29.91,
+"second": "한농화성",
+"second_ret": 23.07
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 21,
+"avg": 3.86,
+"up5": 4,
+"lead": "와이엠텍",
+"lead_ret": 29.94,
+"second": "와이투솔루션",
+"second_ret": 22.69
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.76,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 11.28,
+"second": "대성에너지",
+"second_ret": 7.29
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.49,
+"up5": 1,
+"lead": "레몬",
+"lead_ret": 29.91,
+"second": "켐트로닉스",
+"second_ret": 4.35
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 2.39,
+"up5": 8,
+"lead": "와이엠텍",
+"lead_ret": 29.94,
+"second": "그리드위즈",
+"second_ret": 17.42
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.3,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.64,
+"second": "중앙에너비스",
+"second_ret": 4.01
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.3,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.64,
+"second": "중앙에너비스",
+"second_ret": 4.01
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.13,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 4.51,
+"second": "현대해상",
+"second_ret": 4.24
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 1.78,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 6.77,
+"second": "흥아해운",
+"second_ret": 1.68
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.56,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.64,
+"second": "극동유화",
+"second_ret": 1.91
+},
+{
+"name": "2차전지(장비)",
+"n": 42,
+"avg": 1.54,
+"up5": 7,
+"lead": "SFA넥셀",
+"lead_ret": 15.9,
+"second": "엠플러스",
+"second_ret": 11.04
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 1.15,
+"up5": 2,
+"lead": "케이엔에스",
+"lead_ret": 8.69,
+"second": "아이에이",
+"second_ret": 7.36
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -4.8,
+"up5": 0,
+"lead": "위더스제약",
+"lead_ret": -1.18,
+"second": "국전",
+"second_ret": -1.9
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": -3.55,
+"up5": 0,
+"lead": "오상자이엘",
+"lead_ret": 3.88,
+"second": "진시스템",
+"second_ret": 0.53
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": -3.23,
+"up5": 2,
+"lead": "지에프씨생명과학",
+"lead_ret": 15.0,
+"second": "제닉",
+"second_ret": 5.41
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -3.18,
+"up5": 0,
+"lead": "팬젠",
+"lead_ret": 0.58,
+"second": "대웅제약",
+"second_ret": -0.4
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.17,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": -1.27,
+"second": "메디포스트",
+"second_ret": -2.42
+}
+],
+"leaders": [
+{
+"name": "크래프톤",
+"code": "259960",
+"ret": 12.97,
+"value": 4242,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "그리드위즈",
+"code": "453450",
+"ret": 17.42,
+"value": 2845,
+"theme": "전기차(충전소/충전기)",
+"reason": "테마: 전기차(충전소/충전기)"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 11.28,
+"value": 2744,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 15.9,
+"value": 2148,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 13.14,
+"value": 1686,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

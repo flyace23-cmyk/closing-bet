@@ -1,0 +1,254 @@
+{
+"date": "20250912",
+"kospi": 1.54,
+"kosdaq": 1.48,
+"adv": 1411,
+"dec": 822,
+"flat": 146,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 217446,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "하나머티리얼즈",
+"lead_ret": 21.84,
+"second": "한양디지텍",
+"second_ret": 21.34
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "엠디바이스",
+"lead_ret": 29.95,
+"second": "싸이닉솔루션",
+"second_ret": 16.35
+},
+{
+"name": "건강기능식품",
+"n": 3,
+"lead": "메디포스트",
+"lead_ret": 19.26,
+"second": "사토시홀딩스",
+"second_ret": 17.31
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 7.17,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 19.26,
+"second": "강스템바이오텍",
+"second_ret": 10.5
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 3.53,
+"up5": 16,
+"lead": "하나머티리얼즈",
+"lead_ret": 21.84,
+"second": "한양디지텍",
+"second_ret": 21.34
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.41,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 10.5,
+"second": "티앤알바이오팹",
+"second_ret": 8.48
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 3.27,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 19.42,
+"second": "서울보증보험",
+"second_ret": 3.84
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.21,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 7.0,
+"second": "LG디스플레이",
+"second_ret": 2.98
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 3.12,
+"up5": 3,
+"lead": "라온텍",
+"lead_ret": 8.46,
+"second": "사피엔반도체",
+"second_ret": 7.98
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 3.04,
+"up5": 4,
+"lead": "와이엠티",
+"lead_ret": 13.97,
+"second": "제이앤티씨",
+"second_ret": 10.7
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 2.9,
+"up5": 4,
+"lead": "메디포스트",
+"lead_ret": 19.26,
+"second": "강스템바이오텍",
+"second_ret": 10.5
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.81,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 8.35,
+"second": "SK하이닉스",
+"second_ret": 7.0
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 2.8,
+"up5": 3,
+"lead": "범한퓨얼셀",
+"lead_ret": 12.16,
+"second": "SFA",
+"second_ret": 9.85
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.68,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 10.93,
+"second": "에피소드컴퍼니",
+"second_ret": 3.82
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.68,
+"up5": 3,
+"lead": "사조동아원",
+"lead_ret": 23.57,
+"second": "한탑",
+"second_ret": 7.09
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -4.39,
+"up5": 0,
+"lead": "한선엔지니어링",
+"lead_ret": 0.44,
+"second": "화성밸브",
+"second_ret": -1.19
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -4.14,
+"up5": 1,
+"lead": "범한퓨얼셀",
+"lead_ret": 12.16,
+"second": "SK오션플랜트",
+"second_ret": 4.12
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -2.06,
+"up5": 0,
+"lead": "케이엔알시스템",
+"lead_ret": 3.21,
+"second": "현대건설",
+"second_ret": 1.19
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -2.04,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 0.53,
+"second": "HD현대중공업",
+"second_ret": -1.35
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": -2.01,
+"up5": 0,
+"lead": "효성중공업",
+"lead_ret": 4.26,
+"second": "디티앤씨",
+"second_ret": 2.76
+}
+],
+"leaders": [
+{
+"name": "엘앤씨바이오",
+"code": "290650",
+"ret": 20.04,
+"value": 2769,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "로보로보",
+"code": "215100",
+"ret": 15.29,
+"value": 1992,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "싸이닉솔루션",
+"code": "234030",
+"ret": 16.35,
+"value": 1869,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "나우로보틱스",
+"code": "459510",
+"ret": 28.3,
+"value": 1586,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "PS일렉트로닉스",
+"code": "332570",
+"ret": 11.83,
+"value": 1460,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

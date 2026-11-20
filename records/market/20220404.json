@@ -1,0 +1,246 @@
+{
+"date": "20220404",
+"kospi": 0.66,
+"kosdaq": 0.72,
+"adv": 1307,
+"dec": 561,
+"flat": 209,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 173978,
+"hot": [
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "비비안",
+"lead_ret": 30.0,
+"second": "패션플랫폼",
+"second_ret": 20.61
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 3,
+"lead": "비비안",
+"lead_ret": 30.0,
+"second": "모나미",
+"second_ret": 13.62
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.21,
+"up5": 5,
+"lead": "AK홀딩스",
+"lead_ret": 7.89,
+"second": "티웨이홀딩스",
+"second_ret": 7.35
+},
+{
+"name": "패션/의류",
+"n": 48,
+"avg": 3.64,
+"up5": 10,
+"lead": "비비안",
+"lead_ret": 30.0,
+"second": "패션플랫폼",
+"second_ret": 20.61
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 3.54,
+"up5": 6,
+"lead": "뉴보텍",
+"lead_ret": 29.67,
+"second": "KBI동양철관",
+"second_ret": 13.67
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.42,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 20.34,
+"second": "KBI동양철관",
+"second_ret": 13.67
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 3.25,
+"up5": 4,
+"lead": "비비안",
+"lead_ret": 30.0,
+"second": "휴비스",
+"second_ret": 6.73
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 3.17,
+"up5": 3,
+"lead": "비비안",
+"lead_ret": 30.0,
+"second": "모나미",
+"second_ret": 13.62
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 3.04,
+"up5": 1,
+"lead": "엔키AX",
+"lead_ret": 14.23,
+"second": "이스트에이드",
+"second_ret": 4.95
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.98,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 29.67,
+"second": "파루",
+"second_ret": 1.61
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 21,
+"avg": 2.92,
+"up5": 4,
+"lead": "태성",
+"lead_ret": 19.95,
+"second": "금호에이치티",
+"second_ret": 10.0
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.91,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 20.34,
+"second": "디케이락",
+"second_ret": 2.7
+},
+{
+"name": "리튬",
+"n": 19,
+"avg": 2.76,
+"up5": 2,
+"lead": "미래산업",
+"lead_ret": 29.88,
+"second": "앱튼",
+"second_ret": 9.5
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.61,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 6.41,
+"second": "대원미디어",
+"second_ret": 3.58
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.5,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 0.91,
+"second": "유비벨록스",
+"second_ret": -1.68
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.5,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 0.9,
+"second": "서울가스",
+"second_ret": 0.0
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.39,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 1.65,
+"second": "삼성물산",
+"second_ret": 0.44
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -0.78,
+"up5": 1,
+"lead": "판타지오",
+"lead_ret": 6.16,
+"second": "드림어스컴퍼니",
+"second_ret": 1.98
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -0.74,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": 4.21,
+"second": "대주산업",
+"second_ret": 1.88
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 12.67,
+"value": 9216,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 18.65,
+"value": 5687,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 10.3,
+"value": 2836,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "KEC",
+"code": "092220",
+"ret": 12.92,
+"value": 2459,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "아이오케이이엔엠",
+"code": "078860",
+"ret": 29.92,
+"value": 1372,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210702",
+"kospi": -0.01,
+"kosdaq": 0.25,
+"adv": 778,
+"dec": 1024,
+"flat": 211,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 248764,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "이루온",
+"lead_ret": 20.21,
+"second": "기산텔레콤",
+"second_ret": 12.46
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "코미팜",
+"lead_ret": 29.87,
+"second": "바이오니아",
+"second_ret": 21.66
+},
+{
+"name": "리모델링/인테리어",
+"n": 3,
+"lead": "이건홀딩스",
+"lead_ret": 21.83,
+"second": "시공테크",
+"second_ret": 12.1
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 5.52,
+"up5": 2,
+"lead": "포커스에이아이",
+"lead_ret": 29.97,
+"second": "인콘",
+"second_ret": 7.37
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.62,
+"up5": 3,
+"lead": "이연제약",
+"lead_ret": 19.84,
+"second": "서린바이오",
+"second_ret": 7.83
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.38,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 20.21,
+"second": "성우전자",
+"second_ret": 2.07
+},
+{
+"name": "보안주(물리)",
+"n": 14,
+"avg": 2.91,
+"up5": 3,
+"lead": "포커스에이아이",
+"lead_ret": 29.97,
+"second": "인콘",
+"second_ret": 7.37
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 2.88,
+"up5": 4,
+"lead": "이건홀딩스",
+"lead_ret": 21.83,
+"second": "시공테크",
+"second_ret": 12.1
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.83,
+"up5": 1,
+"lead": "DL이앤씨",
+"lead_ret": 5.92,
+"second": "IPARK현대산업개발",
+"second_ret": 4.19
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 2.64,
+"up5": 3,
+"lead": "코미팜",
+"lead_ret": 29.87,
+"second": "한국파마",
+"second_ret": 9.65
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.59,
+"up5": 1,
+"lead": "이건홀딩스",
+"lead_ret": 21.83,
+"second": "이건산업",
+"second_ret": 4.12
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.59,
+"up5": 1,
+"lead": "이건홀딩스",
+"lead_ret": 21.83,
+"second": "이건산업",
+"second_ret": 4.12
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.31,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 15.51,
+"second": "아이티센씨티에스",
+"second_ret": 1.55
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.26,
+"up5": 3,
+"lead": "서한",
+"lead_ret": 8.88,
+"second": "HL D&I",
+"second_ret": 6.26
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.05,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 20.21,
+"second": "엑스플러스",
+"second_ret": 1.27
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -1.3,
+"up5": 0,
+"lead": "푸른로보틱스",
+"lead_ret": 1.13,
+"second": "풍산",
+"second_ret": 0.13
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -1.26,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": 1.89,
+"second": "플랜티넷",
+"second_ret": 1.07
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.09,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 1.36,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": -1.07,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": 2.74,
+"second": "예스24",
+"second_ret": 1.51
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": -0.96,
+"up5": 0,
+"lead": "아이에스동서",
+"lead_ret": 0.98,
+"second": "인선이엔티",
+"second_ret": 0.75
+}
+],
+"leaders": [
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 24.52,
+"value": 14999,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 19.84,
+"value": 8061,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 20.21,
+"value": 4700,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "오픈베이스",
+"code": "049480",
+"ret": 15.51,
+"value": 4374,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 21.66,
+"value": 3969,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

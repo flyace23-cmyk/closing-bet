@@ -1,0 +1,254 @@
+{
+"date": "20240816",
+"kospi": 1.99,
+"kosdaq": 1.22,
+"adv": 1184,
+"dec": 961,
+"flat": 128,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 180091,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "케이바이오랩스",
+"lead_ret": 29.93,
+"second": "파미셀",
+"second_ret": 29.89
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "파미셀",
+"lead_ret": 29.89,
+"second": "한국화장품제조",
+"second_ret": 20.34
+},
+{
+"name": "마스크",
+"n": 4,
+"lead": "웰크론",
+"lead_ret": 25.64,
+"second": "모나리자",
+"second_ret": 21.29
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 7.71,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 29.89,
+"second": "유한양행",
+"second_ret": 7.94
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 5.81,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 29.89,
+"second": "에스티팜",
+"second_ret": 6.5
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.25,
+"up5": 2,
+"lead": "콜마바이오텍",
+"lead_ret": 29.97,
+"second": "GH신소재",
+"second_ret": 6.54
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 5.02,
+"up5": 10,
+"lead": "파미셀",
+"lead_ret": 29.89,
+"second": "바이오노트",
+"second_ret": 25.17
+},
+{
+"name": "황사/미세먼지",
+"n": 25,
+"avg": 4.64,
+"up5": 6,
+"lead": "케스피온",
+"lead_ret": 29.87,
+"second": "웰크론",
+"second_ret": 25.64
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 4.28,
+"up5": 6,
+"lead": "웰크론",
+"lead_ret": 25.64,
+"second": "모나리자",
+"second_ret": 21.29
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 4.15,
+"up5": 5,
+"lead": "라메디텍",
+"lead_ret": 20.62,
+"second": "한국비엔씨",
+"second_ret": 8.43
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.14,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 7.05,
+"second": "SK하이닉스",
+"second_ret": 6.96
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.87,
+"up5": 1,
+"lead": "케스피온",
+"lead_ret": 29.87,
+"second": "아모그린텍",
+"second_ret": 4.78
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.87,
+"up5": 1,
+"lead": "케스피온",
+"lead_ret": 29.87,
+"second": "아모그린텍",
+"second_ret": 4.78
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 3.25,
+"up5": 16,
+"lead": "케이바이오랩스",
+"lead_ret": 29.93,
+"second": "파미셀",
+"second_ret": 29.89
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.13,
+"up5": 3,
+"lead": "프레스티지바이오로직스",
+"lead_ret": 14.61,
+"second": "바이넥스",
+"second_ret": 10.29
+}
+],
+"themes_worst": [
+{
+"name": "수산",
+"n": 9,
+"avg": -3.47,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 1.18,
+"second": "동원수산",
+"second_ret": 1.07
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.98,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 1.18,
+"second": "한울앤제주",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.86,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": -0.6,
+"second": "신송홀딩스",
+"second_ret": -1.69
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.48,
+"up5": 0,
+"lead": "HC보광산업",
+"lead_ret": 0.85,
+"second": "아이티센씨티에스",
+"second_ret": 0.84
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.34,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 0.58,
+"second": "GS",
+"second_ret": 0.22
+}
+],
+"leaders": [
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 11.88,
+"value": 3406,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 11.8,
+"value": 1740,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 29.89,
+"value": 1486,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 14.05,
+"value": 1334,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "산일전기",
+"code": "062040",
+"ret": 14.8,
+"value": 1267,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20231117",
+"kospi": -0.74,
+"kosdaq": -1.49,
+"adv": 559,
+"dec": 1540,
+"flat": 113,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 112856,
+"hot": [
+{
+"name": "유전자 치료제/분석",
+"n": 5,
+"lead": "툴젠",
+"lead_ret": 29.83,
+"second": "마크로젠",
+"second_ret": 29.77
+},
+{
+"name": "마이크로바이옴",
+"n": 3,
+"lead": "마크로젠",
+"lead_ret": 29.77,
+"second": "인트론바이오",
+"second_ret": 12.39
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "마크로젠",
+"lead_ret": 29.77,
+"second": "대웅",
+"second_ret": 14.98
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.5,
+"up5": 4,
+"lead": "제주항공",
+"lead_ret": 10.44,
+"second": "트리니티항공",
+"second_ret": 7.35
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.94,
+"up5": 3,
+"lead": "마크로젠",
+"lead_ret": 29.77,
+"second": "인트론바이오",
+"second_ret": 12.39
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 2.7,
+"up5": 1,
+"lead": "핑거",
+"lead_ret": 26.29,
+"second": "NICE평가정보",
+"second_ret": 4.27
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.09,
+"up5": 1,
+"lead": "녹십자",
+"lead_ret": 8.87,
+"second": "지씨셀",
+"second_ret": 1.9
+},
+{
+"name": "유전자 치료제/분석",
+"n": 33,
+"avg": 2.01,
+"up5": 5,
+"lead": "툴젠",
+"lead_ret": 29.83,
+"second": "마크로젠",
+"second_ret": 29.77
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.69,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 4.35,
+"second": "GS건설",
+"second_ret": 2.53
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 1.32,
+"up5": 2,
+"lead": "마크로젠",
+"lead_ret": 29.77,
+"second": "풍전약품",
+"second_ret": 5.73
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.12,
+"up5": 1,
+"lead": "녹십자",
+"lead_ret": 8.87,
+"second": "소마젠",
+"second_ret": 2.74
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 0.82,
+"up5": 1,
+"lead": "한국수출포장",
+"lead_ret": 9.43,
+"second": "아세아제지",
+"second_ret": 1.8
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 0.7,
+"up5": 3,
+"lead": "핑거",
+"lead_ret": 26.29,
+"second": "라온시큐어",
+"second_ret": 8.89
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 0.7,
+"up5": 3,
+"lead": "에이엘티",
+"lead_ret": 8.94,
+"second": "라온시큐어",
+"second_ret": 8.89
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 22,
+"avg": 0.69,
+"up5": 1,
+"lead": "엠젠솔루션",
+"lead_ret": 22.46,
+"second": "에스원",
+"second_ret": 4.18
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -4.15,
+"up5": 0,
+"lead": "NHN벅스",
+"lead_ret": 0.13,
+"second": "CJ ENM",
+"second_ret": -0.29
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.66,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -1.68,
+"second": "에코프로비엠",
+"second_ret": -1.86
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -3.09,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": 0.18,
+"second": "모아텍",
+"second_ret": -0.62
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": -3.03,
+"up5": 0,
+"lead": "비트플래닛",
+"lead_ret": 1.21,
+"second": "TS인베스트먼트",
+"second_ret": 0.08
+},
+{
+"name": "게임",
+"n": 29,
+"avg": -2.95,
+"up5": 0,
+"lead": "플레이위드",
+"lead_ret": 1.97,
+"second": "넥써쓰",
+"second_ret": 0.38
+}
+],
+"leaders": [
+{
+"name": "인트론바이오",
+"code": "048530",
+"ret": 12.39,
+"value": 993,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "필에너지",
+"code": "378340",
+"ret": 13.44,
+"value": 868,
+"theme": "2차전지(장비)",
+"reason": "테마: 2차전지(장비)"
+},
+{
+"name": "핑거",
+"code": "163730",
+"ret": 26.29,
+"value": 696,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "마크로젠",
+"code": "038290",
+"ret": 29.77,
+"value": 658,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 13.35,
+"value": 644,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+}
+],
+"backfilled": true
+}

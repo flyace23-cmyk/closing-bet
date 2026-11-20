@@ -1,0 +1,246 @@
+{
+"date": "20220927",
+"kospi": 0.13,
+"kosdaq": 0.83,
+"adv": 873,
+"dec": 1051,
+"flat": 175,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 128626,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "율촌화학",
+"lead_ret": 15.12,
+"second": "새빗켐",
+"second_ret": 13.8
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "새빗켐",
+"lead_ret": 13.8,
+"second": "미래나노텍",
+"second_ret": 12.5
+}
+],
+"themes": [
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.17,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 7.64,
+"second": "GKL",
+"second_ret": 5.9
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.17,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 7.64,
+"second": "GKL",
+"second_ret": 5.9
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.85,
+"up5": 1,
+"lead": "에어부산",
+"lead_ret": 13.12,
+"second": "한진칼",
+"second_ret": 4.72
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.57,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 29.85,
+"second": "네패스",
+"second_ret": 1.42
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 10,
+"avg": 3.07,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 29.85,
+"second": "네오셈",
+"second_ret": 5.94
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.65,
+"up5": 1,
+"lead": "글로벌텍스프리",
+"lead_ret": 7.64,
+"second": "JTC",
+"second_ret": 4.95
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.47,
+"up5": 1,
+"lead": "모두투어",
+"lead_ret": 6.18,
+"second": "하나투어",
+"second_ret": 4.52
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.4,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 7.71,
+"second": "팬오션",
+"second_ret": 3.48
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.17,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 15.15,
+"second": "에피소드컴퍼니",
+"second_ret": 3.11
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.07,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 7.64,
+"second": "롯데관광개발",
+"second_ret": 4.19
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.06,
+"up5": 3,
+"lead": "새빗켐",
+"lead_ret": 13.8,
+"second": "미래나노텍",
+"second_ret": 12.5
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.05,
+"up5": 1,
+"lead": "YG PLUS",
+"lead_ret": 13.86,
+"second": "알비더블유",
+"second_ret": 4.41
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.49,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.35,
+"second": "샘표식품",
+"second_ret": -2.19
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -3.95,
+"up5": 0,
+"lead": "우진비앤지",
+"lead_ret": 1.89,
+"second": "씨티씨바이오",
+"second_ret": 1.07
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.68,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": 2.56,
+"second": "삼성중공업",
+"second_ret": 0.0
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.64,
+"up5": 0,
+"lead": "인콘",
+"lead_ret": 3.37,
+"second": "아이디스",
+"second_ret": 0.25
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -2.56,
+"up5": 0,
+"lead": "이랜텍",
+"lead_ret": 1.2,
+"second": "한솔테크닉스",
+"second_ret": 0.81
+}
+],
+"leaders": [
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 29.85,
+"value": 1495,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 12.5,
+"value": 1235,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "에스티큐브",
+"code": "052020",
+"ret": 17.07,
+"value": 904,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 13.86,
+"value": 801,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "코닉오토메이션",
+"code": "391710",
+"ret": 29.88,
+"value": 782,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

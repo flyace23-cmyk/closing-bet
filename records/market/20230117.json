@@ -1,0 +1,246 @@
+{
+"date": "20230117",
+"kospi": -0.85,
+"kosdaq": -1.0,
+"adv": 532,
+"dec": 1462,
+"flat": 134,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 113377,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "알체라",
+"lead_ret": 17.02,
+"second": "한국전자인증",
+"second_ret": 12.34
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "알체라",
+"lead_ret": 17.02,
+"second": "비트맥스",
+"second_ret": 11.98
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.65,
+"up5": 2,
+"lead": "현대해상",
+"lead_ret": 6.14,
+"second": "DB손해보험",
+"second_ret": 5.16
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.11,
+"up5": 1,
+"lead": "세림B&G",
+"lead_ret": 22.35,
+"second": "삼륭물산",
+"second_ret": 1.73
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.86,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 6.63,
+"second": "에어부산",
+"second_ret": 4.78
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": 1.81,
+"up5": 1,
+"lead": "알체라",
+"lead_ret": 17.02,
+"second": "한빛소프트",
+"second_ret": 1.11
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 1.77,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 11.22,
+"second": "대원미디어",
+"second_ret": 1.23
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 1.56,
+"up5": 1,
+"lead": "아틀라스링크",
+"lead_ret": 29.72,
+"second": "아티스트컴퍼니",
+"second_ret": 3.77
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 1.5,
+"up5": 1,
+"lead": "한국전자인증",
+"lead_ret": 12.34,
+"second": "엔비티",
+"second_ret": 1.5
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.35,
+"up5": 1,
+"lead": "노랑풍선",
+"lead_ret": 5.28,
+"second": "모두투어",
+"second_ret": 2.5
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 1.33,
+"up5": 4,
+"lead": "비트맥스",
+"lead_ret": 11.98,
+"second": "가온그룹",
+"second_ret": 7.23
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 0.9,
+"up5": 2,
+"lead": "플리토",
+"lead_ret": 10.65,
+"second": "코난테크놀로지",
+"second_ret": 7.25
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 0.89,
+"up5": 1,
+"lead": "서연탑메탈",
+"lead_ret": 13.03,
+"second": "대모",
+"second_ret": 4.38
+},
+{
+"name": "영상콘텐츠",
+"n": 25,
+"avg": 0.88,
+"up5": 2,
+"lead": "스튜디오쏠쏠",
+"lead_ret": 13.7,
+"second": "자이언트스텝",
+"second_ret": 5.28
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": -2.95,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": -0.53,
+"second": "이연제약",
+"second_ret": -2.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.89,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": -0.42,
+"second": "삼성바이오로직스",
+"second_ret": -1.73
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -2.88,
+"up5": 0,
+"lead": "코아스템켐온",
+"lead_ret": 0.38,
+"second": "안트로젠",
+"second_ret": -0.34
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.65,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -1.66,
+"second": "지씨셀",
+"second_ret": -2.35
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": -2.61,
+"up5": 0,
+"lead": "케어젠",
+"lead_ret": 4.07,
+"second": "샤페론",
+"second_ret": 1.2
+}
+],
+"leaders": [
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 11.46,
+"value": 2501,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "스튜디오쏠쏠",
+"code": "200350",
+"ret": 13.7,
+"value": 1782,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 14.83,
+"value": 1697,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "한국전자인증",
+"code": "041460",
+"ret": 12.34,
+"value": 1342,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "알체라",
+"code": "347860",
+"ret": 17.02,
+"value": 1323,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

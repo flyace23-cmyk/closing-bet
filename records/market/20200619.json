@@ -1,0 +1,254 @@
+{
+"date": "20200619",
+"kospi": 0.37,
+"kosdaq": 0.64,
+"adv": 1061,
+"dec": 711,
+"flat": 144,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 217526,
+"hot": [
+{
+"name": "전기차",
+"n": 3,
+"lead": "KG모빌리티",
+"lead_ret": 29.98,
+"second": "엘앤에프",
+"second_ret": 17.47
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "인텍플러스",
+"lead_ret": 19.07,
+"second": "엘앤에프",
+"second_ret": 17.47
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 30.0,
+"second": "휴마시스",
+"second_ret": 29.95
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 6.85,
+"up5": 2,
+"lead": "천일고속",
+"lead_ret": 29.86,
+"second": "동양고속",
+"second_ret": 6.08
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 5.26,
+"up5": 5,
+"lead": "코데즈컴바인",
+"lead_ret": 29.98,
+"second": "모나미",
+"second_ret": 29.82
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 4.77,
+"up5": 8,
+"lead": "삼륭물산",
+"lead_ret": 16.89,
+"second": "일지테크",
+"second_ret": 13.37
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 4.3,
+"up5": 2,
+"lead": "대주전자재료",
+"lead_ret": 14.76,
+"second": "아모텍",
+"second_ret": 6.93
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 3.83,
+"up5": 2,
+"lead": "엘앤에프",
+"lead_ret": 17.47,
+"second": "SFA넥셀",
+"second_ret": 9.75
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 3.63,
+"up5": 10,
+"lead": "코데즈컴바인",
+"lead_ret": 29.98,
+"second": "아난티",
+"second_ret": 11.31
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 3.33,
+"up5": 6,
+"lead": "천일고속",
+"lead_ret": 29.86,
+"second": "일신방직",
+"second_ret": 15.56
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.32,
+"up5": 1,
+"lead": "우양피앤엘",
+"lead_ret": 29.87,
+"second": "극동유화",
+"second_ret": 3.39
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 3.31,
+"up5": 2,
+"lead": "대주전자재료",
+"lead_ret": 14.76,
+"second": "HD현대에너지솔루션",
+"second_ret": 5.14
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.27,
+"up5": 1,
+"lead": "KG모빌리티",
+"lead_ret": 29.98,
+"second": "현대차",
+"second_ret": 0.0
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 2.95,
+"up5": 1,
+"lead": "아난티",
+"lead_ret": 11.31,
+"second": "한세엠케이",
+"second_ret": 4.71
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": 2.8,
+"up5": 5,
+"lead": "티에스아이",
+"lead_ret": 14.9,
+"second": "대주전자재료",
+"second_ret": 14.76
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -2.56,
+"up5": 0,
+"lead": "국전",
+"lead_ret": 1.21,
+"second": "수젠텍",
+"second_ret": 0.66
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.4,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 2.9,
+"second": "차바이오텍",
+"second_ret": -1.61
+},
+{
+"name": "제약업체",
+"n": 76,
+"avg": -2.24,
+"up5": 1,
+"lead": "한독",
+"lead_ret": 5.57,
+"second": "비보존 제약",
+"second_ret": 1.86
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": -2.17,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 2.45,
+"second": "제이씨현시스템",
+"second_ret": 1.93
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -2.01,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 0.14,
+"second": "우양",
+"second_ret": -0.76
+}
+],
+"leaders": [
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 14.29,
+"value": 7932,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "KG모빌리티",
+"code": "003620",
+"ret": 29.98,
+"value": 7469,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 11.31,
+"value": 6403,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "SV인베스트먼트",
+"code": "289080",
+"ret": 12.89,
+"value": 3176,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "미코",
+"code": "059090",
+"ret": 12.25,
+"value": 1539,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

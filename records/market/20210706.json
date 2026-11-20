@@ -1,0 +1,254 @@
+{
+"date": "20210706",
+"kospi": 0.36,
+"kosdaq": -0.23,
+"adv": 977,
+"dec": 798,
+"flat": 238,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 255344,
+"hot": [
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 22.57
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "골프존홀딩스",
+"lead_ret": 12.6,
+"second": "DB",
+"second_ret": 12.12
+},
+{
+"name": "전력설비",
+"n": 3,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 22.57
+}
+],
+"themes": [
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 19,
+"avg": 3.92,
+"up5": 4,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 22.57
+},
+{
+"name": "보안주(물리)",
+"n": 14,
+"avg": 3.35,
+"up5": 3,
+"lead": "픽셀플러스",
+"lead_ret": 28.66,
+"second": "이랜시스",
+"second_ret": 10.96
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.34,
+"up5": 2,
+"lead": "한전기술",
+"lead_ret": 11.66,
+"second": "우진",
+"second_ret": 6.1
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 3.0,
+"up5": 4,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 22.57
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 2.89,
+"up5": 7,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 22.57
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 17,
+"avg": 2.49,
+"up5": 2,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "대창스틸",
+"second_ret": 5.15
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.45,
+"up5": 5,
+"lead": "NE능률",
+"lead_ret": 9.47,
+"second": "비상교육",
+"second_ret": 8.99
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 2.44,
+"up5": 1,
+"lead": "로지시스",
+"lead_ret": 11.17,
+"second": "한네트",
+"second_ret": 4.57
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 2.4,
+"up5": 2,
+"lead": "픽셀플러스",
+"lead_ret": 28.66,
+"second": "포톤",
+"second_ret": 9.22
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 2.31,
+"up5": 3,
+"lead": "벽산",
+"lead_ret": 13.69,
+"second": "에넥스",
+"second_ret": 5.75
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.28,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.24,
+"second": "S-Oil",
+"second_ret": 4.27
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.13,
+"up5": 1,
+"lead": "벽산",
+"lead_ret": 13.69,
+"second": "조광페인트",
+"second_ret": 2.13
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.53,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -1.78,
+"second": "지씨셀",
+"second_ret": -1.85
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.49,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": -1.61,
+"second": "소마젠",
+"second_ret": -1.77
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.41,
+"up5": 1,
+"lead": "이연제약",
+"lead_ret": 13.13,
+"second": "올릭스",
+"second_ret": -1.76
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -2.08,
+"up5": 0,
+"lead": "선바이오",
+"lead_ret": 0.48,
+"second": "LG화학",
+"second_ret": 0.34
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 37,
+"avg": -1.9,
+"up5": 0,
+"lead": "진바이오텍",
+"lead_ret": 4.36,
+"second": "엑세스바이오",
+"second_ret": 2.37
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 18.83,
+"value": 7135,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 13.13,
+"value": 6472,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 22.57,
+"value": 5608,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 11.66,
+"value": 2099,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "인바이오젠",
+"code": "101140",
+"ret": 29.96,
+"value": 2086,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

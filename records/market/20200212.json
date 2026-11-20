@@ -1,0 +1,254 @@
+{
+"date": "20200212",
+"kospi": 0.69,
+"kosdaq": 0.62,
+"adv": 923,
+"dec": 785,
+"flat": 195,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 118061,
+"hot": [
+{
+"name": "통신장비",
+"n": 5,
+"lead": "이노인스트루먼트",
+"lead_ret": 30.01,
+"second": "LIG아큐버",
+"second_ret": 20.39
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "에스엠벡셀",
+"lead_ret": 29.91,
+"second": "SFA넥셀",
+"second_ret": 18.15
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에스엠벡셀",
+"lead_ret": 29.91,
+"second": "모트렉스",
+"second_ret": 15.5
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 9,
+"avg": 4.65,
+"up5": 2,
+"lead": "졸스",
+"lead_ret": 29.86,
+"second": "콘텐트리중앙",
+"second_ret": 5.45
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 4.46,
+"up5": 13,
+"lead": "이노인스트루먼트",
+"lead_ret": 30.01,
+"second": "LIG아큐버",
+"second_ret": 20.39
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.03,
+"up5": 3,
+"lead": "글로벌텍스프리",
+"lead_ret": 8.56,
+"second": "신세계",
+"second_ret": 5.82
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 3.62,
+"up5": 10,
+"lead": "이노인스트루먼트",
+"lead_ret": 30.01,
+"second": "LIG아큐버",
+"second_ret": 20.39
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 3.35,
+"up5": 2,
+"lead": "킵스파마",
+"lead_ret": 29.86,
+"second": "원익피앤이",
+"second_ret": 8.12
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.34,
+"up5": 1,
+"lead": "모트렉스",
+"lead_ret": 15.5,
+"second": "HL만도",
+"second_ret": 4.02
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 3.33,
+"up5": 3,
+"lead": "컴퍼니케이",
+"lead_ret": 22.62,
+"second": "큐캐피탈",
+"second_ret": 15.81
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.33,
+"up5": 2,
+"lead": "티웨이홀딩스",
+"lead_ret": 13.69,
+"second": "한진칼",
+"second_ret": 9.85
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 10,
+"avg": 3.25,
+"up5": 2,
+"lead": "RFHIC",
+"lead_ret": 8.49,
+"second": "한국첨단소재",
+"second_ret": 8.13
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 23,
+"avg": 2.85,
+"up5": 3,
+"lead": "에스엠벡셀",
+"lead_ret": 29.91,
+"second": "인텔리안테크",
+"second_ret": 14.85
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 2.84,
+"up5": 3,
+"lead": "후성",
+"lead_ret": 10.22,
+"second": "일지테크",
+"second_ret": 10.0
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.74,
+"up5": 1,
+"lead": "KG모빌리티",
+"lead_ret": 7.01,
+"second": "HL만도",
+"second_ret": 4.02
+}
+],
+"themes_worst": [
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -2.26,
+"up5": 0,
+"lead": "씨젠",
+"lead_ret": 2.64,
+"second": "수젠텍",
+"second_ret": 2.58
+},
+{
+"name": "육계",
+"n": 8,
+"avg": -1.9,
+"up5": 0,
+"lead": "하림",
+"lead_ret": 0.53,
+"second": "마니커",
+"second_ret": 0.25
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": -1.64,
+"up5": 0,
+"lead": "인바이오젠",
+"lead_ret": 3.02,
+"second": "케이바이오랩스",
+"second_ret": 2.22
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": -1.56,
+"up5": 0,
+"lead": "한일사료",
+"lead_ret": 0.82,
+"second": "하림",
+"second_ret": 0.53
+},
+{
+"name": "사료",
+"n": 16,
+"avg": -1.29,
+"up5": 0,
+"lead": "한일사료",
+"lead_ret": 0.82,
+"second": "고려산업",
+"second_ret": 0.47
+}
+],
+"leaders": [
+{
+"name": "컴퍼니케이",
+"code": "307930",
+"ret": 22.62,
+"value": 1736,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 10.22,
+"value": 1300,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에치에프알",
+"code": "230240",
+"ret": 12.83,
+"value": 1096,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "모나미",
+"code": "005360",
+"ret": 29.92,
+"value": 1055,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 18.15,
+"value": 952,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

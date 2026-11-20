@@ -1,0 +1,254 @@
+{
+"date": "20201028",
+"kospi": 0.62,
+"kosdaq": 2.87,
+"adv": 1598,
+"dec": 211,
+"flat": 138,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 169422,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 4,
+"lead": "매커스",
+"lead_ret": 14.4,
+"second": "신성이엔지",
+"second_ret": 12.34
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "아이에이",
+"lead_ret": 29.9,
+"second": "SJG세종",
+"second_ret": 11.15
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "로스웰",
+"lead_ret": 29.97,
+"second": "아이에이",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 10.84,
+"up5": 7,
+"lead": "로스웰",
+"lead_ret": 29.97,
+"second": "오가닉티코스메틱",
+"second_ret": 29.95
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 7.08,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 22.85,
+"second": "서울제약",
+"second_ret": 4.85
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 5.3,
+"up5": 1,
+"lead": "아이에이",
+"lead_ret": 29.9,
+"second": "LG이노텍",
+"second_ret": 4.52
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 5.25,
+"up5": 2,
+"lead": "신흥",
+"lead_ret": 25.27,
+"second": "나이벡",
+"second_ret": 11.35
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.84,
+"up5": 6,
+"lead": "제일약품",
+"lead_ret": 22.85,
+"second": "코아스템켐온",
+"second_ret": 7.98
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 4.3,
+"up5": 10,
+"lead": "아이에이",
+"lead_ret": 29.9,
+"second": "매커스",
+"second_ret": 14.4
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 4.29,
+"up5": 12,
+"lead": "유니슨",
+"lead_ret": 9.84,
+"second": "태웅",
+"second_ret": 9.24
+},
+{
+"name": "전력반도체",
+"n": 13,
+"avg": 4.21,
+"up5": 2,
+"lead": "아이에이",
+"lead_ret": 29.9,
+"second": "파워넷",
+"second_ret": 6.65
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 4.06,
+"up5": 3,
+"lead": "기가레인",
+"lead_ret": 8.24,
+"second": "지아이에스",
+"second_ret": 7.47
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": 3.94,
+"up5": 2,
+"lead": "제이에스링크",
+"lead_ret": 11.41,
+"second": "인성정보",
+"second_ret": 7.1
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 3.89,
+"up5": 5,
+"lead": "카페24",
+"lead_ret": 8.06,
+"second": "KG파이낸셜",
+"second_ret": 7.61
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.89,
+"up5": 2,
+"lead": "신성이엔지",
+"lead_ret": 12.34,
+"second": "우리기술투자",
+"second_ret": 8.81
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -1.09,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.36,
+"second": "삼성생명",
+"second_ret": -0.9
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -1.06,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 4.67,
+"second": "풍산",
+"second_ret": 2.33
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.46,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 0.67,
+"second": "SK하이닉스",
+"second_ret": 0.36
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.02,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 1.19,
+"second": "DB손해보험",
+"second_ret": 0.43
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 0.13,
+"up5": 0,
+"lead": "벽산",
+"lead_ret": 1.31,
+"second": "SP삼화",
+"second_ret": 0.51
+}
+],
+"leaders": [
+{
+"name": "제일약품",
+"code": "271980",
+"ret": 22.85,
+"value": 5381,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 12.34,
+"value": 3259,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "서연탑메탈",
+"code": "019770",
+"ret": 19.43,
+"value": 1686,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "컬러레이",
+"code": "900310",
+"ret": 11.72,
+"value": 768,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "제일파마홀딩스",
+"code": "002620",
+"ret": 12.07,
+"value": 686,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

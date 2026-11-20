@@ -1,0 +1,254 @@
+{
+"date": "20240926",
+"kospi": 2.9,
+"kosdaq": 2.62,
+"adv": 1846,
+"dec": 326,
+"flat": 111,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 178894,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "네오셈",
+"lead_ret": 29.93,
+"second": "엑시콘",
+"second_ret": 17.03
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 4,
+"lead": "네오셈",
+"lead_ret": 29.93,
+"second": "엑시콘",
+"second_ret": 17.03
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "힘스",
+"lead_ret": 12.83,
+"second": "신도기연",
+"second_ret": 11.6
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 9.13,
+"up5": 8,
+"lead": "네오셈",
+"lead_ret": 29.93,
+"second": "엑시콘",
+"second_ret": 17.03
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 6.86,
+"up5": 19,
+"lead": "마이크로투나노",
+"lead_ret": 30.0,
+"second": "미래반도체",
+"second_ret": 17.36
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 6.32,
+"up5": 13,
+"lead": "아이언디바이스",
+"lead_ret": 18.94,
+"second": "퀄리타스반도체",
+"second_ret": 15.15
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.44,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 11.04,
+"second": "SK하이닉스",
+"second_ret": 9.44
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 5.31,
+"up5": 5,
+"lead": "자람테크놀로지",
+"lead_ret": 6.84,
+"second": "오픈엣지테크놀로지",
+"second_ret": 6.77
+},
+{
+"name": "시스템반도체",
+"n": 54,
+"avg": 5.15,
+"up5": 26,
+"lead": "아이언디바이스",
+"lead_ret": 18.94,
+"second": "미래반도체",
+"second_ret": 17.36
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 4.75,
+"up5": 7,
+"lead": "아이언디바이스",
+"lead_ret": 18.94,
+"second": "에스티아이",
+"second_ret": 10.45
+},
+{
+"name": "반도체 재료/부품",
+"n": 68,
+"avg": 4.69,
+"up5": 22,
+"lead": "마이크로투나노",
+"lead_ret": 30.0,
+"second": "피엠티",
+"second_ret": 29.98
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 4.64,
+"up5": 8,
+"lead": "신도기연",
+"lead_ret": 11.6,
+"second": "덕산네오룩스",
+"second_ret": 11.39
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.61,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 9.44,
+"second": "티엘비",
+"second_ret": 7.74
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 4.59,
+"up5": 30,
+"lead": "네오셈",
+"lead_ret": 29.93,
+"second": "엑시콘",
+"second_ret": 17.03
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 4.58,
+"up5": 10,
+"lead": "데이타솔루션",
+"lead_ret": 21.29,
+"second": "폴라리스AI",
+"second_ret": 8.76
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -1.0,
+"up5": 0,
+"lead": "SG",
+"lead_ret": 0.82,
+"second": "HC홈센타",
+"second_ret": 0.59
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -0.92,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 1.19,
+"second": "팬오션",
+"second_ret": 1.05
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.91,
+"up5": 0,
+"lead": "씨엑스아이",
+"lead_ret": 4.85,
+"second": "글로벌에스엠",
+"second_ret": 0.44
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -0.75,
+"up5": 0,
+"lead": "선진",
+"lead_ret": 1.87,
+"second": "이지바이오",
+"second_ret": 1.42
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.71,
+"up5": 0,
+"lead": "한국쉘석유",
+"lead_ret": 1.9,
+"second": "GS",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "아이언디바이스",
+"code": "464500",
+"ret": 18.94,
+"value": 3270,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 29.93,
+"value": 2203,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 29.97,
+"value": 1097,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 17.03,
+"value": 952,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "뉴프렉스",
+"code": "085670",
+"ret": 20.89,
+"value": 941,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+}
+],
+"backfilled": true
+}

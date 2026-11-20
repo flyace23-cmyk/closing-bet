@@ -1,0 +1,246 @@
+{
+"date": "20230817",
+"kospi": -0.23,
+"kosdaq": 0.88,
+"adv": 723,
+"dec": 1362,
+"flat": 98,
+"limit_up": 5,
+"limit_down": 5,
+"value_total": 213744,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 26.71,
+"second": "신성델타테크",
+"second_ret": 15.19
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "코닉오토메이션",
+"lead_ret": 20.92,
+"second": "신성델타테크",
+"second_ret": 15.19
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 6.08,
+"up5": 4,
+"lead": "나인테크",
+"lead_ret": 11.76,
+"second": "애경케미칼",
+"second_ret": 11.27
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.62,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 29.87,
+"second": "이수페타시스",
+"second_ret": 7.67
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.59,
+"up5": 4,
+"lead": "미래산업",
+"lead_ret": 29.95,
+"second": "에코프로",
+"second_ret": 8.9
+},
+{
+"name": "유리 기판",
+"n": 17,
+"avg": 3.48,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 29.87,
+"second": "나인테크",
+"second_ret": 11.76
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.94,
+"up5": 2,
+"lead": "휴비스",
+"lead_ret": 12.66,
+"second": "우성머티리얼스",
+"second_ret": 7.97
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 29,
+"avg": 2.35,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 29.87,
+"second": "이수페타시스",
+"second_ret": 7.67
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 23,
+"avg": 2.3,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 29.87,
+"second": "삼기에너지솔루션즈",
+"second_ret": 26.71
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.13,
+"up5": 2,
+"lead": "티에프이",
+"lead_ret": 7.61,
+"second": "ISC",
+"second_ret": 5.36
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.06,
+"up5": 1,
+"lead": "토마토시스템",
+"lead_ret": 29.89,
+"second": "팬스타엔터프라이즈",
+"second_ret": 0.55
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 1.85,
+"up5": 3,
+"lead": "나인테크",
+"lead_ret": 11.76,
+"second": "천보",
+"second_ret": 6.86
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 1.56,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 29.87,
+"second": "가온칩스",
+"second_ret": 5.8
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 66,
+"avg": 1.41,
+"up5": 8,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 26.71,
+"second": "신성델타테크",
+"second_ret": 15.19
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -13.79,
+"up5": 1,
+"lead": "신성델타테크",
+"lead_ret": 15.19,
+"second": "인지디스플레",
+"second_ret": 1.64
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -11.41,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": -0.37,
+"second": "삼화콘덴서",
+"second_ret": -1.12
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -8.63,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 1.43,
+"second": "대한전선",
+"second_ret": -4.24
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": -5.64,
+"up5": 0,
+"lead": "풍산홀딩스",
+"lead_ret": 2.68,
+"second": "포스코엠텍",
+"second_ret": 2.45
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": -4.68,
+"up5": 1,
+"lead": "에이루트",
+"lead_ret": 9.5,
+"second": "일진전기",
+"second_ret": 1.43
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 15.19,
+"value": 16129,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼기에너지솔루션즈",
+"code": "419050",
+"ret": 26.71,
+"value": 2195,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에이프로젠",
+"code": "007460",
+"ret": 14.69,
+"value": 2138,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 11.27,
+"value": 2003,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 29.87,
+"value": 1288,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+}
+],
+"backfilled": true
+}

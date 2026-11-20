@@ -1,0 +1,246 @@
+{
+"date": "20240102",
+"kospi": 0.55,
+"kosdaq": 1.43,
+"adv": 1381,
+"dec": 728,
+"flat": 118,
+"limit_up": 9,
+"limit_down": 1,
+"value_total": 180700,
+"hot": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 4,
+"lead": "엑시콘",
+"lead_ret": 19.45,
+"second": "네오셈",
+"second_ret": 18.47
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "3S",
+"lead_ret": 29.88,
+"second": "오킨스전자",
+"second_ret": 13.89
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 8.51,
+"up5": 10,
+"lead": "엑시콘",
+"lead_ret": 19.45,
+"second": "네오셈",
+"second_ret": 18.47
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 6.14,
+"up5": 12,
+"lead": "제주반도체",
+"lead_ret": 21.9,
+"second": "퀄리타스반도체",
+"second_ret": 16.19
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.09,
+"up5": 6,
+"lead": "심텍",
+"lead_ret": 9.61,
+"second": "태성",
+"second_ret": 8.17
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 3.81,
+"up5": 3,
+"lead": "고바이오랩",
+"lead_ret": 29.96,
+"second": "CJ 바이오사이언스",
+"second_ret": 8.43
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.68,
+"up5": 4,
+"lead": "심텍",
+"lead_ret": 9.61,
+"second": "코리아써키트",
+"second_ret": 7.8
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.65,
+"up5": 1,
+"lead": "씨엑스아이",
+"lead_ret": 17.8,
+"second": "GRT",
+"second_ret": 4.23
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 29,
+"avg": 3.61,
+"up5": 11,
+"lead": "심텍",
+"lead_ret": 9.61,
+"second": "현우산업",
+"second_ret": 9.56
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.55,
+"up5": 2,
+"lead": "네패스",
+"lead_ret": 11.34,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.26
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.52,
+"up5": 3,
+"lead": "트리니티항공",
+"lead_ret": 11.73,
+"second": "한진칼",
+"second_ret": 7.42
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 3.36,
+"up5": 13,
+"lead": "퀄리타스반도체",
+"lead_ret": 16.19,
+"second": "네패스",
+"second_ret": 11.34
+},
+{
+"name": "반도체 재료/부품",
+"n": 67,
+"avg": 3.27,
+"up5": 19,
+"lead": "3S",
+"lead_ret": 29.88,
+"second": "오킨스전자",
+"second_ret": 13.89
+},
+{
+"name": "유전자 치료제/분석",
+"n": 33,
+"avg": 3.18,
+"up5": 7,
+"lead": "고바이오랩",
+"lead_ret": 29.96,
+"second": "지노믹트리",
+"second_ret": 13.83
+}
+],
+"themes_worst": [
+{
+"name": "종합상사",
+"n": 8,
+"avg": -2.2,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": 0.0,
+"second": "삼성물산",
+"second_ret": -0.15
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.99,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 1.42,
+"second": "한화오션",
+"second_ret": 1.39
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.57,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 0.0,
+"second": "SK이노베이션",
+"second_ret": -0.07
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.57,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 0.0,
+"second": "SK이노베이션",
+"second_ret": -0.07
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.43,
+"up5": 0,
+"lead": "기업은행",
+"lead_ret": -0.59,
+"second": "제주은행",
+"second_ret": -0.86
+}
+],
+"leaders": [
+{
+"name": "셀트리온",
+"code": "068270",
+"ret": 14.89,
+"value": 13856,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 29.94,
+"value": 5954,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 21.9,
+"value": 4033,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "퀄리타스반도체",
+"code": "432720",
+"ret": 16.19,
+"value": 2407,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 19.45,
+"value": 2134,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+}
+],
+"backfilled": true
+}

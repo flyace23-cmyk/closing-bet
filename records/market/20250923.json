@@ -1,0 +1,254 @@
+{
+"date": "20250923",
+"kospi": 0.51,
+"kosdaq": -0.25,
+"adv": 728,
+"dec": 1520,
+"flat": 132,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 214322,
+"hot": [
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 4,
+"lead": "한라캐스트",
+"lead_ret": 23.01,
+"second": "한국피아이엠",
+"second_ret": 14.68
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "에스투더블유",
+"lead_ret": 29.98,
+"second": "소프트캠프",
+"second_ret": 12.69
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "엠플러스",
+"lead_ret": 15.92,
+"second": "오스코텍",
+"second_ret": 9.13
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 3.52,
+"up5": 3,
+"lead": "아모센스",
+"lead_ret": 29.91,
+"second": "비나텍",
+"second_ret": 9.21
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 2.5,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.91,
+"second": "LG이노텍",
+"second_ret": 2.07
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.28,
+"up5": 5,
+"lead": "일신석재",
+"lead_ret": 11.65,
+"second": "아난티",
+"second_ret": 8.36
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 2.02,
+"up5": 2,
+"lead": "아난티",
+"lead_ret": 8.36,
+"second": "파라다이스",
+"second_ret": 5.11
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.93,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.11,
+"second": "GKL",
+"second_ret": 3.93
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.93,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.11,
+"second": "GKL",
+"second_ret": 3.93
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 1.75,
+"up5": 2,
+"lead": "우진",
+"lead_ret": 15.98,
+"second": "우리기술",
+"second_ret": 5.6
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 1.63,
+"up5": 3,
+"lead": "엠플러스",
+"lead_ret": 15.92,
+"second": "이수스페셜티케미컬",
+"second_ret": 12.28
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 1.61,
+"up5": 2,
+"lead": "한국피아이엠",
+"lead_ret": 14.68,
+"second": "오스코텍",
+"second_ret": 9.13
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 1.35,
+"up5": 3,
+"lead": "마음AI",
+"lead_ret": 13.73,
+"second": "폴라리스AI",
+"second_ret": 12.42
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.1,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.85,
+"second": "삼성에스디에스",
+"second_ret": 1.64
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 1.08,
+"up5": 4,
+"lead": "드림씨아이에스",
+"lead_ret": 7.69,
+"second": "시선AI",
+"second_ret": 6.86
+}
+],
+"themes_worst": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.55,
+"up5": 0,
+"lead": "카페24",
+"lead_ret": 0.12,
+"second": "KG이니시스",
+"second_ret": -1.05
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.39,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": -1.17,
+"second": "코나아이",
+"second_ret": -2.02
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -2.28,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 1.18,
+"second": "신한지주",
+"second_ret": 0.58
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.26,
+"up5": 0,
+"lead": "STX그린로지스",
+"lead_ret": -1.33,
+"second": "흥아해운",
+"second_ret": -1.81
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -2.22,
+"up5": 0,
+"lead": "기가비스",
+"lead_ret": 1.85,
+"second": "하스",
+"second_ret": 0.7
+}
+],
+"leaders": [
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 12.53,
+"value": 5495,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "한라캐스트",
+"code": "125490",
+"ret": 23.01,
+"value": 5124,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "에스투더블유",
+"code": "488280",
+"ret": 29.98,
+"value": 2547,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "우진",
+"code": "105840",
+"ret": 15.98,
+"value": 2385,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 10.27,
+"value": 1867,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

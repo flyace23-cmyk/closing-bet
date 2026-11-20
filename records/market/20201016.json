@@ -1,0 +1,246 @@
+{
+"date": "20201016",
+"kospi": -0.83,
+"kosdaq": -1.26,
+"adv": 428,
+"dec": 1397,
+"flat": 121,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 244490,
+"hot": [
+{
+"name": "전력설비",
+"n": 3,
+"lead": "LS마린솔루션",
+"lead_ret": 12.84,
+"second": "보성파워텍",
+"second_ret": 7.73
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "셀레믹스",
+"lead_ret": 12.38,
+"second": "SV인베스트먼트",
+"second_ret": 11.13
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.64,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 4.74,
+"second": "롯데쇼핑",
+"second_ret": 3.6
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.4,
+"up5": 1,
+"lead": "서한",
+"lead_ret": 29.66,
+"second": "인선이엔티",
+"second_ret": -1.27
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.2,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 8.89,
+"second": "지에스이",
+"second_ret": 6.12
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.15,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 12.84,
+"second": "대한전선",
+"second_ret": 6.37
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 1.53,
+"up5": 1,
+"lead": "KX",
+"lead_ret": 27.4,
+"second": "크리스에프앤씨",
+"second_ret": 4.38
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 1.16,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 12.84,
+"second": "한국선재",
+"second_ret": 2.11
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.14,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": 3.25,
+"second": "동원산업",
+"second_ret": 2.98
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 1.0,
+"up5": 2,
+"lead": "한네트",
+"lead_ret": 5.71,
+"second": "로지시스",
+"second_ret": 5.61
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 0.85,
+"up5": 1,
+"lead": "서한",
+"lead_ret": 29.66,
+"second": "현대건설",
+"second_ret": 3.15
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 0.7,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 4.63,
+"second": "태광산업",
+"second_ret": 1.08
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 0.6,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 3.15,
+"second": "대우건설",
+"second_ret": 0.69
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 0.48,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 8.89,
+"second": "한탑",
+"second_ret": 4.82
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -4.28,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": -1.11,
+"second": "대한약품",
+"second_ret": -1.14
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.35,
+"up5": 1,
+"lead": "국전",
+"lead_ret": 6.96,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.34,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.9,
+"second": "에스티팜",
+"second_ret": 0.0
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -3.18,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": 0.27,
+"second": "NHN",
+"second_ret": -1.21
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": -3.15,
+"up5": 0,
+"lead": "에프에스티",
+"lead_ret": -0.66,
+"second": "파워로직스",
+"second_ret": -1.31
+}
+],
+"leaders": [
+{
+"name": "SV인베스트먼트",
+"code": "289080",
+"ret": 11.13,
+"value": 3675,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "LS마린솔루션",
+"code": "060370",
+"ret": 12.84,
+"value": 2066,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "KX",
+"code": "122450",
+"ret": 27.4,
+"value": 1184,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "서한",
+"code": "011370",
+"ret": 29.66,
+"value": 1118,
+"theme": "폐기물처리",
+"reason": "테마: 폐기물처리"
+},
+{
+"name": "위즈코프",
+"code": "038620",
+"ret": 15.99,
+"value": 931,
+"theme": "주유소",
+"reason": "테마: 주유소"
+}
+],
+"backfilled": true
+}

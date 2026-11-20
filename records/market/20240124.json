@@ -1,0 +1,254 @@
+{
+"date": "20240124",
+"kospi": -0.36,
+"kosdaq": -0.46,
+"adv": 684,
+"dec": 1424,
+"flat": 120,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 168473,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "코세스",
+"lead_ret": 29.96,
+"second": "오로스테크놀로지",
+"second_ret": 16.86
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 3,
+"lead": "코세스",
+"lead_ret": 29.96,
+"second": "비나텍",
+"second_ret": 16.04
+},
+{
+"name": "웹툰",
+"n": 3,
+"lead": "미스터블루",
+"lead_ret": 29.93,
+"second": "조이시티",
+"second_ret": 14.36
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 13,
+"avg": 4.07,
+"up5": 3,
+"lead": "코세스",
+"lead_ret": 29.96,
+"second": "비나텍",
+"second_ret": 16.04
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 4.04,
+"up5": 4,
+"lead": "미스터블루",
+"lead_ret": 29.93,
+"second": "조이시티",
+"second_ret": 14.36
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.14,
+"up5": 2,
+"lead": "TPC로보틱스",
+"lead_ret": 29.97,
+"second": "에스티아이",
+"second_ret": 7.72
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.12,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 20.16,
+"second": "신한지주",
+"second_ret": 2.69
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.77,
+"up5": 9,
+"lead": "오로스테크놀로지",
+"lead_ret": 16.86,
+"second": "제너셈",
+"second_ret": 9.35
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.67,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 29.87,
+"second": "에스넷",
+"second_ret": 1.65
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 2.47,
+"up5": 3,
+"lead": "인성정보",
+"lead_ret": 29.87,
+"second": "비트컴퓨터",
+"second_ret": 10.05
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.42,
+"up5": 2,
+"lead": "노랑풍선",
+"lead_ret": 9.69,
+"second": "참좋은여행",
+"second_ret": 7.63
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 2.41,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 29.96,
+"second": "큐에스아이",
+"second_ret": 0.87
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.39,
+"up5": 1,
+"lead": "씨엑스아이",
+"lead_ret": 14.27,
+"second": "헝셩그룹",
+"second_ret": 3.88
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 2.05,
+"up5": 16,
+"lead": "코세스",
+"lead_ret": 29.96,
+"second": "오로스테크놀로지",
+"second_ret": 16.86
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 1.98,
+"up5": 2,
+"lead": "상신전자",
+"lead_ret": 13.76,
+"second": "제너셈",
+"second_ret": 9.35
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -3.92,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 1.01,
+"second": "KSS해운",
+"second_ret": -1.83
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": -3.17,
+"up5": 0,
+"lead": "로젠",
+"lead_ret": 0.0,
+"second": "유성티엔에스",
+"second_ret": -0.68
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.82,
+"up5": 0,
+"lead": "네패스아크",
+"lead_ret": 1.58,
+"second": "네패스",
+"second_ret": -0.96
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.22,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -0.69,
+"second": "샘표",
+"second_ret": -1.17
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 31,
+"avg": -2.09,
+"up5": 0,
+"lead": "이수페타시스",
+"lead_ret": 4.06,
+"second": "서남",
+"second_ret": 2.01
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 10.1,
+"value": 5181,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "코세스",
+"code": "089890",
+"ret": 29.96,
+"value": 2061,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "오로스테크놀로지",
+"code": "322310",
+"ret": 16.86,
+"value": 1525,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 29.87,
+"value": 1494,
+"theme": "NI(네트워크통합)",
+"reason": "테마: NI(네트워크통합)"
+},
+{
+"name": "상신전자",
+"code": "263810",
+"ret": 13.76,
+"value": 1422,
+"theme": "전자파",
+"reason": "테마: 전자파"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240710",
+"kospi": 0.02,
+"kosdaq": -0.22,
+"adv": 1021,
+"dec": 1073,
+"flat": 172,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 196906,
+"hot": [
+{
+"name": "전력저장장치(ESS)",
+"n": 6,
+"lead": "한중엔시에스",
+"lead_ret": 20.92,
+"second": "SK이터닉스",
+"second_ret": 17.37
+},
+{
+"name": "전력설비",
+"n": 5,
+"lead": "KBI메탈",
+"lead_ret": 24.24,
+"second": "LS마린솔루션",
+"second_ret": 14.36
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "태양금속",
+"lead_ret": 29.92,
+"second": "KBI메탈",
+"second_ret": 24.24
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 8.12,
+"up5": 4,
+"lead": "KBI메탈",
+"lead_ret": 24.24,
+"second": "LS마린솔루션",
+"second_ret": 14.36
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.69,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 14.36,
+"second": "LS",
+"second_ret": 13.22
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.29,
+"up5": 7,
+"lead": "KBI메탈",
+"lead_ret": 24.24,
+"second": "LS마린솔루션",
+"second_ret": 14.36
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 2.95,
+"up5": 10,
+"lead": "한중엔시에스",
+"lead_ret": 20.92,
+"second": "SK이터닉스",
+"second_ret": 17.37
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.58,
+"up5": 2,
+"lead": "드림씨아이에스",
+"lead_ret": 6.0,
+"second": "강스템바이오텍",
+"second_ret": 5.96
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.51,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 4.51,
+"second": "현대해상",
+"second_ret": 3.86
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.46,
+"up5": 2,
+"lead": "지씨셀",
+"lead_ret": 6.0,
+"second": "강스템바이오텍",
+"second_ret": 5.96
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.41,
+"up5": 2,
+"lead": "인벤티지랩",
+"lead_ret": 12.17,
+"second": "한미약품",
+"second_ret": 6.53
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 2.09,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 13.22,
+"second": "LG이노텍",
+"second_ret": 4.55
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.92,
+"up5": 1,
+"lead": "코아스",
+"lead_ret": 29.97,
+"second": "웹스",
+"second_ret": 4.27
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 1.78,
+"up5": 1,
+"lead": "오픈놀",
+"lead_ret": 9.33,
+"second": "대성창투",
+"second_ret": 3.06
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 1.77,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 20.88,
+"second": "아이디스",
+"second_ret": 1.28
+}
+],
+"themes_worst": [
+{
+"name": "수산",
+"n": 9,
+"avg": -3.4,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": 3.46,
+"second": "CJ씨푸드",
+"second_ret": -1.06
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.19,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 1.26,
+"second": "한울앤제주",
+"second_ret": -0.86
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.06,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 1.01,
+"second": "LG에너지솔루션",
+"second_ret": -0.28
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.9,
+"up5": 0,
+"lead": "예스티",
+"lead_ret": 0.81,
+"second": "티씨케이",
+"second_ret": 0.15
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": -1.78,
+"up5": 0,
+"lead": "케이엔에스",
+"lead_ret": 4.25,
+"second": "파워넷",
+"second_ret": 3.68
+}
+],
+"leaders": [
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 11.79,
+"value": 4689,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "한중엔시에스",
+"code": "107640",
+"ret": 20.92,
+"value": 3268,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "LS",
+"code": "006260",
+"ret": 13.22,
+"value": 3192,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 17.37,
+"value": 2155,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "LS마린솔루션",
+"code": "060370",
+"ret": 14.36,
+"value": 1946,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

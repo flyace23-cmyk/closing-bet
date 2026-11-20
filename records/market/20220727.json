@@ -1,0 +1,254 @@
+{
+"date": "20220727",
+"kospi": 0.11,
+"kosdaq": 0.73,
+"adv": 1158,
+"dec": 701,
+"flat": 231,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 107484,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "셀레믹스",
+"lead_ret": 29.99,
+"second": "압타바이오",
+"second_ret": 11.62
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "피엔케이피부임상연구센타",
+"lead_ret": 14.77,
+"second": "청담글로벌",
+"second_ret": 13.11
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "삼영",
+"lead_ret": 28.91,
+"second": "성문전자",
+"second_ret": 10.54
+}
+],
+"themes": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.67,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 14.21,
+"second": "와이엔텍",
+"second_ret": 2.99
+},
+{
+"name": "폐배터리",
+"n": 17,
+"avg": 2.63,
+"up5": 3,
+"lead": "웰크론한텍",
+"lead_ret": 14.21,
+"second": "NPC",
+"second_ret": 8.05
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 2.58,
+"up5": 4,
+"lead": "압타바이오",
+"lead_ret": 11.62,
+"second": "케어젠",
+"second_ret": 8.62
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 2.44,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 14.44,
+"second": "TS인베스트먼트",
+"second_ret": 3.3
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.12,
+"up5": 2,
+"lead": "유바이오로직스",
+"lead_ret": 6.31,
+"second": "소마젠",
+"second_ret": 5.48
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.11,
+"up5": 2,
+"lead": "청담글로벌",
+"lead_ret": 13.11,
+"second": "유바이오로직스",
+"second_ret": 6.31
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.01,
+"up5": 1,
+"lead": "시공테크",
+"lead_ret": 6.21,
+"second": "이월드",
+"second_ret": 2.62
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 36,
+"avg": 2.0,
+"up5": 2,
+"lead": "지투파워",
+"lead_ret": 29.94,
+"second": "HD현대에너지솔루션",
+"second_ret": 7.51
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 1.97,
+"up5": 1,
+"lead": "지투파워",
+"lead_ret": 29.94,
+"second": "아모그린텍",
+"second_ret": 3.83
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 1.94,
+"up5": 2,
+"lead": "셀레믹스",
+"lead_ret": 29.99,
+"second": "소마젠",
+"second_ret": 5.48
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.92,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 14.44,
+"second": "이퓨쳐",
+"second_ret": 4.91
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 1.86,
+"up5": 8,
+"lead": "셀레믹스",
+"lead_ret": 29.99,
+"second": "압타바이오",
+"second_ret": 11.62
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.38,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 2.25,
+"second": "이루온",
+"second_ret": -0.58
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -1.37,
+"up5": 1,
+"lead": "넥슨게임즈",
+"lead_ret": 5.82,
+"second": "네오위즈",
+"second_ret": 1.34
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.92,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -0.15,
+"second": "신세계",
+"second_ret": -0.23
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -0.83,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 3.3,
+"second": "갤럭시아머니트리",
+"second_ret": 1.38
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.75,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 0.24,
+"second": "HJ중공업",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "웰크론한텍",
+"code": "076080",
+"ret": 14.21,
+"value": 1641,
+"theme": "폐기물처리",
+"reason": "테마: 폐기물처리"
+},
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 13.11,
+"value": 1347,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "자이에스앤디",
+"code": "317400",
+"ret": 22.53,
+"value": 1036,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 16.76,
+"value": 985,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "조선선재",
+"code": "120030",
+"ret": 15.66,
+"value": 712,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20230516",
+"kospi": 0.04,
+"kosdaq": 0.27,
+"adv": 746,
+"dec": 1293,
+"flat": 113,
+"limit_up": 8,
+"limit_down": 1,
+"value_total": 167123,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "두올",
+"lead_ret": 29.89,
+"second": "SJM",
+"second_ret": 29.88
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 5,
+"lead": "미래생명자원",
+"lead_ret": 29.98,
+"second": "중앙백신",
+"second_ret": 29.94
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 18,
+"avg": 6.72,
+"up5": 9,
+"lead": "미래생명자원",
+"lead_ret": 29.98,
+"second": "우진비앤지",
+"second_ret": 18.89
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.69,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 29.98,
+"second": "신송홀딩스",
+"second_ret": 3.36
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 4.94,
+"up5": 8,
+"lead": "미래생명자원",
+"lead_ret": 29.98,
+"second": "중앙백신",
+"second_ret": 29.94
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 4.33,
+"up5": 5,
+"lead": "JYP Ent.",
+"lead_ret": 20.84,
+"second": "판타지오",
+"second_ret": 14.32
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.37,
+"up5": 3,
+"lead": "누보",
+"lead_ret": 11.53,
+"second": "체시스",
+"second_ret": 11.5
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.73,
+"up5": 1,
+"lead": "메타바이오메드",
+"lead_ret": 29.82,
+"second": "덴티스",
+"second_ret": 4.47
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.47,
+"up5": 3,
+"lead": "가온전선",
+"lead_ret": 10.47,
+"second": "대한전선",
+"second_ret": 6.3
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 2.36,
+"up5": 1,
+"lead": "마니커에프앤지",
+"lead_ret": 9.7,
+"second": "팜스토리",
+"second_ret": 4.29
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.11,
+"up5": 5,
+"lead": "JYP Ent.",
+"lead_ret": 20.84,
+"second": "판타지오",
+"second_ret": 14.32
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 1.93,
+"up5": 2,
+"lead": "우진비앤지",
+"lead_ret": 18.89,
+"second": "한일사료",
+"second_ret": 15.23
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.72,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 5.15,
+"second": "뉴보텍",
+"second_ret": 4.75
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 1.72,
+"up5": 1,
+"lead": "한세엠케이",
+"lead_ret": 29.86,
+"second": "라온피플",
+"second_ret": 3.65
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -3.74,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 2.88,
+"second": "에스와이",
+"second_ret": 0.79
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -3.7,
+"up5": 0,
+"lead": "한국앤컴퍼니",
+"lead_ret": 0.31,
+"second": "HS효성첨단소재",
+"second_ret": 0.12
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -2.61,
+"up5": 0,
+"lead": "씨티케이",
+"lead_ret": 0.52,
+"second": "삼륭물산",
+"second_ret": -1.08
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.5,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": -1.49,
+"second": "현대모비스",
+"second_ret": -2.0
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -2.42,
+"up5": 0,
+"lead": "아이텍",
+"lead_ret": 0.46,
+"second": "에스엠국일",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 13.83,
+"value": 4290,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "JYP Ent.",
+"code": "035900",
+"ret": 20.84,
+"value": 3842,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 15.23,
+"value": 2862,
+"theme": "아프리카 돼지열병(ASF)",
+"reason": "테마: 아프리카 돼지열병(ASF)"
+},
+{
+"name": "네오오토",
+"code": "212560",
+"ret": 19.29,
+"value": 1853,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 29.98,
+"value": 1593,
+"theme": "아프리카 돼지열병(ASF)",
+"reason": "테마: 아프리카 돼지열병(ASF)"
+}
+],
+"backfilled": true
+}

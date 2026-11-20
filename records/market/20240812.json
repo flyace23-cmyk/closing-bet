@@ -1,0 +1,254 @@
+{
+"date": "20240812",
+"kospi": 1.15,
+"kosdaq": 1.08,
+"adv": 1686,
+"dec": 466,
+"flat": 120,
+"limit_up": 8,
+"limit_down": 1,
+"value_total": 133456,
+"hot": [
+{
+"name": "전기차",
+"n": 7,
+"lead": "이닉스",
+"lead_ret": 30.0,
+"second": "삼기에너지솔루션즈",
+"second_ret": 29.92
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 7,
+"lead": "이닉스",
+"lead_ret": 30.0,
+"second": "삼기에너지솔루션즈",
+"second_ret": 29.92
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "아이에이",
+"lead_ret": 17.81,
+"second": "지아이텍",
+"second_ret": 16.78
+}
+],
+"themes": [
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 9.2,
+"up5": 16,
+"lead": "이닉스",
+"lead_ret": 30.0,
+"second": "삼기에너지솔루션즈",
+"second_ret": 29.92
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 4.48,
+"up5": 3,
+"lead": "아이에이",
+"lead_ret": 17.81,
+"second": "LG이노텍",
+"second_ret": 6.37
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.18,
+"up5": 3,
+"lead": "휴비스",
+"lead_ret": 9.6,
+"second": "코오롱인더",
+"second_ret": 7.08
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.08,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 20.07,
+"second": "JW중외제약",
+"second_ret": 4.96
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 3.94,
+"up5": 3,
+"lead": "아이에이",
+"lead_ret": 17.81,
+"second": "어보브반도체",
+"second_ret": 13.47
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.92,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 13.14,
+"second": "데브시스터즈",
+"second_ret": 4.23
+},
+{
+"name": "전기차",
+"n": 95,
+"avg": 3.63,
+"up5": 17,
+"lead": "이닉스",
+"lead_ret": 30.0,
+"second": "삼기에너지솔루션즈",
+"second_ret": 29.92
+},
+{
+"name": "시스템반도체",
+"n": 53,
+"avg": 3.54,
+"up5": 8,
+"lead": "아이앤씨",
+"lead_ret": 23.02,
+"second": "아이에이",
+"second_ret": 17.81
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 3.49,
+"up5": 4,
+"lead": "어보브반도체",
+"lead_ret": 13.47,
+"second": "태성",
+"second_ret": 8.43
+},
+{
+"name": "유리 기판",
+"n": 19,
+"avg": 3.38,
+"up5": 4,
+"lead": "한빛레이저",
+"lead_ret": 24.62,
+"second": "기가비스",
+"second_ret": 11.83
+},
+{
+"name": "2차전지(장비)",
+"n": 42,
+"avg": 3.35,
+"up5": 7,
+"lead": "민테크",
+"lead_ret": 27.7,
+"second": "한빛레이저",
+"second_ret": 24.62
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 3.33,
+"up5": 8,
+"lead": "그리드위즈",
+"lead_ret": 29.86,
+"second": "신성에스티",
+"second_ret": 11.59
+}
+],
+"themes_worst": [
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -2.73,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": 4.15,
+"second": "이루온",
+"second_ret": 2.5
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.49,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 3.33,
+"second": "대한약품",
+"second_ret": 0.0
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -1.31,
+"up5": 0,
+"lead": "한선엔지니어링",
+"lead_ret": 3.62,
+"second": "한국선재",
+"second_ret": 0.97
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.71,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 3.24,
+"second": "경동제약",
+"second_ret": 1.18
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.62,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 1.74,
+"second": "한화오션",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한국가스공사",
+"code": "036460",
+"ret": 11.59,
+"value": 3940,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "오성첨단소재",
+"code": "052420",
+"ret": 18.03,
+"value": 2689,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 29.99,
+"value": 1931,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "셀리드",
+"code": "299660",
+"ret": 29.91,
+"value": 1707,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "민테크",
+"code": "452200",
+"ret": 27.7,
+"value": 1415,
+"theme": "전기차 화재 방지(배터리 열폭주 등)",
+"reason": "테마: 전기차 화재 방지(배터리 열폭주 등)"
+}
+],
+"backfilled": true
+}

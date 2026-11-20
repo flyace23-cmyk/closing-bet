@@ -1,0 +1,254 @@
+{
+"date": "20230814",
+"kospi": -0.79,
+"kosdaq": -1.15,
+"adv": 631,
+"dec": 1464,
+"flat": 88,
+"limit_up": 9,
+"limit_down": 2,
+"value_total": 199448,
+"hot": [
+{
+"name": "초전도체",
+"n": 10,
+"lead": "서남",
+"lead_ret": 30.0,
+"second": "파워로직스",
+"second_ret": 29.99
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "LS티라유텍",
+"lead_ret": 20.16,
+"second": "티로보틱스",
+"second_ret": 16.75
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "모비스",
+"lead_ret": 29.85,
+"second": "엑셈",
+"second_ret": 21.75
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 16.43,
+"up5": 12,
+"lead": "서남",
+"lead_ret": 30.0,
+"second": "파워로직스",
+"second_ret": 29.99
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 7.49,
+"up5": 3,
+"lead": "모비스",
+"lead_ret": 29.85,
+"second": "고려제강",
+"second_ret": 14.57
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.23,
+"up5": 3,
+"lead": "글로벌텍스프리",
+"lead_ret": 14.9,
+"second": "JTC",
+"second_ret": 7.35
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.17,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 15.1,
+"second": "GKL",
+"second_ret": 5.04
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.17,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 15.1,
+"second": "GKL",
+"second_ret": 5.04
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.03,
+"up5": 2,
+"lead": "LS에코에너지",
+"lead_ret": 25.31,
+"second": "LS마린솔루션",
+"second_ret": 5.86
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 3.4,
+"up5": 2,
+"lead": "한화갤러리아",
+"lead_ret": 11.04,
+"second": "현대백화점",
+"second_ret": 6.31
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.36,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 15.1,
+"second": "참좋은여행",
+"second_ret": 3.26
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 2.32,
+"up5": 4,
+"lead": "서원",
+"lead_ret": 29.73,
+"second": "국일신동",
+"second_ret": 29.52
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.3,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 9.01,
+"second": "풀무원",
+"second_ret": 2.56
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.11,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 15.1,
+"second": "서부T&D",
+"second_ret": 5.06
+},
+{
+"name": "소매유통",
+"n": 17,
+"avg": 2.06,
+"up5": 4,
+"lead": "한화갤러리아",
+"lead_ret": 11.04,
+"second": "지어소프트",
+"second_ret": 8.92
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -6.14,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.73,
+"second": "녹십자",
+"second_ret": -0.25
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -5.11,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 3.48,
+"second": "일신바이오",
+"second_ret": 0.61
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.85,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -1.77,
+"second": "HJ중공업",
+"second_ret": -2.59
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -3.27,
+"up5": 1,
+"lead": "하이즈항공",
+"lead_ret": 5.69,
+"second": "켄코아에어로스페이스",
+"second_ret": 0.15
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -3.04,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.3,
+"second": "오픈엣지테크놀로지",
+"second_ret": -0.36
+}
+],
+"leaders": [
+{
+"name": "원익피앤이",
+"code": "217820",
+"ret": 16.8,
+"value": 6556,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "파두",
+"code": "440110",
+"ret": 29.97,
+"value": 5882,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 25.31,
+"value": 3789,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "파워로직스",
+"code": "047310",
+"ret": 29.99,
+"value": 2991,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "서남",
+"code": "294630",
+"ret": 30.0,
+"value": 2916,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

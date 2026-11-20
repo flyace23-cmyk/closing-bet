@@ -1,0 +1,246 @@
+{
+"date": "20210923",
+"kospi": -0.41,
+"kosdaq": -0.94,
+"adv": 356,
+"dec": 1574,
+"flat": 102,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 229428,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "팜젠사이언스",
+"lead_ret": 30.0,
+"second": "휴마시스",
+"second_ret": 25.84
+},
+{
+"name": "영상콘텐츠",
+"n": 4,
+"lead": "쇼박스",
+"lead_ret": 25.85,
+"second": "에이스토리",
+"second_ret": 13.51
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.25,
+"up5": 3,
+"lead": "에어부산",
+"lead_ret": 19.13,
+"second": "아시아나항공",
+"second_ret": 16.14
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 5.16,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 29.91,
+"second": "KSS해운",
+"second_ret": 0.0
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 4.67,
+"up5": 3,
+"lead": "쇼박스",
+"lead_ret": 25.85,
+"second": "졸스",
+"second_ret": 10.81
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.28,
+"up5": 2,
+"lead": "팜젠사이언스",
+"lead_ret": 30.0,
+"second": "엑세스바이오",
+"second_ret": 18.21
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 3.04,
+"up5": 5,
+"lead": "쇼박스",
+"lead_ret": 25.85,
+"second": "에이스토리",
+"second_ret": 13.51
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.43,
+"up5": 1,
+"lead": "모두투어",
+"lead_ret": 5.3,
+"second": "참좋은여행",
+"second_ret": 4.79
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 1.53,
+"up5": 4,
+"lead": "팜젠사이언스",
+"lead_ret": 30.0,
+"second": "휴마시스",
+"second_ret": 25.84
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 1.13,
+"up5": 3,
+"lead": "키이스트",
+"lead_ret": 7.63,
+"second": "NEW",
+"second_ret": 6.13
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 64,
+"avg": 0.67,
+"up5": 6,
+"lead": "팜젠사이언스",
+"lead_ret": 30.0,
+"second": "휴마시스",
+"second_ret": 25.84
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.65,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 2.05,
+"second": "GKL",
+"second_ret": 1.88
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.65,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 2.05,
+"second": "GKL",
+"second_ret": 1.88
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 0.52,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 13.23,
+"second": "손오공",
+"second_ret": 1.45
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -4.56,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.81,
+"second": "한화오션",
+"second_ret": -3.99
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.46,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": -1.5,
+"second": "옴니시스템",
+"second_ret": -1.8
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.44,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "씨엑스아이",
+"second_ret": -1.56
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -3.4,
+"up5": 0,
+"lead": "메가엠디",
+"lead_ret": -1.68,
+"second": "사람인",
+"second_ret": -2.63
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -3.39,
+"up5": 0,
+"lead": "한네트",
+"lead_ret": -1.81,
+"second": "NICE인프라",
+"second_ret": -1.83
+}
+],
+"leaders": [
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 11.52,
+"value": 3295,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "케이바이오랩스",
+"code": "038530",
+"ret": 14.85,
+"value": 2785,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "동화약품",
+"code": "000020",
+"ret": 18.27,
+"value": 2358,
+"theme": "겨울",
+"reason": "테마: 겨울"
+},
+{
+"name": "부국철강",
+"code": "026940",
+"ret": 17.33,
+"value": 2254,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "아시아나항공",
+"code": "020560",
+"ret": 16.14,
+"value": 2248,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+}
+],
+"backfilled": true
+}

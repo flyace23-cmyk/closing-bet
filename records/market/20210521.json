@@ -1,0 +1,254 @@
+{
+"date": "20210521",
+"kospi": -0.19,
+"kosdaq": -0.57,
+"adv": 536,
+"dec": 1309,
+"flat": 159,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 239724,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "대동기어",
+"lead_ret": 16.01,
+"second": "유성기업",
+"second_ret": 11.33
+},
+{
+"name": "철도",
+"n": 4,
+"lead": "케이씨에스",
+"lead_ret": 29.87,
+"second": "우리기술",
+"second_ret": 11.15
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 4,
+"lead": "케이씨에스",
+"lead_ret": 29.87,
+"second": "한네트",
+"second_ret": 9.22
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 6.98,
+"up5": 4,
+"lead": "케이씨에스",
+"lead_ret": 29.87,
+"second": "한네트",
+"second_ret": 9.22
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": 1.68,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 29.87,
+"second": "한국첨단소재",
+"second_ret": 9.38
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.57,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 10.78,
+"second": "모비스",
+"second_ret": 2.6
+},
+{
+"name": "스테이블코인",
+"n": 20,
+"avg": 1.53,
+"up5": 1,
+"lead": "넥써쓰",
+"lead_ret": 17.23,
+"second": "드림시큐리티",
+"second_ret": 4.73
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.44,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 6.26,
+"second": "기아",
+"second_ret": 2.99
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 1.43,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 14.77,
+"second": "특수건설",
+"second_ret": 2.05
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.11,
+"up5": 1,
+"lead": "포니링크",
+"lead_ret": 6.46,
+"second": "카카오",
+"second_ret": 3.08
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 1.04,
+"up5": 3,
+"lead": "우리기술",
+"lead_ret": 11.15,
+"second": "비츠로테크",
+"second_ret": 10.78
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 1.03,
+"up5": 4,
+"lead": "케이씨에스",
+"lead_ret": 29.87,
+"second": "우리기술",
+"second_ret": 11.15
+},
+{
+"name": "비만치료제",
+"n": 30,
+"avg": 0.98,
+"up5": 2,
+"lead": "시너지이노베이션",
+"lead_ret": 29.92,
+"second": "HLB펩",
+"second_ret": 5.13
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.92,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 7.03,
+"second": "동원산업",
+"second_ret": 1.19
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 12,
+"avg": 0.9,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": 4.31,
+"second": "NHN KCP",
+"second_ret": 3.61
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -4.29,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": -0.6,
+"second": "JW중외제약",
+"second_ret": -1.23
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.0,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -0.86,
+"second": "강원랜드",
+"second_ret": -1.35
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.0,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -0.86,
+"second": "강원랜드",
+"second_ret": -1.35
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -2.94,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": -1.71,
+"second": "우리금융지주",
+"second_ret": -2.24
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -2.9,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.85,
+"second": "아이진",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "샘씨엔에스",
+"code": "252990",
+"ret": 17.55,
+"value": 4998,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 14.77,
+"value": 2292,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "한국컴퓨터",
+"code": "054040",
+"ret": 15.53,
+"value": 1353,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "시너지이노베이션",
+"code": "048870",
+"ret": 29.92,
+"value": 1236,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "신원",
+"code": "009270",
+"ret": 11.2,
+"value": 1157,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

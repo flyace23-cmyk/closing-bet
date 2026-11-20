@@ -1,0 +1,254 @@
+{
+"date": "20220317",
+"kospi": 1.33,
+"kosdaq": 2.5,
+"adv": 1474,
+"dec": 420,
+"flat": 178,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 210713,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 6,
+"lead": "선익시스템",
+"lead_ret": 29.78,
+"second": "컴투스엔",
+"second_ret": 29.35
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "오픈베이스",
+"lead_ret": 17.74,
+"second": "링크제니시스",
+"second_ret": 11.0
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "오픈베이스",
+"lead_ret": 17.74,
+"second": "유진로봇",
+"second_ret": 16.67
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 5.26,
+"up5": 2,
+"lead": "선익시스템",
+"lead_ret": 29.78,
+"second": "대주전자재료",
+"second_ret": 5.71
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 5.25,
+"up5": 18,
+"lead": "선익시스템",
+"lead_ret": 29.78,
+"second": "컴투스엔",
+"second_ret": 29.35
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.02,
+"up5": 3,
+"lead": "오픈베이스",
+"lead_ret": 17.74,
+"second": "에스넷",
+"second_ret": 9.33
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 4.36,
+"up5": 6,
+"lead": "에스넷",
+"lead_ret": 9.33,
+"second": "비트맥스",
+"second_ret": 8.79
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.21,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 13.71,
+"second": "데브시스터즈",
+"second_ret": 5.45
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 3.92,
+"up5": 8,
+"lead": "에스넷",
+"lead_ret": 9.33,
+"second": "에스피지",
+"second_ret": 7.66
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 3.4,
+"up5": 4,
+"lead": "인바이오젠",
+"lead_ret": 10.98,
+"second": "비트맥스",
+"second_ret": 8.79
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.33,
+"up5": 10,
+"lead": "한빛소프트",
+"lead_ret": 7.05,
+"second": "넵튠",
+"second_ret": 6.58
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 3.23,
+"up5": 8,
+"lead": "한빛소프트",
+"lead_ret": 7.05,
+"second": "넵튠",
+"second_ret": 6.58
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": 3.14,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 7.05,
+"second": "이스트소프트",
+"second_ret": 5.38
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 3.14,
+"up5": 3,
+"lead": "엠케이전자",
+"lead_ret": 7.34,
+"second": "SK하이닉스",
+"second_ret": 6.44
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.14,
+"up5": 4,
+"lead": "미투온",
+"lead_ret": 6.14,
+"second": "위메이드",
+"second_ret": 5.69
+}
+],
+"themes_worst": [
+{
+"name": "비료",
+"n": 10,
+"avg": -1.41,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.43,
+"second": "NH농우바이오",
+"second_ret": 0.42
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.34,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": -0.17,
+"second": "GS리테일",
+"second_ret": -0.89
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.24,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.43,
+"second": "IPARK현대산업개발",
+"second_ret": -1.2
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.0,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.54,
+"second": "모두투어",
+"second_ret": 0.43
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -0.83,
+"up5": 0,
+"lead": "푸드나무",
+"lead_ret": 2.37,
+"second": "이지홀딩스",
+"second_ret": 1.52
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 14.58,
+"value": 5788,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "오픈베이스",
+"code": "049480",
+"ret": 17.74,
+"value": 3090,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 29.35,
+"value": 1463,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 16.67,
+"value": 1440,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "삼일기업공사",
+"code": "002290",
+"ret": 12.11,
+"value": 775,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

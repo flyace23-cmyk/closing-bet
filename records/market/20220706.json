@@ -1,0 +1,229 @@
+{
+"date": "20220706",
+"kospi": -2.13,
+"kosdaq": -0.84,
+"adv": 596,
+"dec": 1327,
+"flat": 162,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 138151,
+"hot": [],
+"themes": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 4.04,
+"up5": 3,
+"lead": "알비더블유",
+"lead_ret": 29.83,
+"second": "YG PLUS",
+"second_ret": 16.23
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.47,
+"up5": 2,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 24.31,
+"second": "소마젠",
+"second_ret": 5.25
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.3,
+"up5": 2,
+"lead": "키다리스튜디오",
+"lead_ret": 11.75,
+"second": "엔키AX",
+"second_ret": 7.04
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.19,
+"up5": 4,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 24.31,
+"second": "지니너스",
+"second_ret": 7.22
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.11,
+"up5": 1,
+"lead": "인포바인",
+"lead_ret": 29.98,
+"second": "NHN KCP",
+"second_ret": 1.57
+},
+{
+"name": "보안주(물리)",
+"n": 14,
+"avg": 1.94,
+"up5": 2,
+"lead": "싸이버원",
+"lead_ret": 29.52,
+"second": "이노뎁",
+"second_ret": 7.5
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": 1.89,
+"up5": 3,
+"lead": "에이스토리",
+"lead_ret": 14.0,
+"second": "포바이포",
+"second_ret": 7.74
+},
+{
+"name": "보안주(정보)",
+"n": 39,
+"avg": 1.82,
+"up5": 5,
+"lead": "싸이버원",
+"lead_ret": 29.52,
+"second": "나노씨엠에스",
+"second_ret": 19.58
+},
+{
+"name": "탈모 치료",
+"n": 22,
+"avg": 1.75,
+"up5": 3,
+"lead": "프롬바이오",
+"lead_ret": 13.11,
+"second": "현대약품",
+"second_ret": 12.89
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 1.63,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 16.23,
+"second": "컴투스엔",
+"second_ret": 6.85
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 1.61,
+"up5": 3,
+"lead": "알비더블유",
+"lead_ret": 29.83,
+"second": "스튜디오쏠쏠",
+"second_ret": 6.31
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 1.54,
+"up5": 4,
+"lead": "진매트릭스",
+"lead_ret": 24.92,
+"second": "CJ 바이오사이언스",
+"second_ret": 24.31
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -7.52,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -2.03,
+"second": "삼성중공업",
+"second_ret": -7.18
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.5,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -2.05,
+"second": "대성산업",
+"second_ret": -4.15
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.5,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -2.05,
+"second": "대성산업",
+"second_ret": -4.15
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -5.47,
+"up5": 0,
+"lead": "비엠티",
+"lead_ret": 0.87,
+"second": "케이에스피",
+"second_ret": -3.03
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -5.3,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -2.05,
+"second": "SNT에너지",
+"second_ret": -3.45
+}
+],
+"leaders": [
+{
+"name": "지투파워",
+"code": "388050",
+"ret": 17.5,
+"value": 2520,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "넥스트칩",
+"code": "396270",
+"ret": 12.68,
+"value": 2416,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 12.89,
+"value": 1914,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "케이피에프",
+"code": "024880",
+"ret": 13.27,
+"value": 1067,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 24.92,
+"value": 678,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

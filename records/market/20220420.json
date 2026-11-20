@@ -1,0 +1,254 @@
+{
+"date": "20220420",
+"kospi": -0.01,
+"kosdaq": -0.28,
+"adv": 1006,
+"dec": 835,
+"flat": 236,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 176139,
+"hot": [
+{
+"name": "음식료업종",
+"n": 7,
+"lead": "크라운제과",
+"lead_ret": 30.0,
+"second": "한국맥널티",
+"second_ret": 21.1
+},
+{
+"name": "철강 중소형",
+"n": 5,
+"lead": "금강철강",
+"lead_ret": 29.63,
+"second": "하이스틸",
+"second_ret": 25.8
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 5,
+"lead": "크라운제과",
+"lead_ret": 30.0,
+"second": "크라운해태홀딩스",
+"second_ret": 13.49
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.69,
+"up5": 2,
+"lead": "KG스틸",
+"lead_ret": 29.87,
+"second": "세아제강",
+"second_ret": 6.82
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 5.63,
+"up5": 6,
+"lead": "하이스틸",
+"lead_ret": 25.8,
+"second": "부국철강",
+"second_ret": 11.94
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 5.51,
+"up5": 3,
+"lead": "하이스틸",
+"lead_ret": 25.8,
+"second": "세아제강",
+"second_ret": 6.82
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 5.02,
+"up5": 10,
+"lead": "금강철강",
+"lead_ret": 29.63,
+"second": "하이스틸",
+"second_ret": 25.8
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 4.38,
+"up5": 6,
+"lead": "크라운제과",
+"lead_ret": 30.0,
+"second": "크라운해태홀딩스",
+"second_ret": 13.49
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.21,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 16.55,
+"second": "유니온머티리얼",
+"second_ret": 2.02
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 3.72,
+"up5": 4,
+"lead": "무림P&P",
+"lead_ret": 7.34,
+"second": "깨끗한나라",
+"second_ret": 6.75
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.95,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 8.09,
+"second": "풀무원",
+"second_ret": 5.08
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.68,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 8.09,
+"second": "사조씨푸드",
+"second_ret": 4.99
+},
+{
+"name": "음식료업종",
+"n": 58,
+"avg": 2.5,
+"up5": 11,
+"lead": "크라운제과",
+"lead_ret": 30.0,
+"second": "한국맥널티",
+"second_ret": 21.1
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": 1.88,
+"up5": 0,
+"lead": "MH에탄올",
+"lead_ret": 4.97,
+"second": "하이트진로홀딩스",
+"second_ret": 4.36
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.67,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 3.73,
+"second": "기아",
+"second_ret": 2.56
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -3.53,
+"up5": 1,
+"lead": "대주산업",
+"lead_ret": 8.03,
+"second": "이지바이오",
+"second_ret": 2.94
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -2.3,
+"up5": 0,
+"lead": "교촌에프앤비",
+"lead_ret": 4.79,
+"second": "푸드나무",
+"second_ret": 1.13
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.98,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 0.24,
+"second": "서울가스",
+"second_ret": 0.0
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -1.88,
+"up5": 0,
+"lead": "하이트진로홀딩스",
+"lead_ret": 4.36,
+"second": "하이트진로",
+"second_ret": 2.21
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.76,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.24,
+"second": "HD한국조선해양",
+"second_ret": -0.72
+}
+],
+"leaders": [
+{
+"name": "KG스틸",
+"code": "016380",
+"ret": 29.87,
+"value": 6299,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 19.77,
+"value": 3397,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 25.8,
+"value": 3062,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "KG케미칼",
+"code": "001390",
+"ret": 16.55,
+"value": 2766,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "한국맥널티",
+"code": "222980",
+"ret": 21.1,
+"value": 1959,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+}
+],
+"backfilled": true
+}

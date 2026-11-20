@@ -1,0 +1,254 @@
+{
+"date": "20230802",
+"kospi": -1.9,
+"kosdaq": -3.18,
+"adv": 482,
+"dec": 1614,
+"flat": 82,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 259750,
+"hot": [
+{
+"name": "초전도체",
+"n": 12,
+"lead": "서남",
+"lead_ret": 30.0,
+"second": "모비스",
+"second_ret": 29.98
+},
+{
+"name": "전력설비",
+"n": 5,
+"lead": "서남",
+"lead_ret": 30.0,
+"second": "LS에코에너지",
+"second_ret": 29.99
+},
+{
+"name": "비철금속",
+"n": 4,
+"lead": "서원",
+"lead_ret": 29.98,
+"second": "대창",
+"second_ret": 18.41
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 21.68,
+"up5": 13,
+"lead": "서남",
+"lead_ret": 30.0,
+"second": "모비스",
+"second_ret": 29.98
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 13.71,
+"up5": 4,
+"lead": "모비스",
+"lead_ret": 29.98,
+"second": "고려제강",
+"second_ret": 29.82
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 8.22,
+"up5": 3,
+"lead": "LS에코에너지",
+"lead_ret": 29.99,
+"second": "대원전선",
+"second_ret": 10.97
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 5.39,
+"up5": 8,
+"lead": "서남",
+"lead_ret": 30.0,
+"second": "LS에코에너지",
+"second_ret": 29.99
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.46,
+"up5": 3,
+"lead": "상보",
+"lead_ret": 22.3,
+"second": "대창",
+"second_ret": 18.41
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.39,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 22.3,
+"second": "금호석유화학",
+"second_ret": -1.41
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.1,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 24.33,
+"second": "비에이치아이",
+"second_ret": 2.58
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 2.1,
+"up5": 6,
+"lead": "서원",
+"lead_ret": 29.98,
+"second": "대창",
+"second_ret": 18.41
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 1.93,
+"up5": 4,
+"lead": "한전산업",
+"lead_ret": 17.77,
+"second": "LS ELECTRIC",
+"second_ret": 9.2
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 1.68,
+"up5": 4,
+"lead": "LS에코에너지",
+"lead_ret": 29.99,
+"second": "쎄노텍",
+"second_ret": 8.76
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.44,
+"up5": 1,
+"lead": "아모텍",
+"lead_ret": 21.74,
+"second": "아바텍",
+"second_ret": 2.99
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 1.26,
+"up5": 1,
+"lead": "고려제강",
+"lead_ret": 29.82,
+"second": "대한제강",
+"second_ret": 2.58
+}
+],
+"themes_worst": [
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -5.51,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.89,
+"second": "삼성전자",
+"second_ret": -1.69
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -5.51,
+"up5": 0,
+"lead": "펨트론",
+"lead_ret": -1.64,
+"second": "삼성전자",
+"second_ret": -1.69
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -4.66,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 0.54,
+"second": "LG에너지솔루션",
+"second_ret": -2.33
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": -4.48,
+"up5": 1,
+"lead": "유니테스트",
+"lead_ret": 7.22,
+"second": "디아이티",
+"second_ret": 0.37
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -4.12,
+"up5": 1,
+"lead": "다원넥스뷰",
+"lead_ret": 15.0,
+"second": "삼성전기",
+"second_ret": 1.89
+}
+],
+"leaders": [
+{
+"name": "원익피앤이",
+"code": "217820",
+"ret": 29.59,
+"value": 3059,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 29.99,
+"value": 2997,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 13.11,
+"value": 2805,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "셀바스헬스케어",
+"code": "208370",
+"ret": 11.75,
+"value": 2797,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 29.75,
+"value": 1962,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

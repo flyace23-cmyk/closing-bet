@@ -1,0 +1,254 @@
+{
+"date": "20250805",
+"kospi": 1.6,
+"kosdaq": 1.85,
+"adv": 1692,
+"dec": 553,
+"flat": 128,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 153383,
+"hot": [
+{
+"name": "2차전지",
+"n": 12,
+"lead": "신흥에스이씨",
+"lead_ret": 23.46,
+"second": "에코프로비엠",
+"second_ret": 15.28
+},
+{
+"name": "2차전지(전고체)",
+"n": 3,
+"lead": "삼성SDI",
+"lead_ret": 10.22,
+"second": "이브이첨단소재",
+"second_ret": 9.51
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "LS에코에너지",
+"lead_ret": 15.34,
+"second": "솔브레인홀딩스",
+"second_ret": 10.51
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 6,
+"avg": 7.45,
+"up5": 3,
+"lead": "대한조선",
+"lead_ret": 29.91,
+"second": "HD한국조선해양",
+"second_ret": 5.63
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 6.47,
+"up5": 5,
+"lead": "에코프로비엠",
+"lead_ret": 15.28,
+"second": "삼성SDI",
+"second_ret": 10.22
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 4.61,
+"up5": 12,
+"lead": "삼성SDI",
+"lead_ret": 10.22,
+"second": "이브이첨단소재",
+"second_ret": 9.51
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.37,
+"up5": 1,
+"lead": "LS에코에너지",
+"lead_ret": 15.34,
+"second": "LS마린솔루션",
+"second_ret": 4.06
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.97,
+"up5": 8,
+"lead": "새빗켐",
+"lead_ret": 9.85,
+"second": "포스코퓨처엠",
+"second_ret": 8.56
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 3.96,
+"up5": 24,
+"lead": "신흥에스이씨",
+"lead_ret": 23.46,
+"second": "에코프로비엠",
+"second_ret": 15.28
+},
+{
+"name": "2차전지",
+"n": 141,
+"avg": 3.52,
+"up5": 40,
+"lead": "신흥에스이씨",
+"lead_ret": 23.46,
+"second": "에코프로비엠",
+"second_ret": 15.28
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 3.49,
+"up5": 7,
+"lead": "한중엔시에스",
+"lead_ret": 11.96,
+"second": "삼성SDI",
+"second_ret": 10.22
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.32,
+"up5": 3,
+"lead": "엘앤에프",
+"lead_ret": 8.35,
+"second": "팬스타엔터프라이즈",
+"second_ret": 5.91
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 3.15,
+"up5": 5,
+"lead": "새빗켐",
+"lead_ret": 9.85,
+"second": "에코프로",
+"second_ret": 8.54
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.11,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 9.01,
+"second": "에스티팜",
+"second_ret": 4.36
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 3.01,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 10.7,
+"second": "대주전자재료",
+"second_ret": 6.02
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -1.4,
+"up5": 0,
+"lead": "코세스",
+"lead_ret": 3.05,
+"second": "큐에스아이",
+"second_ret": 1.66
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -0.78,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 1.23,
+"second": "졸스",
+"second_ret": 0.91
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -0.77,
+"up5": 0,
+"lead": "제이씨현시스템",
+"lead_ret": 2.29,
+"second": "파수AI",
+"second_ret": 2.21
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -0.62,
+"up5": 0,
+"lead": "메가엠디",
+"lead_ret": 0.99,
+"second": "사람인",
+"second_ret": 0.64
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -0.6,
+"up5": 0,
+"lead": "나노팀",
+"lead_ret": 4.46,
+"second": "LG에너지솔루션",
+"second_ret": 2.93
+}
+],
+"leaders": [
+{
+"name": "대한조선",
+"code": "439260",
+"ret": 29.91,
+"value": 5290,
+"theme": "조선",
+"reason": "테마: 조선"
+},
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 10.22,
+"value": 4004,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 15.28,
+"value": 3938,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "SK바이오팜",
+"code": "326030",
+"ret": 15.92,
+"value": 3106,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 16.91,
+"value": 1080,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+}
+],
+"backfilled": true
+}

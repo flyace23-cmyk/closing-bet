@@ -1,0 +1,254 @@
+{
+"date": "20210118",
+"kospi": -2.33,
+"kosdaq": -2.05,
+"adv": 351,
+"dec": 1506,
+"flat": 113,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 340381,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "한농화성",
+"lead_ret": 29.68,
+"second": "글로벌에스엠",
+"second_ret": 23.35
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 24.56,
+"second": "인텔리안테크",
+"second_ret": 19.81
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "한국파마",
+"lead_ret": 29.87,
+"second": "국전",
+"second_ret": 24.65
+}
+],
+"themes": [
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.1,
+"up5": 4,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 24.56,
+"second": "현대위아",
+"second_ret": 11.42
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.81,
+"up5": 1,
+"lead": "이건홀딩스",
+"lead_ret": 29.09,
+"second": "이건산업",
+"second_ret": 4.13
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.81,
+"up5": 1,
+"lead": "이건홀딩스",
+"lead_ret": 29.09,
+"second": "이건산업",
+"second_ret": 4.13
+},
+{
+"name": "2차전지(전고체)",
+"n": 24,
+"avg": 2.36,
+"up5": 5,
+"lead": "한농화성",
+"lead_ret": 29.68,
+"second": "SFA넥셀",
+"second_ret": 20.49
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.33,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 11.42,
+"second": "HL만도",
+"second_ret": 1.81
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 25,
+"avg": 1.77,
+"up5": 6,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 24.56,
+"second": "인텔리안테크",
+"second_ret": 19.81
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 1.37,
+"up5": 2,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 24.56,
+"second": "한미반도체",
+"second_ret": 6.1
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 1.36,
+"up5": 10,
+"lead": "라닉스",
+"lead_ret": 13.75,
+"second": "칩스앤미디어",
+"second_ret": 13.65
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.34,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 16.67,
+"second": "체리부로",
+"second_ret": 3.76
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 1.22,
+"up5": 4,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 24.56,
+"second": "쎄트렉아이",
+"second_ret": 15.98
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 0.95,
+"up5": 2,
+"lead": "팜스토리",
+"lead_ret": 16.67,
+"second": "팜스코",
+"second_ret": 6.19
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 0.79,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 5.73,
+"second": "GS건설",
+"second_ret": 2.86
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -5.67,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": -3.01,
+"second": "AK홀딩스",
+"second_ret": -4.18
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -4.26,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": -1.54,
+"second": "강원랜드",
+"second_ret": -3.37
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -4.26,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": -1.54,
+"second": "강원랜드",
+"second_ret": -3.37
+},
+{
+"name": "유전자 치료제/분석",
+"n": 28,
+"avg": -4.25,
+"up5": 0,
+"lead": "신라젠",
+"lead_ret": 0.0,
+"second": "랩지노믹스",
+"second_ret": -0.3
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": -4.08,
+"up5": 0,
+"lead": "안국약품",
+"lead_ret": 3.61,
+"second": "에스티큐브",
+"second_ret": 1.13
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 20.49,
+"value": 4907,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "현대위아",
+"code": "011210",
+"ret": 11.42,
+"value": 4706,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "LG헬로비전",
+"code": "037560",
+"ret": 13.52,
+"value": 2457,
+"theme": "전기차(충전소/충전기)",
+"reason": "테마: 전기차(충전소/충전기)"
+},
+{
+"name": "쎄트렉아이",
+"code": "099320",
+"ret": 15.98,
+"value": 1508,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 13.65,
+"value": 1492,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

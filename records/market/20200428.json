@@ -1,0 +1,254 @@
+{
+"date": "20200428",
+"kospi": 0.59,
+"kosdaq": -0.3,
+"adv": 831,
+"dec": 887,
+"flat": 193,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 444411,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "빅텍",
+"lead_ret": 17.17,
+"second": "한일단조",
+"second_ret": 14.81
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "육일씨엔에쓰",
+"lead_ret": 29.95,
+"second": "태양금속",
+"second_ret": 16.9
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "한일단조",
+"lead_ret": 14.81,
+"second": "모베이스전자",
+"second_ret": 12.45
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 7.02,
+"up5": 5,
+"lead": "노랑풍선",
+"lead_ret": 25.57,
+"second": "참좋은여행",
+"second_ret": 7.71
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 6.5,
+"up5": 1,
+"lead": "롯데지주",
+"lead_ret": 29.97,
+"second": "GS리테일",
+"second_ret": 3.97
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 3.61,
+"up5": 4,
+"lead": "에스엠",
+"lead_ret": 9.18,
+"second": "드림어스컴퍼니",
+"second_ret": 6.99
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 3.5,
+"up5": 4,
+"lead": "롯데쇼핑",
+"lead_ret": 7.66,
+"second": "CJ CGV",
+"second_ret": 6.32
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.5,
+"up5": 2,
+"lead": "롯데쇼핑",
+"lead_ret": 7.66,
+"second": "현대백화점",
+"second_ret": 6.52
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.36,
+"up5": 2,
+"lead": "GKL",
+"lead_ret": 7.28,
+"second": "롯데관광개발",
+"second_ret": 6.42
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.36,
+"up5": 2,
+"lead": "GKL",
+"lead_ret": 7.28,
+"second": "롯데관광개발",
+"second_ret": 6.42
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 3.32,
+"up5": 2,
+"lead": "LB세미콘",
+"lead_ret": 27.81,
+"second": "에이루트",
+"second_ret": 15.59
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 2.88,
+"up5": 8,
+"lead": "큐브엔터",
+"lead_ret": 10.2,
+"second": "에스엠",
+"second_ret": 9.18
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.71,
+"up5": 2,
+"lead": "티웨이홀딩스",
+"lead_ret": 16.53,
+"second": "AK홀딩스",
+"second_ret": 6.79
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.68,
+"up5": 4,
+"lead": "솔디펜스",
+"lead_ret": 13.0,
+"second": "휴니드",
+"second_ret": 12.25
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.44,
+"up5": 1,
+"lead": "현대백화점",
+"lead_ret": 6.52,
+"second": "호텔신라",
+"second_ret": 4.86
+}
+],
+"themes_worst": [
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": -1.95,
+"up5": 1,
+"lead": "HLB파나진",
+"lead_ret": 10.87,
+"second": "CJ 바이오사이언스",
+"second_ret": 0.0
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -1.91,
+"up5": 0,
+"lead": "진매트릭스",
+"lead_ret": 2.96,
+"second": "종근당",
+"second_ret": 1.41
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": -1.87,
+"up5": 1,
+"lead": "휴마시스",
+"lead_ret": 6.04,
+"second": "진매트릭스",
+"second_ret": 2.96
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.77,
+"up5": 0,
+"lead": "한국쉘석유",
+"lead_ret": 0.38,
+"second": "GS",
+"second_ret": -0.79
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -1.71,
+"up5": 0,
+"lead": "에스와이",
+"lead_ret": 0.24,
+"second": "신성이엔지",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 29.89,
+"value": 7007,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "LB세미콘",
+"code": "061970",
+"ret": 27.81,
+"value": 2394,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "롯데지주",
+"code": "004990",
+"ret": 29.97,
+"value": 2316,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "한일단조",
+"code": "024740",
+"ret": 14.81,
+"value": 1209,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "서원",
+"code": "021050",
+"ret": 14.45,
+"value": 634,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

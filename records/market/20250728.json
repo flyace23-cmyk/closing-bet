@@ -1,0 +1,254 @@
+{
+"date": "20250728",
+"kospi": 0.42,
+"kosdaq": -0.32,
+"adv": 616,
+"dec": 1654,
+"flat": 100,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 183041,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 8,
+"lead": "두산테스나",
+"lead_ret": 29.96,
+"second": "코아시아",
+"second_ret": 29.95
+},
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "제이엔비",
+"lead_ret": 29.87,
+"second": "네패스아크",
+"second_ret": 19.66
+},
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "에프에스티",
+"lead_ret": 17.23,
+"second": "솔브레인",
+"second_ret": 15.67
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 7.61,
+"up5": 12,
+"lead": "에이디테크놀로지",
+"lead_ret": 26.63,
+"second": "가온칩스",
+"second_ret": 22.45
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 7.47,
+"up5": 5,
+"lead": "네패스아크",
+"lead_ret": 19.66,
+"second": "네패스",
+"second_ret": 10.1
+},
+{
+"name": "시스템반도체",
+"n": 56,
+"avg": 4.37,
+"up5": 18,
+"lead": "두산테스나",
+"lead_ret": 29.96,
+"second": "코아시아",
+"second_ret": 29.95
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 3.92,
+"up5": 3,
+"lead": "유에스티",
+"lead_ret": 29.83,
+"second": "이렘",
+"second_ret": 14.25
+},
+{
+"name": "반도체 장비",
+"n": 92,
+"avg": 3.35,
+"up5": 15,
+"lead": "제이엔비",
+"lead_ret": 29.87,
+"second": "네패스아크",
+"second_ret": 19.66
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.3,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 8.44,
+"second": "HJ중공업",
+"second_ret": 4.98
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.27,
+"up5": 4,
+"lead": "퀄리타스반도체",
+"lead_ret": 15.11,
+"second": "오픈엣지테크놀로지",
+"second_ret": 8.16
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.27,
+"up5": 6,
+"lead": "워트",
+"lead_ret": 17.41,
+"second": "에스티아이",
+"second_ret": 9.56
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.47,
+"up5": 4,
+"lead": "에스티아이",
+"lead_ret": 9.56,
+"second": "삼성전자",
+"second_ret": 6.83
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 2.36,
+"up5": 14,
+"lead": "에프에스티",
+"lead_ret": 17.23,
+"second": "솔브레인",
+"second_ret": 15.67
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.31,
+"up5": 2,
+"lead": "삼성전자",
+"lead_ret": 6.83,
+"second": "ISC",
+"second_ret": 5.15
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.12,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 13.36,
+"second": "인텍플러스",
+"second_ret": 3.8
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 10,
+"avg": -5.13,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": -0.52,
+"second": "우리금융지주",
+"second_ret": -3.52
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -4.71,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": -2.59,
+"second": "코리아에셋투자증권",
+"second_ret": -2.74
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -3.88,
+"up5": 0,
+"lead": "HDC",
+"lead_ret": 1.58,
+"second": "한국정보통신",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -3.44,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -1.89,
+"second": "서울보증보험",
+"second_ret": -2.42
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -3.18,
+"up5": 0,
+"lead": "아이티아이즈",
+"lead_ret": 1.69,
+"second": "우리기술투자",
+"second_ret": 0.93
+}
+],
+"leaders": [
+{
+"name": "효성중공업",
+"code": "298040",
+"ret": 14.31,
+"value": 2494,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "두산테스나",
+"code": "131970",
+"ret": 29.96,
+"value": 2274,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "산일전기",
+"code": "062040",
+"ret": 13.55,
+"value": 1840,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "네패스아크",
+"code": "330860",
+"ret": 19.66,
+"value": 816,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "이렘",
+"code": "009730",
+"ret": 14.25,
+"value": 815,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

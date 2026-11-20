@@ -1,0 +1,254 @@
+{
+"date": "20220527",
+"kospi": 0.98,
+"kosdaq": 0.29,
+"adv": 1218,
+"dec": 607,
+"flat": 255,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 144119,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "녹십자엠에스",
+"lead_ret": 29.98,
+"second": "아이진",
+"second_ret": 17.13
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 5,
+"lead": "한일사료",
+"lead_ret": 25.36,
+"second": "체시스",
+"second_ret": 21.74
+},
+{
+"name": "국내 상장 중국기업",
+"n": 3,
+"lead": "헝셩그룹",
+"lead_ret": 16.71,
+"second": "딥커머스",
+"second_ret": 12.12
+}
+],
+"themes": [
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 5.13,
+"up5": 10,
+"lead": "한일사료",
+"lead_ret": 25.36,
+"second": "체시스",
+"second_ret": 21.74
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 4.87,
+"up5": 4,
+"lead": "한일사료",
+"lead_ret": 25.36,
+"second": "고려산업",
+"second_ret": 12.33
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.68,
+"up5": 4,
+"lead": "제주항공",
+"lead_ret": 9.23,
+"second": "진에어",
+"second_ret": 6.19
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.64,
+"up5": 3,
+"lead": "헝셩그룹",
+"lead_ret": 16.71,
+"second": "딥커머스",
+"second_ret": 12.12
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.62,
+"up5": 6,
+"lead": "한일사료",
+"lead_ret": 25.36,
+"second": "하림",
+"second_ret": 7.95
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.23,
+"up5": 1,
+"lead": "체시스",
+"lead_ret": 21.74,
+"second": "태경비케이",
+"second_ret": 4.21
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.93,
+"up5": 3,
+"lead": "참좋은여행",
+"lead_ret": 8.13,
+"second": "하나투어",
+"second_ret": 6.02
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.93,
+"up5": 4,
+"lead": "하림",
+"lead_ret": 7.95,
+"second": "팜스토리",
+"second_ret": 7.28
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.5,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 9.57,
+"second": "미래생명자원",
+"second_ret": 4.35
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.47,
+"up5": 3,
+"lead": "TPC로보틱스",
+"lead_ret": 18.4,
+"second": "스맥",
+"second_ret": 6.36
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.19,
+"up5": 3,
+"lead": "하림",
+"lead_ret": 7.95,
+"second": "팜스토리",
+"second_ret": 7.28
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.07,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 4.98,
+"second": "파라다이스",
+"second_ret": 4.49
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 19,
+"avg": -1.14,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 3.0,
+"second": "미래나노텍",
+"second_ret": 1.85
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -0.86,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 1.21,
+"second": "KG파이낸셜",
+"second_ret": 0.71
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -0.6,
+"up5": 0,
+"lead": "메드팩토",
+"lead_ret": 3.51,
+"second": "차바이오텍",
+"second_ret": 0.88
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": -0.53,
+"up5": 0,
+"lead": "티플랙스",
+"lead_ret": 1.44,
+"second": "LS에코에너지",
+"second_ret": 0.77
+},
+{
+"name": "온디바이스 AI",
+"n": 18,
+"avg": -0.49,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.91,
+"second": "삼성전자",
+"second_ret": 0.91
+}
+],
+"leaders": [
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 25.36,
+"value": 5697,
+"theme": "아프리카 돼지열병(ASF)",
+"reason": "테마: 아프리카 돼지열병(ASF)"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 12.33,
+"value": 2510,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "녹십자엠에스",
+"code": "142280",
+"ret": 29.98,
+"value": 1955,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "우리손에프앤지",
+"code": "073560",
+"ret": 14.2,
+"value": 1862,
+"theme": "아프리카 돼지열병(ASF)",
+"reason": "테마: 아프리카 돼지열병(ASF)"
+},
+{
+"name": "TPC로보틱스",
+"code": "048770",
+"ret": 18.4,
+"value": 1687,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

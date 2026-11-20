@@ -1,0 +1,254 @@
+{
+"date": "20200120",
+"kospi": 0.54,
+"kosdaq": -0.72,
+"adv": 559,
+"dec": 1204,
+"flat": 139,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 107321,
+"hot": [
+{
+"name": "제약업체",
+"n": 6,
+"lead": "고려제약",
+"lead_ret": 29.75,
+"second": "진양제약",
+"second_ret": 20.0
+},
+{
+"name": "마스크",
+"n": 5,
+"lead": "웰크론",
+"lead_ret": 23.22,
+"second": "모나리자",
+"second_ret": 11.31
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 4,
+"lead": "진매트릭스",
+"lead_ret": 29.94,
+"second": "고려제약",
+"second_ret": 29.75
+}
+],
+"themes": [
+{
+"name": "마스크",
+"n": 19,
+"avg": 3.63,
+"up5": 5,
+"lead": "웰크론",
+"lead_ret": 23.22,
+"second": "모나리자",
+"second_ret": 11.31
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.36,
+"up5": 8,
+"lead": "진매트릭스",
+"lead_ret": 29.94,
+"second": "고려제약",
+"second_ret": 29.75
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": 2.83,
+"up5": 4,
+"lead": "웰크론",
+"lead_ret": 23.22,
+"second": "모나리자",
+"second_ret": 11.31
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 2.35,
+"up5": 7,
+"lead": "파루",
+"lead_ret": 21.26,
+"second": "우진비앤지",
+"second_ret": 10.24
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 2.33,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 13.93,
+"second": "오텍",
+"second_ret": 2.5
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.96,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 21.26,
+"second": "조비",
+"second_ret": 2.51
+},
+{
+"name": "치매",
+"n": 40,
+"avg": 1.86,
+"up5": 5,
+"lead": "고려제약",
+"lead_ret": 29.75,
+"second": "진양제약",
+"second_ret": 20.0
+},
+{
+"name": "제약업체",
+"n": 76,
+"avg": 1.76,
+"up5": 8,
+"lead": "고려제약",
+"lead_ret": 29.75,
+"second": "진양제약",
+"second_ret": 20.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 1.7,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 4.19,
+"second": "삼성전자",
+"second_ret": 1.79
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 1.66,
+"up5": 1,
+"lead": "국제약품",
+"lead_ret": 11.0,
+"second": "엑세스바이오",
+"second_ret": 1.49
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 1.38,
+"up5": 1,
+"lead": "지아이에스",
+"lead_ret": 7.37,
+"second": "코스모신소재",
+"second_ret": 4.28
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 11,
+"avg": 1.34,
+"up5": 1,
+"lead": "GST",
+"lead_ret": 12.4,
+"second": "LG전자",
+"second_ret": 2.89
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -3.04,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.0,
+"second": "TS인베스트먼트",
+"second_ret": -0.21
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -3.03,
+"up5": 0,
+"lead": "HDC",
+"lead_ret": -0.89,
+"second": "글로벌텍스프리",
+"second_ret": -1.85
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.74,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.9,
+"second": "세명전기",
+"second_ret": -1.42
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.65,
+"up5": 0,
+"lead": "인성정보",
+"lead_ret": 0.44,
+"second": "오파스넷",
+"second_ret": 0.38
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": -2.45,
+"up5": 0,
+"lead": "인성정보",
+"lead_ret": 0.44,
+"second": "제이에스링크",
+"second_ret": 0.42
+}
+],
+"leaders": [
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 15.05,
+"value": 2208,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "파루",
+"code": "043200",
+"ret": 21.26,
+"value": 2100,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 23.22,
+"value": 1859,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "고려제약",
+"code": "014570",
+"ret": 29.75,
+"value": 1673,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "진양제약",
+"code": "007370",
+"ret": 20.0,
+"value": 957,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

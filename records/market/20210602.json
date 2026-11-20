@@ -1,0 +1,254 @@
+{
+"date": "20210602",
+"kospi": 0.07,
+"kosdaq": -0.35,
+"adv": 989,
+"dec": 837,
+"flat": 184,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 313637,
+"hot": [
+{
+"name": "리모델링/인테리어",
+"n": 4,
+"lead": "에넥스",
+"lead_ret": 23.19,
+"second": "희림",
+"second_ret": 13.49
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "HLB글로벌",
+"lead_ret": 19.33,
+"second": "승일",
+"second_ret": 14.17
+},
+{
+"name": "전력설비",
+"n": 3,
+"lead": "가온전선",
+"lead_ret": 29.88,
+"second": "일진전기",
+"second_ret": 15.53
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 8.31,
+"up5": 3,
+"lead": "가온전선",
+"lead_ret": 29.88,
+"second": "일진전기",
+"second_ret": 15.53
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.91,
+"up5": 7,
+"lead": "트리니티항공",
+"lead_ret": 21.26,
+"second": "티웨이홀딩스",
+"second_ret": 7.57
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 6.17,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.96,
+"second": "효성오앤비",
+"second_ret": 8.98
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 6.17,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.96,
+"second": "효성오앤비",
+"second_ret": 8.98
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 6.14,
+"up5": 5,
+"lead": "SM C&C",
+"lead_ret": 17.09,
+"second": "세중",
+"second_ret": 7.54
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 5.56,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.96,
+"second": "웹스",
+"second_ret": 29.91
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 5.22,
+"up5": 9,
+"lead": "에넥스",
+"lead_ret": 23.19,
+"second": "희림",
+"second_ret": 13.49
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.51,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 29.96,
+"second": "덕신이피씨",
+"second_ret": 3.24
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.8,
+"up5": 3,
+"lead": "우진",
+"lead_ret": 16.32,
+"second": "두산에너빌리티",
+"second_ret": 11.65
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 3.41,
+"up5": 5,
+"lead": "가온전선",
+"lead_ret": 29.88,
+"second": "일진전기",
+"second_ret": 15.53
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.27,
+"up5": 6,
+"lead": "일성건설",
+"lead_ret": 19.05,
+"second": "남광토건",
+"second_ret": 8.62
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 3.27,
+"up5": 5,
+"lead": "자연과환경",
+"lead_ret": 29.96,
+"second": "두산에너빌리티",
+"second_ret": 11.65
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.06,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": -1.01,
+"second": "파미셀",
+"second_ret": -1.46
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.99,
+"up5": 0,
+"lead": "멕아이씨에스",
+"lead_ret": 2.49,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "유전자 치료제/분석",
+"n": 29,
+"avg": -1.86,
+"up5": 0,
+"lead": "HLB파나진",
+"lead_ret": 1.41,
+"second": "지노믹트리",
+"second_ret": 0.74
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.86,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.68,
+"second": "드림씨아이에스",
+"second_ret": 0.31
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.78,
+"up5": 1,
+"lead": "컬러레이",
+"lead_ret": 6.91,
+"second": "글로벌에스엠",
+"second_ret": 3.39
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 11.65,
+"value": 14458,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "에넥스",
+"code": "011090",
+"ret": 23.19,
+"value": 3428,
+"theme": "리모델링/인테리어",
+"reason": "테마: 리모델링/인테리어"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 17.09,
+"value": 2090,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "원익큐브",
+"code": "014190",
+"ret": 13.08,
+"value": 2076,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "HLB글로벌",
+"code": "003580",
+"ret": 19.33,
+"value": 1206,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

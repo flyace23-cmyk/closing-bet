@@ -1,0 +1,254 @@
+{
+"date": "20230316",
+"kospi": -0.08,
+"kosdaq": 0.1,
+"adv": 647,
+"dec": 1403,
+"flat": 93,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 191854,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "레인보우로보틱스",
+"lead_ret": 29.98,
+"second": "삼익THK",
+"second_ret": 16.59
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "SFA반도체",
+"lead_ret": 17.05,
+"second": "자비스",
+"second_ret": 12.84
+},
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "SFA반도체",
+"lead_ret": 17.05,
+"second": "에스앤에스텍",
+"second_ret": 13.87
+}
+],
+"themes": [
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.59,
+"up5": 3,
+"lead": "웰킵스하이텍",
+"lead_ret": 29.97,
+"second": "비에이치",
+"second_ret": 7.59
+},
+{
+"name": "시스템반도체",
+"n": 46,
+"avg": 2.98,
+"up5": 10,
+"lead": "SFA반도체",
+"lead_ret": 17.05,
+"second": "에스앤에스텍",
+"second_ret": 13.87
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 2.76,
+"up5": 5,
+"lead": "가온칩스",
+"lead_ret": 13.28,
+"second": "에이디테크놀로지",
+"second_ret": 11.05
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 30,
+"avg": 2.69,
+"up5": 5,
+"lead": "레인보우로보틱스",
+"lead_ret": 29.98,
+"second": "뉴로메카",
+"second_ret": 13.06
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.65,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 9.87,
+"second": "휴림로봇",
+"second_ret": 5.39
+},
+{
+"name": "반도체 장비",
+"n": 83,
+"avg": 2.59,
+"up5": 14,
+"lead": "SFA반도체",
+"lead_ret": 17.05,
+"second": "자비스",
+"second_ret": 12.84
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 60,
+"avg": 2.47,
+"up5": 14,
+"lead": "레인보우로보틱스",
+"lead_ret": 29.98,
+"second": "삼익THK",
+"second_ret": 16.59
+},
+{
+"name": "반도체 재료/부품",
+"n": 63,
+"avg": 2.32,
+"up5": 10,
+"lead": "웰킵스하이텍",
+"lead_ret": 29.97,
+"second": "레이크머티리얼즈",
+"second_ret": 22.16
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 30,
+"avg": 1.88,
+"up5": 2,
+"lead": "윈팩",
+"lead_ret": 9.75,
+"second": "와이씨",
+"second_ret": 6.66
+},
+{
+"name": "유리 기판",
+"n": 16,
+"avg": 1.7,
+"up5": 2,
+"lead": "HB테크놀러지",
+"lead_ret": 5.73,
+"second": "켐트로닉스",
+"second_ret": 5.69
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 1.66,
+"up5": 2,
+"lead": "다원넥스뷰",
+"lead_ret": 7.5,
+"second": "이수페타시스",
+"second_ret": 6.04
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 32,
+"avg": 1.63,
+"up5": 6,
+"lead": "삼익THK",
+"lead_ret": 16.59,
+"second": "알에스오토메이션",
+"second_ret": 12.69
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": -3.16,
+"up5": 0,
+"lead": "아리바이오랩",
+"lead_ret": 1.55,
+"second": "리가켐바이오",
+"second_ret": 0.29
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.46,
+"up5": 0,
+"lead": "세명전기",
+"lead_ret": -0.52,
+"second": "우원개발",
+"second_ret": -1.94
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.27,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": -1.19,
+"second": "롯데손해보험",
+"second_ret": -1.29
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.25,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -0.83,
+"second": "HD한국조선해양",
+"second_ret": -1.9
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 9,
+"avg": -2.24,
+"up5": 0,
+"lead": "샌즈랩",
+"lead_ret": 0.85,
+"second": "스톤브릿지벤처스",
+"second_ret": -0.11
+}
+],
+"leaders": [
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 29.98,
+"value": 11888,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 11.83,
+"value": 9958,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 12.75,
+"value": 4123,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "레이크머티리얼즈",
+"code": "281740",
+"ret": 22.16,
+"value": 3212,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "엠로",
+"code": "058970",
+"ret": 25.5,
+"value": 2312,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

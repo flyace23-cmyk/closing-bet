@@ -1,0 +1,254 @@
+{
+"date": "20201208",
+"kospi": -1.62,
+"kosdaq": -2.16,
+"adv": 649,
+"dec": 1160,
+"flat": 153,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 308709,
+"hot": [
+{
+"name": "콜드체인(저온 유통)",
+"n": 3,
+"lead": "일신바이오",
+"lead_ret": 29.56,
+"second": "대한과학",
+"second_ret": 19.03
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "명신산업",
+"lead_ret": 20.12,
+"second": "한국무브넥스",
+"second_ret": 19.07
+},
+{
+"name": "영상콘텐츠",
+"n": 3,
+"lead": "에이스토리",
+"lead_ret": 23.94,
+"second": "삼화네트웍스",
+"second_ret": 15.4
+}
+],
+"themes": [
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 3.7,
+"up5": 6,
+"lead": "에이스토리",
+"lead_ret": 23.94,
+"second": "삼화네트웍스",
+"second_ret": 15.4
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.66,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 29.68,
+"second": "무림P&P",
+"second_ret": 8.07
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.66,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 29.68,
+"second": "무림P&P",
+"second_ret": 8.07
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.41,
+"up5": 3,
+"lead": "무림SP",
+"lead_ret": 29.83,
+"second": "무림페이퍼",
+"second_ret": 16.86
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.26,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 10.11,
+"second": "YTN",
+"second_ret": 3.58
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 2.23,
+"up5": 1,
+"lead": "카페24",
+"lead_ret": 29.94,
+"second": "인포뱅크",
+"second_ret": 0.94
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 2.17,
+"up5": 2,
+"lead": "한미반도체",
+"lead_ret": 6.75,
+"second": "다산솔루에타",
+"second_ret": 5.99
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 2.07,
+"up5": 5,
+"lead": "삼화네트웍스",
+"lead_ret": 15.4,
+"second": "팬엔터테인먼트",
+"second_ret": 8.85
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 1.96,
+"up5": 1,
+"lead": "디지캡",
+"lead_ret": 13.65,
+"second": "한빛소프트",
+"second_ret": 1.27
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 17,
+"avg": 1.85,
+"up5": 3,
+"lead": "삼륭물산",
+"lead_ret": 8.91,
+"second": "송원산업",
+"second_ret": 5.52
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 1.49,
+"up5": 4,
+"lead": "일신바이오",
+"lead_ret": 29.56,
+"second": "대한과학",
+"second_ret": 19.03
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 1.48,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 16.43,
+"second": "누리플렉스",
+"second_ret": 3.85
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.21,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": 1.92,
+"second": "녹십자",
+"second_ret": -3.97
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": -3.89,
+"up5": 0,
+"lead": "삼천당제약",
+"lead_ret": 3.59,
+"second": "팬젠",
+"second_ret": -0.31
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -3.78,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": -0.65,
+"second": "서울제약",
+"second_ret": -3.69
+},
+{
+"name": "비만치료제",
+"n": 30,
+"avg": -3.58,
+"up5": 1,
+"lead": "나이벡",
+"lead_ret": 7.21,
+"second": "삼천당제약",
+"second_ret": 3.59
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.25,
+"up5": 0,
+"lead": "신대양제지",
+"lead_ret": -1.5,
+"second": "아세아제지",
+"second_ret": -1.53
+}
+],
+"leaders": [
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 29.56,
+"value": 7080,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "명신산업",
+"code": "009900",
+"ret": 20.12,
+"value": 6114,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "대한과학",
+"code": "131220",
+"ret": 19.03,
+"value": 5222,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "세운메디칼",
+"code": "100700",
+"ret": 20.1,
+"value": 2991,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "태경케미컬",
+"code": "006890",
+"ret": 10.61,
+"value": 2795,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20200522",
+"kospi": -1.41,
+"kosdaq": -1.04,
+"adv": 369,
+"dec": 1432,
+"flat": 111,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 195693,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "디아이씨",
+"second_ret": 29.87
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 4,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "노바텍",
+"second_ret": 26.64
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "포인트엔지니어링",
+"lead_ret": 10.32,
+"second": "와이씨",
+"second_ret": 9.89
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 8.1,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "유니온",
+"second_ret": 18.28
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 7.91,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 18.25,
+"second": "샘표",
+"second_ret": 9.92
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 5.88,
+"up5": 6,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "노바텍",
+"second_ret": 26.64
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 4.28,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 29.87,
+"second": "에코프로비엠",
+"second_ret": 2.57
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.68,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 29.87,
+"second": "한국팩키지",
+"second_ret": 0.62
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.64,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "EG",
+"second_ret": 6.3
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.64,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "EG",
+"second_ret": 6.3
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.76,
+"up5": 3,
+"lead": "쎄니트",
+"lead_ret": 25.36,
+"second": "유니온",
+"second_ret": 18.28
+},
+{
+"name": "사료",
+"n": 16,
+"avg": 1.22,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 18.25,
+"second": "팜스코",
+"second_ret": 5.83
+},
+{
+"name": "쿠팡(coupang)",
+"n": 17,
+"avg": 1.14,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 29.87,
+"second": "미래생명자원",
+"second_ret": 18.25
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 1.04,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 29.89,
+"second": "삼익THK",
+"second_ret": 2.42
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 0.99,
+"up5": 3,
+"lead": "쎄니트",
+"lead_ret": 25.36,
+"second": "티플랙스",
+"second_ret": 10.69
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.66,
+"up5": 0,
+"lead": "딥커머스",
+"lead_ret": 0.0,
+"second": "컬러레이",
+"second_ret": -2.59
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.21,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.24,
+"second": "강스템바이오텍",
+"second_ret": -2.31
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -3.2,
+"up5": 0,
+"lead": "일진파워",
+"lead_ret": -1.64,
+"second": "고려제강",
+"second_ret": -2.14
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": -3.18,
+"up5": 0,
+"lead": "포커스에이아이",
+"lead_ret": 0.0,
+"second": "피제이전자",
+"second_ret": -0.88
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -2.85,
+"up5": 0,
+"lead": "LS증권",
+"lead_ret": 0.1,
+"second": "코리아에셋투자증권",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "메디톡스",
+"code": "086900",
+"ret": 24.59,
+"value": 4688,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 18.28,
+"value": 3930,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+},
+{
+"name": "유니온머티리얼",
+"code": "047400",
+"ret": 29.89,
+"value": 2685,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "네오위즈",
+"code": "095660",
+"ret": 11.51,
+"value": 1684,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "티플랙스",
+"code": "081150",
+"ret": 10.69,
+"value": 1301,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+}
+],
+"backfilled": true
+}

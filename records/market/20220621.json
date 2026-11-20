@@ -1,0 +1,246 @@
+{
+"date": "20220621",
+"kospi": 0.75,
+"kosdaq": 1.09,
+"adv": 1459,
+"dec": 468,
+"flat": 155,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 132406,
+"hot": [
+{
+"name": "화장품",
+"n": 3,
+"lead": "실리콘투",
+"lead_ret": 29.63,
+"second": "프리티",
+"second_ret": 13.2
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "누보",
+"lead_ret": 23.82,
+"second": "서암기계공업",
+"second_ret": 20.65
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 5.28,
+"up5": 3,
+"lead": "한화오션",
+"lead_ret": 9.09,
+"second": "삼성중공업",
+"second_ret": 6.46
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.73,
+"up5": 2,
+"lead": "누보",
+"lead_ret": 23.82,
+"second": "효성오앤비",
+"second_ret": 9.46
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.13,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 6.82,
+"second": "메디포스트",
+"second_ret": 5.06
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.52,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 4.57,
+"second": "한화투자증권",
+"second_ret": 4.5
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 3.19,
+"up5": 2,
+"lead": "누보",
+"lead_ret": 23.82,
+"second": "효성오앤비",
+"second_ret": 9.46
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.14,
+"up5": 4,
+"lead": "카카오게임즈",
+"lead_ret": 10.5,
+"second": "NHN",
+"second_ret": 9.91
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.14,
+"up5": 3,
+"lead": "이연제약",
+"lead_ret": 12.94,
+"second": "녹십자",
+"second_ret": 6.82
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.11,
+"up5": 1,
+"lead": "동아지질",
+"lead_ret": 12.07,
+"second": "LS",
+"second_ret": 3.81
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 3.05,
+"up5": 9,
+"lead": "동성화인텍",
+"lead_ret": 13.59,
+"second": "한국카본",
+"second_ret": 8.4
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.99,
+"up5": 3,
+"lead": "카카오게임즈",
+"lead_ret": 10.5,
+"second": "NHN",
+"second_ret": 9.91
+},
+{
+"name": "의료AI",
+"n": 17,
+"avg": 2.97,
+"up5": 3,
+"lead": "노을",
+"lead_ret": 14.92,
+"second": "제이엘케이",
+"second_ret": 9.68
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.92,
+"up5": 2,
+"lead": "수산세보틱스",
+"lead_ret": 8.09,
+"second": "대창단조",
+"second_ret": 6.45
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.95,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 2.12,
+"second": "극동유화",
+"second_ret": 1.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.95,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 2.12,
+"second": "극동유화",
+"second_ret": 1.89
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -0.7,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 3.26,
+"second": "삼화콘덴서",
+"second_ret": 2.88
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -0.59,
+"up5": 0,
+"lead": "광전자",
+"lead_ret": 3.75,
+"second": "영우디에스피",
+"second_ret": 2.41
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": -0.41,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": 3.65,
+"second": "엘티씨",
+"second_ret": 2.93
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 13.82,
+"value": 3208,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "서암기계공업",
+"code": "100660",
+"ret": 20.65,
+"value": 3100,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 10.5,
+"value": 2284,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "SDN",
+"code": "099220",
+"ret": 12.7,
+"value": 1820,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "신화콘텍",
+"code": "187270",
+"ret": 13.97,
+"value": 1028,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

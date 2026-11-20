@@ -1,0 +1,254 @@
+{
+"date": "20220203",
+"kospi": 1.67,
+"kosdaq": 2.15,
+"adv": 1717,
+"dec": 229,
+"flat": 115,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 194903,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 13,
+"lead": "일동제약",
+"lead_ret": 29.92,
+"second": "에스디바이오센서",
+"second_ret": 29.92
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 26.69,
+"second": "수젠텍",
+"second_ret": 19.01
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "일동제약",
+"lead_ret": 29.92,
+"second": "경남제약",
+"second_ret": 29.83
+}
+],
+"themes": [
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 9.89,
+"up5": 26,
+"lead": "일동제약",
+"lead_ret": 29.92,
+"second": "에스디바이오센서",
+"second_ret": 29.92
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 8.12,
+"up5": 39,
+"lead": "일동제약",
+"lead_ret": 29.92,
+"second": "에스디바이오센서",
+"second_ret": 29.92
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 7.33,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 23.04,
+"second": "제일약품",
+"second_ret": 6.09
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 7.2,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 23.04,
+"second": "엔투텍",
+"second_ret": 5.62
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 6.78,
+"up5": 2,
+"lead": "SM C&C",
+"lead_ret": 30.0,
+"second": "모두투어",
+"second_ret": 5.81
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 6.78,
+"up5": 6,
+"lead": "수젠텍",
+"lead_ret": 19.01,
+"second": "엑세스바이오",
+"second_ret": 14.58
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 6.7,
+"up5": 7,
+"lead": "파미셀",
+"lead_ret": 23.04,
+"second": "아이진",
+"second_ret": 7.91
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 6.69,
+"up5": 7,
+"lead": "네이처셀",
+"lead_ret": 26.69,
+"second": "파미셀",
+"second_ret": 23.04
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 6.57,
+"up5": 11,
+"lead": "일동제약",
+"lead_ret": 29.92,
+"second": "네이처셀",
+"second_ret": 26.69
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 6.54,
+"up5": 14,
+"lead": "에스디바이오센서",
+"lead_ret": 29.92,
+"second": "HLB제넥스",
+"second_ret": 19.46
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 6.04,
+"up5": 4,
+"lead": "한국석유",
+"lead_ret": 15.28,
+"second": "극동유화",
+"second_ret": 9.34
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.67,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 15.1,
+"second": "흥구석유",
+"second_ret": 10.86
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -0.73,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 2.61,
+"second": "네오티스",
+"second_ret": 2.14
+},
+{
+"name": "온디바이스 AI",
+"n": 17,
+"avg": -0.38,
+"up5": 0,
+"lead": "에이팩트",
+"lead_ret": 3.71,
+"second": "SK하이닉스",
+"second_ret": 2.9
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -0.3,
+"up5": 0,
+"lead": "MDS테크",
+"lead_ret": 2.57,
+"second": "오비고",
+"second_ret": 2.09
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.3,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.9,
+"second": "삼성SDI",
+"second_ret": 0.0
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -0.13,
+"up5": 2,
+"lead": "LG화학",
+"lead_ret": 5.95,
+"second": "앤디포스",
+"second_ret": 5.17
+}
+],
+"leaders": [
+{
+"name": "에스디바이오센서",
+"code": "137310",
+"ret": 29.92,
+"value": 10278,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 16.36,
+"value": 4063,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 29.92,
+"value": 3796,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 14.6,
+"value": 3565,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "엑세스바이오",
+"code": "950130",
+"ret": 14.58,
+"value": 2747,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

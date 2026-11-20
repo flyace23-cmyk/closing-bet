@@ -1,0 +1,246 @@
+{
+"date": "20240308",
+"kospi": 1.24,
+"kosdaq": 1.14,
+"adv": 1215,
+"dec": 885,
+"flat": 144,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 228676,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "레이크머티리얼즈",
+"lead_ret": 26.71,
+"second": "HLB이노베이션",
+"second_ret": 19.63
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "대화제약",
+"lead_ret": 19.76,
+"second": "큐라클",
+"second_ret": 14.74
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 6.7,
+"up5": 3,
+"lead": "엔투텍",
+"lead_ret": 15.82,
+"second": "에스티팜",
+"second_ret": 12.65
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 5.06,
+"up5": 8,
+"lead": "바이넥스",
+"lead_ret": 24.79,
+"second": "프레스티지바이오로직스",
+"second_ret": 10.92
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.7,
+"up5": 9,
+"lead": "HLB",
+"lead_ret": 22.65,
+"second": "큐라클",
+"second_ret": 14.74
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.46,
+"up5": 2,
+"lead": "판타지오",
+"lead_ret": 29.7,
+"second": "알비더블유",
+"second_ret": 5.28
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.45,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 16.55,
+"second": "한화투자증권",
+"second_ret": 3.54
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.33,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 12.65,
+"second": "한미약품",
+"second_ret": 5.53
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 3.11,
+"up5": 3,
+"lead": "판타지오",
+"lead_ret": 29.7,
+"second": "아센디오",
+"second_ret": 17.94
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 3.04,
+"up5": 4,
+"lead": "테고사이언스",
+"lead_ret": 9.33,
+"second": "HLB생명과학",
+"second_ret": 8.24
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.92,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 5.15,
+"second": "휴비스",
+"second_ret": 4.94
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.91,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 17.94,
+"second": "서남",
+"second_ret": 8.08
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 2.88,
+"up5": 10,
+"lead": "대화제약",
+"lead_ret": 19.76,
+"second": "큐라클",
+"second_ret": 14.74
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.86,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 7.28,
+"second": "지씨셀",
+"second_ret": 4.51
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.11,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 1.83,
+"second": "삼성전자",
+"second_ret": 1.52
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.92,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 0.0,
+"second": "오픈베이스",
+"second_ret": -0.61
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -1.32,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": 0.58,
+"second": "하이스틸",
+"second_ret": 0.33
+},
+{
+"name": "광고",
+"n": 22,
+"avg": -1.27,
+"up5": 0,
+"lead": "지어소프트",
+"lead_ret": 2.79,
+"second": "YG PLUS",
+"second_ret": 1.5
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": -1.27,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 4.16,
+"second": "한빛소프트",
+"second_ret": 3.03
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 22.65,
+"value": 12668,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "레이크머티리얼즈",
+"code": "281740",
+"ret": 26.71,
+"value": 5755,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "ISC",
+"code": "095340",
+"ret": 18.45,
+"value": 2775,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "아센디오",
+"code": "012170",
+"ret": 17.94,
+"value": 1877,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 24.79,
+"value": 1458,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+}
+],
+"backfilled": true
+}

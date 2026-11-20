@@ -1,0 +1,254 @@
+{
+"date": "20220223",
+"kospi": 0.47,
+"kosdaq": 1.06,
+"adv": 1489,
+"dec": 376,
+"flat": 200,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 154992,
+"hot": [
+{
+"name": "조선기자재",
+"n": 9,
+"lead": "STX엔진",
+"lead_ret": 29.77,
+"second": "HD현대마린엔진",
+"second_ret": 16.55
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 6,
+"lead": "한국카본",
+"lead_ret": 15.61,
+"second": "일승",
+"second_ret": 14.9
+},
+{
+"name": "철강 중소형",
+"n": 4,
+"lead": "하이스틸",
+"lead_ret": 20.91,
+"second": "화인베스틸",
+"second_ret": 10.99
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 9.38,
+"up5": 4,
+"lead": "한화오션",
+"lead_ret": 21.9,
+"second": "HD현대중공업",
+"second_ret": 7.35
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 8.91,
+"up5": 4,
+"lead": "딥커머스",
+"lead_ret": 29.82,
+"second": "씨엑스아이",
+"second_ret": 29.7
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 7.88,
+"up5": 19,
+"lead": "STX엔진",
+"lead_ret": 29.77,
+"second": "HD현대마린엔진",
+"second_ret": 16.55
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 7.19,
+"up5": 9,
+"lead": "하이스틸",
+"lead_ret": 20.91,
+"second": "대동스틸",
+"second_ret": 10.45
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 6.36,
+"up5": 4,
+"lead": "하이스틸",
+"lead_ret": 20.91,
+"second": "휴스틸",
+"second_ret": 9.47
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 5.12,
+"up5": 12,
+"lead": "한국카본",
+"lead_ret": 15.61,
+"second": "일승",
+"second_ret": 14.9
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 4.99,
+"up5": 14,
+"lead": "하이스틸",
+"lead_ret": 20.91,
+"second": "화인베스틸",
+"second_ret": 10.99
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.93,
+"up5": 1,
+"lead": "디케이락",
+"lead_ret": 5.16,
+"second": "케이에스피",
+"second_ret": 4.75
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.87,
+"up5": 3,
+"lead": "한국카본",
+"lead_ret": 15.61,
+"second": "비에이치아이",
+"second_ret": 11.84
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.34,
+"up5": 4,
+"lead": "LG이노텍",
+"lead_ret": 6.35,
+"second": "대덕전자",
+"second_ret": 5.64
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 28,
+"avg": 3.32,
+"up5": 4,
+"lead": "티로보틱스",
+"lead_ret": 29.94,
+"second": "로보티즈",
+"second_ret": 6.61
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 55,
+"avg": 3.1,
+"up5": 7,
+"lead": "티로보틱스",
+"lead_ret": 29.94,
+"second": "두산",
+"second_ret": 8.6
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.25,
+"up5": 0,
+"lead": "제주항공",
+"lead_ret": 1.66,
+"second": "한진칼",
+"second_ret": 0.91
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": -1.06,
+"up5": 0,
+"lead": "국순당",
+"lead_ret": 1.9,
+"second": "MH에탄올",
+"second_ret": 0.32
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.36,
+"up5": 0,
+"lead": "동우팜투테이블",
+"lead_ret": 1.41,
+"second": "하림",
+"second_ret": 1.03
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.06,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 2.11,
+"second": "JB금융지주",
+"second_ret": 0.24
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.03,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 3.77,
+"second": "현대백화점",
+"second_ret": 0.52
+}
+],
+"leaders": [
+{
+"name": "로보로보",
+"code": "215100",
+"ret": 13.63,
+"value": 2507,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 12.92,
+"value": 2128,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 21.9,
+"value": 910,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "티로보틱스",
+"code": "117730",
+"ret": 29.94,
+"value": 715,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 20.91,
+"value": 617,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241216",
+"kospi": -0.22,
+"kosdaq": 0.69,
+"adv": 1446,
+"dec": 733,
+"flat": 133,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 138610,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 15.13,
+"second": "신성델타테크",
+"second_ret": 13.41
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 3,
+"lead": "인포뱅크",
+"lead_ret": 19.11,
+"second": "YBM넷",
+"second_ret": 11.93
+},
+{
+"name": "교육/온라인 교육",
+"n": 3,
+"lead": "에이럭스",
+"lead_ret": 29.93,
+"second": "유비온",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 6.94,
+"up5": 4,
+"lead": "대원전선",
+"lead_ret": 26.63,
+"second": "KBI메탈",
+"second_ret": 6.65
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 6.57,
+"up5": 3,
+"lead": "쿠콘",
+"lead_ret": 10.66,
+"second": "유라클",
+"second_ret": 8.96
+},
+{
+"name": "교육/온라인 교육",
+"n": 23,
+"avg": 4.25,
+"up5": 6,
+"lead": "에이럭스",
+"lead_ret": 29.93,
+"second": "유비온",
+"second_ret": 29.93
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 3.69,
+"up5": 9,
+"lead": "대원전선",
+"lead_ret": 26.63,
+"second": "KBI메탈",
+"second_ret": 6.65
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.64,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 8.84,
+"second": "오픈엣지테크놀로지",
+"second_ret": 8.09
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 3.55,
+"up5": 4,
+"lead": "에이럭스",
+"lead_ret": 29.93,
+"second": "제이씨현시스템",
+"second_ret": 15.5
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 3.49,
+"up5": 5,
+"lead": "엑스게이트",
+"lead_ret": 21.64,
+"second": "케이씨에스",
+"second_ret": 11.06
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.43,
+"up5": 1,
+"lead": "오텍",
+"lead_ret": 9.72,
+"second": "GH신소재",
+"second_ret": 3.51
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.39,
+"up5": 2,
+"lead": "코오롱",
+"lead_ret": 17.89,
+"second": "TS인베스트먼트",
+"second_ret": 10.85
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.19,
+"up5": 3,
+"lead": "대한광통신",
+"lead_ret": 10.35,
+"second": "자람테크놀로지",
+"second_ret": 8.84
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 3.18,
+"up5": 6,
+"lead": "제이씨현시스템",
+"lead_ret": 15.5,
+"second": "컴투스홀딩스",
+"second_ret": 11.26
+},
+{
+"name": "유리 기판",
+"n": 20,
+"avg": 3.14,
+"up5": 4,
+"lead": "제이앤티씨",
+"lead_ret": 10.27,
+"second": "SKC",
+"second_ret": 10.27
+}
+],
+"themes_worst": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -2.93,
+"up5": 1,
+"lead": "디지틀조선",
+"lead_ret": 5.53,
+"second": "스카이라이프",
+"second_ret": 1.55
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -2.75,
+"up5": 0,
+"lead": "국보디자인",
+"lead_ret": 0.74,
+"second": "이월드",
+"second_ret": 0.62
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.73,
+"up5": 1,
+"lead": "링네트",
+"lead_ret": 6.21,
+"second": "광무",
+"second_ret": 1.67
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.66,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -1.18,
+"second": "대우건설",
+"second_ret": -1.32
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.62,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 0.15,
+"second": "롯데손해보험",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 21.64,
+"value": 3821,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 14.71,
+"value": 2803,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 26.63,
+"value": 1438,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "케이씨에스",
+"code": "115500",
+"ret": 11.06,
+"value": 1344,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "에이럭스",
+"code": "475580",
+"ret": 29.93,
+"value": 1288,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

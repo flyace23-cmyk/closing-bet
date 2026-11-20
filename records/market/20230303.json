@@ -1,0 +1,238 @@
+{
+"date": "20230303",
+"kospi": 0.17,
+"kosdaq": 1.93,
+"adv": 1154,
+"dec": 836,
+"flat": 149,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 171058,
+"hot": [
+{
+"name": "2차전지",
+"n": 16,
+"lead": "한농화성",
+"lead_ret": 30.0,
+"second": "상신이디피",
+"second_ret": 21.77
+}
+],
+"themes": [
+{
+"name": "2차전지(소재/부품)",
+"n": 64,
+"avg": 4.92,
+"up5": 25,
+"lead": "한농화성",
+"lead_ret": 30.0,
+"second": "상신이디피",
+"second_ret": 21.77
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.4,
+"up5": 8,
+"lead": "한농화성",
+"lead_ret": 30.0,
+"second": "티에스아이",
+"second_ret": 14.15
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 4.34,
+"up5": 3,
+"lead": "에코프로비엠",
+"lead_ret": 14.03,
+"second": "에코프로",
+"second_ret": 8.91
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.07,
+"up5": 9,
+"lead": "강원에너지",
+"lead_ret": 14.93,
+"second": "미래산업",
+"second_ret": 13.68
+},
+{
+"name": "2차전지",
+"n": 119,
+"avg": 4.05,
+"up5": 37,
+"lead": "한농화성",
+"lead_ret": 30.0,
+"second": "상신이디피",
+"second_ret": 21.77
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.9,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 17.45,
+"second": "LG화학",
+"second_ret": 3.69
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 3.71,
+"up5": 11,
+"lead": "피엔티",
+"lead_ret": 15.27,
+"second": "강원에너지",
+"second_ret": 14.93
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 3.68,
+"up5": 4,
+"lead": "상신이디피",
+"lead_ret": 21.77,
+"second": "피엔티",
+"second_ret": 15.27
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 3.39,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 29.79,
+"second": "이지케어텍",
+"second_ret": 22.97
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 3.15,
+"up5": 2,
+"lead": "서진시스템",
+"lead_ret": 9.03,
+"second": "미코",
+"second_ret": 5.64
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.08,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 15.59,
+"second": "대주전자재료",
+"second_ret": 6.42
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 3.05,
+"up5": 5,
+"lead": "켐트로스",
+"lead_ret": 9.79,
+"second": "APS이노베이션",
+"second_ret": 9.6
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.71,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -1.58,
+"second": "코리안리",
+"second_ret": -1.69
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.47,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.38,
+"second": "HD현대중공업",
+"second_ret": -1.61
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.34,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 0.71,
+"second": "그래디언트",
+"second_ret": 0.13
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.21,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.96,
+"second": "iM금융지주",
+"second_ret": 0.13
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -1.04,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.16,
+"second": "네패스아크",
+"second_ret": -0.46
+}
+],
+"leaders": [
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 14.03,
+"value": 9318,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 15.59,
+"value": 2913,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 15.57,
+"value": 2589,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 30.0,
+"value": 1852,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 15.58,
+"value": 1628,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

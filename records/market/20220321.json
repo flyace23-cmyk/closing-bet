@@ -1,0 +1,238 @@
+{
+"date": "20220321",
+"kospi": -0.77,
+"kosdaq": -0.49,
+"adv": 907,
+"dec": 969,
+"flat": 197,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 165174,
+"hot": [
+{
+"name": "사료",
+"n": 6,
+"lead": "한일사료",
+"lead_ret": 30.0,
+"second": "미래생명자원",
+"second_ret": 22.36
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 8.13,
+"up5": 11,
+"lead": "한일사료",
+"lead_ret": 30.0,
+"second": "미래생명자원",
+"second_ret": 22.36
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.26,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 22.36,
+"second": "샘표",
+"second_ret": 3.17
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 5.13,
+"up5": 2,
+"lead": "시공테크",
+"lead_ret": 19.12,
+"second": "국보디자인",
+"second_ret": 8.43
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.54,
+"up5": 5,
+"lead": "한일사료",
+"lead_ret": 30.0,
+"second": "팜스토리",
+"second_ret": 10.39
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.92,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 29.88,
+"second": "효성오앤비",
+"second_ret": 11.94
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.92,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 29.88,
+"second": "효성오앤비",
+"second_ret": 11.94
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 3.71,
+"up5": 7,
+"lead": "한일사료",
+"lead_ret": 30.0,
+"second": "미래생명자원",
+"second_ret": 22.36
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.69,
+"up5": 5,
+"lead": "효성오앤비",
+"lead_ret": 11.94,
+"second": "누보",
+"second_ret": 5.51
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 3.52,
+"up5": 7,
+"lead": "효성오앤비",
+"lead_ret": 11.94,
+"second": "대동",
+"second_ret": 10.7
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 3.42,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 29.88,
+"second": "시공테크",
+"second_ret": 19.12
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.32,
+"up5": 3,
+"lead": "대동",
+"lead_ret": 10.7,
+"second": "남해화학",
+"second_ret": 5.47
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.9,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 13.06,
+"second": "대성에너지",
+"second_ret": 7.39
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.4,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.2,
+"second": "차바이오텍",
+"second_ret": -1.58
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.24,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": -1.52,
+"second": "DL이앤씨",
+"second_ret": -1.95
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.04,
+"up5": 0,
+"lead": "우리기술",
+"lead_ret": 0.0,
+"second": "에스앤더블류",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.99,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": -1.06,
+"second": "팬오션",
+"second_ret": -1.27
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": -1.8,
+"up5": 1,
+"lead": "지구홀딩스",
+"lead_ret": 5.09,
+"second": "진시스템",
+"second_ret": 3.54
+}
+],
+"leaders": [
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 22.36,
+"value": 2963,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "NHN벅스",
+"code": "104200",
+"ret": 15.02,
+"value": 2925,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 12.78,
+"value": 2373,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 30.0,
+"value": 1692,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "자연과환경",
+"code": "043910",
+"ret": 29.88,
+"value": 1685,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+}
+],
+"backfilled": true
+}

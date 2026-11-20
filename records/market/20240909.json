@@ -1,0 +1,254 @@
+{
+"date": "20240909",
+"kospi": -0.33,
+"kosdaq": 1.11,
+"adv": 1346,
+"dec": 801,
+"flat": 135,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 123622,
+"hot": [
+{
+"name": "비만치료제",
+"n": 7,
+"lead": "대봉엘에스",
+"lead_ret": 29.87,
+"second": "DXVX",
+"second_ret": 25.7
+},
+{
+"name": "화장품",
+"n": 6,
+"lead": "디와이디",
+"lead_ret": 30.0,
+"second": "제닉",
+"second_ret": 29.94
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "셀리드",
+"lead_ret": 29.94,
+"second": "셀레믹스",
+"second_ret": 20.9
+}
+],
+"themes": [
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 5.04,
+"up5": 12,
+"lead": "대봉엘에스",
+"lead_ret": 29.87,
+"second": "DXVX",
+"second_ret": 25.7
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.86,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 29.98,
+"second": "오로라",
+"second_ret": 1.34
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.69,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 12.79,
+"second": "케이에스피",
+"second_ret": 5.43
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.67,
+"up5": 9,
+"lead": "셀리드",
+"lead_ret": 29.94,
+"second": "인벤티지랩",
+"second_ret": 17.14
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 3.48,
+"up5": 19,
+"lead": "디와이디",
+"lead_ret": 30.0,
+"second": "제닉",
+"second_ret": 29.94
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.22,
+"up5": 6,
+"lead": "네오이뮨텍",
+"lead_ret": 29.98,
+"second": "셀리드",
+"second_ret": 29.94
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.08,
+"up5": 3,
+"lead": "퀄리타스반도체",
+"lead_ret": 10.12,
+"second": "파두",
+"second_ret": 7.42
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.91,
+"up5": 3,
+"lead": "인벤티지랩",
+"lead_ret": 17.14,
+"second": "큐라티스",
+"second_ret": 8.4
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 2.67,
+"up5": 4,
+"lead": "산일전기",
+"lead_ret": 12.31,
+"second": "제룡전기",
+"second_ret": 11.17
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.63,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 6.74,
+"second": "가온전선",
+"second_ret": 3.52
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.59,
+"up5": 2,
+"lead": "DXVX",
+"lead_ret": 25.7,
+"second": "아모레퍼시픽",
+"second_ret": 6.42
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 2.57,
+"up5": 6,
+"lead": "엔젠바이오",
+"lead_ret": 17.43,
+"second": "인벤티지랩",
+"second_ret": 17.14
+}
+],
+"themes_worst": [
+{
+"name": "제지",
+"n": 14,
+"avg": -1.29,
+"up5": 0,
+"lead": "한국수출포장",
+"lead_ret": 1.84,
+"second": "깨끗한나라",
+"second_ret": 1.63
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.21,
+"up5": 0,
+"lead": "NICE인프라",
+"lead_ret": 1.08,
+"second": "프리엠스",
+"second_ret": 0.22
+},
+{
+"name": "골프",
+"n": 14,
+"avg": -1.11,
+"up5": 0,
+"lead": "아난티",
+"lead_ret": 2.36,
+"second": "와이엔텍",
+"second_ret": 0.64
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.07,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.51,
+"second": "롯데손해보험",
+"second_ret": 1.38
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": -1.06,
+"up5": 0,
+"lead": "미래컴퍼니",
+"lead_ret": 4.67,
+"second": "미코",
+"second_ret": 4.44
+}
+],
+"leaders": [
+{
+"name": "대봉엘에스",
+"code": "078140",
+"ret": 29.87,
+"value": 2396,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 13.13,
+"value": 2163,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 10.15,
+"value": 1130,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "화성밸브",
+"code": "039610",
+"ret": 12.79,
+"value": 1038,
+"theme": "남-북-러 가스관사업",
+"reason": "테마: 남-북-러 가스관사업"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 10.49,
+"value": 1030,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+}
+],
+"backfilled": true
+}

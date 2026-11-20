@@ -1,0 +1,254 @@
+{
+"date": "20240905",
+"kospi": -0.21,
+"kosdaq": -0.88,
+"adv": 791,
+"dec": 1356,
+"flat": 135,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 163139,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 8,
+"lead": "한컴위드",
+"lead_ret": 30.0,
+"second": "아이씨티케이",
+"second_ret": 29.95
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "디케이앤디",
+"lead_ret": 27.42,
+"second": "에프앤가이드",
+"second_ret": 20.94
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "피노",
+"lead_ret": 11.2,
+"second": "롯데에너지머티리얼즈",
+"second_ret": 8.31
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 5.99,
+"up5": 6,
+"lead": "한국첨단소재",
+"lead_ret": 30.09,
+"second": "한컴위드",
+"second_ret": 30.0
+},
+{
+"name": "보안주(정보)",
+"n": 47,
+"avg": 3.82,
+"up5": 11,
+"lead": "한컴위드",
+"lead_ret": 30.0,
+"second": "아이씨티케이",
+"second_ret": 29.95
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.22,
+"up5": 2,
+"lead": "한국첨단소재",
+"lead_ret": 30.09,
+"second": "라이콤",
+"second_ret": 8.06
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.0,
+"up5": 1,
+"lead": "강원랜드",
+"lead_ret": 7.85,
+"second": "GKL",
+"second_ret": 4.41
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.0,
+"up5": 1,
+"lead": "강원랜드",
+"lead_ret": 7.85,
+"second": "GKL",
+"second_ret": 4.41
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 2.6,
+"up5": 2,
+"lead": "한세엠케이",
+"lead_ret": 29.82,
+"second": "모나용평",
+"second_ret": 5.71
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 2.53,
+"up5": 4,
+"lead": "아이씨티케이",
+"lead_ret": 29.95,
+"second": "에스피소프트",
+"second_ret": 8.34
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 2.26,
+"up5": 2,
+"lead": "한컴위드",
+"lead_ret": 30.0,
+"second": "위메이드",
+"second_ret": 5.99
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.2,
+"up5": 1,
+"lead": "GS리테일",
+"lead_ret": 5.37,
+"second": "이마트",
+"second_ret": 3.16
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 2.14,
+"up5": 1,
+"lead": "인포뱅크",
+"lead_ret": 13.84,
+"second": "드림시큐리티",
+"second_ret": 4.1
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.99,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 12.47,
+"second": "금호석유화학",
+"second_ret": 1.7
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.98,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 3.54,
+"second": "SBI인베스트먼트",
+"second_ret": 2.57
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -4.66,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 0.0,
+"second": "비엠티",
+"second_ret": -1.55
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -3.34,
+"up5": 0,
+"lead": "오텍",
+"lead_ret": 0.0,
+"second": "엔브이에이치코리아",
+"second_ret": -1.0
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": -3.15,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 2.29,
+"second": "에이루트",
+"second_ret": 1.63
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.1,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 0.87,
+"second": "LS에코에너지",
+"second_ret": -1.44
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -2.96,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 2.38,
+"second": "한전KPS",
+"second_ret": -0.6
+}
+],
+"leaders": [
+{
+"name": "대봉엘에스",
+"code": "078140",
+"ret": 19.05,
+"value": 3022,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 29.95,
+"value": 2873,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "KCTC",
+"code": "009070",
+"ret": 16.23,
+"value": 1483,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 17.08,
+"value": 916,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "모니터랩",
+"code": "434480",
+"ret": 29.88,
+"value": 332,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

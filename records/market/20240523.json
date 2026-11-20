@@ -1,0 +1,254 @@
+{
+"date": "20240523",
+"kospi": -0.06,
+"kosdaq": 0.1,
+"adv": 896,
+"dec": 1222,
+"flat": 139,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 197073,
+"hot": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 5,
+"lead": "범한퓨얼셀",
+"lead_ret": 25.24,
+"second": "LS머트리얼즈",
+"second_ret": 16.02
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 5,
+"lead": "범한퓨얼셀",
+"lead_ret": 25.24,
+"second": "에스프리즘",
+"second_ret": 14.52
+},
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "대명에너지",
+"lead_ret": 24.72,
+"second": "LS머트리얼즈",
+"second_ret": 16.02
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 6.44,
+"up5": 7,
+"lead": "범한퓨얼셀",
+"lead_ret": 25.24,
+"second": "LS머트리얼즈",
+"second_ret": 16.02
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 5.34,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.98,
+"second": "한화솔루션",
+"second_ret": 11.98
+},
+{
+"name": "태양광에너지",
+"n": 42,
+"avg": 2.58,
+"up5": 6,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.98,
+"second": "대명에너지",
+"second_ret": 24.72
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.49,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 17.01,
+"second": "코오롱인더",
+"second_ret": 0.81
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 40,
+"avg": 2.4,
+"up5": 7,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.98,
+"second": "한중엔시에스",
+"second_ret": 13.59
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.34,
+"up5": 1,
+"lead": "한선엔지니어링",
+"lead_ret": 12.09,
+"second": "디케이락",
+"second_ret": 3.17
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.28,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 5.31,
+"second": "HD현대중공업",
+"second_ret": 2.87
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 2.19,
+"up5": 6,
+"lead": "대명에너지",
+"lead_ret": 24.72,
+"second": "LS머트리얼즈",
+"second_ret": 16.02
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.17,
+"up5": 3,
+"lead": "에스엠",
+"lead_ret": 11.27,
+"second": "하이브",
+"second_ret": 6.05
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.12,
+"up5": 2,
+"lead": "에스바이오메딕스",
+"lead_ret": 29.93,
+"second": "코아스템켐온",
+"second_ret": 5.69
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 68,
+"avg": 1.94,
+"up5": 10,
+"lead": "범한퓨얼셀",
+"lead_ret": 25.24,
+"second": "에스프리즘",
+"second_ret": 14.52
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.94,
+"up5": 2,
+"lead": "신성이엔지",
+"lead_ret": 7.08,
+"second": "케이엔솔",
+"second_ret": 5.71
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -3.95,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 0.64,
+"second": "대한전선",
+"second_ret": 0.54
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": -2.78,
+"up5": 1,
+"lead": "현대비앤지스틸",
+"lead_ret": 5.56,
+"second": "한주라이트메탈",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.71,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.07,
+"second": "샘표",
+"second_ret": -1.52
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -2.15,
+"up5": 0,
+"lead": "벽산",
+"lead_ret": 0.24,
+"second": "노루홀딩스",
+"second_ret": -0.71
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -2.07,
+"up5": 1,
+"lead": "츌립앤사이언스",
+"lead_ret": 5.68,
+"second": "앱클론",
+"second_ret": 1.89
+}
+],
+"leaders": [
+{
+"name": "LS머트리얼즈",
+"code": "417200",
+"ret": 16.02,
+"value": 4666,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 11.98,
+"value": 4334,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "한선엔지니어링",
+"code": "452280",
+"ret": 12.09,
+"value": 2229,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 21.8,
+"value": 2015,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "범한퓨얼셀",
+"code": "382900",
+"ret": 25.24,
+"value": 1420,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+}
+],
+"backfilled": true
+}

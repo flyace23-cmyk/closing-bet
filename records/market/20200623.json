@@ -1,0 +1,254 @@
+{
+"date": "20200623",
+"kospi": 0.21,
+"kosdaq": 0.21,
+"adv": 623,
+"dec": 1141,
+"flat": 154,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 260337,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 7,
+"lead": "에스프리즘",
+"lead_ret": 29.97,
+"second": "두산퓨얼셀",
+"second_ret": 29.81
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "TPC로보틱스",
+"lead_ret": 29.98,
+"second": "아이엘",
+"second_ret": 29.96
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "위메이드플레이",
+"lead_ret": 10.83,
+"second": "네오위즈",
+"second_ret": 10.0
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.63,
+"up5": 1,
+"lead": "KG모빌리티",
+"lead_ret": 29.79,
+"second": "현대모비스",
+"second_ret": 4.89
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.74,
+"up5": 1,
+"lead": "TPC로보틱스",
+"lead_ret": 29.98,
+"second": "스맥",
+"second_ret": 3.62
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 4.25,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 16.59,
+"second": "풀무원",
+"second_ret": 4.57
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 62,
+"avg": 4.22,
+"up5": 21,
+"lead": "에스프리즘",
+"lead_ret": 29.97,
+"second": "두산퓨얼셀",
+"second_ret": 29.81
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.17,
+"up5": 4,
+"lead": "iMBC",
+"lead_ret": 29.81,
+"second": "애니플러스",
+"second_ret": 8.31
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.99,
+"up5": 1,
+"lead": "두산퓨얼셀",
+"lead_ret": 29.81,
+"second": "코세스",
+"second_ret": 2.51
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 30,
+"avg": 3.48,
+"up5": 10,
+"lead": "위메이드플레이",
+"lead_ret": 10.83,
+"second": "네오위즈",
+"second_ret": 10.0
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 3.08,
+"up5": 8,
+"lead": "네오위즈",
+"lead_ret": 10.0,
+"second": "웹젠",
+"second_ret": 9.95
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 3.06,
+"up5": 2,
+"lead": "디지캡",
+"lead_ret": 9.02,
+"second": "한빛소프트",
+"second_ret": 5.7
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 2.81,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 10.51,
+"second": "현대모비스",
+"second_ret": 4.89
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 2.54,
+"up5": 3,
+"lead": "디앤씨미디어",
+"lead_ret": 10.48,
+"second": "미스터블루",
+"second_ret": 6.17
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 2.39,
+"up5": 2,
+"lead": "파이오링크",
+"lead_ret": 5.69,
+"second": "아톤",
+"second_ret": 5.12
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.88,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": -1.85,
+"second": "유한양행",
+"second_ret": -2.03
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": -2.7,
+"up5": 0,
+"lead": "동국제약",
+"lead_ret": 0.74,
+"second": "깨끗한나라",
+"second_ret": 0.41
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -2.48,
+"up5": 0,
+"lead": "HLB생명과학",
+"lead_ret": 1.22,
+"second": "코아스템켐온",
+"second_ret": 0.58
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -2.37,
+"up5": 0,
+"lead": "제이에스링크",
+"lead_ret": 1.15,
+"second": "폴라리스오피스",
+"second_ret": -0.28
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -2.24,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 0.57,
+"second": "한국종합기술",
+"second_ret": -1.14
+}
+],
+"leaders": [
+{
+"name": "KG모빌리티",
+"code": "003620",
+"ret": 29.79,
+"value": 27721,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 29.81,
+"value": 4154,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "제이엔케이글로벌",
+"code": "126880",
+"ret": 13.88,
+"value": 2811,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "셀리드",
+"code": "299660",
+"ret": 18.55,
+"value": 2408,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "일진다이아",
+"code": "081000",
+"ret": 14.34,
+"value": 2310,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

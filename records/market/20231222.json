@@ -1,0 +1,254 @@
+{
+"date": "20231222",
+"kospi": -0.02,
+"kosdaq": -0.56,
+"adv": 964,
+"dec": 1102,
+"flat": 160,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 175397,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "아이컴포넌트",
+"lead_ret": 29.95,
+"second": "야스",
+"second_ret": 22.08
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "가온칩스",
+"lead_ret": 19.79,
+"second": "자람테크놀로지",
+"second_ret": 11.51
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "삼화전자",
+"lead_ret": 29.99,
+"second": "삼화전기",
+"second_ret": 24.0
+}
+],
+"themes": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": 5.69,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 29.99,
+"second": "삼화전기",
+"second_ret": 24.0
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 5.69,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 29.99,
+"second": "삼화전기",
+"second_ret": 24.0
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.06,
+"up5": 3,
+"lead": "자람테크놀로지",
+"lead_ret": 11.51,
+"second": "에이직랜드",
+"second_ret": 9.62
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.77,
+"up5": 3,
+"lead": "엑시콘",
+"lead_ret": 15.91,
+"second": "티엘비",
+"second_ret": 10.39
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 2.74,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 29.99,
+"second": "우성머티리얼스",
+"second_ret": 7.65
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.66,
+"up5": 2,
+"lead": "풍전약품",
+"lead_ret": 20.94,
+"second": "차바이오텍",
+"second_ret": 5.0
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.31,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 5.0,
+"second": "지씨셀",
+"second_ret": 4.63
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 1.88,
+"up5": 1,
+"lead": "아이티엠반도체",
+"lead_ret": 29.78,
+"second": "덕우전자",
+"second_ret": 2.98
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 1.85,
+"up5": 1,
+"lead": "태영건설",
+"lead_ret": 11.84,
+"second": "서한",
+"second_ret": 2.66
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.79,
+"up5": 0,
+"lead": "유니온머티리얼",
+"lead_ret": 4.9,
+"second": "유니온",
+"second_ret": 3.38
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 1.75,
+"up5": 1,
+"lead": "삼화전자",
+"lead_ret": 29.99,
+"second": "LX인터내셔널",
+"second_ret": 2.93
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 1.69,
+"up5": 1,
+"lead": "야스",
+"lead_ret": 22.08,
+"second": "유니테스트",
+"second_ret": 0.69
+}
+],
+"themes_worst": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -4.05,
+"up5": 0,
+"lead": "미투온",
+"lead_ret": 1.97,
+"second": "삼성전자",
+"second_ret": 1.2
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": -3.74,
+"up5": 0,
+"lead": "이스트소프트",
+"lead_ret": 2.01,
+"second": "미투온",
+"second_ret": 1.97
+},
+{
+"name": "게임",
+"n": 29,
+"avg": -3.37,
+"up5": 0,
+"lead": "이스트소프트",
+"lead_ret": 2.01,
+"second": "미투온",
+"second_ret": 1.97
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -3.18,
+"up5": 0,
+"lead": "SAMG엔터",
+"lead_ret": 1.9,
+"second": "대원미디어",
+"second_ret": -0.41
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -2.76,
+"up5": 0,
+"lead": "미투온",
+"lead_ret": 1.97,
+"second": "디앤씨미디어",
+"second_ret": 0.39
+}
+],
+"leaders": [
+{
+"name": "씨싸이트",
+"code": "109670",
+"ret": 13.46,
+"value": 4521,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 19.79,
+"value": 3263,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 15.91,
+"value": 1614,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 17.35,
+"value": 1337,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 11.08,
+"value": 1237,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

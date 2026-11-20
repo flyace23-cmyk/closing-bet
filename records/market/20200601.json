@@ -1,0 +1,254 @@
+{
+"date": "20200601",
+"kospi": 1.75,
+"kosdaq": 3.09,
+"adv": 1492,
+"dec": 289,
+"flat": 132,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 182070,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "에프에스티",
+"lead_ret": 20.0,
+"second": "티이엠씨씨엔에스",
+"second_ret": 17.78
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "에프에스티",
+"lead_ret": 20.0,
+"second": "티이엠씨씨엔에스",
+"second_ret": 17.78
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "티이엠씨씨엔에스",
+"lead_ret": 17.78,
+"second": "인텍플러스",
+"second_ret": 11.71
+}
+],
+"themes": [
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": 4.8,
+"up5": 4,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.85,
+"second": "인트론바이오",
+"second_ret": 8.7
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 4.28,
+"up5": 5,
+"lead": "이녹스첨단소재",
+"lead_ret": 13.0,
+"second": "일지테크",
+"second_ret": 8.47
+},
+{
+"name": "반도체 장비",
+"n": 70,
+"avg": 4.24,
+"up5": 28,
+"lead": "에프에스티",
+"lead_ret": 20.0,
+"second": "티이엠씨씨엔에스",
+"second_ret": 17.78
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 4.19,
+"up5": 7,
+"lead": "리가켐바이오",
+"lead_ret": 29.9,
+"second": "에이비엘바이오",
+"second_ret": 12.84
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.19,
+"up5": 1,
+"lead": "휴비스",
+"lead_ret": 17.1,
+"second": "코오롱인더",
+"second_ret": 3.01
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.06,
+"up5": 4,
+"lead": "스맥",
+"lead_ret": 14.14,
+"second": "TPC로보틱스",
+"second_ret": 5.71
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 4.06,
+"up5": 5,
+"lead": "모나미",
+"lead_ret": 25.7,
+"second": "TBH글로벌",
+"second_ret": 11.6
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 4.02,
+"up5": 4,
+"lead": "리가켐바이오",
+"lead_ret": 29.9,
+"second": "인바이오젠",
+"second_ret": 9.07
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 3.96,
+"up5": 5,
+"lead": "이녹스첨단소재",
+"lead_ret": 13.0,
+"second": "LX세미콘",
+"second_ret": 10.83
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 3.71,
+"up5": 5,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.85,
+"second": "신테카바이오",
+"second_ret": 17.84
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 3.67,
+"up5": 3,
+"lead": "셀트리온제약",
+"lead_ret": 23.23,
+"second": "셀트리온",
+"second_ret": 6.56
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.63,
+"up5": 1,
+"lead": "DB하이텍",
+"lead_ret": 7.34,
+"second": "유비벨록스",
+"second_ret": 4.77
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.44,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 1.29,
+"second": "샘표",
+"second_ret": -4.92
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": -3.08,
+"up5": 0,
+"lead": "동국알앤에스",
+"lead_ret": 1.28,
+"second": "우성머티리얼스",
+"second_ret": 0.89
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.46,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.06,
+"second": "롯데정밀화학",
+"second_ret": 0.92
+},
+{
+"name": "사료",
+"n": 16,
+"avg": -1.38,
+"up5": 0,
+"lead": "선진",
+"lead_ret": 1.91,
+"second": "한탑",
+"second_ret": 1.81
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": -0.49,
+"up5": 0,
+"lead": "황금에스티",
+"lead_ret": 1.81,
+"second": "LG화학",
+"second_ret": 1.41
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 23.23,
+"value": 9914,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "모나미",
+"code": "005360",
+"ret": 25.7,
+"value": 2489,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+},
+{
+"name": "신테카바이오",
+"code": "226330",
+"ret": 17.84,
+"value": 1590,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 12.84,
+"value": 1228,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "삼천리자전거",
+"code": "024950",
+"ret": 29.79,
+"value": 896,
+"theme": "자전거",
+"reason": "테마: 자전거"
+}
+],
+"backfilled": true
+}

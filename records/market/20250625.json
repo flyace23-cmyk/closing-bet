@@ -1,0 +1,254 @@
+{
+"date": "20250625",
+"kospi": 0.15,
+"kosdaq": -0.34,
+"adv": 1028,
+"dec": 1210,
+"flat": 126,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 258012,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "파미셀",
+"lead_ret": 19.31,
+"second": "ISC",
+"second_ret": 16.1
+},
+{
+"name": "쿠팡(coupang)",
+"n": 3,
+"lead": "오텍",
+"lead_ret": 29.88,
+"second": "KCTC",
+"second_ret": 20.53
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "아이쓰리시스템",
+"lead_ret": 16.63,
+"second": "원익",
+"second_ret": 14.73
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.35,
+"up5": 2,
+"lead": "오텍",
+"lead_ret": 29.88,
+"second": "GH신소재",
+"second_ret": 6.59
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.74,
+"up5": 2,
+"lead": "DL이앤씨",
+"lead_ret": 14.46,
+"second": "현대건설",
+"second_ret": 6.29
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.96,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 19.31,
+"second": "서울제약",
+"second_ret": 1.18
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.65,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 19.31,
+"second": "소마젠",
+"second_ret": 2.7
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 3.17,
+"up5": 3,
+"lead": "KCTC",
+"lead_ret": 20.53,
+"second": "동방",
+"second_ret": 11.38
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 2.72,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 11.15,
+"second": "코리안리",
+"second_ret": 2.62
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 2.51,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 29.84,
+"second": "휴림로봇",
+"second_ret": 6.85
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.49,
+"up5": 2,
+"lead": "퀄리타스반도체",
+"lead_ret": 7.01,
+"second": "파두",
+"second_ret": 6.29
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.36,
+"up5": 5,
+"lead": "ISC",
+"lead_ret": 16.1,
+"second": "마이크로투나노",
+"second_ret": 7.91
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.32,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 6.19,
+"second": "SK하이닉스",
+"second_ret": 2.69
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.23,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 5.34,
+"second": "현대모비스",
+"second_ret": 4.39
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.17,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 16.1,
+"second": "SK하이닉스",
+"second_ret": 2.69
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -6.14,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": -4.39,
+"second": "코나아이",
+"second_ret": -5.8
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -5.31,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -3.11,
+"second": "HJ중공업",
+"second_ret": -4.97
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -4.45,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.63,
+"second": "LB인베스트먼트",
+"second_ret": -1.48
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -4.1,
+"up5": 1,
+"lead": "사토시홀딩스",
+"lead_ret": 15.82,
+"second": "헥토이노베이션",
+"second_ret": 2.13
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.29,
+"up5": 0,
+"lead": "카카오페이",
+"lead_ret": 1.96,
+"second": "NHN KCP",
+"second_ret": 1.15
+}
+],
+"leaders": [
+{
+"name": "한국전력",
+"code": "015760",
+"ret": 11.0,
+"value": 7398,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 19.4,
+"value": 3125,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "동방",
+"code": "004140",
+"ret": 11.38,
+"value": 1858,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 11.27,
+"value": 1634,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "케이옥션",
+"code": "102370",
+"ret": 29.79,
+"value": 1420,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+}
+],
+"backfilled": true
+}

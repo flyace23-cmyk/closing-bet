@@ -1,0 +1,246 @@
+{
+"date": "20210629",
+"kospi": -0.46,
+"kosdaq": 0.45,
+"adv": 792,
+"dec": 1015,
+"flat": 206,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 248814,
+"hot": [
+{
+"name": "교육/온라인 교육",
+"n": 3,
+"lead": "아이비김영",
+"lead_ret": 30.0,
+"second": "유엔젤",
+"second_ret": 29.5
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "더코디",
+"lead_ret": 29.85,
+"second": "에스티큐브",
+"second_ret": 9.28
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 7.18,
+"up5": 2,
+"lead": "아이비김영",
+"lead_ret": 30.0,
+"second": "TS인베스트먼트",
+"second_ret": 7.15
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 5.62,
+"up5": 3,
+"lead": "유엔젤",
+"lead_ret": 29.5,
+"second": "이루온",
+"second_ret": 18.01
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.85,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 16.78,
+"second": "손오공",
+"second_ret": 3.35
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.4,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 18.01,
+"second": "퀀텀레일",
+"second_ret": 1.33
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.22,
+"up5": 3,
+"lead": "넥센타이어",
+"lead_ret": 11.76,
+"second": "금호타이어",
+"second_ret": 7.79
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.75,
+"up5": 3,
+"lead": "아이비김영",
+"lead_ret": 30.0,
+"second": "유엔젤",
+"second_ret": 29.5
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 2.62,
+"up5": 2,
+"lead": "유엔젤",
+"lead_ret": 29.5,
+"second": "에피소드컴퍼니",
+"second_ret": 16.78
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 21,
+"avg": 2.58,
+"up5": 3,
+"lead": "유엔젤",
+"lead_ret": 29.5,
+"second": "이루온",
+"second_ret": 18.01
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.18,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 10.23,
+"second": "오스테오닉",
+"second_ret": 5.79
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.12,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 10.23,
+"second": "한미사이언스",
+"second_ret": 5.97
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.99,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 5.16,
+"second": "녹십자",
+"second_ret": 4.07
+},
+{
+"name": "게임",
+"n": 27,
+"avg": 1.96,
+"up5": 2,
+"lead": "펄어비스",
+"lead_ret": 20.19,
+"second": "카카오게임즈",
+"second_ret": 8.35
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -4.58,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": -1.32,
+"second": "POSCO홀딩스",
+"second_ret": -1.98
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.69,
+"up5": 0,
+"lead": "우양피앤엘",
+"lead_ret": 0.0,
+"second": "남해화학",
+"second_ret": 0.0
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.32,
+"up5": 0,
+"lead": "위더스제약",
+"lead_ret": 1.3,
+"second": "인트론바이오",
+"second_ret": 1.21
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.15,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": -0.48,
+"second": "디케이락",
+"second_ret": -0.8
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.57,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": 0.65,
+"second": "LS",
+"second_ret": 0.57
+}
+],
+"leaders": [
+{
+"name": "펄어비스",
+"code": "263750",
+"ret": 20.19,
+"value": 3284,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 18.01,
+"value": 2447,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "HD현대마린엔진",
+"code": "071970",
+"ret": 29.97,
+"value": 1857,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "아시아경제",
+"code": "127710",
+"ret": 12.09,
+"value": 1656,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "흥국",
+"code": "010240",
+"ret": 29.84,
+"value": 1480,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+}
+],
+"backfilled": true
+}

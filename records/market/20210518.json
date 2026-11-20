@@ -1,0 +1,246 @@
+{
+"date": "20210518",
+"kospi": 1.23,
+"kosdaq": 0.69,
+"adv": 1189,
+"dec": 644,
+"flat": 170,
+"limit_up": 3,
+"limit_down": 2,
+"value_total": 300708,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "선익시스템",
+"lead_ret": 17.65,
+"second": "한빛소프트",
+"second_ret": 10.63
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "이연제약",
+"lead_ret": 13.53,
+"second": "그린생명과학",
+"second_ret": 10.74
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 5.91,
+"up5": 2,
+"lead": "서울가스",
+"lead_ret": 29.63,
+"second": "대성에너지",
+"second_ret": 7.56
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.51,
+"up5": 5,
+"lead": "세아베스틸지주",
+"lead_ret": 10.58,
+"second": "대한제강",
+"second_ret": 10.09
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 4.74,
+"up5": 2,
+"lead": "서울가스",
+"lead_ret": 29.63,
+"second": "대성산업",
+"second_ret": 17.18
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.49,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 17.18,
+"second": "GS",
+"second_ret": 3.04
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.49,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 17.18,
+"second": "GS",
+"second_ret": 3.04
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.48,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 17.18,
+"second": "동원산업",
+"second_ret": 2.99
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 3.02,
+"up5": 3,
+"lead": "서울가스",
+"lead_ret": 29.63,
+"second": "대성에너지",
+"second_ret": 7.56
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.0,
+"up5": 2,
+"lead": "위드텍",
+"lead_ret": 11.92,
+"second": "한전기술",
+"second_ret": 9.89
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.99,
+"up5": 3,
+"lead": "금강공업",
+"lead_ret": 7.75,
+"second": "자연과환경",
+"second_ret": 5.56
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.95,
+"up5": 2,
+"lead": "성신양회",
+"lead_ret": 16.67,
+"second": "아세아시멘트",
+"second_ret": 5.17
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.86,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 13.28,
+"second": "삼성바이오로직스",
+"second_ret": 2.29
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 8,
+"avg": 2.56,
+"up5": 1,
+"lead": "세아베스틸지주",
+"lead_ret": 10.58,
+"second": "한미반도체",
+"second_ret": 4.59
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -3.92,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": -0.45,
+"second": "아시아나항공",
+"second_ret": -0.64
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -1.37,
+"up5": 0,
+"lead": "랩지노믹스",
+"lead_ret": 4.29,
+"second": "에이치엘사이언스",
+"second_ret": 1.99
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 21,
+"avg": -1.14,
+"up5": 0,
+"lead": "인지소프트",
+"lead_ret": 3.83,
+"second": "핑거",
+"second_ret": 2.61
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": -1.06,
+"up5": 2,
+"lead": "세방전지",
+"lead_ret": 5.68,
+"second": "POSCO홀딩스",
+"second_ret": 5.04
+},
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": -0.95,
+"up5": 2,
+"lead": "대웅제약",
+"lead_ret": 7.59,
+"second": "바디텍메드",
+"second_ret": 5.5
+}
+],
+"leaders": [
+{
+"name": "앱토크롬",
+"code": "109960",
+"ret": 13.92,
+"value": 70311,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 13.53,
+"value": 7627,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "선익시스템",
+"code": "171090",
+"ret": 17.65,
+"value": 2251,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 29.96,
+"value": 1594,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 10.74,
+"value": 1437,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

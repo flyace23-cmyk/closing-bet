@@ -1,0 +1,238 @@
+{
+"date": "20250509",
+"kospi": -0.09,
+"kosdaq": -0.97,
+"adv": 772,
+"dec": 1440,
+"flat": 139,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 132719,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "이스트에이드",
+"lead_ret": 29.82,
+"second": "마음AI",
+"second_ret": 29.71
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 3.8,
+"up5": 1,
+"lead": "삼륭물산",
+"lead_ret": 29.96,
+"second": "한국팩키지",
+"second_ret": 4.11
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 2.95,
+"up5": 5,
+"lead": "마음AI",
+"lead_ret": 29.71,
+"second": "폴라리스오피스",
+"second_ret": 22.57
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 1.7,
+"up5": 4,
+"lead": "넷마블",
+"lead_ret": 14.57,
+"second": "손오공",
+"second_ret": 7.69
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.65,
+"up5": 1,
+"lead": "롯데쇼핑",
+"lead_ret": 8.42,
+"second": "신세계",
+"second_ret": 2.07
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.57,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 11.39,
+"second": "이루온",
+"second_ret": 1.08
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.55,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 11.93,
+"second": "와이지엔터테인먼트",
+"second_ret": 10.22
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 1.45,
+"up5": 2,
+"lead": "풍산",
+"lead_ret": 6.1,
+"second": "한네트",
+"second_ret": 5.42
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.44,
+"up5": 3,
+"lead": "폴라리스오피스",
+"lead_ret": 22.57,
+"second": "위메이드",
+"second_ret": 6.41
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 1.32,
+"up5": 4,
+"lead": "넷마블",
+"lead_ret": 14.57,
+"second": "이스트소프트",
+"second_ret": 7.62
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 1.28,
+"up5": 1,
+"lead": "이스트에이드",
+"lead_ret": 29.82,
+"second": "조이시티",
+"second_ret": 3.64
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 1.23,
+"up5": 5,
+"lead": "LK삼양",
+"lead_ret": 19.9,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 7.92
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 1.2,
+"up5": 3,
+"lead": "인바이오젠",
+"lead_ret": 10.59,
+"second": "위메이드",
+"second_ret": 6.41
+}
+],
+"themes_worst": [
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -3.48,
+"up5": 0,
+"lead": "상보",
+"lead_ret": -1.57,
+"second": "제이오",
+"second_ret": -1.59
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.47,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 1.29,
+"second": "웹케시",
+"second_ret": 1.02
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.36,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 0.53,
+"second": "삼성SDI",
+"second_ret": -1.05
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -2.96,
+"up5": 0,
+"lead": "이월드",
+"lead_ret": 1.19,
+"second": "국보디자인",
+"second_ret": 0.41
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.75,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 1.29,
+"second": "다날",
+"second_ret": 0.69
+}
+],
+"leaders": [
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 10.58,
+"value": 1709,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "평화홀딩스",
+"code": "010770",
+"ret": 16.95,
+"value": 1461,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "한국정보인증",
+"code": "053300",
+"ret": 10.54,
+"value": 1223,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "크라우드웍스",
+"code": "355390",
+"ret": 15.14,
+"value": 954,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "와이지엔터테인먼트",
+"code": "122870",
+"ret": 10.22,
+"value": 906,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

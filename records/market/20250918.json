@@ -1,0 +1,254 @@
+{
+"date": "20250918",
+"kospi": 1.4,
+"kosdaq": 1.37,
+"adv": 1595,
+"dec": 635,
+"flat": 149,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 200176,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 9,
+"lead": "로보스타",
+"lead_ret": 29.41,
+"second": "엑시콘",
+"second_ret": 22.75
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "로보스타",
+"lead_ret": 29.41,
+"second": "에스비비테크",
+"second_ret": 13.91
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 5,
+"lead": "한국첨단소재",
+"lead_ret": 30.01,
+"second": "MSDI",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 6.59,
+"up5": 8,
+"lead": "엑시콘",
+"lead_ret": 22.75,
+"second": "오킨스전자",
+"second_ret": 12.7
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 6.59,
+"up5": 10,
+"lead": "한국첨단소재",
+"lead_ret": 30.01,
+"second": "MSDI",
+"second_ret": 29.89
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 4.43,
+"up5": 11,
+"lead": "와이씨",
+"lead_ret": 15.37,
+"second": "제우스",
+"second_ret": 12.39
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 4.25,
+"up5": 4,
+"lead": "로보스타",
+"lead_ret": 29.41,
+"second": "코렌텍",
+"second_ret": 6.42
+},
+{
+"name": "반도체 장비",
+"n": 92,
+"avg": 3.86,
+"up5": 21,
+"lead": "로보스타",
+"lead_ret": 29.41,
+"second": "엑시콘",
+"second_ret": 22.75
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 3.83,
+"up5": 21,
+"lead": "엘티씨",
+"lead_ret": 18.16,
+"second": "오킨스전자",
+"second_ret": 12.7
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.83,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 12.12,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.02
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 3.43,
+"up5": 2,
+"lead": "코웨이",
+"lead_ret": 8.02,
+"second": "LG전자",
+"second_ret": 5.52
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 3.32,
+"up5": 3,
+"lead": "MSDI",
+"lead_ret": 29.89,
+"second": "LK삼양",
+"second_ret": 21.55
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.27,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 5.85,
+"second": "LG전자",
+"second_ret": 5.52
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.19,
+"up5": 2,
+"lead": "이오테크닉스",
+"lead_ret": 11.09,
+"second": "티씨케이",
+"second_ret": 6.11
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 3.17,
+"up5": 3,
+"lead": "메카로",
+"lead_ret": 10.94,
+"second": "선익시스템",
+"second_ret": 8.66
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -2.35,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -0.46,
+"second": "HD한국조선해양",
+"second_ret": -0.96
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -1.48,
+"up5": 0,
+"lead": "인화정공",
+"lead_ret": 3.97,
+"second": "하이록코리아",
+"second_ret": 2.01
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": -1.25,
+"up5": 0,
+"lead": "지역난방공사",
+"lead_ret": 4.29,
+"second": "SK",
+"second_ret": 1.32
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.15,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 1.39,
+"second": "에피소드컴퍼니",
+"second_ret": 0.2
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.04,
+"up5": 0,
+"lead": "휴스틸",
+"lead_ret": 1.69,
+"second": "대동스틸",
+"second_ret": 1.24
+}
+],
+"leaders": [
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 12.1,
+"value": 5643,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 12.35,
+"value": 2735,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 29.41,
+"value": 2094,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한싹",
+"code": "430690",
+"ret": 22.01,
+"value": 1574,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 15.37,
+"value": 1332,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

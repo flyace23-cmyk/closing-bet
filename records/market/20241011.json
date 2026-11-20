@@ -1,0 +1,254 @@
+{
+"date": "20241011",
+"kospi": -0.09,
+"kosdaq": -0.58,
+"adv": 830,
+"dec": 1300,
+"flat": 156,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 155996,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "하나마이크론",
+"lead_ret": 8.51,
+"second": "HPSP",
+"second_ret": 8.32
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 3,
+"lead": "KT밀리의서재",
+"lead_ret": 23.63,
+"second": "삼성출판사",
+"second_ret": 14.24
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "에이비엘바이오",
+"lead_ret": 15.38,
+"second": "퓨쳐켐",
+"second_ret": 9.13
+}
+],
+"themes": [
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 6.36,
+"up5": 2,
+"lead": "한세예스24홀딩스",
+"lead_ret": 30.0,
+"second": "예스24",
+"second_ret": 29.81
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 3.34,
+"up5": 4,
+"lead": "컴퍼니케이",
+"lead_ret": 29.98,
+"second": "에이티넘인베스트",
+"second_ret": 6.54
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.62,
+"up5": 4,
+"lead": "예림당",
+"lead_ret": 29.79,
+"second": "웅진씽크빅",
+"second_ret": 17.84
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 2.34,
+"up5": 4,
+"lead": "예림당",
+"lead_ret": 29.79,
+"second": "웅진씽크빅",
+"second_ret": 17.84
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.28,
+"up5": 1,
+"lead": "스맥",
+"lead_ret": 16.63,
+"second": "휴림로봇",
+"second_ret": 4.24
+},
+{
+"name": "인터넷은행",
+"n": 27,
+"avg": 2.23,
+"up5": 2,
+"lead": "한세예스24홀딩스",
+"lead_ret": 30.0,
+"second": "예스24",
+"second_ret": 29.81
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.21,
+"up5": 2,
+"lead": "윙입푸드",
+"lead_ret": 17.4,
+"second": "GRT",
+"second_ret": 6.52
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.16,
+"up5": 4,
+"lead": "동아에스티",
+"lead_ret": 7.91,
+"second": "대웅제약",
+"second_ret": 7.11
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.06,
+"up5": 1,
+"lead": "올릭스",
+"lead_ret": 24.83,
+"second": "인벤티지랩",
+"second_ret": 3.91
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 1.8,
+"up5": 3,
+"lead": "올릭스",
+"lead_ret": 24.83,
+"second": "프리티",
+"second_ret": 17.35
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.78,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 4.25,
+"second": "이루온",
+"second_ret": 2.21
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.75,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 22.75,
+"second": "한진칼",
+"second_ret": 4.24
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -3.41,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": -0.4,
+"second": "소프트센",
+"second_ret": -0.65
+},
+{
+"name": "2차전지(장비)",
+"n": 43,
+"avg": -3.02,
+"up5": 0,
+"lead": "대성하이텍",
+"lead_ret": 1.42,
+"second": "디에스케이",
+"second_ret": 1.35
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.98,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -2.68,
+"second": "HD한국조선해양",
+"second_ret": -2.78
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.74,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 0.54,
+"second": "LG화학",
+"second_ret": -0.56
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": -2.73,
+"up5": 1,
+"lead": "미코",
+"lead_ret": 5.32,
+"second": "롯데에너지머티리얼즈",
+"second_ret": 1.19
+}
+],
+"leaders": [
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 15.38,
+"value": 4522,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "KT밀리의서재",
+"code": "418470",
+"ret": 23.63,
+"value": 1802,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "소노스퀘어",
+"code": "007720",
+"ret": 15.85,
+"value": 1030,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "프리티",
+"code": "006490",
+"ret": 17.35,
+"value": 926,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "스맥",
+"code": "099440",
+"ret": 16.63,
+"value": 831,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

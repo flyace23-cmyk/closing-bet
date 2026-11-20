@@ -1,0 +1,254 @@
+{
+"date": "20230116",
+"kospi": 0.58,
+"kosdaq": 0.71,
+"adv": 1165,
+"dec": 741,
+"flat": 222,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 112991,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "알체라",
+"lead_ret": 26.18,
+"second": "데이타솔루션",
+"second_ret": 14.95
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "미스터블루",
+"lead_ret": 15.38,
+"second": "위메이드맥스",
+"second_ret": 10.34
+},
+{
+"name": "웹툰",
+"n": 4,
+"lead": "핑거스토리",
+"lead_ret": 29.98,
+"second": "미스터블루",
+"second_ret": 15.38
+}
+],
+"themes": [
+{
+"name": "웹툰",
+"n": 13,
+"avg": 7.59,
+"up5": 5,
+"lead": "핑거스토리",
+"lead_ret": 29.98,
+"second": "미스터블루",
+"second_ret": 15.38
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 5.38,
+"up5": 4,
+"lead": "엔비티",
+"lead_ret": 8.13,
+"second": "한화투자증권",
+"second_ret": 7.61
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": 4.97,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 26.18,
+"second": "이스트소프트",
+"second_ret": 10.34
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.7,
+"up5": 2,
+"lead": "신한지주",
+"lead_ret": 6.7,
+"second": "하나금융지주",
+"second_ret": 6.26
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.6,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 7.61,
+"second": "한화생명",
+"second_ret": 4.41
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.51,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 9.52,
+"second": "데브시스터즈",
+"second_ret": 5.66
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.42,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 10.7,
+"second": "한화투자증권",
+"second_ret": 7.61
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 3.32,
+"up5": 6,
+"lead": "미스터블루",
+"lead_ret": 15.38,
+"second": "위메이드맥스",
+"second_ret": 10.34
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.04,
+"up5": 4,
+"lead": "데이타솔루션",
+"lead_ret": 14.95,
+"second": "이스트소프트",
+"second_ret": 10.34
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 3.01,
+"up5": 4,
+"lead": "우리기술투자",
+"lead_ret": 10.7,
+"second": "한화투자증권",
+"second_ret": 7.61
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 31,
+"avg": 2.94,
+"up5": 4,
+"lead": "핑거스토리",
+"lead_ret": 29.98,
+"second": "미스터블루",
+"second_ret": 15.38
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 2.86,
+"up5": 9,
+"lead": "알체라",
+"lead_ret": 26.18,
+"second": "데이타솔루션",
+"second_ret": 14.95
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.53,
+"up5": 0,
+"lead": "우리기술",
+"lead_ret": 1.99,
+"second": "대창솔루션",
+"second_ret": 0.0
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -1.89,
+"up5": 0,
+"lead": "흥국",
+"lead_ret": 0.65,
+"second": "대동금속",
+"second_ret": 0.43
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": -1.51,
+"up5": 0,
+"lead": "보성파워텍",
+"lead_ret": 2.86,
+"second": "태웅",
+"second_ret": 2.0
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.43,
+"up5": 0,
+"lead": "SH에너지화학",
+"lead_ret": 1.17,
+"second": "우림피티에스",
+"second_ret": -0.29
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -1.35,
+"up5": 0,
+"lead": "휴니드",
+"lead_ret": 1.55,
+"second": "아스트",
+"second_ret": 1.17
+}
+],
+"leaders": [
+{
+"name": "미스터블루",
+"code": "207760",
+"ret": 15.38,
+"value": 2846,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "핑거스토리",
+"code": "417180",
+"ret": 29.98,
+"value": 1921,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 10.75,
+"value": 1115,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "알체라",
+"code": "347860",
+"ret": 26.18,
+"value": 869,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 10.23,
+"value": 778,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+}
+],
+"backfilled": true
+}

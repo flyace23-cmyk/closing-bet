@@ -1,0 +1,254 @@
+{
+"date": "20210119",
+"kospi": 2.61,
+"kosdaq": 1.38,
+"adv": 1506,
+"dec": 326,
+"flat": 138,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 354415,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 4,
+"lead": "엘티씨",
+"lead_ret": 29.85,
+"second": "EG",
+"second_ret": 22.55
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "기아",
+"lead_ret": 16.64,
+"second": "원익피앤이",
+"second_ret": 14.16
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에스엘",
+"lead_ret": 29.01,
+"second": "유성기업",
+"second_ret": 11.3
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.94,
+"up5": 4,
+"lead": "기아",
+"lead_ret": 16.64,
+"second": "현대차",
+"second_ret": 8.51
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 5.36,
+"up5": 4,
+"lead": "키다리스튜디오",
+"lead_ret": 20.58,
+"second": "디앤씨미디어",
+"second_ret": 10.26
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 5.34,
+"up5": 2,
+"lead": "엘티씨",
+"lead_ret": 29.85,
+"second": "미코",
+"second_ret": 6.07
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 5.02,
+"up5": 7,
+"lead": "성신양회",
+"lead_ret": 12.62,
+"second": "부산산업",
+"second_ret": 8.66
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 4.88,
+"up5": 11,
+"lead": "남광토건",
+"lead_ret": 12.78,
+"second": "신원종합개발",
+"second_ret": 10.79
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 4.73,
+"up5": 3,
+"lead": "에스와이",
+"lead_ret": 10.43,
+"second": "엔브이에이치코리아",
+"second_ret": 9.98
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 63,
+"avg": 4.62,
+"up5": 23,
+"lead": "엘티씨",
+"lead_ret": 29.85,
+"second": "EG",
+"second_ret": 22.55
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 4.46,
+"up5": 3,
+"lead": "무림SP",
+"lead_ret": 30.0,
+"second": "무림페이퍼",
+"second_ret": 8.21
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 4.4,
+"up5": 7,
+"lead": "남광토건",
+"lead_ret": 12.78,
+"second": "IPARK현대산업개발",
+"second_ret": 8.9
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": 4.37,
+"up5": 7,
+"lead": "그린케미칼",
+"lead_ret": 12.46,
+"second": "동방",
+"second_ret": 8.22
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.35,
+"up5": 2,
+"lead": "부산산업",
+"lead_ret": 8.66,
+"second": "특수건설",
+"second_ret": 8.35
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 4.25,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 8.9,
+"second": "현대건설",
+"second_ret": 4.88
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.01,
+"up5": 0,
+"lead": "크리스탈신소재",
+"lead_ret": 2.99,
+"second": "씨엑스아이",
+"second_ret": 1.37
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.61,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 4.24,
+"second": "휴온스글로벌",
+"second_ret": 2.02
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.51,
+"up5": 0,
+"lead": "팜젠사이언스",
+"lead_ret": 3.96,
+"second": "멕아이씨에스",
+"second_ret": 1.37
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -0.44,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 1.02,
+"second": "JW중외제약",
+"second_ret": 0.3
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -0.26,
+"up5": 0,
+"lead": "SK케미칼",
+"lead_ret": 4.26,
+"second": "녹십자",
+"second_ret": 4.23
+}
+],
+"leaders": [
+{
+"name": "기아",
+"code": "000270",
+"ret": 16.64,
+"value": 11158,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 29.72,
+"value": 3723,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "케이바이오랩스",
+"code": "038530",
+"ret": 29.71,
+"value": 3478,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "수산세보틱스",
+"code": "017550",
+"ret": 10.48,
+"value": 2173,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "오성첨단소재",
+"code": "052420",
+"ret": 10.34,
+"value": 1937,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

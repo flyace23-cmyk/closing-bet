@@ -1,0 +1,254 @@
+{
+"date": "20211201",
+"kospi": 2.14,
+"kosdaq": 1.19,
+"adv": 1682,
+"dec": 265,
+"flat": 111,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 270919,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "씨유메디칼",
+"lead_ret": 19.8,
+"second": "메디아나",
+"second_ret": 15.37
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 4,
+"lead": "티사이언티픽",
+"lead_ret": 30.0,
+"second": "FSN",
+"second_ret": 29.76
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "램테크놀러지",
+"lead_ret": 20.52,
+"second": "한솔아이원스",
+"second_ret": 11.71
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 6.4,
+"up5": 3,
+"lead": "옴니시스템",
+"lead_ret": 10.87,
+"second": "이루온",
+"second_ret": 7.45
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 5.46,
+"up5": 8,
+"lead": "효성화학",
+"lead_ret": 19.72,
+"second": "대한유화",
+"second_ret": 11.44
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.94,
+"up5": 6,
+"lead": "티사이언티픽",
+"lead_ret": 30.0,
+"second": "FSN",
+"second_ret": 29.76
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 4.73,
+"up5": 2,
+"lead": "티에스이",
+"lead_ret": 11.55,
+"second": "지아이에스",
+"second_ret": 5.21
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 4.5,
+"up5": 8,
+"lead": "핑거",
+"lead_ret": 22.96,
+"second": "MDS테크",
+"second_ret": 13.52
+},
+{
+"name": "온디바이스 AI",
+"n": 17,
+"avg": 4.12,
+"up5": 4,
+"lead": "네패스아크",
+"lead_ret": 13.05,
+"second": "제주반도체",
+"second_ret": 8.81
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 4.08,
+"up5": 3,
+"lead": "FSN",
+"lead_ret": 29.76,
+"second": "지어소프트",
+"second_ret": 9.37
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 17,
+"avg": 4.02,
+"up5": 4,
+"lead": "램테크놀러지",
+"lead_ret": 20.52,
+"second": "송원산업",
+"second_ret": 9.62
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 4.0,
+"up5": 2,
+"lead": "POSCO홀딩스",
+"lead_ret": 6.13,
+"second": "삼화전자",
+"second_ret": 5.5
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.94,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 5.8,
+"second": "하이록코리아",
+"second_ret": 4.89
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.94,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 6.37,
+"second": "코오롱인더",
+"second_ret": 5.97
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 3.93,
+"up5": 3,
+"lead": "램테크놀러지",
+"lead_ret": 20.52,
+"second": "HB테크놀러지",
+"second_ret": 6.83
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -2.4,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 4.99,
+"second": "라온시큐어",
+"second_ret": 3.41
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.22,
+"up5": 0,
+"lead": "국제약품",
+"lead_ret": 4.75,
+"second": "인트론바이오",
+"second_ret": 2.16
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -0.62,
+"up5": 2,
+"lead": "셀레믹스",
+"lead_ret": 7.01,
+"second": "테라젠이텍스",
+"second_ret": 5.32
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": -0.59,
+"up5": 3,
+"lead": "인바이오젠",
+"lead_ret": 13.58,
+"second": "유바이오로직스",
+"second_ret": 8.55
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 38,
+"avg": -0.08,
+"up5": 2,
+"lead": "보령",
+"lead_ret": 10.76,
+"second": "유바이오로직스",
+"second_ret": 8.55
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 13.36,
+"value": 5172,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "티사이언티픽",
+"code": "057680",
+"ret": 30.0,
+"value": 3548,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "FSN",
+"code": "214270",
+"ret": 29.76,
+"value": 3113,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "한컴",
+"code": "030520",
+"ret": 14.31,
+"value": 2088,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "핑거",
+"code": "163730",
+"ret": 22.96,
+"value": 2065,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+}
+],
+"backfilled": true
+}

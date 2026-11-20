@@ -1,0 +1,246 @@
+{
+"date": "20220919",
+"kospi": -1.14,
+"kosdaq": -2.35,
+"adv": 286,
+"dec": 1722,
+"flat": 90,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 122861,
+"hot": [
+{
+"name": "화장품",
+"n": 6,
+"lead": "청담글로벌",
+"lead_ret": 21.99,
+"second": "한국화장품",
+"second_ret": 9.38
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "화천기계",
+"lead_ret": 29.9,
+"second": "에스엠벡셀",
+"second_ret": 21.18
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 1.51,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 17.53,
+"second": "JB금융지주",
+"second_ret": 1.24
+},
+{
+"name": "소매유통",
+"n": 16,
+"avg": 0.84,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 21.99,
+"second": "엑시온그룹",
+"second_ret": 3.66
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.59,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 14.17,
+"second": "삼성바이오로직스",
+"second_ret": 0.87
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 0.52,
+"up5": 2,
+"lead": "화천기계",
+"lead_ret": 29.9,
+"second": "화천기공",
+"second_ret": 6.71
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.15,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 2.15,
+"second": "코텍",
+"second_ret": 1.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.15,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 2.15,
+"second": "코텍",
+"second_ret": 1.0
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 0.0,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 4.18,
+"second": "그래디언트",
+"second_ret": 2.41
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -0.1,
+"up5": 1,
+"lead": "YTN",
+"lead_ret": 13.42,
+"second": "한국경제TV",
+"second_ret": 4.55
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.13,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 1.59,
+"second": "현대차",
+"second_ret": 0.25
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -0.14,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 21.99,
+"second": "휴온스",
+"second_ret": 0.77
+},
+{
+"name": "온디바이스 AI",
+"n": 19,
+"avg": -0.22,
+"up5": 0,
+"lead": "텔레칩스",
+"lead_ret": 3.89,
+"second": "어보브반도체",
+"second_ret": 2.61
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -0.27,
+"up5": 1,
+"lead": "에스엠국일",
+"lead_ret": 11.16,
+"second": "한솔제지",
+"second_ret": 3.6
+}
+],
+"themes_worst": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -6.38,
+"up5": 0,
+"lead": "엔케이",
+"lead_ret": -3.18,
+"second": "디케이락",
+"second_ret": -3.63
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -5.65,
+"up5": 0,
+"lead": "이렘",
+"lead_ret": 0.0,
+"second": "한국주철관",
+"second_ret": -2.7
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": -5.39,
+"up5": 0,
+"lead": "코메론",
+"lead_ret": 1.33,
+"second": "동일산업",
+"second_ret": 0.0
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -5.07,
+"up5": 0,
+"lead": "광무",
+"lead_ret": 1.13,
+"second": "앱튼",
+"second_ret": 0.3
+},
+{
+"name": "2차전지(장비)",
+"n": 36,
+"avg": -4.95,
+"up5": 0,
+"lead": "피엔티엠에스",
+"lead_ret": 0.0,
+"second": "탑엔지니어링",
+"second_ret": -0.67
+}
+],
+"leaders": [
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 17.53,
+"value": 1565,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 21.99,
+"value": 1494,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 29.93,
+"value": 1334,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "YTN",
+"code": "040300",
+"ret": 13.42,
+"value": 807,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "태경비케이",
+"code": "014580",
+"ret": 13.91,
+"value": 780,
+"theme": "LED",
+"reason": "테마: LED"
+}
+],
+"backfilled": true
+}

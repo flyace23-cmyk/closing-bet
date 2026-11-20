@@ -1,0 +1,246 @@
+{
+"date": "20240223",
+"kospi": 0.13,
+"kosdaq": -0.18,
+"adv": 696,
+"dec": 1409,
+"flat": 135,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 222164,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "앤씨앤",
+"lead_ret": 22.09,
+"second": "에이직랜드",
+"second_ret": 20.17
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "GC메디아이",
+"lead_ret": 15.27,
+"second": "고영",
+"second_ret": 10.51
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.84,
+"up5": 3,
+"lead": "앤씨앤",
+"lead_ret": 22.09,
+"second": "에이직랜드",
+"second_ret": 20.17
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.46,
+"up5": 2,
+"lead": "엔투텍",
+"lead_ret": 19.57,
+"second": "에스티팜",
+"second_ret": 7.46
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.56,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 29.97,
+"second": "쇼박스",
+"second_ret": 4.63
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.89,
+"up5": 1,
+"lead": "한화손해보험",
+"lead_ret": 7.14,
+"second": "흥국화재",
+"second_ret": 4.59
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.5,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 22.09,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 1.98,
+"up5": 2,
+"lead": "알테오젠",
+"lead_ret": 24.95,
+"second": "삼천당제약",
+"second_ret": 6.06
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 1.91,
+"up5": 3,
+"lead": "스피어",
+"lead_ret": 15.81,
+"second": "GC메디아이",
+"second_ret": 15.27
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": 1.85,
+"up5": 2,
+"lead": "덴티움",
+"lead_ret": 8.17,
+"second": "오스코텍",
+"second_ret": 6.28
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.71,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 5.39,
+"second": "유바이오로직스",
+"second_ret": 3.22
+},
+{
+"name": "비만치료제",
+"n": 35,
+"avg": 1.5,
+"up5": 5,
+"lead": "펩트론",
+"lead_ret": 16.01,
+"second": "올릭스",
+"second_ret": 7.49
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.4,
+"up5": 3,
+"lead": "올릭스",
+"lead_ret": 7.49,
+"second": "에스티팜",
+"second_ret": 7.46
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 1.38,
+"up5": 1,
+"lead": "테고사이언스",
+"lead_ret": 13.18,
+"second": "코아스템켐온",
+"second_ret": 4.15
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": -3.8,
+"up5": 0,
+"lead": "디지캡",
+"lead_ret": 3.43,
+"second": "스톤브릿지벤처스",
+"second_ret": 0.11
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": -2.46,
+"up5": 0,
+"lead": "쿠쿠홈시스",
+"lead_ret": 0.96,
+"second": "위닉스",
+"second_ret": 0.86
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": -2.31,
+"up5": 0,
+"lead": "폴라리스오피스",
+"lead_ret": 2.69,
+"second": "영림원소프트랩",
+"second_ret": -0.34
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": -2.31,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 3.13,
+"second": "테스",
+"second_ret": -0.1
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -1.91,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": 0.31,
+"second": "일진파워",
+"second_ret": -0.17
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 24.95,
+"value": 12279,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "고영",
+"code": "098460",
+"ret": 10.51,
+"value": 7528,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 20.17,
+"value": 6151,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "GC메디아이",
+"code": "032620",
+"ret": 15.27,
+"value": 4814,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "에이디테크놀로지",
+"code": "200710",
+"ret": 15.4,
+"value": 2172,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+}
+],
+"backfilled": true
+}

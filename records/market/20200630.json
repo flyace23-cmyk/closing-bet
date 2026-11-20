@@ -1,0 +1,254 @@
+{
+"date": "20200630",
+"kospi": 0.71,
+"kosdaq": 0.45,
+"adv": 1204,
+"dec": 567,
+"flat": 147,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 417494,
+"hot": [
+{
+"name": "화장품",
+"n": 16,
+"lead": "잇츠한불",
+"lead_ret": 30.0,
+"second": "리더스코스메틱",
+"second_ret": 29.98
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 4,
+"lead": "체시스",
+"lead_ret": 30.01,
+"second": "이글벳",
+"second_ret": 25.34
+},
+{
+"name": "엔터테인먼트",
+"n": 3,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.62,
+"second": "NEW",
+"second_ret": 12.56
+}
+],
+"themes": [
+{
+"name": "면세점",
+"n": 8,
+"avg": 7.29,
+"up5": 4,
+"lead": "토니모리",
+"lead_ret": 28.49,
+"second": "호텔신라",
+"second_ret": 7.58
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 28,
+"avg": 6.4,
+"up5": 12,
+"lead": "체시스",
+"lead_ret": 30.01,
+"second": "이글벳",
+"second_ret": 25.34
+},
+{
+"name": "화장품",
+"n": 72,
+"avg": 6.32,
+"up5": 34,
+"lead": "잇츠한불",
+"lead_ret": 30.0,
+"second": "리더스코스메틱",
+"second_ret": 29.98
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 6.11,
+"up5": 5,
+"lead": "YG PLUS",
+"lead_ret": 29.86,
+"second": "JYP Ent.",
+"second_ret": 10.7
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 5.56,
+"up5": 11,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.62,
+"second": "NEW",
+"second_ret": 12.56
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 5.19,
+"up5": 4,
+"lead": "NEW",
+"lead_ret": 12.56,
+"second": "콘텐트리중앙",
+"second_ret": 10.18
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 4.69,
+"up5": 13,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.62,
+"second": "NEW",
+"second_ret": 12.56
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.55,
+"up5": 2,
+"lead": "체시스",
+"lead_ret": 30.01,
+"second": "태경비케이",
+"second_ret": 9.4
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.55,
+"up5": 6,
+"lead": "우진비앤지",
+"lead_ret": 22.88,
+"second": "정다운",
+"second_ret": 9.44
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.37,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 10.33,
+"second": "롯데관광개발",
+"second_ret": 8.1
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.37,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 10.33,
+"second": "롯데관광개발",
+"second_ret": 8.1
+},
+{
+"name": "육계",
+"n": 8,
+"avg": 4.24,
+"up5": 3,
+"lead": "체리부로",
+"lead_ret": 10.03,
+"second": "하림",
+"second_ret": 5.49
+}
+],
+"themes_worst": [
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -2.99,
+"up5": 0,
+"lead": "인바디",
+"lead_ret": 1.59,
+"second": "차바이오텍",
+"second_ret": 0.76
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": -2.29,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 4.84,
+"second": "휴온스",
+"second_ret": 3.22
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": -2.24,
+"up5": 1,
+"lead": "신풍제약",
+"lead_ret": 5.23,
+"second": "유바이오로직스",
+"second_ret": 4.84
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": -2.03,
+"up5": 1,
+"lead": "신풍제약",
+"lead_ret": 5.23,
+"second": "유바이오로직스",
+"second_ret": 4.84
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -1.76,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 0.79,
+"second": "삼성바이오로직스",
+"second_ret": -1.15
+}
+],
+"leaders": [
+{
+"name": "이글벳",
+"code": "044960",
+"ret": 25.34,
+"value": 2714,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "JYP Ent.",
+"code": "035900",
+"ret": 10.7,
+"value": 1659,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 29.86,
+"value": 1450,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 12.4,
+"value": 1351,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "에스엠",
+"code": "041510",
+"ret": 10.48,
+"value": 1004,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

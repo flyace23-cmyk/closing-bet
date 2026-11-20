@@ -1,0 +1,238 @@
+{
+"date": "20250905",
+"kospi": 0.13,
+"kosdaq": 0.74,
+"adv": 1187,
+"dec": 1010,
+"flat": 181,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 164999,
+"hot": [
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "티엑스알로보틱스",
+"lead_ret": 26.41,
+"second": "코닉오토메이션",
+"second_ret": 19.09
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.62,
+"up5": 4,
+"lead": "큐알티",
+"lead_ret": 8.42,
+"second": "엑시콘",
+"second_ret": 6.71
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.52,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 12.6,
+"second": "차바이오텍",
+"second_ret": 1.68
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 2.3,
+"up5": 5,
+"lead": "티엑스알로보틱스",
+"lead_ret": 26.41,
+"second": "코닉오토메이션",
+"second_ret": 19.09
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.23,
+"up5": 4,
+"lead": "RFHIC",
+"lead_ret": 8.41,
+"second": "RF머트리얼즈",
+"second_ret": 7.23
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.19,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 5.16,
+"second": "LB인베스트먼트",
+"second_ret": 4.28
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.91,
+"up5": 1,
+"lead": "휴메딕스",
+"lead_ret": 14.92,
+"second": "대웅제약",
+"second_ret": 1.55
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 1.83,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 8.68,
+"second": "오스코텍",
+"second_ret": 7.12
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.83,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 11.18,
+"second": "오텍",
+"second_ret": 1.77
+},
+{
+"name": "철강 중소형",
+"n": 35,
+"avg": 1.81,
+"up5": 4,
+"lead": "동일스틸럭스",
+"lead_ret": 29.91,
+"second": "SK오션플랜트",
+"second_ret": 12.53
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 1.79,
+"up5": 8,
+"lead": "오늘이엔엠",
+"lead_ret": 13.2,
+"second": "에치에프알",
+"second_ret": 9.58
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.76,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 6.07,
+"second": "제일약품",
+"second_ret": 1.85
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.62,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 12.15,
+"second": "오파스넷",
+"second_ret": 0.78
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.45,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": -1.36,
+"second": "코나아이",
+"second_ret": -1.92
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -1.35,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 0.89,
+"second": "유니드",
+"second_ret": 0.81
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -1.28,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.09,
+"second": "비에이치아이",
+"second_ret": 0.0
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -1.21,
+"up5": 0,
+"lead": "인지컨트롤스",
+"lead_ret": 1.8,
+"second": "희림",
+"second_ret": 0.99
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -1.19,
+"up5": 1,
+"lead": "넥써쓰",
+"lead_ret": 5.05,
+"second": "NAVER",
+"second_ret": 0.88
+}
+],
+"leaders": [
+{
+"name": "HJ중공업",
+"code": "097230",
+"ret": 13.35,
+"value": 6805,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "SK오션플랜트",
+"code": "100090",
+"ret": 12.53,
+"value": 3129,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "엘앤씨바이오",
+"code": "290650",
+"ret": 29.89,
+"value": 1756,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "티엑스알로보틱스",
+"code": "484810",
+"ret": 26.41,
+"value": 1249,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "코닉오토메이션",
+"code": "391710",
+"ret": 19.09,
+"value": 1071,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+}
+],
+"backfilled": true
+}

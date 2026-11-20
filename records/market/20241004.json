@@ -1,0 +1,246 @@
+{
+"date": "20241004",
+"kospi": 0.31,
+"kosdaq": 0.9,
+"adv": 1084,
+"dec": 1048,
+"flat": 154,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 148372,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 3,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 20.0,
+"second": "아이티센글로벌",
+"second_ret": 15.17
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "와이바이오로직스",
+"lead_ret": 19.48,
+"second": "오스코텍",
+"second_ret": 12.08
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.5,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.93,
+"second": "흥구석유",
+"second_ret": 16.39
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.5,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.93,
+"second": "흥구석유",
+"second_ret": 16.39
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 5.2,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 29.93,
+"second": "흥구석유",
+"second_ret": 16.39
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.98,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 16.39,
+"second": "미창석유",
+"second_ret": 7.13
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 4.06,
+"up5": 5,
+"lead": "팬젠",
+"lead_ret": 29.89,
+"second": "프레스티지바이오로직스",
+"second_ret": 6.13
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.77,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 11.22,
+"second": "가온전선",
+"second_ret": 7.1
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.26,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 4.47,
+"second": "차바이오텍",
+"second_ret": 4.07
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.09,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 9.76,
+"second": "강스템바이오텍",
+"second_ret": 4.47
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 3.04,
+"up5": 4,
+"lead": "휴메딕스",
+"lead_ret": 8.7,
+"second": "휴젤",
+"second_ret": 6.42
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.76,
+"up5": 5,
+"lead": "와이바이오로직스",
+"lead_ret": 19.48,
+"second": "오스코텍",
+"second_ret": 12.08
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.65,
+"up5": 3,
+"lead": "휴메딕스",
+"lead_ret": 8.7,
+"second": "휴젤",
+"second_ret": 6.42
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.62,
+"up5": 3,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 20.0,
+"second": "아이티센글로벌",
+"second_ret": 15.17
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -3.81,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.97,
+"second": "대한해운",
+"second_ret": -2.9
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.68,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -0.51,
+"second": "강원랜드",
+"second_ret": -0.83
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.68,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -0.51,
+"second": "강원랜드",
+"second_ret": -0.83
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": -2.56,
+"up5": 0,
+"lead": "한진",
+"lead_ret": 0.96,
+"second": "유성티엔에스",
+"second_ret": 0.55
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.48,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": -0.33,
+"second": "한화갤러리아",
+"second_ret": -0.36
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 16.39,
+"value": 4509,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 11.22,
+"value": 1796,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 18.89,
+"value": 1753,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "뱅크웨어글로벌",
+"code": "199480",
+"ret": 20.0,
+"value": 1654,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 11.23,
+"value": 1561,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

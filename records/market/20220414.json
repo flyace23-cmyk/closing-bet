@@ -1,0 +1,254 @@
+{
+"date": "20220414",
+"kospi": 0.01,
+"kosdaq": 0.08,
+"adv": 1051,
+"dec": 795,
+"flat": 231,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 172460,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "오가닉티코스메틱",
+"lead_ret": 19.14,
+"second": "아이패밀리에스씨",
+"second_ret": 11.9
+},
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "세아제강지주",
+"lead_ret": 9.33,
+"second": "세아제강",
+"second_ret": 8.36
+},
+{
+"name": "카메라모듈/부품",
+"n": 4,
+"lead": "자화전자",
+"lead_ret": 26.29,
+"second": "덕우전자",
+"second_ret": 10.13
+}
+],
+"themes": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 5.98,
+"up5": 4,
+"lead": "휴스틸",
+"lead_ret": 20.69,
+"second": "하이스틸",
+"second_ret": 12.0
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 5.03,
+"up5": 4,
+"lead": "휴스틸",
+"lead_ret": 20.69,
+"second": "하이스틸",
+"second_ret": 12.0
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.36,
+"up5": 3,
+"lead": "딥커머스",
+"lead_ret": 29.96,
+"second": "오가닉티코스메틱",
+"second_ret": 19.14
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.45,
+"up5": 1,
+"lead": "한일사료",
+"lead_ret": 21.83,
+"second": "한탑",
+"second_ret": 4.42
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.4,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 7.2,
+"second": "사조씨푸드",
+"second_ret": 6.13
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 3.3,
+"up5": 2,
+"lead": "한일사료",
+"lead_ret": 21.83,
+"second": "한성기업",
+"second_ret": 7.2
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.94,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 7.2,
+"second": "한울앤제주",
+"second_ret": 4.44
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 2.56,
+"up5": 4,
+"lead": "휴스틸",
+"lead_ret": 20.69,
+"second": "하이스틸",
+"second_ret": 12.0
+},
+{
+"name": "카메라모듈/부품",
+"n": 25,
+"avg": 2.39,
+"up5": 4,
+"lead": "자화전자",
+"lead_ret": 26.29,
+"second": "덕우전자",
+"second_ret": 10.13
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 2.3,
+"up5": 2,
+"lead": "한일사료",
+"lead_ret": 21.83,
+"second": "윙입푸드",
+"second_ret": 6.66
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.24,
+"up5": 4,
+"lead": "대동",
+"lead_ret": 8.11,
+"second": "남해화학",
+"second_ret": 5.99
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.15,
+"up5": 2,
+"lead": "세아제강",
+"lead_ret": 8.36,
+"second": "세아베스틸지주",
+"second_ret": 5.6
+}
+],
+"themes_worst": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -3.12,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 0.99,
+"second": "대한화섬",
+"second_ret": 0.81
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.27,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": 0.17,
+"second": "엠케이전자",
+"second_ret": 0.0
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.11,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.0,
+"second": "IPARK현대산업개발",
+"second_ret": -0.67
+},
+{
+"name": "의료AI",
+"n": 17,
+"avg": -0.96,
+"up5": 0,
+"lead": "엔젠바이오",
+"lead_ret": 0.86,
+"second": "폴라리스오피스",
+"second_ret": 0.75
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -0.89,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.84,
+"second": "KG이니시스",
+"second_ret": 0.26
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 21.46,
+"value": 11604,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "자화전자",
+"code": "033240",
+"ret": 26.29,
+"value": 2479,
+"theme": "카메라모듈/부품",
+"reason": "테마: 카메라모듈/부품"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 21.83,
+"value": 2210,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 29.82,
+"value": 2131,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 12.0,
+"value": 1337,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20221031",
+"kospi": 1.11,
+"kosdaq": 1.12,
+"adv": 1341,
+"dec": 586,
+"flat": 185,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 113894,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "아바코",
+"lead_ret": 19.58,
+"second": "에이치와이티씨",
+"second_ret": 19.31
+},
+{
+"name": "사료",
+"n": 4,
+"lead": "한일사료",
+"lead_ret": 15.63,
+"second": "고려산업",
+"second_ret": 8.76
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "위드텍",
+"lead_ret": 18.61,
+"second": "넥스틴",
+"second_ret": 9.51
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.67,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 14.23,
+"second": "샘표",
+"second_ret": 5.61
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.21,
+"up5": 3,
+"lead": "GH신소재",
+"lead_ret": 13.36,
+"second": "오텍",
+"second_ret": 8.92
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 4.59,
+"up5": 7,
+"lead": "한일사료",
+"lead_ret": 15.63,
+"second": "고려산업",
+"second_ret": 8.76
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 4.5,
+"up5": 2,
+"lead": "한국팩키지",
+"lead_ret": 18.13,
+"second": "삼륭물산",
+"second_ret": 6.73
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 3.45,
+"up5": 3,
+"lead": "화천기계",
+"lead_ret": 24.63,
+"second": "대성하이텍",
+"second_ret": 8.1
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 3.28,
+"up5": 3,
+"lead": "미스터블루",
+"lead_ret": 9.06,
+"second": "미투온",
+"second_ret": 7.11
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.25,
+"up5": 2,
+"lead": "대동",
+"lead_ret": 11.17,
+"second": "남해화학",
+"second_ret": 6.29
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.75,
+"up5": 5,
+"lead": "대동",
+"lead_ret": 11.17,
+"second": "대동기어",
+"second_ret": 6.81
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 2.69,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 7.75,
+"second": "마니커",
+"second_ret": 4.44
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.58,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 8.29,
+"second": "데브시스터즈",
+"second_ret": 2.95
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.52,
+"up5": 2,
+"lead": "HD건설기계",
+"lead_ret": 6.7,
+"second": "진성티이씨",
+"second_ret": 5.37
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 27,
+"avg": 2.51,
+"up5": 5,
+"lead": "넥스틴",
+"lead_ret": 9.51,
+"second": "레이저쎌",
+"second_ret": 8.5
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.43,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": -0.4,
+"second": "광주신세계",
+"second_ret": -0.47
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.82,
+"up5": 0,
+"lead": "진에어",
+"lead_ret": 0.38,
+"second": "트리니티항공",
+"second_ret": 0.34
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.66,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.46,
+"second": "HD한국조선해양",
+"second_ret": -0.68
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.46,
+"up5": 0,
+"lead": "아이디스",
+"lead_ret": 2.87,
+"second": "인콘",
+"second_ret": 1.32
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.45,
+"up5": 0,
+"lead": "JTC",
+"lead_ret": 2.3,
+"second": "토니모리",
+"second_ret": 0.93
+}
+],
+"leaders": [
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 13.61,
+"value": 2465,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 29.9,
+"value": 2304,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "화천기계",
+"code": "010660",
+"ret": 24.63,
+"value": 1229,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 15.63,
+"value": 728,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 10.06,
+"value": 654,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250926",
+"kospi": -2.45,
+"kosdaq": -2.03,
+"adv": 300,
+"dec": 2001,
+"flat": 79,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 197075,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "로킷헬스케어",
+"lead_ret": 6.17,
+"second": "파마리서치",
+"second_ret": 5.67
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "디아이티",
+"lead_ret": 13.02,
+"second": "DI동일",
+"second_ret": 5.28
+},
+{
+"name": "비만치료제",
+"n": 3,
+"lead": "나이벡",
+"lead_ret": 15.1,
+"second": "디앤디파마텍",
+"second_ret": 6.85
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 0.87,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 15.91,
+"second": "갤럭시아머니트리",
+"second_ret": -0.82
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 0.75,
+"up5": 1,
+"lead": "동양",
+"lead_ret": 29.94,
+"second": "HC홈센타",
+"second_ret": 0.71
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 0.73,
+"up5": 2,
+"lead": "쿠콘",
+"lead_ret": 15.91,
+"second": "NHN KCP",
+"second_ret": 8.72
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 0.34,
+"up5": 1,
+"lead": "NHN KCP",
+"lead_ret": 8.72,
+"second": "나이스정보통신",
+"second_ret": 0.88
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 0.23,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 15.1,
+"second": "그래피",
+"second_ret": 5.59
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -0.01,
+"up5": 1,
+"lead": "삼미금속",
+"lead_ret": 14.96,
+"second": "프리엠스",
+"second_ret": 1.95
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.16,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 6.02,
+"second": "대한약품",
+"second_ret": 0.17
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -0.26,
+"up5": 0,
+"lead": "중앙에너비스",
+"lead_ret": 4.68,
+"second": "대성산업",
+"second_ret": 1.88
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": -0.26,
+"up5": 1,
+"lead": "동양",
+"lead_ret": 29.94,
+"second": "씨앤투스",
+"second_ret": 1.2
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.37,
+"up5": 0,
+"lead": "중앙에너비스",
+"lead_ret": 4.68,
+"second": "대성산업",
+"second_ret": 1.88
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.37,
+"up5": 0,
+"lead": "중앙에너비스",
+"lead_ret": 4.68,
+"second": "대성산업",
+"second_ret": 1.88
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.41,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 9.03,
+"second": "BNK금융지주",
+"second_ret": -0.55
+}
+],
+"themes_worst": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -4.46,
+"up5": 0,
+"lead": "파두",
+"lead_ret": -0.9,
+"second": "대교",
+"second_ret": -2.08
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -4.15,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": -1.66,
+"second": "펨트론",
+"second_ret": -1.92
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.98,
+"up5": 0,
+"lead": "한울반도체",
+"lead_ret": -0.45,
+"second": "아바텍",
+"second_ret": -2.61
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -3.69,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": -1.5,
+"second": "TS인베스트먼트",
+"second_ret": -2.02
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -3.68,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": -0.76,
+"second": "빛샘전자",
+"second_ret": -0.95
+}
+],
+"leaders": [
+{
+"name": "쿠콘",
+"code": "294570",
+"ret": 15.91,
+"value": 1521,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 11.9,
+"value": 984,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "나이벡",
+"code": "138610",
+"ret": 15.1,
+"value": 672,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "라닉스",
+"code": "317120",
+"ret": 29.91,
+"value": 656,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "동양",
+"code": "001520",
+"ret": 29.94,
+"value": 518,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

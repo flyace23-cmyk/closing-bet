@@ -1,0 +1,254 @@
+{
+"date": "20200720",
+"kospi": -0.14,
+"kosdaq": -0.16,
+"adv": 725,
+"dec": 1027,
+"flat": 172,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 207647,
+"hot": [
+{
+"name": "제약업체",
+"n": 8,
+"lead": "신풍제약",
+"lead_ret": 30.0,
+"second": "신일제약",
+"second_ret": 29.9
+},
+{
+"name": "풍력에너지",
+"n": 5,
+"lead": "동국산업",
+"lead_ret": 23.09,
+"second": "태웅",
+"second_ret": 14.3
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 5,
+"lead": "웰크론한텍",
+"lead_ret": 30.0,
+"second": "뉴보텍",
+"second_ret": 29.74
+}
+],
+"themes": [
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 6.05,
+"up5": 7,
+"lead": "웰크론한텍",
+"lead_ret": 30.0,
+"second": "뉴보텍",
+"second_ret": 29.74
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 4.79,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 30.0,
+"second": "인선이엔티",
+"second_ret": 0.92
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.16,
+"up5": 3,
+"lead": "광동제약",
+"lead_ret": 26.73,
+"second": "경동제약",
+"second_ret": 11.64
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.99,
+"up5": 9,
+"lead": "동국산업",
+"lead_ret": 23.09,
+"second": "태웅",
+"second_ret": 14.3
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.97,
+"up5": 1,
+"lead": "대한전선",
+"lead_ret": 19.38,
+"second": "LS",
+"second_ret": 4.58
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.88,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 23.08,
+"second": "한네트",
+"second_ret": 2.95
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.66,
+"up5": 8,
+"lead": "신풍제약",
+"lead_ret": 30.0,
+"second": "광동제약",
+"second_ret": 26.73
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 3.62,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 16.29,
+"second": "한국주철관",
+"second_ret": 9.73
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.24,
+"up5": 2,
+"lead": "코세스",
+"lead_ret": 8.44,
+"second": "서진시스템",
+"second_ret": 7.14
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 3.09,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 11.89,
+"second": "우진",
+"second_ret": 11.0
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.99,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 23.08,
+"second": "대모",
+"second_ret": 4.67
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.95,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 29.74,
+"second": "인선이엔티",
+"second_ret": 0.92
+}
+],
+"themes_worst": [
+{
+"name": "웹툰",
+"n": 11,
+"avg": -3.5,
+"up5": 0,
+"lead": "이스트에이드",
+"lead_ret": -0.59,
+"second": "엔키AX",
+"second_ret": -1.16
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -2.31,
+"up5": 0,
+"lead": "쇼박스",
+"lead_ret": 0.18,
+"second": "아센디오",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.82,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": -0.27,
+"second": "풀무원",
+"second_ret": -1.32
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -1.82,
+"up5": 0,
+"lead": "웅진씽크빅",
+"lead_ret": 1.19,
+"second": "대교",
+"second_ret": 0.86
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": -1.72,
+"up5": 0,
+"lead": "씨큐브",
+"lead_ret": 1.61,
+"second": "케스피온",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 19.8,
+"value": 9272,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 30.0,
+"value": 8241,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "부광약품",
+"code": "003000",
+"ret": 11.66,
+"value": 5762,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "녹십자",
+"code": "006280",
+"ret": 16.84,
+"value": 4415,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "광동제약",
+"code": "009290",
+"ret": 26.73,
+"value": 2688,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

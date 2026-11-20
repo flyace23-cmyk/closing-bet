@@ -1,0 +1,254 @@
+{
+"date": "20211111",
+"kospi": -0.18,
+"kosdaq": 0.5,
+"adv": 532,
+"dec": 1346,
+"flat": 174,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 349671,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 7,
+"lead": "NC",
+"lead_ret": 29.92,
+"second": "웹젠",
+"second_ret": 18.32
+},
+{
+"name": "2차전지",
+"n": 7,
+"lead": "나노신소재",
+"lead_ret": 29.96,
+"second": "에코프로",
+"second_ret": 18.68
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 3,
+"lead": "컴투스홀딩스",
+"lead_ret": 16.54,
+"second": "아톤",
+"second_ret": 14.2
+}
+],
+"themes": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 6.02,
+"up5": 16,
+"lead": "NC",
+"lead_ret": 29.92,
+"second": "웹젠",
+"second_ret": 18.32
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 5.62,
+"up5": 11,
+"lead": "NC",
+"lead_ret": 29.92,
+"second": "웹젠",
+"second_ret": 18.32
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 4.55,
+"up5": 4,
+"lead": "엔키AX",
+"lead_ret": 29.93,
+"second": "디앤씨미디어",
+"second_ret": 7.29
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.74,
+"up5": 6,
+"lead": "심텍",
+"lead_ret": 11.5,
+"second": "심텍홀딩스",
+"second_ret": 7.02
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.66,
+"up5": 2,
+"lead": "지아이에스",
+"lead_ret": 23.83,
+"second": "대주전자재료",
+"second_ret": 6.81
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 3.24,
+"up5": 5,
+"lead": "에코프로",
+"lead_ret": 18.68,
+"second": "NPC",
+"second_ret": 12.84
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.23,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 18.68,
+"second": "에코프로비엠",
+"second_ret": 4.58
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 3.15,
+"up5": 2,
+"lead": "NC",
+"lead_ret": 29.92,
+"second": "팅크웨어",
+"second_ret": 5.08
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.0,
+"up5": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 16.54,
+"second": "아톤",
+"second_ret": 14.2
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.25,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 11.5,
+"second": "코리아써키트",
+"second_ret": 6.23
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.2,
+"up5": 6,
+"lead": "이미지스",
+"lead_ret": 29.97,
+"second": "다날",
+"second_ret": 7.55
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 62,
+"avg": 2.03,
+"up5": 10,
+"lead": "나노신소재",
+"lead_ret": 29.96,
+"second": "에코프로",
+"second_ret": 18.68
+}
+],
+"themes_worst": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -3.78,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 1.05,
+"second": "휴온스",
+"second_ret": 0.1
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.71,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": -0.79,
+"second": "LS에코에너지",
+"second_ret": -0.86
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.56,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.41,
+"second": "에스티팜",
+"second_ret": -0.7
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -3.04,
+"up5": 0,
+"lead": "현대바이오",
+"lead_ret": 3.1,
+"second": "JW중외제약",
+"second_ret": 2.42
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -2.84,
+"up5": 0,
+"lead": "하이로닉",
+"lead_ret": 3.03,
+"second": "제테마",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "NC",
+"code": "036570",
+"ret": 29.92,
+"value": 28731,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "크래프톤",
+"code": "259960",
+"ret": 11.46,
+"value": 9842,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 16.54,
+"value": 5176,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 18.68,
+"value": 4508,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "BGF에코머티리얼즈",
+"code": "126600",
+"ret": 14.57,
+"value": 2104,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

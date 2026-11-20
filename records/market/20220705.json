@@ -1,0 +1,254 @@
+{
+"date": "20220705",
+"kospi": 1.8,
+"kosdaq": 3.9,
+"adv": 1870,
+"dec": 136,
+"flat": 79,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 115213,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "SK바이오사이언스",
+"lead_ret": 24.87,
+"second": "오상자이엘",
+"second_ret": 24.3
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "유니크",
+"lead_ret": 12.72,
+"second": "DH오토웨어",
+"second_ret": 11.18
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "수젠텍",
+"lead_ret": 16.98,
+"second": "한국비엔씨",
+"second_ret": 14.96
+}
+],
+"themes": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 7.07,
+"up5": 14,
+"lead": "SK바이오사이언스",
+"lead_ret": 24.87,
+"second": "압타바이오",
+"second_ret": 16.61
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 6.0,
+"up5": 2,
+"lead": "뉴보텍",
+"lead_ret": 29.64,
+"second": "대동",
+"second_ret": 5.58
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 5.58,
+"up5": 3,
+"lead": "아이티아이즈",
+"lead_ret": 28.3,
+"second": "아톤",
+"second_ret": 5.95
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 5.58,
+"up5": 9,
+"lead": "케이옥션",
+"lead_ret": 29.81,
+"second": "아이티아이즈",
+"second_ret": 28.3
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.43,
+"up5": 3,
+"lead": "지씨셀",
+"lead_ret": 8.94,
+"second": "차바이오텍",
+"second_ret": 6.36
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 5.32,
+"up5": 28,
+"lead": "SK바이오사이언스",
+"lead_ret": 24.87,
+"second": "오상자이엘",
+"second_ret": 24.3
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 5.01,
+"up5": 4,
+"lead": "케이씨피드",
+"lead_ret": 8.8,
+"second": "지어소프트",
+"second_ret": 6.7
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.98,
+"up5": 12,
+"lead": "컴투스홀딩스",
+"lead_ret": 9.63,
+"second": "에이스토리",
+"second_ret": 7.53
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.97,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 8.95,
+"second": "한화투자증권",
+"second_ret": 7.46
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.94,
+"up5": 5,
+"lead": "수젠텍",
+"lead_ret": 16.98,
+"second": "멕아이씨에스",
+"second_ret": 14.56
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 38,
+"avg": 4.94,
+"up5": 14,
+"lead": "SK바이오사이언스",
+"lead_ret": 24.87,
+"second": "수젠텍",
+"second_ret": 16.98
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 4.93,
+"up5": 4,
+"lead": "에코프로비엠",
+"lead_ret": 7.69,
+"second": "에코프로",
+"second_ret": 7.42
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.51,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 0.21,
+"second": "KG모빌리티",
+"second_ret": 0.0
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 0.11,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 2.4,
+"second": "롯데정밀화학",
+"second_ret": 1.21
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 0.16,
+"up5": 0,
+"lead": "한국카본",
+"lead_ret": 1.85,
+"second": "한국전력",
+"second_ret": 1.55
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 0.52,
+"up5": 0,
+"lead": "우진",
+"lead_ret": 2.21,
+"second": "비츠로테크",
+"second_ret": 1.96
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.53,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 2.88,
+"second": "현대해상",
+"second_ret": 1.74
+}
+],
+"leaders": [
+{
+"name": "SK바이오사이언스",
+"code": "302440",
+"ret": 24.87,
+"value": 4859,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 16.98,
+"value": 1667,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 11.13,
+"value": 1099,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 29.99,
+"value": 1054,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 29.89,
+"value": 947,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241125",
+"kospi": 1.32,
+"kosdaq": 2.93,
+"adv": 1647,
+"dec": 550,
+"flat": 113,
+"limit_up": 7,
+"limit_down": 1,
+"value_total": 195322,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "에스피소프트",
+"lead_ret": 17.01,
+"second": "플리토",
+"second_ret": 14.24
+},
+{
+"name": "전력설비",
+"n": 3,
+"lead": "LS마린솔루션",
+"lead_ret": 21.14,
+"second": "가온전선",
+"second_ret": 14.1
+},
+{
+"name": "의료AI",
+"n": 3,
+"lead": "루닛",
+"lead_ret": 22.73,
+"second": "딥노이드",
+"second_ret": 14.48
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 8.17,
+"up5": 6,
+"lead": "LS마린솔루션",
+"lead_ret": 21.14,
+"second": "가온전선",
+"second_ret": 14.1
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 6.79,
+"up5": 2,
+"lead": "상보",
+"lead_ret": 15.8,
+"second": "제이오",
+"second_ret": 12.85
+},
+{
+"name": "의료AI",
+"n": 24,
+"avg": 6.25,
+"up5": 11,
+"lead": "루닛",
+"lead_ret": 22.73,
+"second": "딥노이드",
+"second_ret": 14.48
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 5.14,
+"up5": 6,
+"lead": "에스피소프트",
+"lead_ret": 17.01,
+"second": "샌즈랩",
+"second_ret": 10.28
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.85,
+"up5": 2,
+"lead": "윙입푸드",
+"lead_ret": 29.83,
+"second": "GRT",
+"second_ret": 10.34
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.71,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 21.14,
+"second": "LS",
+"second_ret": 5.93
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 4.33,
+"up5": 7,
+"lead": "태성",
+"lead_ret": 17.04,
+"second": "에이디테크놀로지",
+"second_ret": 13.17
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.29,
+"up5": 6,
+"lead": "핑거",
+"lead_ret": 20.13,
+"second": "서울옥션",
+"second_ret": 11.44
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.91,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 7.39,
+"second": "유라클",
+"second_ret": 5.65
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 29,
+"avg": 3.79,
+"up5": 10,
+"lead": "에스피소프트",
+"lead_ret": 17.01,
+"second": "플리토",
+"second_ret": 14.24
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 3.75,
+"up5": 4,
+"lead": "DS단석",
+"lead_ret": 29.92,
+"second": "코스모화학",
+"second_ret": 9.22
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 3.71,
+"up5": 4,
+"lead": "우성머티리얼스",
+"lead_ret": 29.97,
+"second": "제이에스링크",
+"second_ret": 8.65
+}
+],
+"themes_worst": [
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -1.84,
+"up5": 0,
+"lead": "좋은사람들",
+"lead_ret": 4.77,
+"second": "해태제과식품",
+"second_ret": 4.3
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.49,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 1.38,
+"second": "동원산업",
+"second_ret": 0.6
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.34,
+"up5": 0,
+"lead": "미래에셋벤처투자",
+"lead_ret": 2.48,
+"second": "우양",
+"second_ret": 1.9
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.17,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": 2.76,
+"second": "국순당",
+"second_ret": 2.47
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -0.78,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 3.3,
+"second": "미래생명자원",
+"second_ret": 1.09
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 13.36,
+"value": 7830,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "루닛",
+"code": "328130",
+"ret": 22.73,
+"value": 4389,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "에스피소프트",
+"code": "443670",
+"ret": 17.01,
+"value": 1619,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "쓰리빌리언",
+"code": "394800",
+"ret": 11.53,
+"value": 1478,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 15.76,
+"value": 1210,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

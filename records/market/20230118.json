@@ -1,0 +1,254 @@
+{
+"date": "20230118",
+"kospi": -0.47,
+"kosdaq": 0.29,
+"adv": 833,
+"dec": 1097,
+"flat": 198,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 108731,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "로보스타",
+"second_ret": 26.35
+},
+{
+"name": "의료AI",
+"n": 5,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "딥노이드",
+"second_ret": 16.61
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "웨이버스",
+"second_ret": 17.51
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 5.52,
+"up5": 4,
+"lead": "에어부산",
+"lead_ret": 14.89,
+"second": "티웨이홀딩스",
+"second_ret": 10.6
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 4.85,
+"up5": 8,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "딥노이드",
+"second_ret": 16.61
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.61,
+"up5": 1,
+"lead": "로보스타",
+"lead_ret": 26.35,
+"second": "스맥",
+"second_ret": 4.03
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 31,
+"avg": 3.19,
+"up5": 3,
+"lead": "케이티알파",
+"lead_ret": 29.93,
+"second": "셀바스AI",
+"second_ret": 26.41
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.08,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "브리지텍",
+"second_ret": 7.07
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 2.95,
+"up5": 9,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "로보스타",
+"second_ret": 26.35
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 2.89,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 14.54,
+"second": "네패스",
+"second_ret": 1.84
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 2.87,
+"up5": 1,
+"lead": "원티드랩",
+"lead_ret": 11.15,
+"second": "아이비김영",
+"second_ret": 4.47
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.66,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "엠로",
+"second_ret": 5.33
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.52,
+"up5": 2,
+"lead": "알비더블유",
+"lead_ret": 14.23,
+"second": "CJ ENM",
+"second_ret": 5.63
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.15,
+"up5": 3,
+"lead": "제이씨현시스템",
+"lead_ret": 7.13,
+"second": "휴네시온",
+"second_ret": 5.86
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 2.14,
+"up5": 3,
+"lead": "셀바스AI",
+"lead_ret": 26.41,
+"second": "이스트소프트",
+"second_ret": 9.09
+}
+],
+"themes_worst": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.97,
+"up5": 0,
+"lead": "코오롱글로벌",
+"lead_ret": 0.0,
+"second": "삼성물산",
+"second_ret": -0.42
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.92,
+"up5": 0,
+"lead": "KG스틸",
+"lead_ret": -0.62,
+"second": "한국철강",
+"second_ret": -0.77
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.82,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": 1.61,
+"second": "신성이엔지",
+"second_ret": 0.58
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": -1.7,
+"up5": 0,
+"lead": "코오롱글로벌",
+"lead_ret": 0.0,
+"second": "태영건설",
+"second_ret": -0.24
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.68,
+"up5": 0,
+"lead": "기업은행",
+"lead_ret": 0.48,
+"second": "JB금융지주",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 26.41,
+"value": 2138,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 26.35,
+"value": 1891,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 14.54,
+"value": 1443,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "밸로프",
+"code": "331520",
+"ret": 15.14,
+"value": 1318,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "웨이버스",
+"code": "336060",
+"ret": 17.51,
+"value": 1217,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

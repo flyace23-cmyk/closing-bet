@@ -1,0 +1,254 @@
+{
+"date": "20210618",
+"kospi": 0.09,
+"kosdaq": 1.21,
+"adv": 977,
+"dec": 841,
+"flat": 193,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 268981,
+"hot": [
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "보라티알",
+"lead_ret": 21.47,
+"second": "네이처셀",
+"second_ret": 20.11
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "이루온",
+"lead_ret": 15.99,
+"second": "나무AX",
+"second_ret": 13.76
+},
+{
+"name": "광고",
+"n": 3,
+"lead": "오리콤",
+"lead_ret": 29.45,
+"second": "비케이홀딩스",
+"second_ret": 10.64
+}
+],
+"themes": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": 4.25,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 15.99,
+"second": "NHN KCP",
+"second_ret": 8.42
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.44,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 21.39,
+"second": "링네트",
+"second_ret": 1.29
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.29,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 22.16,
+"second": "이수페타시스",
+"second_ret": 7.72
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 3.16,
+"up5": 3,
+"lead": "오리콤",
+"lead_ret": 29.45,
+"second": "비케이홀딩스",
+"second_ret": 10.64
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.1,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 15.99,
+"second": "카카오",
+"second_ret": 4.73
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.86,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 15.99,
+"second": "옴니시스템",
+"second_ret": 0.22
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 12,
+"avg": 2.62,
+"up5": 2,
+"lead": "한국첨단소재",
+"lead_ret": 10.32,
+"second": "파이버프로",
+"second_ret": 5.31
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.44,
+"up5": 5,
+"lead": "일신석재",
+"lead_ret": 17.14,
+"second": "아난티",
+"second_ret": 11.22
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 2.39,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 22.16,
+"second": "이수페타시스",
+"second_ret": 7.72
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 2.36,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 22.16,
+"second": "네패스아크",
+"second_ret": 6.02
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 2.22,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 22.16,
+"second": "아이씨디",
+"second_ret": 2.29
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 50,
+"avg": 2.18,
+"up5": 7,
+"lead": "이루온",
+"lead_ret": 15.99,
+"second": "나무AX",
+"second_ret": 13.76
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -1.9,
+"up5": 0,
+"lead": "모두투어",
+"lead_ret": 0.7,
+"second": "하나투어",
+"second_ret": -1.02
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -1.72,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": 2.51,
+"second": "CJ ENM",
+"second_ret": 0.17
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.71,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -0.19,
+"second": "E1",
+"second_ret": -0.35
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.71,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -0.19,
+"second": "E1",
+"second_ret": -0.35
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.68,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.32,
+"second": "글로벌텍스프리",
+"second_ret": -0.11
+}
+],
+"leaders": [
+{
+"name": "오픈베이스",
+"code": "049480",
+"ret": 21.39,
+"value": 3890,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 20.11,
+"value": 3515,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 17.14,
+"value": 3116,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 15.99,
+"value": 2900,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 11.22,
+"value": 2722,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240328",
+"kospi": -0.34,
+"kosdaq": -0.13,
+"adv": 748,
+"dec": 1336,
+"flat": 164,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 233610,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "윈팩",
+"lead_ret": 29.98,
+"second": "가온칩스",
+"second_ret": 22.88
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "미코",
+"lead_ret": 11.89,
+"second": "HLB이노베이션",
+"second_ret": 11.86
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "필옵틱스",
+"lead_ret": 29.88,
+"second": "미코",
+"second_ret": 11.89
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 3.81,
+"up5": 5,
+"lead": "가온칩스",
+"lead_ret": 22.88,
+"second": "제주반도체",
+"second_ret": 22.48
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 3.26,
+"up5": 6,
+"lead": "윈팩",
+"lead_ret": 29.98,
+"second": "한미반도체",
+"second_ret": 17.13
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.87,
+"up5": 2,
+"lead": "태광산업",
+"lead_ret": 7.71,
+"second": "우성머티리얼스",
+"second_ret": 6.19
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.87,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 7.72,
+"second": "오픈엣지테크놀로지",
+"second_ret": 3.48
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": 2.86,
+"up5": 10,
+"lead": "윈팩",
+"lead_ret": 29.98,
+"second": "가온칩스",
+"second_ret": 22.88
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.41,
+"up5": 2,
+"lead": "진에어",
+"lead_ret": 6.91,
+"second": "트리니티항공",
+"second_ret": 6.13
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.03,
+"up5": 3,
+"lead": "필옵틱스",
+"lead_ret": 29.88,
+"second": "와이씨켐",
+"second_ret": 11.24
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 1.68,
+"up5": 2,
+"lead": "필옵틱스",
+"lead_ret": 29.88,
+"second": "브이원텍",
+"second_ret": 6.68
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 1.67,
+"up5": 11,
+"lead": "미래산업",
+"lead_ret": 30.0,
+"second": "한미반도체",
+"second_ret": 17.13
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 29,
+"avg": 1.28,
+"up5": 1,
+"lead": "필옵틱스",
+"lead_ret": 29.88,
+"second": "뉴프렉스",
+"second_ret": 4.56
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 1.23,
+"up5": 2,
+"lead": "어보브반도체",
+"lead_ret": 10.55,
+"second": "디아이티",
+"second_ret": 8.99
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.1,
+"up5": 2,
+"lead": "티에스이",
+"lead_ret": 6.1,
+"second": "티씨케이",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -2.87,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": 4.57,
+"second": "DSC인베스트먼트",
+"second_ret": 1.45
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.51,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.36,
+"second": "샘표",
+"second_ret": -0.2
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.39,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": -0.99,
+"second": "SBI인베스트먼트",
+"second_ret": -2.09
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": -2.31,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": 2.77,
+"second": "라온시큐어",
+"second_ret": 0.2
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.26,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": -0.73,
+"second": "풀무원",
+"second_ret": -0.92
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 17.13,
+"value": 13426,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 22.48,
+"value": 7985,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 22.88,
+"value": 6270,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "와이씨켐",
+"code": "112290",
+"ret": 11.24,
+"value": 3720,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 29.88,
+"value": 2111,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

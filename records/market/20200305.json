@@ -1,0 +1,254 @@
+{
+"date": "20200305",
+"kospi": 1.26,
+"kosdaq": 1.32,
+"adv": 1402,
+"dec": 359,
+"flat": 146,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 158065,
+"hot": [
+{
+"name": "제약업체",
+"n": 5,
+"lead": "고려제약",
+"lead_ret": 26.58,
+"second": "JW중외제약",
+"second_ret": 24.4
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "JW중외제약",
+"lead_ret": 24.4,
+"second": "한미사이언스",
+"second_ret": 8.03
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "얼라인드",
+"lead_ret": 29.91,
+"second": "JW중외제약",
+"second_ret": 24.4
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 8.38,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 29.87,
+"second": "HMM",
+"second_ret": 5.82
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 7.9,
+"up5": 2,
+"lead": "JW중외제약",
+"lead_ret": 24.4,
+"second": "강스템바이오텍",
+"second_ret": 11.67
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": 4.76,
+"up5": 5,
+"lead": "JW중외제약",
+"lead_ret": 24.4,
+"second": "강스템바이오텍",
+"second_ret": 11.67
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.68,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 11.67,
+"second": "차바이오텍",
+"second_ret": 4.87
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.54,
+"up5": 5,
+"lead": "트리니티항공",
+"lead_ret": 8.16,
+"second": "티웨이홀딩스",
+"second_ret": 6.47
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.53,
+"up5": 4,
+"lead": "한미사이언스",
+"lead_ret": 8.03,
+"second": "에스티팜",
+"second_ret": 7.85
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.68,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 14.47,
+"second": "포스코인터내셔널",
+"second_ret": 3.32
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 3.53,
+"up5": 4,
+"lead": "강스템바이오텍",
+"lead_ret": 11.67,
+"second": "코아스템켐온",
+"second_ret": 10.54
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 3.38,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 7.85,
+"second": "파미셀",
+"second_ret": 6.12
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 3.37,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 14.47,
+"second": "롯데관광개발",
+"second_ret": 4.95
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 3.23,
+"up5": 4,
+"lead": "JW중외제약",
+"lead_ret": 24.4,
+"second": "강스템바이오텍",
+"second_ret": 11.67
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.23,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.95,
+"second": "노랑풍선",
+"second_ret": 3.87
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -1.65,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 0.99,
+"second": "콜마바이오텍",
+"second_ret": 0.25
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": -0.48,
+"up5": 0,
+"lead": "한국금융지주",
+"lead_ret": 2.5,
+"second": "예스24",
+"second_ret": 1.48
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -0.43,
+"up5": 0,
+"lead": "iM금융지주",
+"lead_ret": 2.66,
+"second": "제주은행",
+"second_ret": 1.17
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.42,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 2.05,
+"second": "휴메딕스",
+"second_ret": 1.0
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -0.28,
+"up5": 1,
+"lead": "유비온",
+"lead_ret": 7.51,
+"second": "크레버스",
+"second_ret": 3.29
+}
+],
+"leaders": [
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 16.09,
+"value": 4304,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "케이프",
+"code": "064820",
+"ret": 20.0,
+"value": 1865,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "고려제약",
+"code": "014570",
+"ret": 26.58,
+"value": 1657,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "JW중외제약",
+"code": "001060",
+"ret": 24.4,
+"value": 1462,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "제이앤티씨",
+"code": "204270",
+"ret": 10.63,
+"value": 1014,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

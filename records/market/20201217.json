@@ -1,0 +1,254 @@
+{
+"date": "20201217",
+"kospi": -0.05,
+"kosdaq": 0.47,
+"adv": 819,
+"dec": 993,
+"flat": 154,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 325436,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "SP삼화",
+"lead_ret": 29.56,
+"second": "위지트",
+"second_ret": 19.01
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "디아이씨",
+"lead_ret": 29.91,
+"second": "명신산업",
+"second_ret": 26.75
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "대웅제약",
+"lead_ret": 30.0,
+"second": "대웅",
+"second_ret": 29.61
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 5.64,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 29.91,
+"second": "에코프로비엠",
+"second_ret": 4.2
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.9,
+"up5": 2,
+"lead": "SP삼화",
+"lead_ret": 29.56,
+"second": "조광페인트",
+"second_ret": 8.52
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.82,
+"up5": 3,
+"lead": "케이씨에스",
+"lead_ret": 17.91,
+"second": "프리엠스",
+"second_ret": 7.06
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.63,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 13.99,
+"second": "녹십자",
+"second_ret": 3.13
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.55,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 29.91,
+"second": "삼양패키징",
+"second_ret": 5.45
+},
+{
+"name": "전력반도체",
+"n": 13,
+"avg": 3.35,
+"up5": 5,
+"lead": "에스티아이",
+"lead_ret": 8.46,
+"second": "에이루트",
+"second_ret": 8.27
+},
+{
+"name": "반도체 재료/부품",
+"n": 57,
+"avg": 2.93,
+"up5": 15,
+"lead": "SP삼화",
+"lead_ret": 29.56,
+"second": "위지트",
+"second_ret": 19.01
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.89,
+"up5": 4,
+"lead": "덕산하이메탈",
+"lead_ret": 18.04,
+"second": "다원넥스뷰",
+"second_ret": 8.02
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.41,
+"up5": 1,
+"lead": "대웅제약",
+"lead_ret": 30.0,
+"second": "휴젤",
+"second_ret": 2.87
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.23,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 20.26,
+"second": "이건홀딩스",
+"second_ret": 5.41
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.23,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 20.26,
+"second": "이건홀딩스",
+"second_ret": 5.41
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.19,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 5.9,
+"second": "KSS해운",
+"second_ret": 1.91
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.86,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 0.15,
+"second": "서울제약",
+"second_ret": -0.4
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.75,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.6,
+"second": "SM C&C",
+"second_ret": -1.49
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -2.01,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 3.13,
+"second": "한미약품",
+"second_ret": 1.6
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -1.99,
+"up5": 0,
+"lead": "현대바이오랜드",
+"lead_ret": 2.52,
+"second": "오스테오닉",
+"second_ret": 1.29
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.83,
+"up5": 0,
+"lead": "팜스코",
+"lead_ret": 0.78,
+"second": "흥국에프엔비",
+"second_ret": 0.42
+}
+],
+"leaders": [
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 10.69,
+"value": 17697,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "대웅제약",
+"code": "069620",
+"ret": 30.0,
+"value": 11327,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "명신산업",
+"code": "009900",
+"ret": 26.75,
+"value": 9657,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "루트K",
+"code": "195990",
+"ret": 16.94,
+"value": 7651,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "한국전력",
+"code": "015760",
+"ret": 10.17,
+"value": 5307,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240221",
+"kospi": -0.17,
+"kosdaq": -0.24,
+"adv": 702,
+"dec": 1417,
+"flat": 120,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 215539,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "나노신소재",
+"lead_ret": 27.74,
+"second": "필옵틱스",
+"second_ret": 24.72
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "앤로보틱스",
+"lead_ret": 30.0,
+"second": "해성에어로보틱스",
+"second_ret": 13.96
+},
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "포니링크",
+"lead_ret": 14.97,
+"second": "SG세계물산",
+"second_ret": 11.84
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 8.16,
+"up5": 3,
+"lead": "네패스아크",
+"lead_ret": 29.93,
+"second": "네패스",
+"second_ret": 8.71
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.46,
+"up5": 3,
+"lead": "탑머티리얼",
+"lead_ret": 20.09,
+"second": "소프트센",
+"second_ret": 8.08
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.62,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 29.99,
+"second": "한국정보통신",
+"second_ret": 0.33
+},
+{
+"name": "2차전지(장비)",
+"n": 41,
+"avg": 2.25,
+"up5": 9,
+"lead": "필옵틱스",
+"lead_ret": 24.72,
+"second": "APS이노베이션",
+"second_ret": 17.73
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 1.89,
+"up5": 2,
+"lead": "필옵틱스",
+"lead_ret": 24.72,
+"second": "켐트로닉스",
+"second_ret": 6.67
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.66,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 2.9,
+"second": "HD한국조선해양",
+"second_ret": 2.06
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.59,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 15.12,
+"second": "LG화학",
+"second_ret": -1.19
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 1.48,
+"up5": 4,
+"lead": "필옵틱스",
+"lead_ret": 24.72,
+"second": "APS이노베이션",
+"second_ret": 17.73
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 1.36,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 8.85,
+"second": "윙입푸드",
+"second_ret": 5.56
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.35,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 3.17,
+"second": "우양",
+"second_ret": 3.07
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": 1.25,
+"up5": 8,
+"lead": "네패스아크",
+"lead_ret": 29.93,
+"second": "시그네틱스",
+"second_ret": 19.93
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 1.17,
+"up5": 3,
+"lead": "네패스아크",
+"lead_ret": 29.93,
+"second": "네패스",
+"second_ret": 8.71
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -7.79,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 11.0,
+"second": "아모텍",
+"second_ret": -0.71
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -4.14,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": 2.77,
+"second": "일진파워",
+"second_ret": 1.27
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -3.07,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": 0.79,
+"second": "원티드랩",
+"second_ret": -0.21
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -2.77,
+"up5": 0,
+"lead": "큐에스아이",
+"lead_ret": 2.37,
+"second": "라온텍",
+"second_ret": -0.14
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.27,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": -0.36,
+"second": "한화투자증권",
+"second_ret": -0.45
+}
+],
+"leaders": [
+{
+"name": "나노신소재",
+"code": "121600",
+"ret": 27.74,
+"value": 2659,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼익THK",
+"code": "004380",
+"ret": 13.59,
+"value": 2390,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "네패스아크",
+"code": "330860",
+"ret": 29.93,
+"value": 2309,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 27.92,
+"value": 2207,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 24.72,
+"value": 1984,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

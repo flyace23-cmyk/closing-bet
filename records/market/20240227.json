@@ -1,0 +1,254 @@
+{
+"date": "20240227",
+"kospi": -0.83,
+"kosdaq": -1.57,
+"adv": 392,
+"dec": 1765,
+"flat": 85,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 206813,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "저스템",
+"lead_ret": 30.0,
+"second": "예스티",
+"second_ret": 16.27
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "로보스타",
+"lead_ret": 15.81,
+"second": "피제이전자",
+"second_ret": 12.44
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "큐알티",
+"lead_ret": 24.96,
+"second": "앤씨앤",
+"second_ret": 13.27
+}
+],
+"themes": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 2.93,
+"up5": 6,
+"lead": "갤럭시아에스엠",
+"lead_ret": 24.77,
+"second": "우리기술투자",
+"second_ret": 10.37
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.69,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 5.23,
+"second": "HD현대중공업",
+"second_ret": 4.74
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.17,
+"up5": 8,
+"lead": "큐알티",
+"lead_ret": 24.96,
+"second": "예스티",
+"second_ret": 16.27
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.78,
+"up5": 3,
+"lead": "갤럭시아에스엠",
+"lead_ret": 24.77,
+"second": "핑거",
+"second_ret": 6.04
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 1.63,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 13.27,
+"second": "인콘",
+"second_ret": 3.91
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 0.92,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 10.37,
+"second": "한화투자증권",
+"second_ret": 5.69
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 0.78,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 5.69,
+"second": "아주IB투자",
+"second_ret": 0.38
+},
+{
+"name": "보안주(물리)",
+"n": 18,
+"avg": 0.58,
+"up5": 3,
+"lead": "앤씨앤",
+"lead_ret": 13.27,
+"second": "피제이전자",
+"second_ret": 12.44
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 0.56,
+"up5": 3,
+"lead": "우리기술투자",
+"lead_ret": 10.37,
+"second": "갤럭시아머니트리",
+"second_ret": 5.85
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 0.44,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 5.85,
+"second": "포니링크",
+"second_ret": 5.41
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 0.33,
+"up5": 1,
+"lead": "로보스타",
+"lead_ret": 15.81,
+"second": "모아텍",
+"second_ret": 2.2
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 0.32,
+"up5": 1,
+"lead": "큐알티",
+"lead_ret": 24.96,
+"second": "오픈엣지테크놀로지",
+"second_ret": 4.07
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -5.45,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 0.79,
+"second": "쎄니트",
+"second_ret": -0.99
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -4.75,
+"up5": 0,
+"lead": "신성델타테크",
+"lead_ret": 1.53,
+"second": "비츠로테크",
+"second_ret": 0.0
+},
+{
+"name": "미용기기",
+"n": 14,
+"avg": -3.92,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 2.33,
+"second": "한국비티비",
+"second_ret": 0.0
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": -3.76,
+"up5": 0,
+"lead": "녹십자홀딩스",
+"lead_ret": -0.47,
+"second": "차바이오텍",
+"second_ret": -0.84
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -3.46,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": -0.25,
+"second": "삼성화재",
+"second_ret": -2.17
+}
+],
+"leaders": [
+{
+"name": "큐알티",
+"code": "405100",
+"ret": 24.96,
+"value": 4343,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 10.37,
+"value": 3220,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 15.81,
+"value": 2791,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "플레이디",
+"code": "237820",
+"ret": 13.81,
+"value": 1859,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 15.16,
+"value": 1737,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

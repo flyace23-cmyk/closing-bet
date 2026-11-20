@@ -1,0 +1,254 @@
+{
+"date": "20200917",
+"kospi": -1.22,
+"kosdaq": -1.24,
+"adv": 397,
+"dec": 1408,
+"flat": 133,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 335795,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "신성델타테크",
+"lead_ret": 29.88,
+"second": "서암기계공업",
+"second_ret": 12.65
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "신성델타테크",
+"lead_ret": 29.88,
+"second": "나라엠앤디",
+"second_ret": 17.43
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "나라엠앤디",
+"lead_ret": 17.43,
+"second": "풍강",
+"second_ret": 13.39
+}
+],
+"themes": [
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.77,
+"up5": 4,
+"lead": "한국주강",
+"lead_ret": 29.75,
+"second": "서암기계공업",
+"second_ret": 12.65
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.57,
+"up5": 2,
+"lead": "한온시스템",
+"lead_ret": 6.75,
+"second": "HL만도",
+"second_ret": 6.6
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.54,
+"up5": 1,
+"lead": "금호타이어",
+"lead_ret": 9.0,
+"second": "넥센타이어",
+"second_ret": 4.82
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.49,
+"up5": 1,
+"lead": "신성델타테크",
+"lead_ret": 29.88,
+"second": "모비스",
+"second_ret": 3.25
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.13,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 9.51,
+"second": "극동유화",
+"second_ret": 0.79
+},
+{
+"name": "2차전지(장비)",
+"n": 30,
+"avg": 0.67,
+"up5": 4,
+"lead": "나인테크",
+"lead_ret": 9.9,
+"second": "디에스케이",
+"second_ret": 9.18
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 0.5,
+"up5": 3,
+"lead": "한익스프레스",
+"lead_ret": 8.32,
+"second": "동방",
+"second_ret": 7.01
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 0.48,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 9.9,
+"second": "에코프로",
+"second_ret": 0.6
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 0.37,
+"up5": 4,
+"lead": "휴네시온",
+"lead_ret": 29.87,
+"second": "케이사인",
+"second_ret": 19.69
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 0.31,
+"up5": 3,
+"lead": "휴네시온",
+"lead_ret": 29.87,
+"second": "케이사인",
+"second_ret": 19.69
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 23,
+"avg": 0.3,
+"up5": 1,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 7.03,
+"second": "넥센타이어",
+"second_ret": 4.82
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 0.28,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 1.8,
+"second": "태광산업",
+"second_ret": 1.46
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -3.04,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 1.56,
+"second": "일진전기",
+"second_ret": -1.36
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": -2.83,
+"up5": 0,
+"lead": "바이넥스",
+"lead_ret": 0.31,
+"second": "종근당",
+"second_ret": 0.0
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.82,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.0,
+"second": "유한양행",
+"second_ret": -2.92
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.43,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 0.0,
+"second": "성우전자",
+"second_ret": -1.53
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.4,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 0.0,
+"second": "삼성바이오로직스",
+"second_ret": -2.45
+}
+],
+"leaders": [
+{
+"name": "케이사인",
+"code": "192250",
+"ret": 19.69,
+"value": 2440,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "나라엠앤디",
+"code": "051490",
+"ret": 17.43,
+"value": 1622,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 10.4,
+"value": 1516,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "서암기계공업",
+"code": "100660",
+"ret": 12.65,
+"value": 1004,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "휴네시온",
+"code": "290270",
+"ret": 29.87,
+"value": 908,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+}
+],
+"backfilled": true
+}

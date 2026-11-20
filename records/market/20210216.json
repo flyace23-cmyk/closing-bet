@@ -1,0 +1,254 @@
+{
+"date": "20210216",
+"kospi": 0.52,
+"kosdaq": -0.43,
+"adv": 981,
+"dec": 825,
+"flat": 177,
+"limit_up": 10,
+"limit_down": 2,
+"value_total": 403235,
+"hot": [
+{
+"name": "쿠팡(coupang)",
+"n": 4,
+"lead": "서울식품",
+"lead_ret": 29.95,
+"second": "KCTC",
+"second_ret": 29.92
+},
+{
+"name": "비철금속",
+"n": 3,
+"lead": "이구산업",
+"lead_ret": 30.0,
+"second": "대창",
+"second_ret": 29.17
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "세동",
+"lead_ret": 28.54,
+"second": "인팩",
+"second_ret": 18.34
+}
+],
+"themes": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 7.28,
+"up5": 3,
+"lead": "대영포장",
+"lead_ret": 29.96,
+"second": "블루산업개발",
+"second_ret": 29.53
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 6.26,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 15.25,
+"second": "유니온",
+"second_ret": 6.85
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 5.74,
+"up5": 5,
+"lead": "서울식품",
+"lead_ret": 29.95,
+"second": "KCTC",
+"second_ret": 29.92
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 5.53,
+"up5": 8,
+"lead": "이구산업",
+"lead_ret": 30.0,
+"second": "대창",
+"second_ret": 29.17
+},
+{
+"name": "마이데이터",
+"n": 9,
+"avg": 5.26,
+"up5": 2,
+"lead": "세종텔레콤",
+"lead_ret": 29.97,
+"second": "핑거",
+"second_ret": 9.97
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": 4.35,
+"up5": 3,
+"lead": "동방",
+"lead_ret": 29.89,
+"second": "켐트로스",
+"second_ret": 9.58
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.29,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 17.15,
+"second": "풀무원",
+"second_ret": 2.64
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 3.88,
+"up5": 3,
+"lead": "KCTC",
+"lead_ret": 29.92,
+"second": "동방",
+"second_ret": 29.89
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.25,
+"up5": 1,
+"lead": "지어소프트",
+"lead_ret": 29.88,
+"second": "이씨에스",
+"second_ret": 3.91
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 21,
+"avg": 3.25,
+"up5": 3,
+"lead": "지어소프트",
+"lead_ret": 29.88,
+"second": "핑거",
+"second_ret": 9.97
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.24,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 18.2,
+"second": "에스넷",
+"second_ret": 2.33
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 3.21,
+"up5": 2,
+"lead": "앱튼",
+"lead_ret": 22.4,
+"second": "광무",
+"second_ret": 18.2
+}
+],
+"themes_worst": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -2.79,
+"up5": 0,
+"lead": "인선이엔티",
+"lead_ret": 2.78,
+"second": "남해화학",
+"second_ret": 2.38
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": -2.74,
+"up5": 1,
+"lead": "더코디",
+"lead_ret": 7.98,
+"second": "이수앱지스",
+"second_ret": 0.35
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -2.26,
+"up5": 1,
+"lead": "대창솔루션",
+"lead_ret": 6.71,
+"second": "아이텍",
+"second_ret": 1.52
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -2.08,
+"up5": 1,
+"lead": "옵티팜",
+"lead_ret": 5.58,
+"second": "녹십자홀딩스",
+"second_ret": 4.42
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 19,
+"avg": -1.98,
+"up5": 0,
+"lead": "보령",
+"lead_ret": 2.48,
+"second": "에이프로젠바이오로직스",
+"second_ret": 2.11
+}
+],
+"leaders": [
+{
+"name": "동방",
+"code": "004140",
+"ret": 29.89,
+"value": 6149,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "위지트",
+"code": "036090",
+"ret": 19.03,
+"value": 4388,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "대영포장",
+"code": "014160",
+"ret": 29.96,
+"value": 3532,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "텔레칩스",
+"code": "054450",
+"ret": 16.86,
+"value": 3237,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "케이티알파",
+"code": "036030",
+"ret": 30.0,
+"value": 3104,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+}
+],
+"backfilled": true
+}

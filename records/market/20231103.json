@@ -1,0 +1,254 @@
+{
+"date": "20231103",
+"kospi": 1.08,
+"kosdaq": 1.19,
+"adv": 1692,
+"dec": 395,
+"flat": 115,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 137984,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "코난테크놀로지",
+"lead_ret": 25.0,
+"second": "솔트룩스",
+"second_ret": 11.25
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "디와이에이",
+"lead_ret": 29.79,
+"second": "DH오토리드",
+"second_ret": 12.99
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "루닛",
+"lead_ret": 15.62,
+"second": "티로보틱스",
+"second_ret": 10.02
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.95,
+"up5": 2,
+"lead": "우원개발",
+"lead_ret": 15.59,
+"second": "특수건설",
+"second_ret": 7.82
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": 3.8,
+"up5": 8,
+"lead": "코난테크놀로지",
+"lead_ret": 25.0,
+"second": "바이브컴퍼니",
+"second_ret": 12.58
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 3.76,
+"up5": 1,
+"lead": "메가엠디",
+"lead_ret": 16.7,
+"second": "오픈놀",
+"second_ret": 3.16
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 3.41,
+"up5": 6,
+"lead": "루닛",
+"lead_ret": 15.62,
+"second": "뷰노",
+"second_ret": 9.47
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 3.37,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 8.48,
+"second": "시선AI",
+"second_ret": 7.89
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 3.31,
+"up5": 6,
+"lead": "NC",
+"lead_ret": 8.61,
+"second": "넥써쓰",
+"second_ret": 8.05
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 3.2,
+"up5": 6,
+"lead": "NC",
+"lead_ret": 8.61,
+"second": "넥써쓰",
+"second_ret": 8.05
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.12,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 15.3,
+"second": "한성기업",
+"second_ret": 1.16
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.07,
+"up5": 1,
+"lead": "한국앤컴퍼니",
+"lead_ret": 9.26,
+"second": "효성티앤씨",
+"second_ret": 3.55
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.04,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 15.3,
+"second": "흥국에프엔비",
+"second_ret": 4.29
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 3.03,
+"up5": 3,
+"lead": "누리플랜",
+"lead_ret": 18.41,
+"second": "유진로봇",
+"second_ret": 8.79
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.9,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.34,
+"second": "토비스",
+"second_ret": 4.47
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.0,
+"up5": 0,
+"lead": "신풍제약",
+"lead_ret": 2.19,
+"second": "한국비엔씨",
+"second_ret": 2.17
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": -0.54,
+"up5": 1,
+"lead": "종근당",
+"lead_ret": 5.73,
+"second": "LG화학",
+"second_ret": 3.4
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.42,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 2.0,
+"second": "경동제약",
+"second_ret": 1.43
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -0.4,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 2.17,
+"second": "청담글로벌",
+"second_ret": 1.67
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -0.38,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 3.55,
+"second": "코오롱인더",
+"second_ret": 3.29
+}
+],
+"leaders": [
+{
+"name": "지구홀딩스",
+"code": "221800",
+"ret": 20.35,
+"value": 1950,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "루닛",
+"code": "328130",
+"ret": 15.62,
+"value": 1937,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 10.4,
+"value": 945,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "경보제약",
+"code": "214390",
+"ret": 30.02,
+"value": 909,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 11.25,
+"value": 754,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

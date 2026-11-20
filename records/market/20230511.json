@@ -1,0 +1,254 @@
+{
+"date": "20230511",
+"kospi": -0.22,
+"kosdaq": -0.63,
+"adv": 1132,
+"dec": 867,
+"flat": 153,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 169807,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "평화산업",
+"lead_ret": 30.0,
+"second": "체시스",
+"second_ret": 20.0
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "평화홀딩스",
+"lead_ret": 23.31,
+"second": "비츠로테크",
+"second_ret": 22.01
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 4,
+"lead": "대성미생물",
+"lead_ret": 29.98,
+"second": "체시스",
+"second_ret": 20.0
+}
+],
+"themes": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 8.83,
+"up5": 3,
+"lead": "모비스",
+"lead_ret": 29.93,
+"second": "비츠로테크",
+"second_ret": 22.01
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.14,
+"up5": 1,
+"lead": "크리스탈신소재",
+"lead_ret": 29.93,
+"second": "오가닉티코스메틱",
+"second_ret": 3.67
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.83,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 29.93,
+"second": "비츠로테크",
+"second_ret": 22.01
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.82,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 22.24,
+"second": "오텍",
+"second_ret": 3.11
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 3.41,
+"up5": 6,
+"lead": "대성미생물",
+"lead_ret": 29.98,
+"second": "체시스",
+"second_ret": 20.0
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.59,
+"up5": 2,
+"lead": "대성미생물",
+"lead_ret": 29.98,
+"second": "우진비앤지",
+"second_ret": 5.84
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 28,
+"avg": 2.4,
+"up5": 4,
+"lead": "비츠로테크",
+"lead_ret": 22.01,
+"second": "켄코아에어로스페이스",
+"second_ret": 6.9
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 2.26,
+"up5": 4,
+"lead": "뷰노",
+"lead_ret": 13.12,
+"second": "루닛",
+"second_ret": 11.35
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 2.19,
+"up5": 4,
+"lead": "서연이화",
+"lead_ret": 13.9,
+"second": "켄코아에어로스페이스",
+"second_ret": 6.9
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.16,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 22.01,
+"second": "우진",
+"second_ret": 3.23
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 55,
+"avg": 2.0,
+"up5": 4,
+"lead": "평화산업",
+"lead_ret": 30.0,
+"second": "비츠로테크",
+"second_ret": 22.01
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.96,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 10.54,
+"second": "판타지오",
+"second_ret": 8.75
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -2.91,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 0.0,
+"second": "유성티엔에스",
+"second_ret": -0.4
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.24,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 0.93,
+"second": "인천도시가스",
+"second_ret": 0.38
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.0,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 1.28,
+"second": "애경케미칼",
+"second_ret": -0.23
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -1.78,
+"up5": 1,
+"lead": "제너셈",
+"lead_ret": 5.74,
+"second": "성우전자",
+"second_ret": 1.17
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.71,
+"up5": 1,
+"lead": "중앙첨단소재",
+"lead_ret": 5.96,
+"second": "포스코엠텍",
+"second_ret": 0.73
+}
+],
+"leaders": [
+{
+"name": "크리스탈신소재",
+"code": "900250",
+"ret": 29.93,
+"value": 2471,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "네오오토",
+"code": "212560",
+"ret": 18.26,
+"value": 2277,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "서연이화",
+"code": "200880",
+"ret": 13.9,
+"value": 1982,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "루닛",
+"code": "328130",
+"ret": 11.35,
+"value": 1906,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "비츠로테크",
+"code": "042370",
+"ret": 22.01,
+"value": 1336,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

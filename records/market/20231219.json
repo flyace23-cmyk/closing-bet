@@ -1,0 +1,254 @@
+{
+"date": "20231219",
+"kospi": 0.07,
+"kosdaq": 0.86,
+"adv": 989,
+"dec": 1080,
+"flat": 156,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 192107,
+"hot": [
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "큐리언트",
+"lead_ret": 29.94,
+"second": "지씨셀",
+"second_ret": 14.73
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "에이팩트",
+"lead_ret": 29.93,
+"second": "그린리소스",
+"second_ret": 14.56
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "어보브반도체",
+"lead_ret": 29.93,
+"second": "켐트로스",
+"second_ret": 21.56
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.69,
+"up5": 2,
+"lead": "지씨셀",
+"lead_ret": 14.73,
+"second": "차바이오텍",
+"second_ret": 7.51
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.69,
+"up5": 1,
+"lead": "하림",
+"lead_ret": 29.95,
+"second": "팜스토리",
+"second_ret": 1.43
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.53,
+"up5": 1,
+"lead": "하림",
+"lead_ret": 29.95,
+"second": "SOOP",
+"second_ret": 2.34
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.36,
+"up5": 6,
+"lead": "큐리언트",
+"lead_ret": 29.94,
+"second": "지씨셀",
+"second_ret": 14.73
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 3.1,
+"up5": 3,
+"lead": "어보브반도체",
+"lead_ret": 29.93,
+"second": "에이팩트",
+"second_ret": 29.93
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.51,
+"up5": 3,
+"lead": "바이오솔루션",
+"lead_ret": 10.96,
+"second": "차바이오텍",
+"second_ret": 7.51
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.5,
+"up5": 2,
+"lead": "서남",
+"lead_ret": 29.97,
+"second": "신성델타테크",
+"second_ret": 5.0
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.33,
+"up5": 2,
+"lead": "하림",
+"lead_ret": 29.95,
+"second": "동원산업",
+"second_ret": 8.36
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.3,
+"up5": 2,
+"lead": "국제약품",
+"lead_ret": 9.15,
+"second": "수젠텍",
+"second_ret": 5.25
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.27,
+"up5": 2,
+"lead": "아이티센글로벌",
+"lead_ret": 9.4,
+"second": "엑스페릭스",
+"second_ret": 6.18
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 2.07,
+"up5": 8,
+"lead": "어보브반도체",
+"lead_ret": 29.93,
+"second": "켐트로스",
+"second_ret": 21.56
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 1.96,
+"up5": 5,
+"lead": "매커스",
+"lead_ret": 8.47,
+"second": "다날",
+"second_ret": 7.63
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -1.67,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 5.07,
+"second": "흥아해운",
+"second_ret": 0.63
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.49,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 2.64,
+"second": "LS",
+"second_ret": 0.44
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -1.42,
+"up5": 1,
+"lead": "미디어젠",
+"lead_ret": 5.09,
+"second": "현대에이치티",
+"second_ret": 0.53
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.16,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 0.0,
+"second": "티에스이",
+"second_ret": -0.21
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.08,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 0.96,
+"second": "GS건설",
+"second_ret": 0.19
+}
+],
+"leaders": [
+{
+"name": "LS머트리얼즈",
+"code": "417200",
+"ret": 13.78,
+"value": 20472,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "어보브반도체",
+"code": "102120",
+"ret": 29.93,
+"value": 3720,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 11.82,
+"value": 3587,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "하림",
+"code": "136480",
+"ret": 29.95,
+"value": 3457,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "코어라인소프트",
+"code": "384470",
+"ret": 13.5,
+"value": 2439,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20221007",
+"kospi": -0.22,
+"kosdaq": -1.07,
+"adv": 753,
+"dec": 1179,
+"flat": 169,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 117636,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 5,
+"lead": "에스프리즘",
+"lead_ret": 29.79,
+"second": "에코심플렉스",
+"second_ret": 25.2
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "청보",
+"lead_ret": 29.69,
+"second": "우신시스템",
+"second_ret": 19.09
+}
+],
+"themes": [
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.98,
+"up5": 3,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 30.01,
+"second": "한국주강",
+"second_ret": 11.33
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.61,
+"up5": 4,
+"lead": "이수페타시스",
+"lead_ret": 7.91,
+"second": "심텍홀딩스",
+"second_ret": 7.86
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.38,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 11.66,
+"second": "데브시스터즈",
+"second_ret": 2.12
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.15,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 5.46,
+"second": "티엘비",
+"second_ret": 5.17
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.75,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 4.32,
+"second": "삼성화재",
+"second_ret": 3.43
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 1.67,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 6.58,
+"second": "쿠쿠홈시스",
+"second_ret": 4.73
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.53,
+"up5": 2,
+"lead": "KBI메탈",
+"lead_ret": 5.63,
+"second": "LS",
+"second_ret": 5.15
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 1.52,
+"up5": 1,
+"lead": "범한퓨얼셀",
+"lead_ret": 11.83,
+"second": "비나텍",
+"second_ret": 4.67
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.44,
+"up5": 3,
+"lead": "양지사",
+"lead_ret": 29.78,
+"second": "인지컨트롤스",
+"second_ret": 6.82
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 1.35,
+"up5": 2,
+"lead": "에코심플렉스",
+"lead_ret": 25.2,
+"second": "SGC에너지",
+"second_ret": 5.29
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.28,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 4.62,
+"second": "파라다이스",
+"second_ret": 3.18
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.28,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 4.62,
+"second": "파라다이스",
+"second_ret": 3.18
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -3.67,
+"up5": 0,
+"lead": "인바이오젠",
+"lead_ret": 1.61,
+"second": "케이바이오랩스",
+"second_ret": 0.0
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.94,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -1.37,
+"second": "강스템바이오텍",
+"second_ret": -1.57
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -2.72,
+"up5": 0,
+"lead": "메카로",
+"lead_ret": 0.97,
+"second": "대주전자재료",
+"second_ret": -0.71
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.71,
+"up5": 0,
+"lead": "헥토파이낸셜",
+"lead_ret": 0.85,
+"second": "NHN KCP",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.58,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.12,
+"second": "에스티팜",
+"second_ret": -1.74
+}
+],
+"leaders": [
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 19.49,
+"value": 4394,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 29.78,
+"value": 2029,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 15.06,
+"value": 546,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "범한퓨얼셀",
+"code": "382900",
+"ret": 11.83,
+"value": 525,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "넥스턴앤롤코리아",
+"code": "089140",
+"ret": 30.01,
+"value": 492,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+}
+],
+"backfilled": true
+}

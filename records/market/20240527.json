@@ -1,0 +1,254 @@
+{
+"date": "20240527",
+"kospi": 1.32,
+"kosdaq": 1.02,
+"adv": 978,
+"dec": 1127,
+"flat": 153,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 244020,
+"hot": [
+{
+"name": "원자력발전",
+"n": 6,
+"lead": "에너토크",
+"lead_ret": 30.0,
+"second": "우진엔텍",
+"second_ret": 29.97
+},
+{
+"name": "2차전지",
+"n": 6,
+"lead": "신성에스티",
+"lead_ret": 25.48,
+"second": "광무",
+"second_ret": 20.65
+},
+{
+"name": "전기차",
+"n": 5,
+"lead": "신성에스티",
+"lead_ret": 25.48,
+"second": "삼영에스앤씨",
+"second_ret": 15.95
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 6.26,
+"up5": 4,
+"lead": "헝셩그룹",
+"lead_ret": 29.74,
+"second": "오가닉티코스메틱",
+"second_ret": 9.09
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 4.76,
+"up5": 5,
+"lead": "두산에너빌리티",
+"lead_ret": 16.65,
+"second": "우진",
+"second_ret": 12.13
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 4.76,
+"up5": 13,
+"lead": "에너토크",
+"lead_ret": 30.0,
+"second": "우진엔텍",
+"second_ret": 29.97
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.57,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 16.65,
+"second": "모비스",
+"second_ret": 6.69
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.01,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 20.65,
+"second": "링네트",
+"second_ret": 3.43
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.0,
+"up5": 5,
+"lead": "광무",
+"lead_ret": 20.65,
+"second": "중앙첨단소재",
+"second_ret": 13.97
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.67,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 12.27,
+"second": "CJ씨푸드",
+"second_ret": 5.35
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.6,
+"up5": 2,
+"lead": "유니테스트",
+"lead_ret": 12.16,
+"second": "한화솔루션",
+"second_ret": 8.59
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.98,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 16.65,
+"second": "오르비텍",
+"second_ret": 7.42
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.93,
+"up5": 1,
+"lead": "HL만도",
+"lead_ret": 14.68,
+"second": "한온시스템",
+"second_ret": 2.74
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 2.86,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 11.53,
+"second": "코칩",
+"second_ret": 5.45
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 40,
+"avg": 2.83,
+"up5": 6,
+"lead": "신성에스티",
+"lead_ret": 25.48,
+"second": "한전산업",
+"second_ret": 21.67
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 13,
+"avg": -1.92,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 0.0,
+"second": "라온시큐어",
+"second_ret": -0.21
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.87,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -0.36,
+"second": "차바이오텍",
+"second_ret": -1.23
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -1.5,
+"up5": 0,
+"lead": "교촌에프앤비",
+"lead_ret": 4.71,
+"second": "체리부로",
+"second_ret": 1.36
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.47,
+"up5": 0,
+"lead": "한미약품",
+"lead_ret": 0.67,
+"second": "한미사이언스",
+"second_ret": 0.64
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.46,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.75,
+"second": "HD한국조선해양",
+"second_ret": -0.81
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 16.65,
+"value": 14777,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 10.85,
+"value": 4564,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "SKC",
+"code": "011790",
+"ret": 15.8,
+"value": 3301,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "우진엔텍",
+"code": "457550",
+"ret": 29.97,
+"value": 3171,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "슈어소프트테크",
+"code": "298830",
+"ret": 27.02,
+"value": 2293,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

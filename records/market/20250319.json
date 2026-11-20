@@ -1,0 +1,254 @@
+{
+"date": "20250319",
+"kospi": 0.62,
+"kosdaq": -0.96,
+"adv": 1029,
+"dec": 1138,
+"flat": 175,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 179031,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "브이엠",
+"lead_ret": 12.77,
+"second": "아이엠티",
+"second_ret": 10.84
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 3,
+"lead": "한국첨단소재",
+"lead_ret": 10.6,
+"second": "자람테크놀로지",
+"second_ret": 8.53
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "한국첨단소재",
+"lead_ret": 10.6,
+"second": "PS일렉트로닉스",
+"second_ret": 9.26
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 5.32,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 29.89,
+"second": "이월드",
+"second_ret": 1.65
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 2.72,
+"up5": 1,
+"lead": "서울보증보험",
+"lead_ret": 17.8,
+"second": "DB손해보험",
+"second_ret": 1.75
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.62,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 29.89,
+"second": "대원미디어",
+"second_ret": 3.95
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": 2.45,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 21.7,
+"second": "드림씨아이에스",
+"second_ret": 2.49
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.42,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 21.7,
+"second": "에스티아이",
+"second_ret": 6.8
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.37,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 8.21,
+"second": "코리아써키트",
+"second_ret": 6.46
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.07,
+"up5": 1,
+"lead": "엘케이켐",
+"lead_ret": 8.17,
+"second": "한화솔루션",
+"second_ret": 4.86
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.82,
+"up5": 2,
+"lead": "삼화전자",
+"lead_ret": 10.64,
+"second": "아모그린텍",
+"second_ret": 7.39
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.82,
+"up5": 2,
+"lead": "삼화전자",
+"lead_ret": 10.64,
+"second": "아모그린텍",
+"second_ret": 7.39
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 1.7,
+"up5": 1,
+"lead": "삼화전자",
+"lead_ret": 10.64,
+"second": "LG화학",
+"second_ret": 4.54
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.57,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 3.4,
+"second": "현대모비스",
+"second_ret": 2.27
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 1.53,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 8.21,
+"second": "코리아써키트",
+"second_ret": 6.46
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.74,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 1.03,
+"second": "서울제약",
+"second_ret": 0.61
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.18,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -0.68,
+"second": "삼성중공업",
+"second_ret": -1.49
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.16,
+"up5": 0,
+"lead": "특수건설",
+"lead_ret": 0.0,
+"second": "동아지질",
+"second_ret": -0.6
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.16,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": -0.6,
+"second": "유라클",
+"second_ret": -1.47
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -2.05,
+"up5": 0,
+"lead": "삼미금속",
+"lead_ret": 4.07,
+"second": "에이텀",
+"second_ret": 1.88
+}
+],
+"leaders": [
+{
+"name": "서울보증보험",
+"code": "031210",
+"ret": 17.8,
+"value": 4587,
+"theme": "손해보험",
+"reason": "테마: 손해보험"
+},
+{
+"name": "모티브링크",
+"code": "463480",
+"ret": 13.08,
+"value": 2255,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "한국첨단소재",
+"code": "062970",
+"ret": 10.6,
+"value": 1539,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "이노메트리",
+"code": "302430",
+"ret": 29.98,
+"value": 788,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "아이엠티",
+"code": "451220",
+"ret": 10.84,
+"value": 674,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20221205",
+"kospi": -0.62,
+"kosdaq": 0.05,
+"adv": 977,
+"dec": 972,
+"flat": 174,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 117597,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "풍전약품",
+"lead_ret": 30.02,
+"second": "세화피앤씨",
+"second_ret": 29.69
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "노을",
+"lead_ret": 25.16,
+"second": "오스코텍",
+"second_ret": 8.09
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "오파스넷",
+"lead_ret": 15.46,
+"second": "에프알텍",
+"second_ret": 13.15
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.21,
+"up5": 3,
+"lead": "헝셩그룹",
+"lead_ret": 13.56,
+"second": "크리스탈신소재",
+"second_ret": 7.64
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.12,
+"up5": 2,
+"lead": "풍전약품",
+"lead_ret": 30.02,
+"second": "안트로젠",
+"second_ret": 5.35
+},
+{
+"name": "화장품",
+"n": 80,
+"avg": 3.63,
+"up5": 21,
+"lead": "풍전약품",
+"lead_ret": 30.02,
+"second": "세화피앤씨",
+"second_ret": 29.69
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.57,
+"up5": 3,
+"lead": "토니모리",
+"lead_ret": 6.31,
+"second": "호텔신라",
+"second_ret": 5.26
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.36,
+"up5": 3,
+"lead": "그래디언트",
+"lead_ret": 7.99,
+"second": "노랑풍선",
+"second_ret": 6.84
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.21,
+"up5": 1,
+"lead": "제주항공",
+"lead_ret": 10.67,
+"second": "트리니티항공",
+"second_ret": 4.44
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.11,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 5.81,
+"second": "차바이오텍",
+"second_ret": 3.92
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 2.92,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 15.9,
+"second": "헝셩그룹",
+"second_ret": 13.56
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.52,
+"up5": 2,
+"lead": "제테마",
+"lead_ret": 6.41,
+"second": "휴젤",
+"second_ret": 5.17
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.36,
+"up5": 3,
+"lead": "오스코텍",
+"lead_ret": 8.09,
+"second": "레이",
+"second_ret": 7.97
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.33,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 15.9,
+"second": "헝셩그룹",
+"second_ret": 13.56
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.27,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 15.46,
+"second": "아이티센씨티에스",
+"second_ret": 1.16
+}
+],
+"themes_worst": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -2.54,
+"up5": 0,
+"lead": "한화솔루션",
+"lead_ret": 0.99,
+"second": "유니테스트",
+"second_ret": 0.76
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.45,
+"up5": 0,
+"lead": "앱튼",
+"lead_ret": 4.99,
+"second": "중앙첨단소재",
+"second_ret": 0.32
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.25,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -0.41,
+"second": "디아이씨",
+"second_ret": -1.1
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -2.22,
+"up5": 0,
+"lead": "와이엔텍",
+"lead_ret": 0.77,
+"second": "한솔홀딩스",
+"second_ret": 0.45
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": -2.11,
+"up5": 0,
+"lead": "포니링크",
+"lead_ret": 1.9,
+"second": "세코닉스",
+"second_ret": 1.42
+}
+],
+"leaders": [
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 16.42,
+"value": 3904,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "TP",
+"code": "007980",
+"ret": 20.96,
+"value": 1279,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "HLB파나진",
+"code": "046210",
+"ret": 15.77,
+"value": 1022,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "오리콤",
+"code": "010470",
+"ret": 26.16,
+"value": 818,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "오파스넷",
+"code": "173130",
+"ret": 15.46,
+"value": 565,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+}
+],
+"backfilled": true
+}

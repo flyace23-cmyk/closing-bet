@@ -1,0 +1,254 @@
+{
+"date": "20230926",
+"kospi": -1.31,
+"kosdaq": -1.35,
+"adv": 380,
+"dec": 1715,
+"flat": 97,
+"limit_up": 4,
+"limit_down": 2,
+"value_total": 137077,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "가온그룹",
+"lead_ret": 29.89,
+"second": "이스트에이드",
+"second_ret": 11.59
+},
+{
+"name": "가상현실(VR)",
+"n": 3,
+"lead": "칩스앤미디어",
+"lead_ret": 10.61,
+"second": "에스코넥",
+"second_ret": 9.61
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "솔트웨어",
+"lead_ret": 29.96,
+"second": "노을",
+"second_ret": 5.45
+}
+],
+"themes": [
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 0.81,
+"up5": 1,
+"lead": "에스바이오메딕스",
+"lead_ret": 29.99,
+"second": "코아스템켐온",
+"second_ret": 1.34
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 0.76,
+"up5": 2,
+"lead": "가온그룹",
+"lead_ret": 29.89,
+"second": "이노시뮬레이션",
+"second_ret": 6.68
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 0.61,
+"up5": 1,
+"lead": "가온그룹",
+"lead_ret": 29.89,
+"second": "셀바스AI",
+"second_ret": 0.73
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 0.5,
+"up5": 1,
+"lead": "남성",
+"lead_ret": 29.91,
+"second": "제주항공",
+"second_ret": 2.0
+},
+{
+"name": "가상현실(VR)",
+"n": 22,
+"avg": 0.3,
+"up5": 3,
+"lead": "칩스앤미디어",
+"lead_ret": 10.61,
+"second": "에스코넥",
+"second_ret": 9.61
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 0.08,
+"up5": 1,
+"lead": "위더스제약",
+"lead_ret": 8.92,
+"second": "팜젠사이언스",
+"second_ret": 2.86
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 0.07,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 5.59,
+"second": "태광산업",
+"second_ret": -0.52
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.03,
+"up5": 0,
+"lead": "클래시스",
+"lead_ret": 4.64,
+"second": "휴메딕스",
+"second_ret": 2.29
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -0.08,
+"up5": 0,
+"lead": "동아지질",
+"lead_ret": 2.0,
+"second": "한국선재",
+"second_ret": 1.25
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.23,
+"up5": 0,
+"lead": "트리니티항공",
+"lead_ret": 3.18,
+"second": "제주항공",
+"second_ret": 2.0
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": -0.29,
+"up5": 1,
+"lead": "솔트웨어",
+"lead_ret": 29.96,
+"second": "포스코DX",
+"second_ret": 4.4
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -0.3,
+"up5": 0,
+"lead": "아스트",
+"lead_ret": 2.11,
+"second": "하이즈항공",
+"second_ret": 1.8
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -5.66,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.97,
+"second": "일신바이오",
+"second_ret": -1.14
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -4.07,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 4.01,
+"second": "토마토시스템",
+"second_ret": 2.04
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -3.69,
+"up5": 0,
+"lead": "DGI",
+"lead_ret": 0.0,
+"second": "앤씨앤",
+"second_ret": -1.07
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.5,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": -1.2,
+"second": "샘표식품",
+"second_ret": -2.16
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -3.32,
+"up5": 0,
+"lead": "KG이니시스",
+"lead_ret": 0.37,
+"second": "NICE",
+"second_ret": -0.38
+}
+],
+"leaders": [
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 10.23,
+"value": 1064,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "남성",
+"code": "004270",
+"ret": 29.91,
+"value": 788,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "이스트에이드",
+"code": "239340",
+"ret": 11.59,
+"value": 778,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "에스바이오메딕스",
+"code": "304360",
+"ret": 29.99,
+"value": 585,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 10.61,
+"value": 566,
+"theme": "가상현실(VR)",
+"reason": "테마: 가상현실(VR)"
+}
+],
+"backfilled": true
+}

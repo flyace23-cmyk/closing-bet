@@ -1,0 +1,254 @@
+{
+"date": "20250528",
+"kospi": 1.25,
+"kosdaq": 0.23,
+"adv": 1411,
+"dec": 822,
+"flat": 127,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 173362,
+"hot": [
+{
+"name": "2차전지",
+"n": 13,
+"lead": "대보마그네틱",
+"lead_ret": 29.99,
+"second": "애경케미칼",
+"second_ret": 25.91
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "애경케미칼",
+"lead_ret": 25.91,
+"second": "포스코퓨처엠",
+"second_ret": 13.99
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "코오롱",
+"lead_ret": 15.16,
+"second": "HD현대",
+"second_ret": 12.43
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 9.24,
+"up5": 7,
+"lead": "애경케미칼",
+"lead_ret": 25.91,
+"second": "메가터치",
+"second_ret": 13.74
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 6.95,
+"up5": 15,
+"lead": "대보마그네틱",
+"lead_ret": 29.99,
+"second": "포스코퓨처엠",
+"second_ret": 13.99
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 6.39,
+"up5": 8,
+"lead": "엘앤에프",
+"lead_ret": 16.87,
+"second": "파워넷",
+"second_ret": 14.99
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 4.88,
+"up5": 14,
+"lead": "하나기술",
+"lead_ret": 11.9,
+"second": "천보",
+"second_ret": 11.06
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 4.88,
+"up5": 31,
+"lead": "애경케미칼",
+"lead_ret": 25.91,
+"second": "엘앤에프",
+"second_ret": 16.87
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 4.3,
+"up5": 8,
+"lead": "하나기술",
+"lead_ret": 11.9,
+"second": "새빗켐",
+"second_ret": 11.07
+},
+{
+"name": "2차전지",
+"n": 140,
+"avg": 4.19,
+"up5": 49,
+"lead": "대보마그네틱",
+"lead_ret": 29.99,
+"second": "애경케미칼",
+"second_ret": 25.91
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.01,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 8.59,
+"second": "네패스",
+"second_ret": 5.59
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 3.97,
+"up5": 4,
+"lead": "포바이포",
+"lead_ret": 12.88,
+"second": "엑스페릭스",
+"second_ret": 8.92
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 3.82,
+"up5": 3,
+"lead": "시지트로닉스",
+"lead_ret": 18.22,
+"second": "파워넷",
+"second_ret": 14.99
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.73,
+"up5": 3,
+"lead": "코오롱",
+"lead_ret": 15.16,
+"second": "DSC인베스트먼트",
+"second_ret": 8.17
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.58,
+"up5": 2,
+"lead": "MDS테크",
+"lead_ret": 19.15,
+"second": "LG이노텍",
+"second_ret": 6.94
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.56,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 0.25,
+"second": "광동제약",
+"second_ret": 0.18
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.17,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -2.2,
+"second": "한화오션",
+"second_ret": -2.92
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -2.8,
+"up5": 0,
+"lead": "원일티엔아이",
+"lead_ret": 3.1,
+"second": "에스앤더블류",
+"second_ret": 0.73
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": -2.75,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 4.4,
+"second": "피앤씨테크",
+"second_ret": 3.48
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -2.5,
+"up5": 0,
+"lead": "한미사이언스",
+"lead_ret": 0.73,
+"second": "파미셀",
+"second_ret": 0.16
+}
+],
+"leaders": [
+{
+"name": "포바이포",
+"code": "389140",
+"ret": 12.88,
+"value": 1897,
+"theme": "영화",
+"reason": "테마: 영화"
+},
+{
+"name": "온코크로스",
+"code": "382150",
+"ret": 17.63,
+"value": 1447,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 25.91,
+"value": 1403,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 11.48,
+"value": 1380,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "MDS테크",
+"code": "086960",
+"ret": 19.15,
+"value": 1371,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

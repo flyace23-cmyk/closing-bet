@@ -1,0 +1,254 @@
+{
+"date": "20220421",
+"kospi": 0.35,
+"kosdaq": 0.08,
+"adv": 907,
+"dec": 938,
+"flat": 232,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 183724,
+"hot": [
+{
+"name": "원자력발전",
+"n": 7,
+"lead": "한신기계",
+"lead_ret": 25.87,
+"second": "서전기전",
+"second_ret": 18.18
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "코스모신소재",
+"lead_ret": 14.12,
+"second": "코스모화학",
+"second_ret": 14.03
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "코스모신소재",
+"lead_ret": 14.12,
+"second": "이지트로닉스",
+"second_ret": 11.63
+}
+],
+"themes": [
+{
+"name": "폐배터리",
+"n": 17,
+"avg": 4.22,
+"up5": 4,
+"lead": "NPC",
+"lead_ret": 25.13,
+"second": "코스모화학",
+"second_ret": 14.03
+},
+{
+"name": "원자력발전",
+"n": 44,
+"avg": 4.1,
+"up5": 13,
+"lead": "한신기계",
+"lead_ret": 25.87,
+"second": "서전기전",
+"second_ret": 18.18
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.11,
+"up5": 4,
+"lead": "우리기술",
+"lead_ret": 10.61,
+"second": "오르비텍",
+"second_ret": 6.76
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.74,
+"up5": 3,
+"lead": "한일사료",
+"lead_ret": 29.75,
+"second": "케이씨피드",
+"second_ret": 23.15
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 2.68,
+"up5": 2,
+"lead": "이지트로닉스",
+"lead_ret": 11.63,
+"second": "황금에스티",
+"second_ret": 11.52
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 2.55,
+"up5": 1,
+"lead": "코스모신소재",
+"lead_ret": 14.12,
+"second": "삼성전기",
+"second_ret": 4.98
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.55,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 30.02,
+"second": "한국정보통신",
+"second_ret": 0.24
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 2.33,
+"up5": 3,
+"lead": "서전기전",
+"lead_ret": 18.18,
+"second": "보성파워텍",
+"second_ret": 17.19
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.26,
+"up5": 2,
+"lead": "서전기전",
+"lead_ret": 18.18,
+"second": "삼영엠텍",
+"second_ret": 6.32
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.14,
+"up5": 1,
+"lead": "케이씨피드",
+"lead_ret": 23.15,
+"second": "미래에셋벤처투자",
+"second_ret": 0.99
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 2.02,
+"up5": 5,
+"lead": "우리기술",
+"lead_ret": 10.61,
+"second": "SK오션플랜트",
+"second_ret": 7.98
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.98,
+"up5": 1,
+"lead": "휴림로봇",
+"lead_ret": 8.74,
+"second": "모아텍",
+"second_ret": 3.35
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.23,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": -0.22,
+"second": "오로라",
+"second_ret": -0.94
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -1.82,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 0.8,
+"second": "풀무원",
+"second_ret": -0.81
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -1.77,
+"up5": 0,
+"lead": "태경비케이",
+"lead_ret": 1.2,
+"second": "체시스",
+"second_ret": 0.79
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -1.63,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": 2.39,
+"second": "CJ씨푸드",
+"second_ret": 0.8
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.59,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 2.46,
+"second": "풀무원",
+"second_ret": -0.81
+}
+],
+"leaders": [
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 25.87,
+"value": 6396,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 17.19,
+"value": 5170,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 13.98,
+"value": 4300,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 29.75,
+"value": 4269,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "NPC",
+"code": "004250",
+"ret": 25.13,
+"value": 3398,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+}
+],
+"backfilled": true
+}

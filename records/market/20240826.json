@@ -1,0 +1,254 @@
+{
+"date": "20240826",
+"kospi": -0.14,
+"kosdaq": -0.84,
+"adv": 660,
+"dec": 1507,
+"flat": 113,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 151569,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "케이엔솔",
+"lead_ret": 22.66,
+"second": "지아이텍",
+"second_ret": 11.3
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "퓨쳐켐",
+"lead_ret": 15.51,
+"second": "인성정보",
+"second_ret": 14.29
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "샤페론",
+"lead_ret": 20.33,
+"second": "보로노이",
+"second_ret": 19.29
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.89,
+"up5": 5,
+"lead": "진에어",
+"lead_ret": 8.95,
+"second": "트리니티항공",
+"second_ret": 7.32
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.56,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 8.57,
+"second": "흥구석유",
+"second_ret": 6.91
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.56,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 8.57,
+"second": "흥구석유",
+"second_ret": 6.91
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 2.34,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 22.66,
+"second": "GST",
+"second_ret": 4.6
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.24,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 12.4,
+"second": "포스코인터내셔널",
+"second_ret": 2.45
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.05,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 6.91,
+"second": "한국쉘석유",
+"second_ret": 2.99
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.96,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 4.16,
+"second": "IPARK현대산업개발",
+"second_ret": 2.69
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 1.68,
+"up5": 4,
+"lead": "샤페론",
+"lead_ret": 20.33,
+"second": "에이프릴바이오",
+"second_ret": 18.12
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.42,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 8.57,
+"second": "흥구석유",
+"second_ret": 6.91
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 1.36,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 12.4,
+"second": "GS건설",
+"second_ret": 4.16
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.36,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 3.42,
+"second": "신한지주",
+"second_ret": 2.33
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 1.22,
+"up5": 4,
+"lead": "인성정보",
+"lead_ret": 14.29,
+"second": "GC메디아이",
+"second_ret": 8.09
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.78,
+"up5": 0,
+"lead": "에이직랜드",
+"lead_ret": -1.63,
+"second": "삼성전자",
+"second_ret": -2.06
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.64,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 0.0,
+"second": "LS에코에너지",
+"second_ret": -1.26
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": -2.59,
+"up5": 1,
+"lead": "진시스템",
+"lead_ret": 5.33,
+"second": "드림텍",
+"second_ret": 1.84
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.59,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.71,
+"second": "펨트론",
+"second_ret": -1.95
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.44,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.86,
+"second": "한화오션",
+"second_ret": -1.36
+}
+],
+"leaders": [
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 29.94,
+"value": 3822,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "에이프릴바이오",
+"code": "397030",
+"ret": 18.12,
+"value": 1975,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "케이엔솔",
+"code": "053080",
+"ret": 22.66,
+"value": 1733,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼성공조",
+"code": "006660",
+"ret": 21.82,
+"value": 1033,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "넥스트바이오메디컬",
+"code": "389650",
+"ret": 10.65,
+"value": 912,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

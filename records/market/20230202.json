@@ -1,0 +1,254 @@
+{
+"date": "20230202",
+"kospi": 0.78,
+"kosdaq": 1.82,
+"adv": 1581,
+"dec": 423,
+"flat": 128,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 165267,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "미래반도체",
+"lead_ret": 15.71,
+"second": "알파칩스",
+"second_ret": 12.54
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "케이알엠",
+"lead_ret": 11.14,
+"second": "나무가",
+"second_ret": 10.13
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 3,
+"lead": "미래반도체",
+"lead_ret": 15.71,
+"second": "오로스테크놀로지",
+"second_ret": 9.7
+}
+],
+"themes": [
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 4.33,
+"up5": 4,
+"lead": "신도기연",
+"lead_ret": 16.83,
+"second": "나무가",
+"second_ret": 10.13
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.15,
+"up5": 6,
+"lead": "코리아에셋투자증권",
+"lead_ret": 29.9,
+"second": "상상인증권",
+"second_ret": 8.47
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 3.83,
+"up5": 8,
+"lead": "코리아에셋투자증권",
+"lead_ret": 29.9,
+"second": "갤럭시아머니트리",
+"second_ret": 11.11
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.83,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 8.49,
+"second": "네패스아크",
+"second_ret": 3.77
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.69,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 12.46,
+"second": "SAMG엔터",
+"second_ret": 9.58
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 3.62,
+"up5": 6,
+"lead": "갤럭시아머니트리",
+"lead_ret": 11.11,
+"second": "인바이오젠",
+"second_ret": 9.93
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.49,
+"up5": 6,
+"lead": "갤럭시아머니트리",
+"lead_ret": 11.11,
+"second": "빌리언스",
+"second_ret": 8.71
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 3.47,
+"up5": 3,
+"lead": "신도기연",
+"lead_ret": 16.83,
+"second": "나무가",
+"second_ret": 10.13
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 3.38,
+"up5": 7,
+"lead": "신도기연",
+"lead_ret": 16.83,
+"second": "웨이버스",
+"second_ret": 16.75
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 30,
+"avg": 3.25,
+"up5": 5,
+"lead": "미래반도체",
+"lead_ret": 15.71,
+"second": "오로스테크놀로지",
+"second_ret": 9.7
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.13,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 11.11,
+"second": "쿠콘",
+"second_ret": 6.4
+},
+{
+"name": "시스템반도체",
+"n": 45,
+"avg": 3.13,
+"up5": 7,
+"lead": "미래반도체",
+"lead_ret": 15.71,
+"second": "알파칩스",
+"second_ret": 12.54
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.18,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.52,
+"second": "롯데손해보험",
+"second_ret": -0.92
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.55,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 2.89,
+"second": "카카오뱅크",
+"second_ret": 1.26
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.11,
+"up5": 0,
+"lead": "인천도시가스",
+"lead_ret": 1.24,
+"second": "지에스이",
+"second_ret": 0.58
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.01,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 0.0,
+"second": "대우건설",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.74,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.11,
+"second": "HMM",
+"second_ret": -0.44
+}
+],
+"leaders": [
+{
+"name": "미래반도체",
+"code": "254490",
+"ret": 15.71,
+"value": 2718,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "제이케이시냅스",
+"code": "060230",
+"ret": 29.95,
+"value": 2555,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "케이알엠",
+"code": "093640",
+"ret": 11.14,
+"value": 1747,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "나무가",
+"code": "190510",
+"ret": 10.13,
+"value": 981,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼아알미늄",
+"code": "006110",
+"ret": 12.93,
+"value": 962,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

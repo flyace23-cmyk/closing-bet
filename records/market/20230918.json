@@ -1,0 +1,254 @@
+{
+"date": "20230918",
+"kospi": -1.02,
+"kosdaq": -0.86,
+"adv": 687,
+"dec": 1396,
+"flat": 106,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 155399,
+"hot": [
+{
+"name": "화장품",
+"n": 4,
+"lead": "아우딘퓨쳐스",
+"lead_ret": 17.17,
+"second": "브이티",
+"second_ret": 11.54
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 15.04,
+"second": "코스모신소재",
+"second_ret": 9.47
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "동신건설",
+"lead_ret": 30.0,
+"second": "진흥기업",
+"second_ret": 10.6
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 4.05,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 29.75,
+"second": "흥국화재",
+"second_ret": 4.31
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.07,
+"up5": 2,
+"lead": "이월드",
+"lead_ret": 8.7,
+"second": "한국전자인증",
+"second_ret": 7.05
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.94,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 30.0,
+"second": "무림P&P",
+"second_ret": 0.0
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.94,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 30.0,
+"second": "무림P&P",
+"second_ret": 0.0
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 1.65,
+"up5": 3,
+"lead": "동신건설",
+"lead_ret": 30.0,
+"second": "진흥기업",
+"second_ret": 10.6
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 1.63,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 8.7,
+"second": "국보디자인",
+"second_ret": 0.78
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.51,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 6.38,
+"second": "토비스",
+"second_ret": 3.23
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.51,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 6.38,
+"second": "토비스",
+"second_ret": 3.23
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.36,
+"up5": 2,
+"lead": "체시스",
+"lead_ret": 10.57,
+"second": "태경비케이",
+"second_ret": 8.72
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.31,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 6.38,
+"second": "하나투어",
+"second_ret": 2.96
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.29,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.92,
+"second": "SK이노베이션",
+"second_ret": 3.13
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.29,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.92,
+"second": "SK이노베이션",
+"second_ret": 3.13
+}
+],
+"themes_worst": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": -4.67,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": 0.15,
+"second": "티씨케이",
+"second_ret": -1.63
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -4.12,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.61,
+"second": "흥아해운",
+"second_ret": 0.29
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": -3.89,
+"up5": 0,
+"lead": "디아이티",
+"lead_ret": 3.59,
+"second": "큐알티",
+"second_ret": 0.45
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.73,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.51,
+"second": "엠케이전자",
+"second_ret": -2.29
+},
+{
+"name": "반도체 장비",
+"n": 85,
+"avg": -3.37,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": 4.55,
+"second": "디아이티",
+"second_ret": 3.59
+}
+],
+"leaders": [
+{
+"name": "포스코스틸리온",
+"code": "058430",
+"ret": 15.04,
+"value": 3336,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "머큐리",
+"code": "100590",
+"ret": 12.25,
+"value": 2399,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "모니터랩",
+"code": "434480",
+"ret": 16.13,
+"value": 2075,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "KTcs",
+"code": "058850",
+"ret": 30.0,
+"value": 1986,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에스코넥",
+"code": "096630",
+"ret": 15.76,
+"value": 1524,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

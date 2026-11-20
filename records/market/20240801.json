@@ -1,0 +1,254 @@
+{
+"date": "20240801",
+"kospi": 0.25,
+"kosdaq": 1.29,
+"adv": 1624,
+"dec": 527,
+"flat": 120,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 163881,
+"hot": [
+{
+"name": "제약업체",
+"n": 6,
+"lead": "비보존 제약",
+"lead_ret": 20.18,
+"second": "알리코제약",
+"second_ret": 12.98
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "퀀타매트릭스",
+"lead_ret": 29.99,
+"second": "바이오스마트",
+"second_ret": 12.48
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "뷰티스킨",
+"lead_ret": 13.47,
+"second": "파마리서치",
+"second_ret": 10.37
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 6.65,
+"up5": 3,
+"lead": "KBI메탈",
+"lead_ret": 29.8,
+"second": "대원전선",
+"second_ret": 8.33
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.59,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 9.73,
+"second": "대한해운",
+"second_ret": 4.16
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 3.36,
+"up5": 6,
+"lead": "KBI메탈",
+"lead_ret": 29.8,
+"second": "바이오스마트",
+"second_ret": 12.48
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.3,
+"up5": 1,
+"lead": "블루산업개발",
+"lead_ret": 20.23,
+"second": "태림포장",
+"second_ret": 4.17
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 3.27,
+"up5": 8,
+"lead": "셀바스AI",
+"lead_ret": 17.08,
+"second": "SKAI",
+"second_ret": 10.66
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.19,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 8.0,
+"second": "강스템바이오텍",
+"second_ret": 5.27
+},
+{
+"name": "의료AI",
+"n": 23,
+"avg": 3.09,
+"up5": 5,
+"lead": "셀바스AI",
+"lead_ret": 17.08,
+"second": "제이에스링크",
+"second_ret": 9.6
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.63,
+"up5": 1,
+"lead": "링네트",
+"lead_ret": 6.54,
+"second": "광무",
+"second_ret": 3.33
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 2.53,
+"up5": 5,
+"lead": "알리코제약",
+"lead_ret": 12.98,
+"second": "현대약품",
+"second_ret": 8.58
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 54,
+"avg": 2.44,
+"up5": 8,
+"lead": "오브젠",
+"lead_ret": 29.95,
+"second": "셀바스AI",
+"second_ret": 17.08
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 2.44,
+"up5": 6,
+"lead": "퀀타매트릭스",
+"lead_ret": 29.99,
+"second": "바이오스마트",
+"second_ret": 12.48
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.41,
+"up5": 2,
+"lead": "한화솔루션",
+"lead_ret": 9.09,
+"second": "HD현대에너지솔루션",
+"second_ret": 6.26
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.74,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -0.06,
+"second": "SK하이닉스",
+"second_ret": -0.67
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -0.81,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 2.02,
+"second": "IPARK현대산업개발",
+"second_ret": -0.65
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -0.6,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": 4.26,
+"second": "마이크로투나노",
+"second_ret": 3.17
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -0.58,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 3.46,
+"second": "유비벨록스",
+"second_ret": 0.37
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -0.46,
+"up5": 0,
+"lead": "퀄리타스반도체",
+"lead_ret": 3.02,
+"second": "오픈엣지테크놀로지",
+"second_ret": 1.78
+}
+],
+"leaders": [
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 21.01,
+"value": 3483,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 17.08,
+"value": 1693,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "퀀타매트릭스",
+"code": "317690",
+"ret": 29.99,
+"value": 999,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "하스",
+"code": "450330",
+"ret": 20.0,
+"value": 881,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "KBI메탈",
+"code": "024840",
+"ret": 29.8,
+"value": 880,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

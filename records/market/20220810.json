@@ -1,0 +1,254 @@
+{
+"date": "20220810",
+"kospi": -0.9,
+"kosdaq": -1.6,
+"adv": 532,
+"dec": 1428,
+"flat": 136,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 140663,
+"hot": [
+{
+"name": "원자력발전",
+"n": 7,
+"lead": "태광",
+"lead_ret": 18.05,
+"second": "성광벤드",
+"second_ret": 13.36
+},
+{
+"name": "조선기자재",
+"n": 6,
+"lead": "태광",
+"lead_ret": 18.05,
+"second": "성광벤드",
+"second_ret": 13.36
+},
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "대명에너지",
+"lead_ret": 8.58,
+"second": "현대건설",
+"second_ret": 7.54
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 7.8,
+"up5": 6,
+"lead": "태광",
+"lead_ret": 18.05,
+"second": "성광벤드",
+"second_ret": 13.36
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 4.3,
+"up5": 10,
+"lead": "태광",
+"lead_ret": 18.05,
+"second": "성광벤드",
+"second_ret": 13.36
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": 3.16,
+"up5": 10,
+"lead": "지투파워",
+"lead_ret": 29.61,
+"second": "태광",
+"second_ret": 18.05
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.87,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 5.84,
+"second": "HD현대중공업",
+"second_ret": 4.1
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.83,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.54,
+"second": "GS건설",
+"second_ret": 2.75
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.4,
+"up5": 2,
+"lead": "세아제강",
+"lead_ret": 7.25,
+"second": "대한제강",
+"second_ret": 5.47
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 2.4,
+"up5": 3,
+"lead": "새빗켐",
+"lead_ret": 30.0,
+"second": "코스모화학",
+"second_ret": 11.93
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.35,
+"up5": 4,
+"lead": "새빗켐",
+"lead_ret": 30.0,
+"second": "코스모화학",
+"second_ret": 11.93
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.99,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 6.78,
+"second": "한국카본",
+"second_ret": 5.84
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 1.98,
+"up5": 2,
+"lead": "특수건설",
+"lead_ret": 6.47,
+"second": "한국선재",
+"second_ret": 5.02
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.83,
+"up5": 3,
+"lead": "한화엔진",
+"lead_ret": 8.33,
+"second": "비에이치아이",
+"second_ret": 6.78
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.76,
+"up5": 3,
+"lead": "디케이락",
+"lead_ret": 8.37,
+"second": "세아제강",
+"second_ret": 7.25
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.59,
+"up5": 0,
+"lead": "한미약품",
+"lead_ret": -0.93,
+"second": "아미노로직스",
+"second_ret": -1.15
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.47,
+"up5": 0,
+"lead": "인포바인",
+"lead_ret": 0.27,
+"second": "NHN",
+"second_ret": -1.2
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -3.44,
+"up5": 0,
+"lead": "엑스플러스",
+"lead_ret": 3.08,
+"second": "NICE",
+"second_ret": -0.75
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -3.38,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 2.55,
+"second": "네오티스",
+"second_ret": 0.93
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -3.05,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.0,
+"second": "DSC인베스트먼트",
+"second_ret": -1.49
+}
+],
+"leaders": [
+{
+"name": "새빗켐",
+"code": "107600",
+"ret": 30.0,
+"value": 2968,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 11.93,
+"value": 2303,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "피엔케이피부임상연구센타",
+"code": "347740",
+"ret": 15.45,
+"value": 897,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "태광",
+"code": "023160",
+"ret": 18.05,
+"value": 890,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 10.73,
+"value": 816,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240129",
+"kospi": 0.89,
+"kosdaq": -2.16,
+"adv": 789,
+"dec": 1328,
+"flat": 115,
+"limit_up": 1,
+"limit_down": 3,
+"value_total": 202241,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "와이씨켐",
+"lead_ret": 15.86,
+"second": "피엠티",
+"second_ret": 13.64
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 3,
+"lead": "지역난방공사",
+"lead_ret": 13.28,
+"second": "한국가스공사",
+"second_ret": 11.44
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "엔켐",
+"lead_ret": 25.09,
+"second": "필옵틱스",
+"second_ret": 14.32
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.86,
+"up5": 4,
+"lead": "롯데쇼핑",
+"lead_ret": 8.62,
+"second": "현대백화점",
+"second_ret": 7.56
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.45,
+"up5": 2,
+"lead": "이마트",
+"lead_ret": 15.24,
+"second": "롯데지주",
+"second_ret": 5.51
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.07,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 16.22,
+"second": "중앙에너비스",
+"second_ret": 4.99
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.07,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 16.22,
+"second": "중앙에너비스",
+"second_ret": 4.99
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.04,
+"up5": 2,
+"lead": "태광산업",
+"lead_ret": 17.42,
+"second": "대한화섬",
+"second_ret": 7.95
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.88,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 11.44,
+"second": "삼천리",
+"second_ret": 4.97
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.6,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 16.22,
+"second": "SK이노베이션",
+"second_ret": 3.89
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.56,
+"up5": 2,
+"lead": "상보",
+"lead_ret": 12.49,
+"second": "금호석유화학",
+"second_ret": 8.85
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.38,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 6.32,
+"second": "DL이앤씨",
+"second_ret": 5.28
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 3.26,
+"up5": 3,
+"lead": "현대제철",
+"lead_ret": 6.89,
+"second": "대한제강",
+"second_ret": 6.25
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 3.07,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 11.44,
+"second": "삼성물산",
+"second_ret": 6.32
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.94,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 16.22,
+"second": "중앙에너비스",
+"second_ret": 4.99
+}
+],
+"themes_worst": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": -6.71,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": -0.5,
+"second": "영림원소프트랩",
+"second_ret": -1.17
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -6.39,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 0.0,
+"second": "아이티센글로벌",
+"second_ret": -0.59
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": -4.19,
+"up5": 0,
+"lead": "NC",
+"lead_ret": 0.62,
+"second": "나무가",
+"second_ret": 0.24
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": -4.13,
+"up5": 0,
+"lead": "네오위즈홀딩스",
+"lead_ret": 1.19,
+"second": "SK스퀘어",
+"second_ret": 0.6
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -4.09,
+"up5": 0,
+"lead": "NHN",
+"lead_ret": 3.22,
+"second": "대원미디어",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 25.09,
+"value": 8371,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "뉴프렉스",
+"code": "085670",
+"ret": 13.2,
+"value": 3612,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 12.15,
+"value": 2845,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 22.11,
+"value": 2669,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "상보",
+"code": "027580",
+"ret": 12.49,
+"value": 2057,
+"theme": "탄소나노튜브(CNT)",
+"reason": "테마: 탄소나노튜브(CNT)"
+}
+],
+"backfilled": true
+}

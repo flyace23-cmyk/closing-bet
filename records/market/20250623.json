@@ -1,0 +1,254 @@
+{
+"date": "20250623",
+"kospi": -0.24,
+"kosdaq": -0.85,
+"adv": 570,
+"dec": 1732,
+"flat": 62,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 249996,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "로보티즈",
+"lead_ret": 30.0,
+"second": "다이나믹솔루션",
+"second_ret": 22.06
+},
+{
+"name": "스테이블코인",
+"n": 4,
+"lead": "넥써쓰",
+"lead_ret": 29.94,
+"second": "위메이드",
+"second_ret": 27.6
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "위메이드플레이",
+"lead_ret": 29.99,
+"second": "위메이드맥스",
+"second_ret": 29.97
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.44,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 24.3,
+"second": "흥구석유",
+"second_ret": 17.64
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.44,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 24.3,
+"second": "흥구석유",
+"second_ret": 17.64
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 6.1,
+"up5": 6,
+"lead": "케이엔알시스템",
+"lead_ret": 20.76,
+"second": "오르비텍",
+"second_ret": 19.77
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 5.74,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 15.48,
+"second": "STX그린로지스",
+"second_ret": 12.27
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 5.21,
+"up5": 9,
+"lead": "넥써쓰",
+"lead_ret": 29.94,
+"second": "위메이드",
+"second_ret": 27.6
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.86,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 24.3,
+"second": "흥구석유",
+"second_ret": 17.64
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.61,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 17.64,
+"second": "극동유화",
+"second_ret": 3.95
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 3.53,
+"up5": 6,
+"lead": "위메이드플레이",
+"lead_ret": 29.99,
+"second": "위메이드맥스",
+"second_ret": 29.97
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.16,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 10.38,
+"second": "코나아이",
+"second_ret": 8.76
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 60,
+"avg": 3.09,
+"up5": 16,
+"lead": "로보티즈",
+"lead_ret": 30.0,
+"second": "다이나믹솔루션",
+"second_ret": 22.06
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 3.08,
+"up5": 7,
+"lead": "위메이드",
+"lead_ret": 27.6,
+"second": "삼성에스디에스",
+"second_ret": 11.51
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 2.87,
+"up5": 4,
+"lead": "위메이드맥스",
+"lead_ret": 29.97,
+"second": "넥써쓰",
+"second_ret": 29.94
+}
+],
+"themes_worst": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -3.4,
+"up5": 0,
+"lead": "동방아그로",
+"lead_ret": -0.48,
+"second": "대동",
+"second_ret": -1.21
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.96,
+"up5": 0,
+"lead": "씨엑스아이",
+"lead_ret": 1.55,
+"second": "글로벌에스엠",
+"second_ret": -0.72
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": -2.93,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 1.57,
+"second": "케어젠",
+"second_ret": 1.26
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.87,
+"up5": 0,
+"lead": "예스티",
+"lead_ret": 0.35,
+"second": "지아이에스",
+"second_ret": -1.68
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -2.79,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 2.53,
+"second": "아이비젼웍스",
+"second_ret": 2.15
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 13.95,
+"value": 19460,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 15.58,
+"value": 12364,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 27.6,
+"value": 3557,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 10.34,
+"value": 3354,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "삼성에스디에스",
+"code": "018260",
+"ret": 11.51,
+"value": 2909,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

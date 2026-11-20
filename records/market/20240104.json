@@ -1,0 +1,254 @@
+{
+"date": "20240104",
+"kospi": -0.78,
+"kosdaq": -0.61,
+"adv": 622,
+"dec": 1488,
+"flat": 117,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 182807,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "신성델타테크",
+"lead_ret": 29.94,
+"second": "디아이티",
+"second_ret": 14.78
+},
+{
+"name": "초전도체",
+"n": 3,
+"lead": "신성델타테크",
+"lead_ret": 29.94,
+"second": "서남",
+"second_ret": 17.54
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 3,
+"lead": "흥구석유",
+"lead_ret": 29.92,
+"second": "중앙에너비스",
+"second_ret": 21.0
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 8.53,
+"up5": 3,
+"lead": "흥아해운",
+"lead_ret": 29.94,
+"second": "STX그린로지스",
+"second_ret": 9.3
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.67,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 29.92,
+"second": "중앙에너비스",
+"second_ret": 21.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.67,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 29.92,
+"second": "중앙에너비스",
+"second_ret": 21.0
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 6.61,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.92,
+"second": "극동유화",
+"second_ret": 9.25
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 5.88,
+"up5": 5,
+"lead": "신성델타테크",
+"lead_ret": 29.94,
+"second": "서남",
+"second_ret": 17.54
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 5.79,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 27.51,
+"second": "지에스이",
+"second_ret": 18.96
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 5.67,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 29.92,
+"second": "중앙에너비스",
+"second_ret": 21.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.62,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 27.12,
+"second": "극동유화",
+"second_ret": 9.25
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.5,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 11.92,
+"second": "신송홀딩스",
+"second_ret": 1.81
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.77,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 27.51,
+"second": "지에스이",
+"second_ret": 18.96
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 1.42,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 13.99,
+"second": "팜스토리",
+"second_ret": 0.93
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.35,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 5.27,
+"second": "유니온머티리얼",
+"second_ret": 3.3
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.57,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.52,
+"second": "앤씨앤",
+"second_ret": -1.16
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.28,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -1.08,
+"second": "지씨셀",
+"second_ret": -3.35
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -4.26,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": 0.19,
+"second": "파두",
+"second_ret": 0.0
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -4.25,
+"up5": 0,
+"lead": "큐리언트",
+"lead_ret": 4.91,
+"second": "더코디",
+"second_ret": 1.34
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -4.12,
+"up5": 0,
+"lead": "바이오솔루션",
+"lead_ret": 2.18,
+"second": "메타케어",
+"second_ret": -0.97
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 29.94,
+"value": 2952,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 29.94,
+"value": 2062,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 27.51,
+"value": 1789,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 27.12,
+"value": 1534,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "SBS",
+"code": "034120",
+"ret": 13.99,
+"value": 1495,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

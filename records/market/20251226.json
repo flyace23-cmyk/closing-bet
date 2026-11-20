@@ -1,0 +1,254 @@
+{
+"date": "20251226",
+"kospi": 0.51,
+"kosdaq": 0.49,
+"adv": 789,
+"dec": 1491,
+"flat": 117,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 256087,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "라닉스",
+"lead_ret": 29.81,
+"second": "에이디테크놀로지",
+"second_ret": 27.9
+},
+{
+"name": "온디바이스 AI",
+"n": 5,
+"lead": "에이디테크놀로지",
+"lead_ret": 27.9,
+"second": "오픈엣지테크놀로지",
+"second_ret": 22.59
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "계양전기",
+"lead_ret": 29.76,
+"second": "아이로보틱스",
+"second_ret": 20.0
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 8.97,
+"up5": 5,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 22.59,
+"second": "자람테크놀로지",
+"second_ret": 12.05
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 6.28,
+"up5": 10,
+"lead": "에이디테크놀로지",
+"lead_ret": 27.9,
+"second": "오픈엣지테크놀로지",
+"second_ret": 22.59
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 4.89,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 22.59,
+"second": "오킨스전자",
+"second_ret": 16.84
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 4.61,
+"up5": 4,
+"lead": "오비고",
+"lead_ret": 29.93,
+"second": "모트렉스",
+"second_ret": 15.15
+},
+{
+"name": "시스템반도체",
+"n": 56,
+"avg": 4.36,
+"up5": 13,
+"lead": "라닉스",
+"lead_ret": 29.81,
+"second": "에이디테크놀로지",
+"second_ret": 27.9
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.9,
+"up5": 2,
+"lead": "엘케이켐",
+"lead_ret": 29.92,
+"second": "메카로",
+"second_ret": 5.4
+},
+{
+"name": "자율주행차",
+"n": 58,
+"avg": 2.57,
+"up5": 8,
+"lead": "에이테크솔루션",
+"lead_ret": 29.96,
+"second": "오비고",
+"second_ret": 29.93
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.23,
+"up5": 5,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 22.59,
+"second": "와이씨",
+"second_ret": 9.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.17,
+"up5": 1,
+"lead": "삼성전자",
+"lead_ret": 5.31,
+"second": "SK스퀘어",
+"second_ret": 4.21
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 1.99,
+"up5": 2,
+"lead": "남선알미늄",
+"lead_ret": 29.96,
+"second": "조일알미늄",
+"second_ret": 14.79
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.92,
+"up5": 2,
+"lead": "코리아써키트",
+"lead_ret": 7.08,
+"second": "삼성전자",
+"second_ret": 5.31
+},
+{
+"name": "반도체 장비",
+"n": 94,
+"avg": 1.69,
+"up5": 14,
+"lead": "아스플로",
+"lead_ret": 13.51,
+"second": "원익홀딩스",
+"second_ret": 11.08
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.96,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": -1.55,
+"second": "SBI인베스트먼트",
+"second_ret": -1.62
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -3.46,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": -2.17,
+"second": "동원산업",
+"second_ret": -2.42
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.5,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 1.52,
+"second": "LS에코에너지",
+"second_ret": -1.99
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.46,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -0.42,
+"second": "제이오",
+"second_ret": -2.09
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -2.39,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -1.35,
+"second": "한화오션",
+"second_ret": -2.1
+}
+],
+"leaders": [
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 11.08,
+"value": 7790,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 15.1,
+"value": 3316,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "노타",
+"code": "486990",
+"ret": 12.16,
+"value": 3294,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "재영솔루텍",
+"code": "049630",
+"ret": 21.99,
+"value": 2363,
+"theme": "카메라모듈/부품",
+"reason": "테마: 카메라모듈/부품"
+},
+{
+"name": "우림피티에스",
+"code": "101170",
+"ret": 18.99,
+"value": 1988,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

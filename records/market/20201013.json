@@ -1,0 +1,254 @@
+{
+"date": "20201013",
+"kospi": -0.02,
+"kosdaq": -0.18,
+"adv": 762,
+"dec": 1012,
+"flat": 171,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 343292,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 5,
+"lead": "대창솔루션",
+"lead_ret": 29.95,
+"second": "우림피티에스",
+"second_ret": 29.82
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "코리아에프티",
+"lead_ret": 12.64,
+"second": "켐트로닉스",
+"second_ret": 11.9
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "대창솔루션",
+"lead_ret": 29.95,
+"second": "디케이락",
+"second_ret": 18.09
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.27,
+"up5": 2,
+"lead": "모아텍",
+"lead_ret": 29.81,
+"second": "TPC로보틱스",
+"second_ret": 5.71
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.87,
+"up5": 2,
+"lead": "한네트",
+"lead_ret": 16.28,
+"second": "로지시스",
+"second_ret": 8.93
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 3.65,
+"up5": 1,
+"lead": "지아이에스",
+"lead_ret": 29.89,
+"second": "티에스이",
+"second_ret": 3.54
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 3.54,
+"up5": 1,
+"lead": "지아이에스",
+"lead_ret": 29.89,
+"second": "아모텍",
+"second_ret": 2.92
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 3.53,
+"up5": 2,
+"lead": "DGI",
+"lead_ret": 11.75,
+"second": "앤씨앤",
+"second_ret": 8.92
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.5,
+"up5": 7,
+"lead": "대창솔루션",
+"lead_ret": 29.95,
+"second": "우림피티에스",
+"second_ret": 29.82
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.15,
+"up5": 1,
+"lead": "디케이락",
+"lead_ret": 18.09,
+"second": "한국선재",
+"second_ret": 3.18
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": 2.85,
+"up5": 3,
+"lead": "DGI",
+"lead_ret": 11.75,
+"second": "앤씨앤",
+"second_ret": 8.92
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.68,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 29.82,
+"second": "SK가스",
+"second_ret": 2.61
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 2.58,
+"up5": 2,
+"lead": "MDS테크",
+"lead_ret": 13.09,
+"second": "인포뱅크",
+"second_ret": 7.57
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 2.45,
+"up5": 1,
+"lead": "대창솔루션",
+"lead_ret": 29.95,
+"second": "우진",
+"second_ret": 1.94
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.32,
+"up5": 2,
+"lead": "유엔젤",
+"lead_ret": 8.97,
+"second": "인포뱅크",
+"second_ret": 7.57
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 17,
+"avg": -2.81,
+"up5": 0,
+"lead": "앱튼",
+"lead_ret": 4.0,
+"second": "리튬포어스",
+"second_ret": 2.76
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.35,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.56,
+"second": "에스티팜",
+"second_ret": -0.68
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.27,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": -1.68,
+"second": "유니온",
+"second_ret": -1.73
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -2.21,
+"up5": 1,
+"lead": "광동제약",
+"lead_ret": 6.67,
+"second": "씨티씨바이오",
+"second_ret": 4.13
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": -2.18,
+"up5": 1,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 6.05,
+"second": "씨티씨바이오",
+"second_ret": 4.13
+}
+],
+"leaders": [
+{
+"name": "오성첨단소재",
+"code": "052420",
+"ret": 16.8,
+"value": 8665,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "앤디포스",
+"code": "238090",
+"ret": 12.4,
+"value": 7788,
+"theme": "아이폰",
+"reason": "테마: 아이폰"
+},
+{
+"name": "SDN",
+"code": "099220",
+"ret": 29.99,
+"value": 6069,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "남성",
+"code": "004270",
+"ret": 11.02,
+"value": 2275,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "코리아에프티",
+"code": "123410",
+"ret": 12.64,
+"value": 1548,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

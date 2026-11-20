@@ -1,0 +1,254 @@
+{
+"date": "20220907",
+"kospi": -1.39,
+"kosdaq": -1.45,
+"adv": 316,
+"dec": 1674,
+"flat": 108,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 129788,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "지아이텍",
+"lead_ret": 24.29,
+"second": "에이프로",
+"second_ret": 15.0
+},
+{
+"name": "스마트폰",
+"n": 5,
+"lead": "엑스플러스",
+"lead_ret": 11.08,
+"second": "레몬",
+"second_ret": 7.48
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "예선테크",
+"lead_ret": 29.84,
+"second": "엘디티",
+"second_ret": 7.43
+}
+],
+"themes": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": 7.59,
+"up5": 4,
+"lead": "한국정보통신",
+"lead_ret": 29.82,
+"second": "엑스플러스",
+"second_ret": 11.08
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.96,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 19.91,
+"second": "한일화학",
+"second_ret": 16.81
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.96,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 19.91,
+"second": "한일화학",
+"second_ret": 16.81
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.95,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.82,
+"second": "신세계",
+"second_ret": -0.89
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.75,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 7.19,
+"second": "이루온",
+"second_ret": 3.25
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 1.69,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 9.45,
+"second": "나인테크",
+"second_ret": 4.61
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 1.65,
+"up5": 4,
+"lead": "에코프로",
+"lead_ret": 9.45,
+"second": "웰크론한텍",
+"second_ret": 8.82
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.4,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 19.91,
+"second": "에코프로",
+"second_ret": 9.45
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.18,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 3.87,
+"second": "현대위아",
+"second_ret": 2.22
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 0.79,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.82,
+"second": "KG이니시스",
+"second_ret": 4.6
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 0.32,
+"up5": 3,
+"lead": "레몬",
+"lead_ret": 7.48,
+"second": "성우전자",
+"second_ret": 7.19
+},
+{
+"name": "2차전지(장비)",
+"n": 36,
+"avg": 0.22,
+"up5": 3,
+"lead": "지아이텍",
+"lead_ret": 24.29,
+"second": "에이프로",
+"second_ret": 15.0
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 18,
+"avg": -4.44,
+"up5": 0,
+"lead": "엔젠바이오",
+"lead_ret": -1.55,
+"second": "폴라리스오피스",
+"second_ret": -1.87
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -4.14,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": -2.2,
+"second": "고려제강",
+"second_ret": -2.53
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -3.99,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": -1.18,
+"second": "대한제당",
+"second_ret": -1.32
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -3.93,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 0.0,
+"second": "현대건설",
+"second_ret": -1.46
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.87,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -0.83,
+"second": "샘표",
+"second_ret": -2.16
+}
+],
+"leaders": [
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 19.91,
+"value": 3659,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "지아이텍",
+"code": "382480",
+"ret": 24.29,
+"value": 2062,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한국정보통신",
+"code": "025770",
+"ret": 29.82,
+"value": 1193,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "보령",
+"code": "003850",
+"ret": 11.94,
+"value": 1156,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "엑스플러스",
+"code": "373200",
+"ret": 11.08,
+"value": 657,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

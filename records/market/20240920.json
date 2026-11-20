@@ -1,0 +1,254 @@
+{
+"date": "20240920",
+"kospi": 0.49,
+"kosdaq": 1.19,
+"adv": 1365,
+"dec": 766,
+"flat": 151,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 200614,
+"hot": [
+{
+"name": "치매",
+"n": 5,
+"lead": "엔젠바이오",
+"lead_ret": 30.0,
+"second": "유한양행",
+"second_ret": 15.86
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "JW신약",
+"lead_ret": 24.5,
+"second": "녹십자웰빙",
+"second_ret": 19.57
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "SNT다이내믹스",
+"lead_ret": 19.21,
+"second": "KBI메탈",
+"second_ret": 18.77
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.25,
+"up5": 3,
+"lead": "KBI메탈",
+"lead_ret": 18.77,
+"second": "가온전선",
+"second_ret": 5.98
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 4.17,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 12.0,
+"second": "흥아해운",
+"second_ret": 7.65
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 4.05,
+"up5": 2,
+"lead": "엔비티",
+"lead_ret": 14.43,
+"second": "이월드",
+"second_ret": 6.12
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.02,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 9.07,
+"second": "JW중외제약",
+"second_ret": 5.12
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 4.02,
+"up5": 1,
+"lead": "유한양행",
+"lead_ret": 15.86,
+"second": "서울제약",
+"second_ret": 2.67
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.99,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 30.0,
+"second": "비츠로테크",
+"second_ret": 4.61
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.39,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 30.0,
+"second": "덕성",
+"second_ret": 5.64
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.15,
+"up5": 2,
+"lead": "사조씨푸드",
+"lead_ret": 15.28,
+"second": "사조산업",
+"second_ret": 6.49
+},
+{
+"name": "의료AI",
+"n": 23,
+"avg": 2.99,
+"up5": 5,
+"lead": "엔젠바이오",
+"lead_ret": 30.0,
+"second": "제이엘케이",
+"second_ret": 7.92
+},
+{
+"name": "퓨리오사AI",
+"n": 9,
+"avg": 2.84,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 16.5,
+"second": "토마토시스템",
+"second_ret": 3.68
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.7,
+"up5": 2,
+"lead": "SNT다이내믹스",
+"lead_ret": 19.21,
+"second": "루트K",
+"second_ret": 6.52
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.66,
+"up5": 6,
+"lead": "유한양행",
+"lead_ret": 15.86,
+"second": "앱클론",
+"second_ret": 14.51
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -2.35,
+"up5": 0,
+"lead": "풍산",
+"lead_ret": 4.1,
+"second": "누리플렉스",
+"second_ret": -0.37
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -1.81,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 4.61,
+"second": "위드텍",
+"second_ret": 2.87
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": -1.44,
+"up5": 0,
+"lead": "태광",
+"lead_ret": 2.91,
+"second": "성광벤드",
+"second_ret": 2.64
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -1.12,
+"up5": 0,
+"lead": "메카로",
+"lead_ret": 0.78,
+"second": "야스",
+"second_ret": 0.41
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -1.09,
+"up5": 0,
+"lead": "파트론",
+"lead_ret": 3.05,
+"second": "브리지텍",
+"second_ret": 1.32
+}
+],
+"leaders": [
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 15.86,
+"value": 20633,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "넥스트바이오메디컬",
+"code": "389650",
+"ret": 19.1,
+"value": 4069,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "녹십자웰빙",
+"code": "234690",
+"ret": 19.57,
+"value": 1770,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "제일일렉트릭",
+"code": "199820",
+"ret": 15.3,
+"value": 1445,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "젬백스",
+"code": "082270",
+"ret": 14.74,
+"value": 1138,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

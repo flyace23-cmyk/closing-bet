@@ -1,0 +1,254 @@
+{
+"date": "20230414",
+"kospi": 0.38,
+"kosdaq": 1.07,
+"adv": 1334,
+"dec": 696,
+"flat": 118,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 247591,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "삼아알미늄",
+"lead_ret": 20.45,
+"second": "윤성에프앤씨",
+"second_ret": 16.17
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "박셀바이오",
+"lead_ret": 29.89,
+"second": "큐리언트",
+"second_ret": 17.22
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "진매트릭스",
+"lead_ret": 22.08,
+"second": "네이처셀",
+"second_ret": 16.67
+}
+],
+"themes": [
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 5.14,
+"up5": 4,
+"lead": "풍전약품",
+"lead_ret": 16.89,
+"second": "네이처셀",
+"second_ret": 16.67
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 4.81,
+"up5": 7,
+"lead": "포스코엠텍",
+"lead_ret": 23.48,
+"second": "삼아알미늄",
+"second_ret": 20.45
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 4.69,
+"up5": 4,
+"lead": "포스코인터내셔널",
+"lead_ret": 19.1,
+"second": "현대비앤지스틸",
+"second_ret": 15.47
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": 4.55,
+"up5": 9,
+"lead": "진매트릭스",
+"lead_ret": 22.08,
+"second": "네이처셀",
+"second_ret": 16.67
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.47,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 14.61,
+"second": "SAMG엔터",
+"second_ret": 4.87
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 4.46,
+"up5": 11,
+"lead": "박셀바이오",
+"lead_ret": 29.89,
+"second": "큐리언트",
+"second_ret": 17.22
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.16,
+"up5": 3,
+"lead": "케스피온",
+"lead_ret": 29.91,
+"second": "아모센스",
+"second_ret": 15.19
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.16,
+"up5": 3,
+"lead": "케스피온",
+"lead_ret": 29.91,
+"second": "아모센스",
+"second_ret": 15.19
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.75,
+"up5": 6,
+"lead": "포스코엠텍",
+"lead_ret": 23.48,
+"second": "포스코퓨처엠",
+"second_ret": 13.04
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.63,
+"up5": 1,
+"lead": "대산F&B",
+"lead_ret": 30.0,
+"second": "팜스토리",
+"second_ret": 1.65
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.43,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 19.1,
+"second": "코오롱글로벌",
+"second_ret": 3.97
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.35,
+"up5": 2,
+"lead": "포스코스틸리온",
+"lead_ret": 14.81,
+"second": "POSCO홀딩스",
+"second_ret": 6.26
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -2.08,
+"up5": 0,
+"lead": "네패스",
+"lead_ret": -0.22,
+"second": "네패스아크",
+"second_ret": -1.32
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.31,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 0.42,
+"second": "휴비스",
+"second_ret": -0.19
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -1.24,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.68,
+"second": "심텍",
+"second_ret": 0.66
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": -1.15,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 2.12,
+"second": "SK",
+"second_ret": 1.16
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -1.12,
+"up5": 0,
+"lead": "현대바이오랜드",
+"lead_ret": 2.91,
+"second": "디오",
+"second_ret": 2.07
+}
+],
+"leaders": [
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 13.04,
+"value": 9496,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 23.48,
+"value": 6544,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 19.1,
+"value": 4854,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 16.67,
+"value": 3207,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 29.89,
+"value": 2402,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220117",
+"kospi": -1.09,
+"kosdaq": -1.39,
+"adv": 352,
+"dec": 1598,
+"flat": 108,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 170259,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "성우테크론",
+"lead_ret": 29.95,
+"second": "프로이천",
+"second_ret": 9.02
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "바텍",
+"lead_ret": 8.32,
+"second": "피제이전자",
+"second_ret": 7.96
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "웹스",
+"lead_ret": 17.87,
+"second": "모베이스전자",
+"second_ret": 12.78
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 0.5,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 8.47,
+"second": "사조대림",
+"second_ret": 1.62
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 0.41,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 10.36,
+"second": "동아지질",
+"second_ret": 2.47
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 0.29,
+"up5": 2,
+"lead": "희림",
+"lead_ret": 18.2,
+"second": "LS마린솔루션",
+"second_ret": 10.36
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 0.21,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 10.36,
+"second": "LS에코에너지",
+"second_ret": 2.28
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.14,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 4.86,
+"second": "GS리테일",
+"second_ret": -0.35
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": -0.18,
+"up5": 2,
+"lead": "성우테크론",
+"lead_ret": 29.95,
+"second": "이브이첨단소재",
+"second_ret": 6.42
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -0.21,
+"up5": 0,
+"lead": "조광페인트",
+"lead_ret": 4.36,
+"second": "노루홀딩스",
+"second_ret": 1.18
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.26,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 0.98,
+"second": "토비스",
+"second_ret": 0.98
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.26,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 0.98,
+"second": "토비스",
+"second_ret": 0.98
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.32,
+"up5": 1,
+"lead": "우진",
+"lead_ret": 9.27,
+"second": "우리기술",
+"second_ret": 0.71
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.34,
+"up5": 0,
+"lead": "에코프로비엠",
+"lead_ret": 0.49,
+"second": "에코프로",
+"second_ret": 0.2
+},
+{
+"name": "온디바이스 AI",
+"n": 17,
+"avg": -0.36,
+"up5": 1,
+"lead": "텔레칩스",
+"lead_ret": 5.2,
+"second": "리노공업",
+"second_ret": 2.46
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -5.76,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": -2.44,
+"second": "아이티센씨티에스",
+"second_ret": -2.72
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -5.73,
+"up5": 0,
+"lead": "하이비젼시스템",
+"lead_ret": 0.68,
+"second": "에스티아이",
+"second_ret": -2.37
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -3.91,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": 0.0,
+"second": "손오공",
+"second_ret": -3.03
+},
+{
+"name": "탈모 치료",
+"n": 22,
+"avg": -3.7,
+"up5": 0,
+"lead": "이노진",
+"lead_ret": 1.45,
+"second": "바이오니아",
+"second_ret": -0.11
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.68,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.12,
+"second": "삼성중공업",
+"second_ret": -2.47
+}
+],
+"leaders": [
+{
+"name": "지아이텍",
+"code": "382480",
+"ret": 29.89,
+"value": 1591,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "웹스",
+"code": "196700",
+"ret": 17.87,
+"value": 1538,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "성우테크론",
+"code": "045300",
+"ret": 29.95,
+"value": 1284,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 11.07,
+"value": 1047,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "희림",
+"code": "037440",
+"ret": 18.2,
+"value": 535,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240925",
+"kospi": -1.34,
+"kosdaq": -1.05,
+"adv": 996,
+"dec": 1143,
+"flat": 144,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 173769,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "펨트론",
+"lead_ret": 20.09,
+"second": "알멕",
+"second_ret": 18.81
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 4,
+"lead": "케이옥션",
+"lead_ret": 29.79,
+"second": "서울옥션",
+"second_ret": 15.24
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "헝셩그룹",
+"lead_ret": 29.9,
+"second": "컬러레이",
+"second_ret": 10.75
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 7.5,
+"up5": 5,
+"lead": "헝셩그룹",
+"lead_ret": 29.9,
+"second": "크리스탈신소재",
+"second_ret": 17.88
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.77,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 5.98,
+"second": "STX그린로지스",
+"second_ret": 5.09
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.66,
+"up5": 2,
+"lead": "애드바이오텍",
+"lead_ret": 29.89,
+"second": "케이씨피드",
+"second_ret": 13.5
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.59,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 29.9,
+"second": "제로투세븐",
+"second_ret": 5.96
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 2.28,
+"up5": 3,
+"lead": "헝셩그룹",
+"lead_ret": 29.9,
+"second": "제로투세븐",
+"second_ret": 5.96
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 2.25,
+"up5": 3,
+"lead": "이스트소프트",
+"lead_ret": 11.39,
+"second": "샌즈랩",
+"second_ret": 9.69
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.12,
+"up5": 3,
+"lead": "서울옥션",
+"lead_ret": 15.24,
+"second": "핑거",
+"second_ret": 14.41
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.01,
+"up5": 4,
+"lead": "케이옥션",
+"lead_ret": 29.79,
+"second": "서울옥션",
+"second_ret": 15.24
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.6,
+"up5": 1,
+"lead": "펨트론",
+"lead_ret": 20.09,
+"second": "티에프이",
+"second_ret": 3.04
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.58,
+"up5": 1,
+"lead": "푸드나무",
+"lead_ret": 12.92,
+"second": "마니커에프앤지",
+"second_ret": 0.71
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.57,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 7.37,
+"second": "비츠로테크",
+"second_ret": 3.96
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.51,
+"up5": 1,
+"lead": "크리스탈신소재",
+"lead_ret": 17.88,
+"second": "오리엔트정공",
+"second_ret": 2.9
+}
+],
+"themes_worst": [
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -3.75,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 0.72,
+"second": "팬젠",
+"second_ret": 0.12
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.4,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": -1.45,
+"second": "대우건설",
+"second_ret": -1.89
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.24,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.1,
+"second": "삼성전자",
+"second_ret": -1.58
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -3.23,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": -1.65,
+"second": "흥국화재",
+"second_ret": -1.74
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -3.13,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.23,
+"second": "우리금융지주",
+"second_ret": -1.33
+}
+],
+"leaders": [
+{
+"name": "핑거",
+"code": "163730",
+"ret": 14.41,
+"value": 3010,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 21.9,
+"value": 1143,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "케이옥션",
+"code": "102370",
+"ret": 29.79,
+"value": 1076,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 12.04,
+"value": 594,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "형지엘리트",
+"code": "093240",
+"ret": 29.84,
+"value": 536,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

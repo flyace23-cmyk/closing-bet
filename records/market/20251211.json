@@ -1,0 +1,254 @@
+{
+"date": "20251211",
+"kospi": -0.59,
+"kosdaq": -0.04,
+"adv": 1412,
+"dec": 845,
+"flat": 134,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 289113,
+"hot": [
+{
+"name": "부동산 보유 자산주",
+"n": 9,
+"lead": "동양고속",
+"lead_ret": 29.99,
+"second": "하림지주",
+"second_ret": 29.99
+},
+{
+"name": "자율주행차",
+"n": 4,
+"lead": "넥스트칩",
+"lead_ret": 17.26,
+"second": "엣지파운드리",
+"second_ret": 15.55
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "신원종합개발",
+"lead_ret": 30.0,
+"second": "상지건설",
+"second_ret": 18.55
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 18.74,
+"up5": 3,
+"lead": "동양고속",
+"lead_ret": 29.99,
+"second": "대성산업",
+"second_ret": 29.97
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 13.09,
+"up5": 16,
+"lead": "동양고속",
+"lead_ret": 29.99,
+"second": "하림지주",
+"second_ret": 29.99
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 4.88,
+"up5": 6,
+"lead": "신원종합개발",
+"lead_ret": 30.0,
+"second": "상지건설",
+"second_ret": 18.55
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 4.56,
+"up5": 3,
+"lead": "삼표시멘트",
+"lead_ret": 29.94,
+"second": "모헨즈",
+"second_ret": 9.89
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.1,
+"up5": 1,
+"lead": "삼성화재",
+"lead_ret": 28.31,
+"second": "서울보증보험",
+"second_ret": 1.41
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.76,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 11.84,
+"second": "지씨셀",
+"second_ret": 6.38
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.33,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 29.97,
+"second": "중앙에너비스",
+"second_ret": 1.87
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.33,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 29.97,
+"second": "중앙에너비스",
+"second_ret": 1.87
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.26,
+"up5": 3,
+"lead": "엑세스바이오",
+"lead_ret": 13.1,
+"second": "팜젠사이언스",
+"second_ret": 5.59
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 3.19,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 7.84,
+"second": "한국종합기술",
+"second_ret": 3.05
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.04,
+"up5": 2,
+"lead": "드림씨아이에스",
+"lead_ret": 12.03,
+"second": "티앤알바이오팹",
+"second_ret": 6.01
+},
+{
+"name": "유전자 치료제/분석",
+"n": 38,
+"avg": 3.04,
+"up5": 9,
+"lead": "지니너스",
+"lead_ret": 13.54,
+"second": "엑세스바이오",
+"second_ret": 13.1
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.8,
+"up5": 0,
+"lead": "기아",
+"lead_ret": -0.41,
+"second": "현대모비스",
+"second_ret": -0.41
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -1.57,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": 0.83,
+"second": "엠케이전자",
+"second_ret": 0.0
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.37,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 0.52,
+"second": "LG전자",
+"second_ret": 0.21
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.36,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 1.82,
+"second": "삼성전기",
+"second_ret": 0.37
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": -1.31,
+"up5": 0,
+"lead": "오텍",
+"lead_ret": 0.75,
+"second": "LG전자",
+"second_ret": 0.21
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 24.62,
+"value": 9506,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "이뮨온시아",
+"code": "424870",
+"ret": 22.2,
+"value": 3571,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "천일고속",
+"code": "000650",
+"ret": 26.56,
+"value": 2508,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 29.97,
+"value": 2242,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+},
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 29.94,
+"value": 1481,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+}
+],
+"backfilled": true
+}

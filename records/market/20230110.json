@@ -1,0 +1,254 @@
+{
+"date": "20230110",
+"kospi": 0.05,
+"kosdaq": -0.74,
+"adv": 1015,
+"dec": 904,
+"flat": 209,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 119757,
+"hot": [
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 4,
+"lead": "LS티라유텍",
+"lead_ret": 29.97,
+"second": "MDS테크",
+"second_ret": 18.04
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "LS티라유텍",
+"lead_ret": 29.97,
+"second": "유일로보틱스",
+"second_ret": 15.93
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "한신기계",
+"lead_ret": 8.42,
+"second": "오르비텍",
+"second_ret": 8.22
+}
+],
+"themes": [
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 32,
+"avg": 3.64,
+"up5": 7,
+"lead": "LS티라유텍",
+"lead_ret": 29.97,
+"second": "MDS테크",
+"second_ret": 18.04
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.19,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 23.12,
+"second": "이건홀딩스",
+"second_ret": 3.71
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.19,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 23.12,
+"second": "이건홀딩스",
+"second_ret": 3.71
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.02,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 23.12,
+"second": "GS건설",
+"second_ret": 2.16
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.88,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 6.87,
+"second": "사조대림",
+"second_ret": 6.22
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 2.62,
+"up5": 6,
+"lead": "코난테크놀로지",
+"lead_ret": 24.55,
+"second": "바이브컴퍼니",
+"second_ret": 7.49
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 2.41,
+"up5": 8,
+"lead": "코난테크놀로지",
+"lead_ret": 24.55,
+"second": "유일로보틱스",
+"second_ret": 15.93
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.34,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 6.87,
+"second": "사조대림",
+"second_ret": 6.22
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.13,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 8.22,
+"second": "비츠로테크",
+"second_ret": 6.61
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.09,
+"up5": 3,
+"lead": "자연과환경",
+"lead_ret": 23.12,
+"second": "대우건설",
+"second_ret": 5.44
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.99,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 23.12,
+"second": "누리플랜",
+"second_ret": 4.19
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.96,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 18.04,
+"second": "DB하이텍",
+"second_ret": 2.09
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.92,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -2.3,
+"second": "차바이오텍",
+"second_ret": -2.93
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": -2.98,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": 0.53,
+"second": "엔비티",
+"second_ret": 0.17
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.64,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.27,
+"second": "엔투텍",
+"second_ret": -0.83
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.11,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": -0.4,
+"second": "대한약품",
+"second_ret": -0.5
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -2.08,
+"up5": 0,
+"lead": "안트로젠",
+"lead_ret": 0.34,
+"second": "마크로젠",
+"second_ret": 0.25
+}
+],
+"leaders": [
+{
+"name": "유일로보틱스",
+"code": "388720",
+"ret": 15.93,
+"value": 1559,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "멕아이씨에스",
+"code": "058110",
+"ret": 12.64,
+"value": 1332,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 24.55,
+"value": 1299,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "제이케이시냅스",
+"code": "060230",
+"ret": 16.43,
+"value": 1153,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "밸로프",
+"code": "331520",
+"ret": 10.73,
+"value": 753,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

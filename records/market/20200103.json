@@ -1,0 +1,254 @@
+{
+"date": "20200103",
+"kospi": 0.06,
+"kosdaq": -0.61,
+"adv": 772,
+"dec": 939,
+"flat": 191,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 100935,
+"hot": [
+{
+"name": "제약업체",
+"n": 5,
+"lead": "비보존 제약",
+"lead_ret": 22.81,
+"second": "진양제약",
+"second_ret": 17.91
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "라온피플",
+"lead_ret": 15.47,
+"second": "큐렉소",
+"second_ret": 9.3
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "솔루스첨단소재",
+"lead_ret": 10.41,
+"second": "뉴파워프라즈마",
+"second_ret": 7.37
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.1,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "중앙에너비스",
+"second_ret": 20.48
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.1,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "중앙에너비스",
+"second_ret": 20.48
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 5.57,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 4.07
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.85,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "중앙에너비스",
+"second_ret": 20.48
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.43,
+"up5": 1,
+"lead": "우원개발",
+"lead_ret": 11.3,
+"second": "LS마린솔루션",
+"second_ret": 3.52
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.15,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 13.37,
+"second": "극동유화",
+"second_ret": 4.07
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 1.98,
+"up5": 1,
+"lead": "엔키AX",
+"lead_ret": 29.92,
+"second": "조이시티",
+"second_ret": 3.01
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.73,
+"up5": 1,
+"lead": "SH에너지화학",
+"lead_ret": 9.22,
+"second": "한국카본",
+"second_ret": 4.1
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 1.69,
+"up5": 3,
+"lead": "씨티씨바이오",
+"lead_ret": 14.4,
+"second": "파루",
+"second_ret": 11.09
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 1.66,
+"up5": 1,
+"lead": "디와이파워",
+"lead_ret": 6.86,
+"second": "서연탑메탈",
+"second_ret": 3.9
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 1.62,
+"up5": 1,
+"lead": "라온피플",
+"lead_ret": 15.47,
+"second": "베뉴지",
+"second_ret": 3.42
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 1.61,
+"up5": 1,
+"lead": "엑시콘",
+"lead_ret": 6.71,
+"second": "오킨스전자",
+"second_ret": 4.99
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.15,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 3.03,
+"second": "인성정보",
+"second_ret": 2.11
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": -1.93,
+"up5": 0,
+"lead": "큐리언트",
+"lead_ret": 1.22,
+"second": "압타바이오",
+"second_ret": 0.15
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.64,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.38,
+"second": "차바이오텍",
+"second_ret": -0.69
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": -1.5,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": -0.66,
+"second": "티앤알바이오팹",
+"second_ret": -1.01
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": -1.49,
+"up5": 0,
+"lead": "동운아나텍",
+"lead_ret": 1.61,
+"second": "에프에스티",
+"second_ret": 1.25
+}
+],
+"leaders": [
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 13.2,
+"value": 4009,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 29.93,
+"value": 1668,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "씨티알모빌리티",
+"code": "308170",
+"ret": 30.0,
+"value": 1045,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "폴라리스AI파마",
+"code": "041910",
+"ret": 12.32,
+"value": 1009,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "비보존 제약",
+"code": "082800",
+"ret": 22.81,
+"value": 972,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

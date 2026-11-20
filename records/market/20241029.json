@@ -1,0 +1,254 @@
+{
+"date": "20241029",
+"kospi": 0.21,
+"kosdaq": 0.5,
+"adv": 1057,
+"dec": 1068,
+"flat": 169,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 143556,
+"hot": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 6,
+"lead": "서울옥션",
+"lead_ret": 21.39,
+"second": "핑거",
+"second_ret": 19.72
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 6,
+"lead": "우리기술투자",
+"lead_ret": 14.37,
+"second": "위메이드",
+"second_ret": 12.59
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "지아이에스",
+"lead_ret": 16.67,
+"second": "주성엔지니어링",
+"second_ret": 14.79
+}
+],
+"themes": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.8,
+"up5": 8,
+"lead": "서울옥션",
+"lead_ret": 21.39,
+"second": "핑거",
+"second_ret": 19.72
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 4.66,
+"up5": 9,
+"lead": "서울옥션",
+"lead_ret": 21.39,
+"second": "핑거",
+"second_ret": 19.72
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 4.16,
+"up5": 11,
+"lead": "우리기술투자",
+"lead_ret": 14.37,
+"second": "위메이드",
+"second_ret": 12.59
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 3.77,
+"up5": 3,
+"lead": "HLB제넥스",
+"lead_ret": 29.86,
+"second": "유바이오로직스",
+"second_ret": 27.51
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.48,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 7.53,
+"second": "SBI인베스트먼트",
+"second_ret": 3.95
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.43,
+"up5": 1,
+"lead": "유바이오로직스",
+"lead_ret": 27.51,
+"second": "휴온스글로벌",
+"second_ret": 4.44
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 3.15,
+"up5": 5,
+"lead": "핑거",
+"lead_ret": 19.72,
+"second": "위메이드",
+"second_ret": 12.59
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.95,
+"up5": 2,
+"lead": "지아이에스",
+"lead_ret": 16.67,
+"second": "주성엔지니어링",
+"second_ret": 14.79
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 2.82,
+"up5": 3,
+"lead": "한화비전",
+"lead_ret": 9.3,
+"second": "코콤",
+"second_ret": 8.14
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.79,
+"up5": 1,
+"lead": "부산산업",
+"lead_ret": 17.8,
+"second": "우원개발",
+"second_ret": 1.97
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.74,
+"up5": 3,
+"lead": "일신석재",
+"lead_ret": 25.98,
+"second": "씨아이테크",
+"second_ret": 8.54
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 2.72,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 10.66,
+"second": "코나아이",
+"second_ret": 2.19
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.69,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 0.53,
+"second": "현대차",
+"second_ret": -1.1
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.21,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 0.88,
+"second": "제이오",
+"second_ret": -1.72
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.88,
+"up5": 0,
+"lead": "성일하이텍",
+"lead_ret": 0.55,
+"second": "천보",
+"second_ret": 0.0
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": -1.28,
+"up5": 0,
+"lead": "한화솔루션",
+"lead_ret": 0.69,
+"second": "동성케미컬",
+"second_ret": 0.6
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.27,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.31,
+"second": "HD현대중공업",
+"second_ret": -0.11
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 14.37,
+"value": 2182,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 27.51,
+"value": 1845,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 18.6,
+"value": 1845,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 14.79,
+"value": 1369,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "핑거",
+"code": "163730",
+"ret": 19.72,
+"value": 1173,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+}
+],
+"backfilled": true
+}

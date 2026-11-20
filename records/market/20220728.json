@@ -1,0 +1,254 @@
+{
+"date": "20220728",
+"kospi": 0.82,
+"kosdaq": 0.33,
+"adv": 999,
+"dec": 858,
+"flat": 233,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 137203,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "조일알미늄",
+"lead_ret": 29.74,
+"second": "포스코퓨처엠",
+"second_ret": 16.81
+},
+{
+"name": "태양광에너지",
+"n": 6,
+"lead": "한화솔루션",
+"lead_ret": 20.37,
+"second": "지투파워",
+"second_ret": 17.9
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "지투파워",
+"lead_ret": 17.9,
+"second": "디티앤씨",
+"second_ret": 10.13
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.76,
+"up5": 2,
+"lead": "한화솔루션",
+"lead_ret": 20.37,
+"second": "HD현대에너지솔루션",
+"second_ret": 13.97
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 4.43,
+"up5": 5,
+"lead": "조일알미늄",
+"lead_ret": 29.74,
+"second": "삼아알미늄",
+"second_ret": 14.17
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.03,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 15.52,
+"second": "유니온머티리얼",
+"second_ret": 1.81
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.92,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 29.88,
+"second": "한솔테크닉스",
+"second_ret": 10.96
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.92,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 29.88,
+"second": "한솔테크닉스",
+"second_ret": 10.96
+},
+{
+"name": "태양광에너지",
+"n": 38,
+"avg": 3.4,
+"up5": 8,
+"lead": "한화솔루션",
+"lead_ret": 20.37,
+"second": "지투파워",
+"second_ret": 17.9
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.3,
+"up5": 2,
+"lead": "한솔테크닉스",
+"lead_ret": 10.96,
+"second": "이랜텍",
+"second_ret": 7.23
+},
+{
+"name": "리튬",
+"n": 19,
+"avg": 2.98,
+"up5": 4,
+"lead": "미래나노텍",
+"lead_ret": 29.88,
+"second": "포스코퓨처엠",
+"second_ret": 16.81
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 2.52,
+"up5": 3,
+"lead": "한화솔루션",
+"lead_ret": 20.37,
+"second": "켐트로스",
+"second_ret": 7.59
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.51,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 15.52,
+"second": "효성오앤비",
+"second_ret": 1.95
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 2.3,
+"up5": 1,
+"lead": "아모텍",
+"lead_ret": 6.72,
+"second": "원준",
+"second_ret": 4.57
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 2.14,
+"up5": 4,
+"lead": "씨에스윈드",
+"lead_ret": 10.23,
+"second": "씨에스베어링",
+"second_ret": 9.43
+}
+],
+"themes_worst": [
+{
+"name": "폐배터리",
+"n": 17,
+"avg": -2.3,
+"up5": 1,
+"lead": "LG에너지솔루션",
+"lead_ret": 5.59,
+"second": "나인테크",
+"second_ret": 1.17
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.0,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 2.45,
+"second": "대한해운",
+"second_ret": -0.21
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.71,
+"up5": 0,
+"lead": "엑세스바이오",
+"lead_ret": 0.0,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -1.61,
+"up5": 1,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 6.49,
+"second": "쎌바이오텍",
+"second_ret": 0.74
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.6,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.13,
+"second": "IPARK현대산업개발",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 20.37,
+"value": 6456,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 16.81,
+"value": 5972,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "지투파워",
+"code": "388050",
+"ret": 17.9,
+"value": 3297,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 17.12,
+"value": 1653,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 29.74,
+"value": 1573,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

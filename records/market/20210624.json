@@ -1,0 +1,246 @@
+{
+"date": "20210624",
+"kospi": 0.3,
+"kosdaq": -0.38,
+"adv": 764,
+"dec": 1047,
+"flat": 201,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 325548,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "네오오토",
+"lead_ret": 29.92,
+"second": "화신",
+"second_ret": 17.42
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "세아베스틸지주",
+"lead_ret": 10.79,
+"second": "웅진",
+"second_ret": 8.77
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.12,
+"up5": 2,
+"lead": "세아베스틸지주",
+"lead_ret": 10.79,
+"second": "포스코스틸리온",
+"second_ret": 9.8
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.93,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 11.18,
+"second": "성우전자",
+"second_ret": 3.13
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.28,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 8.78,
+"second": "국보디자인",
+"second_ret": 1.23
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 1.67,
+"up5": 2,
+"lead": "에이치엠넥스",
+"lead_ret": 12.35,
+"second": "SJG세종",
+"second_ret": 6.58
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.58,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 4.13,
+"second": "SK하이닉스",
+"second_ret": 1.61
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.57,
+"up5": 2,
+"lead": "NE능률",
+"lead_ret": 18.3,
+"second": "아이비김영",
+"second_ret": 5.76
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.41,
+"up5": 1,
+"lead": "위즈코프",
+"lead_ret": 9.55,
+"second": "SK이노베이션",
+"second_ret": 3.34
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 1.33,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 2.64,
+"second": "하나금융지주",
+"second_ret": 1.89
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": 1.31,
+"up5": 1,
+"lead": "LG이노텍",
+"lead_ret": 5.23,
+"second": "LG전자",
+"second_ret": 4.13
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.31,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 2.87,
+"second": "DL이앤씨",
+"second_ret": 2.26
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 1.28,
+"up5": 1,
+"lead": "한세엠케이",
+"lead_ret": 29.99,
+"second": "골프존",
+"second_ret": 2.51
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.21,
+"up5": 1,
+"lead": "태경비케이",
+"lead_ret": 6.15,
+"second": "KG케미칼",
+"second_ret": 4.92
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.99,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 0.53,
+"second": "드림씨아이에스",
+"second_ret": 0.32
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 18,
+"avg": -1.97,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.38,
+"second": "인바디",
+"second_ret": 0.16
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -1.89,
+"up5": 0,
+"lead": "미디어젠",
+"lead_ret": 0.68,
+"second": "파인디지털",
+"second_ret": 0.59
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": -1.88,
+"up5": 0,
+"lead": "에스엠",
+"lead_ret": 1.44,
+"second": "CJ ENM",
+"second_ret": 1.19
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -1.82,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": 1.89,
+"second": "한화투자증권",
+"second_ret": 1.16
+}
+],
+"leaders": [
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 18.3,
+"value": 4199,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 11.18,
+"value": 2285,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "화신",
+"code": "010690",
+"ret": 17.42,
+"value": 2243,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한세엠케이",
+"code": "069640",
+"ret": 29.99,
+"value": 1891,
+"theme": "골프",
+"reason": "테마: 골프"
+},
+{
+"name": "SB성보",
+"code": "003080",
+"ret": 10.47,
+"value": 1126,
+"theme": "농업",
+"reason": "테마: 농업"
+}
+],
+"backfilled": true
+}

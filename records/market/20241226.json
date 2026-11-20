@@ -1,0 +1,254 @@
+{
+"date": "20241226",
+"kospi": -0.44,
+"kosdaq": -0.66,
+"adv": 690,
+"dec": 1525,
+"flat": 104,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 116499,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "마음AI",
+"lead_ret": 21.23,
+"second": "피앤에스로보틱스",
+"second_ret": 14.51
+},
+{
+"name": "통신장비",
+"n": 5,
+"lead": "케이엠더블유",
+"lead_ret": 13.86,
+"second": "CS",
+"second_ret": 13.26
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "삼현",
+"lead_ret": 22.19,
+"second": "신성델타테크",
+"second_ret": 19.31
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 3.48,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 9.56,
+"second": "한화오션",
+"second_ret": 4.86
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.36,
+"up5": 2,
+"lead": "신성델타테크",
+"lead_ret": 19.31,
+"second": "원익피앤이",
+"second_ret": 5.33
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.43,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 6.02,
+"second": "샘표식품",
+"second_ret": 3.78
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.33,
+"up5": 1,
+"lead": "한국첨단소재",
+"lead_ret": 12.44,
+"second": "RF머트리얼즈",
+"second_ret": 3.82
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.21,
+"up5": 1,
+"lead": "휴림로봇",
+"lead_ret": 8.34,
+"second": "티앤알바이오팹",
+"second_ret": 4.48
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 40,
+"avg": 1.19,
+"up5": 3,
+"lead": "삼현",
+"lead_ret": 22.19,
+"second": "마음AI",
+"second_ret": 21.23
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 1.14,
+"up5": 6,
+"lead": "케이엠더블유",
+"lead_ret": 13.86,
+"second": "CS",
+"second_ret": 13.26
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 1.0,
+"up5": 4,
+"lead": "쏠리드",
+"lead_ret": 12.92,
+"second": "한국첨단소재",
+"second_ret": 12.44
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 29,
+"avg": 0.92,
+"up5": 2,
+"lead": "마음AI",
+"lead_ret": 21.23,
+"second": "글로벌텍스프리",
+"second_ret": 5.37
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 57,
+"avg": 0.91,
+"up5": 6,
+"lead": "마음AI",
+"lead_ret": 21.23,
+"second": "피앤에스로보틱스",
+"second_ret": 14.51
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 0.89,
+"up5": 2,
+"lead": "넥써쓰",
+"lead_ret": 30.0,
+"second": "드림시큐리티",
+"second_ret": 6.79
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 0.84,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 10.27,
+"second": "나이스정보통신",
+"second_ret": 0.71
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -4.02,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": -1.82,
+"second": "갤럭시아머니트리",
+"second_ret": -2.75
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.66,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": -0.09,
+"second": "강스템바이오텍",
+"second_ret": -1.0
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.41,
+"up5": 0,
+"lead": "대보마그네틱",
+"lead_ret": -0.13,
+"second": "세방전지",
+"second_ret": -0.28
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.39,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": -1.98,
+"second": "상보",
+"second_ret": -2.07
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.33,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.95,
+"second": "LB인베스트먼트",
+"second_ret": 0.62
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 19.31,
+"value": 2614,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "쏠리드",
+"code": "050890",
+"ret": 12.92,
+"value": 1697,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "하이젠알앤엠",
+"code": "160190",
+"ret": 18.04,
+"value": 1350,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 30.0,
+"value": 1145,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "마음AI",
+"code": "377480",
+"ret": 21.23,
+"value": 869,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

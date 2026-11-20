@@ -1,0 +1,254 @@
+{
+"date": "20200410",
+"kospi": 1.33,
+"kosdaq": -0.76,
+"adv": 739,
+"dec": 1035,
+"flat": 136,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 371630,
+"hot": [
+{
+"name": "영상콘텐츠",
+"n": 5,
+"lead": "초록뱀미디어",
+"lead_ret": 29.82,
+"second": "키이스트",
+"second_ret": 18.41
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "테라젠이텍스",
+"lead_ret": 29.67,
+"second": "삼성바이오로직스",
+"second_ret": 16.82
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "신풍제약",
+"lead_ret": 16.14,
+"second": "유바이오로직스",
+"second_ret": 14.12
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.01,
+"up5": 3,
+"lead": "한화생명",
+"lead_ret": 21.55,
+"second": "한화투자증권",
+"second_ret": 8.05
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 5.81,
+"up5": 9,
+"lead": "초록뱀미디어",
+"lead_ret": 29.82,
+"second": "키이스트",
+"second_ret": 18.41
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 5.65,
+"up5": 10,
+"lead": "초록뱀미디어",
+"lead_ret": 29.82,
+"second": "키이스트",
+"second_ret": 18.41
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.69,
+"up5": 4,
+"lead": "티웨이홀딩스",
+"lead_ret": 12.67,
+"second": "트리니티항공",
+"second_ret": 9.37
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 4.66,
+"up5": 3,
+"lead": "한화투자증권",
+"lead_ret": 8.05,
+"second": "하나금융지주",
+"second_ret": 5.64
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.47,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 29.97,
+"second": "세아제강",
+"second_ret": 7.87
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 4.47,
+"up5": 2,
+"lead": "롯데손해보험",
+"lead_ret": 9.39,
+"second": "한화손해보험",
+"second_ret": 5.26
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 4.21,
+"up5": 2,
+"lead": "iM금융지주",
+"lead_ret": 6.53,
+"second": "하나금융지주",
+"second_ret": 5.64
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.05,
+"up5": 4,
+"lead": "현대제철",
+"lead_ret": 8.33,
+"second": "POSCO홀딩스",
+"second_ret": 8.21
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 3.91,
+"up5": 2,
+"lead": "대주전자재료",
+"lead_ret": 10.73,
+"second": "HD현대에너지솔루션",
+"second_ret": 6.23
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 3.83,
+"up5": 5,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 8.85,
+"second": "YG PLUS",
+"second_ret": 8.7
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.78,
+"up5": 5,
+"lead": "한국경제TV",
+"lead_ret": 14.59,
+"second": "SBS",
+"second_ret": 11.8
+}
+],
+"themes_worst": [
+{
+"name": "마스크",
+"n": 20,
+"avg": -4.49,
+"up5": 0,
+"lead": "애경산업",
+"lead_ret": 0.77,
+"second": "디케이앤디",
+"second_ret": 0.63
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -4.15,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": 2.46,
+"second": "오픈베이스",
+"second_ret": -2.52
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -3.83,
+"up5": 0,
+"lead": "동아제약",
+"lead_ret": 0.0,
+"second": "태경케미컬",
+"second_ret": -0.51
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -3.68,
+"up5": 0,
+"lead": "부산산업",
+"lead_ret": 3.12,
+"second": "LS",
+"second_ret": 2.63
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": -3.64,
+"up5": 0,
+"lead": "팜스코",
+"lead_ret": 1.03,
+"second": "옵티팜",
+"second_ret": 0.74
+}
+],
+"leaders": [
+{
+"name": "초록뱀미디어",
+"code": "047820",
+"ret": 29.82,
+"value": 176546,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "삼성바이오로직스",
+"code": "207940",
+"ret": 16.82,
+"value": 16585,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 16.14,
+"value": 5564,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "키이스트",
+"code": "054780",
+"ret": 18.41,
+"value": 4731,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 14.58,
+"value": 2267,
+"theme": "창투사",
+"reason": "테마: 창투사"
+}
+],
+"backfilled": true
+}

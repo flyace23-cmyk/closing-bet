@@ -1,0 +1,254 @@
+{
+"date": "20231030",
+"kospi": 0.34,
+"kosdaq": 1.15,
+"adv": 1445,
+"dec": 625,
+"flat": 131,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 111808,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "한화시스템",
+"lead_ret": 10.48,
+"second": "SNT다이내믹스",
+"second_ret": 10.24
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "크라우드웍스",
+"lead_ret": 9.49,
+"second": "이랜시스",
+"second_ret": 9.29
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "두산로보틱스",
+"lead_ret": 27.4,
+"second": "에브리봇",
+"second_ret": 12.73
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.87,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 23.63,
+"second": "흥구석유",
+"second_ret": 22.64
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.87,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 23.63,
+"second": "흥구석유",
+"second_ret": 22.64
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 5.81,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 23.63,
+"second": "흥구석유",
+"second_ret": 22.64
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 5.46,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 22.64,
+"second": "극동유화",
+"second_ret": 10.14
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.43,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 29.97,
+"second": "극동유화",
+"second_ret": 10.14
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.58,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 16.06,
+"second": "지에스이",
+"second_ret": 5.22
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.19,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 9.48,
+"second": "흥아해운",
+"second_ret": 6.59
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.88,
+"up5": 2,
+"lead": "풍산",
+"lead_ret": 7.2,
+"second": "로지시스",
+"second_ret": 5.12
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 51,
+"avg": 2.86,
+"up5": 9,
+"lead": "에브리봇",
+"lead_ret": 12.73,
+"second": "크라우드웍스",
+"second_ret": 9.49
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 62,
+"avg": 2.8,
+"up5": 14,
+"lead": "두산로보틱스",
+"lead_ret": 27.4,
+"second": "에브리봇",
+"second_ret": 12.73
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 30,
+"avg": 2.55,
+"up5": 4,
+"lead": "한화시스템",
+"lead_ret": 10.48,
+"second": "퍼스텍",
+"second_ret": 6.71
+},
+{
+"name": "가상현실(VR)",
+"n": 22,
+"avg": 2.52,
+"up5": 3,
+"lead": "칩스앤미디어",
+"lead_ret": 9.23,
+"second": "나무가",
+"second_ret": 5.11
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.66,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 1.21,
+"second": "한온시스템",
+"second_ret": -0.56
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -2.57,
+"up5": 0,
+"lead": "아세아제지",
+"lead_ret": 2.45,
+"second": "리더스코스메틱",
+"second_ret": 1.1
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -1.81,
+"up5": 0,
+"lead": "다산솔루에타",
+"lead_ret": 2.42,
+"second": "상신전자",
+"second_ret": 2.2
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.78,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 1.12,
+"second": "JB금융지주",
+"second_ret": -0.88
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.37,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 0.98,
+"second": "광주신세계",
+"second_ret": 0.33
+}
+],
+"leaders": [
+{
+"name": "두산로보틱스",
+"code": "454910",
+"ret": 27.4,
+"value": 3472,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 22.64,
+"value": 2242,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "극동유화",
+"code": "014530",
+"ret": 10.14,
+"value": 1876,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 29.97,
+"value": 917,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 16.06,
+"value": 847,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

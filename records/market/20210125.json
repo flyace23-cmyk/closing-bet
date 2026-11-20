@@ -1,0 +1,254 @@
+{
+"date": "20210125",
+"kospi": 2.18,
+"kosdaq": 1.97,
+"adv": 1254,
+"dec": 574,
+"flat": 144,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 417115,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "러셀",
+"lead_ret": 29.89,
+"second": "로보스타",
+"second_ret": 29.8
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "덕우전자",
+"lead_ret": 19.58,
+"second": "HS효성첨단소재",
+"second_ret": 17.11
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "러셀",
+"lead_ret": 29.89,
+"second": "로보스타",
+"second_ret": 29.8
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.65,
+"up5": 2,
+"lead": "데브시스터즈",
+"lead_ret": 29.91,
+"second": "에피소드컴퍼니",
+"second_ret": 5.85
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.3,
+"up5": 3,
+"lead": "녹십자",
+"lead_ret": 8.71,
+"second": "메디포스트",
+"second_ret": 6.47
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 5.17,
+"up5": 4,
+"lead": "로보스타",
+"lead_ret": 29.8,
+"second": "휴림로봇",
+"second_ret": 8.08
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.93,
+"up5": 6,
+"lead": "올릭스",
+"lead_ret": 10.12,
+"second": "녹십자",
+"second_ret": 8.71
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.93,
+"up5": 3,
+"lead": "대한항공",
+"lead_ret": 11.99,
+"second": "티웨이홀딩스",
+"second_ret": 11.37
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.56,
+"up5": 3,
+"lead": "HS효성첨단소재",
+"lead_ret": 17.11,
+"second": "코오롱인더",
+"second_ret": 6.31
+},
+{
+"name": "비만치료제",
+"n": 30,
+"avg": 3.92,
+"up5": 6,
+"lead": "츌립앤사이언스",
+"lead_ret": 29.96,
+"second": "HLB펩",
+"second_ret": 13.18
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": 3.77,
+"up5": 7,
+"lead": "츌립앤사이언스",
+"lead_ret": 29.96,
+"second": "압타바이오",
+"second_ret": 13.78
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 40,
+"avg": 3.56,
+"up5": 9,
+"lead": "러셀",
+"lead_ret": 29.89,
+"second": "로보스타",
+"second_ret": 29.8
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.45,
+"up5": 2,
+"lead": "그래디언트",
+"lead_ret": 7.93,
+"second": "한화투자증권",
+"second_ret": 5.61
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 52,
+"avg": 3.42,
+"up5": 12,
+"lead": "러셀",
+"lead_ret": 29.89,
+"second": "로보스타",
+"second_ret": 29.8
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 3.31,
+"up5": 2,
+"lead": "앤씨앤",
+"lead_ret": 12.99,
+"second": "DGI",
+"second_ret": 7.35
+}
+],
+"themes_worst": [
+{
+"name": "광고",
+"n": 18,
+"avg": -1.28,
+"up5": 0,
+"lead": "컴투스엔",
+"lead_ret": 2.56,
+"second": "HS애드",
+"second_ret": 1.49
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -0.75,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 0.36,
+"second": "신한지주",
+"second_ret": 0.3
+},
+{
+"name": "쿠팡(coupang)",
+"n": 18,
+"avg": -0.74,
+"up5": 0,
+"lead": "동방",
+"lead_ret": 3.23,
+"second": "서울식품",
+"second_ret": 2.43
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.63,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 0.8,
+"second": "에코프로비엠",
+"second_ret": -0.05
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.6,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 2.52,
+"second": "현대건설",
+"second_ret": 1.35
+}
+],
+"leaders": [
+{
+"name": "유나이티드제약",
+"code": "033270",
+"ret": 16.28,
+"value": 4419,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "대한항공",
+"code": "003490",
+"ret": 11.99,
+"value": 3761,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 10.13,
+"value": 2891,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "텔레칩스",
+"code": "054450",
+"ret": 13.51,
+"value": 2422,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "아진산업",
+"code": "013310",
+"ret": 13.71,
+"value": 2400,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20230106",
+"kospi": 1.12,
+"kosdaq": 1.33,
+"adv": 1508,
+"dec": 466,
+"flat": 154,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 110534,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "솔트룩스",
+"lead_ret": 23.9,
+"second": "마음AI",
+"second_ret": 9.7
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "HLB제약",
+"lead_ret": 20.59,
+"second": "타임X AI",
+"second_ret": 15.65
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 5.97,
+"up5": 3,
+"lead": "아이비김영",
+"lead_ret": 17.39,
+"second": "메가엠디",
+"second_ret": 6.81
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 5.59,
+"up5": 4,
+"lead": "대우건설",
+"lead_ret": 8.98,
+"second": "GS건설",
+"second_ret": 8.43
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.04,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 10.57,
+"second": "팬오션",
+"second_ret": 4.82
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.6,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 7.32,
+"second": "대덕전자",
+"second_ret": 7.11
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 3.54,
+"up5": 10,
+"lead": "솔트룩스",
+"lead_ret": 23.9,
+"second": "마음AI",
+"second_ret": 9.7
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.35,
+"up5": 7,
+"lead": "솔트룩스",
+"lead_ret": 23.9,
+"second": "마음AI",
+"second_ret": 9.7
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": 3.26,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 7.32,
+"second": "대덕전자",
+"second_ret": 7.11
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.25,
+"up5": 5,
+"lead": "아이비김영",
+"lead_ret": 17.39,
+"second": "로보로보",
+"second_ret": 8.35
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.13,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 8.12,
+"second": "고려제강",
+"second_ret": 3.73
+},
+{
+"name": "전력반도체",
+"n": 15,
+"avg": 2.64,
+"up5": 3,
+"lead": "나노씨엠에스",
+"lead_ret": 8.25,
+"second": "에이루트",
+"second_ret": 7.63
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 2.59,
+"up5": 3,
+"lead": "마음AI",
+"lead_ret": 9.7,
+"second": "심텍",
+"second_ret": 7.32
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 2.58,
+"up5": 5,
+"lead": "솔트룩스",
+"lead_ret": 23.9,
+"second": "나무AX",
+"second_ret": 12.75
+}
+],
+"themes_worst": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -1.92,
+"up5": 0,
+"lead": "한솔홀딩스",
+"lead_ret": 0.9,
+"second": "와이엔텍",
+"second_ret": -0.11
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": -1.77,
+"up5": 0,
+"lead": "이스트에이드",
+"lead_ret": 4.92,
+"second": "엔키AX",
+"second_ret": 1.8
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.31,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.33,
+"second": "유한양행",
+"second_ret": -0.18
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.23,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 2.77,
+"second": "SAMG엔터",
+"second_ret": 2.6
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.9,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 3.49,
+"second": "천일고속",
+"second_ret": -1.52
+}
+],
+"leaders": [
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 23.9,
+"value": 1222,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 15.65,
+"value": 1086,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "보락",
+"code": "002760",
+"ret": 24.54,
+"value": 989,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "피제이전자",
+"code": "006140",
+"ret": 16.62,
+"value": 934,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "나무AX",
+"code": "242040",
+"ret": 12.75,
+"value": 732,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

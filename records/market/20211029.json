@@ -1,0 +1,254 @@
+{
+"date": "20211029",
+"kospi": -1.29,
+"kosdaq": -0.78,
+"adv": 479,
+"dec": 1418,
+"flat": 147,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 219347,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 6,
+"lead": "이스트소프트",
+"lead_ret": 17.76,
+"second": "넥써쓰",
+"second_ret": 14.31
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 6,
+"lead": "위메이드",
+"lead_ret": 14.18,
+"second": "매커스",
+"second_ret": 13.45
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "위지트",
+"lead_ret": 10.03,
+"second": "KEC",
+"second_ret": 7.56
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.88,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 5.46,
+"second": "KG케미칼",
+"second_ret": 4.78
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.87,
+"up5": 6,
+"lead": "위메이드",
+"lead_ret": 14.18,
+"second": "매커스",
+"second_ret": 13.45
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.51,
+"up5": 5,
+"lead": "이스트소프트",
+"lead_ret": 17.76,
+"second": "넥써쓰",
+"second_ret": 14.31
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.42,
+"up5": 4,
+"lead": "한일시멘트",
+"lead_ret": 14.2,
+"second": "강동씨앤엘",
+"second_ret": 6.14
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.33,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 17.17,
+"second": "NEW",
+"second_ret": 3.31
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.32,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 3.99,
+"second": "한화투자증권",
+"second_ret": 3.94
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.13,
+"up5": 4,
+"lead": "위메이드",
+"lead_ret": 14.18,
+"second": "다날",
+"second_ret": 7.87
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 2.02,
+"up5": 6,
+"lead": "이스트소프트",
+"lead_ret": 17.76,
+"second": "넥써쓰",
+"second_ret": 14.31
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.99,
+"up5": 1,
+"lead": "우리기술투자",
+"lead_ret": 9.22,
+"second": "에이티넘인베스트",
+"second_ret": 4.98
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 1.89,
+"up5": 1,
+"lead": "이스트소프트",
+"lead_ret": 17.76,
+"second": "플랜티넷",
+"second_ret": 0.92
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.69,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 15.92,
+"second": "인성정보",
+"second_ret": 1.05
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 12,
+"avg": 1.66,
+"up5": 2,
+"lead": "NHN",
+"lead_ret": 9.14,
+"second": "다날",
+"second_ret": 7.87
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -2.9,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.27,
+"second": "삼성물산",
+"second_ret": -2.56
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.68,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 1.86,
+"second": "지씨셀",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -2.68,
+"up5": 1,
+"lead": "압타바이오",
+"lead_ret": 5.1,
+"second": "인바이오젠",
+"second_ret": 0.96
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -2.5,
+"up5": 0,
+"lead": "테고사이언스",
+"lead_ret": 3.17,
+"second": "바이오솔루션",
+"second_ret": -0.42
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -2.49,
+"up5": 1,
+"lead": "압타바이오",
+"lead_ret": 5.1,
+"second": "신라젠",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 14.18,
+"value": 6116,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "위즈코프",
+"code": "038620",
+"ret": 21.27,
+"value": 2353,
+"theme": "주유소",
+"reason": "테마: 주유소"
+},
+{
+"name": "위지트",
+"code": "036090",
+"ret": 10.03,
+"value": 1793,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "한일시멘트",
+"code": "300720",
+"ret": 14.2,
+"value": 1419,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 11.11,
+"value": 1345,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

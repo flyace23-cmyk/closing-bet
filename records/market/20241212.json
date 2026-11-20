@@ -1,0 +1,254 @@
+{
+"date": "20241212",
+"kospi": 1.62,
+"kosdaq": 1.1,
+"adv": 1409,
+"dec": 771,
+"flat": 131,
+"limit_up": 12,
+"limit_down": 0,
+"value_total": 196283,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 5,
+"lead": "아이티센피엔에스",
+"lead_ret": 29.93,
+"second": "엑스게이트",
+"second_ret": 29.92
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "오리엔트정공",
+"lead_ret": 29.99,
+"second": "동원모빌리티",
+"second_ret": 29.98
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "펩트론",
+"lead_ret": 29.94,
+"second": "지노믹트리",
+"second_ret": 14.53
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 6.31,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 18.6,
+"second": "녹십자",
+"second_ret": 7.61
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 4.46,
+"up5": 3,
+"lead": "스피어",
+"lead_ret": 29.79,
+"second": "에이치브이엠",
+"second_ret": 19.27
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 4.43,
+"up5": 7,
+"lead": "아이티센피엔에스",
+"lead_ret": 29.93,
+"second": "엑스게이트",
+"second_ret": 29.92
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.94,
+"up5": 2,
+"lead": "오리엔트정공",
+"lead_ret": 29.99,
+"second": "대창",
+"second_ret": 7.89
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 3.71,
+"up5": 5,
+"lead": "스피어",
+"lead_ret": 29.79,
+"second": "메디포스트",
+"second_ret": 18.6
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.6,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 8.69,
+"second": "녹십자",
+"second_ret": 7.61
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.06,
+"up5": 2,
+"lead": "펨트론",
+"lead_ret": 9.43,
+"second": "ISC",
+"second_ret": 5.0
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 2.97,
+"up5": 4,
+"lead": "넥써쓰",
+"lead_ret": 29.94,
+"second": "아이티센피엔에스",
+"second_ret": 29.93
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 2.94,
+"up5": 4,
+"lead": "메디포스트",
+"lead_ret": 18.6,
+"second": "바이오솔루션",
+"second_ret": 9.98
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.83,
+"up5": 5,
+"lead": "바이넥스",
+"lead_ret": 7.95,
+"second": "녹십자",
+"second_ret": 7.61
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 2.77,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 8.44,
+"second": "동원산업",
+"second_ret": 3.98
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.61,
+"up5": 2,
+"lead": "티에스이",
+"lead_ret": 6.33,
+"second": "주성엔지니어링",
+"second_ret": 6.27
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -3.68,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": 0.66,
+"second": "오픈놀",
+"second_ret": 0.0
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": -2.3,
+"up5": 0,
+"lead": "우리기술투자",
+"lead_ret": 2.48,
+"second": "대성창투",
+"second_ret": 0.66
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -1.5,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 6.33,
+"second": "현대건설",
+"second_ret": 0.59
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -1.4,
+"up5": 0,
+"lead": "SNT다이내믹스",
+"lead_ret": 3.24,
+"second": "루트K",
+"second_ret": 2.29
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": -1.28,
+"up5": 0,
+"lead": "포스코DX",
+"lead_ret": 4.19,
+"second": "비츠로셀",
+"second_ret": 2.31
+}
+],
+"leaders": [
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 29.92,
+"value": 3600,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 29.94,
+"value": 3165,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "케이씨에스",
+"code": "115500",
+"ret": 14.68,
+"value": 1925,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 12.91,
+"value": 1810,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "PN풍년",
+"code": "024940",
+"ret": 22.93,
+"value": 1618,
+"theme": "日제품 불매운동(수혜)",
+"reason": "테마: 日제품 불매운동(수혜)"
+}
+],
+"backfilled": true
+}

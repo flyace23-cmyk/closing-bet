@@ -1,0 +1,254 @@
+{
+"date": "20230601",
+"kospi": -0.31,
+"kosdaq": 0.8,
+"adv": 1152,
+"dec": 860,
+"flat": 149,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 148461,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "제이엘케이",
+"lead_ret": 11.08,
+"second": "루닛",
+"second_ret": 9.79
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "두올",
+"lead_ret": 29.93,
+"second": "디와이덕양",
+"second_ret": 11.52
+},
+{
+"name": "2차전지(전고체)",
+"n": 3,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 29.94,
+"second": "이브이첨단소재",
+"second_ret": 11.94
+}
+],
+"themes": [
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.93,
+"up5": 1,
+"lead": "메디톡스",
+"lead_ret": 6.1,
+"second": "원텍",
+"second_ret": 4.99
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.6,
+"up5": 2,
+"lead": "유바이오로직스",
+"lead_ret": 7.76,
+"second": "메디톡스",
+"second_ret": 6.1
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 2.55,
+"up5": 5,
+"lead": "에이프릴바이오",
+"lead_ret": 12.61,
+"second": "지아이이노베이션",
+"second_ret": 6.54
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.53,
+"up5": 2,
+"lead": "덴티움",
+"lead_ret": 9.46,
+"second": "덴티스",
+"second_ret": 6.02
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 2.43,
+"up5": 5,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 29.94,
+"second": "이브이첨단소재",
+"second_ret": 11.94
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": 2.43,
+"up5": 1,
+"lead": "한미약품",
+"lead_ret": 5.98,
+"second": "인벤티지랩",
+"second_ret": 4.43
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.32,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 6.75,
+"second": "녹십자",
+"second_ret": 2.07
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.26,
+"up5": 1,
+"lead": "NICE인프라",
+"lead_ret": 15.98,
+"second": "케이씨에스",
+"second_ret": 3.29
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": 2.19,
+"up5": 4,
+"lead": "유바이오로직스",
+"lead_ret": 7.76,
+"second": "펩트론",
+"second_ret": 6.78
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.18,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 4.52,
+"second": "유한양행",
+"second_ret": 3.21
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": 2.06,
+"up5": 4,
+"lead": "신테카바이오",
+"lead_ret": 11.59,
+"second": "제이엘케이",
+"second_ret": 11.08
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.04,
+"up5": 2,
+"lead": "한올바이오파마",
+"lead_ret": 8.62,
+"second": "한미약품",
+"second_ret": 5.98
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.5,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": -0.67,
+"second": "KG모빌리티",
+"second_ret": -0.71
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.42,
+"up5": 0,
+"lead": "티웨이홀딩스",
+"lead_ret": 0.0,
+"second": "아시아나항공",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.21,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.0,
+"second": "샘표",
+"second_ret": -0.19
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -1.02,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": 2.44,
+"second": "선진",
+"second_ret": 0.69
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -0.92,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": 0.33,
+"second": "효성티앤씨",
+"second_ret": -0.39
+}
+],
+"leaders": [
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 14.29,
+"value": 5623,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "두올",
+"code": "016740",
+"ret": 29.93,
+"value": 2700,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "디와이덕양",
+"code": "024900",
+"ret": 11.52,
+"value": 2142,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 15.75,
+"value": 2034,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "나무AX",
+"code": "242040",
+"ret": 29.87,
+"value": 2002,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20201112",
+"kospi": -0.41,
+"kosdaq": 0.02,
+"adv": 972,
+"dec": 808,
+"flat": 171,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 249599,
+"hot": [
+{
+"name": "종합 물류",
+"n": 4,
+"lead": "KCTC",
+"lead_ret": 29.84,
+"second": "태웅로직스",
+"second_ret": 17.24
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "태웅로직스",
+"lead_ret": 17.24,
+"second": "HMM",
+"second_ret": 10.38
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "국제약품",
+"lead_ret": 20.27,
+"second": "졸스",
+"second_ret": 17.22
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 10.61,
+"up5": 4,
+"lead": "대한해운",
+"lead_ret": 29.95,
+"second": "HMM",
+"second_ret": 10.38
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 6.87,
+"up5": 3,
+"lead": "엔투텍",
+"lead_ret": 30.0,
+"second": "파미셀",
+"second_ret": 7.22
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 5.97,
+"up5": 4,
+"lead": "KCTC",
+"lead_ret": 29.84,
+"second": "태웅로직스",
+"second_ret": 17.24
+},
+{
+"name": "쿠팡(coupang)",
+"n": 17,
+"avg": 3.97,
+"up5": 3,
+"lead": "태경케미컬",
+"lead_ret": 30.0,
+"second": "KCTC",
+"second_ret": 29.84
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.64,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 20.27,
+"second": "위더스제약",
+"second_ret": 7.2
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.18,
+"up5": 1,
+"lead": "태경케미컬",
+"lead_ret": 30.0,
+"second": "미래에셋벤처투자",
+"second_ret": 2.57
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.27,
+"up5": 2,
+"lead": "수산세보틱스",
+"lead_ret": 29.92,
+"second": "혜인",
+"second_ret": 5.19
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.21,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 5.71,
+"second": "씨엑스아이",
+"second_ret": 4.57
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 2.18,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 20.27,
+"second": "디케이앤디",
+"second_ret": 6.22
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 2.1,
+"up5": 1,
+"lead": "루트K",
+"lead_ret": 21.4,
+"second": "유니온머티리얼",
+"second_ret": 3.19
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.1,
+"up5": 2,
+"lead": "사조씨푸드",
+"lead_ret": 7.15,
+"second": "CJ씨푸드",
+"second_ret": 5.5
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 2.05,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 29.95,
+"second": "팬오션",
+"second_ret": 6.75
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.35,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": 3.1,
+"second": "제주항공",
+"second_ret": 0.31
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.85,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -0.27,
+"second": "흥국화재",
+"second_ret": -1.05
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -1.72,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": -0.28,
+"second": "IPARK현대산업개발",
+"second_ret": -1.17
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": -1.69,
+"up5": 0,
+"lead": "동방",
+"lead_ret": 2.41,
+"second": "SJG세종",
+"second_ret": 0.22
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.6,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 1.32,
+"second": "롯데관광개발",
+"second_ret": 0.65
+}
+],
+"leaders": [
+{
+"name": "HMM",
+"code": "011200",
+"ret": 10.38,
+"value": 6476,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "루트K",
+"code": "195990",
+"ret": 21.4,
+"value": 5902,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "엔투텍",
+"code": "227950",
+"ret": 30.0,
+"value": 4819,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대한해운",
+"code": "005880",
+"ret": 29.95,
+"value": 3738,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "수산세보틱스",
+"code": "017550",
+"ret": 29.92,
+"value": 1993,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+}
+],
+"backfilled": true
+}

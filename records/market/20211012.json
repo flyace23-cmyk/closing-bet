@@ -1,0 +1,254 @@
+{
+"date": "20211012",
+"kospi": -1.35,
+"kosdaq": -1.36,
+"adv": 554,
+"dec": 1358,
+"flat": 126,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 206470,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "에코캡",
+"lead_ret": 29.82,
+"second": "우신시스템",
+"second_ret": 18.89
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 5,
+"lead": "에코캡",
+"lead_ret": 29.82,
+"second": "우신시스템",
+"second_ret": 18.89
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "우신시스템",
+"lead_ret": 18.89,
+"second": "새로닉스",
+"second_ret": 11.71
+}
+],
+"themes": [
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 4.87,
+"up5": 5,
+"lead": "에코캡",
+"lead_ret": 29.82,
+"second": "우신시스템",
+"second_ret": 18.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.37,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 6.92,
+"second": "대성산업",
+"second_ret": 6.46
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.37,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 6.92,
+"second": "대성산업",
+"second_ret": 6.46
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.96,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 24.03,
+"second": "대성에너지",
+"second_ret": 6.17
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.92,
+"up5": 2,
+"lead": "경동제약",
+"lead_ret": 29.95,
+"second": "위더스제약",
+"second_ret": 6.57
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.74,
+"up5": 1,
+"lead": "S-Oil",
+"lead_ret": 6.13,
+"second": "흥구석유",
+"second_ret": 4.64
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.66,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 17.04,
+"second": "참좋은여행",
+"second_ret": 4.0
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.34,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 6.92,
+"second": "대성산업",
+"second_ret": 6.46
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 1.79,
+"up5": 2,
+"lead": "애경케미칼",
+"lead_ret": 7.92,
+"second": "한화솔루션",
+"second_ret": 5.36
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.53,
+"up5": 2,
+"lead": "LX인터내셔널",
+"lead_ret": 6.46,
+"second": "대성산업",
+"second_ret": 6.46
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.46,
+"up5": 1,
+"lead": "HC홈센타",
+"lead_ret": 8.77,
+"second": "한국석유",
+"second_ret": 3.94
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.35,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 24.03,
+"second": "대성에너지",
+"second_ret": 6.17
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -9.61,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -1.37,
+"second": "에피소드컴퍼니",
+"second_ret": -1.4
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -3.38,
+"up5": 0,
+"lead": "엔키AX",
+"lead_ret": 4.24,
+"second": "디앤씨미디어",
+"second_ret": 3.56
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -3.38,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -2.66,
+"second": "삼성물산",
+"second_ret": -2.87
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -3.27,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": -1.34,
+"second": "대한약품",
+"second_ret": -1.82
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -3.22,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 0.56,
+"second": "TS인베스트먼트",
+"second_ret": -3.33
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 24.03,
+"value": 3670,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "우신시스템",
+"code": "017370",
+"ret": 18.89,
+"value": 3066,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 17.04,
+"value": 2091,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "씨티알모빌리티",
+"code": "308170",
+"ret": 18.04,
+"value": 2030,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "경동제약",
+"code": "011040",
+"ret": 29.95,
+"value": 1925,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+}
+],
+"backfilled": true
+}

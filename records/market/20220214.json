@@ -1,0 +1,254 @@
+{
+"date": "20220214",
+"kospi": -1.57,
+"kosdaq": -2.81,
+"adv": 184,
+"dec": 1788,
+"flat": 92,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 175924,
+"hot": [
+{
+"name": "비철금속",
+"n": 4,
+"lead": "이구산업",
+"lead_ret": 21.51,
+"second": "피제이메탈",
+"second_ret": 14.0
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "빅텍",
+"lead_ret": 6.03,
+"second": "한일단조",
+"second_ret": 5.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 4,
+"lead": "중앙에너비스",
+"lead_ret": 25.87,
+"second": "대성산업",
+"second_ret": 9.3
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 7.91,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 29.99,
+"second": "대성에너지",
+"second_ret": 29.52
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.25,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 25.87,
+"second": "대성산업",
+"second_ret": 9.3
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.25,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 25.87,
+"second": "대성산업",
+"second_ret": 9.3
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.62,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 8.94,
+"second": "극동유화",
+"second_ret": 3.99
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.55,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 25.87,
+"second": "대성산업",
+"second_ret": 9.3
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.6,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 29.99,
+"second": "대성에너지",
+"second_ret": 29.52
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 0.99,
+"up5": 3,
+"lead": "이구산업",
+"lead_ret": 21.51,
+"second": "피제이메탈",
+"second_ret": 14.0
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.14,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 9.3,
+"second": "신세계",
+"second_ret": 0.19
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.1,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 14.41,
+"second": "스페코",
+"second_ret": 4.41
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 0.06,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 2.47,
+"second": "풀무원",
+"second_ret": 0.3
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -0.04,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 9.3,
+"second": "서울가스",
+"second_ret": 6.22
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.27,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 2.67,
+"second": "팬오션",
+"second_ret": 2.01
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -5.73,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": -3.48,
+"second": "사람인",
+"second_ret": -3.9
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -5.65,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": -4.25,
+"second": "옴니시스템",
+"second_ret": -4.29
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -5.54,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 0.0,
+"second": "비츠로테크",
+"second_ret": -2.82
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -5.4,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -2.4,
+"second": "손오공",
+"second_ret": -4.7
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -5.24,
+"up5": 0,
+"lead": "풍산",
+"lead_ret": 4.65,
+"second": "카카오페이",
+"second_ret": 1.58
+}
+],
+"leaders": [
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 13.52,
+"value": 5212,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 29.52,
+"value": 2333,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 29.99,
+"value": 2254,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 14.41,
+"value": 2173,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 21.51,
+"value": 2013,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

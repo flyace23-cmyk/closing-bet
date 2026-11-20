@@ -1,0 +1,246 @@
+{
+"date": "20241021",
+"kospi": 0.43,
+"kosdaq": 0.89,
+"adv": 1087,
+"dec": 1037,
+"flat": 165,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 126997,
+"hot": [
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "우진엔텍",
+"lead_ret": 18.8,
+"second": "지투파워",
+"second_ret": 8.65
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "제닉",
+"lead_ret": 22.58,
+"second": "셀바이오휴먼텍",
+"second_ret": 14.89
+}
+],
+"themes": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.88,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 29.99,
+"second": "삼성바이오로직스",
+"second_ret": 2.92
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.29,
+"up5": 1,
+"lead": "YG PLUS",
+"lead_ret": 29.85,
+"second": "KT지니뮤직",
+"second_ret": 4.84
+},
+{
+"name": "의료AI",
+"n": 23,
+"avg": 2.5,
+"up5": 2,
+"lead": "드림씨아이에스",
+"lead_ret": 29.99,
+"second": "시선AI",
+"second_ret": 29.89
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.5,
+"up5": 2,
+"lead": "GRT",
+"lead_ret": 13.9,
+"second": "헝셩그룹",
+"second_ret": 7.47
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.18,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 8.0,
+"second": "SK가스",
+"second_ret": 5.38
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.14,
+"up5": 2,
+"lead": "엠케이전자",
+"lead_ret": 11.61,
+"second": "펨트론",
+"second_ret": 7.63
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 2.05,
+"up5": 1,
+"lead": "시선AI",
+"lead_ret": 29.89,
+"second": "이스트소프트",
+"second_ret": 2.69
+},
+{
+"name": "광고",
+"n": 23,
+"avg": 2.0,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 29.85,
+"second": "모비데이즈",
+"second_ret": 13.62
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.98,
+"up5": 1,
+"lead": "넥스틸",
+"lead_ret": 18.9,
+"second": "하이스틸",
+"second_ret": 2.49
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 1.93,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 8.0,
+"second": "한전기술",
+"second_ret": 5.26
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.86,
+"up5": 1,
+"lead": "RFHIC",
+"lead_ret": 12.76,
+"second": "자람테크놀로지",
+"second_ret": 4.63
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 1.83,
+"up5": 7,
+"lead": "우진엔텍",
+"lead_ret": 18.8,
+"second": "삼미금속",
+"second_ret": 10.59
+}
+],
+"themes_worst": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.03,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 0.46,
+"second": "대한화섬",
+"second_ret": 0.25
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.96,
+"up5": 0,
+"lead": "엘컴텍",
+"lead_ret": 3.71,
+"second": "SK이노베이션",
+"second_ret": 2.05
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": -1.47,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 3.03,
+"second": "HLB제약",
+"second_ret": 2.86
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.33,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": 0.25,
+"second": "대성산업",
+"second_ret": 0.14
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": -1.31,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 1.45,
+"second": "퍼스텍",
+"second_ret": 1.37
+}
+],
+"leaders": [
+{
+"name": "인스피언",
+"code": "465480",
+"ret": 29.9,
+"value": 4327,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "우진엔텍",
+"code": "457550",
+"ret": 18.8,
+"value": 1855,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "나노엔텍",
+"code": "039860",
+"ret": 12.03,
+"value": 1371,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "한올바이오파마",
+"code": "009420",
+"ret": 11.86,
+"value": 1307,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "넥스틸",
+"code": "092790",
+"ret": 18.9,
+"value": 734,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+}
+],
+"backfilled": true
+}

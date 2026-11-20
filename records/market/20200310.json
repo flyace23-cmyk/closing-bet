@@ -1,0 +1,254 @@
+{
+"date": "20200310",
+"kospi": 0.42,
+"kosdaq": 0.87,
+"adv": 825,
+"dec": 941,
+"flat": 142,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 182443,
+"hot": [
+{
+"name": "자율주행차",
+"n": 6,
+"lead": "모트렉스",
+"lead_ret": 29.92,
+"second": "DH오토웨어",
+"second_ret": 17.43
+},
+{
+"name": "통신장비",
+"n": 5,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.75,
+"second": "LIG아큐버",
+"second_ret": 10.6
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "RFHIC",
+"lead_ret": 8.83,
+"second": "아이티엠반도체",
+"second_ret": 7.42
+}
+],
+"themes": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.91,
+"up5": 2,
+"lead": "모트렉스",
+"lead_ret": 29.92,
+"second": "엠씨넥스",
+"second_ret": 7.2
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.74,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 8.1,
+"second": "이루온",
+"second_ret": 2.56
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 2.54,
+"up5": 6,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.75,
+"second": "LIG아큐버",
+"second_ret": 10.6
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 2.47,
+"up5": 8,
+"lead": "모트렉스",
+"lead_ret": 29.92,
+"second": "DH오토웨어",
+"second_ret": 17.43
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 2.36,
+"up5": 5,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.75,
+"second": "LIG아큐버",
+"second_ret": 10.6
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.18,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 6.86,
+"second": "호텔신라",
+"second_ret": 4.32
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 2.17,
+"up5": 1,
+"lead": "어보브반도체",
+"lead_ret": 6.29,
+"second": "에스티아이",
+"second_ret": 4.14
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 2.13,
+"up5": 2,
+"lead": "칩스앤미디어",
+"lead_ret": 6.92,
+"second": "어보브반도체",
+"second_ret": 6.29
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 2.09,
+"up5": 2,
+"lead": "서울바이오시스",
+"lead_ret": 10.0,
+"second": "RFHIC",
+"second_ret": 8.83
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 2.07,
+"up5": 1,
+"lead": "엠씨넥스",
+"lead_ret": 7.2,
+"second": "파트론",
+"second_ret": 4.7
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 2.03,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": 4.1,
+"second": "ISC",
+"second_ret": 4.03
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.03,
+"up5": 1,
+"lead": "아이티엠반도체",
+"lead_ret": 7.42,
+"second": "덕우전자",
+"second_ret": 4.66
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -5.88,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 0.35,
+"second": "오텍",
+"second_ret": -0.47
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -4.78,
+"up5": 0,
+"lead": "수젠텍",
+"lead_ret": 1.53,
+"second": "국전",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -4.27,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.4,
+"second": "에스티팜",
+"second_ret": -2.37
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": -3.67,
+"up5": 0,
+"lead": "이지케어텍",
+"lead_ret": 1.65,
+"second": "신테카바이오",
+"second_ret": 0.97
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": -3.64,
+"up5": 0,
+"lead": "동국제약",
+"lead_ret": 2.36,
+"second": "아가방컴퍼니",
+"second_ret": 0.52
+}
+],
+"leaders": [
+{
+"name": "모트렉스",
+"code": "118990",
+"ret": 29.92,
+"value": 1324,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "부광약품",
+"code": "003000",
+"ret": 29.89,
+"value": 1075,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 29.92,
+"value": 1018,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "DH오토웨어",
+"code": "025440",
+"ret": 17.43,
+"value": 939,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "서울바이오시스",
+"code": "092190",
+"ret": 10.0,
+"value": 734,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240830",
+"kospi": 0.45,
+"kosdaq": 1.54,
+"adv": 1548,
+"dec": 587,
+"flat": 145,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 168787,
+"hot": [
+{
+"name": "줄기세포",
+"n": 4,
+"lead": "엑셀세라퓨틱스",
+"lead_ret": 29.86,
+"second": "에스바이오메딕스",
+"second_ret": 17.83
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "라온시큐어",
+"lead_ret": 14.36,
+"second": "모니터랩",
+"second_ret": 13.8
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "풍원정밀",
+"lead_ret": 18.39,
+"second": "선익시스템",
+"second_ret": 17.6
+}
+],
+"themes": [
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 5.2,
+"up5": 6,
+"lead": "엑셀세라퓨틱스",
+"lead_ret": 29.86,
+"second": "에스바이오메딕스",
+"second_ret": 17.83
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 4.69,
+"up5": 2,
+"lead": "큐라티스",
+"lead_ret": 29.98,
+"second": "올릭스",
+"second_ret": 13.35
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 4.29,
+"up5": 5,
+"lead": "M83",
+"lead_ret": 29.95,
+"second": "라온시큐어",
+"second_ret": 14.36
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.92,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 10.45,
+"second": "성우전자",
+"second_ret": 4.81
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.74,
+"up5": 2,
+"lead": "한선엔지니어링",
+"lead_ret": 8.7,
+"second": "태광",
+"second_ret": 7.69
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 3.62,
+"up5": 8,
+"lead": "큐라티스",
+"lead_ret": 29.98,
+"second": "샤페론",
+"second_ret": 15.9
+},
+{
+"name": "의료AI",
+"n": 23,
+"avg": 3.58,
+"up5": 6,
+"lead": "비스토스",
+"lead_ret": 16.5,
+"second": "인성정보",
+"second_ret": 12.37
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.24,
+"up5": 7,
+"lead": "샤페론",
+"lead_ret": 15.9,
+"second": "지아이이노베이션",
+"second_ret": 11.64
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.21,
+"up5": 5,
+"lead": "큐라티스",
+"lead_ret": 29.98,
+"second": "샤페론",
+"second_ret": 15.9
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.11,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 12.37,
+"second": "오픈베이스",
+"second_ret": 6.83
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 3.11,
+"up5": 2,
+"lead": "라메디텍",
+"lead_ret": 21.96,
+"second": "하이로닉",
+"second_ret": 6.03
+},
+{
+"name": "유전자 치료제/분석",
+"n": 36,
+"avg": 3.1,
+"up5": 7,
+"lead": "엑셀세라퓨틱스",
+"lead_ret": 29.86,
+"second": "이엔셀",
+"second_ret": 16.64
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.48,
+"up5": 1,
+"lead": "비츠로시스",
+"lead_ret": 5.23,
+"second": "인콘",
+"second_ret": 1.71
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -0.89,
+"up5": 0,
+"lead": "한국종합기술",
+"lead_ret": 0.82,
+"second": "국보디자인",
+"second_ret": 0.78
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.81,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 2.19,
+"second": "기아",
+"second_ret": -0.47
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -0.67,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 1.88,
+"second": "CJ씨푸드",
+"second_ret": 1.8
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.55,
+"up5": 0,
+"lead": "iM금융지주",
+"lead_ret": 1.21,
+"second": "제주은행",
+"second_ret": 1.1
+}
+],
+"leaders": [
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 16.64,
+"value": 6977,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "M83",
+"code": "476080",
+"ret": 29.95,
+"value": 3349,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "라메디텍",
+"code": "462510",
+"ret": 21.96,
+"value": 1501,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "노브랜드",
+"code": "145170",
+"ret": 23.37,
+"value": 871,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "웨이버스",
+"code": "336060",
+"ret": 20.53,
+"value": 857,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

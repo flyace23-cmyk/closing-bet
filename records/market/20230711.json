@@ -1,0 +1,254 @@
+{
+"date": "20230711",
+"kospi": 1.66,
+"kosdaq": 2.14,
+"adv": 1514,
+"dec": 525,
+"flat": 131,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 171922,
+"hot": [
+{
+"name": "원자력발전",
+"n": 7,
+"lead": "한전산업",
+"lead_ret": 29.91,
+"second": "우진",
+"second_ret": 19.46
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 5,
+"lead": "한전산업",
+"lead_ret": 29.91,
+"second": "포스코DX",
+"second_ret": 27.36
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 5,
+"lead": "포스코DX",
+"lead_ret": 27.36,
+"second": "피에스케이홀딩스",
+"second_ret": 13.76
+}
+],
+"themes": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": 6.22,
+"up5": 5,
+"lead": "삼화전자",
+"lead_ret": 30.01,
+"second": "삼화전기",
+"second_ret": 16.13
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 6.22,
+"up5": 5,
+"lead": "삼화전자",
+"lead_ret": 30.01,
+"second": "삼화전기",
+"second_ret": 16.13
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 5.16,
+"up5": 6,
+"lead": "우진",
+"lead_ret": 19.46,
+"second": "우리기술",
+"second_ret": 11.65
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 4.85,
+"up5": 5,
+"lead": "한전산업",
+"lead_ret": 29.91,
+"second": "포스코DX",
+"second_ret": 27.36
+},
+{
+"name": "원자력발전",
+"n": 47,
+"avg": 4.7,
+"up5": 16,
+"lead": "한전산업",
+"lead_ret": 29.91,
+"second": "우진",
+"second_ret": 19.46
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 4.58,
+"up5": 4,
+"lead": "삼화전자",
+"lead_ret": 30.01,
+"second": "EG",
+"second_ret": 8.78
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 4.3,
+"up5": 12,
+"lead": "한전산업",
+"lead_ret": 29.91,
+"second": "LS ELECTRIC",
+"second_ret": 9.33
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 4.19,
+"up5": 2,
+"lead": "삼화전자",
+"lead_ret": 30.01,
+"second": "LX인터내셔널",
+"second_ret": 6.34
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 38,
+"avg": 4.17,
+"up5": 9,
+"lead": "한전산업",
+"lead_ret": 29.91,
+"second": "포스코DX",
+"second_ret": 27.36
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.95,
+"up5": 2,
+"lead": "티에프이",
+"lead_ret": 19.44,
+"second": "티엘비",
+"second_ret": 5.37
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 3.78,
+"up5": 5,
+"lead": "에스티아이",
+"lead_ret": 16.75,
+"second": "피에스케이홀딩스",
+"second_ret": 13.76
+},
+{
+"name": "유리 기판",
+"n": 17,
+"avg": 3.76,
+"up5": 4,
+"lead": "필옵틱스",
+"lead_ret": 18.24,
+"second": "이노메트리",
+"second_ret": 8.08
+}
+],
+"themes_worst": [
+{
+"name": "제지",
+"n": 14,
+"avg": -1.53,
+"up5": 0,
+"lead": "한국수출포장",
+"lead_ret": 1.35,
+"second": "깨끗한나라",
+"second_ret": 1.22
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.15,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 2.41,
+"second": "한신공영",
+"second_ret": 0.37
+},
+{
+"name": "광고",
+"n": 20,
+"avg": -1.14,
+"up5": 1,
+"lead": "인크로스",
+"lead_ret": 8.63,
+"second": "SM C&C",
+"second_ret": 3.39
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.45,
+"up5": 0,
+"lead": "SOOP",
+"lead_ret": 2.17,
+"second": "하이트진로홀딩스",
+"second_ret": 0.98
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -0.22,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 2.4,
+"second": "포바이포",
+"second_ret": 1.36
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 27.36,
+"value": 10384,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 12.99,
+"value": 2708,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 18.24,
+"value": 1667,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "우진",
+"code": "105840",
+"ret": 19.46,
+"value": 1305,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "삼화전자",
+"code": "011230",
+"ret": 30.01,
+"value": 1026,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

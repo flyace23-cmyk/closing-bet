@@ -1,0 +1,246 @@
+{
+"date": "20200327",
+"kospi": 1.87,
+"kosdaq": 1.2,
+"adv": 1265,
+"dec": 504,
+"flat": 141,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 242308,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "휴마시스",
+"lead_ret": 29.79,
+"second": "얼라인드",
+"second_ret": 24.19
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "유나이티드제약",
+"lead_ret": 30.0,
+"second": "녹십자웰빙",
+"second_ret": 29.95
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 8.96,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 23.38,
+"second": "유한양행",
+"second_ret": 9.86
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 5.72,
+"up5": 4,
+"lead": "파미셀",
+"lead_ret": 23.38,
+"second": "나이벡",
+"second_ret": 9.69
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 5.4,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 23.38,
+"second": "에스티팜",
+"second_ret": 5.46
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 5.08,
+"up5": 2,
+"lead": "한진칼",
+"lead_ret": 29.85,
+"second": "진에어",
+"second_ret": 7.49
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 4.96,
+"up5": 1,
+"lead": "미코",
+"lead_ret": 29.67,
+"second": "두산퓨얼셀",
+"second_ret": 4.87
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 4.88,
+"up5": 7,
+"lead": "케이엠",
+"lead_ret": 29.68,
+"second": "웰크론",
+"second_ret": 16.56
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 4.69,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 14.0,
+"second": "ISC",
+"second_ret": 10.27
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.65,
+"up5": 4,
+"lead": "이루온",
+"lead_ret": 15.79,
+"second": "인포뱅크",
+"second_ret": 8.0
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.59,
+"up5": 1,
+"lead": "이렘",
+"lead_ret": 29.7,
+"second": "하이스틸",
+"second_ret": 4.07
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.5,
+"up5": 2,
+"lead": "대한화섬",
+"lead_ret": 17.57,
+"second": "휴비스",
+"second_ret": 6.55
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 4.47,
+"up5": 6,
+"lead": "에이프로젠바이오로직스",
+"lead_ret": 15.47,
+"second": "선바이오",
+"second_ret": 14.45
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 4.29,
+"up5": 4,
+"lead": "제이앤티씨",
+"lead_ret": 26.03,
+"second": "에프엔에스테크",
+"second_ret": 7.81
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.08,
+"up5": 0,
+"lead": "디케이락",
+"lead_ret": 3.47,
+"second": "화성밸브",
+"second_ret": 1.74
+},
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": -0.71,
+"up5": 0,
+"lead": "에이치엘사이언스",
+"lead_ret": 2.86,
+"second": "LG생활건강",
+"second_ret": 1.65
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.52,
+"up5": 0,
+"lead": "토니모리",
+"lead_ret": 2.58,
+"second": "JTC",
+"second_ret": 1.47
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": -0.41,
+"up5": 1,
+"lead": "대창솔루션",
+"lead_ret": 5.58,
+"second": "엔케이",
+"second_ret": 2.7
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -0.41,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 1.92,
+"second": "아주IB투자",
+"second_ret": 1.9
+}
+],
+"leaders": [
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 23.38,
+"value": 8475,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 29.85,
+"value": 6055,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "미코",
+"code": "059090",
+"ret": 29.67,
+"value": 5568,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 16.56,
+"value": 4658,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 26.45,
+"value": 2989,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+}
+],
+"backfilled": true
+}

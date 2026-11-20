@@ -1,0 +1,254 @@
+{
+"date": "20250917",
+"kospi": -1.05,
+"kosdaq": -0.74,
+"adv": 835,
+"dec": 1409,
+"flat": 135,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 179809,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "코윈로보틱스",
+"lead_ret": 29.98,
+"second": "아이비젼웍스",
+"second_ret": 16.02
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "노을",
+"lead_ret": 29.98,
+"second": "한국항공우주",
+"second_ret": 14.77
+},
+{
+"name": "광고",
+"n": 3,
+"lead": "와이즈버즈",
+"lead_ret": 22.09,
+"second": "애드포러스",
+"second_ret": 11.95
+}
+],
+"themes": [
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.65,
+"up5": 2,
+"lead": "코윈로보틱스",
+"lead_ret": 29.98,
+"second": "엘앤에프",
+"second_ret": 9.34
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.56,
+"up5": 3,
+"lead": "GKL",
+"lead_ret": 7.16,
+"second": "롯데관광개발",
+"second_ret": 6.38
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.56,
+"up5": 3,
+"lead": "GKL",
+"lead_ret": 7.16,
+"second": "롯데관광개발",
+"second_ret": 6.38
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 2.02,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 6.38,
+"second": "파라다이스",
+"second_ret": 6.34
+},
+{
+"name": "광고",
+"n": 24,
+"avg": 1.84,
+"up5": 3,
+"lead": "와이즈버즈",
+"lead_ret": 22.09,
+"second": "애드포러스",
+"second_ret": 11.95
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.7,
+"up5": 1,
+"lead": "큐로홀딩스",
+"lead_ret": 29.92,
+"second": "SK이노베이션",
+"second_ret": 1.24
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 1.5,
+"up5": 3,
+"lead": "노을",
+"lead_ret": 29.98,
+"second": "온코크로스",
+"second_ret": 5.49
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 1.49,
+"up5": 2,
+"lead": "큐로홀딩스",
+"lead_ret": 29.92,
+"second": "빌리언스",
+"second_ret": 8.72
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 1.48,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 9.21,
+"second": "TS인베스트먼트",
+"second_ret": 2.82
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.47,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 6.38,
+"second": "노랑풍선",
+"second_ret": 3.97
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 1.19,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 9.21,
+"second": "LB인베스트먼트",
+"second_ret": 3.21
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.14,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 6.35,
+"second": "흥구석유",
+"second_ret": 3.44
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.56,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -0.94,
+"second": "대우건설",
+"second_ret": -1.33
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -2.51,
+"up5": 0,
+"lead": "원일티엔아이",
+"lead_ret": 1.81,
+"second": "비츠로테크",
+"second_ret": -0.69
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.34,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -1.26,
+"second": "대한전선",
+"second_ret": -1.78
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.22,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -0.41,
+"second": "삼성물산",
+"second_ret": -1.48
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.15,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 3.21,
+"second": "엠케이전자",
+"second_ret": 0.68
+}
+],
+"leaders": [
+{
+"name": "한국항공우주",
+"code": "047810",
+"ret": 14.77,
+"value": 5174,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 20.49,
+"value": 3181,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "노을",
+"code": "376930",
+"ret": 29.98,
+"value": 1417,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "아이언디바이스",
+"code": "464500",
+"ret": 13.01,
+"value": 985,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "와이즈버즈",
+"code": "273060",
+"ret": 22.09,
+"value": 729,
+"theme": "광고",
+"reason": "테마: 광고"
+}
+],
+"backfilled": true
+}

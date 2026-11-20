@@ -1,0 +1,246 @@
+{
+"date": "20210322",
+"kospi": -0.13,
+"kosdaq": 0.34,
+"adv": 818,
+"dec": 1020,
+"flat": 155,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 226454,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "러셀",
+"lead_ret": 11.81,
+"second": "브이엠",
+"second_ret": 11.61
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "웹젠",
+"lead_ret": 14.76,
+"second": "데브시스터즈",
+"second_ret": 12.92
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 7.95,
+"up5": 2,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 29.47,
+"second": "TS인베스트먼트",
+"second_ret": 7.98
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 5.93,
+"up5": 3,
+"lead": "팬오션",
+"lead_ret": 10.46,
+"second": "HMM",
+"second_ret": 8.59
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.65,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 29.85,
+"second": "극동유화",
+"second_ret": 7.79
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.46,
+"up5": 2,
+"lead": "데브시스터즈",
+"lead_ret": 12.92,
+"second": "대원미디어",
+"second_ret": 6.56
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 3.18,
+"up5": 2,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 29.47,
+"second": "아모그린텍",
+"second_ret": 9.36
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.95,
+"up5": 2,
+"lead": "대한제강",
+"lead_ret": 8.49,
+"second": "POSCO홀딩스",
+"second_ret": 5.2
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.42,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 10.17,
+"second": "SBI인베스트먼트",
+"second_ret": 4.24
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.19,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 7.79,
+"second": "미창석유",
+"second_ret": 5.2
+},
+{
+"name": "게임",
+"n": 27,
+"avg": 2.11,
+"up5": 6,
+"lead": "웹젠",
+"lead_ret": 14.76,
+"second": "위메이드",
+"second_ret": 10.86
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 2.09,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 10.11,
+"second": "알체라",
+"second_ret": 5.45
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 2.07,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 10.17,
+"second": "미래에셋벤처투자",
+"second_ret": 2.93
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 2.06,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 10.17,
+"second": "TS인베스트먼트",
+"second_ret": 7.98
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -5.07,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 1.01,
+"second": "앤씨앤",
+"second_ret": 0.19
+},
+{
+"name": "보안주(물리)",
+"n": 13,
+"avg": -3.4,
+"up5": 0,
+"lead": "에스원",
+"lead_ret": 0.61,
+"second": "이랜시스",
+"second_ret": 0.42
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -3.26,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": -0.86,
+"second": "참좋은여행",
+"second_ret": -0.87
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.95,
+"up5": 0,
+"lead": "나이벡",
+"lead_ret": 1.74,
+"second": "녹십자",
+"second_ret": 0.13
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -1.92,
+"up5": 0,
+"lead": "SCL사이언스",
+"lead_ret": 1.46,
+"second": "GST",
+"second_ret": 1.33
+}
+],
+"leaders": [
+{
+"name": "바이오다인",
+"code": "314930",
+"ret": 13.43,
+"value": 5677,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "원익큐브",
+"code": "014190",
+"ret": 29.99,
+"value": 4331,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "팬오션",
+"code": "028670",
+"ret": 10.46,
+"value": 3252,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "에스엠국일",
+"code": "078130",
+"ret": 11.78,
+"value": 2536,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "러셀",
+"code": "217500",
+"ret": 11.81,
+"value": 2075,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

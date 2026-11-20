@@ -1,0 +1,254 @@
+{
+"date": "20230419",
+"kospi": 0.16,
+"kosdaq": 0.02,
+"adv": 1298,
+"dec": 722,
+"flat": 128,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 246943,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "자비스",
+"lead_ret": 29.84,
+"second": "하나기술",
+"second_ret": 21.86
+},
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "현대무벡스",
+"lead_ret": 29.91,
+"second": "광무",
+"second_ret": 16.12
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "디젠스",
+"lead_ret": 29.93,
+"second": "유니온머티리얼",
+"second_ret": 19.24
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 8.85,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 19.24,
+"second": "KG케미칼",
+"second_ret": 15.62
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 5.04,
+"up5": 6,
+"lead": "EG",
+"lead_ret": 19.69,
+"second": "유니온머티리얼",
+"second_ret": 19.24
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.73,
+"up5": 4,
+"lead": "EG",
+"lead_ret": 19.69,
+"second": "태경산업",
+"second_ret": 19.27
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.73,
+"up5": 4,
+"lead": "EG",
+"lead_ret": 19.69,
+"second": "태경산업",
+"second_ret": 19.27
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 4.24,
+"up5": 8,
+"lead": "이구산업",
+"lead_ret": 24.64,
+"second": "태경산업",
+"second_ret": 19.27
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 4.15,
+"up5": 2,
+"lead": "엑스페릭스",
+"lead_ret": 29.99,
+"second": "팬스타엔터프라이즈",
+"second_ret": 9.13
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 4.08,
+"up5": 1,
+"lead": "블루산업개발",
+"lead_ret": 29.95,
+"second": "리더스코스메틱",
+"second_ret": 3.49
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.94,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 9.01,
+"second": "KBI메탈",
+"second_ret": 8.13
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.76,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 5.88,
+"second": "HJ중공업",
+"second_ret": 5.73
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.58,
+"up5": 2,
+"lead": "노루페인트",
+"lead_ret": 7.67,
+"second": "조광페인트",
+"second_ret": 5.19
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 3.29,
+"up5": 11,
+"lead": "자비스",
+"lead_ret": 29.84,
+"second": "하나기술",
+"second_ret": 21.86
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.2,
+"up5": 2,
+"lead": "인지디스플레",
+"lead_ret": 12.14,
+"second": "서남",
+"second_ret": 7.46
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": -2.04,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": -0.58,
+"second": "에스티팜",
+"second_ret": -1.07
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.97,
+"up5": 0,
+"lead": "팬젠",
+"lead_ret": 3.42,
+"second": "에이프로젠바이오로직스",
+"second_ret": 0.24
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.86,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 2.19,
+"second": "삼성바이오로직스",
+"second_ret": -0.63
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -1.68,
+"up5": 1,
+"lead": "DXVX",
+"lead_ret": 8.33,
+"second": "아모레퍼시픽",
+"second_ret": 1.21
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": -1.56,
+"up5": 1,
+"lead": "앱클론",
+"lead_ret": 12.65,
+"second": "더코디",
+"second_ret": 4.79
+}
+],
+"leaders": [
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 20.15,
+"value": 5195,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "하나기술",
+"code": "299030",
+"ret": 21.86,
+"value": 3797,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "KG케미칼",
+"code": "001390",
+"ret": 15.62,
+"value": 3117,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "KG스틸",
+"code": "016380",
+"ret": 17.89,
+"value": 3070,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 23.63,
+"value": 2780,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

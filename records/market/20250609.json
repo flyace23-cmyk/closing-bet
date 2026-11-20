@@ -1,0 +1,254 @@
+{
+"date": "20250609",
+"kospi": 1.55,
+"kosdaq": 1.06,
+"adv": 1600,
+"dec": 667,
+"flat": 94,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 207259,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 8,
+"lead": "카카오페이",
+"lead_ret": 29.92,
+"second": "다날",
+"second_ret": 29.87
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+},
+{
+"name": "마이데이터",
+"n": 3,
+"lead": "유비벨록스",
+"lead_ret": 15.18,
+"second": "아톤",
+"second_ret": 15.17
+}
+],
+"themes": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 13.28,
+"up5": 9,
+"lead": "헥토파이낸셜",
+"lead_ret": 29.97,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 12.09,
+"up5": 16,
+"lead": "헥토파이낸셜",
+"lead_ret": 29.97,
+"second": "카카오페이",
+"second_ret": 29.92
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 10.12,
+"up5": 12,
+"lead": "컴투스홀딩스",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 10.11,
+"up5": 16,
+"lead": "헥토파이낸셜",
+"lead_ret": 29.97,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 8.97,
+"up5": 16,
+"lead": "헥토파이낸셜",
+"lead_ret": 29.97,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 8.71,
+"up5": 5,
+"lead": "LS마린솔루션",
+"lead_ret": 26.89,
+"second": "대한전선",
+"second_ret": 12.74
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 8.1,
+"up5": 13,
+"lead": "컴투스홀딩스",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 7.14,
+"up5": 5,
+"lead": "와이즈넛",
+"lead_ret": 20.53,
+"second": "TS인베스트먼트",
+"second_ret": 20.33
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 6.75,
+"up5": 2,
+"lead": "카카오페이",
+"lead_ret": 29.92,
+"second": "케이씨에스",
+"second_ret": 6.31
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 6.54,
+"up5": 4,
+"lead": "LS마린솔루션",
+"lead_ret": 26.89,
+"second": "한국선재",
+"second_ret": 13.72
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 6.5,
+"up5": 3,
+"lead": "GS리테일",
+"lead_ret": 13.58,
+"second": "BGF리테일",
+"second_ret": 11.12
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 6.49,
+"up5": 5,
+"lead": "헥토파이낸셜",
+"lead_ret": 29.97,
+"second": "갤럭시아머니트리",
+"second_ret": 29.95
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.87,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.21,
+"second": "메가터치",
+"second_ret": 0.12
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.58,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 0.78,
+"second": "삼성중공업",
+"second_ret": -0.6
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -1.27,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 1.45,
+"second": "한켐",
+"second_ret": 0.74
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -1.26,
+"up5": 1,
+"lead": "케이프",
+"lead_ret": 5.14,
+"second": "화인베스틸",
+"second_ret": 4.15
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.17,
+"up5": 0,
+"lead": "강원에너지",
+"lead_ret": 2.07,
+"second": "세방전지",
+"second_ret": 1.31
+}
+],
+"leaders": [
+{
+"name": "카카오",
+"code": "035720",
+"ret": 16.03,
+"value": 6571,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "카카오뱅크",
+"code": "323410",
+"ret": 20.21,
+"value": 2620,
+"theme": "인터넷은행",
+"reason": "테마: 인터넷은행"
+},
+{
+"name": "한국정보인증",
+"code": "053300",
+"ret": 26.01,
+"value": 2106,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 12.23,
+"value": 1821,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 12.74,
+"value": 1607,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

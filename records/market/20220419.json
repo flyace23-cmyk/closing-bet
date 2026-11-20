@@ -1,0 +1,246 @@
+{
+"date": "20220419",
+"kospi": 0.95,
+"kosdaq": 1.45,
+"adv": 1375,
+"dec": 495,
+"flat": 207,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 159454,
+"hot": [
+{
+"name": "사료",
+"n": 6,
+"lead": "한일사료",
+"lead_ret": 29.93,
+"second": "이지바이오",
+"second_ret": 29.86
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "아이컴포넌트",
+"lead_ret": 17.2,
+"second": "원익IPS",
+"second_ret": 10.78
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 9.09,
+"up5": 9,
+"lead": "한일사료",
+"lead_ret": 29.93,
+"second": "이지바이오",
+"second_ret": 29.86
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 5.36,
+"up5": 3,
+"lead": "이지홀딩스",
+"lead_ret": 24.2,
+"second": "팜스토리",
+"second_ret": 7.64
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 5.27,
+"up5": 8,
+"lead": "한일사료",
+"lead_ret": 29.93,
+"second": "이지바이오",
+"second_ret": 29.86
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.92,
+"up5": 5,
+"lead": "한일사료",
+"lead_ret": 29.93,
+"second": "이지홀딩스",
+"second_ret": 24.2
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.83,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 7.72,
+"second": "HD한국조선해양",
+"second_ret": 3.73
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.4,
+"up5": 2,
+"lead": "이지홀딩스",
+"lead_ret": 24.2,
+"second": "팜스토리",
+"second_ret": 7.64
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.1,
+"up5": 1,
+"lead": "KG스틸",
+"lead_ret": 6.84,
+"second": "현대제철",
+"second_ret": 4.15
+},
+{
+"name": "조선기자재",
+"n": 29,
+"avg": 3.01,
+"up5": 5,
+"lead": "일승",
+"lead_ret": 19.16,
+"second": "STX엔진",
+"second_ret": 7.69
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 3.0,
+"up5": 4,
+"lead": "일승",
+"lead_ret": 19.16,
+"second": "HD현대중공업",
+"second_ret": 7.72
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.53,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 4.36,
+"second": "팬오션",
+"second_ret": 3.83
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 2.5,
+"up5": 3,
+"lead": "고영",
+"lead_ret": 8.11,
+"second": "이오테크닉스",
+"second_ret": 5.54
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 2.49,
+"up5": 1,
+"lead": "큐라클",
+"lead_ret": 29.73,
+"second": "차바이오텍",
+"second_ret": 3.88
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -1.02,
+"up5": 0,
+"lead": "모두투어",
+"lead_ret": 0.0,
+"second": "하나투어",
+"second_ret": -0.35
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.96,
+"up5": 0,
+"lead": "티웨이홀딩스",
+"lead_ret": 0.71,
+"second": "에어부산",
+"second_ret": 0.21
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.62,
+"up5": 0,
+"lead": "크리스탈신소재",
+"lead_ret": 2.0,
+"second": "헝셩그룹",
+"second_ret": 0.26
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.56,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 1.71,
+"second": "대창솔루션",
+"second_ret": 1.2
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -0.46,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 3.12,
+"second": "강스템바이오텍",
+"second_ret": 2.21
+}
+],
+"leaders": [
+{
+"name": "대한제당",
+"code": "001790",
+"ret": 20.9,
+"value": 4390,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 29.93,
+"value": 3942,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "이지홀딩스",
+"code": "035810",
+"ret": 24.2,
+"value": 2976,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 14.38,
+"value": 2843,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "이지바이오",
+"code": "353810",
+"ret": 29.86,
+"value": 1734,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

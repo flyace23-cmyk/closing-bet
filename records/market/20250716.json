@@ -1,0 +1,254 @@
+{
+"date": "20250716",
+"kospi": -0.9,
+"kosdaq": -0.08,
+"adv": 635,
+"dec": 1624,
+"flat": 109,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 178009,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "톱텍",
+"lead_ret": 29.78,
+"second": "솔브레인홀딩스",
+"second_ret": 17.22
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "톱텍",
+"lead_ret": 29.78,
+"second": "덕산네오룩스",
+"second_ret": 11.02
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "덕산네오룩스",
+"lead_ret": 11.02,
+"second": "레몬",
+"second_ret": 10.29
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 4.81,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 20.85,
+"second": "웹케시",
+"second_ret": 3.07
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 2.12,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 18.8,
+"second": "링크솔루션",
+"second_ret": 8.11
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.77,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 27.41,
+"second": "디에스케이",
+"second_ret": 3.75
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.7,
+"up5": 1,
+"lead": "하이스틸",
+"lead_ret": 16.02,
+"second": "KBI동양철관",
+"second_ret": 4.73
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 1.62,
+"up5": 1,
+"lead": "유니테스트",
+"lead_ret": 11.98,
+"second": "석경에이티",
+"second_ret": 3.98
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.6,
+"up5": 1,
+"lead": "하이스틸",
+"lead_ret": 16.02,
+"second": "KBI동양철관",
+"second_ret": 4.73
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 1.49,
+"up5": 3,
+"lead": "덕산네오룩스",
+"lead_ret": 11.02,
+"second": "코세스",
+"second_ret": 7.76
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 1.48,
+"up5": 0,
+"lead": "딥커머스",
+"lead_ret": 4.54,
+"second": "오가닉티코스메틱",
+"second_ret": 4.36
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 1.43,
+"up5": 2,
+"lead": "레몬",
+"lead_ret": 10.29,
+"second": "프로텍",
+"second_ret": 7.69
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 1.36,
+"up5": 2,
+"lead": "쿠콘",
+"lead_ret": 20.85,
+"second": "다날",
+"second_ret": 5.28
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 1.17,
+"up5": 3,
+"lead": "우성머티리얼스",
+"lead_ret": 12.44,
+"second": "노바텍",
+"second_ret": 10.19
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.13,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 7.69,
+"second": "이오테크닉스",
+"second_ret": 3.05
+}
+],
+"themes_worst": [
+{
+"name": "증권",
+"n": 21,
+"avg": -4.07,
+"up5": 0,
+"lead": "부국증권",
+"lead_ret": -0.44,
+"second": "코리아에셋투자증권",
+"second_ret": -2.28
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -3.61,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": -1.16,
+"second": "신한지주",
+"second_ret": -1.98
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -3.02,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": -0.35,
+"second": "이월드",
+"second_ret": -0.48
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -2.37,
+"up5": 0,
+"lead": "서울보증보험",
+"lead_ret": 0.47,
+"second": "한화손해보험",
+"second_ret": -0.65
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -2.23,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": -0.16,
+"second": "BGF리테일",
+"second_ret": -1.95
+}
+],
+"leaders": [
+{
+"name": "파인엠텍",
+"code": "441270",
+"ret": 15.52,
+"value": 5877,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "쿠콘",
+"code": "294570",
+"ret": 20.85,
+"value": 2483,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "스맥",
+"code": "099440",
+"ret": 18.8,
+"value": 2396,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "제일일렉트릭",
+"code": "199820",
+"ret": 15.92,
+"value": 1854,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 16.02,
+"value": 1299,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+}
+],
+"backfilled": true
+}

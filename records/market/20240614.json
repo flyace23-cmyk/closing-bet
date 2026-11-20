@@ -1,0 +1,254 @@
+{
+"date": "20240614",
+"kospi": 0.13,
+"kosdaq": -1.05,
+"adv": 764,
+"dec": 1361,
+"flat": 133,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 236329,
+"hot": [
+{
+"name": "화장품",
+"n": 6,
+"lead": "에코글로우",
+"lead_ret": 29.98,
+"second": "셀바이오휴먼텍",
+"second_ret": 14.32
+},
+{
+"name": "음식료업종",
+"n": 5,
+"lead": "에스앤디",
+"lead_ret": 20.17,
+"second": "한울앤제주",
+"second_ret": 17.52
+},
+{
+"name": "수산",
+"n": 5,
+"lead": "사조대림",
+"lead_ret": 29.96,
+"second": "사조산업",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "수산",
+"n": 9,
+"avg": 18.33,
+"up5": 7,
+"lead": "사조대림",
+"lead_ret": 29.96,
+"second": "사조산업",
+"second_ret": 29.93
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 12.96,
+"up5": 3,
+"lead": "사조대림",
+"lead_ret": 29.96,
+"second": "CJ씨푸드",
+"second_ret": 24.17
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 7.54,
+"up5": 6,
+"lead": "사조대림",
+"lead_ret": 29.96,
+"second": "사조산업",
+"second_ret": 29.93
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 3.36,
+"up5": 2,
+"lead": "한울앤제주",
+"lead_ret": 17.52,
+"second": "무학",
+"second_ret": 9.11
+},
+{
+"name": "음식료업종",
+"n": 60,
+"avg": 3.33,
+"up5": 14,
+"lead": "에스앤디",
+"lead_ret": 20.17,
+"second": "한울앤제주",
+"second_ret": 17.52
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.65,
+"up5": 1,
+"lead": "샘표식품",
+"lead_ret": 5.04,
+"second": "풀무원",
+"second_ret": 4.51
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.57,
+"up5": 2,
+"lead": "오가닉티코스메틱",
+"lead_ret": 11.11,
+"second": "윙입푸드",
+"second_ret": 7.06
+},
+{
+"name": "조선기자재",
+"n": 34,
+"avg": 2.39,
+"up5": 5,
+"lead": "KS인더스트리",
+"lead_ret": 27.11,
+"second": "한화엔진",
+"second_ret": 13.87
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.36,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 5.99,
+"second": "STX그린로지스",
+"second_ret": 3.14
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 2.29,
+"up5": 4,
+"lead": "꿈비",
+"lead_ret": 15.49,
+"second": "오가닉티코스메틱",
+"second_ret": 11.11
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.23,
+"up5": 3,
+"lead": "사조동아원",
+"lead_ret": 15.77,
+"second": "팜스코",
+"second_ret": 6.75
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.22,
+"up5": 3,
+"lead": "꿈비",
+"lead_ret": 15.49,
+"second": "제로투세븐",
+"second_ret": 5.48
+}
+],
+"themes_worst": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -4.07,
+"up5": 0,
+"lead": "미코",
+"lead_ret": -0.29,
+"second": "엘티씨",
+"second_ret": -1.25
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -2.52,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 6.88,
+"second": "삼성전기",
+"second_ret": 2.5
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -2.47,
+"up5": 0,
+"lead": "선익시스템",
+"lead_ret": 0.58,
+"second": "한국전력",
+"second_ret": 0.41
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -2.4,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 1.75,
+"second": "빛과전자",
+"second_ret": 1.33
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 13,
+"avg": -2.3,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 1.35,
+"second": "디지캡",
+"second_ret": 0.36
+}
+],
+"leaders": [
+{
+"name": "CJ씨푸드",
+"code": "011150",
+"ret": 24.17,
+"value": 4525,
+"theme": "수산",
+"reason": "테마: 수산"
+},
+{
+"name": "민테크",
+"code": "452200",
+"ret": 19.8,
+"value": 2870,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 13.87,
+"value": 1839,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "HB솔루션",
+"code": "297890",
+"ret": 13.52,
+"value": 1727,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "에스앤디",
+"code": "260970",
+"ret": 20.17,
+"value": 1659,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+}
+],
+"backfilled": true
+}

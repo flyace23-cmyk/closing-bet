@@ -1,0 +1,254 @@
+{
+"date": "20210217",
+"kospi": -0.93,
+"kosdaq": 0.21,
+"adv": 1022,
+"dec": 791,
+"flat": 170,
+"limit_up": 12,
+"limit_down": 1,
+"value_total": 377028,
+"hot": [
+{
+"name": "쿠팡(coupang)",
+"n": 7,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "삼성페이",
+"n": 4,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 4,
+"lead": "삼성출판사",
+"lead_ret": 30.0,
+"second": "다날",
+"second_ret": 29.96
+}
+],
+"themes": [
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 10.92,
+"up5": 10,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 9.32,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 8.3,
+"up5": 7,
+"lead": "인터지스",
+"lead_ret": 29.89,
+"second": "한솔로지스틱스",
+"second_ret": 29.87
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.25,
+"up5": 2,
+"lead": "그래디언트",
+"lead_ret": 12.45,
+"second": "한화생명",
+"second_ret": 11.3
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 5.92,
+"up5": 7,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 5.56,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "스테이블코인",
+"n": 19,
+"avg": 5.37,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "한국정보인증",
+"second_ret": 25.36
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 5.13,
+"up5": 3,
+"lead": "대영포장",
+"lead_ret": 29.87,
+"second": "블루산업개발",
+"second_ret": 9.17
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 5.08,
+"up5": 1,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 18.52,
+"second": "TS인베스트먼트",
+"second_ret": 3.01
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 21,
+"avg": 4.82,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 4.79,
+"up5": 7,
+"lead": "다날",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 29.94
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 4.76,
+"up5": 2,
+"lead": "흥국에프엔비",
+"lead_ret": 29.9,
+"second": "이씨에스",
+"second_ret": 6.51
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 25,
+"avg": -2.66,
+"up5": 0,
+"lead": "안국약품",
+"lead_ret": 1.75,
+"second": "티움바이오",
+"second_ret": 1.69
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 19,
+"avg": -2.14,
+"up5": 1,
+"lead": "바이넥스",
+"lead_ret": 6.1,
+"second": "셀트리온제약",
+"second_ret": 0.36
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.85,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "HL만도",
+"second_ret": -1.4
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.47,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.44,
+"second": "차바이오텍",
+"second_ret": 0.27
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.45,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 2.36,
+"second": "TKG휴켐스",
+"second_ret": 0.39
+}
+],
+"leaders": [
+{
+"name": "덴티스",
+"code": "261200",
+"ret": 30.0,
+"value": 5810,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 12.45,
+"value": 4856,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "케이티알파",
+"code": "036030",
+"ret": 12.82,
+"value": 3902,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "대영포장",
+"code": "014160",
+"ret": 29.87,
+"value": 3603,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "삼성출판사",
+"code": "068290",
+"ret": 30.0,
+"value": 3513,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+}
+],
+"backfilled": true
+}

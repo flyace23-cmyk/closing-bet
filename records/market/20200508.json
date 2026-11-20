@@ -1,0 +1,254 @@
+{
+"date": "20200508",
+"kospi": 0.89,
+"kosdaq": 2.11,
+"adv": 1302,
+"dec": 430,
+"flat": 179,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 230764,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "디엔에프",
+"lead_ret": 18.1,
+"second": "케이엔제이",
+"second_ret": 14.56
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "포인트엔지니어링",
+"lead_ret": 14.0,
+"second": "원익홀딩스",
+"second_ret": 12.8
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "포인트엔지니어링",
+"lead_ret": 14.0,
+"second": "에프엔에스테크",
+"second_ret": 11.4
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.58,
+"up5": 3,
+"lead": "로스웰",
+"lead_ret": 22.3,
+"second": "씨엑스아이",
+"second_ret": 10.05
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 4.99,
+"up5": 7,
+"lead": "GC메디아이",
+"lead_ret": 29.99,
+"second": "비트컴퓨터",
+"second_ret": 9.29
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.13,
+"up5": 3,
+"lead": "HL만도",
+"lead_ret": 7.63,
+"second": "현대위아",
+"second_ret": 6.73
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.66,
+"up5": 3,
+"lead": "디와이덕양",
+"lead_ret": 11.48,
+"second": "대창",
+"second_ret": 6.49
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 3.54,
+"up5": 11,
+"lead": "GC메디아이",
+"lead_ret": 29.99,
+"second": "퓨쳐켐",
+"second_ret": 9.34
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 3.37,
+"up5": 1,
+"lead": "메디톡스",
+"lead_ret": 21.99,
+"second": "휴메딕스",
+"second_ret": 4.94
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 3.28,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 10.91,
+"second": "삼성바이오로직스",
+"second_ret": 3.7
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.26,
+"up5": 1,
+"lead": "대한전선",
+"lead_ret": 14.94,
+"second": "KBI메탈",
+"second_ret": 3.38
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.08,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 7.4,
+"second": "롯데관광개발",
+"second_ret": 4.17
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.08,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 7.4,
+"second": "롯데관광개발",
+"second_ret": 4.17
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.08,
+"up5": 1,
+"lead": "하이록코리아",
+"lead_ret": 9.05,
+"second": "비엠티",
+"second_ret": 4.47
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.07,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 7.25,
+"second": "녹십자",
+"second_ret": 2.77
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 9,
+"avg": -1.48,
+"up5": 0,
+"lead": "NEW",
+"lead_ret": 0.0,
+"second": "아센디오",
+"second_ret": 0.0
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.11,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 3.69,
+"second": "롯데지주",
+"second_ret": -0.77
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -1.05,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.82,
+"second": "사조대림",
+"second_ret": 0.0
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.01,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 0.88,
+"second": "유니온머티리얼",
+"second_ret": -0.62
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.97,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 0.0,
+"second": "현대백화점",
+"second_ret": -0.14
+}
+],
+"leaders": [
+{
+"name": "GC메디아이",
+"code": "032620",
+"ret": 29.99,
+"value": 7733,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 12.33,
+"value": 5579,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "메디톡스",
+"code": "086900",
+"ret": 21.99,
+"value": 3204,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "화천기계",
+"code": "010660",
+"ret": 20.33,
+"value": 1945,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "다우데이타",
+"code": "032190",
+"ret": 10.38,
+"value": 1298,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

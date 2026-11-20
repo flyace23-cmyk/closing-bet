@@ -1,0 +1,254 @@
+{
+"date": "20210628",
+"kospi": -0.03,
+"kosdaq": 0.57,
+"adv": 1154,
+"dec": 665,
+"flat": 194,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 221326,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "아이진",
+"lead_ret": 29.9,
+"second": "제이에스링크",
+"second_ret": 14.07
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "피제이전자",
+"lead_ret": 12.92,
+"second": "마크로젠",
+"second_ret": 10.44
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 3,
+"lead": "마크로젠",
+"lead_ret": 10.44,
+"second": "차바이오텍",
+"second_ret": 9.38
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 4.21,
+"up5": 2,
+"lead": "에코플라스틱",
+"lead_ret": 19.02,
+"second": "삼륭물산",
+"second_ret": 5.96
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.19,
+"up5": 3,
+"lead": "아이진",
+"lead_ret": 29.9,
+"second": "서린바이오",
+"second_ret": 5.4
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 3.35,
+"up5": 3,
+"lead": "아이진",
+"lead_ret": 29.9,
+"second": "네이처셀",
+"second_ret": 12.55
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.3,
+"up5": 1,
+"lead": "플랜티넷",
+"lead_ret": 29.72,
+"second": "이스트소프트",
+"second_ret": 0.41
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.19,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 9.38,
+"second": "강스템바이오텍",
+"second_ret": 4.82
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 3.06,
+"up5": 3,
+"lead": "네이처셀",
+"lead_ret": 12.55,
+"second": "마크로젠",
+"second_ret": 10.44
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.02,
+"up5": 2,
+"lead": "이씨에스",
+"lead_ret": 11.42,
+"second": "지어소프트",
+"second_ret": 5.9
+},
+{
+"name": "마스크",
+"n": 21,
+"avg": 3.0,
+"up5": 2,
+"lead": "동양",
+"lead_ret": 24.24,
+"second": "비비안",
+"second_ret": 12.96
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 2.77,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 15.32,
+"second": "메가엠디",
+"second_ret": 3.17
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.55,
+"up5": 1,
+"lead": "포스코스틸리온",
+"lead_ret": 5.34,
+"second": "대한제강",
+"second_ret": 4.95
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.47,
+"up5": 2,
+"lead": "아이비김영",
+"lead_ret": 15.32,
+"second": "에피소드컴퍼니",
+"second_ret": 5.75
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.45,
+"up5": 1,
+"lead": "동양",
+"lead_ret": 24.24,
+"second": "삼표시멘트",
+"second_ret": 2.98
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.08,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 0.3,
+"second": "KG모빌리티",
+"second_ret": 0.0
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.94,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 0.69,
+"second": "참좋은여행",
+"second_ret": 0.33
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 12,
+"avg": -0.92,
+"up5": 0,
+"lead": "대한광통신",
+"lead_ret": 0.96,
+"second": "우리넷",
+"second_ret": 0.11
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -0.84,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 1.93,
+"second": "포니링크",
+"second_ret": 1.04
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.78,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 0.35,
+"second": "광주신세계",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "동양",
+"code": "001520",
+"ret": 24.24,
+"value": 4740,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "아모센스",
+"code": "357580",
+"ret": 14.47,
+"value": 3326,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 12.55,
+"value": 3175,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "LS네트웍스",
+"code": "000680",
+"ret": 15.51,
+"value": 1854,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "아이진",
+"code": "185490",
+"ret": 29.9,
+"value": 1692,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

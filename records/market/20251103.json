@@ -1,0 +1,254 @@
+{
+"date": "20251103",
+"kospi": 2.78,
+"kosdaq": 1.57,
+"adv": 775,
+"dec": 1538,
+"flat": 69,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 339503,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "LS티라유텍",
+"lead_ret": 30.0,
+"second": "디아이씨",
+"second_ret": 29.83
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "티로보틱스",
+"lead_ret": 29.75,
+"second": "필옵틱스",
+"second_ret": 21.33
+},
+{
+"name": "유리 기판",
+"n": 4,
+"lead": "필옵틱스",
+"lead_ret": 21.33,
+"second": "켐트로닉스",
+"second_ret": 19.17
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 7.27,
+"up5": 15,
+"lead": "필옵틱스",
+"lead_ret": 21.33,
+"second": "켐트로닉스",
+"second_ret": 19.17
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 6.63,
+"up5": 4,
+"lead": "대원전선",
+"lead_ret": 15.62,
+"second": "일진전기",
+"second_ret": 10.42
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 6.53,
+"up5": 1,
+"lead": "유라클",
+"lead_ret": 29.98,
+"second": "코나아이",
+"second_ret": 4.14
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": 5.39,
+"up5": 31,
+"lead": "LS티라유텍",
+"lead_ret": 30.0,
+"second": "디아이씨",
+"second_ret": 29.83
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 43,
+"avg": 5.18,
+"up5": 21,
+"lead": "티로보틱스",
+"lead_ret": 29.75,
+"second": "로보티즈",
+"second_ret": 24.49
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.96,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 29.83,
+"second": "에코프로",
+"second_ret": 7.73
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 4.85,
+"up5": 4,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 28.35,
+"second": "한화솔루션",
+"second_ret": 8.17
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 63,
+"avg": 4.84,
+"up5": 28,
+"lead": "티로보틱스",
+"lead_ret": 29.75,
+"second": "로보티즈",
+"second_ret": 24.49
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 4.2,
+"up5": 14,
+"lead": "LS티라유텍",
+"lead_ret": 30.0,
+"second": "포스코DX",
+"second_ret": 13.12
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 4.12,
+"up5": 14,
+"lead": "대원전선",
+"lead_ret": 15.62,
+"second": "LS ELECTRIC",
+"second_ret": 12.3
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 4.03,
+"up5": 3,
+"lead": "유라클",
+"lead_ret": 29.98,
+"second": "와이즈넛",
+"second_ret": 8.53
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.95,
+"up5": 2,
+"lead": "대한광통신",
+"lead_ret": 29.8,
+"second": "RFHIC",
+"second_ret": 8.68
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.74,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": 0.46,
+"second": "GRT",
+"second_ret": -1.07
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -2.57,
+"up5": 0,
+"lead": "와이엔텍",
+"lead_ret": -1.17,
+"second": "태영건설",
+"second_ret": -1.59
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.55,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.72,
+"second": "레드캡투어",
+"second_ret": -0.8
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -2.45,
+"up5": 0,
+"lead": "DGI",
+"lead_ret": 0.0,
+"second": "한화비전",
+"second_ret": -1.49
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.36,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 3.22,
+"second": "대원미디어",
+"second_ret": -1.47
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 10.91,
+"value": 35880,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 11.23,
+"value": 7744,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 24.49,
+"value": 7385,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 14.78,
+"value": 6625,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "두산로보틱스",
+"code": "454910",
+"ret": 18.08,
+"value": 4627,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

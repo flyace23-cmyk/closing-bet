@@ -1,0 +1,254 @@
+{
+"date": "20230120",
+"kospi": 0.63,
+"kosdaq": 0.71,
+"adv": 1276,
+"dec": 625,
+"flat": 229,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 104546,
+"hot": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 4,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.85,
+"second": "서울옥션",
+"second_ret": 17.5
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "한울소재과학",
+"lead_ret": 29.79,
+"second": "기가레인",
+"second_ret": 24.04
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "코닉오토메이션",
+"lead_ret": 16.25,
+"second": "뉴로메카",
+"second_ret": 12.66
+}
+],
+"themes": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.59,
+"up5": 4,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.85,
+"second": "서울옥션",
+"second_ret": 17.5
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 4.22,
+"up5": 5,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.85,
+"second": "서울옥션",
+"second_ret": 17.5
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.77,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.22,
+"second": "GS건설",
+"second_ret": 4.61
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.62,
+"up5": 2,
+"lead": "금강공업",
+"lead_ret": 9.26,
+"second": "덕신이피씨",
+"second_ret": 6.97
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": 2.77,
+"up5": 4,
+"lead": "한울소재과학",
+"lead_ret": 29.79,
+"second": "기가레인",
+"second_ret": 24.04
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.68,
+"up5": 2,
+"lead": "에어부산",
+"lead_ret": 12.29,
+"second": "트리니티항공",
+"second_ret": 5.33
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 52,
+"avg": 2.53,
+"up5": 5,
+"lead": "한울소재과학",
+"lead_ret": 29.79,
+"second": "기가레인",
+"second_ret": 24.04
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 2.24,
+"up5": 2,
+"lead": "현대에이치티",
+"lead_ret": 6.44,
+"second": "가온그룹",
+"second_ret": 5.34
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.1,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.22,
+"second": "쿠콘",
+"second_ret": 6.83
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.09,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 7.05,
+"second": "JB금융지주",
+"second_ret": 3.85
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.07,
+"up5": 1,
+"lead": "기가레인",
+"lead_ret": 24.04,
+"second": "지아이에스",
+"second_ret": 1.66
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.06,
+"up5": 1,
+"lead": "금강공업",
+"lead_ret": 9.26,
+"second": "이렘",
+"second_ret": 3.42
+}
+],
+"themes_worst": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -1.43,
+"up5": 0,
+"lead": "아이에이",
+"lead_ret": 1.09,
+"second": "현대모비스",
+"second_ret": 0.72
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -0.6,
+"up5": 0,
+"lead": "대동금속",
+"lead_ret": 1.74,
+"second": "혜인",
+"second_ret": 1.05
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -0.59,
+"up5": 0,
+"lead": "지노믹트리",
+"lead_ret": 3.5,
+"second": "코오롱생명과학",
+"second_ret": 1.45
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.55,
+"up5": 0,
+"lead": "JTC",
+"lead_ret": 1.08,
+"second": "HDC",
+"second_ret": 1.0
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -0.51,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.23,
+"second": "아이티센글로벌",
+"second_ret": 0.61
+}
+],
+"leaders": [
+{
+"name": "한주라이트메탈",
+"code": "198940",
+"ret": 12.74,
+"value": 1954,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "기가레인",
+"code": "049080",
+"ret": 24.04,
+"value": 1951,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 12.66,
+"value": 1677,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 13.22,
+"value": 1537,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 11.91,
+"value": 954,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210126",
+"kospi": -2.14,
+"kosdaq": -0.53,
+"adv": 555,
+"dec": 1311,
+"flat": 107,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 389583,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "SFA반도체",
+"lead_ret": 30.0,
+"second": "서플러스글로벌",
+"second_ret": 29.86
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "SFA반도체",
+"lead_ret": 30.0,
+"second": "아이에이",
+"second_ret": 29.69
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "레이크머티리얼즈",
+"lead_ret": 20.07,
+"second": "코아시아",
+"second_ret": 15.23
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.9,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 29.9,
+"second": "SBI인베스트먼트",
+"second_ret": 3.08
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 3.77,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 10.92,
+"second": "TS인베스트먼트",
+"second_ret": 6.19
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.09,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 24.23,
+"second": "대원미디어",
+"second_ret": -0.1
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 3.05,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 29.85,
+"second": "제너셈",
+"second_ret": 3.82
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 2.45,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 10.92,
+"second": "TS인베스트먼트",
+"second_ret": 6.19
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 2.38,
+"up5": 8,
+"lead": "SFA반도체",
+"lead_ret": 30.0,
+"second": "아이에이",
+"second_ret": 29.69
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.1,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 29.85,
+"second": "지아이에스",
+"second_ret": 2.52
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 2.1,
+"up5": 2,
+"lead": "로지시스",
+"lead_ret": 9.28,
+"second": "케이씨에스",
+"second_ret": 7.27
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 1.98,
+"up5": 4,
+"lead": "프로텍",
+"lead_ret": 29.85,
+"second": "덕산네오룩스",
+"second_ret": 8.11
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 1.85,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 28.61,
+"second": "아톤",
+"second_ret": -0.76
+},
+{
+"name": "반도체 장비",
+"n": 74,
+"avg": 1.75,
+"up5": 10,
+"lead": "SFA반도체",
+"lead_ret": 30.0,
+"second": "서플러스글로벌",
+"second_ret": 29.86
+},
+{
+"name": "LED",
+"n": 36,
+"avg": 1.63,
+"up5": 7,
+"lead": "레이크머티리얼즈",
+"lead_ret": 20.07,
+"second": "코아시아",
+"second_ret": 15.23
+}
+],
+"themes_worst": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -3.16,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": -1.48,
+"second": "이월드",
+"second_ret": -1.61
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.9,
+"up5": 0,
+"lead": "가온전선",
+"lead_ret": 0.42,
+"second": "LS마린솔루션",
+"second_ret": -1.4
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.71,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -1.56,
+"second": "현대백화점",
+"second_ret": -2.02
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.64,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "한온시스템",
+"second_ret": -1.37
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": -2.48,
+"up5": 0,
+"lead": "제이에스코퍼레이션",
+"lead_ret": 0.25,
+"second": "아난티",
+"second_ret": -0.97
+}
+],
+"leaders": [
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 30.0,
+"value": 10129,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "아이에이",
+"code": "038880",
+"ret": 29.69,
+"value": 4220,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "러셀",
+"code": "217500",
+"ret": 11.72,
+"value": 3785,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "시그네틱스",
+"code": "033170",
+"ret": 25.93,
+"value": 3723,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 29.9,
+"value": 2957,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+}
+],
+"backfilled": true
+}

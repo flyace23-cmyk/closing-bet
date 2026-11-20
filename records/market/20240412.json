@@ -1,0 +1,254 @@
+{
+"date": "20240412",
+"kospi": -0.93,
+"kosdaq": 0.28,
+"adv": 1014,
+"dec": 1090,
+"flat": 146,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 192014,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "AP시스템",
+"lead_ret": 19.02,
+"second": "넥사다이내믹스",
+"second_ret": 13.89
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "삼화콘덴서",
+"lead_ret": 14.54,
+"second": "LS ELECTRIC",
+"second_ret": 9.57
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "에스피소프트",
+"lead_ret": 30.0,
+"second": "폴라리스오피스",
+"second_ret": 9.41
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.69,
+"up5": 4,
+"lead": "가온전선",
+"lead_ret": 18.91,
+"second": "KBI메탈",
+"second_ret": 6.56
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.81,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 8.99,
+"second": "삼성중공업",
+"second_ret": 4.82
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": 3.47,
+"up5": 2,
+"lead": "에스피소프트",
+"lead_ret": 30.0,
+"second": "이스트소프트",
+"second_ret": 5.96
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 2.81,
+"up5": 8,
+"lead": "가온전선",
+"lead_ret": 18.91,
+"second": "LS ELECTRIC",
+"second_ret": 9.57
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.56,
+"up5": 2,
+"lead": "에스바이오메딕스",
+"lead_ret": 28.26,
+"second": "테고사이언스",
+"second_ret": 9.34
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 2.52,
+"up5": 2,
+"lead": "삼화콘덴서",
+"lead_ret": 14.54,
+"second": "아모텍",
+"second_ret": 5.17
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 2.52,
+"up5": 4,
+"lead": "에스피소프트",
+"lead_ret": 30.0,
+"second": "폴라리스오피스",
+"second_ret": 9.41
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.42,
+"up5": 2,
+"lead": "에이직랜드",
+"lead_ret": 12.92,
+"second": "오픈엣지테크놀로지",
+"second_ret": 9.59
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.37,
+"up5": 3,
+"lead": "삼화콘덴서",
+"lead_ret": 14.54,
+"second": "LS ELECTRIC",
+"second_ret": 9.57
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.25,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 14.54,
+"second": "비츠로테크",
+"second_ret": 2.95
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 34,
+"avg": 2.01,
+"up5": 6,
+"lead": "에스피소프트",
+"lead_ret": 30.0,
+"second": "폴라리스오피스",
+"second_ret": 9.41
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 1.99,
+"up5": 3,
+"lead": "EG",
+"lead_ret": 9.66,
+"second": "엔젯",
+"second_ret": 8.61
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -3.74,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.25,
+"second": "STX그린로지스",
+"second_ret": -1.32
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.97,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": 0.0,
+"second": "GS건설",
+"second_ret": -0.89
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.81,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.05,
+"second": "롯데손해보험",
+"second_ret": 0.31
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -2.65,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": -0.23,
+"second": "롯데지주",
+"second_ret": -1.53
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.56,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": -0.24,
+"second": "JB금융지주",
+"second_ret": -1.07
+}
+],
+"leaders": [
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 18.91,
+"value": 2916,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "AP시스템",
+"code": "265520",
+"ret": 19.02,
+"value": 2173,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "에스피소프트",
+"code": "443670",
+"ret": 30.0,
+"value": 1707,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 21.87,
+"value": 976,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 14.54,
+"value": 961,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

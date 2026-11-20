@@ -1,0 +1,254 @@
+{
+"date": "20220302",
+"kospi": 0.16,
+"kosdaq": 1.63,
+"adv": 1533,
+"dec": 395,
+"flat": 141,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 171317,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 4,
+"lead": "새로닉스",
+"lead_ret": 19.52,
+"second": "SDN",
+"second_ret": 14.21
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 4,
+"lead": "한성기업",
+"lead_ret": 29.9,
+"second": "CJ씨푸드",
+"second_ret": 11.6
+},
+{
+"name": "음식료업종",
+"n": 3,
+"lead": "네오크레마",
+"lead_ret": 30.0,
+"second": "미래생명자원",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "수산",
+"n": 9,
+"avg": 8.6,
+"up5": 4,
+"lead": "한성기업",
+"lead_ret": 29.9,
+"second": "사조씨푸드",
+"second_ret": 19.07
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 7.84,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 29.9,
+"second": "샘표",
+"second_ret": 5.34
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 7.17,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 29.9,
+"second": "CJ씨푸드",
+"second_ret": 11.6
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 5.5,
+"up5": 2,
+"lead": "한국선재",
+"lead_ret": 29.89,
+"second": "LS마린솔루션",
+"second_ret": 5.56
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 5.3,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 29.89,
+"second": "태광",
+"second_ret": 3.81
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 5.29,
+"up5": 5,
+"lead": "한성기업",
+"lead_ret": 29.9,
+"second": "CJ씨푸드",
+"second_ret": 11.6
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 5.0,
+"up5": 5,
+"lead": "우양피앤엘",
+"lead_ret": 16.33,
+"second": "흥구석유",
+"second_ret": 10.59
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 4.68,
+"up5": 5,
+"lead": "미래생명자원",
+"lead_ret": 29.9,
+"second": "팜스토리",
+"second_ret": 11.18
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 11,
+"avg": 4.58,
+"up5": 3,
+"lead": "파워넷",
+"lead_ret": 13.97,
+"second": "아모그린텍",
+"second_ret": 6.4
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.44,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 10.59,
+"second": "S-Oil",
+"second_ret": 6.04
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.26,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 10.59,
+"second": "중앙에너비스",
+"second_ret": 6.77
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.26,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 10.59,
+"second": "중앙에너비스",
+"second_ret": 6.77
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.85,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.09,
+"second": "롯데손해보험",
+"second_ret": 0.0
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.68,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.5,
+"second": "카카오뱅크",
+"second_ret": -0.21
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.43,
+"up5": 0,
+"lead": "에어부산",
+"lead_ret": 1.55,
+"second": "티웨이홀딩스",
+"second_ret": 0.14
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -1.11,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 2.87,
+"second": "메디톡스",
+"second_ret": 0.74
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.93,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": 2.91,
+"second": "파미셀",
+"second_ret": 0.91
+}
+],
+"leaders": [
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 15.35,
+"value": 3577,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 11.18,
+"value": 2200,
+"theme": "구제역/광우병 수혜",
+"reason": "테마: 구제역/광우병 수혜"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 29.9,
+"value": 1865,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 10.59,
+"value": 1616,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "SDN",
+"code": "099220",
+"ret": 14.21,
+"value": 1278,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210416",
+"kospi": 0.13,
+"kosdaq": 0.76,
+"adv": 1012,
+"dec": 786,
+"flat": 199,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 296434,
+"hot": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 3,
+"lead": "휴메딕스",
+"lead_ret": 30.0,
+"second": "휴온스글로벌",
+"second_ret": 29.82
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "바이오다인",
+"lead_ret": 12.75,
+"second": "세운메디칼",
+"second_ret": 10.64
+},
+{
+"name": "남북경협",
+"n": 3,
+"lead": "한국석유",
+"lead_ret": 29.89,
+"second": "롯데정밀화학",
+"second_ret": 11.4
+}
+],
+"themes": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 7.95,
+"up5": 5,
+"lead": "휴메딕스",
+"lead_ret": 30.0,
+"second": "휴온스글로벌",
+"second_ret": 29.82
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 5.64,
+"up5": 4,
+"lead": "휴메딕스",
+"lead_ret": 30.0,
+"second": "휴온스글로벌",
+"second_ret": 29.82
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 5.28,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 17.97,
+"second": "엔투텍",
+"second_ret": 8.83
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.03,
+"up5": 2,
+"lead": "위즈코프",
+"lead_ret": 29.98,
+"second": "중앙에너비스",
+"second_ret": 16.87
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.57,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 16.67,
+"second": "LX인터내셔널",
+"second_ret": 5.65
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.3,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 29.89,
+"second": "HC보광산업",
+"second_ret": 2.95
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 3.2,
+"up5": 5,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.93,
+"second": "오가닉티코스메틱",
+"second_ret": 16.4
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.18,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 16.67,
+"second": "휴비스",
+"second_ret": 2.23
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 3.16,
+"up5": 3,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.93,
+"second": "제로투세븐",
+"second_ret": 8.61
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.02,
+"up5": 1,
+"lead": "롯데정밀화학",
+"lead_ret": 11.4,
+"second": "KG케미칼",
+"second_ret": 2.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.99,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 6.2,
+"second": "HMM",
+"second_ret": 4.36
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 2.73,
+"up5": 3,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.93,
+"second": "크라운제과",
+"second_ret": 15.06
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.49,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": -0.36,
+"second": "한화투자증권",
+"second_ret": -0.56
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": -2.65,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": 4.02,
+"second": "이니텍",
+"second_ret": 1.82
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -2.56,
+"up5": 0,
+"lead": "린드먼아시아",
+"lead_ret": 2.51,
+"second": "SV인베스트먼트",
+"second_ret": 1.37
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -2.07,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": 0.0,
+"second": "아이티센글로벌",
+"second_ret": -1.42
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.73,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -0.25,
+"second": "강스템바이오텍",
+"second_ret": -0.83
+}
+],
+"leaders": [
+{
+"name": "에스티팜",
+"code": "237690",
+"ret": 17.97,
+"value": 3546,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "휴온스",
+"code": "243070",
+"ret": 15.93,
+"value": 3522,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "바이오다인",
+"code": "314930",
+"ret": 12.75,
+"value": 3201,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "효성티앤씨",
+"code": "298020",
+"ret": 16.67,
+"value": 2452,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "위즈코프",
+"code": "038620",
+"ret": 29.98,
+"value": 2376,
+"theme": "주유소",
+"reason": "테마: 주유소"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20251027",
+"kospi": 2.57,
+"kosdaq": 2.22,
+"adv": 1271,
+"dec": 992,
+"flat": 118,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 288781,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "후성",
+"lead_ret": 19.24,
+"second": "한솔테크닉스",
+"second_ret": 14.9
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "한미약품",
+"lead_ret": 26.25,
+"second": "디앤디파마텍",
+"second_ret": 14.79
+},
+{
+"name": "태양광에너지",
+"n": 3,
+"lead": "한솔테크닉스",
+"lead_ret": 14.9,
+"second": "한화",
+"second_ret": 13.08
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 8.6,
+"up5": 3,
+"lead": "차바이오텍",
+"lead_ret": 17.17,
+"second": "지씨셀",
+"second_ret": 12.74
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 7.62,
+"up5": 4,
+"lead": "삼성중공업",
+"lead_ret": 17.34,
+"second": "HJ중공업",
+"second_ret": 11.48
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 6.87,
+"up5": 7,
+"lead": "한미약품",
+"lead_ret": 26.25,
+"second": "파미셀",
+"second_ret": 12.34
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 5.37,
+"up5": 3,
+"lead": "TS인베스트먼트",
+"lead_ret": 18.42,
+"second": "DSC인베스트먼트",
+"second_ret": 12.24
+},
+{
+"name": "비만치료제",
+"n": 37,
+"avg": 5.18,
+"up5": 15,
+"lead": "한미약품",
+"lead_ret": 26.25,
+"second": "디앤디파마텍",
+"second_ret": 14.79
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 5.18,
+"up5": 7,
+"lead": "한미약품",
+"lead_ret": 26.25,
+"second": "삼천당제약",
+"second_ret": 13.45
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 4.96,
+"up5": 3,
+"lead": "TS인베스트먼트",
+"lead_ret": 18.42,
+"second": "DSC인베스트먼트",
+"second_ret": 12.24
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 4.92,
+"up5": 12,
+"lead": "인바이오젠",
+"lead_ret": 14.0,
+"second": "일동제약",
+"second_ret": 13.53
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 4.46,
+"up5": 4,
+"lead": "TS인베스트먼트",
+"lead_ret": 18.42,
+"second": "미래에셋벤처투자",
+"second_ret": 16.47
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 4.45,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 12.34,
+"second": "유한양행",
+"second_ret": 4.73
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 4.44,
+"up5": 10,
+"lead": "차바이오텍",
+"lead_ret": 17.17,
+"second": "지씨셀",
+"second_ret": 12.74
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 3.82,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 18.42,
+"second": "DSC인베스트먼트",
+"second_ret": 12.24
+}
+],
+"themes_worst": [
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -1.96,
+"up5": 0,
+"lead": "엔젯",
+"lead_ret": 2.33,
+"second": "우성머티리얼스",
+"second_ret": 0.78
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.86,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 7.06,
+"second": "대원미디어",
+"second_ret": 1.56
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.54,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 1.23,
+"second": "이루온",
+"second_ret": 1.21
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": -1.22,
+"up5": 0,
+"lead": "LX인터내셔널",
+"lead_ret": 0.83,
+"second": "LG화학",
+"second_ret": 0.75
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": -1.12,
+"up5": 0,
+"lead": "아이텍",
+"lead_ret": 4.61,
+"second": "태성",
+"second_ret": 2.74
+}
+],
+"leaders": [
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 17.34,
+"value": 7632,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "HJ중공업",
+"code": "097230",
+"ret": 11.48,
+"value": 6016,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한미약품",
+"code": "128940",
+"ret": 26.25,
+"value": 3829,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 12.34,
+"value": 2317,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "코데즈컴바인",
+"code": "047770",
+"ret": 14.41,
+"value": 1980,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

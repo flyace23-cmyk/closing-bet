@@ -1,0 +1,254 @@
+{
+"date": "20250718",
+"kospi": -0.13,
+"kosdaq": 0.29,
+"adv": 835,
+"dec": 1416,
+"flat": 117,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 173874,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "새빗켐",
+"lead_ret": 19.7,
+"second": "포스코퓨처엠",
+"second_ret": 19.59
+},
+{
+"name": "리튬",
+"n": 6,
+"lead": "리튬포어스",
+"lead_ret": 30.0,
+"second": "미래나노텍",
+"second_ret": 21.53
+},
+{
+"name": "2차전지(전고체)",
+"n": 3,
+"lead": "이브이첨단소재",
+"lead_ret": 29.95,
+"second": "이수스페셜티케미컬",
+"second_ret": 11.66
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 7.02,
+"up5": 9,
+"lead": "리튬포어스",
+"lead_ret": 30.0,
+"second": "미래나노텍",
+"second_ret": 21.53
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 5.11,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 30.0,
+"second": "오로라",
+"second_ret": 7.67
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.43,
+"up5": 6,
+"lead": "이브이첨단소재",
+"lead_ret": 29.95,
+"second": "이수스페셜티케미컬",
+"second_ret": 11.66
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.38,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 9.38,
+"second": "금호석유화학",
+"second_ret": 3.52
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 3.07,
+"up5": 16,
+"lead": "포스코퓨처엠",
+"lead_ret": 19.59,
+"second": "삼진엘앤디",
+"second_ret": 19.58
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.59,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 9.04,
+"second": "에코프로",
+"second_ret": 3.97
+},
+{
+"name": "2차전지",
+"n": 141,
+"avg": 2.36,
+"up5": 23,
+"lead": "새빗켐",
+"lead_ret": 19.7,
+"second": "포스코퓨처엠",
+"second_ret": 19.59
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 2.34,
+"up5": 2,
+"lead": "코나아이",
+"lead_ret": 10.91,
+"second": "갤럭시아머니트리",
+"second_ret": 7.52
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.16,
+"up5": 2,
+"lead": "태경비케이",
+"lead_ret": 18.18,
+"second": "롯데정밀화학",
+"second_ret": 6.44
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 2.13,
+"up5": 3,
+"lead": "새빗켐",
+"lead_ret": 19.7,
+"second": "코스모화학",
+"second_ret": 6.28
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 1.79,
+"up5": 1,
+"lead": "엘앤에프",
+"lead_ret": 12.89,
+"second": "탑머티리얼",
+"second_ret": 3.02
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 1.68,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 8.76,
+"second": "비츠로시스",
+"second_ret": 3.12
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": -2.93,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -1.3,
+"second": "현대해상",
+"second_ret": -1.94
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -2.21,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.0,
+"second": "SK증권",
+"second_ret": -0.14
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.01,
+"up5": 0,
+"lead": "대성에너지",
+"lead_ret": -0.34,
+"second": "인천도시가스",
+"second_ret": -0.38
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.9,
+"up5": 0,
+"lead": "에코플라스틱",
+"lead_ret": -0.13,
+"second": "디아이씨",
+"second_ret": -0.77
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.6,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": -0.13,
+"second": "서울제약",
+"second_ret": -1.02
+}
+],
+"leaders": [
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 19.59,
+"value": 6677,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "태경비케이",
+"code": "014580",
+"ret": 18.18,
+"value": 2028,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "오가노이드사이언스",
+"code": "476040",
+"ret": 12.29,
+"value": 1609,
+"theme": "오가노이드",
+"reason": "테마: 오가노이드"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 29.95,
+"value": 1224,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 12.89,
+"value": 1084,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20200413",
+"kospi": -1.88,
+"kosdaq": -2.38,
+"adv": 318,
+"dec": 1490,
+"flat": 102,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 636370,
+"hot": [
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "화천기계",
+"lead_ret": 29.87,
+"second": "모베이스전자",
+"second_ret": 10.78
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "앱클론",
+"lead_ret": 23.44,
+"second": "SV인베스트먼트",
+"second_ret": 21.97
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.35,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 12.8,
+"second": "샘표식품",
+"second_ret": 1.69
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.14,
+"up5": 2,
+"lead": "코오롱",
+"lead_ret": 29.75,
+"second": "코오롱인더",
+"second_ret": 16.28
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.76,
+"up5": 1,
+"lead": "이렘",
+"lead_ret": 30.0,
+"second": "휴스틸",
+"second_ret": 3.53
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.17,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 5.84,
+"second": "데브시스터즈",
+"second_ret": 2.99
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.61,
+"up5": 1,
+"lead": "코오롱인더",
+"lead_ret": 16.28,
+"second": "효성티앤씨",
+"second_ret": 0.85
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.44,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 29.92,
+"second": "효성티앤씨",
+"second_ret": 0.85
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.29,
+"up5": 2,
+"lead": "대성홀딩스",
+"lead_ret": 7.0,
+"second": "한국가스공사",
+"second_ret": 5.72
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 1.19,
+"up5": 3,
+"lead": "SM C&C",
+"lead_ret": 25.6,
+"second": "삼화네트웍스",
+"second_ret": 7.51
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 1.05,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 6.29,
+"second": "사조오양",
+"second_ret": 5.03
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 1.0,
+"up5": 2,
+"lead": "코오롱생명과학",
+"lead_ret": 29.95,
+"second": "코오롱글로벌",
+"second_ret": 29.92
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.98,
+"up5": 3,
+"lead": "한일사료",
+"lead_ret": 8.95,
+"second": "CJ씨푸드",
+"second_ret": 6.29
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 0.92,
+"up5": 3,
+"lead": "SM C&C",
+"lead_ret": 25.6,
+"second": "삼화네트웍스",
+"second_ret": 7.51
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 11,
+"avg": -5.1,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": -0.16,
+"second": "태성",
+"second_ret": -0.46
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -5.09,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": 0.88,
+"second": "하나금융지주",
+"second_ret": -2.77
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": -4.94,
+"up5": 0,
+"lead": "MSDI",
+"lead_ret": 0.0,
+"second": "LK삼양",
+"second_ret": -1.93
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": -4.93,
+"up5": 0,
+"lead": "태성",
+"lead_ret": -0.46,
+"second": "제이앤티씨",
+"second_ret": -1.88
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": -4.73,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": 0.33,
+"second": "NC",
+"second_ret": 0.15
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 14.48,
+"value": 6793,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "테라젠이텍스",
+"code": "066700",
+"ret": 20.27,
+"value": 4278,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "코오롱인더",
+"code": "120110",
+"ret": 16.28,
+"value": 2436,
+"theme": "플렉서블 디스플레이",
+"reason": "테마: 플렉서블 디스플레이"
+},
+{
+"name": "앱클론",
+"code": "174900",
+"ret": 23.44,
+"value": 2017,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "SV인베스트먼트",
+"code": "289080",
+"ret": 21.97,
+"value": 1179,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

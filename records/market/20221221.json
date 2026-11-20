@@ -1,0 +1,254 @@
+{
+"date": "20221221",
+"kospi": -0.19,
+"kosdaq": 0.37,
+"adv": 961,
+"dec": 968,
+"flat": 196,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 89865,
+"hot": [
+{
+"name": "제약업체",
+"n": 5,
+"lead": "하나제약",
+"lead_ret": 15.38,
+"second": "일동제약",
+"second_ret": 9.24
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "멕아이씨에스",
+"lead_ret": 29.89,
+"second": "하이로닉",
+"second_ret": 19.1
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "제일파마홀딩스",
+"lead_ret": 14.42,
+"second": "화승엔터프라이즈",
+"second_ret": 11.84
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.82,
+"up5": 2,
+"lead": "멕아이씨에스",
+"lead_ret": 29.89,
+"second": "국제약품",
+"second_ret": 7.97
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 4.13,
+"up5": 4,
+"lead": "하이로닉",
+"lead_ret": 19.1,
+"second": "휴메딕스",
+"second_ret": 8.55
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.56,
+"up5": 4,
+"lead": "GH신소재",
+"lead_ret": 6.89,
+"second": "에스와이",
+"second_ret": 6.11
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.06,
+"up5": 2,
+"lead": "풀무원",
+"lead_ret": 6.79,
+"second": "샘표식품",
+"second_ret": 6.06
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 2.65,
+"up5": 3,
+"lead": "인피니트헬스케어",
+"lead_ret": 12.64,
+"second": "비트컴퓨터",
+"second_ret": 6.9
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.47,
+"up5": 2,
+"lead": "휴메딕스",
+"lead_ret": 8.55,
+"second": "휴젤",
+"second_ret": 5.55
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.3,
+"up5": 2,
+"lead": "선바이오",
+"lead_ret": 8.29,
+"second": "한미약품",
+"second_ret": 5.34
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 2.27,
+"up5": 10,
+"lead": "하나제약",
+"lead_ret": 15.38,
+"second": "일동제약",
+"second_ret": 9.24
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 1.99,
+"up5": 1,
+"lead": "대모",
+"lead_ret": 5.3,
+"second": "대창단조",
+"second_ret": 4.04
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.96,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 6.44,
+"second": "광무",
+"second_ret": 4.98
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.94,
+"up5": 2,
+"lead": "오리온",
+"lead_ret": 7.14,
+"second": "대상",
+"second_ret": 5.36
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 1.92,
+"up5": 7,
+"lead": "인피니트헬스케어",
+"lead_ret": 12.64,
+"second": "JW중외제약",
+"second_ret": 7.17
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -1.65,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 2.01,
+"second": "팬스타엔터프라이즈",
+"second_ret": 0.0
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.56,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 3.7,
+"second": "데브시스터즈",
+"second_ret": 2.37
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": -1.54,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": 0.3,
+"second": "스틱인베스트먼트",
+"second_ret": 0.18
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.5,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": -0.8,
+"second": "스맥",
+"second_ret": -0.88
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": -1.48,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.3,
+"second": "하나기술",
+"second_ret": 0.17
+}
+],
+"leaders": [
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 10.18,
+"value": 2997,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "미스터블루",
+"code": "207760",
+"ret": 14.78,
+"value": 1944,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "멕아이씨에스",
+"code": "058110",
+"ret": 29.89,
+"value": 993,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "오에스피",
+"code": "368970",
+"ret": 12.17,
+"value": 455,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "인피니트헬스케어",
+"code": "071200",
+"ret": 12.64,
+"value": 417,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

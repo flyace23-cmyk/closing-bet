@@ -1,0 +1,254 @@
+{
+"date": "20211224",
+"kospi": 0.48,
+"kosdaq": 0.41,
+"adv": 1187,
+"dec": 662,
+"flat": 209,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 184271,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "디아이씨",
+"lead_ret": 29.88,
+"second": "스모트로닉",
+"second_ret": 22.28
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "액토즈소프트",
+"lead_ret": 29.67,
+"second": "컴투스홀딩스",
+"second_ret": 9.58
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 3,
+"lead": "FSN",
+"lead_ret": 11.82,
+"second": "컴투스홀딩스",
+"second_ret": 9.58
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 5.93,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 29.88,
+"second": "에코프로",
+"second_ret": 2.77
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 5.2,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 29.97,
+"second": "롯데관광개발",
+"second_ret": 4.45
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 4.36,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 29.88,
+"second": "에코플라스틱",
+"second_ret": 6.46
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.11,
+"up5": 3,
+"lead": "현대위아",
+"lead_ret": 8.62,
+"second": "HL만도",
+"second_ret": 7.38
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.69,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 12.4,
+"second": "시공테크",
+"second_ret": 0.78
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.61,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 8.32,
+"second": "SK이노베이션",
+"second_ret": 3.23
+},
+{
+"name": "전기차",
+"n": 82,
+"avg": 2.6,
+"up5": 13,
+"lead": "디아이씨",
+"lead_ret": 29.88,
+"second": "스모트로닉",
+"second_ret": 22.28
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.5,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 12.4,
+"second": "대신정보통신",
+"second_ret": 1.63
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.45,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 14.91,
+"second": "특수건설",
+"second_ret": 1.5
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.42,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 14.91,
+"second": "하이록코리아",
+"second_ret": 1.81
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 2.38,
+"up5": 2,
+"lead": "SM C&C",
+"lead_ret": 29.97,
+"second": "FSN",
+"second_ret": 11.82
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.34,
+"up5": 4,
+"lead": "인텍플러스",
+"lead_ret": 9.38,
+"second": "다원넥스뷰",
+"second_ret": 7.89
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -3.26,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.53,
+"second": "유한양행",
+"second_ret": 0.31
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -1.58,
+"up5": 0,
+"lead": "인바이오젠",
+"lead_ret": 3.07,
+"second": "리가켐바이오",
+"second_ret": 2.72
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.29,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": 0.69,
+"second": "녹십자",
+"second_ret": 0.69
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.14,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": 0.78,
+"second": "티앤알바이오팹",
+"second_ret": 0.31
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -1.09,
+"up5": 0,
+"lead": "HLB테라퓨틱스",
+"lead_ret": 2.05,
+"second": "한익스프레스",
+"second_ret": 2.04
+}
+],
+"leaders": [
+{
+"name": "FSN",
+"code": "214270",
+"ret": 11.82,
+"value": 2478,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "이월드",
+"code": "084680",
+"ret": 12.4,
+"value": 1983,
+"theme": "토스(toss)",
+"reason": "테마: 토스(toss)"
+},
+{
+"name": "액토즈소프트",
+"code": "052790",
+"ret": 29.67,
+"value": 1056,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 14.91,
+"value": 963,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 29.97,
+"value": 936,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

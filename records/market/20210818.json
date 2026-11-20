@@ -1,0 +1,254 @@
+{
+"date": "20210818",
+"kospi": 0.5,
+"kosdaq": 0.99,
+"adv": 1315,
+"dec": 529,
+"flat": 180,
+"limit_up": 2,
+"limit_down": 3,
+"value_total": 289363,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "신흥에스이씨",
+"lead_ret": 29.93,
+"second": "소프트센",
+"second_ret": 19.68
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "대원제약",
+"lead_ret": 21.51,
+"second": "코오롱생명과학",
+"second_ret": 11.76
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "큐라클",
+"lead_ret": 21.09,
+"second": "HLB",
+"second_ret": 15.38
+}
+],
+"themes": [
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 20,
+"avg": 3.3,
+"up5": 2,
+"lead": "신흥에스이씨",
+"lead_ret": 29.93,
+"second": "제이케이시냅스",
+"second_ret": 9.38
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.23,
+"up5": 4,
+"lead": "동양에스텍",
+"lead_ret": 6.67,
+"second": "휴스틸",
+"second_ret": 6.24
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.87,
+"up5": 1,
+"lead": "소프트센",
+"lead_ret": 19.68,
+"second": "엘앤에프",
+"second_ret": 4.36
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 2.8,
+"up5": 4,
+"lead": "코스모화학",
+"lead_ret": 15.93,
+"second": "후성",
+"second_ret": 7.72
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.63,
+"up5": 3,
+"lead": "한국철강",
+"lead_ret": 7.83,
+"second": "세아제강",
+"second_ret": 6.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.5,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 5.97,
+"second": "팬오션",
+"second_ret": 5.33
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 2.45,
+"up5": 1,
+"lead": "코스모화학",
+"lead_ret": 15.93,
+"second": "영화테크",
+"second_ret": 4.95
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.43,
+"up5": 2,
+"lead": "휴스틸",
+"lead_ret": 6.24,
+"second": "세아제강",
+"second_ret": 6.0
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.4,
+"up5": 0,
+"lead": "삼보판지",
+"lead_ret": 4.59,
+"second": "대림제지",
+"second_ret": 4.46
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 2.39,
+"up5": 3,
+"lead": "컴퍼니케이",
+"lead_ret": 9.23,
+"second": "아주IB투자",
+"second_ret": 8.81
+},
+{
+"name": "면역항암제",
+"n": 27,
+"avg": 2.3,
+"up5": 4,
+"lead": "큐라클",
+"lead_ret": 21.09,
+"second": "HLB",
+"second_ret": 15.38
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.28,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 11.68,
+"second": "세명전기",
+"second_ret": 1.96
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.43,
+"up5": 1,
+"lead": "경동제약",
+"lead_ret": 5.39,
+"second": "위더스제약",
+"second_ret": 2.27
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -1.73,
+"up5": 0,
+"lead": "클래시스",
+"lead_ret": 4.76,
+"second": "파마리서치",
+"second_ret": 4.54
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": -1.25,
+"up5": 3,
+"lead": "지구홀딩스",
+"lead_ret": 12.26,
+"second": "씨티씨바이오",
+"second_ret": 6.46
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.24,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.41,
+"second": "녹십자",
+"second_ret": -0.16
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.11,
+"up5": 0,
+"lead": "에스티아이",
+"lead_ret": 2.41,
+"second": "휴림로봇",
+"second_ret": 0.82
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 15.38,
+"value": 6298,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "대원제약",
+"code": "003220",
+"ret": 21.51,
+"value": 4856,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "큐라클",
+"code": "365270",
+"ret": 21.09,
+"value": 3337,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 15.93,
+"value": 3111,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포톤",
+"code": "208710",
+"ret": 11.92,
+"value": 2837,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+}
+],
+"backfilled": true
+}

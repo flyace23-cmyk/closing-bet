@@ -1,0 +1,254 @@
+{
+"date": "20230213",
+"kospi": -0.69,
+"kosdaq": 0.01,
+"adv": 767,
+"dec": 1237,
+"flat": 131,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 159262,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "코난테크놀로지",
+"lead_ret": 23.33,
+"second": "셀바스AI",
+"second_ret": 17.45
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 3,
+"lead": "솔트웨어",
+"lead_ret": 29.88,
+"second": "솔트룩스",
+"second_ret": 12.94
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 29.89,
+"second": "에이디테크놀로지",
+"second_ret": 10.25
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 5.98,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 29.89,
+"second": "앤씨앤",
+"second_ret": 2.3
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 3.76,
+"up5": 3,
+"lead": "이렘",
+"lead_ret": 14.1,
+"second": "휴스틸",
+"second_ret": 8.75
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.52,
+"up5": 3,
+"lead": "성광벤드",
+"lead_ret": 6.68,
+"second": "태광",
+"second_ret": 5.81
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.0,
+"up5": 8,
+"lead": "코난테크놀로지",
+"lead_ret": 23.33,
+"second": "셀바스AI",
+"second_ret": 17.45
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 2.63,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 29.89,
+"second": "에이디테크놀로지",
+"second_ret": 10.25
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": 2.54,
+"up5": 11,
+"lead": "코난테크놀로지",
+"lead_ret": 23.33,
+"second": "셀바스AI",
+"second_ret": 17.45
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 2.44,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 29.89,
+"second": "큐알티",
+"second_ret": 3.52
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.39,
+"up5": 2,
+"lead": "휴스틸",
+"lead_ret": 8.75,
+"second": "하이스틸",
+"second_ret": 7.69
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 2.3,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 5.82,
+"second": "DSC인베스트먼트",
+"second_ret": 4.94
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.08,
+"up5": 4,
+"lead": "재영솔루텍",
+"lead_ret": 22.11,
+"second": "일신석재",
+"second_ret": 13.49
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.99,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 5.05,
+"second": "삼성중공업",
+"second_ret": 2.82
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.77,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 4.4,
+"second": "포스코인터내셔널",
+"second_ret": 3.36
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.42,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 0.0,
+"second": "오로라",
+"second_ret": -1.46
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": -2.35,
+"up5": 0,
+"lead": "인벤티지랩",
+"lead_ret": 3.67,
+"second": "유바이오로직스",
+"second_ret": 0.24
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.15,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 0.3,
+"second": "풀무원",
+"second_ret": -1.27
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.0,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 2.3,
+"second": "포커스에이아이",
+"second_ret": 0.22
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.89,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.16,
+"second": "LG디스플레이",
+"second_ret": -1.17
+}
+],
+"leaders": [
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 17.45,
+"value": 4820,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 29.89,
+"value": 3062,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 23.33,
+"value": 1976,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 29.91,
+"value": 1909,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "나노신소재",
+"code": "121600",
+"ret": 10.57,
+"value": 1817,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

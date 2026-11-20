@@ -1,0 +1,254 @@
+{
+"date": "20250701",
+"kospi": 0.58,
+"kosdaq": 0.28,
+"adv": 1510,
+"dec": 735,
+"flat": 119,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 204070,
+"hot": [
+{
+"name": "지주사",
+"n": 7,
+"lead": "HS효성",
+"lead_ret": 29.93,
+"second": "크라운해태홀딩스",
+"second_ret": 21.19
+},
+{
+"name": "스테이블코인",
+"n": 3,
+"lead": "다날",
+"lead_ret": 29.86,
+"second": "뱅크웨어글로벌",
+"second_ret": 14.5
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "이마트",
+"lead_ret": 11.36,
+"second": "KX",
+"second_ret": 11.03
+}
+],
+"themes": [
+{
+"name": "편의점",
+"n": 5,
+"avg": 6.43,
+"up5": 3,
+"lead": "이마트",
+"lead_ret": 11.36,
+"second": "롯데지주",
+"second_ret": 8.45
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 5.05,
+"up5": 3,
+"lead": "사조씨푸드",
+"lead_ret": 13.64,
+"second": "사조산업",
+"second_ret": 8.5
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.83,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 29.86,
+"second": "쿠콘",
+"second_ret": 6.56
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 3.81,
+"up5": 6,
+"lead": "다날",
+"lead_ret": 29.86,
+"second": "뱅크웨어글로벌",
+"second_ret": 14.5
+},
+{
+"name": "지주사",
+"n": 123,
+"avg": 3.74,
+"up5": 30,
+"lead": "HS효성",
+"lead_ret": 29.93,
+"second": "크라운해태홀딩스",
+"second_ret": 21.19
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 3.57,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 12.21,
+"second": "한화투자증권",
+"second_ret": 3.03
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.53,
+"up5": 2,
+"lead": "다날",
+"lead_ret": 29.86,
+"second": "뱅크웨어글로벌",
+"second_ret": 14.5
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 3.52,
+"up5": 6,
+"lead": "이마트",
+"lead_ret": 11.36,
+"second": "하림지주",
+"second_ret": 8.99
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.51,
+"up5": 2,
+"lead": "대성홀딩스",
+"lead_ret": 10.83,
+"second": "삼천리",
+"second_ret": 7.57
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.31,
+"up5": 4,
+"lead": "빛과전자",
+"lead_ret": 15.93,
+"second": "대한광통신",
+"second_ret": 7.5
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.3,
+"up5": 1,
+"lead": "동원산업",
+"lead_ret": 7.72,
+"second": "대성산업",
+"second_ret": 4.59
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.23,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 6.56,
+"second": "유라클",
+"second_ret": 4.63
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -3.16,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": -0.87,
+"second": "데브시스터즈",
+"second_ret": -1.61
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -1.36,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": 3.43,
+"second": "삼성바이오로직스",
+"second_ret": 1.11
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": -1.25,
+"up5": 0,
+"lead": "SG&G",
+"lead_ret": 3.55,
+"second": "DL이앤씨",
+"second_ret": 3.28
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -1.23,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 3.62,
+"second": "에프엔에스테크",
+"second_ret": 0.87
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.03,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.88,
+"second": "토비스",
+"second_ret": 0.84
+}
+],
+"leaders": [
+{
+"name": "한화",
+"code": "000880",
+"ret": 15.38,
+"value": 4738,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 29.86,
+"value": 3119,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "원익",
+"code": "032940",
+"ret": 19.58,
+"value": 2662,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 12.25,
+"value": 1299,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "엔비티",
+"code": "236810",
+"ret": 12.21,
+"value": 1029,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220318",
+"kospi": 0.46,
+"kosdaq": 0.97,
+"adv": 1241,
+"dec": 624,
+"flat": 207,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 185931,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "에스피시스템스",
+"lead_ret": 22.88,
+"second": "러셀",
+"second_ret": 16.33
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "러셀",
+"lead_ret": 16.33,
+"second": "에브리봇",
+"second_ret": 11.29
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "티앤엘",
+"lead_ret": 12.27,
+"second": "엘앤케이바이오",
+"second_ret": 11.67
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.61,
+"up5": 4,
+"lead": "티앤알바이오팹",
+"lead_ret": 9.25,
+"second": "스맥",
+"second_ret": 8.79
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.81,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 15.18,
+"second": "강스템바이오텍",
+"second_ret": 1.42
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 31,
+"avg": 3.1,
+"up5": 8,
+"lead": "에스피시스템스",
+"lead_ret": 22.88,
+"second": "트윔",
+"second_ret": 10.85
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 55,
+"avg": 3.08,
+"up5": 13,
+"lead": "에스피시스템스",
+"lead_ret": 22.88,
+"second": "러셀",
+"second_ret": 16.33
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.03,
+"up5": 1,
+"lead": "대덕전자",
+"lead_ret": 7.99,
+"second": "심텍",
+"second_ret": 4.13
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 45,
+"avg": 2.59,
+"up5": 7,
+"lead": "러셀",
+"lead_ret": 16.33,
+"second": "에브리봇",
+"second_ret": 11.29
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 2.46,
+"up5": 3,
+"lead": "루트K",
+"lead_ret": 11.66,
+"second": "스맥",
+"second_ret": 8.79
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.3,
+"up5": 1,
+"lead": "대덕전자",
+"lead_ret": 7.99,
+"second": "심텍",
+"second_ret": 4.13
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.19,
+"up5": 1,
+"lead": "예스티",
+"lead_ret": 8.84,
+"second": "미래컴퍼니",
+"second_ret": 4.39
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.16,
+"up5": 2,
+"lead": "디와이",
+"lead_ret": 17.22,
+"second": "동국알앤에스",
+"second_ret": 6.6
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.16,
+"up5": 1,
+"lead": "누보",
+"lead_ret": 10.5,
+"second": "KG케미칼",
+"second_ret": 4.06
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.11,
+"up5": 0,
+"lead": "하이스틸",
+"lead_ret": 4.69,
+"second": "부국철강",
+"second_ret": 4.26
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -1.74,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 0.2,
+"second": "세중",
+"second_ret": -0.24
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.16,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.11,
+"second": "JTC",
+"second_ret": -0.23
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.11,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 1.23,
+"second": "덕신이피씨",
+"second_ret": 0.0
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.08,
+"up5": 0,
+"lead": "일성건설",
+"lead_ret": 2.7,
+"second": "HL D&I",
+"second_ret": 1.88
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -1.06,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 1.37,
+"second": "세명전기",
+"second_ret": 0.11
+}
+],
+"leaders": [
+{
+"name": "디와이",
+"code": "013570",
+"ret": 17.22,
+"value": 3099,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 11.51,
+"value": 2833,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 11.29,
+"value": 2391,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "오토앤",
+"code": "353590",
+"ret": 30.0,
+"value": 1446,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "러셀",
+"code": "217500",
+"ret": 16.33,
+"value": 1309,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

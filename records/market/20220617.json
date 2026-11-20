@@ -1,0 +1,246 @@
+{
+"date": "20220617",
+"kospi": -0.43,
+"kosdaq": -0.43,
+"adv": 733,
+"dec": 1183,
+"flat": 165,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 164426,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "레몬",
+"lead_ret": 29.97,
+"second": "삼진엘앤디",
+"second_ret": 11.04
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "디젠스",
+"lead_ret": 15.46,
+"second": "에코캡",
+"second_ret": 12.32
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 4.71,
+"up5": 3,
+"lead": "HJ중공업",
+"lead_ret": 7.0,
+"second": "한화오션",
+"second_ret": 5.9
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.05,
+"up5": 3,
+"lead": "현대에버다임",
+"lead_ret": 16.67,
+"second": "서연탑메탈",
+"second_ret": 6.1
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.36,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 29.94,
+"second": "SH에너지화학",
+"second_ret": 2.86
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.9,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 9.16,
+"second": "LS마린솔루션",
+"second_ret": 2.38
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 1.75,
+"up5": 1,
+"lead": "레몬",
+"lead_ret": 29.97,
+"second": "다산솔루에타",
+"second_ret": 0.51
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.73,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 5.03,
+"second": "삼성바이오로직스",
+"second_ret": 3.1
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 1.64,
+"up5": 2,
+"lead": "올릭스",
+"lead_ret": 10.42,
+"second": "나이벡",
+"second_ret": 7.32
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.6,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 8.86,
+"second": "오픈베이스",
+"second_ret": 2.24
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 1.34,
+"up5": 3,
+"lead": "레몬",
+"lead_ret": 29.97,
+"second": "하나기술",
+"second_ret": 5.29
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.29,
+"up5": 2,
+"lead": "레몬",
+"lead_ret": 29.97,
+"second": "톱텍",
+"second_ret": 5.01
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 1.22,
+"up5": 0,
+"lead": "루트K",
+"lead_ret": 3.79,
+"second": "스맥",
+"second_ret": 3.63
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.19,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 10.65,
+"second": "대성에너지",
+"second_ret": 3.75
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.83,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 2.93,
+"second": "풀무원",
+"second_ret": -1.17
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -2.21,
+"up5": 0,
+"lead": "SBS",
+"lead_ret": 1.43,
+"second": "동우팜투테이블",
+"second_ret": -0.17
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -2.15,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": 0.0,
+"second": "SK하이닉스",
+"second_ret": -1.03
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": -2.09,
+"up5": 0,
+"lead": "국순당",
+"lead_ret": 0.41,
+"second": "오킨스전자",
+"second_ret": -0.49
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.0,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 4.88,
+"second": "쿠콘",
+"second_ret": 0.77
+}
+],
+"leaders": [
+{
+"name": "우림피티에스",
+"code": "101170",
+"ret": 29.94,
+"value": 2821,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "삼진엘앤디",
+"code": "054090",
+"ret": 11.04,
+"value": 2086,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "현대에버다임",
+"code": "041440",
+"ret": 16.67,
+"value": 1582,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "엠아이텍",
+"code": "179290",
+"ret": 11.22,
+"value": 1495,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 10.65,
+"value": 1376,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

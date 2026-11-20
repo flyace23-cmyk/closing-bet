@@ -1,0 +1,254 @@
+{
+"date": "20251022",
+"kospi": 1.56,
+"kosdaq": 0.76,
+"adv": 1410,
+"dec": 834,
+"flat": 137,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 232685,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "에스엠벡셀",
+"lead_ret": 29.94,
+"second": "덕산테코피아",
+"second_ret": 15.27
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "로킷헬스케어",
+"lead_ret": 16.07,
+"second": "티앤알바이오팹",
+"second_ret": 12.57
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "디젠스",
+"lead_ret": 29.97,
+"second": "에스엠벡셀",
+"second_ret": 29.94
+}
+],
+"themes": [
+{
+"name": "석유화학",
+"n": 18,
+"avg": 5.8,
+"up5": 7,
+"lead": "이수화학",
+"lead_ret": 29.95,
+"second": "SK케미칼",
+"second_ret": 13.14
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 4.15,
+"up5": 1,
+"lead": "LG화학",
+"lead_ret": 13.01,
+"second": "금호석유화학",
+"second_ret": 4.48
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 4.12,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 7.79,
+"second": "팬오션",
+"second_ret": 5.28
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.61,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 15.15,
+"second": "LG에너지솔루션",
+"second_ret": 4.0
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.21,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 15.15,
+"second": "LG화학",
+"second_ret": 13.01
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 3.15,
+"up5": 2,
+"lead": "LG화학",
+"lead_ret": 13.01,
+"second": "에코프로머티",
+"second_ret": 7.42
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.1,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 6.61,
+"second": "GS",
+"second_ret": 5.84
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.94,
+"up5": 1,
+"lead": "코오롱인더",
+"lead_ret": 6.49,
+"second": "한국앤컴퍼니",
+"second_ret": 4.77
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 2.92,
+"up5": 4,
+"lead": "디와이에이",
+"lead_ret": 15.25,
+"second": "폴라리스세원",
+"second_ret": 7.97
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 2.9,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 9.69,
+"second": "HD한국조선해양",
+"second_ret": 5.36
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.84,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 4.52,
+"second": "롯데지주",
+"second_ret": 3.83
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.6,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 6.61,
+"second": "GS",
+"second_ret": 5.84
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.5,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.13,
+"second": "네패스",
+"second_ret": -0.3
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -1.07,
+"up5": 0,
+"lead": "비츠로시스",
+"lead_ret": 3.73,
+"second": "인콘",
+"second_ret": 3.42
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": -0.85,
+"up5": 0,
+"lead": "모헨즈",
+"lead_ret": 1.62,
+"second": "자연과환경",
+"second_ret": 1.54
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -0.82,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 2.7,
+"second": "CJ CGV",
+"second_ret": 0.79
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -0.59,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 0.91,
+"second": "토마토시스템",
+"second_ret": 0.81
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 15.15,
+"value": 6427,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "LG화학",
+"code": "051910",
+"ret": 13.01,
+"value": 6160,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼영엠텍",
+"code": "054540",
+"ret": 10.56,
+"value": 4240,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 10.87,
+"value": 3530,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "로킷헬스케어",
+"code": "376900",
+"ret": 16.07,
+"value": 2298,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

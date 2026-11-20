@@ -1,0 +1,254 @@
+{
+"date": "20221019",
+"kospi": -0.56,
+"kosdaq": -0.94,
+"adv": 633,
+"dec": 1310,
+"flat": 165,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 128259,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "넥사다이내믹스",
+"lead_ret": 12.5,
+"second": "솔루스첨단소재",
+"second_ret": 11.46
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 3,
+"lead": "플랜티넷",
+"lead_ret": 29.82,
+"second": "NHN벅스",
+"second_ret": 11.31
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "글로벌에스엠",
+"lead_ret": 14.11,
+"second": "솔루스첨단소재",
+"second_ret": 11.46
+}
+],
+"themes": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 6.04,
+"up5": 3,
+"lead": "인성정보",
+"lead_ret": 29.81,
+"second": "에스넷",
+"second_ret": 11.38
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.59,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 29.93,
+"second": "글로벌에스엠",
+"second_ret": 14.11
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.61,
+"up5": 5,
+"lead": "인성정보",
+"lead_ret": 29.81,
+"second": "토마토시스템",
+"second_ret": 11.62
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.9,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 22.01,
+"second": "드림씨아이에스",
+"second_ret": 1.14
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": 2.12,
+"up5": 1,
+"lead": "플랜티넷",
+"lead_ret": 29.82,
+"second": "디지캡",
+"second_ret": 0.15
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 1.78,
+"up5": 2,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 6.24,
+"second": "브이티",
+"second_ret": 5.08
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 1.55,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 11.62,
+"second": "팬스타엔터프라이즈",
+"second_ret": 6.24
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 1.33,
+"up5": 1,
+"lead": "플랜티넷",
+"lead_ret": 29.82,
+"second": "DSC인베스트먼트",
+"second_ret": 2.56
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 1.25,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 8.74,
+"second": "에코프로",
+"second_ret": 2.62
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.17,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 6.67,
+"second": "대주전자재료",
+"second_ret": 4.63
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 1.11,
+"up5": 1,
+"lead": "세림B&G",
+"lead_ret": 5.88,
+"second": "에코플라스틱",
+"second_ret": 2.85
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.04,
+"up5": 2,
+"lead": "NHN벅스",
+"lead_ret": 11.31,
+"second": "갤럭시아머니트리",
+"second_ret": 6.38
+}
+],
+"themes_worst": [
+{
+"name": "면세점",
+"n": 8,
+"avg": -3.12,
+"up5": 0,
+"lead": "글로벌텍스프리",
+"lead_ret": -1.03,
+"second": "현대백화점",
+"second_ret": -1.25
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.99,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": -1.75,
+"second": "삼성물산",
+"second_ret": -2.25
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.91,
+"up5": 0,
+"lead": "나이스정보통신",
+"lead_ret": -0.93,
+"second": "NHN KCP",
+"second_ret": -1.21
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -2.56,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.24,
+"second": "네패스아크",
+"second_ret": -1.4
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -2.48,
+"up5": 0,
+"lead": "앤디포스",
+"lead_ret": 1.71,
+"second": "삼성SDI",
+"second_ret": 0.17
+}
+],
+"leaders": [
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 11.55,
+"value": 3046,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 17.57,
+"value": 2043,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "서울평가정보",
+"code": "036120",
+"ret": 11.81,
+"value": 1785,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에이디테크놀로지",
+"code": "200710",
+"ret": 26.09,
+"value": 1171,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 17.14,
+"value": 540,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+}
+],
+"backfilled": true
+}

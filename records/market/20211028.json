@@ -1,0 +1,254 @@
+{
+"date": "20211028",
+"kospi": -0.53,
+"kosdaq": -0.87,
+"adv": 577,
+"dec": 1306,
+"flat": 160,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 223240,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "하나마이크론",
+"lead_ret": 11.53,
+"second": "파크시스템스",
+"second_ret": 9.08
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "하나마이크론",
+"lead_ret": 11.53,
+"second": "월덱스",
+"second_ret": 7.99
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "파크시스템스",
+"lead_ret": 9.08,
+"second": "HD현대일렉트릭",
+"second_ret": 8.98
+}
+],
+"themes": [
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 5.56,
+"up5": 4,
+"lead": "코윈로보틱스",
+"lead_ret": 25.95,
+"second": "파워넷",
+"second_ret": 18.59
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.82,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 4.93,
+"second": "티엘비",
+"second_ret": 4.72
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.79,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 8.45,
+"second": "삼성전기",
+"second_ret": 5.03
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.77,
+"up5": 4,
+"lead": "이녹스첨단소재",
+"lead_ret": 7.95,
+"second": "LG디스플레이",
+"second_ret": 6.76
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 2.72,
+"up5": 2,
+"lead": "네패스아크",
+"lead_ret": 6.03,
+"second": "삼성전기",
+"second_ret": 5.03
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.65,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 29.89,
+"second": "원익피앤이",
+"second_ret": 6.91
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 2.47,
+"up5": 2,
+"lead": "파워넷",
+"lead_ret": 18.59,
+"second": "테스",
+"second_ret": 5.08
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 2.12,
+"up5": 3,
+"lead": "테크윙",
+"lead_ret": 7.58,
+"second": "이오테크닉스",
+"second_ret": 7.19
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 2.09,
+"up5": 4,
+"lead": "이수페타시스",
+"lead_ret": 8.45,
+"second": "이녹스첨단소재",
+"second_ret": 7.95
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 2.06,
+"up5": 5,
+"lead": "하나마이크론",
+"lead_ret": 11.53,
+"second": "테크윙",
+"second_ret": 7.58
+},
+{
+"name": "반도체 장비",
+"n": 76,
+"avg": 1.94,
+"up5": 11,
+"lead": "하나마이크론",
+"lead_ret": 11.53,
+"second": "파크시스템스",
+"second_ret": 9.08
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 1.74,
+"up5": 1,
+"lead": "이오테크닉스",
+"lead_ret": 7.19,
+"second": "예스티",
+"second_ret": 2.97
+}
+],
+"themes_worst": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -3.87,
+"up5": 0,
+"lead": "인바이오젠",
+"lead_ret": 2.52,
+"second": "FSN",
+"second_ret": 0.0
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": -3.8,
+"up5": 0,
+"lead": "KT지니뮤직",
+"lead_ret": -0.34,
+"second": "CJ ENM",
+"second_ret": -1.89
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -3.79,
+"up5": 0,
+"lead": "코오롱",
+"lead_ret": -0.28,
+"second": "코오롱인더",
+"second_ret": -0.78
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -3.69,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -1.32,
+"second": "흥국화재",
+"second_ret": -1.65
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.54,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": -1.33,
+"second": "아주IB투자",
+"second_ret": -1.85
+}
+],
+"leaders": [
+{
+"name": "파워넷",
+"code": "037030",
+"ret": 18.59,
+"value": 5978,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "코윈로보틱스",
+"code": "282880",
+"ret": 25.95,
+"value": 2994,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "포톤",
+"code": "208710",
+"ret": 12.76,
+"value": 1011,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 11.53,
+"value": 967,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "아이윈",
+"code": "090150",
+"ret": 26.74,
+"value": 733,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

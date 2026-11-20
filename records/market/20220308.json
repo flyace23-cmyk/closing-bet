@@ -1,0 +1,254 @@
+{
+"date": "20220308",
+"kospi": -1.09,
+"kosdaq": -1.29,
+"adv": 307,
+"dec": 1630,
+"flat": 135,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 185119,
+"hot": [
+{
+"name": "제약업체",
+"n": 6,
+"lead": "신풍제약",
+"lead_ret": 22.21,
+"second": "신일제약",
+"second_ret": 8.5
+},
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "티플랙스",
+"lead_ret": 21.85,
+"second": "보성파워텍",
+"second_ret": 11.95
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "에스티큐브",
+"lead_ret": 11.99,
+"second": "헬릭스미스",
+"second_ret": 8.23
+}
+],
+"themes": [
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 1.06,
+"up5": 1,
+"lead": "티플랙스",
+"lead_ret": 21.85,
+"second": "동국알앤에스",
+"second_ret": 4.17
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 0.93,
+"up5": 2,
+"lead": "신풍제약",
+"lead_ret": 22.21,
+"second": "한국파마",
+"second_ret": 8.48
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 0.64,
+"up5": 3,
+"lead": "에스티큐브",
+"lead_ret": 11.99,
+"second": "헬릭스미스",
+"second_ret": 8.23
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.53,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.36,
+"second": "녹십자",
+"second_ret": 1.35
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 0.41,
+"up5": 5,
+"lead": "티플랙스",
+"lead_ret": 21.85,
+"second": "보성파워텍",
+"second_ret": 11.95
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 0.39,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 1.35,
+"second": "강스템바이오텍",
+"second_ret": 1.17
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 0.36,
+"up5": 1,
+"lead": "나이스정보통신",
+"lead_ret": 7.21,
+"second": "이루온",
+"second_ret": 0.73
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 0.34,
+"up5": 2,
+"lead": "티플랙스",
+"lead_ret": 21.85,
+"second": "유에스티",
+"second_ret": 6.15
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.24,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.36,
+"second": "유한양행",
+"second_ret": 0.87
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 0.16,
+"up5": 0,
+"lead": "네이처셀",
+"lead_ret": 2.5,
+"second": "코아스템켐온",
+"second_ret": 1.72
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 0.11,
+"up5": 0,
+"lead": "한미약품",
+"lead_ret": 3.89,
+"second": "나이벡",
+"second_ret": 2.27
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 38,
+"avg": 0.08,
+"up5": 2,
+"lead": "신풍제약",
+"lead_ret": 22.21,
+"second": "바이오니아",
+"second_ret": 13.04
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -8.95,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -2.67,
+"second": "샘표식품",
+"second_ret": -7.45
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -5.63,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.0,
+"second": "세중",
+"second_ret": 0.0
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -5.2,
+"up5": 0,
+"lead": "대한제당",
+"lead_ret": -1.44,
+"second": "씨티씨바이오",
+"second_ret": -1.64
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -4.48,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": -1.46,
+"second": "S-Oil",
+"second_ret": -1.82
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -4.48,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": -1.46,
+"second": "S-Oil",
+"second_ret": -1.82
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 22.21,
+"value": 9259,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "티플랙스",
+"code": "081150",
+"ret": 21.85,
+"value": 5148,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 11.95,
+"value": 4011,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 13.04,
+"value": 3208,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 10.46,
+"value": 308,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

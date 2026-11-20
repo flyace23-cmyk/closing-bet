@@ -1,0 +1,254 @@
+{
+"date": "20210924",
+"kospi": -0.07,
+"kosdaq": 0.07,
+"adv": 803,
+"dec": 1054,
+"flat": 175,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 285590,
+"hot": [
+{
+"name": "남북경협",
+"n": 6,
+"lead": "신원",
+"lead_ret": 29.93,
+"second": "일신석재",
+"second_ret": 18.94
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "새로닉스",
+"lead_ret": 29.84,
+"second": "대주전자재료",
+"second_ret": 21.87
+},
+{
+"name": "철도",
+"n": 3,
+"lead": "폴라리스AI",
+"lead_ret": 12.35,
+"second": "푸른로보틱스",
+"second_ret": 9.26
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.29,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 29.8,
+"second": "대한해운",
+"second_ret": 0.69
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 4.01,
+"up5": 9,
+"lead": "신원",
+"lead_ret": 29.93,
+"second": "일신석재",
+"second_ret": 18.94
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 3.58,
+"up5": 2,
+"lead": "대주전자재료",
+"lead_ret": 21.87,
+"second": "코스모신소재",
+"second_ret": 7.23
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 3.33,
+"up5": 3,
+"lead": "엘앤에프",
+"lead_ret": 19.67,
+"second": "EG",
+"second_ret": 12.93
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.09,
+"up5": 3,
+"lead": "조비",
+"lead_ret": 9.42,
+"second": "남해화학",
+"second_ret": 7.32
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.99,
+"up5": 3,
+"lead": "조비",
+"lead_ret": 9.42,
+"second": "남해화학",
+"second_ret": 7.32
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 2.47,
+"up5": 10,
+"lead": "대주전자재료",
+"lead_ret": 21.87,
+"second": "엘앤에프",
+"second_ret": 19.67
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.43,
+"up5": 1,
+"lead": "쇼박스",
+"lead_ret": 21.32,
+"second": "NEW",
+"second_ret": 4.89
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 2.43,
+"up5": 2,
+"lead": "이랜텍",
+"lead_ret": 15.34,
+"second": "세코닉스",
+"second_ret": 12.86
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.92,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 6.01,
+"second": "GH신소재",
+"second_ret": 3.85
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.89,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 3.92,
+"second": "KB금융",
+"second_ret": 2.91
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.85,
+"up5": 5,
+"lead": "조비",
+"lead_ret": 9.42,
+"second": "남해화학",
+"second_ret": 7.32
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -1.96,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 0.99,
+"second": "대창솔루션",
+"second_ret": 0.5
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.69,
+"up5": 0,
+"lead": "한국카본",
+"lead_ret": 2.17,
+"second": "SH에너지화학",
+"second_ret": -1.2
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.68,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.37,
+"second": "메디포스트",
+"second_ret": -1.36
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -1.4,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 6.88,
+"second": "수산세보틱스",
+"second_ret": 1.42
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.39,
+"up5": 0,
+"lead": "프레스티지바이오파마",
+"lead_ret": 0.16,
+"second": "LG화학",
+"second_ret": 0.13
+}
+],
+"leaders": [
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 19.67,
+"value": 9743,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "쇼박스",
+"code": "086980",
+"ret": 21.32,
+"value": 6740,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "대주전자재료",
+"code": "078600",
+"ret": 21.87,
+"value": 3831,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 14.49,
+"value": 3251,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "신원",
+"code": "009270",
+"ret": 29.93,
+"value": 2655,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

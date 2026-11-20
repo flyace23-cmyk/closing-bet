@@ -1,0 +1,254 @@
+{
+"date": "20221209",
+"kospi": 0.76,
+"kosdaq": 0.98,
+"adv": 1453,
+"dec": 523,
+"flat": 149,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 121080,
+"hot": [
+{
+"name": "영상콘텐츠",
+"n": 7,
+"lead": "CJ ENM",
+"lead_ret": 16.3,
+"second": "졸스",
+"second_ret": 16.14
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 5,
+"lead": "에이스테크",
+"lead_ret": 18.28,
+"second": "서진시스템",
+"second_ret": 12.18
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "헝셩그룹",
+"lead_ret": 29.95,
+"second": "아우딘퓨쳐스",
+"second_ret": 18.53
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 10,
+"avg": 7.32,
+"up5": 5,
+"lead": "CJ ENM",
+"lead_ret": 16.3,
+"second": "졸스",
+"second_ret": 16.14
+},
+{
+"name": "영상콘텐츠",
+"n": 25,
+"avg": 6.29,
+"up5": 13,
+"lead": "CJ ENM",
+"lead_ret": 16.3,
+"second": "졸스",
+"second_ret": 16.14
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 6.21,
+"up5": 5,
+"lead": "핑거스토리",
+"lead_ret": 29.92,
+"second": "키다리스튜디오",
+"second_ret": 16.25
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.82,
+"up5": 3,
+"lead": "헝셩그룹",
+"lead_ret": 29.95,
+"second": "윙입푸드",
+"second_ret": 11.23
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 5.35,
+"up5": 12,
+"lead": "CJ ENM",
+"lead_ret": 16.3,
+"second": "팬엔터테인먼트",
+"second_ret": 13.86
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 4.82,
+"up5": 5,
+"lead": "CJ ENM",
+"lead_ret": 16.3,
+"second": "KT지니뮤직",
+"second_ret": 8.29
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.2,
+"up5": 4,
+"lead": "CJ ENM",
+"lead_ret": 16.3,
+"second": "콘텐트리중앙",
+"second_ret": 7.82
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 3.69,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 5.76,
+"second": "팬오션",
+"second_ret": 4.75
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 31,
+"avg": 3.59,
+"up5": 6,
+"lead": "핑거스토리",
+"lead_ret": 29.92,
+"second": "키다리스튜디오",
+"second_ret": 16.25
+},
+{
+"name": "엔젤산업",
+"n": 21,
+"avg": 3.4,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 29.95,
+"second": "오가닉티코스메틱",
+"second_ret": 7.72
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": 3.37,
+"up5": 7,
+"lead": "에이스테크",
+"lead_ret": 18.28,
+"second": "서진시스템",
+"second_ret": 12.18
+},
+{
+"name": "출산장려정책",
+"n": 18,
+"avg": 3.22,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 29.95,
+"second": "SAMG엔터",
+"second_ret": 4.54
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.29,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 3.6,
+"second": "애경케미칼",
+"second_ret": 2.63
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -2.01,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 0.98,
+"second": "한국선재",
+"second_ret": 0.57
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 63,
+"avg": -1.38,
+"up5": 1,
+"lead": "상아프론테크",
+"lead_ret": 6.38,
+"second": "광무",
+"second_ret": 3.1
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.21,
+"up5": 1,
+"lead": "중앙첨단소재",
+"lead_ret": 29.92,
+"second": "광무",
+"second_ret": 3.1
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": -1.2,
+"up5": 0,
+"lead": "SFA넥셀",
+"lead_ret": 3.86,
+"second": "SK이노베이션",
+"second_ret": 3.06
+}
+],
+"leaders": [
+{
+"name": "핑거스토리",
+"code": "417180",
+"ret": 29.92,
+"value": 2647,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "키다리스튜디오",
+"code": "020120",
+"ret": 16.25,
+"value": 1020,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "청보",
+"code": "013720",
+"ret": 17.88,
+"value": 936,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "졸스",
+"code": "018700",
+"ret": 16.14,
+"value": 790,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "위메이드맥스",
+"code": "101730",
+"ret": 19.45,
+"value": 690,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250922",
+"kospi": 0.68,
+"kosdaq": 1.3,
+"adv": 914,
+"dec": 1349,
+"flat": 117,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 212131,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "제이티",
+"lead_ret": 29.84,
+"second": "펨트론",
+"second_ret": 17.3
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 4,
+"lead": "펨트론",
+"lead_ret": 17.3,
+"second": "티엘비",
+"second_ret": 15.1
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "이미지스",
+"lead_ret": 16.83,
+"second": "윈팩",
+"second_ret": 14.03
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 6.03,
+"up5": 4,
+"lead": "펨트론",
+"lead_ret": 17.3,
+"second": "티엘비",
+"second_ret": 15.1
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.63,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 15.1,
+"second": "심텍홀딩스",
+"second_ret": 9.95
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.46,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 15.1,
+"second": "파두",
+"second_ret": 12.56
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 3.41,
+"up5": 5,
+"lead": "에이팩트",
+"lead_ret": 11.23,
+"second": "큐알티",
+"second_ret": 9.97
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 2.91,
+"up5": 5,
+"lead": "펨트론",
+"lead_ret": 17.3,
+"second": "티엘비",
+"second_ret": 15.1
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.6,
+"up5": 4,
+"lead": "LG이노텍",
+"lead_ret": 9.41,
+"second": "덕산네오룩스",
+"second_ret": 8.13
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.53,
+"up5": 6,
+"lead": "펨트론",
+"lead_ret": 17.3,
+"second": "윈팩",
+"second_ret": 14.03
+},
+{
+"name": "비만치료제",
+"n": 37,
+"avg": 2.23,
+"up5": 4,
+"lead": "디앤디파마텍",
+"lead_ret": 29.9,
+"second": "대화제약",
+"second_ret": 27.01
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.12,
+"up5": 2,
+"lead": "네패스",
+"lead_ret": 7.11,
+"second": "네패스아크",
+"second_ret": 5.28
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 1.92,
+"up5": 5,
+"lead": "MSDI",
+"lead_ret": 13.2,
+"second": "LG이노텍",
+"second_ret": 9.41
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 1.88,
+"up5": 2,
+"lead": "아바텍",
+"lead_ret": 6.89,
+"second": "삼화콘덴서",
+"second_ret": 5.3
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.8,
+"up5": 6,
+"lead": "좋은사람들",
+"lead_ret": 12.96,
+"second": "제이에스티나",
+"second_ret": 11.02
+}
+],
+"themes_worst": [
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -2.27,
+"up5": 0,
+"lead": "태웅",
+"lead_ret": 2.69,
+"second": "태광",
+"second_ret": 1.75
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.23,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 4.77,
+"second": "에이스토리",
+"second_ret": 3.58
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -2.15,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.2,
+"second": "오가노이드사이언스",
+"second_ret": 0.14
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": -2.04,
+"up5": 0,
+"lead": "삼화네트웍스",
+"lead_ret": 3.79,
+"second": "KT지니뮤직",
+"second_ret": 1.47
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -2.03,
+"up5": 1,
+"lead": "사토시홀딩스",
+"lead_ret": 13.06,
+"second": "한컴위드",
+"second_ret": 3.0
+}
+],
+"leaders": [
+{
+"name": "디앤디파마텍",
+"code": "347850",
+"ret": 29.9,
+"value": 5688,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 21.52,
+"value": 3782,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 13.22,
+"value": 1842,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 27.01,
+"value": 1665,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "동구바이오제약",
+"code": "006620",
+"ret": 14.71,
+"value": 1000,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

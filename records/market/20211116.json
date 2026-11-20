@@ -1,0 +1,254 @@
+{
+"date": "20211116",
+"kospi": -0.08,
+"kosdaq": 0.62,
+"adv": 708,
+"dec": 1171,
+"flat": 175,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 333273,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 5,
+"lead": "위메이드맥스",
+"lead_ret": 13.42,
+"second": "위메이드플레이",
+"second_ret": 13.37
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "지오엘리먼트",
+"lead_ret": 29.85,
+"second": "켐트로스",
+"second_ret": 10.88
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "컴투스엔",
+"lead_ret": 30.0,
+"second": "SKAI",
+"second_ret": 29.78
+}
+],
+"themes": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 23,
+"avg": 3.95,
+"up5": 5,
+"lead": "SKAI",
+"lead_ret": 29.78,
+"second": "바이브컴퍼니",
+"second_ret": 20.1
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 3.46,
+"up5": 2,
+"lead": "아이티아이즈",
+"lead_ret": 29.9,
+"second": "핑거",
+"second_ret": 8.38
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 3.19,
+"up5": 11,
+"lead": "컴투스엔",
+"lead_ret": 30.0,
+"second": "SKAI",
+"second_ret": 29.78
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.15,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 13.65,
+"second": "퀀텀레일",
+"second_ret": 2.42
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.13,
+"up5": 7,
+"lead": "카카오게임즈",
+"lead_ret": 11.83,
+"second": "위메이드",
+"second_ret": 8.4
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 2.97,
+"up5": 12,
+"lead": "위메이드맥스",
+"lead_ret": 13.42,
+"second": "위메이드플레이",
+"second_ret": 13.37
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.7,
+"up5": 10,
+"lead": "위메이드맥스",
+"lead_ret": 13.42,
+"second": "펄어비스",
+"second_ret": 12.15
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 22,
+"avg": 2.52,
+"up5": 4,
+"lead": "아이티아이즈",
+"lead_ret": 29.9,
+"second": "핑거",
+"second_ret": 8.38
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 2.49,
+"up5": 4,
+"lead": "성우전자",
+"lead_ret": 13.65,
+"second": "포톤",
+"second_ret": 13.33
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.27,
+"up5": 5,
+"lead": "MDS테크",
+"lead_ret": 16.7,
+"second": "핑거",
+"second_ret": 8.38
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 2.22,
+"up5": 4,
+"lead": "딥노이드",
+"lead_ret": 13.28,
+"second": "토마토시스템",
+"second_ret": 6.56
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 28,
+"avg": 1.88,
+"up5": 3,
+"lead": "제노코",
+"lead_ret": 29.9,
+"second": "파이버프로",
+"second_ret": 10.49
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -3.5,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": -0.31,
+"second": "오로라",
+"second_ret": -1.94
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -2.38,
+"up5": 0,
+"lead": "엘엠에스",
+"lead_ret": 0.0,
+"second": "엑사이엔씨",
+"second_ret": -0.37
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.23,
+"up5": 0,
+"lead": "포스코스틸리온",
+"lead_ret": 0.0,
+"second": "POSCO홀딩스",
+"second_ret": -0.53
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.03,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 1.26,
+"second": "차바이오텍",
+"second_ret": 0.0
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -1.92,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 1.03,
+"second": "노루홀딩스",
+"second_ret": 0.78
+}
+],
+"leaders": [
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 11.83,
+"value": 10083,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "펄어비스",
+"code": "263750",
+"ret": 12.15,
+"value": 5636,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 30.0,
+"value": 4046,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "NPC",
+"code": "004250",
+"ret": 15.77,
+"value": 2703,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "BGF에코머티리얼즈",
+"code": "126600",
+"ret": 14.98,
+"value": 2313,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

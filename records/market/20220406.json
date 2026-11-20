@@ -1,0 +1,254 @@
+{
+"date": "20220406",
+"kospi": -0.88,
+"kosdaq": -0.98,
+"adv": 534,
+"dec": 1391,
+"flat": 152,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 177617,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 5,
+"lead": "링크드",
+"lead_ret": 12.63,
+"second": "엠게임",
+"second_ret": 10.13
+},
+{
+"name": "스테이블코인",
+"n": 3,
+"lead": "KG파이낸셜",
+"lead_ret": 8.79,
+"second": "미투온",
+"second_ret": 8.19
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "KG케미칼",
+"lead_ret": 29.95,
+"second": "KG스틸",
+"second_ret": 14.03
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 7.38,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 29.95,
+"second": "유니온",
+"second_ret": 7.3
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.61,
+"up5": 2,
+"lead": "신송홀딩스",
+"lead_ret": 20.73,
+"second": "샘표",
+"second_ret": 7.08
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.51,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 29.95,
+"second": "누보",
+"second_ret": 12.18
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 4.01,
+"up5": 2,
+"lead": "롯데손해보험",
+"lead_ret": 6.58,
+"second": "흥국화재",
+"second_ret": 5.4
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.14,
+"up5": 2,
+"lead": "엑스플러스",
+"lead_ret": 23.44,
+"second": "KG파이낸셜",
+"second_ret": 8.79
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.03,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 8.91,
+"second": "디케이락",
+"second_ret": 7.05
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 1.85,
+"up5": 7,
+"lead": "링크드",
+"lead_ret": 12.63,
+"second": "엠게임",
+"second_ret": 10.13
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.6,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 29.95,
+"second": "누보",
+"second_ret": 12.18
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 1.33,
+"up5": 2,
+"lead": "한탑",
+"lead_ret": 6.58,
+"second": "사조동아원",
+"second_ret": 6.37
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 1.31,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 8.91,
+"second": "디케이락",
+"second_ret": 7.05
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 1.27,
+"up5": 0,
+"lead": "사조오양",
+"lead_ret": 3.69,
+"second": "동원산업",
+"second_ret": 2.55
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 1.2,
+"up5": 4,
+"lead": "엠게임",
+"lead_ret": 10.13,
+"second": "미투온",
+"second_ret": 8.19
+}
+],
+"themes_worst": [
+{
+"name": "테마파크",
+"n": 5,
+"avg": -2.22,
+"up5": 0,
+"lead": "한국종합기술",
+"lead_ret": -0.27,
+"second": "현대건설",
+"second_ret": -1.4
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": -2.21,
+"up5": 0,
+"lead": "대창스틸",
+"lead_ret": -0.25,
+"second": "딜리",
+"second_ret": -0.45
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -2.08,
+"up5": 0,
+"lead": "포니링크",
+"lead_ret": 0.6,
+"second": "가비아",
+"second_ret": -0.7
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": -2.08,
+"up5": 0,
+"lead": "잉크테크",
+"lead_ret": -0.93,
+"second": "동일기연",
+"second_ret": -1.13
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.94,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -0.33,
+"second": "삼성에스디에스",
+"second_ret": -0.71
+}
+],
+"leaders": [
+{
+"name": "엠게임",
+"code": "058630",
+"ret": 10.13,
+"value": 2342,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "금강철강",
+"code": "053260",
+"ret": 13.08,
+"value": 2155,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "링크드",
+"code": "193250",
+"ret": 12.63,
+"value": 2046,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 22.63,
+"value": 1989,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 18.24,
+"value": 1647,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

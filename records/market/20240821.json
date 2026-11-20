@@ -1,0 +1,254 @@
+{
+"date": "20240821",
+"kospi": 0.17,
+"kosdaq": -0.96,
+"adv": 831,
+"dec": 1297,
+"flat": 149,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 158317,
+"hot": [
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "나인테크",
+"lead_ret": 15.47,
+"second": "에스비비테크",
+"second_ret": 10.9
+},
+{
+"name": "남북경협",
+"n": 3,
+"lead": "일신석재",
+"lead_ret": 14.85,
+"second": "인디에프",
+"second_ret": 11.03
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "에스와이스틸텍",
+"lead_ret": 24.31,
+"second": "다산네트웍스",
+"second_ret": 10.19
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.84,
+"up5": 3,
+"lead": "나인테크",
+"lead_ret": 15.47,
+"second": "LG에너지솔루션",
+"second_ret": 6.06
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.53,
+"up5": 3,
+"lead": "소마젠",
+"lead_ret": 15.12,
+"second": "녹십자",
+"second_ret": 7.89
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.47,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 21.37,
+"second": "한선엔지니어링",
+"second_ret": 6.2
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.52,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 6.37,
+"second": "대우건설",
+"second_ret": 2.91
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.43,
+"up5": 2,
+"lead": "EG",
+"lead_ret": 26.98,
+"second": "LG에너지솔루션",
+"second_ret": 6.06
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.01,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 7.59,
+"second": "세중",
+"second_ret": 2.42
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 1.94,
+"up5": 1,
+"lead": "EG",
+"lead_ret": 26.98,
+"second": "제이에스링크",
+"second_ret": 4.06
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.87,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 5.13,
+"second": "한일시멘트",
+"second_ret": 4.93
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 1.84,
+"up5": 1,
+"lead": "아이티아이즈",
+"lead_ret": 17.0,
+"second": "NICE평가정보",
+"second_ret": 3.21
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 1.77,
+"up5": 6,
+"lead": "에스와이스틸텍",
+"lead_ret": 24.31,
+"second": "다산네트웍스",
+"second_ret": 10.19
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.75,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 21.37,
+"second": "디케이락",
+"second_ret": 3.55
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.59,
+"up5": 5,
+"lead": "일신석재",
+"lead_ret": 14.85,
+"second": "인디에프",
+"second_ret": 11.03
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -6.08,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 0.0,
+"second": "경동제약",
+"second_ret": -0.72
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -5.06,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 0.32,
+"second": "대한약품",
+"second_ret": -0.36
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": -4.21,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 15.12,
+"second": "대웅제약",
+"second_ret": 4.21
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -4.03,
+"up5": 0,
+"lead": "에스와이",
+"lead_ret": 3.2,
+"second": "케이엔솔",
+"second_ret": -1.29
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": -3.43,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 15.12,
+"second": "큐라티스",
+"second_ret": 4.63
+}
+],
+"leaders": [
+{
+"name": "화성밸브",
+"code": "039610",
+"ret": 21.37,
+"value": 3665,
+"theme": "남-북-러 가스관사업",
+"reason": "테마: 남-북-러 가스관사업"
+},
+{
+"name": "에스와이스틸텍",
+"code": "365330",
+"ret": 24.31,
+"value": 2501,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 14.85,
+"value": 678,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "소마젠",
+"code": "950200",
+"ret": 15.12,
+"value": 441,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "다산네트웍스",
+"code": "039560",
+"ret": 10.19,
+"value": 428,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

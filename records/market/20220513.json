@@ -1,0 +1,246 @@
+{
+"date": "20220513",
+"kospi": 2.12,
+"kosdaq": 2.33,
+"adv": 1611,
+"dec": 312,
+"flat": 155,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 157931,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "HLB생명과학",
+"lead_ret": 29.95,
+"second": "티앤알바이오팹",
+"second_ret": 11.11
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "HLB제약",
+"lead_ret": 25.0,
+"second": "조아제약",
+"second_ret": 17.74
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 4.59,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 8.44,
+"second": "엠케이전자",
+"second_ret": 5.56
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 4.34,
+"up5": 10,
+"lead": "아비코전자",
+"lead_ret": 16.88,
+"second": "티엘비",
+"second_ret": 8.44
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.2,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.02,
+"second": "차바이오텍",
+"second_ret": 4.82
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.19,
+"up5": 2,
+"lead": "HLB생명과학",
+"lead_ret": 29.95,
+"second": "강스템바이오텍",
+"second_ret": 9.02
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.97,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 8.44,
+"second": "네오티스",
+"second_ret": 7.05
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 3.8,
+"up5": 8,
+"lead": "일동제약",
+"lead_ret": 9.84,
+"second": "강스템바이오텍",
+"second_ret": 9.02
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.72,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 11.85,
+"second": "링네트",
+"second_ret": 4.14
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 3.68,
+"up5": 4,
+"lead": "NC",
+"lead_ret": 10.29,
+"second": "이랜텍",
+"second_ret": 8.66
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.61,
+"up5": 2,
+"lead": "강원랜드",
+"lead_ret": 5.88,
+"second": "파라다이스",
+"second_ret": 5.1
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.61,
+"up5": 2,
+"lead": "강원랜드",
+"lead_ret": 5.88,
+"second": "파라다이스",
+"second_ret": 5.1
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.53,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 11.11,
+"second": "강스템바이오텍",
+"second_ret": 9.02
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 3.42,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 8.44,
+"second": "네오셈",
+"second_ret": 5.51
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.58,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 4.03,
+"second": "롯데정밀화학",
+"second_ret": 0.76
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -1.32,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 1.77,
+"second": "팬스타엔터프라이즈",
+"second_ret": 0.24
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -0.9,
+"up5": 0,
+"lead": "우진비앤지",
+"lead_ret": 2.2,
+"second": "이지바이오",
+"second_ret": 1.33
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.85,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 2.97,
+"second": "미래생명자원",
+"second_ret": 1.03
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -0.75,
+"up5": 0,
+"lead": "효성오앤비",
+"lead_ret": 3.52,
+"second": "조비",
+"second_ret": 2.61
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 25.74,
+"value": 3970,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "NC",
+"code": "036570",
+"ret": 10.29,
+"value": 2185,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "기산텔레콤",
+"code": "035460",
+"ret": 11.06,
+"value": 1679,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 24.07,
+"value": 1374,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "KB오토시스",
+"code": "024120",
+"ret": 11.15,
+"value": 1189,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

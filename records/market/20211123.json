@@ -1,0 +1,238 @@
+{
+"date": "20211123",
+"kospi": -0.53,
+"kosdaq": -1.8,
+"adv": 666,
+"dec": 1201,
+"flat": 189,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 265612,
+"hot": [
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 5,
+"lead": "옴니시스템",
+"lead_ret": 29.86,
+"second": "누리플렉스",
+"second_ret": 19.1
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.04,
+"up5": 1,
+"lead": "옴니시스템",
+"lead_ret": 29.86,
+"second": "이루온",
+"second_ret": 3.94
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 19,
+"avg": 3.81,
+"up5": 5,
+"lead": "옴니시스템",
+"lead_ret": 29.86,
+"second": "누리플렉스",
+"second_ret": 19.1
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.81,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 11.21,
+"second": "일진파워",
+"second_ret": 4.83
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.46,
+"up5": 1,
+"lead": "대영포장",
+"lead_ret": 8.03,
+"second": "태림포장",
+"second_ret": 4.37
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 22,
+"avg": 2.43,
+"up5": 3,
+"lead": "옴니시스템",
+"lead_ret": 29.86,
+"second": "누리플렉스",
+"second_ret": 19.1
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.04,
+"up5": 1,
+"lead": "누리플렉스",
+"lead_ret": 19.1,
+"second": "카카오페이",
+"second_ret": 4.12
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 1.93,
+"up5": 2,
+"lead": "크리스에프앤씨",
+"lead_ret": 8.84,
+"second": "골프존홀딩스",
+"second_ret": 5.37
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 1.85,
+"up5": 1,
+"lead": "시공테크",
+"lead_ret": 9.09,
+"second": "한국종합기술",
+"second_ret": 1.13
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 1.7,
+"up5": 1,
+"lead": "포스코스틸리온",
+"lead_ret": 7.84,
+"second": "고려제강",
+"second_ret": 2.26
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.51,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 3.28,
+"second": "신송홀딩스",
+"second_ret": 2.91
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 1.4,
+"up5": 0,
+"lead": "한국제지",
+"lead_ret": 4.42,
+"second": "신풍",
+"second_ret": 3.04
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.09,
+"up5": 1,
+"lead": "문배철강",
+"lead_ret": 7.04,
+"second": "휴스틸",
+"second_ret": 2.38
+}
+],
+"themes_worst": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -5.31,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 1.32,
+"second": "TS인베스트먼트",
+"second_ret": -0.73
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -4.8,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 1.32,
+"second": "삼성전자",
+"second_ret": 0.53
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -4.16,
+"up5": 1,
+"lead": "네오리진",
+"lead_ret": 7.76,
+"second": "NHN",
+"second_ret": 0.32
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -4.01,
+"up5": 1,
+"lead": "네오리진",
+"lead_ret": 7.76,
+"second": "링크드",
+"second_ret": 1.48
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -3.07,
+"up5": 1,
+"lead": "알비더블유",
+"lead_ret": 5.01,
+"second": "하이브",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "KG모빌리티플랫폼",
+"code": "381970",
+"ret": 30.0,
+"value": 1677,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "옴니시스템",
+"code": "057540",
+"ret": 29.86,
+"value": 1227,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "케어랩스",
+"code": "263700",
+"ret": 10.95,
+"value": 1173,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+},
+{
+"name": "키네마스터",
+"code": "139670",
+"ret": 12.01,
+"value": 1108,
+"theme": "모바일솔루션(스마트폰)",
+"reason": "테마: 모바일솔루션(스마트폰)"
+},
+{
+"name": "아이티아이즈",
+"code": "372800",
+"ret": 13.13,
+"value": 1037,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+}
+],
+"backfilled": true
+}

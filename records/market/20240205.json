@@ -1,0 +1,254 @@
+{
+"date": "20240205",
+"kospi": -0.92,
+"kosdaq": -0.83,
+"adv": 866,
+"dec": 1242,
+"flat": 128,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 193551,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "신성에스티",
+"lead_ret": 29.88,
+"second": "신성델타테크",
+"second_ret": 18.54
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "신성델타테크",
+"lead_ret": 18.54,
+"second": "이랜시스",
+"second_ret": 9.38
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "모베이스",
+"lead_ret": 17.42,
+"second": "엑스플러스",
+"second_ret": 8.73
+}
+],
+"themes": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.2,
+"up5": 2,
+"lead": "엑스플러스",
+"lead_ret": 8.73,
+"second": "KG파이낸셜",
+"second_ret": 5.65
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.2,
+"up5": 4,
+"lead": "삼성출판사",
+"lead_ret": 16.94,
+"second": "꿈비",
+"second_ret": 6.13
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.17,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": 4.82,
+"second": "제이오",
+"second_ret": 3.45
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 2.06,
+"up5": 1,
+"lead": "대산F&B",
+"lead_ret": 8.58,
+"second": "SOOP",
+"second_ret": 4.48
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.91,
+"up5": 2,
+"lead": "신성델타테크",
+"lead_ret": 18.54,
+"second": "파워로직스",
+"second_ret": 5.11
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.84,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.94,
+"second": "SK가스",
+"second_ret": 4.8
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.84,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.94,
+"second": "SK가스",
+"second_ret": 4.8
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.46,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 15.12,
+"second": "엔브이에이치코리아",
+"second_ret": 1.95
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.33,
+"up5": 0,
+"lead": "하나투어",
+"lead_ret": 2.75,
+"second": "참좋은여행",
+"second_ret": 2.31
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 1.26,
+"up5": 2,
+"lead": "오픈놀",
+"lead_ret": 8.62,
+"second": "메가엠디",
+"second_ret": 7.18
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.24,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.94,
+"second": "SK이노베이션",
+"second_ret": 2.17
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.2,
+"up5": 3,
+"lead": "삼성출판사",
+"lead_ret": 16.94,
+"second": "메가엠디",
+"second_ret": 7.18
+}
+],
+"themes_worst": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -3.71,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 1.85,
+"second": "국순당",
+"second_ret": -0.32
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.34,
+"up5": 0,
+"lead": "SOOP",
+"lead_ret": 4.48,
+"second": "유엔젤",
+"second_ret": 0.9
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -3.18,
+"up5": 0,
+"lead": "유니퀘스트",
+"lead_ret": 4.33,
+"second": "가온칩스",
+"second_ret": 1.49
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": -2.96,
+"up5": 0,
+"lead": "케이옥션",
+"lead_ret": 1.0,
+"second": "코리아에셋투자증권",
+"second_ret": 0.18
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": -2.71,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": -0.21,
+"second": "루멘스바이오스",
+"second_ret": -0.92
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 18.54,
+"value": 6256,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "현대힘스",
+"code": "460930",
+"ret": 29.92,
+"value": 4914,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "푸른저축은행",
+"code": "007330",
+"ret": 11.58,
+"value": 1925,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "포스뱅크",
+"code": "105760",
+"ret": 10.32,
+"value": 1199,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "신성에스티",
+"code": "416180",
+"ret": 29.88,
+"value": 1192,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

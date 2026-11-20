@@ -1,0 +1,254 @@
+{
+"date": "20251017",
+"kospi": 0.01,
+"kosdaq": -0.68,
+"adv": 467,
+"dec": 1821,
+"flat": 93,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 257725,
+"hot": [
+{
+"name": "2차전지",
+"n": 10,
+"lead": "새로닉스",
+"lead_ret": 30.0,
+"second": "에코프로",
+"second_ret": 27.04
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "SG",
+"lead_ret": 15.24,
+"second": "대동기어",
+"second_ret": 10.92
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "두산",
+"lead_ret": 15.02,
+"second": "대동기어",
+"second_ret": 10.92
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 8.3,
+"up5": 5,
+"lead": "에코프로",
+"lead_ret": 27.04,
+"second": "더블유씨피",
+"second_ret": 18.39
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.94,
+"up5": 5,
+"lead": "에코프로",
+"lead_ret": 27.04,
+"second": "천보",
+"second_ret": 21.02
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.38,
+"up5": 2,
+"lead": "지씨셀",
+"lead_ret": 8.91,
+"second": "메디포스트",
+"second_ret": 8.66
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.9,
+"up5": 16,
+"lead": "에코프로",
+"lead_ret": 27.04,
+"second": "천보",
+"second_ret": 21.02
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 2.89,
+"up5": 1,
+"lead": "금강공업",
+"lead_ret": 29.88,
+"second": "덕신이피씨",
+"second_ret": 2.55
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.55,
+"up5": 6,
+"lead": "천보",
+"lead_ret": 21.02,
+"second": "민테크",
+"second_ret": 9.73
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 2.42,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 27.04,
+"second": "코스모화학",
+"second_ret": 6.44
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.35,
+"up5": 1,
+"lead": "금강공업",
+"lead_ret": 29.88,
+"second": "이렘",
+"second_ret": 1.82
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.17,
+"up5": 1,
+"lead": "한온시스템",
+"lead_ret": 9.97,
+"second": "HL만도",
+"second_ret": 3.66
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 2.06,
+"up5": 2,
+"lead": "삼미금속",
+"lead_ret": 15.0,
+"second": "전진건설로봇",
+"second_ret": 10.31
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 1.99,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 27.04,
+"second": "에코프로에이치엔",
+"second_ret": 12.77
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.94,
+"up5": 1,
+"lead": "LG화학",
+"lead_ret": 8.65,
+"second": "제이오",
+"second_ret": 2.86
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -4.35,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": -1.72,
+"second": "DL이앤씨",
+"second_ret": -2.87
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -3.78,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": -2.26,
+"second": "와이즈넛",
+"second_ret": -2.37
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.65,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": -2.95,
+"second": "유라클",
+"second_ret": -3.21
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.51,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": -1.94,
+"second": "SBI인베스트먼트",
+"second_ret": -2.28
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -3.44,
+"up5": 1,
+"lead": "에이엘티",
+"lead_ret": 5.06,
+"second": "무림P&P",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 27.04,
+"value": 8120,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 12.59,
+"value": 8034,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "두산",
+"code": "000150",
+"ret": 15.02,
+"value": 3510,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 10.3,
+"value": 3437,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 12.8,
+"value": 2785,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20210315",
+"kospi": -0.28,
+"kosdaq": 0.15,
+"adv": 1066,
+"dec": 738,
+"flat": 185,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 255621,
+"hot": [
+{
+"name": "창투사",
+"n": 6,
+"lead": "대성창투",
+"lead_ret": 29.98,
+"second": "아주IB투자",
+"second_ret": 29.98
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 3,
+"lead": "케이씨피드",
+"lead_ret": 29.98,
+"second": "흥국에프엔비",
+"second_ret": 13.27
+}
+],
+"themes": [
+{
+"name": "창투사",
+"n": 15,
+"avg": 10.88,
+"up5": 11,
+"lead": "대성창투",
+"lead_ret": 29.98,
+"second": "아주IB투자",
+"second_ret": 29.98
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 10.66,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 29.98,
+"second": "SBI인베스트먼트",
+"second_ret": 22.33
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 8.61,
+"up5": 3,
+"lead": "대성창투",
+"lead_ret": 29.98,
+"second": "DSC인베스트먼트",
+"second_ret": 10.91
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 6.55,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 23.15,
+"second": "유니온머티리얼",
+"second_ret": 8.3
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 6.48,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 29.98,
+"second": "켄코아에어로스페이스",
+"second_ret": 6.96
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 6.47,
+"up5": 3,
+"lead": "케이씨피드",
+"lead_ret": 29.98,
+"second": "흥국에프엔비",
+"second_ret": 13.27
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 5.74,
+"up5": 4,
+"lead": "대성창투",
+"lead_ret": 29.98,
+"second": "DSC인베스트먼트",
+"second_ret": 10.91
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 4.55,
+"up5": 4,
+"lead": "동국알앤에스",
+"lead_ret": 29.8,
+"second": "유니온",
+"second_ret": 23.15
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 4.02,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 10.91,
+"second": "TS인베스트먼트",
+"second_ret": 10.39
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.98,
+"up5": 2,
+"lead": "모두투어",
+"lead_ret": 6.26,
+"second": "노랑풍선",
+"second_ret": 5.77
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.77,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 5.7,
+"second": "IPARK현대산업개발",
+"second_ret": 4.01
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.72,
+"up5": 2,
+"lead": "모나용평",
+"lead_ret": 6.39,
+"second": "소노스퀘어",
+"second_ret": 5.4
+}
+],
+"themes_worst": [
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": -2.39,
+"up5": 1,
+"lead": "흥국에프엔비",
+"lead_ret": 13.27,
+"second": "미래생명자원",
+"second_ret": 2.55
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": -1.56,
+"up5": 0,
+"lead": "태웅로직스",
+"lead_ret": 3.95,
+"second": "로젠",
+"second_ret": 1.35
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.22,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.47,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -1.03,
+"up5": 0,
+"lead": "푸른로보틱스",
+"lead_ret": 2.91,
+"second": "NICE인프라",
+"second_ret": 1.82
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.03,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 0.8,
+"second": "삼성SDI",
+"second_ret": -0.44
+}
+],
+"leaders": [
+{
+"name": "앱토크롬",
+"code": "109960",
+"ret": 21.65,
+"value": 23653,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "SBI인베스트먼트",
+"code": "019550",
+"ret": 22.33,
+"value": 4758,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 23.15,
+"value": 2749,
+"theme": "요소수",
+"reason": "테마: 요소수"
+},
+{
+"name": "흥국에프엔비",
+"code": "189980",
+"ret": 13.27,
+"value": 2666,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+},
+{
+"name": "에이프로젠",
+"code": "007460",
+"ret": 14.62,
+"value": 2655,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

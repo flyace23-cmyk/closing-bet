@@ -1,0 +1,246 @@
+{
+"date": "20200521",
+"kospi": 0.44,
+"kosdaq": 1.02,
+"adv": 1012,
+"dec": 711,
+"flat": 188,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 198065,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 5,
+"lead": "동국S&C",
+"lead_ret": 29.9,
+"second": "SK오션플랜트",
+"second_ret": 26.81
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 5,
+"lead": "글로벌에스엠",
+"lead_ret": 29.89,
+"second": "와이어블",
+"second_ret": 27.25
+}
+],
+"themes": [
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 5.34,
+"up5": 10,
+"lead": "동국S&C",
+"lead_ret": 29.9,
+"second": "SK오션플랜트",
+"second_ret": 26.81
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 4.83,
+"up5": 16,
+"lead": "글로벌에스엠",
+"lead_ret": 29.89,
+"second": "와이어블",
+"second_ret": 27.25
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 4.55,
+"up5": 3,
+"lead": "대한광통신",
+"lead_ret": 19.19,
+"second": "한국첨단소재",
+"second_ret": 9.67
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 4.52,
+"up5": 15,
+"lead": "와이어블",
+"lead_ret": 27.25,
+"second": "유비쿼스",
+"second_ret": 16.09
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.3,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 14.51,
+"second": "녹십자",
+"second_ret": 2.68
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.75,
+"up5": 4,
+"lead": "휴림로봇",
+"lead_ret": 9.94,
+"second": "로보스타",
+"second_ret": 8.63
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 27,
+"avg": 3.47,
+"up5": 7,
+"lead": "알에스오토메이션",
+"lead_ret": 10.08,
+"second": "휴림로봇",
+"second_ret": 9.94
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 52,
+"avg": 3.45,
+"up5": 14,
+"lead": "글로벌에스엠",
+"lead_ret": 29.89,
+"second": "로보티즈",
+"second_ret": 17.7
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.24,
+"up5": 1,
+"lead": "글로벌에스엠",
+"lead_ret": 29.89,
+"second": "로스웰",
+"second_ret": 3.6
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 26,
+"avg": 3.22,
+"up5": 6,
+"lead": "로보티즈",
+"lead_ret": 17.7,
+"second": "유비쿼스",
+"second_ret": 16.09
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 37,
+"avg": 3.15,
+"up5": 10,
+"lead": "로보로보",
+"lead_ret": 29.83,
+"second": "로보티즈",
+"second_ret": 17.7
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 18,
+"avg": 3.06,
+"up5": 4,
+"lead": "디티씨",
+"lead_ret": 17.68,
+"second": "원익피앤이",
+"second_ret": 8.77
+}
+],
+"themes_worst": [
+{
+"name": "마이데이터",
+"n": 8,
+"avg": -1.85,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 1.35,
+"second": "유비벨록스",
+"second_ret": 0.6
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": -1.43,
+"up5": 0,
+"lead": "SK",
+"lead_ret": 3.6,
+"second": "카카오",
+"second_ret": 2.59
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": -1.08,
+"up5": 1,
+"lead": "티사이언티픽",
+"lead_ret": 10.29,
+"second": "에스에스알",
+"second_ret": 2.73
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -1.03,
+"up5": 1,
+"lead": "대신정보통신",
+"lead_ret": 6.52,
+"second": "한화투자증권",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.02,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.73,
+"second": "코리안리",
+"second_ret": 1.2
+}
+],
+"leaders": [
+{
+"name": "와이어블",
+"code": "065530",
+"ret": 27.25,
+"value": 5191,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "안트로젠",
+"code": "065660",
+"ret": 22.6,
+"value": 2859,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 19.19,
+"value": 2517,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "지씨셀",
+"code": "144510",
+"ret": 14.51,
+"value": 1793,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "로보로보",
+"code": "215100",
+"ret": 29.83,
+"value": 1776,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

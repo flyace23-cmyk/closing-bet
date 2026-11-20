@@ -1,0 +1,254 @@
+{
+"date": "20200518",
+"kospi": 0.51,
+"kosdaq": -0.16,
+"adv": 858,
+"dec": 905,
+"flat": 148,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 271085,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 7,
+"lead": "한국정보인증",
+"lead_ret": 30.0,
+"second": "한국전자인증",
+"second_ret": 29.98
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "한국단자",
+"lead_ret": 26.51,
+"second": "나라엠앤디",
+"second_ret": 15.92
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "현대바이오랜드",
+"lead_ret": 29.9,
+"second": "세화피앤씨",
+"second_ret": 23.08
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 6.51,
+"up5": 2,
+"lead": "ISC",
+"lead_ret": 21.21,
+"second": "심텍",
+"second_ret": 10.6
+},
+{
+"name": "핀테크(FinTech)",
+"n": 30,
+"avg": 6.01,
+"up5": 10,
+"lead": "한국정보인증",
+"lead_ret": 30.0,
+"second": "한국전자인증",
+"second_ret": 29.98
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.62,
+"up5": 1,
+"lead": "샘표식품",
+"lead_ret": 22.14,
+"second": "미래생명자원",
+"second_ret": 4.42
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 5.37,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 16.16,
+"second": "유니온머티리얼",
+"second_ret": 8.83
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 5.31,
+"up5": 12,
+"lead": "한국정보인증",
+"lead_ret": 30.0,
+"second": "한국전자인증",
+"second_ret": 29.98
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 5.27,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.69,
+"second": "신세계",
+"second_ret": 3.85
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 5.02,
+"up5": 9,
+"lead": "한국전자인증",
+"lead_ret": 29.98,
+"second": "라온시큐어",
+"second_ret": 25.39
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 4.92,
+"up5": 5,
+"lead": "한국정보인증",
+"lead_ret": 30.0,
+"second": "라온시큐어",
+"second_ret": 25.39
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 4.39,
+"up5": 8,
+"lead": "한국정보인증",
+"lead_ret": 30.0,
+"second": "한국정보통신",
+"second_ret": 29.69
+},
+{
+"name": "인터넷은행",
+"n": 26,
+"avg": 4.39,
+"up5": 7,
+"lead": "한국정보인증",
+"lead_ret": 30.0,
+"second": "한국전자인증",
+"second_ret": 29.98
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.24,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 8.47,
+"second": "유비벨록스",
+"second_ret": 7.54
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 4.21,
+"up5": 1,
+"lead": "한국전자인증",
+"lead_ret": 29.98,
+"second": "하나금융지주",
+"second_ret": -1.78
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.3,
+"up5": 0,
+"lead": "블루산업개발",
+"lead_ret": 0.0,
+"second": "한솔홀딩스",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": -2.93,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 1.72,
+"second": "한국비엔씨",
+"second_ret": 1.46
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": -2.7,
+"up5": 1,
+"lead": "랩지노믹스",
+"lead_ret": 7.04,
+"second": "폴라리스오피스",
+"second_ret": 0.85
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -2.27,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.0,
+"second": "DSC인베스트먼트",
+"second_ret": -0.37
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -2.21,
+"up5": 0,
+"lead": "삼정펄프",
+"lead_ret": 2.42,
+"second": "신풍",
+"second_ret": 2.14
+}
+],
+"leaders": [
+{
+"name": "현대바이오랜드",
+"code": "052260",
+"ret": 29.9,
+"value": 5884,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "라온시큐어",
+"code": "042510",
+"ret": 25.39,
+"value": 1852,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "파세코",
+"code": "037070",
+"ret": 10.03,
+"value": 1849,
+"theme": "제습기",
+"reason": "테마: 제습기"
+},
+{
+"name": "드림시큐리티",
+"code": "203650",
+"ret": 14.8,
+"value": 1599,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 16.16,
+"value": 1414,
+"theme": "요소수",
+"reason": "테마: 요소수"
+}
+],
+"backfilled": true
+}

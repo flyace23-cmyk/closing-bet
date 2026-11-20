@@ -1,0 +1,254 @@
+{
+"date": "20250801",
+"kospi": -3.88,
+"kosdaq": -4.03,
+"adv": 143,
+"dec": 2200,
+"flat": 29,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 178781,
+"hot": [
+{
+"name": "남북경협",
+"n": 4,
+"lead": "코데즈컴바인",
+"lead_ret": 9.17,
+"second": "제이에스티나",
+"second_ret": 8.96
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "에이치브이엠",
+"lead_ret": 29.89,
+"second": "루미르",
+"second_ret": 4.56
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "아이에이",
+"lead_ret": 16.3,
+"second": "이닉스",
+"second_ret": 6.94
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 7.79,
+"up5": 3,
+"lead": "우양",
+"lead_ret": 29.96,
+"second": "풀무원",
+"second_ret": 18.91
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.63,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 18.91,
+"second": "미래생명자원",
+"second_ret": -2.06
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 0.62,
+"up5": 2,
+"lead": "스피어",
+"lead_ret": 30.0,
+"second": "에이치브이엠",
+"second_ret": 29.89
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 0.0,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 29.96,
+"second": "이씨에스",
+"second_ret": -1.62
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -0.81,
+"up5": 0,
+"lead": "포바이포",
+"lead_ret": 3.62,
+"second": "NEW",
+"second_ret": 2.82
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": -1.11,
+"up5": 1,
+"lead": "스피어",
+"lead_ret": 30.0,
+"second": "인성정보",
+"second_ret": 2.76
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": -1.22,
+"up5": 2,
+"lead": "스피어",
+"lead_ret": 30.0,
+"second": "에이치브이엠",
+"second_ret": 29.89
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.35,
+"up5": 1,
+"lead": "세림B&G",
+"lead_ret": 5.97,
+"second": "씨티케이",
+"second_ret": 3.29
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -1.46,
+"up5": 2,
+"lead": "코데즈컴바인",
+"lead_ret": 9.17,
+"second": "제이에스티나",
+"second_ret": 8.96
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.46,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 4.54,
+"second": "HJ중공업",
+"second_ret": -2.13
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -1.53,
+"up5": 1,
+"lead": "엔케이",
+"lead_ret": 12.22,
+"second": "루미르",
+"second_ret": 4.56
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -1.65,
+"up5": 1,
+"lead": "아이에이",
+"lead_ret": 16.3,
+"second": "오비고",
+"second_ret": -1.15
+}
+],
+"themes_worst": [
+{
+"name": "면세점",
+"n": 8,
+"avg": -6.85,
+"up5": 0,
+"lead": "JTC",
+"lead_ret": -1.33,
+"second": "신세계",
+"second_ret": -1.92
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -6.83,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": -5.04,
+"second": "유라클",
+"second_ret": -5.5
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -5.77,
+"up5": 0,
+"lead": "코리아에셋투자증권",
+"lead_ret": -3.01,
+"second": "유화증권",
+"second_ret": -3.05
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -5.6,
+"up5": 0,
+"lead": "아이티센피엔에스",
+"lead_ret": 0.0,
+"second": "넥써쓰",
+"second_ret": -1.94
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -5.59,
+"up5": 0,
+"lead": "케이옥션",
+"lead_ret": -2.84,
+"second": "코리아에셋투자증권",
+"second_ret": -3.01
+}
+],
+"leaders": [
+{
+"name": "풀무원",
+"code": "017810",
+"ret": 18.91,
+"value": 2418,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "우양",
+"code": "103840",
+"ret": 29.96,
+"value": 1680,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+},
+{
+"name": "엔케이",
+"code": "085310",
+"ret": 12.22,
+"value": 807,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "에이치브이엠",
+"code": "295310",
+"ret": 29.89,
+"value": 510,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "아이에이",
+"code": "038880",
+"ret": 16.3,
+"value": 265,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

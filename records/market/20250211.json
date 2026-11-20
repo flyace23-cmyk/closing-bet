@@ -1,0 +1,254 @@
+{
+"date": "20250211",
+"kospi": 0.71,
+"kosdaq": -0.01,
+"adv": 1072,
+"dec": 1106,
+"flat": 152,
+"limit_up": 5,
+"limit_down": 2,
+"value_total": 205652,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "나인테크",
+"lead_ret": 29.96,
+"second": "알멕",
+"second_ret": 21.05
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "기산텔레콤",
+"lead_ret": 29.78,
+"second": "한화에어로스페이스",
+"second_ret": 20.58
+},
+{
+"name": "드론(Drone)",
+"n": 3,
+"lead": "기산텔레콤",
+"lead_ret": 29.78,
+"second": "한화에어로스페이스",
+"second_ret": 20.58
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.78,
+"up5": 2,
+"lead": "한선엔지니어링",
+"lead_ret": 15.47,
+"second": "케이에스피",
+"second_ret": 5.26
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.39,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 8.95,
+"second": "HJ중공업",
+"second_ret": 4.09
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 2.99,
+"up5": 4,
+"lead": "기산텔레콤",
+"lead_ret": 29.78,
+"second": "파이버프로",
+"second_ret": 14.62
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 2.88,
+"up5": 5,
+"lead": "기산텔레콤",
+"lead_ret": 29.78,
+"second": "한화에어로스페이스",
+"second_ret": 20.58
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 2.78,
+"up5": 5,
+"lead": "나인테크",
+"lead_ret": 29.96,
+"second": "하스",
+"second_ret": 17.11
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 2.54,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 11.4,
+"second": "현대건설",
+"second_ret": 2.19
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 2.46,
+"up5": 5,
+"lead": "알멕",
+"lead_ret": 21.05,
+"second": "알루코",
+"second_ret": 10.12
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 64,
+"avg": 2.45,
+"up5": 12,
+"lead": "기산텔레콤",
+"lead_ret": 29.78,
+"second": "한화에어로스페이스",
+"second_ret": 20.58
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.44,
+"up5": 7,
+"lead": "알멕",
+"lead_ret": 21.05,
+"second": "한화에어로스페이스",
+"second_ret": 20.58
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.35,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 29.96,
+"second": "에코프로비엠",
+"second_ret": 0.0
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 2.26,
+"up5": 2,
+"lead": "밸로프",
+"lead_ret": 16.23,
+"second": "펄어비스",
+"second_ret": 10.54
+},
+{
+"name": "미용기기",
+"n": 17,
+"avg": 2.26,
+"up5": 3,
+"lead": "레이저옵텍",
+"lead_ret": 29.99,
+"second": "라메디텍",
+"second_ret": 11.21
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -1.91,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.18,
+"second": "앤씨앤",
+"second_ret": -0.1
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.46,
+"up5": 0,
+"lead": "코스모화학",
+"lead_ret": 3.58,
+"second": "대보마그네틱",
+"second_ret": 3.0
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -1.42,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": 2.25,
+"second": "시선AI",
+"second_ret": 0.44
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -1.38,
+"up5": 0,
+"lead": "파두",
+"lead_ret": 1.65,
+"second": "SK하이닉스",
+"second_ret": 0.81
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.27,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.35,
+"second": "지씨셀",
+"second_ret": -0.22
+}
+],
+"leaders": [
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 20.58,
+"value": 12939,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "삼양엔씨켐",
+"code": "482630",
+"ret": 29.8,
+"value": 5021,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 16.32,
+"value": 2679,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HB테크놀러지",
+"code": "078150",
+"ret": 10.69,
+"value": 1312,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에이엘티",
+"code": "172670",
+"ret": 19.28,
+"value": 1058,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+}
+],
+"backfilled": true
+}

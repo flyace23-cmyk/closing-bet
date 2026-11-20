@@ -1,0 +1,254 @@
+{
+"date": "20200915",
+"kospi": 0.65,
+"kosdaq": 0.59,
+"adv": 839,
+"dec": 913,
+"flat": 185,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 558744,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "DYP",
+"lead_ret": 29.96,
+"second": "아이에이",
+"second_ret": 29.85
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "DYP",
+"lead_ret": 29.96,
+"second": "디젠스",
+"second_ret": 16.05
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "한세예스24홀딩스",
+"lead_ret": 29.91,
+"second": "한진중공업홀딩스",
+"second_ret": 21.45
+}
+],
+"themes": [
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 7.89,
+"up5": 3,
+"lead": "한세예스24홀딩스",
+"lead_ret": 29.91,
+"second": "예스24",
+"second_ret": 29.76
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 6.4,
+"up5": 4,
+"lead": "서울가스",
+"lead_ret": 29.85,
+"second": "지에스이",
+"second_ret": 6.71
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 4.49,
+"up5": 1,
+"lead": "네오셈",
+"lead_ret": 29.89,
+"second": "엑시콘",
+"second_ret": 3.33
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.53,
+"up5": 2,
+"lead": "아이에이",
+"lead_ret": 29.85,
+"second": "인포뱅크",
+"second_ret": 8.09
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.86,
+"up5": 3,
+"lead": "진에어",
+"lead_ret": 7.63,
+"second": "제주항공",
+"second_ret": 5.32
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 2.79,
+"up5": 2,
+"lead": "아이에이",
+"lead_ret": 29.85,
+"second": "디아이티",
+"second_ret": 6.75
+},
+{
+"name": "인터넷은행",
+"n": 26,
+"avg": 2.74,
+"up5": 3,
+"lead": "한세예스24홀딩스",
+"lead_ret": 29.91,
+"second": "예스24",
+"second_ret": 29.76
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 2.6,
+"up5": 4,
+"lead": "서울가스",
+"lead_ret": 29.85,
+"second": "지에스이",
+"second_ret": 6.71
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.52,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 6.07,
+"second": "KBI메탈",
+"second_ret": 4.49
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.37,
+"up5": 2,
+"lead": "서울가스",
+"lead_ret": 29.85,
+"second": "LX인터내셔널",
+"second_ret": 6.41
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.25,
+"up5": 1,
+"lead": "인포뱅크",
+"lead_ret": 8.09,
+"second": "이루온",
+"second_ret": 4.67
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 18,
+"avg": 2.17,
+"up5": 4,
+"lead": "아이텍",
+"lead_ret": 15.87,
+"second": "엣지파운드리",
+"second_ret": 13.92
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -3.96,
+"up5": 0,
+"lead": "오텍",
+"lead_ret": -0.37,
+"second": "에스와이",
+"second_ret": -2.27
+},
+{
+"name": "육계",
+"n": 8,
+"avg": -1.43,
+"up5": 0,
+"lead": "하림",
+"lead_ret": -0.92,
+"second": "동우팜투테이블",
+"second_ret": -1.17
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": -1.43,
+"up5": 0,
+"lead": "선익시스템",
+"lead_ret": 3.83,
+"second": "메카로",
+"second_ret": 0.76
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.33,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 1.98,
+"second": "현대모비스",
+"second_ret": 0.65
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -1.23,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": -0.2,
+"second": "삼성물산",
+"second_ret": -0.44
+}
+],
+"leaders": [
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 13.96,
+"value": 9567,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "앤디포스",
+"code": "238090",
+"ret": 21.34,
+"value": 5994,
+"theme": "아이폰",
+"reason": "테마: 아이폰"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 11.76,
+"value": 3744,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "케이피엠테크",
+"code": "042040",
+"ret": 29.97,
+"value": 3406,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "녹십자웰빙",
+"code": "234690",
+"ret": 10.68,
+"value": 2565,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+}
+],
+"backfilled": true
+}

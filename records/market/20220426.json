@@ -1,0 +1,254 @@
+{
+"date": "20220426",
+"kospi": 0.42,
+"kosdaq": 1.26,
+"adv": 1328,
+"dec": 568,
+"flat": 181,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 186499,
+"hot": [
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 4,
+"lead": "베셀",
+"lead_ret": 30.03,
+"second": "파이버프로",
+"second_ret": 29.97
+},
+{
+"name": "사료",
+"n": 4,
+"lead": "한탑",
+"lead_ret": 30.0,
+"second": "팜스토리",
+"second_ret": 29.91
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 4,
+"lead": "우리손에프앤지",
+"lead_ret": 29.94,
+"second": "팜스토리",
+"second_ret": 29.91
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 11.47,
+"up5": 3,
+"lead": "샘표",
+"lead_ret": 29.96,
+"second": "신송홀딩스",
+"second_ret": 17.11
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 7.41,
+"up5": 4,
+"lead": "팜스토리",
+"lead_ret": 29.91,
+"second": "동우팜투테이블",
+"second_ret": 11.79
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 6.75,
+"up5": 5,
+"lead": "팜스토리",
+"lead_ret": 29.91,
+"second": "동우팜투테이블",
+"second_ret": 11.79
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 6.1,
+"up5": 6,
+"lead": "한탑",
+"lead_ret": 30.0,
+"second": "팜스토리",
+"second_ret": 29.91
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 5.6,
+"up5": 6,
+"lead": "베셀",
+"lead_ret": 30.03,
+"second": "파이버프로",
+"second_ret": 29.97
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 5.08,
+"up5": 7,
+"lead": "베셀",
+"lead_ret": 30.03,
+"second": "기산텔레콤",
+"second_ret": 29.96
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 5.05,
+"up5": 4,
+"lead": "페이퍼코리아",
+"lead_ret": 29.83,
+"second": "무림페이퍼",
+"second_ret": 20.6
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 4.9,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 16.53,
+"second": "이월드",
+"second_ret": 4.18
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.55,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 30.0,
+"second": "신세계",
+"second_ret": 2.7
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 4.01,
+"up5": 7,
+"lead": "우리손에프앤지",
+"lead_ret": 29.94,
+"second": "팜스토리",
+"second_ret": 29.91
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.98,
+"up5": 2,
+"lead": "부산산업",
+"lead_ret": 13.33,
+"second": "동아지질",
+"second_ret": 7.25
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.25,
+"up5": 1,
+"lead": "휴림로봇",
+"lead_ret": 21.96,
+"second": "TPC로보틱스",
+"second_ret": 3.26
+}
+],
+"themes_worst": [
+{
+"name": "비료",
+"n": 10,
+"avg": -3.0,
+"up5": 0,
+"lead": "체시스",
+"lead_ret": 0.72,
+"second": "NH농우바이오",
+"second_ret": -1.13
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.44,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 0.52,
+"second": "흥국화재",
+"second_ret": 0.0
+},
+{
+"name": "농업",
+"n": 22,
+"avg": -2.22,
+"up5": 0,
+"lead": "포메탈",
+"lead_ret": 4.63,
+"second": "우림피티에스",
+"second_ret": 3.01
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.07,
+"up5": 0,
+"lead": "사조오양",
+"lead_ret": 0.84,
+"second": "신라교역",
+"second_ret": -0.37
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -1.48,
+"up5": 0,
+"lead": "파루",
+"lead_ret": 2.37,
+"second": "뉴보텍",
+"second_ret": 1.72
+}
+],
+"leaders": [
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 21.96,
+"value": 7196,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 29.91,
+"value": 5434,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "제이씨케미칼",
+"code": "137950",
+"ret": 11.88,
+"value": 5387,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "무림페이퍼",
+"code": "009200",
+"ret": 20.6,
+"value": 1872,
+"theme": "제지",
+"reason": "테마: 제지"
+},
+{
+"name": "샘표식품",
+"code": "248170",
+"ret": 12.43,
+"value": 1860,
+"theme": "콩/대두",
+"reason": "테마: 콩/대두"
+}
+],
+"backfilled": true
+}

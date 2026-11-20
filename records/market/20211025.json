@@ -1,0 +1,246 @@
+{
+"date": "20211025",
+"kospi": 0.48,
+"kosdaq": -0.08,
+"adv": 1084,
+"dec": 758,
+"flat": 201,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 183481,
+"hot": [
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "한신기계",
+"lead_ret": 23.17,
+"second": "두산에너빌리티",
+"second_ret": 13.94
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "승일",
+"lead_ret": 29.92,
+"second": "한국화장품제조",
+"second_ret": 15.22
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 4.39,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 7.78,
+"second": "HD한국조선해양",
+"second_ret": 5.07
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.32,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 13.91,
+"second": "딥커머스",
+"second_ret": 8.42
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 4.26,
+"up5": 3,
+"lead": "노랑풍선",
+"lead_ret": 9.82,
+"second": "모두투어",
+"second_ret": 6.99
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.25,
+"up5": 4,
+"lead": "두산에너빌리티",
+"lead_ret": 13.94,
+"second": "한전기술",
+"second_ret": 11.98
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.25,
+"up5": 2,
+"lead": "제주항공",
+"lead_ret": 7.77,
+"second": "진에어",
+"second_ret": 6.38
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.62,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 7.43,
+"second": "글로벌텍스프리",
+"second_ret": 5.84
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.37,
+"up5": 3,
+"lead": "두산에너빌리티",
+"lead_ret": 13.94,
+"second": "한국카본",
+"second_ret": 9.44
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.28,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 13.94,
+"second": "일진파워",
+"second_ret": 7.24
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.18,
+"up5": 1,
+"lead": "코텍",
+"lead_ret": 7.11,
+"second": "토비스",
+"second_ret": 3.39
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.18,
+"up5": 1,
+"lead": "코텍",
+"lead_ret": 7.11,
+"second": "토비스",
+"second_ret": 3.39
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 3.12,
+"up5": 8,
+"lead": "한신기계",
+"lead_ret": 23.17,
+"second": "두산에너빌리티",
+"second_ret": 13.94
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.01,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 8.5,
+"second": "신세계",
+"second_ret": 3.58
+}
+],
+"themes_worst": [
+{
+"name": "웹툰",
+"n": 12,
+"avg": -3.08,
+"up5": 0,
+"lead": "미투온",
+"lead_ret": 1.02,
+"second": "NHN",
+"second_ret": -0.13
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": -3.07,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 5.26,
+"second": "에프엔씨엔터",
+"second_ret": 3.52
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -2.37,
+"up5": 0,
+"lead": "CJ CGV",
+"lead_ret": 3.08,
+"second": "롯데쇼핑",
+"second_ret": 2.4
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -2.14,
+"up5": 1,
+"lead": "아시아경제",
+"lead_ret": 5.73,
+"second": "스카이라이프",
+"second_ret": 0.49
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.13,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -0.21,
+"second": "지씨셀",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 13.94,
+"value": 11617,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 23.17,
+"value": 3588,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 11.98,
+"value": 1835,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "위즈코프",
+"code": "038620",
+"ret": 13.17,
+"value": 1373,
+"theme": "주유소",
+"reason": "테마: 주유소"
+},
+{
+"name": "TJ미디어",
+"code": "032540",
+"ret": 24.73,
+"value": 664,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

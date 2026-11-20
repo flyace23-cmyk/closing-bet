@@ -1,0 +1,254 @@
+{
+"date": "20240405",
+"kospi": -1.01,
+"kosdaq": -1.2,
+"adv": 600,
+"dec": 1530,
+"flat": 120,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 217805,
+"hot": [
+{
+"name": "전력설비",
+"n": 7,
+"lead": "대원전선",
+"lead_ret": 29.88,
+"second": "세명전기",
+"second_ret": 24.08
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "아이엠티",
+"lead_ret": 21.12,
+"second": "그린리소스",
+"second_ret": 10.16
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 5,
+"lead": "HB테크놀러지",
+"lead_ret": 15.99,
+"second": "야스",
+"second_ret": 15.66
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 8.22,
+"up5": 5,
+"lead": "대원전선",
+"lead_ret": 29.88,
+"second": "대한전선",
+"second_ret": 12.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.7,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.81,
+"second": "흥구석유",
+"second_ret": 6.21
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.7,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.81,
+"second": "흥구석유",
+"second_ret": 6.21
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 5.24,
+"up5": 2,
+"lead": "세명전기",
+"lead_ret": 24.08,
+"second": "LS마린솔루션",
+"second_ret": 10.53
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.59,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.81,
+"second": "흥구석유",
+"second_ret": 6.21
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.38,
+"up5": 7,
+"lead": "대원전선",
+"lead_ret": 29.88,
+"second": "세명전기",
+"second_ret": 24.08
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.57,
+"up5": 5,
+"lead": "제이앤티씨",
+"lead_ret": 16.01,
+"second": "HB테크놀러지",
+"second_ret": 15.99
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.44,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 6.21,
+"second": "GS",
+"second_ret": 5.43
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.88,
+"up5": 0,
+"lead": "한국석유",
+"lead_ret": 4.7,
+"second": "SG",
+"second_ret": 3.89
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 1.04,
+"up5": 1,
+"lead": "야스",
+"lead_ret": 15.66,
+"second": "HD현대에너지솔루션",
+"second_ret": 1.84
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 0.91,
+"up5": 5,
+"lead": "대한전선",
+"lead_ret": 12.0,
+"second": "LS ELECTRIC",
+"second_ret": 11.89
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.82,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 1.27,
+"second": "GKL",
+"second_ret": 1.02
+}
+],
+"themes_worst": [
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -3.14,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 2.25,
+"second": "네패스",
+"second_ret": -0.06
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.63,
+"up5": 1,
+"lead": "파두",
+"lead_ret": 8.65,
+"second": "대교",
+"second_ret": -0.76
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.6,
+"up5": 0,
+"lead": "자람테크놀로지",
+"lead_ret": 0.4,
+"second": "네패스",
+"second_ret": -0.06
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -2.46,
+"up5": 0,
+"lead": "네이처셀",
+"lead_ret": 0.35,
+"second": "테고사이언스",
+"second_ret": 0.0
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": -2.22,
+"up5": 0,
+"lead": "에이엘티",
+"lead_ret": 3.39,
+"second": "테스",
+"second_ret": 2.96
+}
+],
+"leaders": [
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 12.0,
+"value": 7791,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 10.05,
+"value": 7559,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "HB테크놀러지",
+"code": "078150",
+"ret": 15.99,
+"value": 6772,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "아이엠티",
+"code": "451220",
+"ret": 21.12,
+"value": 2568,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 11.89,
+"value": 2567,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

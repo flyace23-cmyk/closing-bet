@@ -1,0 +1,254 @@
+{
+"date": "20240312",
+"kospi": 0.83,
+"kosdaq": 1.57,
+"adv": 956,
+"dec": 1132,
+"flat": 156,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 203609,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "엑시콘",
+"lead_ret": 29.94,
+"second": "GST",
+"second_ret": 22.3
+},
+{
+"name": "2차전지",
+"n": 6,
+"lead": "한농화성",
+"lead_ret": 24.1,
+"second": "자비스",
+"second_ret": 19.57
+},
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "자람테크놀로지",
+"lead_ret": 30.0,
+"second": "시그네틱스",
+"second_ret": 16.78
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 7.76,
+"up5": 3,
+"lead": "자람테크놀로지",
+"lead_ret": 30.0,
+"second": "에이직랜드",
+"second_ret": 13.06
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 5.24,
+"up5": 4,
+"lead": "엑시콘",
+"lead_ret": 29.94,
+"second": "네오셈",
+"second_ret": 10.18
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 4.26,
+"up5": 8,
+"lead": "한농화성",
+"lead_ret": 24.1,
+"second": "대주전자재료",
+"second_ret": 11.38
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.93,
+"up5": 3,
+"lead": "유니테스트",
+"lead_ret": 12.21,
+"second": "대주전자재료",
+"second_ret": 11.38
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 3.87,
+"up5": 3,
+"lead": "GST",
+"lead_ret": 22.3,
+"second": "케이엔솔",
+"second_ret": 19.33
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.63,
+"up5": 3,
+"lead": "삼성SDI",
+"lead_ret": 11.12,
+"second": "에코프로비엠",
+"second_ret": 6.94
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 3.49,
+"up5": 2,
+"lead": "현대비앤지스틸",
+"lead_ret": 16.3,
+"second": "포스코인터내셔널",
+"second_ret": 13.01
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.36,
+"up5": 2,
+"lead": "케이엔솔",
+"lead_ret": 19.33,
+"second": "신성이엔지",
+"second_ret": 7.99
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": 3.29,
+"up5": 10,
+"lead": "자람테크놀로지",
+"lead_ret": 30.0,
+"second": "시그네틱스",
+"second_ret": 16.78
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 2.96,
+"up5": 17,
+"lead": "엑시콘",
+"lead_ret": 29.94,
+"second": "GST",
+"second_ret": 22.3
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.8,
+"up5": 2,
+"lead": "소프트센",
+"lead_ret": 6.29,
+"second": "탑머티리얼",
+"second_ret": 5.78
+},
+{
+"name": "2차전지(장비)",
+"n": 41,
+"avg": 2.7,
+"up5": 6,
+"lead": "자비스",
+"lead_ret": 19.57,
+"second": "이노메트리",
+"second_ret": 15.73
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.85,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "크리스탈신소재",
+"second_ret": -0.3
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.8,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 0.74,
+"second": "GS건설",
+"second_ret": -0.07
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.78,
+"up5": 0,
+"lead": "한네트",
+"lead_ret": 0.99,
+"second": "케이씨에스",
+"second_ret": 0.64
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.7,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -0.65,
+"second": "강스템바이오텍",
+"second_ret": -0.86
+},
+{
+"name": "드론(Drone)",
+"n": 26,
+"avg": -1.53,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": 1.53,
+"second": "매커스",
+"second_ret": 0.93
+}
+],
+"leaders": [
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 11.12,
+"value": 6755,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 24.1,
+"value": 5102,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 29.94,
+"value": 4124,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "GST",
+"code": "083450",
+"ret": 22.3,
+"value": 3963,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 13.01,
+"value": 2726,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20220221",
+"kospi": -0.03,
+"kosdaq": 0.29,
+"adv": 890,
+"dec": 946,
+"flat": 228,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 190568,
+"hot": [
+{
+"name": "엔터테인먼트",
+"n": 5,
+"lead": "스튜디오쏠쏠",
+"lead_ret": 12.96,
+"second": "SM C&C",
+"second_ret": 8.18
+}
+],
+"themes": [
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.91,
+"up5": 6,
+"lead": "스튜디오쏠쏠",
+"lead_ret": 12.96,
+"second": "SM C&C",
+"second_ret": 8.18
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.45,
+"up5": 3,
+"lead": "JYP Ent.",
+"lead_ret": 7.28,
+"second": "와이지엔터테인먼트",
+"second_ret": 6.97
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 2.31,
+"up5": 4,
+"lead": "스튜디오쏠쏠",
+"lead_ret": 12.96,
+"second": "SM C&C",
+"second_ret": 8.18
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.26,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 6.89,
+"second": "JW중외제약",
+"second_ret": 3.18
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.21,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 5.02,
+"second": "한네트",
+"second_ret": 4.5
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.19,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 3.98,
+"second": "녹십자",
+"second_ret": 3.94
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.08,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 8.18,
+"second": "세중",
+"second_ret": 2.37
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.96,
+"up5": 1,
+"lead": "SH에너지화학",
+"lead_ret": 16.48,
+"second": "SNT에너지",
+"second_ret": 4.65
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.87,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 4.82,
+"second": "코텍",
+"second_ret": 2.35
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.87,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 4.82,
+"second": "코텍",
+"second_ret": 2.35
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.74,
+"up5": 1,
+"lead": "케스피온",
+"lead_ret": 29.67,
+"second": "한일화학",
+"second_ret": 1.55
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.74,
+"up5": 1,
+"lead": "케스피온",
+"lead_ret": 29.67,
+"second": "한일화학",
+"second_ret": 1.55
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 19,
+"avg": -1.22,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 1.6,
+"second": "세방전지",
+"second_ret": 1.26
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.19,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.0,
+"second": "한화손해보험",
+"second_ret": -0.39
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -1.16,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 0.3,
+"second": "심텍",
+"second_ret": 0.11
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": -1.06,
+"up5": 0,
+"lead": "제너셈",
+"lead_ret": 0.23,
+"second": "케이씨텍",
+"second_ret": 0.0
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.98,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": 0.0,
+"second": "기업은행",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 10.09,
+"value": 2828,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "아셈스",
+"code": "136410",
+"ret": 30.0,
+"value": 1655,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "SH에너지화학",
+"code": "002360",
+"ret": 16.48,
+"value": 1250,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "파버나인",
+"code": "177830",
+"ret": 13.75,
+"value": 696,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "베셀",
+"code": "177350",
+"ret": 10.81,
+"value": 517,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

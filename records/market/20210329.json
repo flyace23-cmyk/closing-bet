@@ -1,0 +1,246 @@
+{
+"date": "20210329",
+"kospi": -0.16,
+"kosdaq": -0.27,
+"adv": 838,
+"dec": 1010,
+"flat": 148,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 254578,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "인화정공",
+"lead_ret": 18.34,
+"second": "모베이스",
+"second_ret": 16.0
+},
+{
+"name": "조선기자재",
+"n": 3,
+"lead": "인화정공",
+"lead_ret": 18.34,
+"second": "조선선재",
+"second_ret": 14.78
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 10.06,
+"up5": 3,
+"lead": "에피소드컴퍼니",
+"lead_ret": 29.94,
+"second": "대원미디어",
+"second_ret": 22.57
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 5.54,
+"up5": 4,
+"lead": "화성밸브",
+"lead_ret": 20.67,
+"second": "태광",
+"second_ret": 6.2
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.47,
+"up5": 5,
+"lead": "KG스틸",
+"lead_ret": 10.34,
+"second": "한국철강",
+"second_ret": 9.12
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.37,
+"up5": 7,
+"lead": "수산세보틱스",
+"lead_ret": 10.65,
+"second": "HD건설기계",
+"second_ret": 8.27
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 4.24,
+"up5": 4,
+"lead": "화성밸브",
+"lead_ret": 20.67,
+"second": "휴스틸",
+"second_ret": 9.75
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 3.69,
+"up5": 10,
+"lead": "인화정공",
+"lead_ret": 18.34,
+"second": "조선선재",
+"second_ret": 14.78
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.03,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 24.24,
+"second": "유진기업",
+"second_ret": 4.97
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.96,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 24.24,
+"second": "한국쉘석유",
+"second_ret": 1.01
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.81,
+"up5": 3,
+"lead": "에피소드컴퍼니",
+"lead_ret": 29.94,
+"second": "대원미디어",
+"second_ret": 22.57
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": 2.8,
+"up5": 3,
+"lead": "보해양조",
+"lead_ret": 9.57,
+"second": "롯데칠성",
+"second_ret": 9.45
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.77,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 9.15,
+"second": "대한전선",
+"second_ret": 8.03
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 2.74,
+"up5": 4,
+"lead": "에피소드컴퍼니",
+"lead_ret": 29.94,
+"second": "대원미디어",
+"second_ret": 22.57
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -4.25,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 0.0,
+"second": "KSS해운",
+"second_ret": -0.89
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -2.9,
+"up5": 0,
+"lead": "에스피지",
+"lead_ret": 1.35,
+"second": "위닉스",
+"second_ret": 0.42
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": -2.71,
+"up5": 0,
+"lead": "KT지니뮤직",
+"lead_ret": 1.85,
+"second": "다날",
+"second_ret": 0.13
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.51,
+"up5": 0,
+"lead": "스맥",
+"lead_ret": 0.83,
+"second": "TPC로보틱스",
+"second_ret": 0.35
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -2.23,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": -0.74,
+"second": "코아스템켐온",
+"second_ret": -1.2
+}
+],
+"leaders": [
+{
+"name": "서연",
+"code": "007860",
+"ret": 15.03,
+"value": 3512,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 14.29,
+"value": 3493,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 22.85,
+"value": 3479,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "극동유화",
+"code": "014530",
+"ret": 24.24,
+"value": 2526,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "아틀라스링크",
+"code": "297570",
+"ret": 11.05,
+"value": 1713,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

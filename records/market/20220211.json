@@ -1,0 +1,246 @@
+{
+"date": "20220211",
+"kospi": -0.87,
+"kosdaq": -2.04,
+"adv": 296,
+"dec": 1662,
+"flat": 106,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 174456,
+"hot": [
+{
+"name": "사료",
+"n": 5,
+"lead": "미래생명자원",
+"lead_ret": 29.87,
+"second": "팜스토리",
+"second_ret": 15.42
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "이랜텍",
+"lead_ret": 11.18,
+"second": "삼아알미늄",
+"second_ret": 6.23
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.74,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 29.87,
+"second": "신송홀딩스",
+"second_ret": 0.2
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 4.38,
+"up5": 4,
+"lead": "미래생명자원",
+"lead_ret": 29.87,
+"second": "팜스토리",
+"second_ret": 15.42
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.74,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 10.31,
+"second": "대성에너지",
+"second_ret": 3.38
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.36,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 3.9,
+"second": "강원랜드",
+"second_ret": 3.09
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.36,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 3.9,
+"second": "강원랜드",
+"second_ret": 3.09
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.85,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 15.42,
+"second": "이지홀딩스",
+"second_ret": 0.0
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 0.76,
+"up5": 1,
+"lead": "하나금융지주",
+"lead_ret": 5.35,
+"second": "제주은행",
+"second_ret": 2.08
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 0.75,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 29.87,
+"second": "팜스토리",
+"second_ret": 15.42
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 0.7,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 3.57,
+"second": "세아베스틸지주",
+"second_ret": 3.31
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 0.69,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 15.42,
+"second": "하이트진로홀딩스",
+"second_ret": 1.15
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.47,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 15.42,
+"second": "우성",
+"second_ret": 2.56
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.42,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 6.92,
+"second": "스페코",
+"second_ret": 4.26
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.64,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": -3.26,
+"second": "성우전자",
+"second_ret": -3.63
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.85,
+"up5": 0,
+"lead": "신대양제지",
+"lead_ret": 0.0,
+"second": "대림제지",
+"second_ret": 0.0
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -3.83,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": -0.88,
+"second": "리튬포어스",
+"second_ret": -1.83
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -3.76,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": 1.38,
+"second": "스맥",
+"second_ret": -2.64
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.65,
+"up5": 0,
+"lead": "가온전선",
+"lead_ret": -2.26,
+"second": "LS에코에너지",
+"second_ret": -2.36
+}
+],
+"leaders": [
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 15.42,
+"value": 4030,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 29.87,
+"value": 2431,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 15.05,
+"value": 2214,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "지아이에스",
+"code": "306620",
+"ret": 15.36,
+"value": 1972,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 10.31,
+"value": 1791,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

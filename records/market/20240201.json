@@ -1,0 +1,254 @@
+{
+"date": "20240201",
+"kospi": 1.82,
+"kosdaq": -0.06,
+"adv": 1134,
+"dec": 978,
+"flat": 121,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 206876,
+"hot": [
+{
+"name": "지주사",
+"n": 8,
+"lead": "F&F홀딩스",
+"lead_ret": 29.99,
+"second": "동국홀딩스",
+"second_ret": 15.4
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 5,
+"lead": "SK네트웍스",
+"lead_ret": 14.55,
+"second": "키움증권",
+"second_ret": 11.27
+},
+{
+"name": "손해보험",
+"n": 3,
+"lead": "흥국화재",
+"lead_ret": 29.87,
+"second": "한화손해보험",
+"second_ret": 17.43
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 10.35,
+"up5": 3,
+"lead": "흥국화재",
+"lead_ret": 29.87,
+"second": "한화손해보험",
+"second_ret": 17.43
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 5.47,
+"up5": 4,
+"lead": "JB금융지주",
+"lead_ret": 9.97,
+"second": "하나금융지주",
+"second_ret": 8.79
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.44,
+"up5": 8,
+"lead": "키움증권",
+"lead_ret": 11.27,
+"second": "유안타증권",
+"second_ret": 8.03
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.43,
+"up5": 2,
+"lead": "SK네트웍스",
+"lead_ret": 14.55,
+"second": "삼성물산",
+"second_ret": 7.75
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.0,
+"up5": 1,
+"lead": "현대백화점",
+"lead_ret": 7.99,
+"second": "롯데쇼핑",
+"second_ret": 4.62
+},
+{
+"name": "지주사",
+"n": 120,
+"avg": 3.94,
+"up5": 41,
+"lead": "F&F홀딩스",
+"lead_ret": 29.99,
+"second": "동국홀딩스",
+"second_ret": 15.4
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.42,
+"up5": 2,
+"lead": "삼성생명",
+"lead_ret": 9.67,
+"second": "삼성물산",
+"second_ret": 7.75
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.38,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 6.89,
+"second": "현대모비스",
+"second_ret": 4.52
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.19,
+"up5": 2,
+"lead": "KCC",
+"lead_ret": 7.91,
+"second": "AK홀딩스",
+"second_ret": 7.22
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 3.17,
+"up5": 1,
+"lead": "롯데지주",
+"lead_ret": 7.57,
+"second": "유성티엔에스",
+"second_ret": 3.9
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.05,
+"up5": 1,
+"lead": "한화생명",
+"lead_ret": 10.54,
+"second": "한화투자증권",
+"second_ret": 3.22
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.0,
+"up5": 2,
+"lead": "사조대림",
+"lead_ret": 12.12,
+"second": "동원산업",
+"second_ret": 5.63
+}
+],
+"themes_worst": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": -3.02,
+"up5": 1,
+"lead": "NICE",
+"lead_ret": 7.94,
+"second": "이루온",
+"second_ret": 2.52
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.92,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": 1.61,
+"second": "삼성전자",
+"second_ret": 1.24
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.87,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -0.14,
+"second": "손오공",
+"second_ret": -0.37
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": -2.6,
+"up5": 0,
+"lead": "씨앤지하이테크",
+"lead_ret": 1.27,
+"second": "HB테크놀러지",
+"second_ret": 0.71
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.32,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": 1.61,
+"second": "삼성전자",
+"second_ret": 1.24
+}
+],
+"leaders": [
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 16.2,
+"value": 4318,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "비트컴퓨터",
+"code": "032850",
+"ret": 12.65,
+"value": 3433,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 10.58,
+"value": 2779,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 13.01,
+"value": 2152,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한화손해보험",
+"code": "000370",
+"ret": 17.43,
+"value": 1638,
+"theme": "손해보험",
+"reason": "테마: 손해보험"
+}
+],
+"backfilled": true
+}

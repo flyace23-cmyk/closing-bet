@@ -1,0 +1,254 @@
+{
+"date": "20240628",
+"kospi": 0.49,
+"kosdaq": 0.21,
+"adv": 1260,
+"dec": 852,
+"flat": 151,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 170309,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "인텍플러스",
+"lead_ret": 29.98,
+"second": "제이엔비",
+"second_ret": 29.91
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "윈팩",
+"lead_ret": 11.61,
+"second": "아이에이",
+"second_ret": 9.86
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 9.73,
+"second": "SOOP",
+"second_ret": 8.87
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 8.76,
+"up5": 4,
+"lead": "대한해운",
+"lead_ret": 21.13,
+"second": "STX그린로지스",
+"second_ret": 12.28
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 7.67,
+"up5": 3,
+"lead": "사조대림",
+"lead_ret": 22.67,
+"second": "풀무원",
+"second_ret": 13.82
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 7.08,
+"up5": 4,
+"lead": "사조대림",
+"lead_ret": 22.67,
+"second": "사조산업",
+"second_ret": 11.53
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.58,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 13.82,
+"second": "샘표식품",
+"second_ret": 4.01
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.68,
+"up5": 2,
+"lead": "오킨스전자",
+"lead_ret": 21.43,
+"second": "네오셈",
+"second_ret": 12.0
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.14,
+"up5": 3,
+"lead": "인텍플러스",
+"lead_ret": 29.98,
+"second": "이수페타시스",
+"second_ret": 13.32
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 3.1,
+"up5": 3,
+"lead": "사조대림",
+"lead_ret": 22.67,
+"second": "사조산업",
+"second_ret": 11.53
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.91,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 7.7,
+"second": "SK이노베이션",
+"second_ret": 6.42
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.91,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 7.7,
+"second": "SK이노베이션",
+"second_ret": 6.42
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 2.63,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 12.28,
+"second": "인터지스",
+"second_ret": 7.22
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.44,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 7.7,
+"second": "SK이노베이션",
+"second_ret": 6.42
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.27,
+"up5": 1,
+"lead": "헥토파이낸셜",
+"lead_ret": 17.62,
+"second": "카페24",
+"second_ret": 4.12
+}
+],
+"themes_worst": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -1.99,
+"up5": 0,
+"lead": "디에스케이",
+"lead_ret": 1.67,
+"second": "대웅제약",
+"second_ret": 0.89
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.88,
+"up5": 0,
+"lead": "이스트에이드",
+"lead_ret": 2.43,
+"second": "대원미디어",
+"second_ret": 1.99
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": -1.81,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 2.02,
+"second": "대웅제약",
+"second_ret": 0.89
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.73,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.81,
+"second": "삼성화재",
+"second_ret": 3.18
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.49,
+"up5": 0,
+"lead": "삼륭물산",
+"lead_ret": 1.48,
+"second": "세림B&G",
+"second_ret": 0.62
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 13.32,
+"value": 4751,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "대한해운",
+"code": "005880",
+"ret": 21.13,
+"value": 3515,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "STX그린로지스",
+"code": "465770",
+"ret": 12.28,
+"value": 2127,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 12.0,
+"value": 973,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "사조씨푸드",
+"code": "014710",
+"ret": 10.86,
+"value": 884,
+"theme": "수산",
+"reason": "테마: 수산"
+}
+],
+"backfilled": true
+}

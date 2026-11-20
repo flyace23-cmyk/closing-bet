@@ -1,0 +1,254 @@
+{
+"date": "20231016",
+"kospi": -0.81,
+"kosdaq": -1.49,
+"adv": 420,
+"dec": 1682,
+"flat": 95,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 141970,
+"hot": [
+{
+"name": "자원개발",
+"n": 3,
+"lead": "큐로홀딩스",
+"lead_ret": 29.81,
+"second": "GS글로벌",
+"second_ret": 11.68
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 3,
+"lead": "흥구석유",
+"lead_ret": 23.7,
+"second": "극동유화",
+"second_ret": 8.49
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "다보링크",
+"lead_ret": 26.17,
+"second": "에이스테크",
+"second_ret": 20.16
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 7.79,
+"up5": 3,
+"lead": "대성에너지",
+"lead_ret": 29.98,
+"second": "지에스이",
+"second_ret": 14.96
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.48,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 23.7,
+"second": "극동유화",
+"second_ret": 8.49
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.48,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 23.7,
+"second": "극동유화",
+"second_ret": 8.49
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.96,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 23.7,
+"second": "극동유화",
+"second_ret": 8.49
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 4.17,
+"up5": 3,
+"lead": "큐로홀딩스",
+"lead_ret": 29.81,
+"second": "GS글로벌",
+"second_ret": 11.68
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.24,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 23.7,
+"second": "극동유화",
+"second_ret": 8.49
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 3.01,
+"up5": 3,
+"lead": "대성에너지",
+"lead_ret": 29.98,
+"second": "지에스이",
+"second_ret": 14.96
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.22,
+"up5": 1,
+"lead": "LS에코에너지",
+"lead_ret": 16.49,
+"second": "LS마린솔루션",
+"second_ret": 3.45
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.71,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 9.9,
+"second": "극동유화",
+"second_ret": 8.49
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.71,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 7.04,
+"second": "천일고속",
+"second_ret": -0.2
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 0.69,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 2.79,
+"second": "현대건설",
+"second_ret": 1.82
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 0.66,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 8.92,
+"second": "금강공업",
+"second_ret": 1.46
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 22,
+"avg": -5.06,
+"up5": 0,
+"lead": "폴라리스오피스",
+"lead_ret": 0.38,
+"second": "딥노이드",
+"second_ret": -0.74
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -3.95,
+"up5": 0,
+"lead": "LS ELECTRIC",
+"lead_ret": -0.71,
+"second": "한양이엔지",
+"second_ret": -0.96
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": -3.84,
+"up5": 0,
+"lead": "NC",
+"lead_ret": -0.67,
+"second": "엠게임",
+"second_ret": -0.78
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -3.63,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": 1.06,
+"second": "카카오페이",
+"second_ret": 0.37
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.57,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 1.47,
+"second": "딥커머스",
+"second_ret": -0.77
+}
+],
+"leaders": [
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 16.49,
+"value": 4209,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 23.7,
+"value": 3997,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 14.96,
+"value": 2888,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 29.98,
+"value": 2107,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "LS네트웍스",
+"code": "000680",
+"ret": 29.91,
+"value": 1187,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230201",
+"kospi": 1.02,
+"kosdaq": 1.41,
+"adv": 1181,
+"dec": 807,
+"flat": 144,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 159630,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 4,
+"lead": "AP위성",
+"lead_ret": 30.0,
+"second": "쎄트렉아이",
+"second_ret": 20.75
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 4,
+"lead": "SK증권",
+"lead_ret": 15.58,
+"second": "핑거",
+"second_ret": 11.94
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "웨이버스",
+"lead_ret": 12.72,
+"second": "핑거",
+"second_ret": 11.94
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 5.04,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 29.93,
+"second": "토마토시스템",
+"second_ret": 9.17
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.84,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 29.93,
+"second": "NEW",
+"second_ret": 6.39
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 28,
+"avg": 3.7,
+"up5": 6,
+"lead": "AP위성",
+"lead_ret": 30.0,
+"second": "쎄트렉아이",
+"second_ret": 20.75
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 3.61,
+"up5": 1,
+"lead": "푸른로보틱스",
+"lead_ret": 29.94,
+"second": "프리엠스",
+"second_ret": 2.54
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": 3.45,
+"up5": 4,
+"lead": "케어젠",
+"lead_ret": 25.0,
+"second": "케이바이오랩스",
+"second_ret": 9.84
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.24,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 5.19,
+"second": "강스템바이오텍",
+"second_ret": 4.91
+},
+{
+"name": "영상콘텐츠",
+"n": 25,
+"avg": 3.06,
+"up5": 6,
+"lead": "포바이포",
+"lead_ret": 29.93,
+"second": "애니플러스",
+"second_ret": 10.99
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.88,
+"up5": 3,
+"lead": "SK증권",
+"lead_ret": 15.58,
+"second": "한화투자증권",
+"second_ret": 10.46
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.87,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 10.46,
+"second": "아주IB투자",
+"second_ret": 3.31
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 2.75,
+"up5": 4,
+"lead": "디앤씨미디어",
+"lead_ret": 10.26,
+"second": "엔키AX",
+"second_ret": 9.1
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.65,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 9.42,
+"second": "삼성SDI",
+"second_ret": 5.11
+},
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": 2.52,
+"up5": 3,
+"lead": "쎄트렉아이",
+"lead_ret": 20.75,
+"second": "케이알엠",
+"second_ret": 20.28
+}
+],
+"themes_worst": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.75,
+"up5": 0,
+"lead": "인포바인",
+"lead_ret": 1.31,
+"second": "쿠콘",
+"second_ret": 1.05
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": -1.81,
+"up5": 0,
+"lead": "디지캡",
+"lead_ret": 4.19,
+"second": "한빛소프트",
+"second_ret": 1.48
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -1.69,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.31,
+"second": "네패스아크",
+"second_ret": 0.91
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -1.69,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 2.54,
+"second": "대동금속",
+"second_ret": 1.76
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": -1.47,
+"up5": 2,
+"lead": "러셀",
+"lead_ret": 7.74,
+"second": "브레인즈컴퍼니",
+"second_ret": 7.18
+}
+],
+"leaders": [
+{
+"name": "케이알엠",
+"code": "093640",
+"ret": 20.28,
+"value": 2951,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 11.83,
+"value": 2510,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "푸른로보틱스",
+"code": "094940",
+"ret": 29.94,
+"value": 1646,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "포바이포",
+"code": "389140",
+"ret": 29.93,
+"value": 1599,
+"theme": "영화",
+"reason": "테마: 영화"
+},
+{
+"name": "티이엠씨",
+"code": "425040",
+"ret": 27.45,
+"value": 1497,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

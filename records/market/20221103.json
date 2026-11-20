@@ -1,0 +1,254 @@
+{
+"date": "20221103",
+"kospi": -0.33,
+"kosdaq": -0.46,
+"adv": 755,
+"dec": 1171,
+"flat": 187,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 132618,
+"hot": [
+{
+"name": "철도",
+"n": 4,
+"lead": "도화엔지니어링",
+"lead_ret": 16.55,
+"second": "에스트래픽",
+"second_ret": 15.77
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "인디에프",
+"lead_ret": 29.96,
+"second": "희림",
+"second_ret": 26.47
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "코오롱글로벌",
+"lead_ret": 25.27,
+"second": "한전기술",
+"second_ret": 9.11
+}
+],
+"themes": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.17,
+"up5": 2,
+"lead": "코오롱글로벌",
+"lead_ret": 25.27,
+"second": "덕신이피씨",
+"second_ret": 9.73
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.85,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 25.27,
+"second": "현대코퍼레이션",
+"second_ret": 2.4
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.63,
+"up5": 5,
+"lead": "미래나노텍",
+"lead_ret": 29.97,
+"second": "강원에너지",
+"second_ret": 8.14
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 3.42,
+"up5": 2,
+"lead": "한국종합기술",
+"lead_ret": 7.84,
+"second": "국보디자인",
+"second_ret": 5.32
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.22,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 7.38,
+"second": "성광벤드",
+"second_ret": 7.27
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 3.04,
+"up5": 4,
+"lead": "희림",
+"lead_ret": 26.47,
+"second": "한국종합기술",
+"second_ret": 7.84
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.7,
+"up5": 2,
+"lead": "현대에버다임",
+"lead_ret": 7.63,
+"second": "HD건설기계",
+"second_ret": 6.77
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.66,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 13.3,
+"second": "엠케이전자",
+"second_ret": 6.67
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.65,
+"up5": 1,
+"lead": "미래나노텍",
+"lead_ret": 29.97,
+"second": "상신전자",
+"second_ret": 4.31
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.65,
+"up5": 1,
+"lead": "미래나노텍",
+"lead_ret": 29.97,
+"second": "상신전자",
+"second_ret": 4.31
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.51,
+"up5": 5,
+"lead": "코오롱글로벌",
+"lead_ret": 25.27,
+"second": "도화엔지니어링",
+"second_ret": 16.55
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 2.5,
+"up5": 1,
+"lead": "두산퓨얼셀",
+"lead_ret": 7.47,
+"second": "비에이치아이",
+"second_ret": 4.0
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.92,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 1.58,
+"second": "HS효성첨단소재",
+"second_ret": 0.77
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.85,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.22,
+"second": "대한해운",
+"second_ret": -2.02
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.84,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 0.0,
+"second": "강스템바이오텍",
+"second_ret": -0.67
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -2.47,
+"up5": 0,
+"lead": "이스트소프트",
+"lead_ret": 0.72,
+"second": "위메이드맥스",
+"second_ret": 0.26
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -2.22,
+"up5": 0,
+"lead": "에이프로젠",
+"lead_ret": 1.97,
+"second": "LG화학",
+"second_ret": 1.64
+}
+],
+"leaders": [
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 29.97,
+"value": 5594,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 10.57,
+"value": 2761,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "희림",
+"code": "037440",
+"ret": 26.47,
+"value": 2106,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "도화엔지니어링",
+"code": "002150",
+"ret": 16.55,
+"value": 1657,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "에스트래픽",
+"code": "234300",
+"ret": 15.77,
+"value": 641,
+"theme": "철도",
+"reason": "테마: 철도"
+}
+],
+"backfilled": true
+}

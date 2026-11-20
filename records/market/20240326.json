@@ -1,0 +1,254 @@
+{
+"date": "20240326",
+"kospi": 0.71,
+"kosdaq": 0.26,
+"adv": 1017,
+"dec": 1075,
+"flat": 155,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 227372,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 4,
+"lead": "샌즈랩",
+"lead_ret": 30.0,
+"second": "케이사인",
+"second_ret": 29.95
+},
+{
+"name": "엔터테인먼트",
+"n": 3,
+"lead": "아이오케이이엔엠",
+"lead_ret": 18.81,
+"second": "에스엠",
+"second_ret": 10.11
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "코세스",
+"lead_ret": 11.08,
+"second": "뉴프렉스",
+"second_ret": 9.12
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.72,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 29.93,
+"second": "케이씨에스",
+"second_ret": 3.65
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": 3.94,
+"up5": 2,
+"lead": "샌즈랩",
+"lead_ret": 30.0,
+"second": "알체라",
+"second_ret": 6.36
+},
+{
+"name": "보안주(정보)",
+"n": 46,
+"avg": 3.16,
+"up5": 6,
+"lead": "샌즈랩",
+"lead_ret": 30.0,
+"second": "케이사인",
+"second_ret": 29.95
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 3.02,
+"up5": 2,
+"lead": "케이사인",
+"lead_ret": 29.95,
+"second": "아이티센글로벌",
+"second_ret": 7.8
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.42,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 6.88,
+"second": "유비벨록스",
+"second_ret": 4.45
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.3,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 16.83,
+"second": "아이티센글로벌",
+"second_ret": 7.8
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.26,
+"up5": 2,
+"lead": "와이랩",
+"lead_ret": 8.89,
+"second": "핑거스토리",
+"second_ret": 6.12
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 2.15,
+"up5": 3,
+"lead": "엑시온그룹",
+"lead_ret": 12.01,
+"second": "CJ ENM",
+"second_ret": 8.63
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.15,
+"up5": 2,
+"lead": "한미반도체",
+"lead_ret": 15.5,
+"second": "성우전자",
+"second_ret": 6.88
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 2.13,
+"up5": 1,
+"lead": "오픈놀",
+"lead_ret": 7.27,
+"second": "대성창투",
+"second_ret": 4.85
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 1.87,
+"up5": 4,
+"lead": "한미반도체",
+"lead_ret": 15.5,
+"second": "ISC",
+"second_ret": 6.55
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 1.87,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": 4.26,
+"second": "이월드",
+"second_ret": 3.16
+}
+],
+"themes_worst": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": -2.26,
+"up5": 0,
+"lead": "바텍",
+"lead_ret": 0.0,
+"second": "한국피아이엠",
+"second_ret": 0.0
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.19,
+"up5": 0,
+"lead": "위더스제약",
+"lead_ret": 1.1,
+"second": "인트론바이오",
+"second_ret": 0.13
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.87,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": 0.59,
+"second": "풀무원",
+"second_ret": -0.09
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -1.65,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 2.17,
+"second": "네패스",
+"second_ret": 0.48
+},
+{
+"name": "미용기기",
+"n": 15,
+"avg": -1.56,
+"up5": 0,
+"lead": "메디톡스",
+"lead_ret": 3.97,
+"second": "유한양행",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 26.37,
+"value": 14207,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 15.5,
+"value": 8248,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "현대힘스",
+"code": "460930",
+"ret": 11.94,
+"value": 2837,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "옵투스제약",
+"code": "131030",
+"ret": 10.75,
+"value": 2069,
+"theme": "황사/미세먼지",
+"reason": "테마: 황사/미세먼지"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 13.0,
+"value": 1081,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

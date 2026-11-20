@@ -1,0 +1,254 @@
+{
+"date": "20200205",
+"kospi": 0.36,
+"kosdaq": 0.01,
+"adv": 933,
+"dec": 784,
+"flat": 186,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 115224,
+"hot": [
+{
+"name": "전기차",
+"n": 5,
+"lead": "계양전기",
+"lead_ret": 25.08,
+"second": "유에스티",
+"second_ret": 12.42
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "오가닉티코스메틱",
+"lead_ret": 23.96,
+"second": "국제약품",
+"second_ret": 10.8
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 29.94,
+"second": "랩지노믹스",
+"second_ret": 13.05
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.32,
+"up5": 2,
+"lead": "오가닉티코스메틱",
+"lead_ret": 23.96,
+"second": "윙입푸드",
+"second_ret": 8.41
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.89,
+"up5": 4,
+"lead": "KNN",
+"lead_ret": 25.22,
+"second": "디지틀조선",
+"second_ret": 8.31
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 3.47,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 10.8,
+"second": "멕아이씨에스",
+"second_ret": 8.71
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 2.6,
+"up5": 7,
+"lead": "신풍제약",
+"lead_ret": 29.94,
+"second": "랩지노믹스",
+"second_ret": 13.05
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.51,
+"up5": 1,
+"lead": "유에스티",
+"lead_ret": 12.42,
+"second": "금강공업",
+"second_ret": 4.05
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 2.48,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 6.52,
+"second": "콜마바이오텍",
+"second_ret": 5.41
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.34,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": 4.82,
+"second": "흥구석유",
+"second_ret": 4.77
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.34,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": 4.82,
+"second": "흥구석유",
+"second_ret": 4.77
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.28,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": 4.82,
+"second": "흥구석유",
+"second_ret": 4.77
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 2.26,
+"up5": 2,
+"lead": "신풍제약",
+"lead_ret": 29.94,
+"second": "아이진",
+"second_ret": 9.5
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.09,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 4.81,
+"second": "서울제약",
+"second_ret": 4.12
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 2.02,
+"up5": 2,
+"lead": "파수AI",
+"lead_ret": 9.93,
+"second": "알서포트",
+"second_ret": 8.79
+}
+],
+"themes_worst": [
+{
+"name": "항공기부품",
+"n": 13,
+"avg": -2.26,
+"up5": 0,
+"lead": "한화에어로스페이스",
+"lead_ret": 1.07,
+"second": "대한항공",
+"second_ret": 0.97
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": -1.41,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.02,
+"second": "SK하이닉스",
+"second_ret": 0.62
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": -1.38,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.02,
+"second": "켐트로닉스",
+"second_ret": 0.62
+},
+{
+"name": "반도체 장비",
+"n": 70,
+"avg": -1.09,
+"up5": 1,
+"lead": "지아이에스",
+"lead_ret": 5.26,
+"second": "유진테크",
+"second_ret": 4.34
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 20,
+"avg": -1.05,
+"up5": 0,
+"lead": "카페24",
+"lead_ret": 1.84,
+"second": "다날",
+"second_ret": 1.8
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 29.94,
+"value": 2350,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 11.7,
+"value": 1298,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 18.79,
+"value": 1051,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "KNN",
+"code": "058400",
+"ret": 25.22,
+"value": 949,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 13.05,
+"value": 809,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+}
+],
+"backfilled": true
+}

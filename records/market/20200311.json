@@ -1,0 +1,254 @@
+{
+"date": "20200311",
+"kospi": -2.78,
+"kosdaq": -3.93,
+"adv": 154,
+"dec": 1671,
+"flat": 83,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 166592,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 7,
+"lead": "마크로젠",
+"lead_ret": 29.94,
+"second": "랩지노믹스",
+"second_ret": 17.62
+},
+{
+"name": "재택근무/스마트워크",
+"n": 3,
+"lead": "이씨에스",
+"lead_ret": 29.82,
+"second": "알서포트",
+"second_ret": 19.37
+},
+{
+"name": "인터넷은행",
+"n": 3,
+"lead": "알서포트",
+"lead_ret": 19.37,
+"second": "브리지텍",
+"second_ret": 8.86
+}
+],
+"themes": [
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 2.05,
+"up5": 4,
+"lead": "이씨에스",
+"lead_ret": 29.82,
+"second": "알서포트",
+"second_ret": 19.37
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": 1.88,
+"up5": 3,
+"lead": "MH에탄올",
+"lead_ret": 24.74,
+"second": "창해에탄올",
+"second_ret": 9.57
+},
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": 0.64,
+"up5": 2,
+"lead": "마크로젠",
+"lead_ret": 29.94,
+"second": "랩지노믹스",
+"second_ret": 17.62
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 0.58,
+"up5": 2,
+"lead": "알서포트",
+"lead_ret": 19.37,
+"second": "인포뱅크",
+"second_ret": 6.71
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 0.46,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 17.62,
+"second": "인성정보",
+"second_ret": 7.17
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 0.39,
+"up5": 7,
+"lead": "휴마시스",
+"lead_ret": 29.7,
+"second": "랩지노믹스",
+"second_ret": 17.62
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.07,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 16.49,
+"second": "유비벨록스",
+"second_ret": -1.86
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -0.13,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 0.82,
+"second": "신한지주",
+"second_ret": 0.66
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -0.14,
+"up5": 1,
+"lead": "이씨에스",
+"lead_ret": 29.82,
+"second": "팜스코",
+"second_ret": 0.93
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.14,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 1.96,
+"second": "미창석유",
+"second_ret": 1.03
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -0.36,
+"up5": 3,
+"lead": "마크로젠",
+"lead_ret": 29.94,
+"second": "알서포트",
+"second_ret": 19.37
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": -0.56,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 5.11,
+"second": "플랜티넷",
+"second_ret": 0.51
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 23,
+"avg": -7.83,
+"up5": 0,
+"lead": "더코디",
+"lead_ret": -0.25,
+"second": "루트K",
+"second_ret": -1.4
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -6.97,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 0.53,
+"second": "HMM",
+"second_ret": 0.0
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -6.29,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": -0.31,
+"second": "일진파워",
+"second_ret": -2.31
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -5.81,
+"up5": 0,
+"lead": "휴니드",
+"lead_ret": -1.83,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": -2.38
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": -5.5,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": -2.29,
+"second": "미래에셋증권",
+"second_ret": -2.71
+}
+],
+"leaders": [
+{
+"name": "마크로젠",
+"code": "038290",
+"ret": 29.94,
+"value": 4866,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "미코",
+"code": "059090",
+"ret": 15.78,
+"value": 4788,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 17.62,
+"value": 3271,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 19.37,
+"value": 1601,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 15.93,
+"value": 1106,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+}
+],
+"backfilled": true
+}

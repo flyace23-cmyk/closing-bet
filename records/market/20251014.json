@@ -1,0 +1,254 @@
+{
+"date": "20251014",
+"kospi": -0.63,
+"kosdaq": -1.46,
+"adv": 716,
+"dec": 1552,
+"flat": 113,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 288929,
+"hot": [
+{
+"name": "전기차",
+"n": 8,
+"lead": "신성에스티",
+"lead_ret": 20.52,
+"second": "성호전자",
+"second_ret": 16.68
+},
+{
+"name": "2차전지",
+"n": 6,
+"lead": "신성에스티",
+"lead_ret": 20.52,
+"second": "고려아연",
+"second_ret": 20.21
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 4,
+"lead": "MSDI",
+"lead_ret": 23.5,
+"second": "한국첨단소재",
+"second_ret": 15.74
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 3.62,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 8.63,
+"second": "팬오션",
+"second_ret": 5.07
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 3.19,
+"up5": 8,
+"lead": "MSDI",
+"lead_ret": 23.5,
+"second": "한국첨단소재",
+"second_ret": 15.74
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.97,
+"up5": 2,
+"lead": "LG에너지솔루션",
+"lead_ret": 6.94,
+"second": "에코프로비엠",
+"second_ret": 5.01
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.52,
+"up5": 3,
+"lead": "성호전자",
+"lead_ret": 16.68,
+"second": "한국첨단소재",
+"second_ret": 15.74
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.23,
+"up5": 1,
+"lead": "큐로홀딩스",
+"lead_ret": 29.94,
+"second": "SK이노베이션",
+"second_ret": 2.12
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.22,
+"up5": 14,
+"lead": "신성에스티",
+"lead_ret": 20.52,
+"second": "고려아연",
+"second_ret": 20.21
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.2,
+"up5": 2,
+"lead": "제이오",
+"lead_ret": 5.73,
+"second": "LG화학",
+"second_ret": 5.14
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 1.97,
+"up5": 4,
+"lead": "고려아연",
+"lead_ret": 20.21,
+"second": "삼아알미늄",
+"second_ret": 9.51
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 1.85,
+"up5": 1,
+"lead": "로보스타",
+"lead_ret": 29.82,
+"second": "모아텍",
+"second_ret": 3.25
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.77,
+"up5": 5,
+"lead": "중앙첨단소재",
+"lead_ret": 9.38,
+"second": "LG에너지솔루션",
+"second_ret": 6.94
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 1.69,
+"up5": 1,
+"lead": "LG에너지솔루션",
+"lead_ret": 6.94,
+"second": "성일하이텍",
+"second_ret": 3.72
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.69,
+"up5": 2,
+"lead": "동양",
+"lead_ret": 29.92,
+"second": "코데즈컴바인",
+"second_ret": 16.36
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -4.71,
+"up5": 0,
+"lead": "이수페타시스",
+"lead_ret": 1.23,
+"second": "다원넥스뷰",
+"second_ret": -0.15
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -4.53,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -2.86,
+"second": "HD현대중공업",
+"second_ret": -4.06
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -4.44,
+"up5": 0,
+"lead": "켐트로스",
+"lead_ret": 0.98,
+"second": "한미반도체",
+"second_ret": 0.55
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -4.15,
+"up5": 0,
+"lead": "퀄리타스반도체",
+"lead_ret": 3.18,
+"second": "가온칩스",
+"second_ret": 1.6
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -4.14,
+"up5": 0,
+"lead": "퀄리타스반도체",
+"lead_ret": 3.18,
+"second": "SK하이닉스",
+"second_ret": -0.84
+}
+],
+"leaders": [
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 29.82,
+"value": 6317,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "명인제약",
+"code": "317450",
+"ret": 11.94,
+"value": 3412,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 19.2,
+"value": 3170,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 20.21,
+"value": 2849,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 11.39,
+"value": 1382,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

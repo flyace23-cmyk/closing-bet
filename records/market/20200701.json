@@ -1,0 +1,254 @@
+{
+"date": "20200701",
+"kospi": -0.08,
+"kosdaq": -1.41,
+"adv": 656,
+"dec": 1111,
+"flat": 151,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 195528,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "주성엔지니어링",
+"lead_ret": 21.79,
+"second": "제너셈",
+"second_ret": 17.07
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 5,
+"lead": "주성엔지니어링",
+"lead_ret": 21.79,
+"second": "디바이스",
+"second_ret": 11.84
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "마이크로컨텍솔",
+"lead_ret": 20.05,
+"second": "월덱스",
+"second_ret": 13.32
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.36,
+"up5": 1,
+"lead": "주성엔지니어링",
+"lead_ret": 21.79,
+"second": "이오테크닉스",
+"second_ret": 4.44
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.24,
+"up5": 1,
+"lead": "특수건설",
+"lead_ret": 8.06,
+"second": "LS마린솔루션",
+"second_ret": 3.3
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.08,
+"up5": 1,
+"lead": "SK증권",
+"lead_ret": 29.04,
+"second": "한국금융지주",
+"second_ret": 2.13
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 22,
+"avg": 1.89,
+"up5": 2,
+"lead": "주성엔지니어링",
+"lead_ret": 21.79,
+"second": "HB솔루션",
+"second_ret": 11.12
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.82,
+"up5": 2,
+"lead": "조비",
+"lead_ret": 12.74,
+"second": "체시스",
+"second_ret": 6.58
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 22,
+"avg": 1.66,
+"up5": 4,
+"lead": "제너셈",
+"lead_ret": 17.07,
+"second": "제우스",
+"second_ret": 9.3
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.45,
+"up5": 0,
+"lead": "LG디스플레이",
+"lead_ret": 3.53,
+"second": "삼성SDI",
+"second_ret": 1.93
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 20,
+"avg": 1.43,
+"up5": 1,
+"lead": "SK증권",
+"lead_ret": 29.04,
+"second": "신한지주",
+"second_ret": 3.3
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.32,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.97,
+"second": "삼성화재",
+"second_ret": 2.27
+},
+{
+"name": "LED",
+"n": 35,
+"avg": 1.3,
+"up5": 4,
+"lead": "오디텍",
+"lead_ret": 30.0,
+"second": "파인테크닉스",
+"second_ret": 9.44
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 71,
+"avg": 1.28,
+"up5": 8,
+"lead": "주성엔지니어링",
+"lead_ret": 21.79,
+"second": "피엔에이치테크",
+"second_ret": 12.45
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 1.22,
+"up5": 1,
+"lead": "메카로",
+"lead_ret": 9.76,
+"second": "야스",
+"second_ret": 3.54
+}
+],
+"themes_worst": [
+{
+"name": "화장품",
+"n": 72,
+"avg": -4.01,
+"up5": 1,
+"lead": "진코스텍",
+"lead_ret": 9.45,
+"second": "현대바이오랜드",
+"second_ret": 3.48
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -3.91,
+"up5": 0,
+"lead": "일신바이오",
+"lead_ret": -2.25,
+"second": "JW중외제약",
+"second_ret": -2.34
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": -3.4,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 2.76,
+"second": "헬릭스미스",
+"second_ret": 2.62
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -3.39,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 1.6,
+"second": "JTC",
+"second_ret": -0.34
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -3.32,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.36,
+"second": "마크로젠",
+"second_ret": 0.32
+}
+],
+"leaders": [
+{
+"name": "SK증권",
+"code": "001510",
+"ret": 29.04,
+"value": 5581,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "SK디스커버리",
+"code": "006120",
+"ret": 24.33,
+"value": 5112,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 21.79,
+"value": 1791,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 12.72,
+"value": 1204,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "유니퀘스트",
+"code": "077500",
+"ret": 13.79,
+"value": 1129,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

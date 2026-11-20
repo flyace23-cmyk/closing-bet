@@ -1,0 +1,254 @@
+{
+"date": "20250425",
+"kospi": 0.95,
+"kosdaq": 0.5,
+"adv": 1474,
+"dec": 724,
+"flat": 150,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 138227,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "애경케미칼",
+"lead_ret": 29.99,
+"second": "피노",
+"second_ret": 20.68
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "미래반도체",
+"lead_ret": 25.27,
+"second": "리노공업",
+"second_ret": 11.3
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "마이크로투나노",
+"lead_ret": 29.91,
+"second": "메가터치",
+"second_ret": 20.3
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 11.31,
+"up5": 2,
+"lead": "퀀텀레일",
+"lead_ret": 30.01,
+"second": "유비벨록스",
+"second_ret": 18.32
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 8.83,
+"up5": 4,
+"lead": "애경케미칼",
+"lead_ret": 29.99,
+"second": "메가터치",
+"second_ret": 20.3
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 5.77,
+"up5": 3,
+"lead": "한화오션",
+"lead_ret": 11.12,
+"second": "HD현대중공업",
+"second_ret": 7.18
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 4.56,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 29.95,
+"second": "에코플라스틱",
+"second_ret": 10.07
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 4.12,
+"up5": 6,
+"lead": "마이크로투나노",
+"lead_ret": 29.91,
+"second": "미래반도체",
+"second_ret": 25.27
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 3.58,
+"up5": 3,
+"lead": "삼륭물산",
+"lead_ret": 29.95,
+"second": "우리로",
+"second_ret": 10.26
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.46,
+"up5": 1,
+"lead": "예스티",
+"lead_ret": 24.48,
+"second": "티에스이",
+"second_ret": 2.7
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.26,
+"up5": 3,
+"lead": "애경케미칼",
+"lead_ret": 29.99,
+"second": "한화솔루션",
+"second_ret": 9.96
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.92,
+"up5": 2,
+"lead": "퀄리타스반도체",
+"lead_ret": 10.64,
+"second": "네오셈",
+"second_ret": 7.57
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 2.52,
+"up5": 1,
+"lead": "한솔테크닉스",
+"lead_ret": 9.8,
+"second": "알에프텍",
+"second_ret": 4.8
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.46,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 17.24,
+"second": "LS",
+"second_ret": 3.6
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.46,
+"up5": 2,
+"lead": "유비벨록스",
+"lead_ret": 18.32,
+"second": "아이에이",
+"second_ret": 6.51
+}
+],
+"themes_worst": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -2.67,
+"up5": 0,
+"lead": "유에스티",
+"lead_ret": 2.44,
+"second": "한국주철관",
+"second_ret": 1.24
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.97,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 0.79,
+"second": "삼현철강",
+"second_ret": 0.0
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -1.44,
+"up5": 0,
+"lead": "닷밀",
+"lead_ret": 3.16,
+"second": "이월드",
+"second_ret": 1.13
+},
+{
+"name": "유전자 치료제/분석",
+"n": 37,
+"avg": -1.0,
+"up5": 0,
+"lead": "아미코젠",
+"lead_ret": 3.67,
+"second": "셀레믹스",
+"second_ret": 2.23
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.77,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.06,
+"second": "녹십자",
+"second_ret": 0.25
+}
+],
+"leaders": [
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 11.12,
+"value": 6621,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 17.24,
+"value": 3012,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "에코플라스틱",
+"code": "038110",
+"ret": 10.07,
+"value": 1527,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 10.26,
+"value": 1425,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "더블유씨피",
+"code": "393890",
+"ret": 11.86,
+"value": 806,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

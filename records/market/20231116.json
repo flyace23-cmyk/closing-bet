@@ -1,0 +1,254 @@
+{
+"date": "20231116",
+"kospi": 0.06,
+"kosdaq": 0.22,
+"adv": 1355,
+"dec": 710,
+"flat": 147,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 126022,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "리노공업",
+"lead_ret": 14.62,
+"second": "티에스이",
+"second_ret": 12.15
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 3,
+"lead": "한울앤제주",
+"lead_ret": 29.94,
+"second": "나라셀라",
+"second_ret": 29.89
+},
+{
+"name": "음식료업종",
+"n": 3,
+"lead": "한울앤제주",
+"lead_ret": 29.94,
+"second": "우듬지팜",
+"second_ret": 17.73
+}
+],
+"themes": [
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 6.7,
+"up5": 4,
+"lead": "한울앤제주",
+"lead_ret": 29.94,
+"second": "나라셀라",
+"second_ret": 29.89
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 6.64,
+"up5": 2,
+"lead": "한울앤제주",
+"lead_ret": 29.94,
+"second": "우양",
+"second_ret": 6.24
+},
+{
+"name": "창투사",
+"n": 18,
+"avg": 2.89,
+"up5": 4,
+"lead": "캡스톤파트너스",
+"lead_ret": 9.15,
+"second": "대성창투",
+"second_ret": 7.78
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.49,
+"up5": 1,
+"lead": "세중",
+"lead_ret": 10.29,
+"second": "하나투어",
+"second_ret": 3.39
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.43,
+"up5": 2,
+"lead": "대성창투",
+"lead_ret": 7.78,
+"second": "우리기술투자",
+"second_ret": 7.56
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.29,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 4.31,
+"second": "아주IB투자",
+"second_ret": 2.59
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.18,
+"up5": 1,
+"lead": "태광",
+"lead_ret": 5.24,
+"second": "디케이락",
+"second_ret": 3.93
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 2.15,
+"up5": 3,
+"lead": "퓨런티어",
+"lead_ret": 10.43,
+"second": "해성옵틱스",
+"second_ret": 9.66
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 2.08,
+"up5": 1,
+"lead": "디지캡",
+"lead_ret": 18.24,
+"second": "플랜티넷",
+"second_ret": 3.25
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": 2.0,
+"up5": 3,
+"lead": "오스테오닉",
+"lead_ret": 12.09,
+"second": "레이",
+"second_ret": 10.49
+},
+{
+"name": "자율주행차",
+"n": 54,
+"avg": 1.94,
+"up5": 3,
+"lead": "스마트레이더시스템",
+"lead_ret": 25.91,
+"second": "퓨런티어",
+"second_ret": 10.43
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 1.92,
+"up5": 3,
+"lead": "한울앤제주",
+"lead_ret": 29.94,
+"second": "배럴",
+"second_ret": 6.76
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.25,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 0.48,
+"second": "메디포스트",
+"second_ret": 0.14
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -1.43,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 1.65,
+"second": "오르비텍",
+"second_ret": 1.2
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -0.94,
+"up5": 0,
+"lead": "안트로젠",
+"lead_ret": 2.85,
+"second": "제일약품",
+"second_ret": 1.85
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": -0.9,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 0.67,
+"second": "이상네트웍스",
+"second_ret": 0.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.85,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": 0.48,
+"second": "E1",
+"second_ret": 0.34
+}
+],
+"leaders": [
+{
+"name": "큐로셀",
+"code": "372320",
+"ret": 26.3,
+"value": 1850,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "웅진",
+"code": "016880",
+"ret": 17.48,
+"value": 1076,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "리노공업",
+"code": "058470",
+"ret": 14.62,
+"value": 1060,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "마이크로컨텍솔",
+"code": "098120",
+"ret": 15.78,
+"value": 1050,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "우듬지팜",
+"code": "403490",
+"ret": 17.73,
+"value": 769,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+}
+],
+"backfilled": true
+}

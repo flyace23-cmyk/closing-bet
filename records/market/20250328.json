@@ -1,0 +1,246 @@
+{
+"date": "20250328",
+"kospi": -1.89,
+"kosdaq": -1.94,
+"adv": 412,
+"dec": 1838,
+"flat": 96,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 115939,
+"hot": [
+{
+"name": "농업",
+"n": 4,
+"lead": "효성오앤비",
+"lead_ret": 17.7,
+"second": "누보",
+"second_ret": 10.32
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "대화제약",
+"lead_ret": 9.72,
+"second": "라파스",
+"second_ret": 5.27
+}
+],
+"themes": [
+{
+"name": "비료",
+"n": 10,
+"avg": 3.34,
+"up5": 4,
+"lead": "효성오앤비",
+"lead_ret": 17.7,
+"second": "태경비케이",
+"second_ret": 11.11
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 1.6,
+"up5": 1,
+"lead": "이니텍",
+"lead_ret": 29.99,
+"second": "드림시큐리티",
+"second_ret": 2.73
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.07,
+"up5": 2,
+"lead": "KBI동양철관",
+"lead_ret": 15.06,
+"second": "금강공업",
+"second_ret": 10.64
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 0.98,
+"up5": 4,
+"lead": "효성오앤비",
+"lead_ret": 17.7,
+"second": "누보",
+"second_ret": 10.32
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 0.81,
+"up5": 1,
+"lead": "코데즈컴바인",
+"lead_ret": 19.8,
+"second": "해태제과식품",
+"second_ret": 2.31
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 0.5,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 2.34,
+"second": "HD현대중공업",
+"second_ret": 1.27
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 0.42,
+"up5": 1,
+"lead": "조비",
+"lead_ret": 5.94,
+"second": "뉴보텍",
+"second_ret": 4.01
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 0.4,
+"up5": 1,
+"lead": "이니텍",
+"lead_ret": 29.99,
+"second": "드림시큐리티",
+"second_ret": 2.73
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.19,
+"up5": 1,
+"lead": "태경비케이",
+"lead_ret": 11.11,
+"second": "우진비앤지",
+"second_ret": 2.25
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 0.18,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 17.7,
+"second": "자연과환경",
+"second_ret": 8.13
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 0.18,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 17.7,
+"second": "자연과환경",
+"second_ret": 8.13
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 0.09,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 3.61,
+"second": "SAMG엔터",
+"second_ret": 2.65
+}
+],
+"themes_worst": [
+{
+"name": "전력반도체",
+"n": 19,
+"avg": -4.03,
+"up5": 0,
+"lead": "에스티아이",
+"lead_ret": -0.92,
+"second": "DB하이텍",
+"second_ret": -1.35
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -3.96,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": -1.2,
+"second": "티씨케이",
+"second_ret": -1.3
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.87,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.59,
+"second": "LB인베스트먼트",
+"second_ret": -2.77
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -3.61,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -0.81,
+"second": "삼성전자",
+"second_ret": -2.59
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -3.6,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 4.52,
+"second": "삼성전기",
+"second_ret": -0.88
+}
+],
+"leaders": [
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 12.83,
+"value": 2749,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "KBI동양철관",
+"code": "008970",
+"ret": 15.06,
+"value": 2175,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "금강공업",
+"code": "014280",
+"ret": 10.64,
+"value": 1345,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "효성오앤비",
+"code": "097870",
+"ret": 17.7,
+"value": 959,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "아이엠티",
+"code": "451220",
+"ret": 14.8,
+"value": 686,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

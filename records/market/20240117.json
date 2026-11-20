@@ -1,0 +1,254 @@
+{
+"date": "20240117",
+"kospi": -2.47,
+"kosdaq": -2.55,
+"adv": 198,
+"dec": 1973,
+"flat": 57,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 195352,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 6,
+"lead": "스페코",
+"lead_ret": 29.9,
+"second": "빅텍",
+"second_ret": 21.91
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "에브리봇",
+"lead_ret": 17.01,
+"second": "퍼스텍",
+"second_ret": 8.82
+},
+{
+"name": "해운",
+"n": 3,
+"lead": "대한해운",
+"lead_ret": 17.82,
+"second": "흥아해운",
+"second_ret": 5.32
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 4.87,
+"up5": 3,
+"lead": "대한해운",
+"lead_ret": 17.82,
+"second": "흥아해운",
+"second_ret": 5.32
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.67,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 8.16,
+"second": "신송홀딩스",
+"second_ret": 4.33
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 1.83,
+"up5": 3,
+"lead": "한일사료",
+"lead_ret": 20.26,
+"second": "고려산업",
+"second_ret": 9.05
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.63,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 29.9,
+"second": "한국석유",
+"second_ret": -0.2
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.89,
+"up5": 1,
+"lead": "하림",
+"lead_ret": 9.19,
+"second": "팜스토리",
+"second_ret": 4.47
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 0.85,
+"up5": 1,
+"lead": "하림",
+"lead_ret": 9.19,
+"second": "팜스토리",
+"second_ret": 4.47
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.53,
+"up5": 2,
+"lead": "한일사료",
+"lead_ret": 20.26,
+"second": "하림",
+"second_ret": 9.19
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 0.3,
+"up5": 1,
+"lead": "아이큐어",
+"lead_ret": 29.82,
+"second": "동아제약",
+"second_ret": 0.0
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 0.22,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 5.27,
+"second": "인터지스",
+"second_ret": 2.43
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 30,
+"avg": 0.19,
+"up5": 3,
+"lead": "한일사료",
+"lead_ret": 20.26,
+"second": "하림",
+"second_ret": 9.19
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 59,
+"avg": -0.4,
+"up5": 6,
+"lead": "스페코",
+"lead_ret": 29.9,
+"second": "빅텍",
+"second_ret": 21.91
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -0.69,
+"up5": 1,
+"lead": "휴니드",
+"lead_ret": 13.57,
+"second": "아스트",
+"second_ret": 1.7
+}
+],
+"themes_worst": [
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": -4.55,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": -2.09,
+"second": "가온그룹",
+"second_ret": -2.39
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -4.05,
+"up5": 0,
+"lead": "NHN",
+"lead_ret": -1.66,
+"second": "미스터블루",
+"second_ret": -2.16
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 44,
+"avg": -4.02,
+"up5": 0,
+"lead": "KT",
+"lead_ret": 0.45,
+"second": "롯데이노베이트",
+"second_ret": -1.03
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -3.91,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -3.0,
+"second": "제이오",
+"second_ret": -3.43
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": -3.88,
+"up5": 1,
+"lead": "폴라리스오피스",
+"lead_ret": 6.52,
+"second": "드림씨아이에스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 21.91,
+"value": 7263,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "대한해운",
+"code": "005880",
+"ret": 17.82,
+"value": 6050,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 17.01,
+"value": 4104,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "휴니드",
+"code": "005870",
+"ret": 13.57,
+"value": 1911,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 20.26,
+"value": 1392,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

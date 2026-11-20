@@ -1,0 +1,238 @@
+{
+"date": "20250225",
+"kospi": -0.57,
+"kosdaq": -0.5,
+"adv": 813,
+"dec": 1387,
+"flat": 136,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 176998,
+"hot": [
+{
+"name": "화장품",
+"n": 3,
+"lead": "토니모리",
+"lead_ret": 12.81,
+"second": "디와이디",
+"second_ret": 10.09
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 4.92,
+"up5": 3,
+"lead": "삼성중공업",
+"lead_ret": 8.2,
+"second": "HD한국조선해양",
+"second_ret": 5.67
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.7,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 16.7,
+"second": "에피소드컴퍼니",
+"second_ret": 4.17
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 2.36,
+"up5": 3,
+"lead": "알리코제약",
+"lead_ret": 29.84,
+"second": "올릭스",
+"second_ret": 19.45
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.21,
+"up5": 5,
+"lead": "동성화인텍",
+"lead_ret": 9.13,
+"second": "삼성중공업",
+"second_ret": 8.2
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.1,
+"up5": 2,
+"lead": "NHN벅스",
+"lead_ret": 10.1,
+"second": "YG PLUS",
+"second_ret": 7.61
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 1.77,
+"up5": 6,
+"lead": "동성화인텍",
+"lead_ret": 9.13,
+"second": "성광벤드",
+"second_ret": 8.03
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.71,
+"up5": 1,
+"lead": "올릭스",
+"lead_ret": 19.45,
+"second": "인벤티지랩",
+"second_ret": 4.55
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 1.64,
+"up5": 2,
+"lead": "노머스",
+"lead_ret": 6.99,
+"second": "큐브엔터",
+"second_ret": 6.88
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.48,
+"up5": 1,
+"lead": "토니모리",
+"lead_ret": 12.81,
+"second": "HDC",
+"second_ret": 1.41
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.27,
+"up5": 0,
+"lead": "SNT에너지",
+"lead_ret": 4.8,
+"second": "한국가스공사",
+"second_ret": 4.55
+},
+{
+"name": "영상콘텐츠",
+"n": 28,
+"avg": 1.2,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 16.7,
+"second": "에피소드컴퍼니",
+"second_ret": 4.17
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.05,
+"up5": 1,
+"lead": "성광벤드",
+"lead_ret": 8.03,
+"second": "케이에스피",
+"second_ret": 2.13
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.12,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": -1.22,
+"second": "리튬포어스",
+"second_ret": -1.25
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.5,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.0,
+"second": "메가터치",
+"second_ret": -2.07
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.86,
+"up5": 0,
+"lead": "상보",
+"lead_ret": -1.69,
+"second": "오픈베이스",
+"second_ret": -2.14
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": -2.75,
+"up5": 0,
+"lead": "엠오티",
+"lead_ret": 4.3,
+"second": "아이엘",
+"second_ret": 1.2
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.68,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.17,
+"second": "대덕전자",
+"second_ret": -1.29
+}
+],
+"leaders": [
+{
+"name": "삼현",
+"code": "437730",
+"ret": 20.83,
+"value": 2798,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 13.66,
+"value": 2718,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "올릭스",
+"code": "226950",
+"ret": 19.45,
+"value": 2065,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "토니모리",
+"code": "214420",
+"ret": 12.81,
+"value": 877,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "알리코제약",
+"code": "260660",
+"ret": 29.84,
+"value": 603,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

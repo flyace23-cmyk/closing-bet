@@ -1,0 +1,254 @@
+{
+"date": "20220824",
+"kospi": 0.5,
+"kosdaq": 1.24,
+"adv": 1380,
+"dec": 554,
+"flat": 164,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 133179,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "현대로템",
+"lead_ret": 17.16,
+"second": "신화프리텍",
+"second_ret": 13.58
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 5,
+"lead": "현대로템",
+"lead_ret": 17.16,
+"second": "평화산업",
+"second_ret": 11.46
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "성일하이텍",
+"lead_ret": 19.77,
+"second": "미래나노텍",
+"second_ret": 16.26
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 4.59,
+"up5": 6,
+"lead": "모두투어",
+"lead_ret": 8.65,
+"second": "노랑풍선",
+"second_ret": 6.44
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 3.66,
+"up5": 3,
+"lead": "범한퓨얼셀",
+"lead_ret": 6.44,
+"second": "비에이치아이",
+"second_ret": 5.87
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.54,
+"up5": 4,
+"lead": "성일하이텍",
+"lead_ret": 19.77,
+"second": "코스모화학",
+"second_ret": 7.06
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.42,
+"up5": 3,
+"lead": "아세아시멘트",
+"lead_ret": 8.66,
+"second": "성신양회",
+"second_ret": 5.5
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.32,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 7.46,
+"second": "롯데관광개발",
+"second_ret": 5.88
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.32,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 7.46,
+"second": "롯데관광개발",
+"second_ret": 5.88
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.3,
+"up5": 4,
+"lead": "성일하이텍",
+"lead_ret": 19.77,
+"second": "미래나노텍",
+"second_ret": 16.26
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.29,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 17.35,
+"second": "석경에이티",
+"second_ret": 6.03
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.19,
+"up5": 2,
+"lead": "진에어",
+"lead_ret": 10.44,
+"second": "제주항공",
+"second_ret": 7.37
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.12,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 9.33,
+"second": "케이에스피",
+"second_ret": 3.14
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 55,
+"avg": 3.0,
+"up5": 12,
+"lead": "현대로템",
+"lead_ret": 17.16,
+"second": "신화프리텍",
+"second_ret": 13.58
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.88,
+"up5": 5,
+"lead": "에스트래픽",
+"lead_ret": 29.9,
+"second": "현대로템",
+"second_ret": 17.16
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -1.93,
+"up5": 0,
+"lead": "대한제당",
+"lead_ret": 1.44,
+"second": "애드바이오텍",
+"second_ret": 0.88
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.76,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 4.83,
+"second": "샘표식품",
+"second_ret": -1.29
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.21,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 1.56,
+"second": "삼천리",
+"second_ret": 0.72
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.17,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 1.87,
+"second": "티앤알바이오팹",
+"second_ret": 1.43
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.91,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 1.84,
+"second": "차바이오텍",
+"second_ret": 1.62
+}
+],
+"leaders": [
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 17.16,
+"value": 10944,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "성일하이텍",
+"code": "365340",
+"ret": 19.77,
+"value": 3395,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 16.26,
+"value": 2784,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "HD현대에너지솔루션",
+"code": "322000",
+"ret": 17.35,
+"value": 1735,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "승일",
+"code": "049830",
+"ret": 20.6,
+"value": 876,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

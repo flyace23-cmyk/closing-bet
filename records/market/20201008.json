@@ -1,0 +1,254 @@
+{
+"date": "20201008",
+"kospi": 0.21,
+"kosdaq": 0.23,
+"adv": 944,
+"dec": 767,
+"flat": 233,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 258973,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "한국파마",
+"lead_ret": 22.22,
+"second": "비씨월드제약",
+"second_ret": 14.32
+},
+{
+"name": "태양광에너지",
+"n": 3,
+"lead": "신성이엔지",
+"lead_ret": 29.94,
+"second": "SDN",
+"second_ret": 22.64
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "한국파마",
+"lead_ret": 22.22,
+"second": "이연제약",
+"second_ret": 11.09
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.04,
+"up5": 1,
+"lead": "모아텍",
+"lead_ret": 30.0,
+"second": "티앤알바이오팹",
+"second_ret": 3.84
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 3.64,
+"up5": 3,
+"lead": "한화솔루션",
+"lead_ret": 9.53,
+"second": "HD현대에너지솔루션",
+"second_ret": 6.0
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.32,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 29.94,
+"second": "케이엔솔",
+"second_ret": 2.8
+},
+{
+"name": "태양광에너지",
+"n": 35,
+"avg": 3.26,
+"up5": 10,
+"lead": "신성이엔지",
+"lead_ret": 29.94,
+"second": "SDN",
+"second_ret": 22.64
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.91,
+"up5": 4,
+"lead": "SK케미칼",
+"lead_ret": 10.97,
+"second": "금호석유화학",
+"second_ret": 10.59
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.9,
+"up5": 2,
+"lead": "DGI",
+"lead_ret": 8.62,
+"second": "인콘",
+"second_ret": 7.44
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.75,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 29.94,
+"second": "DSC인베스트먼트",
+"second_ret": 2.45
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": 2.69,
+"up5": 2,
+"lead": "DGI",
+"lead_ret": 8.62,
+"second": "인콘",
+"second_ret": 7.44
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.43,
+"up5": 3,
+"lead": "동신건설",
+"lead_ret": 8.58,
+"second": "성창기업지주",
+"second_ret": 6.06
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.43,
+"up5": 3,
+"lead": "동신건설",
+"lead_ret": 8.58,
+"second": "성창기업지주",
+"second_ret": 6.06
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 22,
+"avg": 2.4,
+"up5": 3,
+"lead": "케이바이오랩스",
+"lead_ret": 29.74,
+"second": "한국파마",
+"second_ret": 22.22
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 2.2,
+"up5": 2,
+"lead": "비나텍",
+"lead_ret": 12.82,
+"second": "두산퓨얼셀",
+"second_ret": 5.02
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.04,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.54,
+"second": "지씨셀",
+"second_ret": -0.1
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": -1.39,
+"up5": 0,
+"lead": "엑시콘",
+"lead_ret": 0.73,
+"second": "네오셈",
+"second_ret": 0.71
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -1.2,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.54,
+"second": "풍전약품",
+"second_ret": 0.94
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": -1.2,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 0.58,
+"second": "엔키AX",
+"second_ret": 0.5
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.17,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 3.84,
+"second": "JW중외제약",
+"second_ret": -0.28
+}
+],
+"leaders": [
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 29.94,
+"value": 6260,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 10.97,
+"value": 3542,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 22.22,
+"value": 3502,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "비씨월드제약",
+"code": "200780",
+"ret": 14.32,
+"value": 2519,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "SDN",
+"code": "099220",
+"ret": 22.64,
+"value": 2088,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

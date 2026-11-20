@@ -1,0 +1,254 @@
+{
+"date": "20241122",
+"kospi": 0.83,
+"kosdaq": -0.54,
+"adv": 1166,
+"dec": 978,
+"flat": 166,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 152569,
+"hot": [
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "성광벤드",
+"lead_ret": 21.13,
+"second": "비에이치아이",
+"second_ret": 13.02
+},
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "성광벤드",
+"lead_ret": 21.13,
+"second": "씨피시스템",
+"second_ret": 10.83
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "솔트룩스",
+"lead_ret": 16.34,
+"second": "마음AI",
+"second_ret": 15.3
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 6.98,
+"up5": 2,
+"lead": "HJ중공업",
+"lead_ret": 21.3,
+"second": "한화오션",
+"second_ret": 6.42
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 6.19,
+"up5": 4,
+"lead": "성광벤드",
+"lead_ret": 21.13,
+"second": "태광",
+"second_ret": 8.79
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 4.01,
+"up5": 3,
+"lead": "에스피소프트",
+"lead_ret": 29.86,
+"second": "이스트소프트",
+"second_ret": 6.18
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 3.97,
+"up5": 12,
+"lead": "성광벤드",
+"lead_ret": 21.13,
+"second": "씨피시스템",
+"second_ret": 10.83
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.75,
+"up5": 4,
+"lead": "신성델타테크",
+"lead_ret": 16.7,
+"second": "모비스",
+"second_ret": 8.65
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 29,
+"avg": 3.71,
+"up5": 7,
+"lead": "에스피소프트",
+"lead_ret": 29.86,
+"second": "솔트룩스",
+"second_ret": 16.34
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.37,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 13.02,
+"second": "SNT에너지",
+"second_ret": 11.45
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 3.32,
+"up5": 6,
+"lead": "HJ중공업",
+"lead_ret": 21.3,
+"second": "비에이치아이",
+"second_ret": 13.02
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 3.13,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 13.02,
+"second": "두산에너빌리티",
+"second_ret": 5.74
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 2.8,
+"up5": 8,
+"lead": "성광벤드",
+"lead_ret": 21.13,
+"second": "비에이치아이",
+"second_ret": 13.02
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.69,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 8.83,
+"second": "SK하이닉스",
+"second_ret": 4.68
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 34,
+"avg": 2.69,
+"up5": 4,
+"lead": "에스피소프트",
+"lead_ret": 29.86,
+"second": "포니링크",
+"second_ret": 22.4
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -2.92,
+"up5": 0,
+"lead": "옵티팜",
+"lead_ret": 1.06,
+"second": "큐라티스",
+"second_ret": 0.74
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.85,
+"up5": 0,
+"lead": "우성머티리얼스",
+"lead_ret": 2.23,
+"second": "대한화섬",
+"second_ret": 0.69
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.77,
+"up5": 0,
+"lead": "넥센타이어",
+"lead_ret": 0.64,
+"second": "금호타이어",
+"second_ret": 0.11
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 13,
+"avg": -2.48,
+"up5": 0,
+"lead": "바텍",
+"lead_ret": 0.49,
+"second": "현대바이오랜드",
+"second_ret": 0.23
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -2.34,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": 2.87,
+"second": "삼성물산",
+"second_ret": 1.15
+}
+],
+"leaders": [
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 13.02,
+"value": 2831,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 13.11,
+"value": 2625,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "성광벤드",
+"code": "014620",
+"ret": 21.13,
+"value": 1245,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "티디에스팜",
+"code": "464280",
+"ret": 29.92,
+"value": 1143,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 16.7,
+"value": 838,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

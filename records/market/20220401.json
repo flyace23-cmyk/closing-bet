@@ -1,0 +1,246 @@
+{
+"date": "20220401",
+"kospi": -0.65,
+"kosdaq": -0.42,
+"adv": 780,
+"dec": 1120,
+"flat": 176,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 172564,
+"hot": [
+{
+"name": "화장품",
+"n": 9,
+"lead": "리더스코스메틱",
+"lead_ret": 29.95,
+"second": "잇츠한불",
+"second_ret": 24.46
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "원텍",
+"lead_ret": 29.93,
+"second": "하이로닉",
+"second_ret": 22.71
+}
+],
+"themes": [
+{
+"name": "미용기기",
+"n": 13,
+"avg": 4.18,
+"up5": 2,
+"lead": "원텍",
+"lead_ret": 29.93,
+"second": "하이로닉",
+"second_ret": 22.71
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.74,
+"up5": 1,
+"lead": "토니모리",
+"lead_ret": 16.16,
+"second": "JTC",
+"second_ret": 4.25
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.51,
+"up5": 2,
+"lead": "제주항공",
+"lead_ret": 7.42,
+"second": "진에어",
+"second_ret": 5.85
+},
+{
+"name": "화장품",
+"n": 79,
+"avg": 3.37,
+"up5": 19,
+"lead": "리더스코스메틱",
+"lead_ret": 29.95,
+"second": "잇츠한불",
+"second_ret": 24.46
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.17,
+"up5": 1,
+"lead": "리더스코스메틱",
+"lead_ret": 29.95,
+"second": "한솔홀딩스",
+"second_ret": 2.84
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.8,
+"up5": 4,
+"lead": "아이오케이이엔엠",
+"lead_ret": 29.94,
+"second": "알비더블유",
+"second_ret": 7.95
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 2.56,
+"up5": 1,
+"lead": "엑시온그룹",
+"lead_ret": 29.97,
+"second": "BGF리테일",
+"second_ret": 2.87
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.33,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 4.23,
+"second": "토비스",
+"second_ret": 2.9
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.33,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 4.23,
+"second": "토비스",
+"second_ret": 2.9
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 2.18,
+"up5": 1,
+"lead": "마니커",
+"lead_ret": 10.04,
+"second": "하림",
+"second_ret": 4.79
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.85,
+"up5": 1,
+"lead": "마니커",
+"lead_ret": 10.04,
+"second": "하림",
+"second_ret": 4.79
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.65,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 10.04,
+"second": "대성에너지",
+"second_ret": 2.64
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -2.65,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": 0.27,
+"second": "LS",
+"second_ret": -0.95
+},
+{
+"name": "온디바이스 AI",
+"n": 17,
+"avg": -2.07,
+"up5": 0,
+"lead": "네패스아크",
+"lead_ret": 0.8,
+"second": "에이팩트",
+"second_ret": -0.53
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -1.96,
+"up5": 0,
+"lead": "세명전기",
+"lead_ret": -0.55,
+"second": "LS",
+"second_ret": -0.95
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -1.93,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 1.57,
+"second": "한국비엔씨",
+"second_ret": 1.47
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.76,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 0.43,
+"second": "삼성전자",
+"second_ret": -0.72
+}
+],
+"leaders": [
+{
+"name": "TYM",
+"code": "002900",
+"ret": 10.38,
+"value": 2045,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "잇츠한불",
+"code": "226320",
+"ret": 24.46,
+"value": 1435,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "하이로닉",
+"code": "149980",
+"ret": 22.71,
+"value": 1317,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "아이오케이이엔엠",
+"code": "078860",
+"ret": 29.94,
+"value": 1247,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "이수앱지스",
+"code": "086890",
+"ret": 21.93,
+"value": 1245,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

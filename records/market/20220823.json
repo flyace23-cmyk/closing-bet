@@ -1,0 +1,254 @@
+{
+"date": "20220823",
+"kospi": -1.1,
+"kosdaq": -1.56,
+"adv": 404,
+"dec": 1578,
+"flat": 116,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 126378,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "세진중공업",
+"lead_ret": 11.72,
+"second": "세아제강지주",
+"second_ret": 10.43
+},
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "일승",
+"lead_ret": 29.8,
+"second": "세진중공업",
+"second_ret": 11.72
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "세아제강지주",
+"lead_ret": 10.43,
+"second": "OCI홀딩스",
+"second_ret": 9.09
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.38,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 6.4
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.38,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 6.4
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 4.45,
+"up5": 7,
+"lead": "일승",
+"lead_ret": 29.8,
+"second": "세진중공업",
+"second_ret": 11.72
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.56,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 14.14,
+"second": "한국가스공사",
+"second_ret": 6.16
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.52,
+"up5": 2,
+"lead": "케이에스피",
+"lead_ret": 6.31,
+"second": "하이록코리아",
+"second_ret": 5.44
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 3.47,
+"up5": 3,
+"lead": "휴스틸",
+"lead_ret": 16.26,
+"second": "세아제강",
+"second_ret": 9.43
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.3,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 6.4
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.26,
+"up5": 3,
+"lead": "휴스틸",
+"lead_ret": 16.26,
+"second": "세아제강",
+"second_ret": 9.43
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.12,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": 4.71,
+"second": "한화오션",
+"second_ret": 4.11
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.86,
+"up5": 2,
+"lead": "일승",
+"lead_ret": 29.8,
+"second": "한국가스공사",
+"second_ret": 6.16
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.01,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 6.16,
+"second": "SNT에너지",
+"second_ret": 4.99
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.99,
+"up5": 3,
+"lead": "한국가스공사",
+"lead_ret": 6.16,
+"second": "현대코퍼레이션",
+"second_ret": 6.0
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.84,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": -2.22,
+"second": "녹십자",
+"second_ret": -2.45
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -4.18,
+"up5": 0,
+"lead": "팜스코",
+"lead_ret": 0.76,
+"second": "SK네트웍스",
+"second_ret": -0.59
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -3.05,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": -0.3,
+"second": "메가엠디",
+"second_ret": -0.81
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -3.02,
+"up5": 0,
+"lead": "신라젠",
+"lead_ret": 0.0,
+"second": "제이에스링크",
+"second_ret": -0.12
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.01,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": -0.15,
+"second": "한울앤제주",
+"second_ret": -1.85
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 14.14,
+"value": 3393,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "휴스틸",
+"code": "005010",
+"ret": 16.26,
+"value": 1634,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "일승",
+"code": "333430",
+"ret": 29.8,
+"value": 1287,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 12.68,
+"value": 1236,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "중앙에너비스",
+"code": "000440",
+"ret": 29.91,
+"value": 901,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20221215",
+"kospi": -1.6,
+"kosdaq": -0.87,
+"adv": 774,
+"dec": 1146,
+"flat": 205,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 98571,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "경보제약",
+"lead_ret": 16.51,
+"second": "일동제약",
+"second_ret": 14.14
+},
+{
+"name": "웹툰",
+"n": 3,
+"lead": "엔키AX",
+"lead_ret": 15.0,
+"second": "키다리스튜디오",
+"second_ret": 9.28
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "소마젠",
+"lead_ret": 29.99,
+"second": "일동제약",
+"second_ret": 14.14
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.8,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 29.99,
+"second": "파미셀",
+"second_ret": 1.79
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 3.12,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 22.36,
+"second": "아이비김영",
+"second_ret": 1.55
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.21,
+"up5": 1,
+"lead": "풍전약품",
+"lead_ret": 29.49,
+"second": "마크로젠",
+"second_ret": 3.61
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 2.03,
+"up5": 3,
+"lead": "엔키AX",
+"lead_ret": 15.0,
+"second": "키다리스튜디오",
+"second_ret": 9.28
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": 1.64,
+"up5": 2,
+"lead": "인벤티지랩",
+"lead_ret": 10.82,
+"second": "서린바이오",
+"second_ret": 6.41
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.56,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 29.99,
+"second": "종근당바이오",
+"second_ret": 3.92
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 1.37,
+"up5": 1,
+"lead": "대한광통신",
+"lead_ret": 9.01,
+"second": "RF머트리얼즈",
+"second_ret": 3.53
+},
+{
+"name": "엔젤산업",
+"n": 21,
+"avg": 1.32,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 14.45,
+"second": "메디앙스",
+"second_ret": 6.85
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 1.31,
+"up5": 0,
+"lead": "태광",
+"lead_ret": 3.46,
+"second": "성광벤드",
+"second_ret": 2.6
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 1.22,
+"up5": 2,
+"lead": "소마젠",
+"lead_ret": 29.99,
+"second": "일동제약",
+"second_ret": 14.14
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 1.13,
+"up5": 0,
+"lead": "팜젠사이언스",
+"lead_ret": 4.17,
+"second": "광동제약",
+"second_ret": 3.02
+},
+{
+"name": "출산장려정책",
+"n": 18,
+"avg": 1.12,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 14.45,
+"second": "메디앙스",
+"second_ret": 6.85
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -2.65,
+"up5": 0,
+"lead": "NEW",
+"lead_ret": 0.13,
+"second": "쎄니트",
+"second_ret": 0.0
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.47,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": -0.72,
+"second": "기업은행",
+"second_ret": -0.9
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.35,
+"up5": 0,
+"lead": "KG이니시스",
+"lead_ret": -0.38,
+"second": "한국정보통신",
+"second_ret": -0.41
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -2.26,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 0.37,
+"second": "인포뱅크",
+"second_ret": -0.44
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.21,
+"up5": 0,
+"lead": "자연과환경",
+"lead_ret": 0.39,
+"second": "에스와이",
+"second_ret": 0.11
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 14.14,
+"value": 4145,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "대성창투",
+"code": "027830",
+"ret": 22.36,
+"value": 1545,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "에너토크",
+"code": "019990",
+"ret": 17.71,
+"value": 949,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "경보제약",
+"code": "214390",
+"ret": 16.51,
+"value": 845,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "소마젠",
+"code": "950200",
+"ret": 29.99,
+"value": 562,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20200106",
+"kospi": -0.98,
+"kosdaq": -2.18,
+"adv": 265,
+"dec": 1546,
+"flat": 91,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 89545,
+"hot": [
+{
+"name": "주유소",
+"n": 5,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 10.81,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 29.89
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 10.81,
+"up5": 4,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 29.89
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 8.21,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 29.89
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 7.48,
+"up5": 5,
+"lead": "흥구석유",
+"lead_ret": 29.93,
+"second": "극동유화",
+"second_ret": 29.89
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.65,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 29.89,
+"second": "한국석유",
+"second_ret": 29.68
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.46,
+"up5": 2,
+"lead": "SH에너지화학",
+"lead_ret": 28.44,
+"second": "우림피티에스",
+"second_ret": 10.48
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.06,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 21.95,
+"second": "신세계",
+"second_ret": -0.85
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.92,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 18.1,
+"second": "대성에너지",
+"second_ret": 11.47
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.2,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 21.95,
+"second": "엘컴텍",
+"second_ret": 20.85
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.23,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 12.07,
+"second": "GS리테일",
+"second_ret": -0.51
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 0.39,
+"up5": 3,
+"lead": "라닉스",
+"lead_ret": 22.57,
+"second": "아이쓰리시스템",
+"second_ret": 6.34
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 0.2,
+"up5": 1,
+"lead": "셀바스헬스케어",
+"lead_ret": 5.2,
+"second": "제이엘케이",
+"second_ret": 4.46
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 23,
+"avg": -4.02,
+"up5": 0,
+"lead": "이수앱지스",
+"lead_ret": -0.6,
+"second": "리가켐바이오",
+"second_ret": -1.19
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.98,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -3.04,
+"second": "차바이오텍",
+"second_ret": -3.43
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": -3.73,
+"up5": 0,
+"lead": "메타케어",
+"lead_ret": -1.45,
+"second": "보령",
+"second_ret": -1.54
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.66,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": -0.25,
+"second": "서린바이오",
+"second_ret": -1.83
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": -3.65,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -2.37,
+"second": "JW중외제약",
+"second_ret": -3.03
+}
+],
+"leaders": [
+{
+"name": "SH에너지화학",
+"code": "002360",
+"ret": 28.44,
+"value": 2225,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "라닉스",
+"code": "317120",
+"ret": 22.57,
+"value": 1402,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "제이씨케미칼",
+"code": "137950",
+"ret": 11.94,
+"value": 1251,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 29.93,
+"value": 1169,
+"theme": "주유소",
+"reason": "테마: 주유소"
+},
+{
+"name": "중앙첨단소재",
+"code": "051980",
+"ret": 15.64,
+"value": 1026,
+"theme": "리튬",
+"reason": "테마: 리튬"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220915",
+"kospi": -0.4,
+"kosdaq": -0.2,
+"adv": 840,
+"dec": 1040,
+"flat": 218,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 136622,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "강원에너지",
+"lead_ret": 25.35,
+"second": "대성하이텍",
+"second_ret": 22.67
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "에스피지",
+"lead_ret": 14.8,
+"second": "디케이티",
+"second_ret": 13.06
+},
+{
+"name": "삼성페이",
+"n": 3,
+"lead": "에이텍모빌리티",
+"lead_ret": 30.0,
+"second": "한국정보통신",
+"second_ret": 18.59
+}
+],
+"themes": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": 5.85,
+"up5": 2,
+"lead": "한국정보통신",
+"lead_ret": 18.59,
+"second": "나이스정보통신",
+"second_ret": 7.99
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.19,
+"up5": 1,
+"lead": "조광페인트",
+"lead_ret": 14.56,
+"second": "노루페인트",
+"second_ret": 4.35
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 2.78,
+"up5": 4,
+"lead": "비나텍",
+"lead_ret": 10.44,
+"second": "엘티씨",
+"second_ret": 6.79
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 2.75,
+"up5": 3,
+"lead": "에이텍모빌리티",
+"lead_ret": 30.0,
+"second": "한국정보통신",
+"second_ret": 18.59
+},
+{
+"name": "2차전지(장비)",
+"n": 36,
+"avg": 2.72,
+"up5": 7,
+"lead": "강원에너지",
+"lead_ret": 25.35,
+"second": "대성하이텍",
+"second_ret": 22.67
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.66,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 8.06,
+"second": "석경에이티",
+"second_ret": 7.14
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.45,
+"up5": 2,
+"lead": "성광벤드",
+"lead_ret": 7.52,
+"second": "하이록코리아",
+"second_ret": 5.53
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.35,
+"up5": 4,
+"lead": "강원에너지",
+"lead_ret": 25.35,
+"second": "미래나노텍",
+"second_ret": 10.36
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 2.17,
+"up5": 6,
+"lead": "한농화성",
+"lead_ret": 17.95,
+"second": "덕산테코피아",
+"second_ret": 10.87
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": 2.07,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 6.83,
+"second": "플랜티넷",
+"second_ret": 5.18
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 1.99,
+"up5": 2,
+"lead": "켐트로스",
+"lead_ret": 10.0,
+"second": "에코프로",
+"second_ret": 8.26
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.91,
+"up5": 2,
+"lead": "한국정보통신",
+"lead_ret": 18.59,
+"second": "JTC",
+"second_ret": 8.09
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -2.43,
+"up5": 0,
+"lead": "인바이오젠",
+"lead_ret": 0.5,
+"second": "펩트론",
+"second_ret": 0.1
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.22,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": -0.22,
+"second": "엔투텍",
+"second_ret": -1.27
+},
+{
+"name": "면역항암제",
+"n": 29,
+"avg": -2.13,
+"up5": 0,
+"lead": "에스티큐브",
+"lead_ret": 3.09,
+"second": "에이비엘바이오",
+"second_ret": 0.46
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.12,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": -0.37,
+"second": "강스템바이오텍",
+"second_ret": -0.67
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": -2.09,
+"up5": 1,
+"lead": "나무가",
+"lead_ret": 5.69,
+"second": "이랜텍",
+"second_ret": 0.7
+}
+],
+"leaders": [
+{
+"name": "OCI홀딩스",
+"code": "010060",
+"ret": 15.87,
+"value": 3097,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 10.36,
+"value": 2647,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "한국정보통신",
+"code": "025770",
+"ret": 18.59,
+"value": 1998,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 14.8,
+"value": 1358,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대성하이텍",
+"code": "129920",
+"ret": 22.67,
+"value": 1021,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

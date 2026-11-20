@@ -1,0 +1,254 @@
+{
+"date": "20220614",
+"kospi": -0.46,
+"kosdaq": -0.63,
+"adv": 442,
+"dec": 1513,
+"flat": 126,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 178058,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "HT로보틱스",
+"lead_ret": 23.97,
+"second": "원준",
+"second_ret": 19.86
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "HT로보틱스",
+"lead_ret": 23.97,
+"second": "시노펙스",
+"second_ret": 19.78
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "에이프로젠",
+"lead_ret": 15.99,
+"second": "비에이치아이",
+"second_ret": 11.64
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 3.72,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "토마토시스템",
+"second_ret": 3.12
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.21,
+"up5": 2,
+"lead": "원준",
+"lead_ret": 19.86,
+"second": "코스모신소재",
+"second_ret": 5.95
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.77,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "네오위즈",
+"second_ret": 2.54
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 2.31,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "대성창투",
+"second_ret": 0.89
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 2.0,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 9.28,
+"second": "에코프로비엠",
+"second_ret": 4.77
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 1.79,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.86,
+"second": "SBI인베스트먼트",
+"second_ret": 6.38
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.77,
+"up5": 1,
+"lead": "JB금융지주",
+"lead_ret": 5.01,
+"second": "iM금융지주",
+"second_ret": 3.42
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 1.63,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 7.08,
+"second": "티엘비",
+"second_ret": 6.46
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 1.39,
+"up5": 1,
+"lead": "티엘비",
+"lead_ret": 6.46,
+"second": "대덕전자",
+"second_ret": 4.62
+},
+{
+"name": "온디바이스 AI",
+"n": 18,
+"avg": 1.15,
+"up5": 1,
+"lead": "가온칩스",
+"lead_ret": 29.95,
+"second": "대덕전자",
+"second_ret": 4.62
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 1.08,
+"up5": 3,
+"lead": "시노펙스",
+"lead_ret": 19.78,
+"second": "이수페타시스",
+"second_ret": 7.08
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 0.94,
+"up5": 1,
+"lead": "비에이치아이",
+"lead_ret": 11.64,
+"second": "우진",
+"second_ret": 3.02
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -7.65,
+"up5": 0,
+"lead": "애드바이오텍",
+"lead_ret": 0.0,
+"second": "씨티씨바이오",
+"second_ret": -2.82
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.16,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 8.47,
+"second": "풀무원",
+"second_ret": -3.65
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": -5.07,
+"up5": 0,
+"lead": "코미팜",
+"lead_ret": 0.64,
+"second": "우리손에프앤지",
+"second_ret": -1.6
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -4.88,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": 0.88,
+"second": "사조산업",
+"second_ret": -0.85
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -4.83,
+"up5": 0,
+"lead": "교촌에프앤비",
+"lead_ret": -1.11,
+"second": "체리부로",
+"second_ret": -1.87
+}
+],
+"leaders": [
+{
+"name": "HT로보틱스",
+"code": "396300",
+"ret": 23.97,
+"value": 3997,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 19.78,
+"value": 2135,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 29.95,
+"value": 2082,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "에이프로젠",
+"code": "007460",
+"ret": 15.99,
+"value": 1934,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 29.91,
+"value": 1249,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+}
+],
+"backfilled": true
+}

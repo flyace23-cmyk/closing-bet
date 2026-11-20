@@ -1,0 +1,238 @@
+{
+"date": "20241204",
+"kospi": -1.44,
+"kosdaq": -1.98,
+"adv": 418,
+"dec": 1818,
+"flat": 75,
+"limit_up": 18,
+"limit_down": 0,
+"value_total": 190797,
+"hot": [
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "태양금속",
+"lead_ret": 29.87,
+"second": "체시스",
+"second_ret": 26.36
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 6.06,
+"up5": 2,
+"lead": "코나아이",
+"lead_ret": 29.98,
+"second": "갤럭시아머니트리",
+"second_ret": 5.99
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.44,
+"up5": 2,
+"lead": "프리엠스",
+"lead_ret": 29.64,
+"second": "카카오페이",
+"second_ret": 22.49
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.3,
+"up5": 3,
+"lead": "iMBC",
+"lead_ret": 29.89,
+"second": "YTN",
+"second_ret": 15.85
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 3.89,
+"up5": 2,
+"lead": "한국종합기술",
+"lead_ret": 25.64,
+"second": "시공테크",
+"second_ret": 17.65
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 3.22,
+"up5": 3,
+"lead": "오픈놀",
+"lead_ret": 12.44,
+"second": "원티드랩",
+"second_ret": 11.58
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.39,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 29.9,
+"second": "이건홀딩스",
+"second_ret": 8.24
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.39,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 29.9,
+"second": "이건홀딩스",
+"second_ret": 8.24
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 2.04,
+"up5": 3,
+"lead": "비비안",
+"lead_ret": 22.06,
+"second": "PN풍년",
+"second_ret": 16.32
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.83,
+"up5": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 17.22,
+"second": "카카오",
+"second_ret": 8.5
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.65,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 29.88,
+"second": "오픈베이스",
+"second_ret": -0.85
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.61,
+"up5": 3,
+"lead": "꿈비",
+"lead_ret": 19.93,
+"second": "제로투세븐",
+"second_ret": 14.41
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 1.59,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.87,
+"second": "한익스프레스",
+"second_ret": 8.19
+}
+],
+"themes_worst": [
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -8.49,
+"up5": 0,
+"lead": "한국카본",
+"lead_ret": -0.77,
+"second": "E1",
+"second_ret": -1.49
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -7.07,
+"up5": 1,
+"lead": "위드텍",
+"lead_ret": 5.97,
+"second": "대창솔루션",
+"second_ret": 0.0
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -5.78,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 12.37,
+"second": "케이에스피",
+"second_ret": -1.0
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": -5.57,
+"up5": 1,
+"lead": "디티앤씨",
+"lead_ret": 9.35,
+"second": "제일테크노스",
+"second_ret": 1.93
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -5.11,
+"up5": 0,
+"lead": "큐로홀딩스",
+"lead_ret": 0.0,
+"second": "삼성물산",
+"second_ret": -1.21
+}
+],
+"leaders": [
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 22.49,
+"value": 2479,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "노을",
+"code": "376930",
+"ret": 21.36,
+"value": 1468,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "PN풍년",
+"code": "024940",
+"ret": 16.32,
+"value": 1112,
+"theme": "日제품 불매운동(수혜)",
+"reason": "테마: 日제품 불매운동(수혜)"
+},
+{
+"name": "대상홀딩스",
+"code": "084690",
+"ret": 29.94,
+"value": 852,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 20.81,
+"value": 773,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

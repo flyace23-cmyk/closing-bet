@@ -1,0 +1,254 @@
+{
+"date": "20210422",
+"kospi": 0.18,
+"kosdaq": 0.34,
+"adv": 989,
+"dec": 794,
+"flat": 216,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 277464,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "포메탈",
+"lead_ret": 11.2,
+"second": "해성에어로보틱스",
+"second_ret": 10.21
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "세아제강지주",
+"lead_ret": 13.53,
+"second": "한전기술",
+"second_ret": 12.0
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "엠에스오토텍",
+"lead_ret": 19.37,
+"second": "세아제강지주",
+"second_ret": 13.53
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 6.04,
+"up5": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 29.85,
+"second": "KG스틸",
+"second_ret": 11.78
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 3.9,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 10.99,
+"second": "대한해운",
+"second_ret": 4.69
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 3.47,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 7.33,
+"second": "이월드",
+"second_ret": 5.26
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.84,
+"up5": 3,
+"lead": "한전기술",
+"lead_ret": 12.0,
+"second": "비에이치아이",
+"second_ret": 6.67
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.78,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 9.62,
+"second": "서한",
+"second_ret": 2.88
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.61,
+"up5": 2,
+"lead": "제테마",
+"lead_ret": 12.46,
+"second": "한국비엔씨",
+"second_ret": 7.95
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.47,
+"up5": 2,
+"lead": "코리아에셋투자증권",
+"lead_ret": 29.81,
+"second": "한화투자증권",
+"second_ret": 7.33
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 2.46,
+"up5": 2,
+"lead": "코리아에셋투자증권",
+"lead_ret": 29.81,
+"second": "한화투자증권",
+"second_ret": 7.33
+},
+{
+"name": "태양광에너지",
+"n": 35,
+"avg": 2.31,
+"up5": 4,
+"lead": "새로닉스",
+"lead_ret": 22.39,
+"second": "OCI홀딩스",
+"second_ret": 10.85
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.3,
+"up5": 3,
+"lead": "이수앱지스",
+"lead_ret": 17.54,
+"second": "바이넥스",
+"second_ret": 11.79
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 2.28,
+"up5": 5,
+"lead": "세아제강지주",
+"lead_ret": 13.53,
+"second": "한전기술",
+"second_ret": 12.0
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 2.26,
+"up5": 2,
+"lead": "판타지오",
+"lead_ret": 24.84,
+"second": "하이브",
+"second_ret": 5.37
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -2.66,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": 0.45,
+"second": "메가엠디",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.02,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.27,
+"second": "에스티팜",
+"second_ret": -0.15
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -1.61,
+"up5": 0,
+"lead": "GMI벤처",
+"lead_ret": 3.53,
+"second": "큐캐피탈",
+"second_ret": 1.19
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -1.21,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 6.56,
+"second": "덕산하이메탈",
+"second_ret": 5.93
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -1.1,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.87,
+"second": "엑스페릭스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 24.84,
+"value": 19990,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "이수앱지스",
+"code": "086890",
+"ret": 17.54,
+"value": 8057,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 11.79,
+"value": 6629,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "티케이케미칼",
+"code": "104480",
+"ret": 16.88,
+"value": 3356,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "팬오션",
+"code": "028670",
+"ret": 10.99,
+"value": 2716,
+"theme": "해운",
+"reason": "테마: 해운"
+}
+],
+"backfilled": true
+}

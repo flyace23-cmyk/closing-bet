@@ -1,0 +1,246 @@
+{
+"date": "20241209",
+"kospi": -2.78,
+"kosdaq": -5.19,
+"adv": 151,
+"dec": 2122,
+"flat": 38,
+"limit_up": 17,
+"limit_down": 1,
+"value_total": 158839,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "수산아이앤티",
+"lead_ret": 30.0,
+"second": "안랩",
+"second_ret": 25.57
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "디젠스",
+"lead_ret": 29.95,
+"second": "오리엔트정공",
+"second_ret": 29.84
+}
+],
+"themes": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 5.49,
+"up5": 5,
+"lead": "iMBC",
+"lead_ret": 29.98,
+"second": "YTN",
+"second_ret": 29.97
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -0.28,
+"up5": 2,
+"lead": "한국선재",
+"lead_ret": 16.49,
+"second": "부산산업",
+"second_ret": 10.02
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -0.42,
+"up5": 3,
+"lead": "PN풍년",
+"lead_ret": 13.85,
+"second": "보해양조",
+"second_ret": 11.49
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -1.24,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 29.85,
+"second": "이건홀딩스",
+"second_ret": 3.48
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -1.24,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 29.85,
+"second": "이건홀딩스",
+"second_ret": 3.48
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -1.36,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 14.11,
+"second": "시공테크",
+"second_ret": 4.12
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.38,
+"up5": 3,
+"lead": "일성건설",
+"lead_ret": 29.98,
+"second": "동신건설",
+"second_ret": 29.85
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": -1.54,
+"up5": 2,
+"lead": "꿈비",
+"lead_ret": 8.51,
+"second": "아가방컴퍼니",
+"second_ret": 5.89
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": -1.65,
+"up5": 2,
+"lead": "삼일",
+"lead_ret": 29.73,
+"second": "인터지스",
+"second_ret": 10.49
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -1.89,
+"up5": 2,
+"lead": "형지엘리트",
+"lead_ret": 29.83,
+"second": "양지사",
+"second_ret": 16.19
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -2.04,
+"up5": 1,
+"lead": "오리엔트정공",
+"lead_ret": 29.84,
+"second": "에스엠국일",
+"second_ret": 0.0
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -2.04,
+"up5": 0,
+"lead": "깨끗한나라",
+"lead_ret": 2.56,
+"second": "한창제지",
+"second_ret": 2.08
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 9,
+"avg": -8.89,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": -4.94,
+"second": "TS인베스트먼트",
+"second_ret": -5.2
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -8.75,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -4.35,
+"second": "한울반도체",
+"second_ret": -5.2
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -8.57,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 0.39,
+"second": "POSCO홀딩스",
+"second_ret": -4.52
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": -8.32,
+"up5": 0,
+"lead": "아이텍",
+"lead_ret": -0.93,
+"second": "신진에스엠",
+"second_ret": -1.85
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -8.14,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -6.28,
+"second": "차바이오텍",
+"second_ret": -7.15
+}
+],
+"leaders": [
+{
+"name": "안랩",
+"code": "053800",
+"ret": 25.57,
+"value": 4065,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "에이텍",
+"code": "045660",
+"ret": 27.46,
+"value": 1956,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 29.85,
+"value": 1762,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "에이텍모빌리티",
+"code": "224110",
+"ret": 24.08,
+"value": 941,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 29.73,
+"value": 884,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

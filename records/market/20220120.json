@@ -1,0 +1,254 @@
+{
+"date": "20220120",
+"kospi": 0.72,
+"kosdaq": 2.66,
+"adv": 1656,
+"dec": 276,
+"flat": 126,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 153132,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "이스트소프트",
+"lead_ret": 14.81,
+"second": "네오위즈홀딩스",
+"second_ret": 13.08
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "디와이",
+"lead_ret": 23.0,
+"second": "네오위즈홀딩스",
+"second_ret": 13.08
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "우림피티에스",
+"lead_ret": 11.76,
+"second": "에브리봇",
+"second_ret": 10.23
+}
+],
+"themes": [
+{
+"name": "게임",
+"n": 28,
+"avg": 4.7,
+"up5": 11,
+"lead": "이스트소프트",
+"lead_ret": 14.81,
+"second": "네오위즈홀딩스",
+"second_ret": 13.08
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 4.66,
+"up5": 3,
+"lead": "디아이씨",
+"lead_ret": 7.58,
+"second": "나인테크",
+"second_ret": 6.7
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.65,
+"up5": 10,
+"lead": "네오위즈홀딩스",
+"lead_ret": 13.08,
+"second": "컴투스홀딩스",
+"second_ret": 11.24
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 4.33,
+"up5": 12,
+"lead": "이스트소프트",
+"lead_ret": 14.81,
+"second": "네오위즈홀딩스",
+"second_ret": 13.08
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 4.05,
+"up5": 3,
+"lead": "콘텐트리중앙",
+"lead_ret": 9.25,
+"second": "NEW",
+"second_ret": 6.72
+},
+{
+"name": "리튬",
+"n": 18,
+"avg": 4.04,
+"up5": 5,
+"lead": "미래나노텍",
+"lead_ret": 18.69,
+"second": "대보마그네틱",
+"second_ret": 7.7
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.0,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 18.69,
+"second": "한일화학",
+"second_ret": 16.67
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.0,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 18.69,
+"second": "한일화학",
+"second_ret": 16.67
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.98,
+"up5": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 11.24,
+"second": "다날",
+"second_ret": 8.64
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 3.75,
+"up5": 5,
+"lead": "기산텔레콤",
+"lead_ret": 21.19,
+"second": "지아이에스",
+"second_ret": 7.6
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 3.61,
+"up5": 6,
+"lead": "기산텔레콤",
+"lead_ret": 21.19,
+"second": "지아이에스",
+"second_ret": 7.6
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.53,
+"up5": 3,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 8.74,
+"second": "다날",
+"second_ret": 8.64
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 10,
+"avg": -1.55,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 2.27,
+"second": "제주은행",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.39,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 0.91,
+"second": "롯데손해보험",
+"second_ret": 0.64
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.29,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.53,
+"second": "SK가스",
+"second_ret": 1.29
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.29,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.53,
+"second": "SK가스",
+"second_ret": 1.29
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -1.03,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.53,
+"second": "남해화학",
+"second_ret": 1.27
+}
+],
+"leaders": [
+{
+"name": "디와이",
+"code": "013570",
+"ret": 23.0,
+"value": 1938,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 11.24,
+"value": 1541,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "모다이노칩",
+"code": "080420",
+"ret": 10.43,
+"value": 1230,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 18.69,
+"value": 1159,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "한일단조",
+"code": "024740",
+"ret": 19.75,
+"value": 785,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240822",
+"kospi": 0.24,
+"kosdaq": -0.82,
+"adv": 557,
+"dec": 1600,
+"flat": 121,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 148432,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "LK삼양",
+"lead_ret": 24.07,
+"second": "에이치브이엠",
+"second_ret": 16.41
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "지노믹트리",
+"lead_ret": 14.66,
+"second": "진시스템",
+"second_ret": 11.61
+},
+{
+"name": "유전자 치료제/분석",
+"n": 3,
+"lead": "지노믹트리",
+"lead_ret": 14.66,
+"second": "진시스템",
+"second_ret": 11.61
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.17,
+"up5": 1,
+"lead": "알비더블유",
+"lead_ret": 15.57,
+"second": "YG PLUS",
+"second_ret": 4.84
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 2.1,
+"up5": 1,
+"lead": "예스24",
+"lead_ret": 29.87,
+"second": "카카오",
+"second_ret": 2.6
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.02,
+"up5": 1,
+"lead": "우양피앤엘",
+"lead_ret": 29.84,
+"second": "SK이노베이션",
+"second_ret": 2.31
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 1.95,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 6.98,
+"second": "흥아해운",
+"second_ret": 2.88
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.55,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 11.47,
+"second": "포스코인터내셔널",
+"second_ret": 3.29
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 1.17,
+"up5": 2,
+"lead": "카카오게임즈",
+"lead_ret": 6.73,
+"second": "NAVER",
+"second_ret": 5.31
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.17,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 10.14,
+"second": "LG화학",
+"second_ret": 6.04
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.16,
+"up5": 1,
+"lead": "CJ CGV",
+"lead_ret": 5.99,
+"second": "포바이포",
+"second_ret": 3.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 0.96,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 2.8,
+"second": "삼성SDI",
+"second_ret": 2.13
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 0.95,
+"up5": 2,
+"lead": "카카오게임즈",
+"lead_ret": 6.73,
+"second": "NAVER",
+"second_ret": 5.31
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 0.86,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 5.03,
+"second": "코웨이",
+"second_ret": 2.23
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 0.81,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 11.47,
+"second": "포스코인터내셔널",
+"second_ret": 3.29
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.23,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.74,
+"second": "녹십자",
+"second_ret": -1.71
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -3.66,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": -0.64,
+"second": "비엠티",
+"second_ret": -1.84
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -3.56,
+"up5": 0,
+"lead": "엔브이에이치코리아",
+"lead_ret": -0.38,
+"second": "신성이엔지",
+"second_ret": -1.29
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -3.42,
+"up5": 1,
+"lead": "일동제약",
+"lead_ret": 10.12,
+"second": "옵티팜",
+"second_ret": 0.17
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.14,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.69,
+"second": "한화오션",
+"second_ret": -2.86
+}
+],
+"leaders": [
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 11.47,
+"value": 2902,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "넥스트바이오메디컬",
+"code": "389650",
+"ret": 10.97,
+"value": 2471,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "아이빔테크놀로지",
+"code": "460470",
+"ret": 12.8,
+"value": 860,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "LK삼양",
+"code": "225190",
+"ret": 24.07,
+"value": 790,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "예스24",
+"code": "053280",
+"ret": 29.87,
+"value": 592,
+"theme": "인터넷은행",
+"reason": "테마: 인터넷은행"
+}
+],
+"backfilled": true
+}

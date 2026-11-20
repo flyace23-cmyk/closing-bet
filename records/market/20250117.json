@@ -1,0 +1,254 @@
+{
+"date": "20250117",
+"kospi": -0.16,
+"kosdaq": 0.06,
+"adv": 991,
+"dec": 1176,
+"flat": 154,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 165118,
+"hot": [
+{
+"name": "유리 기판",
+"n": 4,
+"lead": "씨앤지하이테크",
+"lead_ret": 17.0,
+"second": "필옵틱스",
+"second_ret": 16.73
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "한전산업",
+"lead_ret": 16.44,
+"second": "LS ELECTRIC",
+"second_ret": 15.05
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "이삭엔지니어링",
+"lead_ret": 17.93,
+"second": "LS ELECTRIC",
+"second_ret": 15.05
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 6.47,
+"up5": 4,
+"lead": "LS에코에너지",
+"lead_ret": 29.92,
+"second": "LS마린솔루션",
+"second_ret": 7.81
+},
+{
+"name": "유리 기판",
+"n": 20,
+"avg": 5.56,
+"up5": 10,
+"lead": "씨앤지하이테크",
+"lead_ret": 17.0,
+"second": "필옵틱스",
+"second_ret": 16.73
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 4.61,
+"up5": 3,
+"lead": "원티드랩",
+"lead_ret": 14.03,
+"second": "오픈놀",
+"second_ret": 8.4
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 3.81,
+"up5": 9,
+"lead": "LS에코에너지",
+"lead_ret": 29.92,
+"second": "한전산업",
+"second_ret": 16.44
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 3.05,
+"up5": 11,
+"lead": "한전산업",
+"lead_ret": 16.44,
+"second": "LS ELECTRIC",
+"second_ret": 15.05
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 3.01,
+"up5": 7,
+"lead": "LS에코에너지",
+"lead_ret": 29.92,
+"second": "LS머트리얼즈",
+"second_ret": 19.73
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.01,
+"up5": 3,
+"lead": "한국선재",
+"lead_ret": 9.18,
+"second": "LS마린솔루션",
+"second_ret": 7.81
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.84,
+"up5": 9,
+"lead": "아이엠티",
+"lead_ret": 15.56,
+"second": "와이씨켐",
+"second_ret": 11.92
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.64,
+"up5": 3,
+"lead": "넥스틸",
+"lead_ret": 9.01,
+"second": "세아제강",
+"second_ret": 8.3
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.61,
+"up5": 4,
+"lead": "꿈비",
+"lead_ret": 10.8,
+"second": "아가방컴퍼니",
+"second_ret": 6.62
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.31,
+"up5": 4,
+"lead": "한전산업",
+"lead_ret": 16.44,
+"second": "LS ELECTRIC",
+"second_ret": 15.05
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.08,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 9.18,
+"second": "케이에스피",
+"second_ret": 3.37
+}
+],
+"themes_worst": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -2.88,
+"up5": 1,
+"lead": "쏠리드",
+"lead_ret": 14.52,
+"second": "KT",
+"second_ret": 2.45
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.7,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 2.12,
+"second": "파미셀",
+"second_ret": -0.82
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.36,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 3.37,
+"second": "지씨셀",
+"second_ret": -0.21
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.27,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 1.06,
+"second": "옴니시스템",
+"second_ret": 0.5
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -2.22,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": 0.31,
+"second": "크라우드웍스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 15.05,
+"value": 6152,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 16.73,
+"value": 5214,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 29.92,
+"value": 3754,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "쏠리드",
+"code": "050890",
+"ret": 14.52,
+"value": 1680,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "LS머트리얼즈",
+"code": "417200",
+"ret": 19.73,
+"value": 1477,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+}
+],
+"backfilled": true
+}

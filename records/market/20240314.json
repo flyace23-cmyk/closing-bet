@@ -1,0 +1,254 @@
+{
+"date": "20240314",
+"kospi": 0.94,
+"kosdaq": -0.27,
+"adv": 977,
+"dec": 1122,
+"flat": 146,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 232728,
+"hot": [
+{
+"name": "조선기자재",
+"n": 6,
+"lead": "현대힘스",
+"lead_ret": 23.39,
+"second": "KS인더스트리",
+"second_ret": 14.18
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "태광",
+"lead_ret": 10.46,
+"second": "대한전선",
+"second_ret": 10.32
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "케이엔알시스템",
+"lead_ret": 16.81,
+"second": "디아이씨",
+"second_ret": 14.58
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 8.14,
+"up5": 3,
+"lead": "삼성중공업",
+"lead_ret": 13.19,
+"second": "한화오션",
+"second_ret": 11.34
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 5.29,
+"up5": 3,
+"lead": "DB손해보험",
+"lead_ret": 9.6,
+"second": "한화손해보험",
+"second_ret": 7.38
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 5.14,
+"up5": 4,
+"lead": "태광",
+"lead_ret": 10.46,
+"second": "성광벤드",
+"second_ret": 9.88
+},
+{
+"name": "조선기자재",
+"n": 33,
+"avg": 4.95,
+"up5": 12,
+"lead": "현대힘스",
+"lead_ret": 23.39,
+"second": "KS인더스트리",
+"second_ret": 14.18
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 4.21,
+"up5": 9,
+"lead": "삼성중공업",
+"lead_ret": 13.19,
+"second": "한화엔진",
+"second_ret": 9.12
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.91,
+"up5": 1,
+"lead": "선익시스템",
+"lead_ret": 25.31,
+"second": "유니테스트",
+"second_ret": 3.36
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 3.39,
+"up5": 3,
+"lead": "케이엔알시스템",
+"lead_ret": 16.81,
+"second": "비에이치아이",
+"second_ret": 6.42
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.12,
+"up5": 2,
+"lead": "엑스플러스",
+"lead_ret": 15.93,
+"second": "NHN KCP",
+"second_ret": 8.15
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.89,
+"up5": 1,
+"lead": "대한전선",
+"lead_ret": 10.32,
+"second": "대원전선",
+"second_ret": 3.74
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.8,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 20.53,
+"second": "유진기업",
+"second_ret": 2.01
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.79,
+"up5": 3,
+"lead": "신한지주",
+"lead_ret": 8.19,
+"second": "하나금융지주",
+"second_ret": 6.25
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.68,
+"up5": 2,
+"lead": "GS",
+"lead_ret": 6.19,
+"second": "S-Oil",
+"second_ret": 5.56
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.32,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.27,
+"second": "네패스아크",
+"second_ret": -2.7
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -2.73,
+"up5": 1,
+"lead": "삼성전기",
+"lead_ret": 5.55,
+"second": "리노공업",
+"second_ret": 3.61
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.5,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.27,
+"second": "LB인베스트먼트",
+"second_ret": 0.0
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.49,
+"up5": 0,
+"lead": "네오셈",
+"lead_ret": 2.67,
+"second": "삼성전자",
+"second_ret": 0.27
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.45,
+"up5": 0,
+"lead": "켐트로스",
+"lead_ret": 3.62,
+"second": "유니테스트",
+"second_ret": 3.36
+}
+],
+"leaders": [
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 13.19,
+"value": 5367,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "케이엔알시스템",
+"code": "199430",
+"ret": 16.81,
+"value": 3558,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "현대힘스",
+"code": "460930",
+"ret": 23.39,
+"value": 2765,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "선익시스템",
+"code": "171090",
+"ret": 25.31,
+"value": 2622,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 10.32,
+"value": 1750,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

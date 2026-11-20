@@ -1,0 +1,246 @@
+{
+"date": "20230510",
+"kospi": -0.54,
+"kosdaq": -0.73,
+"adv": 885,
+"dec": 1127,
+"flat": 140,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 155522,
+"hot": [
+{
+"name": "화장품",
+"n": 9,
+"lead": "코스메카코리아",
+"lead_ret": 29.99,
+"second": "잉글우드랩",
+"second_ret": 29.81
+},
+{
+"name": "자동차부품",
+"n": 8,
+"lead": "화천기계",
+"lead_ret": 30.0,
+"second": "네오오토",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 8.15,
+"up5": 4,
+"lead": "크리스탈신소재",
+"lead_ret": 29.94,
+"second": "오가닉티코스메틱",
+"second_ret": 29.76
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 3.53,
+"up5": 3,
+"lead": "화천기계",
+"lead_ret": 30.0,
+"second": "스맥",
+"second_ret": 5.74
+},
+{
+"name": "화장품",
+"n": 82,
+"avg": 3.48,
+"up5": 19,
+"lead": "코스메카코리아",
+"lead_ret": 29.99,
+"second": "잉글우드랩",
+"second_ret": 29.81
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.79,
+"up5": 2,
+"lead": "한화손해보험",
+"lead_ret": 6.42,
+"second": "흥국화재",
+"second_ret": 6.32
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.59,
+"up5": 2,
+"lead": "크리스탈신소재",
+"lead_ret": 29.94,
+"second": "디와이덕양",
+"second_ret": 6.5
+},
+{
+"name": "자동차부품",
+"n": 136,
+"avg": 2.32,
+"up5": 17,
+"lead": "화천기계",
+"lead_ret": 30.0,
+"second": "네오오토",
+"second_ret": 29.93
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.14,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 11.9,
+"second": "글로벌텍스프리",
+"second_ret": 5.27
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.08,
+"up5": 1,
+"lead": "대성에너지",
+"lead_ret": 9.13,
+"second": "대성홀딩스",
+"second_ret": 4.88
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.03,
+"up5": 2,
+"lead": "레이",
+"lead_ret": 6.56,
+"second": "덴티움",
+"second_ret": 6.31
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 1.91,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 7.62,
+"second": "디아이씨",
+"second_ret": 4.6
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.9,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.97,
+"second": "토비스",
+"second_ret": 3.68
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.9,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.97,
+"second": "토비스",
+"second_ret": 3.68
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -2.89,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -0.43,
+"second": "삼성전자",
+"second_ret": -1.07
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -2.35,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": -0.78,
+"second": "지아이에스",
+"second_ret": -0.89
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.02,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 1.54,
+"second": "세방전지",
+"second_ret": 1.11
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": -1.92,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 0.53,
+"second": "SFA넥셀",
+"second_ret": -0.08
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -1.89,
+"up5": 0,
+"lead": "칩스앤미디어",
+"lead_ret": 1.45,
+"second": "태성",
+"second_ret": 0.9
+}
+],
+"leaders": [
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 20.15,
+"value": 5834,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 17.9,
+"value": 3720,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "아진산업",
+"code": "013310",
+"ret": 17.84,
+"value": 2254,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "크리스탈신소재",
+"code": "900250",
+"ret": 29.94,
+"value": 1490,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "한주라이트메탈",
+"code": "198940",
+"ret": 14.7,
+"value": 988,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

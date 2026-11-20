@@ -1,0 +1,254 @@
+{
+"date": "20240110",
+"kospi": -0.75,
+"kosdaq": -1.04,
+"adv": 726,
+"dec": 1358,
+"flat": 144,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 188303,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "에브리봇",
+"lead_ret": 17.73,
+"second": "롯데이노베이트",
+"second_ret": 16.61
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "프로이천",
+"lead_ret": 12.35,
+"second": "기가레인",
+"second_ret": 11.38
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "한빛레이저",
+"lead_ret": 29.97,
+"second": "에코프로머티",
+"second_ret": 8.84
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 7.27,
+"up5": 2,
+"lead": "이월드",
+"lead_ret": 29.85,
+"second": "한국전자인증",
+"second_ret": 11.91
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 6.31,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 29.85,
+"second": "현대건설",
+"second_ret": 1.46
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.96,
+"up5": 2,
+"lead": "태림포장",
+"lead_ret": 29.96,
+"second": "대영포장",
+"second_ret": 8.22
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.85,
+"up5": 2,
+"lead": "NHN KCP",
+"lead_ret": 15.41,
+"second": "KG이니시스",
+"second_ret": 6.32
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 16,
+"avg": 2.77,
+"up5": 2,
+"lead": "에코심플렉스",
+"lead_ret": 29.88,
+"second": "그린케미칼",
+"second_ret": 17.64
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.63,
+"up5": 2,
+"lead": "깨끗한나라",
+"lead_ret": 14.05,
+"second": "신풍",
+"second_ret": 8.21
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 2.5,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 29.98,
+"second": "헥토이노베이션",
+"second_ret": 2.29
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.39,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 4.76,
+"second": "IPARK현대산업개발",
+"second_ret": 3.41
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.3,
+"up5": 2,
+"lead": "세종텔레콤",
+"lead_ret": 29.98,
+"second": "휴네시온",
+"second_ret": 7.29
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 34,
+"avg": 2.0,
+"up5": 6,
+"lead": "이랜시스",
+"lead_ret": 29.8,
+"second": "롯데이노베이트",
+"second_ret": 16.61
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.88,
+"up5": 4,
+"lead": "깨끗한나라",
+"lead_ret": 14.05,
+"second": "삼성출판사",
+"second_ret": 9.34
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 1.7,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 5.31,
+"second": "한국팩키지",
+"second_ret": 4.78
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -4.26,
+"up5": 0,
+"lead": "LS ELECTRIC",
+"lead_ret": 0.7,
+"second": "인지디스플레",
+"second_ret": -1.13
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.12,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 1.69,
+"second": "카카오",
+"second_ret": 0.85
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -3.02,
+"up5": 0,
+"lead": "퀄리타스반도체",
+"lead_ret": 3.01,
+"second": "대교",
+"second_ret": 0.54
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.62,
+"up5": 0,
+"lead": "폴라리스오피스",
+"lead_ret": 2.89,
+"second": "위메이드",
+"second_ret": 1.65
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": -2.42,
+"up5": 0,
+"lead": "DB하이텍",
+"lead_ret": 1.73,
+"second": "테스",
+"second_ret": 0.49
+}
+],
+"leaders": [
+{
+"name": "한컴",
+"code": "030520",
+"ret": 16.47,
+"value": 7391,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 29.97,
+"value": 5811,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "현대비앤지스틸",
+"code": "004560",
+"ret": 11.82,
+"value": 1502,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "롯데이노베이트",
+"code": "286940",
+"ret": 16.61,
+"value": 1417,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "에코심플렉스",
+"code": "038870",
+"ret": 29.88,
+"value": 1325,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+}
+],
+"backfilled": true
+}

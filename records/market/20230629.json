@@ -1,0 +1,254 @@
+{
+"date": "20230629",
+"kospi": -0.55,
+"kosdaq": -0.6,
+"adv": 476,
+"dec": 1602,
+"flat": 89,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 170723,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "피에스케이홀딩스",
+"lead_ret": 16.99,
+"second": "인텍플러스",
+"second_ret": 14.17
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 3,
+"lead": "인텍플러스",
+"lead_ret": 14.17,
+"second": "이수페타시스",
+"second_ret": 13.19
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "파이버프로",
+"lead_ret": 29.94,
+"second": "이수페타시스",
+"second_ret": 13.19
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.19,
+"up5": 4,
+"lead": "인텍플러스",
+"lead_ret": 14.17,
+"second": "이수페타시스",
+"second_ret": 13.19
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.31,
+"up5": 2,
+"lead": "펨트론",
+"lead_ret": 6.49,
+"second": "티엘비",
+"second_ret": 5.74
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 1.87,
+"up5": 3,
+"lead": "파이버프로",
+"lead_ret": 29.94,
+"second": "기산텔레콤",
+"second_ret": 21.93
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.64,
+"up5": 2,
+"lead": "파이버프로",
+"lead_ret": 29.94,
+"second": "빛과전자",
+"second_ret": 5.81
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.63,
+"up5": 2,
+"lead": "주성엔지니어링",
+"lead_ret": 6.37,
+"second": "프로텍",
+"second_ret": 5.88
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 1.51,
+"up5": 4,
+"lead": "피에스케이홀딩스",
+"lead_ret": 16.99,
+"second": "펨트론",
+"second_ret": 6.49
+},
+{
+"name": "반도체 장비",
+"n": 85,
+"avg": 1.24,
+"up5": 10,
+"lead": "피에스케이홀딩스",
+"lead_ret": 16.99,
+"second": "인텍플러스",
+"second_ret": 14.17
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 1.22,
+"up5": 4,
+"lead": "라온피플",
+"lead_ret": 15.78,
+"second": "포톤",
+"second_ret": 15.25
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 28,
+"avg": 1.18,
+"up5": 3,
+"lead": "파이버프로",
+"lead_ret": 29.94,
+"second": "이수페타시스",
+"second_ret": 13.19
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.1,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 9.52,
+"second": "케이엔솔",
+"second_ret": 4.1
+},
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": 0.84,
+"up5": 3,
+"lead": "기산텔레콤",
+"lead_ret": 21.93,
+"second": "켄코아에어로스페이스",
+"second_ret": 9.41
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 0.8,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 2.61,
+"second": "SK하이닉스",
+"second_ret": 1.66
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -6.37,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -2.46,
+"second": "풀무원",
+"second_ret": -4.01
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -5.41,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": -0.3,
+"second": "금호석유화학",
+"second_ret": -2.01
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -3.57,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": -0.61,
+"second": "에스넷",
+"second_ret": -1.52
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -3.4,
+"up5": 0,
+"lead": "디지털대성",
+"lead_ret": 0.0,
+"second": "멀티캠퍼스",
+"second_ret": -0.29
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -3.18,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 0.59,
+"second": "DSC인베스트먼트",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 13.19,
+"value": 7607,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "아이티센피엔에스",
+"code": "232830",
+"ret": 20.87,
+"value": 6265,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "유라테크",
+"code": "048430",
+"ret": 10.51,
+"value": 2030,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "덕신이피씨",
+"code": "090410",
+"ret": 14.63,
+"value": 1443,
+"theme": "모듈러주택",
+"reason": "테마: 모듈러주택"
+},
+{
+"name": "휴마시스",
+"code": "205470",
+"ret": 20.3,
+"value": 1432,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20200512",
+"kospi": -0.68,
+"kosdaq": -0.12,
+"adv": 494,
+"dec": 1286,
+"flat": 131,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 190011,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "네오위즈",
+"lead_ret": 11.4,
+"second": "웹젠",
+"second_ret": 11.37
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "수젠텍",
+"lead_ret": 24.32,
+"second": "랩지노믹스",
+"second_ret": 13.19
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 3,
+"lead": "수젠텍",
+"lead_ret": 24.32,
+"second": "랩지노믹스",
+"second_ret": 13.19
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.57,
+"up5": 2,
+"lead": "풀무원",
+"lead_ret": 11.79,
+"second": "미래생명자원",
+"second_ret": 6.12
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 4.47,
+"up5": 3,
+"lead": "수젠텍",
+"lead_ret": 24.32,
+"second": "광동제약",
+"second_ret": 8.98
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 2.97,
+"up5": 8,
+"lead": "네오위즈",
+"lead_ret": 11.4,
+"second": "웹젠",
+"second_ret": 11.37
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 2.96,
+"up5": 8,
+"lead": "수젠텍",
+"lead_ret": 24.32,
+"second": "지구홀딩스",
+"second_ret": 14.5
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 2.76,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 13.19,
+"second": "메디아나",
+"second_ret": 5.3
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 30,
+"avg": 2.61,
+"up5": 8,
+"lead": "네오위즈",
+"lead_ret": 11.4,
+"second": "웹젠",
+"second_ret": 11.37
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 2.58,
+"up5": 6,
+"lead": "라온시큐어",
+"lead_ret": 8.25,
+"second": "아이티센글로벌",
+"second_ret": 6.57
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 2.22,
+"up5": 2,
+"lead": "NICE평가정보",
+"lead_ret": 6.79,
+"second": "헥토이노베이션",
+"second_ret": 6.21
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 2.13,
+"up5": 4,
+"lead": "랩지노믹스",
+"lead_ret": 13.19,
+"second": "HLB파나진",
+"second_ret": 10.07
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.11,
+"up5": 2,
+"lead": "DGI",
+"lead_ret": 16.52,
+"second": "아이디스",
+"second_ret": 5.38
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 2.04,
+"up5": 5,
+"lead": "수젠텍",
+"lead_ret": 24.32,
+"second": "랩지노믹스",
+"second_ret": 13.19
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.94,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 12.09,
+"second": "유니온머티리얼",
+"second_ret": 5.24
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.36,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -2.18,
+"second": "강원랜드",
+"second_ret": -2.86
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.36,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -2.18,
+"second": "강원랜드",
+"second_ret": -2.86
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -3.3,
+"up5": 0,
+"lead": "유비온",
+"lead_ret": 2.26,
+"second": "비트컴퓨터",
+"second_ret": 0.5
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -3.2,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.0,
+"second": "사람인",
+"second_ret": -0.56
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -3.19,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": -1.08,
+"second": "진에어",
+"second_ret": -1.19
+}
+],
+"leaders": [
+{
+"name": "부광약품",
+"code": "003000",
+"ret": 13.35,
+"value": 4830,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 24.32,
+"value": 3594,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 13.19,
+"value": 2602,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 12.09,
+"value": 1555,
+"theme": "요소수",
+"reason": "테마: 요소수"
+},
+{
+"name": "플레이디",
+"code": "237820",
+"ret": 29.53,
+"value": 1205,
+"theme": "광고",
+"reason": "테마: 광고"
+}
+],
+"backfilled": true
+}

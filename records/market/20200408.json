@@ -1,0 +1,254 @@
+{
+"date": "20200408",
+"kospi": -0.9,
+"kosdaq": 0.08,
+"adv": 1050,
+"dec": 715,
+"flat": 145,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 205142,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "에스코넥",
+"lead_ret": 29.78,
+"second": "나인테크",
+"second_ret": 18.93
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "국제약품",
+"lead_ret": 29.89,
+"second": "오가닉티코스메틱",
+"second_ret": 29.82
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 5,
+"lead": "비트컴퓨터",
+"lead_ret": 29.88,
+"second": "인성정보",
+"second_ret": 23.1
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 9.78,
+"up5": 6,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.82,
+"second": "글로벌에스엠",
+"second_ret": 19.31
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 6.88,
+"up5": 9,
+"lead": "비트컴퓨터",
+"lead_ret": 29.88,
+"second": "인성정보",
+"second_ret": 23.1
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 6.63,
+"up5": 3,
+"lead": "인성정보",
+"lead_ret": 23.1,
+"second": "광무",
+"second_ret": 9.09
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 5.65,
+"up5": 4,
+"lead": "대림제지",
+"lead_ret": 14.38,
+"second": "리더스코스메틱",
+"second_ret": 9.49
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 5.61,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 29.89,
+"second": "팜젠사이언스",
+"second_ret": 15.96
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 5.26,
+"up5": 4,
+"lead": "일신바이오",
+"lead_ret": 29.89,
+"second": "HLB테라퓨틱스",
+"second_ret": 10.37
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 4.85,
+"up5": 3,
+"lead": "페이퍼코리아",
+"lead_ret": 29.95,
+"second": "깨끗한나라",
+"second_ret": 20.8
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 4.61,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 18.93,
+"second": "디아이씨",
+"second_ret": 3.05
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 4.54,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 29.89,
+"second": "강스템바이오텍",
+"second_ret": 1.47
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 4.49,
+"up5": 1,
+"lead": "두산퓨얼셀",
+"lead_ret": 18.2,
+"second": "코세스",
+"second_ret": 4.62
+},
+{
+"name": "2차전지(장비)",
+"n": 29,
+"avg": 4.21,
+"up5": 8,
+"lead": "나인테크",
+"lead_ret": 18.93,
+"second": "디에스케이",
+"second_ret": 15.2
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 3.97,
+"up5": 5,
+"lead": "인성정보",
+"lead_ret": 23.1,
+"second": "이지케어텍",
+"second_ret": 14.79
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.45,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": 2.18,
+"second": "케이씨에스",
+"second_ret": -0.61
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": -2.22,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": 0.27,
+"second": "KG파이낸셜",
+"second_ret": -0.36
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.67,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 0.0,
+"second": "현대위아",
+"second_ret": -0.33
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": -1.59,
+"up5": 1,
+"lead": "한컴위드",
+"lead_ret": 5.1,
+"second": "아톤",
+"second_ret": 3.22
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": -1.56,
+"up5": 0,
+"lead": "옵티팜",
+"lead_ret": 4.6,
+"second": "신풍제약",
+"second_ret": 2.25
+}
+],
+"leaders": [
+{
+"name": "바이오톡스텍",
+"code": "086040",
+"ret": 20.05,
+"value": 1887,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 29.89,
+"value": 1091,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "솔루스첨단소재",
+"code": "336370",
+"ret": 15.12,
+"value": 1051,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "깨끗한나라",
+"code": "004540",
+"ret": 20.8,
+"value": 961,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "비트컴퓨터",
+"code": "032850",
+"ret": 29.88,
+"value": 735,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+}
+],
+"backfilled": true
+}

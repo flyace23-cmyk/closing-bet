@@ -1,0 +1,254 @@
+{
+"date": "20200904",
+"kospi": -1.15,
+"kosdaq": -0.93,
+"adv": 454,
+"dec": 1370,
+"flat": 111,
+"limit_up": 8,
+"limit_down": 1,
+"value_total": 430646,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 13,
+"lead": "유니슨",
+"lead_ret": 30.01,
+"second": "LS마린솔루션",
+"second_ret": 29.95
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 5,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.97,
+"second": "신성이엔지",
+"second_ret": 29.9
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "LS ELECTRIC",
+"lead_ret": 16.72,
+"second": "진성티이씨",
+"second_ret": 14.14
+}
+],
+"themes": [
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 9.95,
+"up5": 21,
+"lead": "유니슨",
+"lead_ret": 30.01,
+"second": "LS마린솔루션",
+"second_ret": 29.95
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 9.78,
+"up5": 5,
+"lead": "LS마린솔루션",
+"lead_ret": 29.95,
+"second": "LS",
+"second_ret": 18.32
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.6,
+"up5": 3,
+"lead": "LS마린솔루션",
+"lead_ret": 29.95,
+"second": "LS",
+"second_ret": 18.32
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 4.66,
+"up5": 3,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.97,
+"second": "유니테스트",
+"second_ret": 9.17
+},
+{
+"name": "전력설비",
+"n": 29,
+"avg": 4.18,
+"up5": 8,
+"lead": "LS마린솔루션",
+"lead_ret": 29.95,
+"second": "LS",
+"second_ret": 18.32
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 3.08,
+"up5": 5,
+"lead": "세진중공업",
+"lead_ret": 20.21,
+"second": "태웅",
+"second_ret": 18.94
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.83,
+"up5": 2,
+"lead": "TKG휴켐스",
+"lead_ret": 10.51,
+"second": "롯데정밀화학",
+"second_ret": 10.42
+},
+{
+"name": "태양광에너지",
+"n": 35,
+"avg": 2.68,
+"up5": 9,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.97,
+"second": "신성이엔지",
+"second_ret": 29.9
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 31,
+"avg": 2.47,
+"up5": 6,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.97,
+"second": "신성이엔지",
+"second_ret": 29.9
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 2.28,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 29.9,
+"second": "엔브이에이치코리아",
+"second_ret": -1.28
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": 2.16,
+"up5": 2,
+"lead": "신테카바이오",
+"lead_ret": 29.98,
+"second": "제이에스링크",
+"second_ret": 7.03
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.0,
+"up5": 1,
+"lead": "대한약품",
+"lead_ret": 13.09,
+"second": "서울제약",
+"second_ret": 4.03
+}
+],
+"themes_worst": [
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": -5.58,
+"up5": 1,
+"lead": "유니퀘스트",
+"lead_ret": 9.63,
+"second": "해성옵틱스",
+"second_ret": 2.78
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": -5.13,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 3.74,
+"second": "KG이니시스",
+"second_ret": 2.68
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": -4.71,
+"up5": 0,
+"lead": "케이씨에스",
+"lead_ret": 1.47,
+"second": "쏠리드",
+"second_ret": 1.13
+},
+{
+"name": "핀테크(FinTech)",
+"n": 30,
+"avg": -3.72,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 3.74,
+"second": "KG이니시스",
+"second_ret": 2.68
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": -3.16,
+"up5": 1,
+"lead": "안랩",
+"lead_ret": 5.54,
+"second": "파수AI",
+"second_ret": 2.69
+}
+],
+"leaders": [
+{
+"name": "영진약품",
+"code": "003520",
+"ret": 11.61,
+"value": 14937,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 12.56,
+"value": 5276,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "동국S&C",
+"code": "100130",
+"ret": 24.66,
+"value": 5246,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "유니슨",
+"code": "018000",
+"ret": 30.01,
+"value": 3953,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "신테카바이오",
+"code": "226330",
+"ret": 29.98,
+"value": 3709,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+}
+],
+"backfilled": true
+}

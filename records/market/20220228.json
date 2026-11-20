@@ -1,0 +1,254 @@
+{
+"date": "20220228",
+"kospi": 0.84,
+"kosdaq": 0.93,
+"adv": 1346,
+"dec": 539,
+"flat": 183,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 185482,
+"hot": [
+{
+"name": "원자력발전",
+"n": 9,
+"lead": "보성파워텍",
+"lead_ret": 29.81,
+"second": "한신기계",
+"second_ret": 19.02
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "우리기술",
+"lead_ret": 13.1,
+"second": "STX엔진",
+"second_ret": 11.67
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "신풍제약",
+"lead_ret": 19.45,
+"second": "JW중외제약",
+"second_ret": 11.28
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 5.25,
+"up5": 3,
+"lead": "우진",
+"lead_ret": 14.64,
+"second": "우리기술",
+"second_ret": 13.1
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 5.01,
+"up5": 12,
+"lead": "보성파워텍",
+"lead_ret": 29.81,
+"second": "한신기계",
+"second_ret": 19.02
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.79,
+"up5": 2,
+"lead": "일진파워",
+"lead_ret": 17.75,
+"second": "두산에너빌리티",
+"second_ret": 10.05
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.92,
+"up5": 1,
+"lead": "JW중외제약",
+"lead_ret": 11.28,
+"second": "강스템바이오텍",
+"second_ret": 3.98
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.63,
+"up5": 5,
+"lead": "두산에너빌리티",
+"lead_ret": 10.05,
+"second": "한국항공우주",
+"second_ret": 8.01
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 3.63,
+"up5": 6,
+"lead": "보성파워텍",
+"lead_ret": 29.81,
+"second": "서전기전",
+"second_ret": 16.78
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 2.94,
+"up5": 1,
+"lead": "파세코",
+"lead_ret": 13.99,
+"second": "코웨이",
+"second_ret": 3.59
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.89,
+"up5": 1,
+"lead": "한국전력",
+"lead_ret": 6.42,
+"second": "HD현대에너지솔루션",
+"second_ret": 4.83
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.88,
+"up5": 5,
+"lead": "우리기술",
+"lead_ret": 13.1,
+"second": "두산에너빌리티",
+"second_ret": 10.05
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.87,
+"up5": 3,
+"lead": "두산에너빌리티",
+"lead_ret": 10.05,
+"second": "한국가스공사",
+"second_ret": 7.6
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 2.85,
+"up5": 8,
+"lead": "한국항공우주",
+"lead_ret": 8.01,
+"second": "켄코아에어로스페이스",
+"second_ret": 7.98
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.81,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 4.67,
+"second": "옴니시스템",
+"second_ret": 4.0
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.98,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 2.13,
+"second": "크리스탈신소재",
+"second_ret": 0.85
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.63,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 1.56,
+"second": "SK이노베이션",
+"second_ret": -0.25
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.63,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 1.56,
+"second": "SK이노베이션",
+"second_ret": -0.25
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.26,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 1.56,
+"second": "한국쉘석유",
+"second_ret": 0.2
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -1.24,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 1.56,
+"second": "HD현대",
+"second_ret": 0.78
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.05,
+"value": 5959,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 19.45,
+"value": 5599,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 29.81,
+"value": 3009,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "일진파워",
+"code": "094820",
+"ret": 17.75,
+"value": 2215,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 19.02,
+"value": 1587,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

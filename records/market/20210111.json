@@ -1,0 +1,246 @@
+{
+"date": "20210111",
+"kospi": -0.12,
+"kosdaq": -1.13,
+"adv": 346,
+"dec": 1539,
+"flat": 85,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 585823,
+"hot": [
+{
+"name": "자율주행차",
+"n": 5,
+"lead": "텔레칩스",
+"lead_ret": 21.58,
+"second": "세코닉스",
+"second_ret": 14.95
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "유니테크노",
+"lead_ret": 29.71,
+"second": "삼성공조",
+"second_ret": 29.61
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 3.75,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 11.43,
+"second": "이월드",
+"second_ret": 6.98
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 3.52,
+"up5": 3,
+"lead": "현대건설",
+"lead_ret": 7.56,
+"second": "한국종합기술",
+"second_ret": 7.11
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 3.5,
+"up5": 5,
+"lead": "텔레칩스",
+"lead_ret": 21.58,
+"second": "유니퀘스트",
+"second_ret": 11.76
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 3.42,
+"up5": 5,
+"lead": "현대차증권",
+"lead_ret": 15.14,
+"second": "한화투자증권",
+"second_ret": 11.43
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 2.1,
+"up5": 2,
+"lead": "세코닉스",
+"lead_ret": 14.95,
+"second": "엠씨넥스",
+"second_ret": 14.38
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 1.44,
+"up5": 9,
+"lead": "텔레칩스",
+"lead_ret": 21.58,
+"second": "세코닉스",
+"second_ret": 14.95
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 1.41,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 10.97,
+"second": "삼화콘덴서",
+"second_ret": 4.46
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 1.18,
+"up5": 6,
+"lead": "텔레칩스",
+"lead_ret": 21.58,
+"second": "윈팩",
+"second_ret": 9.1
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 1.1,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.56,
+"second": "GS건설",
+"second_ret": 2.87
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 1.05,
+"up5": 2,
+"lead": "텔레칩스",
+"lead_ret": 21.58,
+"second": "세코닉스",
+"second_ret": 14.95
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 0.87,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 8.74,
+"second": "HL만도",
+"second_ret": 3.1
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 0.79,
+"up5": 2,
+"lead": "대림제지",
+"lead_ret": 9.09,
+"second": "삼보판지",
+"second_ret": 6.81
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -5.28,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "위더스제약",
+"second_ret": -2.26
+},
+{
+"name": "의료AI",
+"n": 12,
+"avg": -5.04,
+"up5": 0,
+"lead": "이지케어텍",
+"lead_ret": -1.59,
+"second": "제이엘케이",
+"second_ret": -2.08
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -4.88,
+"up5": 0,
+"lead": "애드바이오텍",
+"lead_ret": 0.78,
+"second": "한탑",
+"second_ret": -0.35
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 61,
+"avg": -4.87,
+"up5": 1,
+"lead": "케어젠",
+"lead_ret": 5.37,
+"second": "바디텍메드",
+"second_ret": 2.63
+},
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": -4.77,
+"up5": 0,
+"lead": "바디텍메드",
+"lead_ret": 2.63,
+"second": "진매트릭스",
+"second_ret": 2.22
+}
+],
+"leaders": [
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 14.83,
+"value": 7122,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "텔레칩스",
+"code": "054450",
+"ret": 21.58,
+"value": 5754,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 10.32,
+"value": 5228,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "보령",
+"code": "003850",
+"ret": 29.97,
+"value": 3261,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "엠씨넥스",
+"code": "097520",
+"ret": 14.38,
+"value": 3058,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

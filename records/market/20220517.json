@@ -1,0 +1,254 @@
+{
+"date": "20220517",
+"kospi": 0.92,
+"kosdaq": 1.14,
+"adv": 1201,
+"dec": 672,
+"flat": 206,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 142472,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "후성",
+"lead_ret": 16.18,
+"second": "솔브레인",
+"second_ret": 12.87
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "세동",
+"lead_ret": 29.91,
+"second": "케이엔더블유",
+"second_ret": 15.59
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "HLB제약",
+"lead_ret": 12.36,
+"second": "한국비엔씨",
+"second_ret": 10.51
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 6.26,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 30.0,
+"second": "천일고속",
+"second_ret": 1.22
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.56,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 30.0,
+"second": "S-Oil",
+"second_ret": 3.2
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.56,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 30.0,
+"second": "S-Oil",
+"second_ret": 3.2
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 3.99,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 30.0,
+"second": "엘컴텍",
+"second_ret": 8.09
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.63,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 30.0,
+"second": "우양피앤엘",
+"second_ret": 4.95
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 3.37,
+"up5": 4,
+"lead": "후성",
+"lead_ret": 16.18,
+"second": "솔브레인",
+"second_ret": 12.87
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.32,
+"up5": 4,
+"lead": "대창단조",
+"lead_ret": 16.43,
+"second": "수산세보틱스",
+"second_ret": 8.93
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 3.0,
+"up5": 1,
+"lead": "토마토시스템",
+"lead_ret": 14.95,
+"second": "팬스타엔터프라이즈",
+"second_ret": 4.15
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.81,
+"up5": 2,
+"lead": "성우전자",
+"lead_ret": 5.61,
+"second": "유비벨록스",
+"second_ret": 5.12
+},
+{
+"name": "리튬",
+"n": 19,
+"avg": 2.73,
+"up5": 4,
+"lead": "후성",
+"lead_ret": 16.18,
+"second": "앱튼",
+"second_ret": 10.22
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.71,
+"up5": 3,
+"lead": "모트렉스",
+"lead_ret": 15.29,
+"second": "인포뱅크",
+"second_ret": 6.6
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.69,
+"up5": 3,
+"lead": "엘엠에스",
+"lead_ret": 17.12,
+"second": "엑사이엔씨",
+"second_ret": 8.27
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 9,
+"avg": -4.04,
+"up5": 0,
+"lead": "교촌에프앤비",
+"lead_ret": -1.01,
+"second": "푸드나무",
+"second_ret": -1.33
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -3.91,
+"up5": 1,
+"lead": "한탑",
+"lead_ret": 8.21,
+"second": "우진비앤지",
+"second_ret": 2.72
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.88,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.55,
+"second": "샘표식품",
+"second_ret": -2.29
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.82,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.52,
+"second": "HD한국조선해양",
+"second_ret": -0.11
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -2.46,
+"up5": 0,
+"lead": "하이트진로",
+"lead_ret": 3.07,
+"second": "SOOP",
+"second_ret": 2.53
+}
+],
+"leaders": [
+{
+"name": "후성",
+"code": "093370",
+"ret": 16.18,
+"value": 5062,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 15.06,
+"value": 3499,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 30.0,
+"value": 2176,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "대창단조",
+"code": "015230",
+"ret": 16.43,
+"value": 1496,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 11.5,
+"value": 1448,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

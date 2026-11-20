@@ -1,0 +1,246 @@
+{
+"date": "20200928",
+"kospi": 1.29,
+"kosdaq": 3.42,
+"adv": 1645,
+"dec": 189,
+"flat": 110,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 363593,
+"hot": [
+{
+"name": "자율주행차",
+"n": 4,
+"lead": "칩스앤미디어",
+"lead_ret": 29.84,
+"second": "텔레칩스",
+"second_ret": 29.65
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "광무",
+"lead_ret": 29.75,
+"second": "파워넷",
+"second_ret": 25.23
+}
+],
+"themes": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 11.34,
+"up5": 3,
+"lead": "아이티센씨티에스",
+"lead_ret": 29.79,
+"second": "광무",
+"second_ret": 29.75
+},
+{
+"name": "온디바이스 AI",
+"n": 15,
+"avg": 6.97,
+"up5": 7,
+"lead": "칩스앤미디어",
+"lead_ret": 29.84,
+"second": "텔레칩스",
+"second_ret": 29.65
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.76,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 15.25,
+"second": "지씨셀",
+"second_ret": 4.82
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 5.72,
+"up5": 5,
+"lead": "모트렉스",
+"lead_ret": 13.9,
+"second": "인포뱅크",
+"second_ret": 11.65
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 5.64,
+"up5": 4,
+"lead": "유니테스트",
+"lead_ret": 13.53,
+"second": "한화솔루션",
+"second_ret": 8.82
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 5.51,
+"up5": 4,
+"lead": "파워넷",
+"lead_ret": 25.23,
+"second": "브이티",
+"second_ret": 9.48
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": 5.45,
+"up5": 6,
+"lead": "신테카바이오",
+"lead_ret": 11.34,
+"second": "제이엘케이",
+"second_ret": 10.29
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 5.28,
+"up5": 5,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 11.98,
+"second": "JYP Ent.",
+"second_ret": 9.94
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 5.01,
+"up5": 9,
+"lead": "광무",
+"lead_ret": 29.75,
+"second": "현대오토에버",
+"second_ret": 10.23
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 4.91,
+"up5": 12,
+"lead": "칩스앤미디어",
+"lead_ret": 29.84,
+"second": "텔레칩스",
+"second_ret": 29.65
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 4.89,
+"up5": 2,
+"lead": "텔레칩스",
+"lead_ret": 29.65,
+"second": "이랜텍",
+"second_ret": 8.8
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.8,
+"up5": 1,
+"lead": "아이티센씨티에스",
+"lead_ret": 29.79,
+"second": "HC보광산업",
+"second_ret": 2.88
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.05,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 1.94,
+"second": "흥국화재",
+"second_ret": 0.75
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.12,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 2.32,
+"second": "삼성바이오로직스",
+"second_ret": 1.48
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 0.14,
+"up5": 0,
+"lead": "서한",
+"lead_ret": 3.98,
+"second": "도화엔지니어링",
+"second_ret": 3.11
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.68,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 2.19,
+"second": "극동유화",
+"second_ret": 1.77
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.75,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 3.59,
+"second": "대성산업",
+"second_ret": 2.86
+}
+],
+"leaders": [
+{
+"name": "모트렉스",
+"code": "118990",
+"ret": 13.9,
+"value": 4049,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "비보존 제약",
+"code": "082800",
+"ret": 20.96,
+"value": 3457,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 12.43,
+"value": 3439,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "텔레칩스",
+"code": "054450",
+"ret": 29.65,
+"value": 2799,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "파워넷",
+"code": "037030",
+"ret": 25.23,
+"value": 1904,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

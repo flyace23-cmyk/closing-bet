@@ -1,0 +1,254 @@
+{
+"date": "20250318",
+"kospi": 0.06,
+"kosdaq": 0.27,
+"adv": 1016,
+"dec": 1173,
+"flat": 153,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 183459,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "메타케어",
+"lead_ret": 29.93,
+"second": "티앤엘",
+"second_ret": 10.38
+},
+{
+"name": "의료AI",
+"n": 4,
+"lead": "온코크로스",
+"lead_ret": 18.67,
+"second": "신테카바이오",
+"second_ret": 9.91
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "제일약품",
+"lead_ret": 30.0,
+"second": "알리코제약",
+"second_ret": 22.88
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 6.13,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 30.0,
+"second": "유한양행",
+"second_ret": 0.64
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 5.16,
+"up5": 5,
+"lead": "제일약품",
+"lead_ret": 30.0,
+"second": "메타케어",
+"second_ret": 29.93
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 4.93,
+"up5": 5,
+"lead": "KBI동양철관",
+"lead_ret": 30.02,
+"second": "휴스틸",
+"second_ret": 7.84
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 4.58,
+"up5": 4,
+"lead": "KBI동양철관",
+"lead_ret": 30.02,
+"second": "휴스틸",
+"second_ret": 7.84
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": 3.36,
+"up5": 7,
+"lead": "온코크로스",
+"lead_ret": 18.67,
+"second": "신테카바이오",
+"second_ret": 9.91
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.09,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 7.01,
+"second": "성광벤드",
+"second_ret": 6.27
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.88,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 6.68,
+"second": "삼성중공업",
+"second_ret": 4.39
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.34,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 6.35,
+"second": "녹십자",
+"second_ret": 3.44
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 2.12,
+"up5": 9,
+"lead": "한화엔진",
+"lead_ret": 13.71,
+"second": "오리엔탈정공",
+"second_ret": 12.75
+},
+{
+"name": "유전자 치료제/분석",
+"n": 37,
+"avg": 2.1,
+"up5": 5,
+"lead": "헬릭스미스",
+"lead_ret": 10.96,
+"second": "신테카바이오",
+"second_ret": 9.91
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 2.01,
+"up5": 2,
+"lead": "메타케어",
+"lead_ret": 29.93,
+"second": "알리코제약",
+"second_ret": 22.88
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 1.95,
+"up5": 2,
+"lead": "엑시온그룹",
+"lead_ret": 29.9,
+"second": "지어소프트",
+"second_ret": 16.28
+}
+],
+"themes_worst": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -1.68,
+"up5": 0,
+"lead": "스피어",
+"lead_ret": 4.86,
+"second": "한미반도체",
+"second_ret": 1.49
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -1.66,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 4.08,
+"second": "한화솔루션",
+"second_ret": 1.98
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -1.66,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 1.37,
+"second": "삼성전자",
+"second_ret": 0.0
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -1.63,
+"up5": 0,
+"lead": "쇼박스",
+"lead_ret": -0.16,
+"second": "쎄니트",
+"second_ret": -0.21
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.5,
+"up5": 0,
+"lead": "주성엔지니어링",
+"lead_ret": 0.92,
+"second": "기가레인",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 13.71,
+"value": 4373,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "에어레인",
+"code": "163280",
+"ret": 24.67,
+"value": 2429,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "온코크로스",
+"code": "382150",
+"ret": 18.67,
+"value": 1907,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 29.97,
+"value": 1654,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "KBI동양철관",
+"code": "008970",
+"ret": 30.02,
+"value": 1153,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+}
+],
+"backfilled": true
+}

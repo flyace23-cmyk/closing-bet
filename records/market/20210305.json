@@ -1,0 +1,254 @@
+{
+"date": "20210305",
+"kospi": -0.57,
+"kosdaq": -0.29,
+"adv": 653,
+"dec": 1171,
+"flat": 162,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 275046,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "HLB생명과학",
+"lead_ret": 11.35,
+"second": "랩지노믹스",
+"second_ret": 10.8
+},
+{
+"name": "부동산 보유 자산주",
+"n": 3,
+"lead": "KCTC",
+"lead_ret": 10.12,
+"second": "대성산업",
+"second_ret": 9.47
+},
+{
+"name": "엔젤산업",
+"n": 3,
+"lead": "삼성출판사",
+"lead_ret": 20.94,
+"second": "손오공",
+"second_ret": 11.03
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.35,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 9.54,
+"second": "HMM",
+"second_ret": 8.13
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.59,
+"up5": 3,
+"lead": "손오공",
+"lead_ret": 11.03,
+"second": "리튬포어스",
+"second_ret": 6.04
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.92,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 21.36,
+"second": "한국전자인증",
+"second_ret": 0.67
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.82,
+"up5": 3,
+"lead": "NE능률",
+"lead_ret": 29.89,
+"second": "삼성출판사",
+"second_ret": 20.94
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.61,
+"up5": 1,
+"lead": "사조산업",
+"lead_ret": 23.04,
+"second": "사조대림",
+"second_ret": 1.2
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 2.35,
+"up5": 5,
+"lead": "엔비티",
+"lead_ret": 21.36,
+"second": "KCTC",
+"second_ret": 10.12
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 2.18,
+"up5": 3,
+"lead": "팬엔터테인먼트",
+"lead_ret": 19.28,
+"second": "쇼박스",
+"second_ret": 5.34
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.18,
+"up5": 4,
+"lead": "삼성출판사",
+"lead_ret": 20.94,
+"second": "손오공",
+"second_ret": 11.03
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 1.9,
+"up5": 3,
+"lead": "삼성출판사",
+"lead_ret": 20.94,
+"second": "토박스코리아",
+"second_ret": 10.88
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.86,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 4.38,
+"second": "녹십자",
+"second_ret": 3.74
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.76,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 9.47,
+"second": "신세계",
+"second_ret": 0.86
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.68,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 9.47,
+"second": "중앙에너비스",
+"second_ret": 5.87
+}
+],
+"themes_worst": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -4.14,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 1.76,
+"second": "효성티앤씨",
+"second_ret": 0.57
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -2.43,
+"up5": 0,
+"lead": "한국주철관",
+"lead_ret": 0.0,
+"second": "이렘",
+"second_ret": 0.0
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -2.39,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 0.74,
+"second": "SBI인베스트먼트",
+"second_ret": 0.0
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.26,
+"up5": 0,
+"lead": "한네트",
+"lead_ret": 2.44,
+"second": "프리엠스",
+"second_ret": 1.11
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.01,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": -0.48,
+"second": "솔디펜스",
+"second_ret": -0.76
+}
+],
+"leaders": [
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 29.59,
+"value": 7665,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "삼성출판사",
+"code": "068290",
+"ret": 20.94,
+"value": 4965,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+},
+{
+"name": "토박스코리아",
+"code": "215480",
+"ret": 10.88,
+"value": 2989,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+},
+{
+"name": "구영테크",
+"code": "053270",
+"ret": 18.65,
+"value": 2892,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "팬엔터테인먼트",
+"code": "068050",
+"ret": 19.28,
+"value": 2621,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

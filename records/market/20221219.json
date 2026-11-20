@@ -1,0 +1,254 @@
+{
+"date": "20221219",
+"kospi": -0.33,
+"kosdaq": -0.03,
+"adv": 737,
+"dec": 1223,
+"flat": 165,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 82017,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 8,
+"lead": "솔트룩스",
+"lead_ret": 29.84,
+"second": "셀바스AI",
+"second_ret": 21.13
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "씨이랩",
+"lead_ret": 29.82,
+"second": "셀바스AI",
+"second_ret": 21.13
+},
+{
+"name": "리튬",
+"n": 4,
+"lead": "리튬포어스",
+"lead_ret": 29.75,
+"second": "광무",
+"second_ret": 13.72
+}
+],
+"themes": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 5.19,
+"up5": 8,
+"lead": "솔트룩스",
+"lead_ret": 29.84,
+"second": "셀바스AI",
+"second_ret": 21.13
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.26,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 29.75,
+"second": "SAMG엔터",
+"second_ret": 5.07
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 3.32,
+"up5": 8,
+"lead": "솔트룩스",
+"lead_ret": 29.84,
+"second": "씨이랩",
+"second_ret": 29.82
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.62,
+"up5": 4,
+"lead": "리튬포어스",
+"lead_ret": 29.75,
+"second": "광무",
+"second_ret": 13.72
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 2.27,
+"up5": 2,
+"lead": "NEW",
+"lead_ret": 10.82,
+"second": "졸스",
+"second_ret": 5.93
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 2.25,
+"up5": 1,
+"lead": "큐알티",
+"lead_ret": 29.96,
+"second": "오픈엣지테크놀로지",
+"second_ret": 3.13
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 2.2,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 21.13,
+"second": "브리지텍",
+"second_ret": 7.58
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.9,
+"up5": 2,
+"lead": "소프트캠프",
+"lead_ret": 25.16,
+"second": "알서포트",
+"second_ret": 12.5
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.89,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 13.72,
+"second": "오픈베이스",
+"second_ret": 4.59
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 1.89,
+"up5": 2,
+"lead": "큐알티",
+"lead_ret": 29.96,
+"second": "마음AI",
+"second_ret": 13.48
+},
+{
+"name": "영상콘텐츠",
+"n": 25,
+"avg": 1.85,
+"up5": 3,
+"lead": "NEW",
+"lead_ret": 10.82,
+"second": "졸스",
+"second_ret": 5.93
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 1.83,
+"up5": 5,
+"lead": "씨이랩",
+"lead_ret": 29.82,
+"second": "셀바스AI",
+"second_ret": 21.13
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.23,
+"up5": 0,
+"lead": "국전",
+"lead_ret": 2.51,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -2.12,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -0.52,
+"second": "일신바이오",
+"second_ret": -0.85
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.1,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": -0.16,
+"second": "유한양행",
+"second_ret": -0.67
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.94,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "현대모비스",
+"second_ret": -1.69
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": -1.84,
+"up5": 0,
+"lead": "한솔로지스틱스",
+"lead_ret": 0.85,
+"second": "세방",
+"second_ret": 0.18
+}
+],
+"leaders": [
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 16.79,
+"value": 1879,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "앱튼",
+"code": "270520",
+"ret": 12.56,
+"value": 1265,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "리튬포어스",
+"code": "073570",
+"ret": 29.75,
+"value": 702,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 29.84,
+"value": 609,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "마음AI",
+"code": "377480",
+"ret": 13.48,
+"value": 559,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

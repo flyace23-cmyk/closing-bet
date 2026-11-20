@@ -1,0 +1,254 @@
+{
+"date": "20230403",
+"kospi": -0.18,
+"kosdaq": 0.88,
+"adv": 1167,
+"dec": 865,
+"flat": 115,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 225958,
+"hot": [
+{
+"name": "2차전지",
+"n": 10,
+"lead": "코스모화학",
+"lead_ret": 29.99,
+"second": "웰크론한텍",
+"second_ret": 24.09
+},
+{
+"name": "리튬",
+"n": 5,
+"lead": "코스모화학",
+"lead_ret": 29.99,
+"second": "광무",
+"second_ret": 23.29
+},
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "광무",
+"lead_ret": 23.29,
+"second": "SGA솔루션즈",
+"second_ret": 17.22
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 7.44,
+"up5": 12,
+"lead": "코스모화학",
+"lead_ret": 29.99,
+"second": "광무",
+"second_ret": 23.29
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 5.46,
+"up5": 4,
+"lead": "루트K",
+"lead_ret": 29.95,
+"second": "넥스턴앤롤코리아",
+"second_ret": 22.16
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 5.26,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 24.09,
+"second": "태영건설",
+"second_ret": 4.42
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.24,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 23.29,
+"second": "인성정보",
+"second_ret": 3.97
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 4.96,
+"up5": 5,
+"lead": "코스모화학",
+"lead_ret": 29.99,
+"second": "웰크론한텍",
+"second_ret": 24.09
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 4.8,
+"up5": 6,
+"lead": "이구산업",
+"lead_ret": 29.99,
+"second": "대창",
+"second_ret": 16.43
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 65,
+"avg": 4.27,
+"up5": 20,
+"lead": "코스모화학",
+"lead_ret": 29.99,
+"second": "코스모신소재",
+"second_ret": 23.65
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.04,
+"up5": 9,
+"lead": "이브이첨단소재",
+"lead_ret": 29.88,
+"second": "한농화성",
+"second_ret": 11.59
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 3.65,
+"up5": 7,
+"lead": "EG",
+"lead_ret": 10.91,
+"second": "쎄노텍",
+"second_ret": 9.86
+},
+{
+"name": "2차전지",
+"n": 120,
+"avg": 3.3,
+"up5": 30,
+"lead": "코스모화학",
+"lead_ret": 29.99,
+"second": "웰크론한텍",
+"second_ret": 24.09
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.04,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 23.65,
+"second": "대주전자재료",
+"second_ret": 5.4
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.77,
+"up5": 3,
+"lead": "미래나노텍",
+"lead_ret": 15.46,
+"second": "EG",
+"second_ret": 10.91
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -1.82,
+"up5": 0,
+"lead": "에스엠",
+"lead_ret": 1.29,
+"second": "알비더블유",
+"second_ret": 1.19
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.72,
+"up5": 0,
+"lead": "넥센",
+"lead_ret": 0.73,
+"second": "한국앤컴퍼니",
+"second_ret": -0.42
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -1.48,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": 0.4,
+"second": "대덕전자",
+"second_ret": 0.0
+},
+{
+"name": "공기청정기",
+"n": 11,
+"avg": -1.48,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 1.43,
+"second": "에스피지",
+"second_ret": 1.36
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.38,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 0.13,
+"second": "강스템바이오텍",
+"second_ret": -1.49
+}
+],
+"leaders": [
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 15.46,
+"value": 5814,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 23.65,
+"value": 5542,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "나노신소재",
+"code": "121600",
+"ret": 20.84,
+"value": 4968,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 29.99,
+"value": 4940,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한화갤러리아",
+"code": "452260",
+"ret": 11.5,
+"value": 2372,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+}
+],
+"backfilled": true
+}

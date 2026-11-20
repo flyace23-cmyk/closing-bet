@@ -1,0 +1,254 @@
+{
+"date": "20200302",
+"kospi": 0.78,
+"kosdaq": 2.77,
+"adv": 1368,
+"dec": 422,
+"flat": 115,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 159713,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "대웅",
+"lead_ret": 11.82,
+"second": "씨젠",
+"second_ret": 10.68
+},
+{
+"name": "2차전지(장비)",
+"n": 3,
+"lead": "탑엔지니어링",
+"lead_ret": 13.33,
+"second": "피엔티",
+"second_ret": 10.56
+},
+{
+"name": "음식료업종",
+"n": 3,
+"lead": "에이치엘사이언스",
+"lead_ret": 12.43,
+"second": "노바렉스",
+"second_ret": 11.37
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 9.43,
+"up5": 2,
+"lead": "서울제약",
+"lead_ret": 29.91,
+"second": "파미셀",
+"second_ret": 9.04
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 6.17,
+"up5": 3,
+"lead": "메가엠디",
+"lead_ret": 16.74,
+"second": "TS인베스트먼트",
+"second_ret": 9.45
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 5.53,
+"up5": 4,
+"lead": "큐에스아이",
+"lead_ret": 19.93,
+"second": "서울반도체",
+"second_ret": 6.35
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 5.48,
+"up5": 5,
+"lead": "큐캐피탈",
+"lead_ret": 29.89,
+"second": "TS인베스트먼트",
+"second_ret": 9.45
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 5.1,
+"up5": 8,
+"lead": "NE능률",
+"lead_ret": 29.8,
+"second": "메가엠디",
+"second_ret": 16.74
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 4.39,
+"up5": 9,
+"lead": "MSDI",
+"lead_ret": 16.95,
+"second": "탑엔지니어링",
+"second_ret": 13.33
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": 4.32,
+"up5": 2,
+"lead": "디모아",
+"lead_ret": 19.28,
+"second": "포니링크",
+"second_ret": 5.58
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 4.32,
+"up5": 6,
+"lead": "코아스템켐온",
+"lead_ret": 12.3,
+"second": "파미셀",
+"second_ret": 9.04
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 4.26,
+"up5": 4,
+"lead": "테스",
+"lead_ret": 8.49,
+"second": "DB하이텍",
+"second_ret": 7.77
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 4.2,
+"up5": 4,
+"lead": "탑엔지니어링",
+"lead_ret": 13.33,
+"second": "이오테크닉스",
+"second_ret": 6.56
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 4.1,
+"up5": 14,
+"lead": "케이알엠",
+"lead_ret": 9.47,
+"second": "하나마이크론",
+"second_ret": 8.85
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 4.04,
+"up5": 3,
+"lead": "유비벨록스",
+"lead_ret": 7.54,
+"second": "세종텔레콤",
+"second_ret": 7.0
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 9,
+"avg": -1.32,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.29,
+"second": "신한지주",
+"second_ret": -0.31
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -1.21,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.95,
+"second": "현대건설",
+"second_ret": -0.43
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -0.82,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 3.52,
+"second": "풀무원",
+"second_ret": 1.38
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.76,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.35,
+"second": "세중",
+"second_ret": 1.15
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.73,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 2.18,
+"second": "한온시스템",
+"second_ret": 0.95
+}
+],
+"leaders": [
+{
+"name": "메가엠디",
+"code": "133750",
+"ret": 16.74,
+"value": 3061,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 10.68,
+"value": 2385,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 29.8,
+"value": 1004,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "일월지엠엘",
+"code": "178780",
+"ret": 11.18,
+"value": 923,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 11.19,
+"value": 616,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

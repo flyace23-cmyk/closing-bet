@@ -1,0 +1,254 @@
+{
+"date": "20240313",
+"kospi": 0.44,
+"kosdaq": 0.02,
+"adv": 1074,
+"dec": 1028,
+"flat": 142,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 225475,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "선익시스템",
+"lead_ret": 18.55,
+"second": "HB테크놀러지",
+"second_ret": 13.99
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "씨이랩",
+"lead_ret": 29.96,
+"second": "에스코넥",
+"second_ret": 22.54
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "에스와이",
+"lead_ret": 14.57,
+"second": "대모",
+"second_ret": 9.19
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 4.98,
+"up5": 2,
+"lead": "신성이엔지",
+"lead_ret": 17.42,
+"second": "에스와이",
+"second_ret": 14.57
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 4.53,
+"up5": 2,
+"lead": "제주은행",
+"lead_ret": 23.8,
+"second": "KB금융",
+"second_ret": 5.87
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.92,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 14.57,
+"second": "금강공업",
+"second_ret": 4.1
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.81,
+"up5": 1,
+"lead": "가비아",
+"lead_ret": 30.0,
+"second": "SOOP",
+"second_ret": 4.42
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.52,
+"up5": 0,
+"lead": "가온전선",
+"lead_ret": 4.11,
+"second": "일진전기",
+"second_ret": 4.08
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.4,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 4.34,
+"second": "그래디언트",
+"second_ret": 3.74
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 34,
+"avg": 2.21,
+"up5": 3,
+"lead": "가비아",
+"lead_ret": 30.0,
+"second": "엑셈",
+"second_ret": 6.82
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 44,
+"avg": 2.16,
+"up5": 5,
+"lead": "씨이랩",
+"lead_ret": 29.96,
+"second": "에스코넥",
+"second_ret": 22.54
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.07,
+"up5": 1,
+"lead": "E1",
+"lead_ret": 6.53,
+"second": "비에이치아이",
+"second_ret": 4.58
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.04,
+"up5": 1,
+"lead": "선익시스템",
+"lead_ret": 18.55,
+"second": "야스",
+"second_ret": 2.79
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.03,
+"up5": 2,
+"lead": "가비아",
+"lead_ret": 30.0,
+"second": "이스트소프트",
+"second_ret": 17.86
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 1.84,
+"up5": 1,
+"lead": "화천기계",
+"lead_ret": 14.62,
+"second": "한국정밀기계",
+"second_ret": 3.95
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -3.59,
+"up5": 0,
+"lead": "푸른로보틱스",
+"lead_ret": 2.71,
+"second": "로지시스",
+"second_ret": 0.61
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -1.93,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 3.45,
+"second": "파두",
+"second_ret": 2.38
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -1.8,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 0.57,
+"second": "STX그린로지스",
+"second_ret": -1.38
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.77,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 1.84,
+"second": "코스모화학",
+"second_ret": 1.64
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.68,
+"up5": 0,
+"lead": "티씨케이",
+"lead_ret": 0.91,
+"second": "기가레인",
+"second_ret": 0.83
+}
+],
+"leaders": [
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 16.44,
+"value": 5356,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 23.8,
+"value": 3103,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "에이피알",
+"code": "278470",
+"ret": 13.89,
+"value": 3016,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 14.43,
+"value": 3012,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 11.46,
+"value": 2854,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

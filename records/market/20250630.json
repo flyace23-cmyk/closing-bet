@@ -1,0 +1,254 @@
+{
+"date": "20250630",
+"kospi": 0.52,
+"kosdaq": -0.01,
+"adv": 1075,
+"dec": 1172,
+"flat": 117,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 188886,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "지에프씨생명과학",
+"lead_ret": 23.06,
+"second": "잉글우드랩",
+"second_ret": 13.7
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 3,
+"lead": "KBI동양철관",
+"lead_ret": 29.93,
+"second": "넥스틸",
+"second_ret": 18.2
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "프레스티지바이오파마",
+"lead_ret": 23.84,
+"second": "신풍제약",
+"second_ret": 18.56
+}
+],
+"themes": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 7.33,
+"up5": 5,
+"lead": "KBI동양철관",
+"lead_ret": 29.93,
+"second": "넥스틸",
+"second_ret": 18.2
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 6.92,
+"up5": 2,
+"lead": "오로라",
+"lead_ret": 29.95,
+"second": "대원미디어",
+"second_ret": 11.81
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 5.96,
+"up5": 6,
+"lead": "KBI동양철관",
+"lead_ret": 29.93,
+"second": "하이스틸",
+"second_ret": 12.17
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.93,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 25.15,
+"second": "S-Oil",
+"second_ret": 2.92
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.79,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 9.57,
+"second": "LS",
+"second_ret": 5.74
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.7,
+"up5": 1,
+"lead": "사조씨푸드",
+"lead_ret": 11.82,
+"second": "사조오양",
+"second_ret": 4.95
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.16,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 25.15,
+"second": "SK가스",
+"second_ret": 3.82
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.16,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 25.15,
+"second": "SK가스",
+"second_ret": 3.82
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": 2.92,
+"up5": 5,
+"lead": "제테마",
+"lead_ret": 10.16,
+"second": "메디톡스",
+"second_ret": 9.21
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.91,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 25.15,
+"second": "한국가스공사",
+"second_ret": 4.52
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.7,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 8.37,
+"second": "화성밸브",
+"second_ret": 7.39
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.55,
+"up5": 1,
+"lead": "지어소프트",
+"lead_ret": 9.04,
+"second": "팜스코",
+"second_ret": 4.51
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -3.29,
+"up5": 0,
+"lead": "NICE인프라",
+"lead_ret": -0.21,
+"second": "푸른로보틱스",
+"second_ret": -0.24
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": -3.19,
+"up5": 0,
+"lead": "태경케미컬",
+"lead_ret": 3.62,
+"second": "팬스타엔터프라이즈",
+"second_ret": 2.96
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -3.13,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 1.63,
+"second": "휴비스",
+"second_ret": 0.0
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.61,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 1.64,
+"second": "현대건설",
+"second_ret": -0.38
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -2.48,
+"up5": 0,
+"lead": "넥써쓰",
+"lead_ret": 4.95,
+"second": "쿠콘",
+"second_ret": 4.17
+}
+],
+"leaders": [
+{
+"name": "지에프씨생명과학",
+"code": "388610",
+"ret": 23.06,
+"value": 13338,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 25.15,
+"value": 4050,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 10.57,
+"value": 2685,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 11.66,
+"value": 2142,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "KBI동양철관",
+"code": "008970",
+"ret": 29.93,
+"value": 1933,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+}
+],
+"backfilled": true
+}

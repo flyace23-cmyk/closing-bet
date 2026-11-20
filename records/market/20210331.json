@@ -1,0 +1,238 @@
+{
+"date": "20210331",
+"kospi": -0.28,
+"kosdaq": -0.2,
+"adv": 870,
+"dec": 951,
+"flat": 175,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 244744,
+"hot": [
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "오리엔트정공",
+"lead_ret": 16.0,
+"second": "SG글로벌",
+"second_ret": 12.67
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.64,
+"up5": 2,
+"lead": "대원미디어",
+"lead_ret": 22.31,
+"second": "에피소드컴퍼니",
+"second_ret": 5.53
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.24,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 30.0,
+"second": "이루온",
+"second_ret": 3.48
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.23,
+"up5": 2,
+"lead": "강남제비스코",
+"lead_ret": 10.37,
+"second": "노루홀딩스",
+"second_ret": 5.33
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 3.01,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 30.0,
+"second": "인포뱅크",
+"second_ret": 2.19
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 2.98,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 30.0,
+"second": "에이텍모빌리티",
+"second_ret": 29.93
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.74,
+"up5": 2,
+"lead": "대원미디어",
+"lead_ret": 22.31,
+"second": "키다리스튜디오",
+"second_ret": 6.84
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.7,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 13.23,
+"second": "드림씨아이에스",
+"second_ret": 5.32
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 2.6,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 30.0,
+"second": "코리아에셋투자증권",
+"second_ret": 8.0
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 2.56,
+"up5": 3,
+"lead": "하츠",
+"lead_ret": 11.16,
+"second": "삼목에스폼",
+"second_ret": 9.92
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.49,
+"up5": 1,
+"lead": "와이엔텍",
+"lead_ret": 7.69,
+"second": "인선이엔티",
+"second_ret": 3.88
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.48,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 12.09,
+"second": "디아이씨",
+"second_ret": 2.93
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.4,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 4.8,
+"second": "이월드",
+"second_ret": 3.04
+}
+],
+"themes_worst": [
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -1.73,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 4.34,
+"second": "HLB제넥스",
+"second_ret": 1.06
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -1.63,
+"up5": 0,
+"lead": "서울반도체",
+"lead_ret": 1.65,
+"second": "큐에스아이",
+"second_ret": 1.22
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.63,
+"up5": 0,
+"lead": "한국쉘석유",
+"lead_ret": 0.4,
+"second": "흥구석유",
+"second_ret": 0.14
+},
+{
+"name": "유전자 치료제/분석",
+"n": 28,
+"avg": -1.52,
+"up5": 0,
+"lead": "신테카바이오",
+"lead_ret": 2.57,
+"second": "제놀루션",
+"second_ret": 1.22
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -1.52,
+"up5": 0,
+"lead": "모베이스전자",
+"lead_ret": 1.25,
+"second": "SFA넥셀",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 22.25,
+"value": 4783,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 30.0,
+"value": 4693,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "부방",
+"code": "014470",
+"ret": 20.11,
+"value": 3663,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에이텍",
+"code": "045660",
+"ret": 12.59,
+"value": 3455,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에이텍모빌리티",
+"code": "224110",
+"ret": 29.93,
+"value": 2333,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+}
+],
+"backfilled": true
+}

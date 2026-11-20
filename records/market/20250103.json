@@ -1,0 +1,254 @@
+{
+"date": "20250103",
+"kospi": 1.79,
+"kosdaq": 2.79,
+"adv": 1754,
+"dec": 459,
+"flat": 108,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 158225,
+"hot": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 5,
+"lead": "윈팩",
+"lead_ret": 21.12,
+"second": "피에스케이홀딩스",
+"second_ret": 16.51
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 5,
+"lead": "MSDI",
+"lead_ret": 29.93,
+"second": "한국첨단소재",
+"second_ret": 29.92
+},
+{
+"name": "스테이블코인",
+"n": 4,
+"lead": "아톤",
+"lead_ret": 29.92,
+"second": "다날",
+"second_ret": 17.47
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 6.61,
+"up5": 8,
+"lead": "MSDI",
+"lead_ret": 29.93,
+"second": "한국첨단소재",
+"second_ret": 29.92
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 5.2,
+"up5": 13,
+"lead": "윈팩",
+"lead_ret": 21.12,
+"second": "피에스케이홀딩스",
+"second_ret": 16.51
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.97,
+"up5": 5,
+"lead": "이오테크닉스",
+"lead_ret": 11.76,
+"second": "지아이에스",
+"second_ret": 9.64
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 4.97,
+"up5": 4,
+"lead": "포톤",
+"lead_ret": 29.88,
+"second": "알체라",
+"second_ret": 18.93
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 4.96,
+"up5": 5,
+"lead": "아톤",
+"lead_ret": 29.92,
+"second": "다날",
+"second_ret": 17.47
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.95,
+"up5": 4,
+"lead": "에코프로",
+"lead_ret": 10.15,
+"second": "애경케미칼",
+"second_ret": 9.12
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 4.7,
+"up5": 7,
+"lead": "아이에이",
+"lead_ret": 29.59,
+"second": "에스티아이",
+"second_ret": 7.1
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 4.58,
+"up5": 5,
+"lead": "DS단석",
+"lead_ret": 19.76,
+"second": "코스모화학",
+"second_ret": 12.74
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.45,
+"up5": 7,
+"lead": "코스모화학",
+"lead_ret": 12.74,
+"second": "에코프로",
+"second_ret": 10.15
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 4.4,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 29.92,
+"second": "대한광통신",
+"second_ret": 5.91
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 4.21,
+"up5": 4,
+"lead": "한중엔시에스",
+"lead_ret": 15.48,
+"second": "워트",
+"second_ret": 9.9
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 4.16,
+"up5": 31,
+"lead": "코스모화학",
+"lead_ret": 12.74,
+"second": "코스모신소재",
+"second_ret": 10.71
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -1.95,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -0.78,
+"second": "한화오션",
+"second_ret": -1.19
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -1.63,
+"up5": 0,
+"lead": "범한퓨얼셀",
+"lead_ret": 3.89,
+"second": "비엠티",
+"second_ret": 2.88
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -1.15,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 0.63,
+"second": "코나아이",
+"second_ret": 0.0
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": -0.85,
+"up5": 0,
+"lead": "HDC현대EP",
+"lead_ret": 1.74,
+"second": "한컴라이프케어",
+"second_ret": 1.72
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -0.35,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.93,
+"second": "KBI메탈",
+"second_ret": 0.49
+}
+],
+"leaders": [
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 10.17,
+"value": 12020,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "DS단석",
+"code": "017860",
+"ret": 19.76,
+"value": 2395,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "아톤",
+"code": "158430",
+"ret": 29.92,
+"value": 2089,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 10.15,
+"value": 1852,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 10.71,
+"value": 1236,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

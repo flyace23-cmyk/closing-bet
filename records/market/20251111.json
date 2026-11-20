@@ -1,0 +1,254 @@
+{
+"date": "20251111",
+"kospi": 0.81,
+"kosdaq": -0.46,
+"adv": 825,
+"dec": 1431,
+"flat": 128,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 292969,
+"hot": [
+{
+"name": "PCB(FPCB 등)",
+"n": 4,
+"lead": "태성",
+"lead_ret": 15.32,
+"second": "티엘비",
+"second_ret": 10.46
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "씨피시스템",
+"lead_ret": 15.54,
+"second": "한화비전",
+"second_ret": 10.33
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "효성",
+"lead_ret": 12.77,
+"second": "한화비전",
+"second_ret": 10.33
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.79,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 15.32,
+"second": "티엘비",
+"second_ret": 10.46
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.55,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 8.26,
+"second": "에코프로",
+"second_ret": 7.05
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.52,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 10.46,
+"second": "코리아써키트",
+"second_ret": 9.63
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.46,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 7.41,
+"second": "삼성전자",
+"second_ret": 2.88
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.0,
+"up5": 3,
+"lead": "DB하이텍",
+"lead_ret": 11.81,
+"second": "에이루트",
+"second_ret": 5.56
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 1.61,
+"up5": 5,
+"lead": "태성",
+"lead_ret": 15.32,
+"second": "티엘비",
+"second_ret": 10.46
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.57,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 10.46,
+"second": "코리아써키트",
+"second_ret": 9.63
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 1.54,
+"up5": 0,
+"lead": "네패스",
+"lead_ret": 3.56,
+"second": "자람테크놀로지",
+"second_ret": 3.23
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.45,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 9.17,
+"second": "광무",
+"second_ret": 1.17
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 1.41,
+"up5": 6,
+"lead": "케이씨텍",
+"lead_ret": 9.3,
+"second": "미코",
+"second_ret": 8.29
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 1.34,
+"up5": 4,
+"lead": "한화비전",
+"lead_ret": 10.33,
+"second": "케이씨텍",
+"second_ret": 9.3
+},
+{
+"name": "반도체 장비",
+"n": 93,
+"avg": 1.25,
+"up5": 10,
+"lead": "씨피시스템",
+"lead_ret": 15.54,
+"second": "한화비전",
+"second_ret": 10.33
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -4.22,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.46,
+"second": "롯데관광개발",
+"second_ret": -1.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -4.22,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.46,
+"second": "롯데관광개발",
+"second_ret": -1.0
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.34,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": -1.95,
+"second": "웹케시",
+"second_ret": -2.26
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -2.65,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.74,
+"second": "HD한국조선해양",
+"second_ret": -1.53
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -2.32,
+"up5": 0,
+"lead": "일신바이오",
+"lead_ret": 0.0,
+"second": "삼성바이오로직스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "지투지바이오",
+"code": "456160",
+"ret": 19.95,
+"value": 5524,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "DB하이텍",
+"code": "000990",
+"ret": 11.81,
+"value": 3668,
+"theme": "반도체 대표주(생산)",
+"reason": "테마: 반도체 대표주(생산)"
+},
+{
+"name": "씨피시스템",
+"code": "413630",
+"ret": 15.54,
+"value": 2203,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 15.32,
+"value": 1532,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "지구홀딩스",
+"code": "221800",
+"ret": 21.08,
+"value": 1119,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

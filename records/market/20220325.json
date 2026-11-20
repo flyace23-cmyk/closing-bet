@@ -1,0 +1,254 @@
+{
+"date": "20220325",
+"kospi": 0.01,
+"kosdaq": 0.32,
+"adv": 845,
+"dec": 1020,
+"flat": 210,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 212464,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "알에스오토메이션",
+"lead_ret": 29.9,
+"second": "휴림로봇",
+"second_ret": 21.71
+},
+{
+"name": "철도",
+"n": 4,
+"lead": "푸른로보틱스",
+"lead_ret": 17.58,
+"second": "국영지앤엠",
+"second_ret": 9.22
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "알에스오토메이션",
+"lead_ret": 29.9,
+"second": "유비쿼스",
+"second_ret": 10.29
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 3.73,
+"up5": 2,
+"lead": "푸른로보틱스",
+"lead_ret": 17.58,
+"second": "한네트",
+"second_ret": 6.76
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 32,
+"avg": 3.24,
+"up5": 6,
+"lead": "알에스오토메이션",
+"lead_ret": 29.9,
+"second": "휴림로봇",
+"second_ret": 21.71
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.23,
+"up5": 1,
+"lead": "휴림로봇",
+"lead_ret": 21.71,
+"second": "에스티아이",
+"second_ret": 4.83
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 28,
+"avg": 2.61,
+"up5": 5,
+"lead": "알에스오토메이션",
+"lead_ret": 29.9,
+"second": "MDS테크",
+"second_ret": 21.27
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.5,
+"up5": 2,
+"lead": "KG이니시스",
+"lead_ret": 13.79,
+"second": "인포뱅크",
+"second_ret": 7.02
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.41,
+"up5": 2,
+"lead": "MDS테크",
+"lead_ret": 21.27,
+"second": "인포뱅크",
+"second_ret": 7.02
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 56,
+"avg": 2.4,
+"up5": 9,
+"lead": "알에스오토메이션",
+"lead_ret": 29.9,
+"second": "휴림로봇",
+"second_ret": 21.71
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.37,
+"up5": 2,
+"lead": "MDS테크",
+"lead_ret": 21.27,
+"second": "인포뱅크",
+"second_ret": 7.02
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 9,
+"avg": 1.95,
+"up5": 2,
+"lead": "LG에너지솔루션",
+"lead_ret": 7.6,
+"second": "이녹스첨단소재",
+"second_ret": 7.39
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 1.88,
+"up5": 3,
+"lead": "일동제약",
+"lead_ret": 29.98,
+"second": "신풍제약",
+"second_ret": 6.91
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.86,
+"up5": 1,
+"lead": "KG이니시스",
+"lead_ret": 13.79,
+"second": "NHN KCP",
+"second_ret": 3.44
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 1.63,
+"up5": 1,
+"lead": "야스",
+"lead_ret": 7.31,
+"second": "석경에이티",
+"second_ret": 4.64
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.99,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.48,
+"second": "샘표식품",
+"second_ret": -2.21
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.54,
+"up5": 1,
+"lead": "동원수산",
+"lead_ret": 5.93,
+"second": "동원산업",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.24,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.0,
+"second": "대한해운",
+"second_ret": -1.79
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.13,
+"up5": 0,
+"lead": "엔케이",
+"lead_ret": 0.0,
+"second": "세아제강",
+"second_ret": -0.42
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.12,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 3.15,
+"second": "한울앤제주",
+"second_ret": -0.16
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 29.98,
+"value": 12027,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 21.71,
+"value": 5732,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 28.7,
+"value": 4374,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "푸른로보틱스",
+"code": "094940",
+"ret": 17.58,
+"value": 1211,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼일기업공사",
+"code": "002290",
+"ret": 11.79,
+"value": 1204,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

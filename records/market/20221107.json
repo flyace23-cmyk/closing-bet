@@ -1,0 +1,246 @@
+{
+"date": "20221107",
+"kospi": 0.99,
+"kosdaq": 0.95,
+"adv": 1439,
+"dec": 525,
+"flat": 151,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 116746,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "대모",
+"lead_ret": 25.51,
+"second": "서암기계공업",
+"second_ret": 14.33
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "코오롱글로벌",
+"lead_ret": 15.54,
+"second": "상지건설",
+"second_ret": 14.98
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.04,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 12.47,
+"second": "HMM",
+"second_ret": 4.23
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.94,
+"up5": 3,
+"lead": "코오롱글로벌",
+"lead_ret": 15.54,
+"second": "에스와이",
+"second_ret": 8.99
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.12,
+"up5": 3,
+"lead": "효성티앤씨",
+"lead_ret": 8.91,
+"second": "금호석유화학",
+"second_ret": 7.35
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.02,
+"up5": 5,
+"lead": "대모",
+"lead_ret": 25.51,
+"second": "현대에버다임",
+"second_ret": 7.72
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.0,
+"up5": 3,
+"lead": "로지시스",
+"lead_ret": 12.01,
+"second": "한네트",
+"second_ret": 7.55
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 3.68,
+"up5": 3,
+"lead": "폴라리스오피스",
+"lead_ret": 29.69,
+"second": "메디아나",
+"second_ret": 15.02
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.18,
+"up5": 2,
+"lead": "코오롱글로벌",
+"lead_ret": 15.54,
+"second": "효성티앤씨",
+"second_ret": 8.91
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.17,
+"up5": 1,
+"lead": "TPC로보틱스",
+"lead_ret": 16.1,
+"second": "스맥",
+"second_ret": 2.7
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 3.11,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 10.97,
+"second": "한국전자인증",
+"second_ret": 2.56
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 3.03,
+"up5": 4,
+"lead": "POSCO홀딩스",
+"lead_ret": 8.01,
+"second": "쎄노텍",
+"second_ret": 6.79
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 2.97,
+"up5": 7,
+"lead": "대모",
+"lead_ret": 25.51,
+"second": "서암기계공업",
+"second_ret": 14.33
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.89,
+"up5": 3,
+"lead": "동양파일",
+"lead_ret": 19.31,
+"second": "현대에버다임",
+"second_ret": 7.72
+}
+],
+"themes_worst": [
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -1.04,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": 3.36,
+"second": "현대위아",
+"second_ret": 2.11
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.97,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 1.73,
+"second": "동양고속",
+"second_ret": 0.0
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -0.8,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.88,
+"second": "인콘",
+"second_ret": 0.51
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -0.76,
+"up5": 0,
+"lead": "유에스티",
+"lead_ret": 2.17,
+"second": "금강공업",
+"second_ret": 1.51
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.75,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": 0.21,
+"second": "GKL",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 19.11,
+"value": 2306,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대모",
+"code": "317850",
+"ret": 25.51,
+"value": 1598,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "코오롱글로벌",
+"code": "003070",
+"ret": 15.54,
+"value": 1205,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "서암기계공업",
+"code": "100660",
+"ret": 14.33,
+"value": 959,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "메디아나",
+"code": "041920",
+"ret": 15.02,
+"value": 542,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230925",
+"kospi": -0.49,
+"kosdaq": -2.12,
+"adv": 445,
+"dec": 1641,
+"flat": 105,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 140980,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "이랜시스",
+"lead_ret": 29.82,
+"second": "유진로봇",
+"second_ret": 8.47
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "위메이드맥스",
+"lead_ret": 20.83,
+"second": "위메이드플레이",
+"second_ret": 10.77
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "이미지스",
+"lead_ret": 28.94,
+"second": "레몬",
+"second_ret": 14.82
+}
+],
+"themes": [
+{
+"name": "공작기계",
+"n": 14,
+"avg": 3.96,
+"up5": 2,
+"lead": "화천기계",
+"lead_ret": 29.89,
+"second": "루트K",
+"second_ret": 29.86
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.91,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 10.29,
+"second": "샘표식품",
+"second_ret": 1.17
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 1.62,
+"up5": 1,
+"lead": "알서포트",
+"lead_ret": 22.48,
+"second": "엑셈",
+"second_ret": 1.33
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.31,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 4.68,
+"second": "현대모비스",
+"second_ret": 2.92
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.28,
+"up5": 0,
+"lead": "글로벌텍스프리",
+"lead_ret": 4.0,
+"second": "토니모리",
+"second_ret": 3.21
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 1.02,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 6.35,
+"second": "GRT",
+"second_ret": 5.28
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 0.66,
+"up5": 1,
+"lead": "알서포트",
+"lead_ret": 22.48,
+"second": "오파스넷",
+"second_ret": 2.21
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.39,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.76,
+"second": "강원랜드",
+"second_ret": 0.72
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.39,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.76,
+"second": "강원랜드",
+"second_ret": 0.72
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.34,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 1.17,
+"second": "삼성물산",
+"second_ret": 1.02
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 0.3,
+"up5": 1,
+"lead": "부국철강",
+"lead_ret": 19.18,
+"second": "휴스틸",
+"second_ret": 2.27
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 0.25,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 2.99,
+"second": "HD한국조선해양",
+"second_ret": 0.43
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -5.32,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -2.25,
+"second": "더블유씨피",
+"second_ret": -2.57
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": -3.9,
+"up5": 0,
+"lead": "한국철강",
+"lead_ret": -0.49,
+"second": "고려제강",
+"second_ret": -1.69
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.66,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": -0.45,
+"second": "성일하이텍",
+"second_ret": -0.81
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -3.61,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 14.49,
+"second": "모비스",
+"second_ret": 5.58
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.57,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 0.17,
+"second": "국제약품",
+"second_ret": -0.91
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 15.06,
+"value": 4193,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "이랜시스",
+"code": "264850",
+"ret": 29.82,
+"value": 2491,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "부국철강",
+"code": "026940",
+"ret": 19.18,
+"value": 1721,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "이미지스",
+"code": "115610",
+"ret": 28.94,
+"value": 933,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "화천기계",
+"code": "010660",
+"ret": 29.89,
+"value": 753,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+}
+],
+"backfilled": true
+}

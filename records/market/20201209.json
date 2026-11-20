@@ -1,0 +1,238 @@
+{
+"date": "20201209",
+"kospi": 2.02,
+"kosdaq": 0.77,
+"adv": 1249,
+"dec": 549,
+"flat": 164,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 287858,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "코스모화학",
+"lead_ret": 29.59,
+"second": "웰크론한텍",
+"second_ret": 20.77
+}
+],
+"themes": [
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 4.92,
+"up5": 3,
+"lead": "소노스퀘어",
+"lead_ret": 29.95,
+"second": "모나용평",
+"second_ret": 10.87
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 4.0,
+"up5": 4,
+"lead": "코스모화학",
+"lead_ret": 29.59,
+"second": "포스코퓨처엠",
+"second_ret": 15.93
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 3.91,
+"up5": 3,
+"lead": "코스모화학",
+"lead_ret": 29.59,
+"second": "웰크론한텍",
+"second_ret": 20.77
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 3.72,
+"up5": 2,
+"lead": "대우건설",
+"lead_ret": 8.04,
+"second": "IPARK현대산업개발",
+"second_ret": 6.26
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.45,
+"up5": 3,
+"lead": "아이에이",
+"lead_ret": 20.48,
+"second": "유비벨록스",
+"second_ret": 6.43
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 3.37,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 11.84,
+"second": "팬스타엔터프라이즈",
+"second_ret": 3.07
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 7,
+"avg": 3.28,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 9.09,
+"second": "SK하이닉스",
+"second_ret": 4.78
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.28,
+"up5": 2,
+"lead": "현대제철",
+"lead_ret": 7.25,
+"second": "KG스틸",
+"second_ret": 5.36
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.13,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 20.77,
+"second": "태영건설",
+"second_ret": 2.4
+},
+{
+"name": "전력반도체",
+"n": 13,
+"avg": 3.03,
+"up5": 2,
+"lead": "아이에이",
+"lead_ret": 20.48,
+"second": "어보브반도체",
+"second_ret": 13.43
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.98,
+"up5": 5,
+"lead": "웰크론한텍",
+"lead_ret": 20.77,
+"second": "KG케미칼",
+"second_ret": 10.34
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.98,
+"up5": 2,
+"lead": "유비벨록스",
+"lead_ret": 6.43,
+"second": "이루온",
+"second_ret": 5.24
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.54,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 4.69,
+"second": "삼성바이오로직스",
+"second_ret": -0.72
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.0,
+"up5": 0,
+"lead": "풍산",
+"lead_ret": 1.04,
+"second": "푸른로보틱스",
+"second_ret": 0.0
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.94,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 3.49,
+"second": "드림씨아이에스",
+"second_ret": 2.04
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -1.54,
+"up5": 1,
+"lead": "아이텍",
+"lead_ret": 8.11,
+"second": "HLB테라퓨틱스",
+"second_ret": 4.35
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -1.5,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 2.14,
+"second": "드림씨아이에스",
+"second_ret": 2.04
+}
+],
+"leaders": [
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 25.14,
+"value": 6088,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 15.93,
+"value": 4427,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포인트모바일",
+"code": "318020",
+"ret": 29.97,
+"value": 4366,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대웅",
+"code": "003090",
+"ret": 12.35,
+"value": 3819,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "CMG제약",
+"code": "058820",
+"ret": 12.66,
+"value": 3737,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

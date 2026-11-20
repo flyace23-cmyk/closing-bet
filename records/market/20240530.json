@@ -1,0 +1,254 @@
+{
+"date": "20240530",
+"kospi": -1.56,
+"kosdaq": -0.77,
+"adv": 588,
+"dec": 1556,
+"flat": 114,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 187936,
+"hot": [
+{
+"name": "화장품",
+"n": 7,
+"lead": "헝셩그룹",
+"lead_ret": 29.7,
+"second": "오가닉티코스메틱",
+"second_ret": 29.46
+},
+{
+"name": "국내 상장 중국기업",
+"n": 4,
+"lead": "헝셩그룹",
+"lead_ret": 29.7,
+"second": "오가닉티코스메틱",
+"second_ret": 29.46
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "제이엘케이",
+"lead_ret": 19.98,
+"second": "퀀타매트릭스",
+"second_ret": 15.22
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 8.29,
+"up5": 5,
+"lead": "헝셩그룹",
+"lead_ret": 29.7,
+"second": "오가닉티코스메틱",
+"second_ret": 29.46
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.46,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 19.4,
+"second": "지씨셀",
+"second_ret": 1.36
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.52,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 19.4,
+"second": "삼성바이오로직스",
+"second_ret": 0.69
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 2.49,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 29.7,
+"second": "오가닉티코스메틱",
+"second_ret": 29.46
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 1.77,
+"up5": 2,
+"lead": "키다리스튜디오",
+"lead_ret": 11.15,
+"second": "엔비티",
+"second_ret": 10.9
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.59,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 29.7,
+"second": "모나리자",
+"second_ret": 4.04
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 1.54,
+"up5": 9,
+"lead": "헝셩그룹",
+"lead_ret": 29.7,
+"second": "오가닉티코스메틱",
+"second_ret": 29.46
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 1.28,
+"up5": 2,
+"lead": "제이엘케이",
+"lead_ret": 19.98,
+"second": "블루엠텍",
+"second_ret": 12.62
+},
+{
+"name": "보안주(물리)",
+"n": 19,
+"avg": 1.05,
+"up5": 1,
+"lead": "카티스",
+"lead_ret": 30.01,
+"second": "벨로크",
+"second_ret": 1.97
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 0.87,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 19.4,
+"second": "안트로젠",
+"second_ret": 6.18
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 0.85,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 14.0,
+"second": "선익시스템",
+"second_ret": 1.9
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 0.83,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 25.2,
+"second": "심텍",
+"second_ret": 3.44
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -3.64,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 4.85,
+"second": "LS마린솔루션",
+"second_ret": 0.43
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -3.54,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 1.6,
+"second": "LS머트리얼즈",
+"second_ret": 0.0
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -3.49,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 1.11,
+"second": "덕신이피씨",
+"second_ret": -0.48
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.44,
+"up5": 0,
+"lead": "엑세스바이오",
+"lead_ret": 2.94,
+"second": "위더스제약",
+"second_ret": -0.51
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -2.94,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": -1.67,
+"second": "SFA",
+"second_ret": -1.93
+}
+],
+"leaders": [
+{
+"name": "대주전자재료",
+"code": "078600",
+"ret": 14.0,
+"value": 2713,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 25.2,
+"value": 2518,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 10.61,
+"value": 2452,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "한국화장품제조",
+"code": "003350",
+"ret": 10.66,
+"value": 742,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 26.29,
+"value": 718,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+}
+],
+"backfilled": true
+}

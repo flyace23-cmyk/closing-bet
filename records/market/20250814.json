@@ -1,0 +1,254 @@
+{
+"date": "20250814",
+"kospi": 0.04,
+"kosdaq": 0.14,
+"adv": 1001,
+"dec": 1229,
+"flat": 143,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 145242,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "후성",
+"lead_ret": 10.61,
+"second": "SK아이이테크놀로지",
+"second_ret": 10.45
+},
+{
+"name": "패션/의류",
+"n": 4,
+"lead": "TP",
+"lead_ret": 15.45,
+"second": "제이에스티나",
+"second_ret": 15.27
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "강스템바이오텍",
+"lead_ret": 14.43,
+"second": "에이블씨엔씨",
+"second_ret": 9.9
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.43,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 14.43,
+"second": "차바이오텍",
+"second_ret": 2.12
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.72,
+"up5": 3,
+"lead": "엔키AX",
+"lead_ret": 17.61,
+"second": "미스터블루",
+"second_ret": 11.17
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.6,
+"up5": 4,
+"lead": "후성",
+"lead_ret": 10.61,
+"second": "새빗켐",
+"second_ret": 10.34
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.75,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 7.62,
+"second": "LG화학",
+"second_ret": 1.07
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.73,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 5.65,
+"second": "NHN KCP",
+"second_ret": 4.02
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.54,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 2.9,
+"second": "인성정보",
+"second_ret": 2.63
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 1.42,
+"up5": 2,
+"lead": "비나텍",
+"lead_ret": 11.25,
+"second": "두산퓨얼셀",
+"second_ret": 5.23
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 1.26,
+"up5": 1,
+"lead": "한텍",
+"lead_ret": 21.29,
+"second": "비에이치아이",
+"second_ret": 2.17
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 1.23,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 14.43,
+"second": "코아스템켐온",
+"second_ret": 4.53
+},
+{
+"name": "건강기능식품",
+"n": 42,
+"avg": 1.19,
+"up5": 3,
+"lead": "서흥",
+"lead_ret": 29.77,
+"second": "네오팜",
+"second_ret": 7.7
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.11,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 7.82,
+"second": "아이티센씨티에스",
+"second_ret": 2.9
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 1.11,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 14.43,
+"second": "오가노이드사이언스",
+"second_ret": 2.86
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.82,
+"up5": 0,
+"lead": "금호타이어",
+"lead_ret": 0.42,
+"second": "금호석유화학",
+"second_ret": 0.28
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.04,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 1.13,
+"second": "삼성에스디에스",
+"second_ret": -0.39
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.03,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 1.5,
+"second": "현대차",
+"second_ret": 0.69
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": -1.99,
+"up5": 0,
+"lead": "케이엔에스",
+"lead_ret": 0.18,
+"second": "코스텍시스",
+"second_ret": 0.0
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -1.57,
+"up5": 1,
+"lead": "와이엠티",
+"lead_ret": 6.36,
+"second": "영풍",
+"second_ret": 1.33
+}
+],
+"leaders": [
+{
+"name": "STX엔진",
+"code": "077970",
+"ret": 27.59,
+"value": 1734,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "미스터블루",
+"code": "207760",
+"ret": 11.17,
+"value": 1474,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "한텍",
+"code": "098070",
+"ret": 21.29,
+"value": 691,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "TP",
+"code": "007980",
+"ret": 15.45,
+"value": 687,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "모비데이즈",
+"code": "363260",
+"ret": 12.75,
+"value": 578,
+"theme": "광고",
+"reason": "테마: 광고"
+}
+],
+"backfilled": true
+}

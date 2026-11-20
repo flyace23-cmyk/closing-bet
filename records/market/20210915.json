@@ -1,0 +1,254 @@
+{
+"date": "20210915",
+"kospi": 0.15,
+"kosdaq": 0.49,
+"adv": 723,
+"dec": 1116,
+"flat": 192,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 217585,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 5,
+"lead": "이노뎁",
+"lead_ret": 29.89,
+"second": "선익시스템",
+"second_ret": 14.0
+},
+{
+"name": "의료기기",
+"n": 5,
+"lead": "코렌텍",
+"lead_ret": 14.24,
+"second": "제이엘케이",
+"second_ret": 12.15
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "한국비엔씨",
+"lead_ret": 10.8,
+"second": "인트론바이오",
+"second_ret": 10.53
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 6.16,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 29.9,
+"second": "대한해운",
+"second_ret": 1.37
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.21,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.84,
+"second": "티앤알바이오팹",
+"second_ret": 4.24
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.95,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 10.8,
+"second": "유바이오로직스",
+"second_ret": 5.53
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.53,
+"up5": 1,
+"lead": "인트론바이오",
+"lead_ret": 10.53,
+"second": "엑세스바이오",
+"second_ret": 4.49
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 41,
+"avg": 2.4,
+"up5": 8,
+"lead": "이노뎁",
+"lead_ret": 29.89,
+"second": "선익시스템",
+"second_ret": 14.0
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.2,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.84,
+"second": "녹십자",
+"second_ret": 1.4
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.01,
+"up5": 2,
+"lead": "SFA넥셀",
+"lead_ret": 16.78,
+"second": "EG",
+"second_ret": 10.39
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 18,
+"avg": 1.84,
+"up5": 3,
+"lead": "제이엘케이",
+"lead_ret": 12.15,
+"second": "비트컴퓨터",
+"second_ret": 9.17
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 1.82,
+"up5": 3,
+"lead": "매커스",
+"lead_ret": 27.54,
+"second": "비트맥스",
+"second_ret": 7.99
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 1.81,
+"up5": 3,
+"lead": "한국비엔씨",
+"lead_ret": 10.8,
+"second": "강스템바이오텍",
+"second_ret": 9.84
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 1.8,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 10.8,
+"second": "메디톡스",
+"second_ret": 4.4
+},
+{
+"name": "의료기기",
+"n": 66,
+"avg": 1.54,
+"up5": 7,
+"lead": "코렌텍",
+"lead_ret": 14.24,
+"second": "제이엘케이",
+"second_ret": 12.15
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": -3.1,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 1.32,
+"second": "신세계",
+"second_ret": -0.54
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.43,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": -0.47,
+"second": "성우전자",
+"second_ret": -0.62
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -1.82,
+"up5": 0,
+"lead": "LX세미콘",
+"lead_ret": 3.35,
+"second": "삼성전자",
+"second_ret": 0.52
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -1.75,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 1.06,
+"second": "사조씨푸드",
+"second_ret": 0.53
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": -1.67,
+"up5": 1,
+"lead": "라온피플",
+"lead_ret": 9.29,
+"second": "나무가",
+"second_ret": 3.08
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 16.78,
+"value": 8275,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "삼성E&A",
+"code": "028050",
+"ret": 11.18,
+"value": 5296,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 10.8,
+"value": 2409,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "매커스",
+"code": "093520",
+"ret": 27.54,
+"value": 1447,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "에이루트",
+"code": "096690",
+"ret": 24.8,
+"value": 1236,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+}
+],
+"backfilled": true
+}

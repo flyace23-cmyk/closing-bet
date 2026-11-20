@@ -1,0 +1,254 @@
+{
+"date": "20241217",
+"kospi": -1.29,
+"kosdaq": -0.58,
+"adv": 1028,
+"dec": 1152,
+"flat": 134,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 157165,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 7,
+"lead": "시그네틱스",
+"lead_ret": 29.89,
+"second": "에이직랜드",
+"second_ret": 29.07
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "GH신소재",
+"lead_ret": 29.94,
+"second": "웹스",
+"second_ret": 29.94
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "한국앤컴퍼니",
+"lead_ret": 13.84,
+"second": "효성",
+"second_ret": 11.18
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 9.22,
+"up5": 3,
+"lead": "에이직랜드",
+"lead_ret": 29.07,
+"second": "자람테크놀로지",
+"second_ret": 21.25
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 5.45,
+"up5": 8,
+"lead": "퀄리타스반도체",
+"lead_ret": 18.9,
+"second": "아이언디바이스",
+"second_ret": 17.36
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.35,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 29.94,
+"second": "엔브이에이치코리아",
+"second_ret": 6.52
+},
+{
+"name": "시스템반도체",
+"n": 54,
+"avg": 4.56,
+"up5": 14,
+"lead": "시그네틱스",
+"lead_ret": 29.89,
+"second": "에이직랜드",
+"second_ret": 29.07
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.97,
+"up5": 3,
+"lead": "퀄리타스반도체",
+"lead_ret": 18.9,
+"second": "엑시콘",
+"second_ret": 5.37
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.81,
+"up5": 3,
+"lead": "지아이에스",
+"lead_ret": 17.36,
+"second": "이오테크닉스",
+"second_ret": 8.06
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 3.36,
+"up5": 4,
+"lead": "에어레인",
+"lead_ret": 30.0,
+"second": "그린케미칼",
+"second_ret": 14.11
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.13,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 29.99,
+"second": "파루",
+"second_ret": 2.29
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.83,
+"up5": 1,
+"lead": "롯데지주",
+"lead_ret": 10.96,
+"second": "BGF리테일",
+"second_ret": 4.84
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.75,
+"up5": 3,
+"lead": "이수페타시스",
+"lead_ret": 7.01,
+"second": "인텍플러스",
+"second_ret": 5.57
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.57,
+"up5": 2,
+"lead": "아이언디바이스",
+"lead_ret": 17.36,
+"second": "에스티아이",
+"second_ret": 9.01
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.47,
+"up5": 2,
+"lead": "웹스",
+"lead_ret": 29.94,
+"second": "시그네틱스",
+"second_ret": 29.89
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -4.25,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": -0.5,
+"second": "원티드랩",
+"second_ret": -2.37
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.13,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": 1.75,
+"second": "나인테크",
+"second_ret": 0.0
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.87,
+"up5": 0,
+"lead": "대보마그네틱",
+"lead_ret": 0.83,
+"second": "세방전지",
+"second_ret": 0.28
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -2.77,
+"up5": 0,
+"lead": "네오위즈",
+"lead_ret": 2.01,
+"second": "코오롱인더",
+"second_ret": 0.69
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.59,
+"up5": 0,
+"lead": "세명전기",
+"lead_ret": 1.82,
+"second": "LS",
+"second_ret": 1.45
+}
+],
+"leaders": [
+{
+"name": "쓰리빌리언",
+"code": "394800",
+"ret": 18.17,
+"value": 4309,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "SG글로벌",
+"code": "001380",
+"ret": 12.87,
+"value": 2008,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 29.07,
+"value": 1610,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "자람테크놀로지",
+"code": "389020",
+"ret": 21.25,
+"value": 1456,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "뱅크웨어글로벌",
+"code": "199480",
+"ret": 15.17,
+"value": 1221,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

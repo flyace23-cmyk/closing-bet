@@ -1,0 +1,254 @@
+{
+"date": "20231019",
+"kospi": -1.9,
+"kosdaq": -3.07,
+"adv": 190,
+"dec": 1958,
+"flat": 50,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 141725,
+"hot": [
+{
+"name": "남북경협",
+"n": 4,
+"lead": "희림",
+"lead_ret": 15.16,
+"second": "도화엔지니어링",
+"second_ret": 11.94
+},
+{
+"name": "재택근무/스마트워크",
+"n": 3,
+"lead": "제이씨현시스템",
+"lead_ret": 29.91,
+"second": "에스넷",
+"second_ret": 8.79
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "코츠테크놀로지",
+"lead_ret": 13.93,
+"second": "대성하이텍",
+"second_ret": 8.73
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 4.05,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 26.2,
+"second": "천일고속",
+"second_ret": -0.2
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.5,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 15.2,
+"second": "STX그린로지스",
+"second_ret": 4.31
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.34,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 30.0,
+"second": "카카오뱅크",
+"second_ret": 0.22
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 0.59,
+"up5": 3,
+"lead": "대성산업",
+"lead_ret": 26.2,
+"second": "리드코프",
+"second_ret": 7.17
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 0.41,
+"up5": 5,
+"lead": "희림",
+"lead_ret": 15.16,
+"second": "도화엔지니어링",
+"second_ret": 11.94
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 0.36,
+"up5": 2,
+"lead": "제이씨현시스템",
+"lead_ret": 29.91,
+"second": "에스넷",
+"second_ret": 8.79
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 0.2,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 26.2,
+"second": "큐로홀딩스",
+"second_ret": 5.43
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.04,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 26.2,
+"second": "SK가스",
+"second_ret": 3.22
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.04,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 26.2,
+"second": "SK가스",
+"second_ret": 3.22
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -0.06,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 26.2,
+"second": "방림",
+"second_ret": 2.5
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -0.72,
+"up5": 1,
+"lead": "에스넷",
+"lead_ret": 8.79,
+"second": "오파스넷",
+"second_ret": 4.22
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -0.85,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 3.27,
+"second": "삼성물산",
+"second_ret": -0.65
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 22,
+"avg": -5.69,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 1.53,
+"second": "제이에스링크",
+"second_ret": -2.54
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -5.42,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -1.56,
+"second": "KBI메탈",
+"second_ret": -1.64
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -5.32,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": -0.36,
+"second": "코렌텍",
+"second_ret": -2.54
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -5.22,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.42,
+"second": "LB인베스트먼트",
+"second_ret": -1.76
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -4.89,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.99,
+"second": "일신바이오",
+"second_ret": -0.8
+}
+],
+"leaders": [
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 15.2,
+"value": 1844,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 26.2,
+"value": 1673,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 30.0,
+"value": 1377,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "쏘카",
+"code": "403550",
+"ret": 12.12,
+"value": 1064,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 11.08,
+"value": 860,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

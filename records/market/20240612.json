@@ -1,0 +1,254 @@
+{
+"date": "20240612",
+"kospi": 0.84,
+"kosdaq": 0.27,
+"adv": 1203,
+"dec": 903,
+"flat": 152,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 210485,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "삐아",
+"lead_ret": 29.95,
+"second": "펌텍코리아",
+"second_ret": 14.79
+},
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "마니커에프앤지",
+"lead_ret": 17.05,
+"second": "에이치엘사이언스",
+"second_ret": 14.1
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "아이티엠반도체",
+"lead_ret": 12.22,
+"second": "코세스",
+"second_ret": 10.72
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 5.93,
+"up5": 3,
+"lead": "우양",
+"lead_ret": 13.95,
+"second": "풀무원",
+"second_ret": 7.14
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.64,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 10.6,
+"second": "풀무원",
+"second_ret": 7.14
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.77,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 18.07,
+"second": "광무",
+"second_ret": 8.72
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.3,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 29.91,
+"second": "포스코인터내셔널",
+"second_ret": 1.86
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.81,
+"up5": 1,
+"lead": "마니커에프앤지",
+"lead_ret": 17.05,
+"second": "마니커",
+"second_ret": 4.47
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 3.36,
+"up5": 25,
+"lead": "삐아",
+"lead_ret": 29.95,
+"second": "펌텍코리아",
+"second_ret": 14.79
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.28,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 29.91,
+"second": "삼성물산",
+"second_ret": 0.82
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.97,
+"up5": 2,
+"lead": "라이콤",
+"lead_ret": 29.96,
+"second": "한국첨단소재",
+"second_ret": 7.76
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.56,
+"up5": 5,
+"lead": "아이티엠반도체",
+"lead_ret": 12.22,
+"second": "LG이노텍",
+"second_ret": 9.37
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.54,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 6.53,
+"second": "CJ씨푸드",
+"second_ret": 4.95
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.51,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 7.26,
+"second": "유비벨록스",
+"second_ret": 4.18
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.49,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 13.95,
+"second": "미래에셋벤처투자",
+"second_ret": 3.87
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -4.78,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": 1.35,
+"second": "오로라",
+"second_ret": 0.91
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -3.09,
+"up5": 0,
+"lead": "문배철강",
+"lead_ret": 0.86,
+"second": "부국철강",
+"second_ret": 0.16
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.96,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.27,
+"second": "파미셀",
+"second_ret": -0.52
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 13,
+"avg": -2.28,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 2.68,
+"second": "샌즈랩",
+"second_ret": 2.17
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -1.98,
+"up5": 0,
+"lead": "케이에스피",
+"lead_ret": 0.37,
+"second": "태광",
+"second_ret": 0.26
+}
+],
+"leaders": [
+{
+"name": "제룡산업",
+"code": "147830",
+"ret": 14.4,
+"value": 3030,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "삐아",
+"code": "451250",
+"ret": 29.95,
+"value": 2656,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "우양",
+"code": "103840",
+"ret": 13.95,
+"value": 1742,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "카페24",
+"code": "042000",
+"ret": 15.27,
+"value": 1670,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 18.07,
+"value": 1532,
+"theme": "NI(네트워크통합)",
+"reason": "테마: NI(네트워크통합)"
+}
+],
+"backfilled": true
+}

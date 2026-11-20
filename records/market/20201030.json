@@ -1,0 +1,254 @@
+{
+"date": "20201030",
+"kospi": -2.56,
+"kosdaq": -2.61,
+"adv": 269,
+"dec": 1567,
+"flat": 113,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 185577,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "케이엔더블유",
+"lead_ret": 6.85,
+"second": "휴림에이텍",
+"second_ret": 5.35
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "인바이오젠",
+"lead_ret": 8.56,
+"second": "제이에스링크",
+"second_ret": 5.06
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "유진로봇",
+"lead_ret": 6.4,
+"second": "라닉스",
+"second_ret": 4.94
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.28,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 9.35,
+"second": "그래디언트",
+"second_ret": 1.19
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 0.3,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 9.35,
+"second": "세아베스틸지주",
+"second_ret": 0.97
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 0.11,
+"up5": 1,
+"lead": "남성",
+"lead_ret": 29.94,
+"second": "삼성SDI",
+"second_ret": 2.43
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -0.29,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 1.16,
+"second": "이월드",
+"second_ret": 0.17
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.32,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 2.92,
+"second": "녹십자",
+"second_ret": 2.92
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -0.36,
+"up5": 1,
+"lead": "까뮤이앤씨",
+"lead_ret": 18.38,
+"second": "웰크론한텍",
+"second_ret": 1.39
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.47,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 2.61,
+"second": "삼성SDI",
+"second_ret": 2.43
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": -0.48,
+"up5": 1,
+"lead": "에스앤더블류",
+"lead_ret": 5.45,
+"second": "현대건설",
+"second_ret": 1.16
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -0.48,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 1.16,
+"second": "대우건설",
+"second_ret": 0.33
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.61,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.58,
+"second": "샘표",
+"second_ret": 0.57
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -0.66,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 2.26,
+"second": "SK네트웍스",
+"second_ret": 0.55
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.73,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 3.09,
+"second": "파미셀",
+"second_ret": 2.92
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -4.93,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": -1.97,
+"second": "푸른로보틱스",
+"second_ret": -2.29
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -4.22,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": -1.62,
+"second": "KG케미칼",
+"second_ret": -2.93
+},
+{
+"name": "태양광에너지",
+"n": 35,
+"avg": -3.99,
+"up5": 0,
+"lead": "아바코",
+"lead_ret": 0.11,
+"second": "씨엔플러스",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -3.59,
+"up5": 0,
+"lead": "엔브이에이치코리아",
+"lead_ret": 4.55,
+"second": "오텍",
+"second_ret": 2.47
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -3.56,
+"up5": 0,
+"lead": "코오롱글로벌",
+"lead_ret": -0.28,
+"second": "삼성물산",
+"second_ret": -0.45
+}
+],
+"leaders": [
+{
+"name": "삼성E&A",
+"code": "028050",
+"ret": 12.98,
+"value": 3567,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 29.96,
+"value": 3030,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "남성",
+"code": "004270",
+"ret": 29.94,
+"value": 1682,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "까뮤이앤씨",
+"code": "013700",
+"ret": 18.38,
+"value": 1676,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "삼진엘앤디",
+"code": "054090",
+"ret": 15.76,
+"value": 1597,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

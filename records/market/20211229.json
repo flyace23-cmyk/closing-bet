@@ -1,0 +1,254 @@
+{
+"date": "20211229",
+"kospi": -0.89,
+"kosdaq": 0.06,
+"adv": 1203,
+"dec": 711,
+"flat": 144,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 214426,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 6,
+"lead": "코세스",
+"lead_ret": 29.65,
+"second": "SKAI",
+"second_ret": 21.9
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "셀바스AI",
+"lead_ret": 17.41,
+"second": "위세아이텍",
+"second_ret": 13.56
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "한국비엔씨",
+"lead_ret": 14.29,
+"second": "일동제약",
+"second_ret": 12.01
+}
+],
+"themes": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 5.85,
+"up5": 2,
+"lead": "코세스",
+"lead_ret": 29.65,
+"second": "큐에스아이",
+"second_ret": 16.29
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 5.37,
+"up5": 3,
+"lead": "모아텍",
+"lead_ret": 29.11,
+"second": "티앤알바이오팹",
+"second_ret": 10.09
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.3,
+"up5": 2,
+"lead": "데브시스터즈",
+"lead_ret": 19.75,
+"second": "에피소드컴퍼니",
+"second_ret": 7.69
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 4.11,
+"up5": 5,
+"lead": "셀바스AI",
+"lead_ret": 17.41,
+"second": "신테카바이오",
+"second_ret": 8.31
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": 4.08,
+"up5": 2,
+"lead": "코세스",
+"lead_ret": 29.65,
+"second": "엘티씨",
+"second_ret": 7.04
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 3.9,
+"up5": 10,
+"lead": "코세스",
+"lead_ret": 29.65,
+"second": "SKAI",
+"second_ret": 21.9
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 24,
+"avg": 3.5,
+"up5": 5,
+"lead": "SKAI",
+"lead_ret": 21.9,
+"second": "플리토",
+"second_ret": 20.15
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 3.47,
+"up5": 6,
+"lead": "한국비엔씨",
+"lead_ret": 14.29,
+"second": "일동제약",
+"second_ret": 12.01
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.36,
+"up5": 2,
+"lead": "노루페인트",
+"lead_ret": 9.77,
+"second": "벽산",
+"second_ret": 6.56
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 3.33,
+"up5": 6,
+"lead": "데브시스터즈",
+"lead_ret": 19.75,
+"second": "큐에스아이",
+"second_ret": 16.29
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.13,
+"up5": 1,
+"lead": "아바텍",
+"lead_ret": 6.12,
+"second": "지아이에스",
+"second_ret": 4.44
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 3.02,
+"up5": 7,
+"lead": "코세스",
+"lead_ret": 29.65,
+"second": "유티아이",
+"second_ret": 9.22
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -4.17,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.0,
+"second": "흥국화재",
+"second_ret": -1.11
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -3.58,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": -0.83,
+"second": "우리금융지주",
+"second_ret": -2.28
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -3.4,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 2.93,
+"second": "SK증권",
+"second_ret": 0.99
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.31,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 1.51,
+"second": "삼천리",
+"second_ret": -0.44
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.22,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.22,
+"second": "헥토파이낸셜",
+"second_ret": -0.16
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 14.29,
+"value": 3896,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "데브시스터즈",
+"code": "194480",
+"ret": 19.75,
+"value": 2147,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "졸스",
+"code": "018700",
+"ret": 13.04,
+"value": 2091,
+"theme": "영화",
+"reason": "테마: 영화"
+},
+{
+"name": "SKAI",
+"code": "357880",
+"ret": 21.9,
+"value": 1683,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "메지온",
+"code": "140410",
+"ret": 14.23,
+"value": 1284,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

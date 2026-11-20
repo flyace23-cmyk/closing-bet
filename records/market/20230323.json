@@ -1,0 +1,254 @@
+{
+"date": "20230323",
+"kospi": 0.31,
+"kosdaq": -0.15,
+"adv": 485,
+"dec": 1570,
+"flat": 89,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 251546,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "TCC스틸",
+"lead_ret": 14.32,
+"second": "APS이노베이션",
+"second_ret": 14.06
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "뉴로메카",
+"lead_ret": 14.51,
+"second": "에스비비테크",
+"second_ret": 10.79
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 3,
+"lead": "우성머티리얼스",
+"lead_ret": 11.03,
+"second": "동국알앤에스",
+"second_ret": 10.38
+}
+],
+"themes": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.37,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 11.03,
+"second": "휴비스",
+"second_ret": 8.53
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.33,
+"up5": 2,
+"lead": "씨티케이",
+"lead_ret": 9.47,
+"second": "세림B&G",
+"second_ret": 5.16
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 2.23,
+"up5": 6,
+"lead": "레몬",
+"lead_ret": 11.4,
+"second": "티에스아이",
+"second_ret": 10.44
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.21,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 14.91,
+"second": "SAMG엔터",
+"second_ret": 8.18
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.78,
+"up5": 1,
+"lead": "태경비케이",
+"lead_ret": 29.97,
+"second": "롯데정밀화학",
+"second_ret": 0.36
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 1.7,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 10.07,
+"second": "삼성SDI",
+"second_ret": 1.91
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.53,
+"up5": 0,
+"lead": "제주항공",
+"lead_ret": 4.87,
+"second": "진에어",
+"second_ret": 3.08
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 1.39,
+"up5": 3,
+"lead": "셀바스AI",
+"lead_ret": 13.98,
+"second": "글로벌텍스프리",
+"second_ret": 9.21
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 1.37,
+"up5": 2,
+"lead": "웰크론한텍",
+"lead_ret": 10.02,
+"second": "하나기술",
+"second_ret": 8.8
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 1.34,
+"up5": 3,
+"lead": "우성머티리얼스",
+"lead_ret": 11.03,
+"second": "동국알앤에스",
+"second_ret": 10.38
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 1.34,
+"up5": 1,
+"lead": "이수화학",
+"lead_ret": 21.99,
+"second": "롯데케미칼",
+"second_ret": 3.01
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.3,
+"up5": 2,
+"lead": "한울반도체",
+"lead_ret": 10.26,
+"second": "대주전자재료",
+"second_ret": 6.85
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 30,
+"avg": -3.08,
+"up5": 0,
+"lead": "이수앱지스",
+"lead_ret": 1.76,
+"second": "유한양행",
+"second_ret": -0.2
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": -2.78,
+"up5": 0,
+"lead": "옵티팜",
+"lead_ret": 0.14,
+"second": "코미팜",
+"second_ret": 0.0
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -2.65,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": 0.0,
+"second": "휴메딕스",
+"second_ret": -0.21
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 9,
+"avg": -2.55,
+"up5": 0,
+"lead": "디지캡",
+"lead_ret": -0.19,
+"second": "이스트소프트",
+"second_ret": -1.66
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -2.5,
+"up5": 0,
+"lead": "진시스템",
+"lead_ret": 3.64,
+"second": "지노믹트리",
+"second_ret": 0.44
+}
+],
+"leaders": [
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 10.07,
+"value": 21765,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 23.61,
+"value": 6585,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 13.98,
+"value": 6267,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 21.99,
+"value": 5305,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 14.51,
+"value": 5255,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

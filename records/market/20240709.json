@@ -1,0 +1,254 @@
+{
+"date": "20240709",
+"kospi": 0.34,
+"kosdaq": 0.13,
+"adv": 1122,
+"dec": 978,
+"flat": 166,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 192176,
+"hot": [
+{
+"name": "원자력발전",
+"n": 10,
+"lead": "한전산업",
+"lead_ret": 29.94,
+"second": "서전기전",
+"second_ret": 29.87
+},
+{
+"name": "전력설비",
+"n": 6,
+"lead": "한전산업",
+"lead_ret": 29.94,
+"second": "서전기전",
+"second_ret": 29.87
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "HB테크놀러지",
+"lead_ret": 25.86,
+"second": "피노",
+"second_ret": 12.94
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 6.89,
+"up5": 3,
+"lead": "포커스에이아이",
+"lead_ret": 19.74,
+"second": "비츠로시스",
+"second_ret": 17.53
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 5.3,
+"up5": 4,
+"lead": "한전산업",
+"lead_ret": 29.94,
+"second": "서전기전",
+"second_ret": 29.87
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 5.27,
+"up5": 10,
+"lead": "한전산업",
+"lead_ret": 29.94,
+"second": "서전기전",
+"second_ret": 29.87
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 4.76,
+"up5": 14,
+"lead": "한전산업",
+"lead_ret": 29.94,
+"second": "서전기전",
+"second_ret": 29.87
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 4.12,
+"up5": 5,
+"lead": "우리기술",
+"lead_ret": 20.73,
+"second": "우진",
+"second_ret": 8.65
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.6,
+"up5": 2,
+"lead": "LS에코에너지",
+"lead_ret": 12.32,
+"second": "가온전선",
+"second_ret": 5.63
+},
+{
+"name": "유리 기판",
+"n": 19,
+"avg": 3.44,
+"up5": 3,
+"lead": "HB테크놀러지",
+"lead_ret": 25.86,
+"second": "필옵틱스",
+"second_ret": 9.6
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 2.85,
+"up5": 2,
+"lead": "GST",
+"lead_ret": 15.87,
+"second": "유니셈",
+"second_ret": 6.57
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.79,
+"up5": 3,
+"lead": "SNT에너지",
+"lead_ret": 24.22,
+"second": "비에이치아이",
+"second_ret": 7.73
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.41,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 7.69,
+"second": "케이엔솔",
+"second_ret": 4.37
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.24,
+"up5": 4,
+"lead": "우리기술",
+"lead_ret": 20.73,
+"second": "비츠로시스",
+"second_ret": 17.53
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.15,
+"up5": 1,
+"lead": "코아스",
+"lead_ret": 29.92,
+"second": "일신석재",
+"second_ret": 3.51
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.66,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 0.1,
+"second": "풀무원",
+"second_ret": -0.2
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -3.25,
+"up5": 0,
+"lead": "사조씨푸드",
+"lead_ret": 2.63,
+"second": "사조대림",
+"second_ret": 0.1
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.1,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.85,
+"second": "팬오션",
+"second_ret": -0.88
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -1.88,
+"up5": 0,
+"lead": "동우팜투테이블",
+"lead_ret": 0.21,
+"second": "태경비케이",
+"second_ret": 0.19
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -1.82,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 2.35,
+"second": "TS인베스트먼트",
+"second_ret": 0.78
+}
+],
+"leaders": [
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 20.73,
+"value": 5462,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "HB테크놀러지",
+"code": "078150",
+"ret": 25.86,
+"value": 4436,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 29.94,
+"value": 2504,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 12.32,
+"value": 1801,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "옵투스제약",
+"code": "131030",
+"ret": 17.97,
+"value": 1157,
+"theme": "황사/미세먼지",
+"reason": "테마: 황사/미세먼지"
+}
+],
+"backfilled": true
+}

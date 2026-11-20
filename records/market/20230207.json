@@ -1,0 +1,254 @@
+{
+"date": "20230207",
+"kospi": 0.55,
+"kosdaq": 1.51,
+"adv": 1127,
+"dec": 855,
+"flat": 151,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 160201,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 4,
+"lead": "유엔젤",
+"lead_ret": 30.0,
+"second": "SKAI",
+"second_ret": 26.38
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "이노테나",
+"lead_ret": 10.16,
+"second": "다우데이타",
+"second_ret": 10.03
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "오브젠",
+"lead_ret": 18.3,
+"second": "이노뎁",
+"second_ret": 17.74
+}
+],
+"themes": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 5.06,
+"up5": 8,
+"lead": "유엔젤",
+"lead_ret": 30.0,
+"second": "SKAI",
+"second_ret": 26.38
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.4,
+"up5": 1,
+"lead": "유엔젤",
+"lead_ret": 30.0,
+"second": "인포뱅크",
+"second_ret": 4.92
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 4.1,
+"up5": 6,
+"lead": "유엔젤",
+"lead_ret": 30.0,
+"second": "MDS테크",
+"second_ret": 29.99
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.44,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 29.99,
+"second": "인포뱅크",
+"second_ret": 4.92
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.31,
+"up5": 3,
+"lead": "유엔젤",
+"lead_ret": 30.0,
+"second": "YBM넷",
+"second_ret": 13.59
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": 3.29,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 16.38,
+"second": "엠케이전자",
+"second_ret": 4.69
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 3.23,
+"up5": 6,
+"lead": "이녹스첨단소재",
+"lead_ret": 11.76,
+"second": "비에이치",
+"second_ret": 10.14
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 3.0,
+"up5": 3,
+"lead": "린드먼아시아",
+"lead_ret": 29.99,
+"second": "플랜티넷",
+"second_ret": 6.63
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.92,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 13.47,
+"second": "LG에너지솔루션",
+"second_ret": 3.24
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 2.85,
+"up5": 9,
+"lead": "SKAI",
+"lead_ret": 26.38,
+"second": "이노뎁",
+"second_ret": 17.74
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 2.78,
+"up5": 6,
+"lead": "유엔젤",
+"lead_ret": 30.0,
+"second": "포시에스",
+"second_ret": 9.67
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 10,
+"avg": 2.73,
+"up5": 1,
+"lead": "이녹스첨단소재",
+"lead_ret": 11.76,
+"second": "미래에셋벤처투자",
+"second_ret": 3.85
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -2.04,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.1,
+"second": "HD현대중공업",
+"second_ret": -1.81
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.2,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.18,
+"second": "IPARK현대산업개발",
+"second_ret": -1.29
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.16,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": -0.15,
+"second": "샘표식품",
+"second_ret": -0.29
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.13,
+"up5": 0,
+"lead": "우림피티에스",
+"lead_ret": 1.47,
+"second": "SH에너지화학",
+"second_ret": -0.22
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": -1.12,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 1.71,
+"second": "POSCO홀딩스",
+"second_ret": 0.17
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 13.47,
+"value": 6457,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "MDS테크",
+"code": "086960",
+"ret": 29.99,
+"value": 3547,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "SKAI",
+"code": "357880",
+"ret": 26.38,
+"value": 2675,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "오브젠",
+"code": "417860",
+"ret": 18.3,
+"value": 2160,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "삼아알미늄",
+"code": "006110",
+"ret": 10.61,
+"value": 978,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

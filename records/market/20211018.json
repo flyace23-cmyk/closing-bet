@@ -1,0 +1,254 @@
+{
+"date": "20211018",
+"kospi": -0.28,
+"kosdaq": 0.34,
+"adv": 909,
+"dec": 941,
+"flat": 191,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 206080,
+"hot": [
+{
+"name": "영상콘텐츠",
+"n": 7,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.29,
+"second": "에프엔씨엔터",
+"second_ret": 12.23
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 6,
+"lead": "NHN벅스",
+"lead_ret": 29.96,
+"second": "컴투스홀딩스",
+"second_ret": 19.83
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "KEC",
+"lead_ret": 29.91,
+"second": "3S",
+"second_ret": 12.92
+}
+],
+"themes": [
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": 4.41,
+"up5": 7,
+"lead": "NHN벅스",
+"lead_ret": 29.96,
+"second": "컴투스홀딩스",
+"second_ret": 19.83
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 4.24,
+"up5": 3,
+"lead": "NHN벅스",
+"lead_ret": 29.96,
+"second": "에프엔씨엔터",
+"second_ret": 12.23
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 4.23,
+"up5": 10,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.29,
+"second": "에프엔씨엔터",
+"second_ret": 12.23
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 3.47,
+"up5": 10,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.29,
+"second": "에프엔씨엔터",
+"second_ret": 12.23
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.4,
+"up5": 4,
+"lead": "컴투스홀딩스",
+"lead_ret": 19.83,
+"second": "서울옥션",
+"second_ret": 15.4
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.39,
+"up5": 1,
+"lead": "NHN벅스",
+"lead_ret": 29.96,
+"second": "SOOP",
+"second_ret": 3.72
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.75,
+"up5": 2,
+"lead": "NEW",
+"lead_ret": 11.99,
+"second": "콘텐트리중앙",
+"second_ret": 8.28
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 2.56,
+"up5": 2,
+"lead": "한국주강",
+"lead_ret": 29.9,
+"second": "유니온머티리얼",
+"second_ret": 5.88
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.55,
+"up5": 4,
+"lead": "컴투스홀딩스",
+"lead_ret": 19.83,
+"second": "티사이언티픽",
+"second_ret": 13.15
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 2.39,
+"up5": 1,
+"lead": "광전자",
+"lead_ret": 17.71,
+"second": "코세스",
+"second_ret": 4.02
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.35,
+"up5": 2,
+"lead": "한중엔시에스",
+"lead_ret": 14.29,
+"second": "3S",
+"second_ret": 12.92
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.27,
+"up5": 2,
+"lead": "콘텐트리중앙",
+"lead_ret": 8.28,
+"second": "디지틀조선",
+"second_ret": 7.26
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -3.27,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 1.78,
+"second": "대한해운",
+"second_ret": -0.68
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.78,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 3.1,
+"second": "대원미디어",
+"second_ret": 2.1
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.91,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": -0.42,
+"second": "엔투텍",
+"second_ret": -0.58
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.84,
+"up5": 0,
+"lead": "서울가스",
+"lead_ret": 0.58,
+"second": "삼천리",
+"second_ret": 0.1
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.81,
+"up5": 0,
+"lead": "나이벡",
+"lead_ret": 2.13,
+"second": "올릭스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "KEC",
+"code": "092220",
+"ret": 29.91,
+"value": 5103,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 11.4,
+"value": 3862,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "디와이에이",
+"code": "002880",
+"ret": 23.04,
+"value": 2975,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 19.83,
+"value": 1698,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "컴투스",
+"code": "078340",
+"ret": 10.4,
+"value": 1564,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+}
+],
+"backfilled": true
+}

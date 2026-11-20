@@ -1,0 +1,254 @@
+{
+"date": "20250729",
+"kospi": 0.66,
+"kosdaq": 0.01,
+"adv": 1096,
+"dec": 1133,
+"flat": 142,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 170001,
+"hot": [
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "화인베스틸",
+"lead_ret": 29.96,
+"second": "동성화인텍",
+"second_ret": 13.62
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "씨이랩",
+"lead_ret": 29.93,
+"second": "산돌",
+"second_ret": 16.67
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "제이엔비",
+"lead_ret": 29.89,
+"second": "한화비전",
+"second_ret": 13.98
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.67,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 7.71,
+"second": "하이록코리아",
+"second_ret": 5.87
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 3.61,
+"up5": 8,
+"lead": "화인베스틸",
+"lead_ret": 29.96,
+"second": "동성화인텍",
+"second_ret": 13.62
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.72,
+"up5": 5,
+"lead": "대창솔루션",
+"lead_ret": 7.14,
+"second": "오르비텍",
+"second_ret": 6.13
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.56,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 5.73,
+"second": "삼성물산",
+"second_ret": 3.22
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.36,
+"up5": 1,
+"lead": "팜젠사이언스",
+"lead_ret": 16.02,
+"second": "DXVX",
+"second_ret": 4.86
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.07,
+"up5": 1,
+"lead": "성신양회",
+"lead_ret": 7.13,
+"second": "강동씨앤엘",
+"second_ret": 4.59
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.98,
+"up5": 2,
+"lead": "한국카본",
+"lead_ret": 9.96,
+"second": "오르비텍",
+"second_ret": 6.13
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 1.98,
+"up5": 8,
+"lead": "태광",
+"lead_ret": 7.71,
+"second": "대창솔루션",
+"second_ret": 7.14
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.64,
+"up5": 2,
+"lead": "한국카본",
+"lead_ret": 9.96,
+"second": "SNT에너지",
+"second_ret": 6.8
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 1.63,
+"up5": 1,
+"lead": "한화비전",
+"lead_ret": 13.98,
+"second": "아이디스",
+"second_ret": 1.69
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 1.56,
+"up5": 4,
+"lead": "동성화인텍",
+"lead_ret": 13.62,
+"second": "한국카본",
+"second_ret": 9.96
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.51,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 6.49,
+"second": "우양",
+"second_ret": 3.42
+}
+],
+"themes_worst": [
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -2.06,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.28,
+"second": "SK하이닉스",
+"second_ret": 0.19
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.97,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": -0.24,
+"second": "금호타이어",
+"second_ret": -0.94
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -1.63,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.28,
+"second": "네패스",
+"second_ret": 0.17
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.6,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": -0.24,
+"second": "상보",
+"second_ret": -1.09
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -1.59,
+"up5": 0,
+"lead": "이수페타시스",
+"lead_ret": 4.01,
+"second": "LG이노텍",
+"second_ret": 0.52
+}
+],
+"leaders": [
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 13.98,
+"value": 3090,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "매커스",
+"code": "093520",
+"ret": 16.1,
+"value": 1590,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "아리바이오홀딩스",
+"code": "290690",
+"ret": 16.57,
+"value": 1073,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "제이엔비",
+"code": "452160",
+"ret": 29.89,
+"value": 986,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "동성화인텍",
+"code": "033500",
+"ret": 13.62,
+"value": 897,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20220314",
+"kospi": -0.59,
+"kosdaq": -2.16,
+"adv": 456,
+"dec": 1470,
+"flat": 146,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 201035,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "이스트에이드",
+"lead_ret": 29.98,
+"second": "로보스타",
+"second_ret": 12.88
+},
+{
+"name": "비철금속",
+"n": 3,
+"lead": "티플랙스",
+"lead_ret": 19.55,
+"second": "황금에스티",
+"second_ret": 9.42
+}
+],
+"themes": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.33,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 14.24,
+"second": "인성정보",
+"second_ret": 12.42
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.43,
+"up5": 4,
+"lead": "티플랙스",
+"lead_ret": 19.55,
+"second": "황금에스티",
+"second_ret": 9.42
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 2.36,
+"up5": 2,
+"lead": "티플랙스",
+"lead_ret": 19.55,
+"second": "유니온머티리얼",
+"second_ret": 8.05
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.18,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 8.05,
+"second": "유니온",
+"second_ret": 3.16
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 2.12,
+"up5": 3,
+"lead": "티플랙스",
+"lead_ret": 19.55,
+"second": "황금에스티",
+"second_ret": 9.42
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.11,
+"up5": 1,
+"lead": "대신정보통신",
+"lead_ret": 15.17,
+"second": "이월드",
+"second_ret": 2.58
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.04,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 6.56,
+"second": "인선이엔티",
+"second_ret": 3.57
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 1.94,
+"up5": 2,
+"lead": "하이스틸",
+"lead_ret": 12.92,
+"second": "유에스티",
+"second_ret": 6.44
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.77,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 8.82,
+"second": "누보",
+"second_ret": 5.2
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 45,
+"avg": 1.47,
+"up5": 6,
+"lead": "이스트에이드",
+"lead_ret": 29.98,
+"second": "로보스타",
+"second_ret": 12.88
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 1.31,
+"up5": 1,
+"lead": "인포뱅크",
+"lead_ret": 10.46,
+"second": "드림시큐리티",
+"second_ret": 3.34
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 1.25,
+"up5": 2,
+"lead": "대신정보통신",
+"lead_ret": 15.17,
+"second": "광무",
+"second_ret": 14.24
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -4.13,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": -1.79,
+"second": "한미약품",
+"second_ret": -1.86
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -4.01,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": -0.23,
+"second": "JTC",
+"second_ret": -1.98
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -3.91,
+"up5": 0,
+"lead": "휴온스",
+"lead_ret": -1.87,
+"second": "파마리서치",
+"second_ret": -1.93
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -3.41,
+"up5": 1,
+"lead": "진매트릭스",
+"lead_ret": 15.89,
+"second": "리가켐바이오",
+"second_ret": 1.87
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -3.35,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": 0.0,
+"second": "지아이에스",
+"second_ret": -1.07
+}
+],
+"leaders": [
+{
+"name": "티플랙스",
+"code": "081150",
+"ret": 19.55,
+"value": 5646,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 12.46,
+"value": 2712,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "이스트에이드",
+"code": "239340",
+"ret": 29.98,
+"value": 1552,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "대신정보통신",
+"code": "020180",
+"ret": 15.17,
+"value": 1242,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "신원종합개발",
+"code": "017000",
+"ret": 10.28,
+"value": 987,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

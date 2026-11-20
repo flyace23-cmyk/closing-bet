@@ -1,0 +1,254 @@
+{
+"date": "20200810",
+"kospi": 1.48,
+"kosdaq": 0.6,
+"adv": 1015,
+"dec": 770,
+"flat": 144,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 289628,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "알루코",
+"lead_ret": 29.78,
+"second": "SFA넥셀",
+"second_ret": 26.58
+},
+{
+"name": "전기차",
+"n": 5,
+"lead": "SFA넥셀",
+"lead_ret": 26.58,
+"second": "상신이디피",
+"second_ret": 17.83
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "한국비엔씨",
+"lead_ret": 29.86,
+"second": "엑세스바이오",
+"second_ret": 29.81
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 7.91,
+"up5": 5,
+"lead": "현대차",
+"lead_ret": 15.65,
+"second": "기아",
+"second_ret": 9.7
+},
+{
+"name": "2차전지(장비)",
+"n": 30,
+"avg": 4.95,
+"up5": 11,
+"lead": "SFA넥셀",
+"lead_ret": 26.58,
+"second": "APS이노베이션",
+"second_ret": 24.51
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 4.85,
+"up5": 3,
+"lead": "경농",
+"lead_ret": 14.15,
+"second": "남해화학",
+"second_ret": 8.06
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.65,
+"up5": 9,
+"lead": "한국금융지주",
+"lead_ret": 10.76,
+"second": "키움증권",
+"second_ret": 10.28
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 4.64,
+"up5": 5,
+"lead": "현대차",
+"lead_ret": 15.65,
+"second": "코스모화학",
+"second_ret": 10.7
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 31,
+"avg": 4.48,
+"up5": 11,
+"lead": "SFA넥셀",
+"lead_ret": 26.58,
+"second": "삼진엘앤디",
+"second_ret": 22.58
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 60,
+"avg": 4.48,
+"up5": 19,
+"lead": "알루코",
+"lead_ret": 29.78,
+"second": "삼진엘앤디",
+"second_ret": 22.58
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 63,
+"avg": 4.26,
+"up5": 25,
+"lead": "일진다이아",
+"lead_ret": 16.93,
+"second": "현대차",
+"second_ret": 15.65
+},
+{
+"name": "농업",
+"n": 21,
+"avg": 4.25,
+"up5": 6,
+"lead": "효성오앤비",
+"lead_ret": 18.57,
+"second": "그린플러스",
+"second_ret": 15.13
+},
+{
+"name": "2차전지",
+"n": 100,
+"avg": 4.24,
+"up5": 30,
+"lead": "알루코",
+"lead_ret": 29.78,
+"second": "SFA넥셀",
+"second_ret": 26.58
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 4.21,
+"up5": 9,
+"lead": "SFA넥셀",
+"lead_ret": 26.58,
+"second": "상신이디피",
+"second_ret": 17.83
+},
+{
+"name": "전기차",
+"n": 77,
+"avg": 3.83,
+"up5": 28,
+"lead": "SFA넥셀",
+"lead_ret": 26.58,
+"second": "상신이디피",
+"second_ret": 17.83
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -3.04,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.39,
+"second": "일신바이오",
+"second_ret": -1.16
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.24,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.09,
+"second": "미창석유",
+"second_ret": 0.51
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.18,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 1.08,
+"second": "TKG휴켐스",
+"second_ret": 0.61
+},
+{
+"name": "마이크로바이옴",
+"n": 16,
+"avg": -1.17,
+"up5": 0,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 2.79,
+"second": "마크로젠",
+"second_ret": 2.67
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": -1.08,
+"up5": 1,
+"lead": "엔키AX",
+"lead_ret": 5.57,
+"second": "조이시티",
+"second_ret": 3.88
+}
+],
+"leaders": [
+{
+"name": "현대차",
+"code": "005380",
+"ret": 15.65,
+"value": 14383,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 18.44,
+"value": 7288,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "대웅",
+"code": "003090",
+"ret": 20.32,
+"value": 5822,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 26.58,
+"value": 3358,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 11.01,
+"value": 3177,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

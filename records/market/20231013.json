@@ -1,0 +1,254 @@
+{
+"date": "20231013",
+"kospi": -0.95,
+"kosdaq": -1.52,
+"adv": 538,
+"dec": 1535,
+"flat": 124,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 132836,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "아이엠티",
+"lead_ret": 30.0,
+"second": "디아이티",
+"second_ret": 10.98
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "애경산업",
+"lead_ret": 9.69,
+"second": "헝셩그룹",
+"second_ret": 8.37
+},
+{
+"name": "음식료업종",
+"n": 3,
+"lead": "미래생명자원",
+"lead_ret": 20.08,
+"second": "뉴트리",
+"second_ret": 9.9
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.55,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 27.72,
+"second": "중앙에너비스",
+"second_ret": 12.83
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 5.55,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 27.72,
+"second": "중앙에너비스",
+"second_ret": 12.83
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.98,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 27.72,
+"second": "극동유화",
+"second_ret": 4.82
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.61,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 20.08,
+"second": "신송홀딩스",
+"second_ret": 4.9
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.89,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 29.66,
+"second": "헝셩그룹",
+"second_ret": 8.37
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.58,
+"up5": 4,
+"lead": "미래생명자원",
+"lead_ret": 20.08,
+"second": "고려산업",
+"second_ret": 12.37
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.4,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 27.72,
+"second": "중앙에너비스",
+"second_ret": 12.83
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.23,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 16.26,
+"second": "지에스이",
+"second_ret": 9.17
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.21,
+"up5": 1,
+"lead": "LS에코에너지",
+"lead_ret": 23.26,
+"second": "LS마린솔루션",
+"second_ret": 3.26
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.33,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 14.02,
+"second": "극동유화",
+"second_ret": 4.82
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 2.17,
+"up5": 5,
+"lead": "전진바이오팜",
+"lead_ret": 20.57,
+"second": "미래생명자원",
+"second_ret": 20.08
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.69,
+"up5": 3,
+"lead": "광동제약",
+"lead_ret": 23.15,
+"second": "대성에너지",
+"second_ret": 16.26
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 22,
+"avg": -3.99,
+"up5": 0,
+"lead": "딥노이드",
+"lead_ret": 1.41,
+"second": "폴라리스오피스",
+"second_ret": 0.76
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -3.97,
+"up5": 0,
+"lead": "한국비티비",
+"lead_ret": 0.0,
+"second": "휴젤",
+"second_ret": -0.42
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -3.44,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": -0.18,
+"second": "삼성바이오로직스",
+"second_ret": -0.96
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.43,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.24,
+"second": "대한해운",
+"second_ret": -1.6
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.32,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 1.95,
+"second": "기아",
+"second_ret": -0.36
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 27.72,
+"value": 4571,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 23.26,
+"value": 2409,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "아이엠티",
+"code": "451220",
+"ret": 30.0,
+"value": 2002,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 14.02,
+"value": 1899,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 16.26,
+"value": 1456,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

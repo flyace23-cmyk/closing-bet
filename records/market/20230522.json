@@ -1,0 +1,238 @@
+{
+"date": "20230522",
+"kospi": 0.76,
+"kosdaq": 1.23,
+"adv": 1380,
+"dec": 635,
+"flat": 142,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 152681,
+"hot": [
+{
+"name": "리튬",
+"n": 3,
+"lead": "강원에너지",
+"lead_ret": 11.57,
+"second": "미래나노텍",
+"second_ret": 10.67
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 5.99,
+"up5": 3,
+"lead": "한화오션",
+"lead_ret": 11.76,
+"second": "HD한국조선해양",
+"second_ret": 6.41
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.22,
+"up5": 2,
+"lead": "에스와이",
+"lead_ret": 15.14,
+"second": "한신공영",
+"second_ret": 5.54
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.14,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 15.21,
+"second": "신송홀딩스",
+"second_ret": 3.09
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.42,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 15.21,
+"second": "팜스코",
+"second_ret": 6.91
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.4,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 12.31,
+"second": "한울앤제주",
+"second_ret": 3.09
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.07,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 15.14,
+"second": "오텍",
+"second_ret": 2.78
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 2.79,
+"up5": 2,
+"lead": "마니커에프앤지",
+"lead_ret": 6.69,
+"second": "푸드나무",
+"second_ret": 5.2
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.65,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 6.58,
+"second": "더블유씨피",
+"second_ret": 6.08
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.61,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 12.31,
+"second": "팜스코",
+"second_ret": 6.91
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.53,
+"up5": 5,
+"lead": "대창솔루션",
+"lead_ret": 9.59,
+"second": "한화엔진",
+"second_ret": 6.53
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.53,
+"up5": 5,
+"lead": "강원에너지",
+"lead_ret": 11.57,
+"second": "미래나노텍",
+"second_ret": 10.67
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.51,
+"up5": 3,
+"lead": "서울바이오시스",
+"lead_ret": 15.44,
+"second": "빛과전자",
+"second_ret": 9.45
+}
+],
+"themes_worst": [
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -0.91,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": 0.48,
+"second": "카카오",
+"second_ret": 0.0
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -0.62,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 1.1,
+"second": "오비고",
+"second_ret": 0.7
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": -0.55,
+"up5": 0,
+"lead": "루멘스바이오스",
+"lead_ret": 0.36,
+"second": "LG전자",
+"second_ret": 0.35
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": -0.54,
+"up5": 0,
+"lead": "브레인즈컴퍼니",
+"lead_ret": 2.04,
+"second": "다날",
+"second_ret": 1.05
+},
+{
+"name": "전력반도체",
+"n": 15,
+"avg": -0.52,
+"up5": 0,
+"lead": "LB세미콘",
+"lead_ret": 2.29,
+"second": "KEC",
+"second_ret": 1.89
+}
+],
+"leaders": [
+{
+"name": "현대무벡스",
+"code": "319400",
+"ret": 19.2,
+"value": 3269,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 10.08,
+"value": 2227,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 15.21,
+"value": 1287,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "서울바이오시스",
+"code": "092190",
+"ret": 15.44,
+"value": 1206,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "꿈비",
+"code": "407400",
+"ret": 22.99,
+"value": 1104,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+}
+],
+"backfilled": true
+}

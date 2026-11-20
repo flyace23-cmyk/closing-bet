@@ -1,0 +1,254 @@
+{
+"date": "20240327",
+"kospi": -0.07,
+"kosdaq": -0.53,
+"adv": 872,
+"dec": 1220,
+"flat": 156,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 235624,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "예스티",
+"lead_ret": 21.15,
+"second": "케이씨",
+"second_ret": 12.84
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "솔루스첨단소재",
+"lead_ret": 29.94,
+"second": "두산밥캣",
+"second_ret": 11.09
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "코닉오토메이션",
+"lead_ret": 28.0,
+"second": "에스피소프트",
+"second_ret": 9.84
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.76,
+"up5": 2,
+"lead": "예스티",
+"lead_ret": 21.15,
+"second": "티에스이",
+"second_ret": 5.73
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.42,
+"up5": 2,
+"lead": "에이직랜드",
+"lead_ret": 11.13,
+"second": "자람테크놀로지",
+"second_ret": 6.34
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.12,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 14.09,
+"second": "대한해운",
+"second_ret": 2.44
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.0,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 7.25,
+"second": "LS",
+"second_ret": 6.54
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.92,
+"up5": 5,
+"lead": "와이씨켐",
+"lead_ret": 30.01,
+"second": "예스티",
+"second_ret": 21.15
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.51,
+"up5": 3,
+"lead": "와이씨켐",
+"lead_ret": 30.01,
+"second": "한빛레이저",
+"second_ret": 12.19
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.5,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 12.78,
+"second": "데브시스터즈",
+"second_ret": 4.03
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.37,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.71,
+"second": "토비스",
+"second_ret": 4.96
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.37,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.71,
+"second": "토비스",
+"second_ret": 4.96
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 1.88,
+"up5": 1,
+"lead": "두산밥캣",
+"lead_ret": 11.09,
+"second": "프리엠스",
+"second_ret": 4.61
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 1.74,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 6.54,
+"second": "세명전기",
+"second_ret": 4.36
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.74,
+"up5": 2,
+"lead": "삼화전기",
+"lead_ret": 14.82,
+"second": "아모센스",
+"second_ret": 7.47
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.38,
+"up5": 0,
+"lead": "국전",
+"lead_ret": -0.63,
+"second": "경동제약",
+"second_ret": -1.06
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.26,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.78,
+"second": "HD현대중공업",
+"second_ret": -2.37
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -3.1,
+"up5": 0,
+"lead": "루트K",
+"lead_ret": 0.74,
+"second": "와이지-원",
+"second_ret": 0.69
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.99,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 3.02,
+"second": "샘표",
+"second_ret": -1.57
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.97,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": -0.48,
+"second": "iM금융지주",
+"second_ret": -1.24
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 11.75,
+"value": 6415,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 10.39,
+"value": 4428,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "솔루스첨단소재",
+"code": "336370",
+"ret": 29.94,
+"value": 2643,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "예스티",
+"code": "122640",
+"ret": 21.15,
+"value": 1486,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제룡전기",
+"code": "033100",
+"ret": 10.01,
+"value": 1442,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+}
+],
+"backfilled": true
+}

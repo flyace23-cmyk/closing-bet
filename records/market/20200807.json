@@ -1,0 +1,254 @@
+{
+"date": "20200807",
+"kospi": 0.39,
+"kosdaq": 0.41,
+"adv": 739,
+"dec": 1031,
+"flat": 159,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 277565,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "KG케미칼",
+"lead_ret": 29.88,
+"second": "솔브레인홀딩스",
+"second_ret": 25.42
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "서연탑메탈",
+"lead_ret": 30.0,
+"second": "오리엔트정공",
+"second_ret": 29.95
+},
+{
+"name": "통신장비",
+"n": 3,
+"lead": "에이스테크",
+"lead_ret": 29.93,
+"second": "쏠리드",
+"second_ret": 22.12
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 7.06,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 29.88,
+"second": "유니온",
+"second_ret": 4.03
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 4.01,
+"up5": 10,
+"lead": "에이스테크",
+"lead_ret": 29.93,
+"second": "쏠리드",
+"second_ret": 22.12
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.11,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 12.54,
+"second": "흥구석유",
+"second_ret": 3.94
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 3.09,
+"up5": 1,
+"lead": "서울바이오시스",
+"lead_ret": 17.55,
+"second": "성호전자",
+"second_ret": 4.3
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 49,
+"avg": 3.05,
+"up5": 9,
+"lead": "에이스테크",
+"lead_ret": 29.93,
+"second": "쏠리드",
+"second_ret": 22.12
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.02,
+"up5": 3,
+"lead": "서진시스템",
+"lead_ret": 8.42,
+"second": "엘티씨",
+"second_ret": 8.15
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.83,
+"up5": 4,
+"lead": "SK이노베이션",
+"lead_ret": 12.54,
+"second": "엘앤에프",
+"second_ret": 6.16
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.55,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 5.89,
+"second": "에코프로",
+"second_ret": 5.43
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.55,
+"up5": 5,
+"lead": "SK이노베이션",
+"lead_ret": 12.54,
+"second": "LG화학",
+"second_ret": 9.71
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.47,
+"up5": 3,
+"lead": "탑엔지니어링",
+"lead_ret": 16.01,
+"second": "기가레인",
+"second_ret": 6.9
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.47,
+"up5": 2,
+"lead": "서연탑메탈",
+"lead_ret": 30.0,
+"second": "프리엠스",
+"second_ret": 8.11
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.42,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 12.54,
+"second": "흥구석유",
+"second_ret": 3.94
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 12,
+"avg": -2.39,
+"up5": 0,
+"lead": "이수페타시스",
+"lead_ret": 2.76,
+"second": "LG이노텍",
+"second_ret": 1.23
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.33,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 1.06,
+"second": "대한약품",
+"second_ret": -1.74
+},
+{
+"name": "의료기기",
+"n": 60,
+"avg": -1.78,
+"up5": 0,
+"lead": "엘앤씨바이오",
+"lead_ret": 3.86,
+"second": "한국비엔씨",
+"second_ret": 3.43
+},
+{
+"name": "치매",
+"n": 40,
+"avg": -1.72,
+"up5": 2,
+"lead": "바이오스마트",
+"lead_ret": 8.41,
+"second": "SK케미칼",
+"second_ret": 6.1
+},
+{
+"name": "골프",
+"n": 13,
+"avg": -1.66,
+"up5": 0,
+"lead": "남화산업",
+"lead_ret": 0.4,
+"second": "골프존",
+"second_ret": 0.28
+}
+],
+"leaders": [
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 12.54,
+"value": 11041,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에이스테크",
+"code": "088800",
+"ret": 29.93,
+"value": 4827,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "에이텍",
+"code": "045660",
+"ret": 23.5,
+"value": 4330,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "서울바이오시스",
+"code": "092190",
+"ret": 17.55,
+"value": 4236,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "솔브레인홀딩스",
+"code": "036830",
+"ret": 25.42,
+"value": 4218,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

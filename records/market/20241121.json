@@ -1,0 +1,254 @@
+{
+"date": "20241121",
+"kospi": -0.07,
+"kosdaq": -0.33,
+"adv": 813,
+"dec": 1352,
+"flat": 145,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 155778,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 7,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "대동금속",
+"second_ret": 29.88
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "남광토건",
+"lead_ret": 25.5,
+"second": "일성건설",
+"second_ret": 12.52
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "대동",
+"second_ret": 18.18
+}
+],
+"themes": [
+{
+"name": "농업",
+"n": 23,
+"avg": 4.66,
+"up5": 5,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "대동금속",
+"second_ret": 29.88
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.91,
+"up5": 9,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "대동금속",
+"second_ret": 29.88
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.88,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 18.83,
+"second": "녹십자",
+"second_ret": 2.05
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 3.49,
+"up5": 3,
+"lead": "대동금속",
+"lead_ret": 29.88,
+"second": "삼미금속",
+"second_ret": 10.67
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.41,
+"up5": 6,
+"lead": "남광토건",
+"lead_ret": 25.5,
+"second": "일성건설",
+"second_ret": 12.52
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.07,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 8.88,
+"second": "에스와이",
+"second_ret": 4.07
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.39,
+"up5": 3,
+"lead": "남광토건",
+"lead_ret": 25.5,
+"second": "금호건설",
+"second_ret": 8.52
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.3,
+"up5": 1,
+"lead": "대동",
+"lead_ret": 18.18,
+"second": "롯데정밀화학",
+"second_ret": 1.1
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.02,
+"up5": 2,
+"lead": "남광토건",
+"lead_ret": 25.5,
+"second": "희림",
+"second_ret": 10.76
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 1.96,
+"up5": 1,
+"lead": "엑시온그룹",
+"lead_ret": 29.9,
+"second": "스튜디오삼익",
+"second_ret": 3.64
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.68,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 8.88,
+"second": "현대코퍼레이션",
+"second_ret": 3.7
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.3,
+"up5": 2,
+"lead": "인포뱅크",
+"lead_ret": 8.11,
+"second": "유엔젤",
+"second_ret": 7.11
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 24,
+"avg": -4.23,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 1.62,
+"second": "쓰리빌리언",
+"second_ret": 1.3
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": -3.48,
+"up5": 0,
+"lead": "이녹스첨단소재",
+"lead_ret": 2.06,
+"second": "SFA",
+"second_ret": 1.44
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": -2.98,
+"up5": 0,
+"lead": "KT",
+"lead_ret": 1.62,
+"second": "매커스",
+"second_ret": 0.94
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.92,
+"up5": 0,
+"lead": "아스트",
+"lead_ret": 0.2,
+"second": "솔디펜스",
+"second_ret": 0.0
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -2.82,
+"up5": 1,
+"lead": "서울바이오시스",
+"lead_ret": 7.25,
+"second": "대한광통신",
+"second_ret": 1.49
+}
+],
+"leaders": [
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 25.81,
+"value": 2318,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대동",
+"code": "000490",
+"ret": 18.18,
+"value": 1787,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 29.97,
+"value": 706,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "강스템바이오텍",
+"code": "217730",
+"ret": 18.83,
+"value": 600,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 15.84,
+"value": 525,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

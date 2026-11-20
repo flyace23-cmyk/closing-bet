@@ -1,0 +1,254 @@
+{
+"date": "20201116",
+"kospi": 1.97,
+"kosdaq": 0.98,
+"adv": 1089,
+"dec": 679,
+"flat": 184,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 300967,
+"hot": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 4,
+"lead": "에어부산",
+"lead_ret": 29.92,
+"second": "아시아나항공",
+"second_ret": 29.84
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "피에스케이",
+"lead_ret": 13.91,
+"second": "하나마이크론",
+"second_ret": 11.66
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "피에스케이",
+"lead_ret": 13.91,
+"second": "대한항공",
+"second_ret": 12.52
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 12.48,
+"up5": 7,
+"lead": "에어부산",
+"lead_ret": 29.92,
+"second": "아시아나항공",
+"second_ret": 29.84
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 10.59,
+"up5": 6,
+"lead": "GH신소재",
+"lead_ret": 30.0,
+"second": "콜마바이오텍",
+"second_ret": 17.91
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.94,
+"up5": 8,
+"lead": "키움증권",
+"lead_ret": 12.33,
+"second": "한화투자증권",
+"second_ret": 9.57
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.76,
+"up5": 3,
+"lead": "한화투자증권",
+"lead_ret": 9.57,
+"second": "한화생명",
+"second_ret": 7.65
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 4.42,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 9.57,
+"second": "하나금융지주",
+"second_ret": 5.34
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 4.26,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 9.25,
+"second": "삼성전자",
+"second_ret": 4.91
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.25,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 25.31,
+"second": "코렌텍",
+"second_ret": 5.65
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 4.19,
+"up5": 3,
+"lead": "네오셈",
+"lead_ret": 10.91,
+"second": "SK하이닉스",
+"second_ret": 9.25
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.62,
+"up5": 4,
+"lead": "SCL사이언스",
+"lead_ret": 16.03,
+"second": "아이큐어",
+"second_ret": 8.74
+},
+{
+"name": "반도체 장비",
+"n": 73,
+"avg": 3.4,
+"up5": 19,
+"lead": "피에스케이",
+"lead_ret": 13.91,
+"second": "하나마이크론",
+"second_ret": 11.66
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.35,
+"up5": 1,
+"lead": "한국팩키지",
+"lead_ret": 16.75,
+"second": "디아이씨",
+"second_ret": 3.23
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 20,
+"avg": 3.31,
+"up5": 6,
+"lead": "키움증권",
+"lead_ret": 12.33,
+"second": "한화투자증권",
+"second_ret": 9.57
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.09,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 4.0,
+"second": "링네트",
+"second_ret": 2.97
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -1.04,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 2.11,
+"second": "드림씨아이에스",
+"second_ret": 0.79
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -0.94,
+"up5": 0,
+"lead": "태영건설",
+"lead_ret": 0.49,
+"second": "인선이엔티",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.89,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 3.23,
+"second": "애경케미칼",
+"second_ret": 1.0
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -0.83,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 1.67,
+"second": "우성머티리얼스",
+"second_ret": 0.85
+}
+],
+"leaders": [
+{
+"name": "대한항공",
+"code": "003490",
+"ret": 12.52,
+"value": 15570,
+"theme": "항공/저가 항공사(LCC)",
+"reason": "테마: 항공/저가 항공사(LCC)"
+},
+{
+"name": "아시아나항공",
+"code": "020560",
+"ret": 29.84,
+"value": 7888,
+"theme": "항공/저가 항공사(LCC)",
+"reason": "테마: 항공/저가 항공사(LCC)"
+},
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 12.85,
+"value": 4620,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "소프트캠프",
+"code": "258790",
+"ret": 13.71,
+"value": 3302,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "아리바이오홀딩스",
+"code": "290690",
+"ret": 21.09,
+"value": 2631,
+"theme": "LED",
+"reason": "테마: LED"
+}
+],
+"backfilled": true
+}

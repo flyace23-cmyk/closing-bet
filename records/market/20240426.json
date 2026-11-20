@@ -1,0 +1,254 @@
+{
+"date": "20240426",
+"kospi": 1.05,
+"kosdaq": 0.42,
+"adv": 1022,
+"dec": 1063,
+"flat": 166,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 178005,
+"hot": [
+{
+"name": "전력설비",
+"n": 10,
+"lead": "대원전선",
+"lead_ret": 29.84,
+"second": "제룡산업",
+"second_ret": 25.99
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "선익시스템",
+"lead_ret": 29.87,
+"second": "티에스이",
+"second_ret": 16.69
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "샘씨엔에스",
+"lead_ret": 12.68,
+"second": "타이거일렉",
+"second_ret": 12.0
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 14.17,
+"up5": 7,
+"lead": "대원전선",
+"lead_ret": 29.84,
+"second": "가온전선",
+"second_ret": 24.93
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 7.41,
+"up5": 17,
+"lead": "대원전선",
+"lead_ret": 29.84,
+"second": "제룡산업",
+"second_ret": 25.99
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.23,
+"up5": 2,
+"lead": "선익시스템",
+"lead_ret": 29.87,
+"second": "야스",
+"second_ret": 6.16
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.61,
+"up5": 3,
+"lead": "티에스이",
+"lead_ret": 16.69,
+"second": "티씨케이",
+"second_ret": 5.34
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.46,
+"up5": 3,
+"lead": "세명전기",
+"lead_ret": 14.06,
+"second": "LS",
+"second_ret": 9.42
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.36,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 8.98,
+"second": "삼성중공업",
+"second_ret": 4.01
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.8,
+"up5": 6,
+"lead": "일진전기",
+"lead_ret": 17.38,
+"second": "한전산업",
+"second_ret": 9.31
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.77,
+"up5": 3,
+"lead": "KB금융",
+"lead_ret": 9.67,
+"second": "신한지주",
+"second_ret": 7.47
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.74,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 8.51,
+"second": "비츠로테크",
+"second_ret": 3.65
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.26,
+"up5": 5,
+"lead": "와이씨",
+"lead_ret": 16.83,
+"second": "케이씨텍",
+"second_ret": 8.14
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.16,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 4.22,
+"second": "SK스퀘어",
+"second_ret": 3.6
+},
+{
+"name": "드론(Drone)",
+"n": 26,
+"avg": 2.16,
+"up5": 4,
+"lead": "아고스",
+"lead_ret": 19.32,
+"second": "덕산하이메탈",
+"second_ret": 10.12
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.07,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.72,
+"second": "지씨셀",
+"second_ret": 0.53
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -1.77,
+"up5": 1,
+"lead": "풍전약품",
+"lead_ret": 11.78,
+"second": "메타케어",
+"second_ret": 2.2
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.62,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.22,
+"second": "샘표",
+"second_ret": -1.4
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.53,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 0.0,
+"second": "손오공",
+"second_ret": -0.36
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.47,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 2.01,
+"second": "드림씨아이에스",
+"second_ret": 0.68
+}
+],
+"leaders": [
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 16.83,
+"value": 7794,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 12.2,
+"value": 4587,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 29.84,
+"value": 3074,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "일진전기",
+"code": "103590",
+"ret": 17.38,
+"value": 2937,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 24.93,
+"value": 2276,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

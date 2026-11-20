@@ -1,0 +1,254 @@
+{
+"date": "20211209",
+"kospi": 0.93,
+"kosdaq": 1.67,
+"adv": 1465,
+"dec": 410,
+"flat": 183,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 250607,
+"hot": [
+{
+"name": "쿠팡(coupang)",
+"n": 3,
+"lead": "아틀라스링크",
+"lead_ret": 29.93,
+"second": "엔비티",
+"second_ret": 14.41
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 3,
+"lead": "갤럭시아에스엠",
+"lead_ret": 18.87,
+"second": "다날",
+"second_ret": 12.5
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에코캡",
+"lead_ret": 29.95,
+"second": "인팩",
+"second_ret": 11.69
+}
+],
+"themes": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.93,
+"up5": 9,
+"lead": "갤럭시아에스엠",
+"lead_ret": 18.87,
+"second": "다날",
+"second_ret": 12.5
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 4.14,
+"up5": 5,
+"lead": "아틀라스링크",
+"lead_ret": 29.93,
+"second": "엔비티",
+"second_ret": 14.41
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 4.07,
+"up5": 3,
+"lead": "한컴라이프케어",
+"lead_ret": 29.93,
+"second": "씨앤투스",
+"second_ret": 29.91
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 3.89,
+"up5": 9,
+"lead": "박셀바이오",
+"lead_ret": 14.83,
+"second": "오스코텍",
+"second_ret": 12.25
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.74,
+"up5": 2,
+"lead": "NHN벅스",
+"lead_ret": 21.3,
+"second": "다날",
+"second_ret": 12.5
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.65,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 6.78,
+"second": "지씨셀",
+"second_ret": 5.88
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.55,
+"up5": 3,
+"lead": "NHN벅스",
+"lead_ret": 21.3,
+"second": "갤럭시아머니트리",
+"second_ret": 9.35
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 3.54,
+"up5": 3,
+"lead": "풍전약품",
+"lead_ret": 18.97,
+"second": "메디포스트",
+"second_ret": 6.78
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 3.49,
+"up5": 2,
+"lead": "아이비김영",
+"lead_ret": 10.71,
+"second": "메가엠디",
+"second_ret": 5.08
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 22,
+"avg": 3.46,
+"up5": 5,
+"lead": "갤럭시아에스엠",
+"lead_ret": 18.87,
+"second": "다날",
+"second_ret": 12.5
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 3.46,
+"up5": 4,
+"lead": "에코캡",
+"lead_ret": 29.95,
+"second": "대원화성",
+"second_ret": 11.21
+},
+{
+"name": "공기청정기",
+"n": 11,
+"avg": 3.21,
+"up5": 1,
+"lead": "씨앤투스",
+"lead_ret": 29.91,
+"second": "위닉스",
+"second_ret": 3.5
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.46,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": 0.11,
+"second": "신성이엔지",
+"second_ret": 0.0
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.53,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 3.6,
+"second": "국제약품",
+"second_ret": 1.37
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": -0.51,
+"up5": 1,
+"lead": "한화에어로스페이스",
+"lead_ret": 6.54,
+"second": "S-Oil",
+"second_ret": 1.7
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -0.4,
+"up5": 0,
+"lead": "광무",
+"lead_ret": 3.56,
+"second": "에스넷",
+"second_ret": 0.73
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": -0.21,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 6.78,
+"second": "인바디",
+"second_ret": 2.61
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 12.5,
+"value": 8845,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "NHN벅스",
+"code": "104200",
+"ret": 21.3,
+"value": 4712,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 14.83,
+"value": 2092,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "FSN",
+"code": "214270",
+"ret": 10.91,
+"value": 2041,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "에코캡",
+"code": "128540",
+"ret": 29.95,
+"value": 1606,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

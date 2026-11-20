@@ -1,0 +1,254 @@
+{
+"date": "20250627",
+"kospi": -0.77,
+"kosdaq": -0.81,
+"adv": 570,
+"dec": 1701,
+"flat": 93,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 188270,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 4,
+"lead": "다날",
+"lead_ret": 10.52,
+"second": "사토시홀딩스",
+"second_ret": 10.4
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "코오롱",
+"lead_ret": 19.29,
+"second": "콜마홀딩스",
+"second_ret": 18.91
+},
+{
+"name": "전력설비",
+"n": 3,
+"lead": "일진전기",
+"lead_ret": 13.42,
+"second": "비츠로테크",
+"second_ret": 12.28
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.36,
+"up5": 1,
+"lead": "오로라",
+"lead_ret": 29.95,
+"second": "손오공",
+"second_ret": 4.52
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.82,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 13.42,
+"second": "LS마린솔루션",
+"second_ret": 9.93
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.17,
+"up5": 4,
+"lead": "위드텍",
+"lead_ret": 25.21,
+"second": "비츠로테크",
+"second_ret": 12.28
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.03,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 12.28,
+"second": "두산에너빌리티",
+"second_ret": 1.7
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 1.63,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 23.72,
+"second": "TPC로보틱스",
+"second_ret": 14.05
+},
+{
+"name": "엔젤산업",
+"n": 23,
+"avg": 1.61,
+"up5": 1,
+"lead": "오로라",
+"lead_ret": 29.95,
+"second": "손오공",
+"second_ret": 4.52
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.22,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 11.25,
+"second": "강스템바이오텍",
+"second_ret": 1.01
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.12,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 7.82,
+"second": "신한지주",
+"second_ret": 1.34
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.0,
+"up5": 2,
+"lead": "코오롱",
+"lead_ret": 19.29,
+"second": "코오롱인더",
+"second_ret": 5.01
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 0.96,
+"up5": 3,
+"lead": "일진전기",
+"lead_ret": 13.42,
+"second": "비츠로테크",
+"second_ret": 12.28
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 0.93,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 10.52,
+"second": "사토시홀딩스",
+"second_ret": 10.4
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 0.83,
+"up5": 1,
+"lead": "KCTC",
+"lead_ret": 14.67,
+"second": "한솔로지스틱스",
+"second_ret": 3.05
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.78,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -2.37,
+"second": "삼성SDI",
+"second_ret": -2.81
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -3.62,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": -0.98,
+"second": "LG화학",
+"second_ret": -3.24
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.58,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 0.0,
+"second": "세방전지",
+"second_ret": -1.17
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": -3.01,
+"up5": 0,
+"lead": "이지트로닉스",
+"lead_ret": -0.32,
+"second": "웰크론한텍",
+"second_ret": -0.73
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": -2.79,
+"up5": 0,
+"lead": "석경에이티",
+"lead_ret": 0.31,
+"second": "엠플러스",
+"second_ret": -0.97
+}
+],
+"leaders": [
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 23.72,
+"value": 3772,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "일진전기",
+"code": "103590",
+"ret": 13.42,
+"value": 1840,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "콜마홀딩스",
+"code": "024720",
+"ret": 18.91,
+"value": 1776,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "코오롱",
+"code": "002020",
+"ret": 19.29,
+"value": 1448,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 10.52,
+"value": 1359,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

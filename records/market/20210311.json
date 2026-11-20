@@ -1,0 +1,254 @@
+{
+"date": "20210311",
+"kospi": 1.88,
+"kosdaq": 2.02,
+"adv": 1464,
+"dec": 371,
+"flat": 152,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 252145,
+"hot": [
+{
+"name": "쿠팡(coupang)",
+"n": 3,
+"lead": "한국전자홀딩스",
+"lead_ret": 29.61,
+"second": "다날",
+"second_ret": 19.21
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "효성티앤씨",
+"lead_ret": 11.92,
+"second": "한화에어로스페이스",
+"second_ret": 11.34
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "오늘이엔엠",
+"lead_ret": 20.51,
+"second": "HD건설기계",
+"second_ret": 15.62
+}
+],
+"themes": [
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 4.62,
+"up5": 5,
+"lead": "한국전자홀딩스",
+"lead_ret": 29.61,
+"second": "다날",
+"second_ret": 19.21
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.49,
+"up5": 4,
+"lead": "HD건설기계",
+"lead_ret": 15.62,
+"second": "디와이파워",
+"second_ret": 11.44
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.45,
+"up5": 4,
+"lead": "아이진",
+"lead_ret": 25.19,
+"second": "올릭스",
+"second_ret": 5.42
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 4.41,
+"up5": 2,
+"lead": "한미반도체",
+"lead_ret": 8.66,
+"second": "켄코아에어로스페이스",
+"second_ret": 7.07
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.26,
+"up5": 3,
+"lead": "효성티앤씨",
+"lead_ret": 11.92,
+"second": "코오롱인더",
+"second_ret": 8.75
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 4.2,
+"up5": 2,
+"lead": "삼성SDI",
+"lead_ret": 8.02,
+"second": "에코프로비엠",
+"second_ret": 7.19
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.09,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 11.92,
+"second": "코오롱인더",
+"second_ret": 8.75
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.92,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 14.71,
+"second": "엘티씨",
+"second_ret": 5.04
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.87,
+"up5": 6,
+"lead": "티케이케미칼",
+"lead_ret": 17.15,
+"second": "코오롱인더",
+"second_ret": 8.75
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.81,
+"up5": 2,
+"lead": "아이에이",
+"lead_ret": 18.15,
+"second": "유비벨록스",
+"second_ret": 5.2
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.66,
+"up5": 5,
+"lead": "아스트",
+"lead_ret": 13.48,
+"second": "한화에어로스페이스",
+"second_ret": 11.34
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 3.66,
+"up5": 2,
+"lead": "잉크테크",
+"lead_ret": 10.33,
+"second": "한미반도체",
+"second_ret": 8.66
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -1.1,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 1.16,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -0.79,
+"up5": 0,
+"lead": "교촌에프앤비",
+"lead_ret": 1.15,
+"second": "푸드나무",
+"second_ret": 0.2
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.67,
+"up5": 0,
+"lead": "HDC",
+"lead_ret": 0.93,
+"second": "글로벌텍스프리",
+"second_ret": 0.15
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.66,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 2.67,
+"second": "롯데정밀화학",
+"second_ret": 0.78
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.57,
+"up5": 0,
+"lead": "SBS",
+"lead_ret": 1.58,
+"second": "하이트진로홀딩스",
+"second_ret": 0.64
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 19.21,
+"value": 11322,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 20.17,
+"value": 3729,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "KCTC",
+"code": "009070",
+"ret": 10.18,
+"value": 2682,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "아이에이",
+"code": "038880",
+"ret": 18.15,
+"value": 2398,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "원익큐브",
+"code": "014190",
+"ret": 29.82,
+"value": 2367,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

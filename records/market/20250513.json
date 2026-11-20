@@ -1,0 +1,254 @@
+{
+"date": "20250513",
+"kospi": 0.04,
+"kosdaq": 0.89,
+"adv": 1166,
+"dec": 1019,
+"flat": 169,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 150568,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "유진로봇",
+"lead_ret": 29.91,
+"second": "나우로보틱스",
+"second_ret": 29.73
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "유진로봇",
+"lead_ret": 29.91,
+"second": "시선AI",
+"second_ret": 16.45
+},
+{
+"name": "오가노이드",
+"n": 3,
+"lead": "토모큐브",
+"lead_ret": 27.14,
+"second": "오가노이드사이언스",
+"second_ret": 19.54
+}
+],
+"themes": [
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 8.64,
+"up5": 4,
+"lead": "토모큐브",
+"lead_ret": 27.14,
+"second": "오가노이드사이언스",
+"second_ret": 19.54
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.16,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 29.96,
+"second": "인선이엔티",
+"second_ret": 2.09
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.0,
+"up5": 3,
+"lead": "오에스피",
+"lead_ret": 29.95,
+"second": "선진",
+"second_ret": 14.67
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.85,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 5.81,
+"second": "STX그린로지스",
+"second_ret": 5.29
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.78,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 29.93,
+"second": "에어부산",
+"second_ret": 0.71
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 30,
+"avg": 2.78,
+"up5": 4,
+"lead": "파루",
+"lead_ret": 29.96,
+"second": "선진",
+"second_ret": 14.67
+},
+{
+"name": "3D 프린터",
+"n": 10,
+"avg": 2.76,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 9.81,
+"second": "로킷헬스케어",
+"second_ret": 5.49
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 41,
+"avg": 2.38,
+"up5": 5,
+"lead": "유진로봇",
+"lead_ret": 29.91,
+"second": "나우로보틱스",
+"second_ret": 29.73
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 69,
+"avg": 2.36,
+"up5": 8,
+"lead": "유진로봇",
+"lead_ret": 29.91,
+"second": "나우로보틱스",
+"second_ret": 29.73
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.35,
+"up5": 1,
+"lead": "디에스케이",
+"lead_ret": 17.64,
+"second": "휴온스글로벌",
+"second_ret": 3.56
+},
+{
+"name": "의료AI",
+"n": 26,
+"avg": 2.14,
+"up5": 5,
+"lead": "시선AI",
+"lead_ret": 16.45,
+"second": "쓰리빌리언",
+"second_ret": 5.92
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.13,
+"up5": 2,
+"lead": "삼천당제약",
+"lead_ret": 8.5,
+"second": "바이넥스",
+"second_ret": 8.42
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.81,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": -0.46,
+"second": "갤럭시아머니트리",
+"second_ret": -2.11
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -2.82,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 4.59,
+"second": "LB인베스트먼트",
+"second_ret": 2.32
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.58,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 5.04,
+"second": "LS",
+"second_ret": 3.04
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -2.17,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 1.13,
+"second": "사람인",
+"second_ret": -1.19
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.01,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.44,
+"second": "메가터치",
+"second_ret": -0.58
+}
+],
+"leaders": [
+{
+"name": "오가노이드사이언스",
+"code": "476040",
+"ret": 19.54,
+"value": 3967,
+"theme": "오가노이드",
+"reason": "테마: 오가노이드"
+},
+{
+"name": "평화홀딩스",
+"code": "010770",
+"ret": 12.96,
+"value": 1716,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "디앤디파마텍",
+"code": "347850",
+"ret": 26.34,
+"value": 1570,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 13.8,
+"value": 1201,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "한국피아이엠",
+"code": "448900",
+"ret": 10.78,
+"value": 1139,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

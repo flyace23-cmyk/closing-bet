@@ -1,0 +1,238 @@
+{
+"date": "20210203",
+"kospi": 1.06,
+"kosdaq": 0.71,
+"adv": 1201,
+"dec": 576,
+"flat": 201,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 354371,
+"hot": [
+{
+"name": "자동차부품",
+"n": 12,
+"lead": "구영테크",
+"lead_ret": 29.92,
+"second": "화신",
+"second_ret": 24.17
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.23,
+"up5": 3,
+"lead": "HL만도",
+"lead_ret": 11.31,
+"second": "기아",
+"second_ret": 9.65
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 4.78,
+"up5": 6,
+"lead": "삼표시멘트",
+"lead_ret": 16.92,
+"second": "서산",
+"second_ret": 8.88
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 4.45,
+"up5": 6,
+"lead": "모베이스전자",
+"lead_ret": 21.64,
+"second": "피에이치에이",
+"second_ret": 17.27
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 4.45,
+"up5": 4,
+"lead": "엠씨넥스",
+"lead_ret": 14.92,
+"second": "HL만도",
+"second_ret": 11.31
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.35,
+"up5": 3,
+"lead": "태광산업",
+"lead_ret": 8.88,
+"second": "코오롱인더",
+"second_ret": 8.55
+},
+{
+"name": "자동차부품",
+"n": 132,
+"avg": 4.11,
+"up5": 36,
+"lead": "구영테크",
+"lead_ret": 29.92,
+"second": "화신",
+"second_ret": 24.17
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 3.94,
+"up5": 3,
+"lead": "다산솔루에타",
+"lead_ret": 18.86,
+"second": "제너셈",
+"second_ret": 6.06
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.67,
+"up5": 1,
+"lead": "벽산",
+"lead_ret": 6.84,
+"second": "노루페인트",
+"second_ret": 4.73
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.64,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 6.16,
+"second": "현대건설",
+"second_ret": 3.7
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.63,
+"up5": 1,
+"lead": "와이엔텍",
+"lead_ret": 6.55,
+"second": "웰크론한텍",
+"second_ret": 4.79
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.47,
+"up5": 3,
+"lead": "한국앤컴퍼니",
+"lead_ret": 13.19,
+"second": "코오롱인더",
+"second_ret": 8.55
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.4,
+"up5": 5,
+"lead": "효성화학",
+"lead_ret": 20.16,
+"second": "태광산업",
+"second_ret": 8.88
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.09,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": 0.35,
+"second": "SBI인베스트먼트",
+"second_ret": -0.37
+},
+{
+"name": "의료AI",
+"n": 12,
+"avg": -1.58,
+"up5": 0,
+"lead": "엔젠바이오",
+"lead_ret": 2.31,
+"second": "제이엘케이",
+"second_ret": 1.74
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -1.35,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 3.15,
+"second": "팬스타엔터프라이즈",
+"second_ret": 1.2
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 1.22,
+"second": "엔비티",
+"second_ret": 0.99
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": -1.21,
+"up5": 1,
+"lead": "녹십자",
+"lead_ret": 7.21,
+"second": "바이넥스",
+"second_ret": 3.58
+}
+],
+"leaders": [
+{
+"name": "링크드",
+"code": "193250",
+"ret": 21.99,
+"value": 3718,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 10.18,
+"value": 3411,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "HL만도",
+"code": "204320",
+"ret": 11.31,
+"value": 2714,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "엠씨넥스",
+"code": "097520",
+"ret": 14.92,
+"value": 2541,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "아진산업",
+"code": "013310",
+"ret": 10.87,
+"value": 2098,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20211110",
+"kospi": -1.09,
+"kosdaq": -2.07,
+"adv": 252,
+"dec": 1698,
+"flat": 100,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 588542,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 24.89,
+"second": "컴투스",
+"second_ret": 12.34
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "파수AI",
+"lead_ret": 12.76,
+"second": "이스트소프트",
+"second_ret": 9.14
+},
+{
+"name": "웹툰",
+"n": 3,
+"lead": "엔키AX",
+"lead_ret": 29.97,
+"second": "조이시티",
+"second_ret": 9.14
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.0,
+"up5": 2,
+"lead": "파수AI",
+"lead_ret": 12.76,
+"second": "이스트소프트",
+"second_ret": 9.14
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.93,
+"up5": 2,
+"lead": "졸스",
+"lead_ret": 29.9,
+"second": "쇼박스",
+"second_ret": 9.21
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.52,
+"up5": 3,
+"lead": "엔키AX",
+"lead_ret": 29.97,
+"second": "조이시티",
+"second_ret": 9.14
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.01,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 10.3,
+"second": "에피소드컴퍼니",
+"second_ret": 4.22
+},
+{
+"name": "마이데이터",
+"n": 10,
+"avg": 1.31,
+"up5": 2,
+"lead": "파수AI",
+"lead_ret": 12.76,
+"second": "핑거",
+"second_ret": 5.67
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 0.98,
+"up5": 8,
+"lead": "컴투스홀딩스",
+"lead_ret": 24.89,
+"second": "컴투스",
+"second_ret": 12.34
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 0.53,
+"up5": 2,
+"lead": "지아이에스",
+"lead_ret": 19.55,
+"second": "원준",
+"second_ret": 5.27
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 0.32,
+"up5": 2,
+"lead": "오킨스전자",
+"lead_ret": 5.71,
+"second": "코리아써키트",
+"second_ret": 5.13
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 0.21,
+"up5": 1,
+"lead": "삼성출판사",
+"lead_ret": 11.87,
+"second": "에피소드컴퍼니",
+"second_ret": 4.22
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 0.18,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 5.13,
+"second": "대덕전자",
+"second_ret": 1.06
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -0.07,
+"up5": 1,
+"lead": "지아이에스",
+"lead_ret": 19.55,
+"second": "미래컴퍼니",
+"second_ret": 1.17
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": -0.08,
+"up5": 1,
+"lead": "삼성출판사",
+"lead_ret": 11.87,
+"second": "에피소드컴퍼니",
+"second_ret": 4.22
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -7.63,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": -4.67,
+"second": "롯데정밀화학",
+"second_ret": -4.83
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -4.98,
+"up5": 0,
+"lead": "체시스",
+"lead_ret": 1.14,
+"second": "누보",
+"second_ret": 0.0
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -4.93,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": -1.64,
+"second": "그래디언트",
+"second_ret": -3.45
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -4.73,
+"up5": 0,
+"lead": "SUN&L",
+"lead_ret": -0.36,
+"second": "SK",
+"second_ret": -2.48
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -4.73,
+"up5": 0,
+"lead": "SUN&L",
+"lead_ret": -0.36,
+"second": "SK",
+"second_ret": -2.48
+}
+],
+"leaders": [
+{
+"name": "컴투스",
+"code": "078340",
+"ret": 12.34,
+"value": 9523,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 24.89,
+"value": 4102,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "대원화성",
+"code": "024890",
+"ret": 10.33,
+"value": 2046,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "데브시스터즈",
+"code": "194480",
+"ret": 10.3,
+"value": 1817,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "졸스",
+"code": "018700",
+"ret": 29.9,
+"value": 1682,
+"theme": "영화",
+"reason": "테마: 영화"
+}
+],
+"backfilled": true
+}

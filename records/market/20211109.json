@@ -1,0 +1,254 @@
+{
+"date": "20211109",
+"kospi": 0.08,
+"kosdaq": 0.62,
+"adv": 692,
+"dec": 1180,
+"flat": 178,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 291525,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 5,
+"lead": "네오위즈홀딩스",
+"lead_ret": 18.61,
+"second": "컴투스",
+"second_ret": 12.72
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 4,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.95,
+"second": "갤럭시아머니트리",
+"second_ret": 29.81
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 4,
+"lead": "셀바스AI",
+"lead_ret": 29.94,
+"second": "네오위즈홀딩스",
+"second_ret": 18.61
+}
+],
+"themes": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 8.58,
+"up5": 11,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.95,
+"second": "갤럭시아머니트리",
+"second_ret": 29.81
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 5.27,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.81,
+"second": "NHN벅스",
+"second_ret": 16.33
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.65,
+"up5": 8,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.81,
+"second": "FSN",
+"second_ret": 24.77
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 4.46,
+"up5": 8,
+"lead": "셀바스AI",
+"lead_ret": 29.94,
+"second": "갤럭시아머니트리",
+"second_ret": 29.81
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.91,
+"up5": 13,
+"lead": "네오위즈홀딩스",
+"lead_ret": 18.61,
+"second": "컴투스",
+"second_ret": 12.72
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 3.84,
+"up5": 4,
+"lead": "엔키AX",
+"lead_ret": 14.14,
+"second": "NHN",
+"second_ret": 12.26
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": 3.81,
+"up5": 8,
+"lead": "셀바스AI",
+"lead_ret": 29.94,
+"second": "네오위즈홀딩스",
+"second_ret": 18.61
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 3.69,
+"up5": 4,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.95,
+"second": "갤럭시아머니트리",
+"second_ret": 29.81
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.5,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 29.94,
+"second": "브리지텍",
+"second_ret": 7.81
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.48,
+"up5": 4,
+"lead": "제이씨현시스템",
+"lead_ret": 13.79,
+"second": "NHN",
+"second_ret": 12.26
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 3.34,
+"up5": 10,
+"lead": "네오위즈홀딩스",
+"lead_ret": 18.61,
+"second": "컴투스",
+"second_ret": 12.72
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.32,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.81,
+"second": "NHN",
+"second_ret": 12.26
+}
+],
+"themes_worst": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -2.44,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 0.44,
+"second": "대웅제약",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.42,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": -0.68,
+"second": "엔브이에이치코리아",
+"second_ret": -0.91
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -2.35,
+"up5": 1,
+"lead": "피엔티",
+"lead_ret": 8.32,
+"second": "디와이",
+"second_ret": 4.63
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -2.18,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 0.34,
+"second": "박셀바이오",
+"second_ret": 0.32
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": -2.04,
+"up5": 0,
+"lead": "SG&G",
+"lead_ret": 0.44,
+"second": "선광",
+"second_ret": -0.54
+}
+],
+"leaders": [
+{
+"name": "컴투스",
+"code": "078340",
+"ret": 12.72,
+"value": 3143,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 29.81,
+"value": 2510,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "갤럭시아에스엠",
+"code": "011420",
+"ret": 29.95,
+"value": 1706,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "데브시스터즈",
+"code": "194480",
+"ret": 11.57,
+"value": 1512,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "신원종합개발",
+"code": "017000",
+"ret": 14.88,
+"value": 1304,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

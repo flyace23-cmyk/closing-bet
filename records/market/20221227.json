@@ -1,0 +1,246 @@
+{
+"date": "20221227",
+"kospi": 0.68,
+"kosdaq": 1.37,
+"adv": 1512,
+"dec": 455,
+"flat": 161,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 108059,
+"hot": [
+{
+"name": "화장품",
+"n": 13,
+"lead": "한국화장품제조",
+"lead_ret": 29.82,
+"second": "코스메카코리아",
+"second_ret": 21.33
+},
+{
+"name": "드론(Drone)",
+"n": 6,
+"lead": "제이씨현시스템",
+"lead_ret": 29.94,
+"second": "퍼스텍",
+"second_ret": 18.47
+}
+],
+"themes": [
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": 5.1,
+"up5": 9,
+"lead": "제이씨현시스템",
+"lead_ret": 29.94,
+"second": "퍼스텍",
+"second_ret": 18.47
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.9,
+"up5": 3,
+"lead": "토니모리",
+"lead_ret": 13.75,
+"second": "JTC",
+"second_ret": 7.78
+},
+{
+"name": "화장품",
+"n": 81,
+"avg": 3.98,
+"up5": 28,
+"lead": "한국화장품제조",
+"lead_ret": 29.82,
+"second": "코스메카코리아",
+"second_ret": 21.33
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.73,
+"up5": 2,
+"lead": "SAMG엔터",
+"lead_ret": 9.48,
+"second": "데브시스터즈",
+"second_ret": 6.17
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 3.63,
+"up5": 7,
+"lead": "퍼스텍",
+"lead_ret": 18.47,
+"second": "지아이에스",
+"second_ret": 12.52
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.45,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 6.95,
+"second": "참좋은여행",
+"second_ret": 6.44
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 3.21,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 16.03,
+"second": "비츠로시스",
+"second_ret": 2.01
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 3.18,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 6.95,
+"second": "호텔신라",
+"second_ret": 4.94
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.05,
+"up5": 2,
+"lead": "제이씨현시스템",
+"lead_ret": 29.94,
+"second": "에스넷",
+"second_ret": 5.66
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 3.0,
+"up5": 4,
+"lead": "제이씨현시스템",
+"lead_ret": 29.94,
+"second": "한빛소프트",
+"second_ret": 6.21
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.98,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 7.92,
+"second": "에스넷",
+"second_ret": 5.66
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 2.86,
+"up5": 2,
+"lead": "지아이에스",
+"lead_ret": 12.52,
+"second": "아모텍",
+"second_ret": 6.08
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 38,
+"avg": -0.94,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 3.59,
+"second": "팜젠사이언스",
+"second_ret": 2.93
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 68,
+"avg": -0.45,
+"up5": 0,
+"lead": "케어젠",
+"lead_ret": 4.32,
+"second": "유바이오로직스",
+"second_ret": 3.59
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -0.3,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 2.47,
+"second": "네이처셀",
+"second_ret": 2.33
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 39,
+"avg": -0.21,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 3.59,
+"second": "코미팜",
+"second_ret": 2.72
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -0.2,
+"up5": 0,
+"lead": "코윈로보틱스",
+"lead_ret": 1.88,
+"second": "파워넷",
+"second_ret": 1.7
+}
+],
+"leaders": [
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 11.68,
+"value": 1847,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 18.47,
+"value": 1279,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+},
+{
+"name": "F&F홀딩스",
+"code": "007700",
+"ret": 11.4,
+"value": 985,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "코리아나",
+"code": "027050",
+"ret": 14.85,
+"value": 453,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "오리콤",
+"code": "010470",
+"ret": 13.77,
+"value": 452,
+"theme": "광고",
+"reason": "테마: 광고"
+}
+],
+"backfilled": true
+}

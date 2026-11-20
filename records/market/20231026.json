@@ -1,0 +1,254 @@
+{
+"date": "20231026",
+"kospi": -2.71,
+"kosdaq": -3.5,
+"adv": 176,
+"dec": 1973,
+"flat": 50,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 145544,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "한주라이트메탈",
+"lead_ret": 21.22,
+"second": "디와이에이",
+"second_ret": 18.09
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "멕아이씨에스",
+"lead_ret": 29.98,
+"second": "제이엘케이",
+"second_ret": 7.11
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "지엘팜텍",
+"lead_ret": 16.88,
+"second": "국제약품",
+"second_ret": 8.72
+}
+],
+"themes": [
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.73,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 22.63,
+"second": "흥구석유",
+"second_ret": 5.69
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.05,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 22.63,
+"second": "흥구석유",
+"second_ret": 5.69
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.05,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 22.63,
+"second": "흥구석유",
+"second_ret": 5.69
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 0.65,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 22.63,
+"second": "흥구석유",
+"second_ret": 5.69
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 0.5,
+"up5": 1,
+"lead": "삼성출판사",
+"lead_ret": 29.95,
+"second": "꿈비",
+"second_ret": 3.33
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 0.22,
+"up5": 1,
+"lead": "삼성출판사",
+"lead_ret": 29.95,
+"second": "꿈비",
+"second_ret": 3.33
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -0.07,
+"up5": 1,
+"lead": "삼성출판사",
+"lead_ret": 29.95,
+"second": "에피소드컴퍼니",
+"second_ret": 2.29
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -0.11,
+"up5": 2,
+"lead": "푸드나무",
+"lead_ret": 9.79,
+"second": "마니커에프앤지",
+"second_ret": 5.08
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.73,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 22.63,
+"second": "엔피케이",
+"second_ret": -1.44
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.86,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": 1.52,
+"second": "대성산업",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.0,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": -0.39,
+"second": "코리안리",
+"second_ret": -0.56
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.03,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 2.29,
+"second": "데브시스터즈",
+"second_ret": 1.53
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -8.91,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.83,
+"second": "티앤알바이오팹",
+"second_ret": -2.09
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -6.1,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": -2.32,
+"second": "오픈베이스",
+"second_ret": -3.69
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -5.7,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 0.82,
+"second": "LG이노텍",
+"second_ret": -3.3
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -5.3,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": -2.19,
+"second": "한울반도체",
+"second_ret": -3.03
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.26,
+"up5": 0,
+"lead": "케스피온",
+"lead_ret": -0.13,
+"second": "태경산업",
+"second_ret": -1.66
+}
+],
+"leaders": [
+{
+"name": "극동유화",
+"code": "014530",
+"ret": 22.63,
+"value": 1396,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "한주라이트메탈",
+"code": "198940",
+"ret": 21.22,
+"value": 577,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "디와이에이",
+"code": "002880",
+"ret": 18.09,
+"value": 295,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "멕아이씨에스",
+"code": "058110",
+"ret": 29.98,
+"value": 286,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼성출판사",
+"code": "068290",
+"ret": 29.95,
+"value": 166,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+}
+],
+"backfilled": true
+}

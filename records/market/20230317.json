@@ -1,0 +1,254 @@
+{
+"date": "20230317",
+"kospi": 0.75,
+"kosdaq": 1.97,
+"adv": 1742,
+"dec": 334,
+"flat": 68,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 216773,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "하나마이크론",
+"lead_ret": 20.3,
+"second": "로보스타",
+"second_ret": 18.67
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "뉴로메카",
+"lead_ret": 30.0,
+"second": "에스피시스템스",
+"second_ret": 29.95
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "로보스타",
+"lead_ret": 18.67,
+"second": "마음AI",
+"second_ret": 16.77
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 6.24,
+"up5": 4,
+"lead": "로보스타",
+"lead_ret": 18.67,
+"second": "TPC로보틱스",
+"second_ret": 7.06
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 6.01,
+"up5": 14,
+"lead": "폴라리스오피스",
+"lead_ret": 28.7,
+"second": "마음AI",
+"second_ret": 16.77
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": 6.0,
+"up5": 28,
+"lead": "로보스타",
+"lead_ret": 18.67,
+"second": "마음AI",
+"second_ret": 16.77
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 60,
+"avg": 5.86,
+"up5": 30,
+"lead": "뉴로메카",
+"lead_ret": 30.0,
+"second": "에스피시스템스",
+"second_ret": 29.95
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 5.81,
+"up5": 9,
+"lead": "폴라리스오피스",
+"lead_ret": 28.7,
+"second": "딥노이드",
+"second_ret": 15.84
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": 5.43,
+"up5": 3,
+"lead": "네패스",
+"lead_ret": 10.88,
+"second": "앤씨앤",
+"second_ret": 7.03
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 5.41,
+"up5": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 28.7,
+"second": "소프트캠프",
+"second_ret": 9.0
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 30,
+"avg": 5.22,
+"up5": 12,
+"lead": "뉴로메카",
+"lead_ret": 30.0,
+"second": "에스비비테크",
+"second_ret": 23.14
+},
+{
+"name": "반도체 장비",
+"n": 83,
+"avg": 5.21,
+"up5": 41,
+"lead": "하나마이크론",
+"lead_ret": 20.3,
+"second": "로보스타",
+"second_ret": 18.67
+},
+{
+"name": "가상현실(VR)",
+"n": 21,
+"avg": 5.03,
+"up5": 6,
+"lead": "라온텍",
+"lead_ret": 22.58,
+"second": "에스코넥",
+"second_ret": 16.83
+},
+{
+"name": "증강현실(AR)",
+"n": 15,
+"avg": 5.0,
+"up5": 5,
+"lead": "라온텍",
+"lead_ret": 22.58,
+"second": "이랜텍",
+"second_ret": 7.33
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 4.9,
+"up5": 2,
+"lead": "라온텍",
+"lead_ret": 22.58,
+"second": "영우디에스피",
+"second_ret": 6.21
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.01,
+"up5": 0,
+"lead": "후성",
+"lead_ret": 3.8,
+"second": "미래산업",
+"second_ret": 3.45
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.42,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 3.03,
+"second": "애경케미칼",
+"second_ret": 1.0
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": -1.42,
+"up5": 0,
+"lead": "원익피앤이",
+"lead_ret": 4.11,
+"second": "인선이엔티",
+"second_ret": 3.37
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.41,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": 0.95,
+"second": "HD한국조선해양",
+"second_ret": 0.69
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 65,
+"avg": -1.11,
+"up5": 3,
+"lead": "에스코넥",
+"lead_ret": 16.83,
+"second": "이랜텍",
+"second_ret": 7.33
+}
+],
+"leaders": [
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 18.67,
+"value": 4627,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "인탑스",
+"code": "049070",
+"ret": 26.07,
+"value": 3763,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 18.66,
+"value": 2892,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 30.0,
+"value": 2646,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에스비비테크",
+"code": "389500",
+"ret": 23.14,
+"value": 2139,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

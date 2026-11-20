@@ -1,0 +1,246 @@
+{
+"date": "20220801",
+"kospi": 0.03,
+"kosdaq": 0.5,
+"adv": 1094,
+"dec": 778,
+"flat": 221,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 119776,
+"hot": [
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "오리엔탈정공",
+"lead_ret": 10.28,
+"second": "일승",
+"second_ret": 10.21
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 3,
+"lead": "일승",
+"lead_ret": 10.21,
+"second": "한화엔진",
+"second_ret": 8.24
+}
+],
+"themes": [
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 4.98,
+"up5": 3,
+"lead": "우성머티리얼스",
+"lead_ret": 30.02,
+"second": "유니온머티리얼",
+"second_ret": 16.31
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.89,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 16.31,
+"second": "유니온",
+"second_ret": 5.19
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.85,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 30.02,
+"second": "코오롱인더",
+"second_ret": 0.73
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.47,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 8.0,
+"second": "한화오션",
+"second_ret": 3.78
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 3.04,
+"up5": 1,
+"lead": "현대바이오랜드",
+"lead_ret": 30.0,
+"second": "덴티스",
+"second_ret": 3.15
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 2.66,
+"up5": 5,
+"lead": "오리엔탈정공",
+"lead_ret": 10.28,
+"second": "일승",
+"second_ret": 10.21
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.34,
+"up5": 2,
+"lead": "국일신동",
+"lead_ret": 30.0,
+"second": "조일알미늄",
+"second_ret": 5.02
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.34,
+"up5": 1,
+"lead": "로스웰",
+"lead_ret": 16.19,
+"second": "딥커머스",
+"second_ret": 3.18
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.02,
+"up5": 1,
+"lead": "휴스틸",
+"lead_ret": 5.23,
+"second": "SK오션플랜트",
+"second_ret": 3.9
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 2.02,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 6.95,
+"second": "에코프로",
+"second_ret": 2.8
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.99,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 16.31,
+"second": "EG",
+"second_ret": 2.49
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.99,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 16.31,
+"second": "EG",
+"second_ret": 2.49
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -1.73,
+"up5": 0,
+"lead": "삼양패키징",
+"lead_ret": 0.26,
+"second": "디아이씨",
+"second_ret": -0.55
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.63,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 1.14,
+"second": "NHN",
+"second_ret": 0.55
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -1.22,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 0.4,
+"second": "손오공",
+"second_ret": 0.25
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -1.12,
+"up5": 0,
+"lead": "나이스정보통신",
+"lead_ret": 1.19,
+"second": "KG파이낸셜",
+"second_ret": 1.14
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.12,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 1.63,
+"second": "유성티엔에스",
+"second_ret": 0.19
+}
+],
+"leaders": [
+{
+"name": "SDN",
+"code": "099220",
+"ret": 17.29,
+"value": 3376,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "압타바이오",
+"code": "293780",
+"ret": 17.95,
+"value": 2743,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "유니온머티리얼",
+"code": "047400",
+"ret": 16.31,
+"value": 788,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "케이사인",
+"code": "192250",
+"ret": 11.26,
+"value": 465,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "심텍홀딩스",
+"code": "036710",
+"ret": 11.81,
+"value": 405,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+}
+],
+"backfilled": true
+}

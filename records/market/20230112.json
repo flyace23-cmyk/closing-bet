@@ -1,0 +1,246 @@
+{
+"date": "20230112",
+"kospi": 0.24,
+"kosdaq": 0.15,
+"adv": 989,
+"dec": 950,
+"flat": 189,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 118448,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "혜인",
+"lead_ret": 30.0,
+"second": "한화에어로스페이스",
+"second_ret": 6.93
+},
+{
+"name": "DMZ 평화공원",
+"n": 3,
+"lead": "일신석재",
+"lead_ret": 24.31,
+"second": "코아스",
+"second_ret": 12.4
+}
+],
+"themes": [
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 2.84,
+"up5": 5,
+"lead": "씨엔플러스",
+"lead_ret": 29.9,
+"second": "씨에스윈드",
+"second_ret": 9.55
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.78,
+"up5": 3,
+"lead": "일신석재",
+"lead_ret": 24.31,
+"second": "코아스",
+"second_ret": 12.4
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.72,
+"up5": 1,
+"lead": "혜인",
+"lead_ret": 30.0,
+"second": "동일금속",
+"second_ret": 2.21
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.43,
+"up5": 1,
+"lead": "태광",
+"lead_ret": 5.23,
+"second": "성광벤드",
+"second_ret": 4.76
+},
+{
+"name": "태양광에너지",
+"n": 39,
+"avg": 2.18,
+"up5": 3,
+"lead": "혜인",
+"lead_ret": 30.0,
+"second": "씨엔플러스",
+"second_ret": 29.9
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.91,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 7.6,
+"second": "드림씨아이에스",
+"second_ret": 3.86
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.72,
+"up5": 1,
+"lead": "뉴보텍",
+"lead_ret": 8.4,
+"second": "대동",
+"second_ret": 2.06
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 1.56,
+"up5": 2,
+"lead": "이브이첨단소재",
+"lead_ret": 18.22,
+"second": "테이팩스",
+"second_ret": 9.22
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.51,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": 4.14,
+"second": "디케이락",
+"second_ret": 4.09
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.46,
+"up5": 3,
+"lead": "일신석재",
+"lead_ret": 24.31,
+"second": "제이에스티나",
+"second_ret": 6.85
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 1.43,
+"up5": 1,
+"lead": "태광",
+"lead_ret": 5.23,
+"second": "성광벤드",
+"second_ret": 4.76
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 1.33,
+"up5": 1,
+"lead": "제룡전기",
+"lead_ret": 7.14,
+"second": "HD현대일렉트릭",
+"second_ret": 4.97
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.95,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 0.0,
+"second": "코텍",
+"second_ret": -0.33
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.95,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 0.0,
+"second": "코텍",
+"second_ret": -0.33
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.06,
+"up5": 0,
+"lead": "레드캡투어",
+"lead_ret": 0.27,
+"second": "SM C&C",
+"second_ret": -0.31
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -2.04,
+"up5": 0,
+"lead": "현대에이치티",
+"lead_ret": -0.15,
+"second": "파트론",
+"second_ret": -0.35
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.01,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 0.45,
+"second": "광무",
+"second_ret": -0.65
+}
+],
+"leaders": [
+{
+"name": "혜인",
+"code": "003010",
+"ret": 30.0,
+"value": 2445,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "바디텍메드",
+"code": "206640",
+"ret": 22.12,
+"value": 1315,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 15.36,
+"value": 625,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "성신양회",
+"code": "004980",
+"ret": 10.11,
+"value": 616,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "쎄노텍",
+"code": "222420",
+"ret": 11.7,
+"value": 560,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

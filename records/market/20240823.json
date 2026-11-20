@@ -1,0 +1,254 @@
+{
+"date": "20240823",
+"kospi": -0.22,
+"kosdaq": -0.03,
+"adv": 837,
+"dec": 1285,
+"flat": 157,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 141710,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "비트플래닛",
+"lead_ret": 29.98,
+"second": "아이씨티케이",
+"second_ret": 29.92
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "아이씨티케이",
+"lead_ret": 29.92,
+"second": "케이씨에스",
+"second_ret": 17.05
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "이닉스",
+"lead_ret": 12.17,
+"second": "한빛레이저",
+"second_ret": 10.9
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 2.94,
+"up5": 6,
+"lead": "아이씨티케이",
+"lead_ret": 29.92,
+"second": "케이씨에스",
+"second_ret": 17.05
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.86,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 15.96,
+"second": "신세계",
+"second_ret": 1.47
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.73,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 7.66,
+"second": "GS건설",
+"second_ret": 2.45
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.15,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 12.22,
+"second": "하이스틸",
+"second_ret": 5.17
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 1.98,
+"up5": 2,
+"lead": "모나용평",
+"lead_ret": 10.07,
+"second": "IPARK현대산업개발",
+"second_ret": 7.66
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.73,
+"up5": 5,
+"lead": "제일일렉트릭",
+"lead_ret": 19.08,
+"second": "이닉스",
+"second_ret": 12.17
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 1.45,
+"up5": 2,
+"lead": "제일일렉트릭",
+"lead_ret": 19.08,
+"second": "세명전기",
+"second_ret": 5.92
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 1.38,
+"up5": 5,
+"lead": "DXVX",
+"lead_ret": 30.0,
+"second": "유한양행",
+"second_ret": 10.81
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 1.38,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 10.84,
+"second": "비츠로시스",
+"second_ret": 3.52
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.35,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 6.65,
+"second": "하이스틸",
+"second_ret": 5.17
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 1.33,
+"up5": 1,
+"lead": "비트플래닛",
+"lead_ret": 29.98,
+"second": "SGA솔루션즈",
+"second_ret": 3.83
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.32,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 6.65,
+"second": "한선엔지니어링",
+"second_ret": 4.85
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": -3.75,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 2.09,
+"second": "진시스템",
+"second_ret": 1.69
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.9,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.86,
+"second": "HMM",
+"second_ret": -1.89
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": -2.07,
+"up5": 3,
+"lead": "셀리드",
+"lead_ret": 6.45,
+"second": "인벤티지랩",
+"second_ret": 6.1
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": -1.77,
+"up5": 0,
+"lead": "코칩",
+"lead_ret": 1.3,
+"second": "지아이에스",
+"second_ret": 0.0
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": -1.63,
+"up5": 2,
+"lead": "유한양행",
+"lead_ret": 10.81,
+"second": "인벤티지랩",
+"second_ret": 6.1
+}
+],
+"leaders": [
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 10.81,
+"value": 15732,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "이닉스",
+"code": "452400",
+"ret": 12.17,
+"value": 2230,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 10.9,
+"value": 1545,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "오스코텍",
+"code": "039200",
+"ret": 11.9,
+"value": 1239,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 11.76,
+"value": 1204,
+"theme": "LED",
+"reason": "테마: LED"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20221123",
+"kospi": 0.53,
+"kosdaq": 1.87,
+"adv": 1523,
+"dec": 444,
+"flat": 154,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 108533,
+"hot": [
+{
+"name": "영상콘텐츠",
+"n": 8,
+"lead": "키이스트",
+"lead_ret": 15.36,
+"second": "쇼박스",
+"second_ret": 15.09
+},
+{
+"name": "웹툰",
+"n": 4,
+"lead": "키다리스튜디오",
+"lead_ret": 29.94,
+"second": "디앤씨미디어",
+"second_ret": 21.98
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "씨티알모빌리티",
+"lead_ret": 22.31,
+"second": "에스엠벡셀",
+"second_ret": 16.67
+}
+],
+"themes": [
+{
+"name": "웹툰",
+"n": 12,
+"avg": 8.23,
+"up5": 5,
+"lead": "키다리스튜디오",
+"lead_ret": 29.94,
+"second": "디앤씨미디어",
+"second_ret": 21.98
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": 6.32,
+"up5": 12,
+"lead": "키이스트",
+"lead_ret": 15.36,
+"second": "쇼박스",
+"second_ret": 15.09
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.14,
+"up5": 3,
+"lead": "대원미디어",
+"lead_ret": 14.29,
+"second": "에피소드컴퍼니",
+"second_ret": 11.81
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 5.6,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 14.14,
+"second": "HMM",
+"second_ret": 8.52
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 4.81,
+"up5": 3,
+"lead": "디아이씨",
+"lead_ret": 9.22,
+"second": "삼륭물산",
+"second_ret": 8.63
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 4.5,
+"up5": 9,
+"lead": "키이스트",
+"lead_ret": 15.36,
+"second": "초록뱀미디어",
+"second_ret": 12.44
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 4.41,
+"up5": 4,
+"lead": "쇼박스",
+"lead_ret": 15.09,
+"second": "CJ ENM",
+"second_ret": 7.41
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.6,
+"up5": 3,
+"lead": "한국정보통신",
+"lead_ret": 5.8,
+"second": "NHN KCP",
+"second_ret": 5.43
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 30,
+"avg": 3.57,
+"up5": 6,
+"lead": "키다리스튜디오",
+"lead_ret": 29.94,
+"second": "디앤씨미디어",
+"second_ret": 21.98
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.29,
+"up5": 5,
+"lead": "쇼박스",
+"lead_ret": 15.09,
+"second": "디아이씨",
+"second_ret": 9.22
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.2,
+"up5": 3,
+"lead": "CJ ENM",
+"lead_ret": 7.41,
+"second": "하이브",
+"second_ret": 6.82
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.17,
+"up5": 3,
+"lead": "카페24",
+"lead_ret": 11.85,
+"second": "한국정보통신",
+"second_ret": 5.8
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": -0.72,
+"up5": 0,
+"lead": "수산세보틱스",
+"lead_ret": 2.02,
+"second": "HD건설기계",
+"second_ret": 1.5
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.47,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.64,
+"second": "한전KPS",
+"second_ret": 1.16
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -0.34,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 1.21,
+"second": "앤씨앤",
+"second_ret": 0.29
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -0.19,
+"up5": 1,
+"lead": "삼천당제약",
+"lead_ret": 8.03,
+"second": "선바이오",
+"second_ret": 4.53
+},
+{
+"name": "탈모 치료",
+"n": 24,
+"avg": -0.16,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": 3.21,
+"second": "메타케어",
+"second_ret": 2.0
+}
+],
+"leaders": [
+{
+"name": "웰크론한텍",
+"code": "076080",
+"ret": 11.68,
+"value": 3387,
+"theme": "폐기물처리",
+"reason": "테마: 폐기물처리"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 13.02,
+"value": 2905,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 10.57,
+"value": 891,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "쇼박스",
+"code": "086980",
+"ret": 15.09,
+"value": 850,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "경동인베스트",
+"code": "012320",
+"ret": 11.05,
+"value": 828,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

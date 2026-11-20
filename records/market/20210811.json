@@ -1,0 +1,254 @@
+{
+"date": "20210811",
+"kospi": -0.7,
+"kosdaq": -0.01,
+"adv": 593,
+"dec": 1270,
+"flat": 157,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 297333,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "인바이오젠",
+"lead_ret": 12.86,
+"second": "셀리드",
+"second_ret": 11.66
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 4,
+"lead": "인성정보",
+"lead_ret": 13.32,
+"second": "바텍",
+"second_ret": 12.45
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "TCC스틸",
+"lead_ret": 11.19,
+"second": "테이팩스",
+"second_ret": 10.66
+}
+],
+"themes": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 4.51,
+"up5": 4,
+"lead": "바텍",
+"lead_ret": 12.45,
+"second": "덴티움",
+"second_ret": 11.03
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 4.12,
+"up5": 3,
+"lead": "한솔로지스틱스",
+"lead_ret": 24.78,
+"second": "삼일",
+"second_ret": 20.07
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 3.54,
+"up5": 7,
+"lead": "인바이오젠",
+"lead_ret": 12.86,
+"second": "셀리드",
+"second_ret": 11.66
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.49,
+"up5": 1,
+"lead": "고려제강",
+"lead_ret": 11.97,
+"second": "세아베스틸지주",
+"second_ret": 3.89
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.48,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 3.95,
+"second": "강스템바이오텍",
+"second_ret": 3.86
+},
+{
+"name": "의료AI",
+"n": 14,
+"avg": 2.3,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 13.32,
+"second": "제이에스링크",
+"second_ret": 11.16
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.9,
+"up5": 0,
+"lead": "엔브이에이치코리아",
+"lead_ret": 3.9,
+"second": "에스와이",
+"second_ret": 3.19
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.86,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 4.76,
+"second": "강스템바이오텍",
+"second_ret": 3.86
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 1.86,
+"up5": 2,
+"lead": "셀트리온제약",
+"lead_ret": 11.41,
+"second": "한올바이오파마",
+"second_ret": 6.02
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 64,
+"avg": 1.73,
+"up5": 9,
+"lead": "인바이오젠",
+"lead_ret": 12.86,
+"second": "셀리드",
+"second_ret": 11.66
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.53,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 4.2,
+"second": "KB금융",
+"second_ret": 2.49
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.44,
+"up5": 1,
+"lead": "서울제약",
+"lead_ret": 5.75,
+"second": "대한약품",
+"second_ret": 1.9
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -5.29,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.12,
+"second": "심텍",
+"second_ret": -2.69
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -3.29,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": -1.28,
+"second": "DSC인베스트먼트",
+"second_ret": -1.32
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -3.24,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 1.02,
+"second": "이수페타시스",
+"second_ret": -1.05
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": -3.2,
+"up5": 1,
+"lead": "레이언스",
+"lead_ret": 10.23,
+"second": "디아이",
+"second_ret": 1.96
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": -2.98,
+"up5": 1,
+"lead": "국순당",
+"lead_ret": 6.5,
+"second": "대교",
+"second_ret": -0.32
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 11.41,
+"value": 5168,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "네오위즈",
+"code": "095660",
+"ret": 12.25,
+"value": 4541,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "포톤",
+"code": "208710",
+"ret": 12.53,
+"value": 3608,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 13.19,
+"value": 1981,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "PI첨단소재",
+"code": "178920",
+"ret": 10.55,
+"value": 1943,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230720",
+"kospi": -0.31,
+"kosdaq": 0.85,
+"adv": 1086,
+"dec": 935,
+"flat": 151,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 218735,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "제우스",
+"lead_ret": 20.58,
+"second": "레이저쎌",
+"second_ret": 19.2
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 5,
+"lead": "이녹스첨단소재",
+"lead_ret": 15.02,
+"second": "인베니아",
+"second_ret": 9.58
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "피에스케이홀딩스",
+"lead_ret": 17.13,
+"second": "포스코DX",
+"second_ret": 16.07
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.77,
+"up5": 3,
+"lead": "레이저쎌",
+"lead_ret": 19.2,
+"second": "미래컴퍼니",
+"second_ret": 8.86
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 3.35,
+"up5": 6,
+"lead": "제우스",
+"lead_ret": 20.58,
+"second": "레이저쎌",
+"second_ret": 19.2
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.17,
+"up5": 6,
+"lead": "NPC",
+"lead_ret": 9.4,
+"second": "킵스파마",
+"second_ret": 8.75
+},
+{
+"name": "반도체 장비",
+"n": 85,
+"avg": 3.0,
+"up5": 15,
+"lead": "더코디",
+"lead_ret": 30.0,
+"second": "제우스",
+"second_ret": 20.58
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 12,
+"avg": 2.85,
+"up5": 4,
+"lead": "이녹스첨단소재",
+"lead_ret": 15.02,
+"second": "모델솔루션",
+"second_ret": 13.31
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.71,
+"up5": 4,
+"lead": "인텍플러스",
+"lead_ret": 12.2,
+"second": "이수페타시스",
+"second_ret": 6.91
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 2.56,
+"up5": 5,
+"lead": "인벤티지랩",
+"lead_ret": 29.96,
+"second": "라파스",
+"second_ret": 22.14
+},
+{
+"name": "2차전지(장비)",
+"n": 39,
+"avg": 2.5,
+"up5": 5,
+"lead": "자비스",
+"lead_ret": 12.65,
+"second": "에이프로",
+"second_ret": 8.04
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.47,
+"up5": 1,
+"lead": "인벤티지랩",
+"lead_ret": 29.96,
+"second": "이연제약",
+"second_ret": 4.42
+},
+{
+"name": "유리 기판",
+"n": 17,
+"avg": 2.42,
+"up5": 2,
+"lead": "미래컴퍼니",
+"lead_ret": 8.86,
+"second": "태성",
+"second_ret": 6.82
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 2.33,
+"up5": 6,
+"lead": "인벤티지랩",
+"lead_ret": 29.96,
+"second": "라파스",
+"second_ret": 22.14
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 2.3,
+"up5": 4,
+"lead": "나무AX",
+"lead_ret": 27.24,
+"second": "포스코DX",
+"second_ret": 16.07
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -2.06,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -0.35,
+"second": "HD한국조선해양",
+"second_ret": -1.03
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.85,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 0.0,
+"second": "LG화학",
+"second_ret": -0.29
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": -0.08,
+"second": "SK하이닉스",
+"second_ret": -0.51
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.2,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": 0.54,
+"second": "화성밸브",
+"second_ret": 0.48
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -1.15,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 4.2,
+"second": "성호전자",
+"second_ret": 2.63
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 16.07,
+"value": 13829,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "이녹스첨단소재",
+"code": "272290",
+"ret": 15.02,
+"value": 2388,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "제우스",
+"code": "079370",
+"ret": 20.58,
+"value": 1629,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "나무AX",
+"code": "242040",
+"ret": 27.24,
+"value": 1428,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "제이엘케이",
+"code": "322510",
+"ret": 14.95,
+"value": 1046,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

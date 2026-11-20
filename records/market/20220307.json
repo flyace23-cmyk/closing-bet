@@ -1,0 +1,254 @@
+{
+"date": "20220307",
+"kospi": -2.29,
+"kosdaq": -2.16,
+"adv": 254,
+"dec": 1709,
+"flat": 108,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 173517,
+"hot": [
+{
+"name": "농업",
+"n": 6,
+"lead": "효성오앤비",
+"lead_ret": 29.78,
+"second": "누보",
+"second_ret": 26.33
+},
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "신송홀딩스",
+"lead_ret": 29.83,
+"second": "미래생명자원",
+"second_ret": 11.63
+},
+{
+"name": "남북경협",
+"n": 3,
+"lead": "지엔씨에너지",
+"lead_ret": 13.55,
+"second": "한국석유",
+"second_ret": 9.49
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 12.87,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 29.83,
+"second": "샘표",
+"second_ret": 18.67
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 6.41,
+"up5": 4,
+"lead": "효성오앤비",
+"lead_ret": 29.78,
+"second": "누보",
+"second_ret": 26.33
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 5.21,
+"up5": 8,
+"lead": "효성오앤비",
+"lead_ret": 29.78,
+"second": "누보",
+"second_ret": 26.33
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.86,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 29.78,
+"second": "동신건설",
+"second_ret": 11.76
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.86,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 29.78,
+"second": "동신건설",
+"second_ret": 11.76
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.47,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 10.94,
+"second": "흥구석유",
+"second_ret": 5.26
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.11,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 10.94,
+"second": "흥구석유",
+"second_ret": 5.26
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.11,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 10.94,
+"second": "흥구석유",
+"second_ret": 5.26
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 1.74,
+"up5": 2,
+"lead": "세아제강",
+"lead_ret": 8.22,
+"second": "휴스틸",
+"second_ret": 5.18
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.68,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 10.94,
+"second": "한국석유",
+"second_ret": 9.49
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.64,
+"up5": 4,
+"lead": "큐로홀딩스",
+"lead_ret": 5.55,
+"second": "비엘팜텍",
+"second_ret": 5.44
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 1.61,
+"up5": 3,
+"lead": "조비",
+"lead_ret": 6.62,
+"second": "남해화학",
+"second_ret": 5.71
+}
+],
+"themes_worst": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 9,
+"avg": -3.71,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": 0.26,
+"second": "스피어",
+"second_ret": -1.19
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.65,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": -2.95,
+"second": "아주IB투자",
+"second_ret": -3.21
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.61,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -2.9,
+"second": "롯데관광개발",
+"second_ret": -3.31
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.61,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -2.9,
+"second": "롯데관광개발",
+"second_ret": -3.31
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.52,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.96,
+"second": "삼성생명",
+"second_ret": -2.64
+}
+],
+"leaders": [
+{
+"name": "효성오앤비",
+"code": "097870",
+"ret": 29.78,
+"value": 2619,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "스톤브릿지벤처스",
+"code": "330730",
+"ret": 17.91,
+"value": 2610,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 11.63,
+"value": 1274,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "강동씨앤엘",
+"code": "198440",
+"ret": 10.9,
+"value": 1231,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 13.55,
+"value": 779,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

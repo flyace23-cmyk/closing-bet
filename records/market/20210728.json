@@ -1,0 +1,254 @@
+{
+"date": "20210728",
+"kospi": 0.13,
+"kosdaq": -1.04,
+"adv": 492,
+"dec": 1365,
+"flat": 160,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 231946,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "씨이랩",
+"lead_ret": 21.48,
+"second": "다보링크",
+"second_ret": 18.4
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "삼영에스앤씨",
+"lead_ret": 15.21,
+"second": "아이윈",
+"second_ret": 12.1
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "아이윈",
+"lead_ret": 12.1,
+"second": "GH신소재",
+"second_ret": 9.59
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 4.8,
+"up5": 2,
+"lead": "씨티케이",
+"lead_ret": 29.86,
+"second": "한국팩키지",
+"second_ret": 5.18
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.68,
+"up5": 1,
+"lead": "엠케이전자",
+"lead_ret": 21.19,
+"second": "티엘비",
+"second_ret": 3.61
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.49,
+"up5": 1,
+"lead": "GH신소재",
+"lead_ret": 9.59,
+"second": "에스와이",
+"second_ret": 4.64
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": 2.39,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 22.41,
+"second": "비나텍",
+"second_ret": 6.35
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 1.57,
+"up5": 1,
+"lead": "비트맥스",
+"lead_ret": 30.0,
+"second": "가온그룹",
+"second_ret": 2.03
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.42,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 13.92,
+"second": "링네트",
+"second_ret": 4.34
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.34,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 22.41,
+"second": "삼성전자",
+"second_ret": 0.89
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 1.32,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 4.19,
+"second": "신한지주",
+"second_ret": 3.39
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.24,
+"up5": 1,
+"lead": "남해화학",
+"lead_ret": 6.93,
+"second": "효성오앤비",
+"second_ret": 1.82
+},
+{
+"name": "탈모 치료",
+"n": 21,
+"avg": 1.24,
+"up5": 3,
+"lead": "안트로젠",
+"lead_ret": 19.28,
+"second": "이노진",
+"second_ret": 7.99
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.18,
+"up5": 3,
+"lead": "휴네시온",
+"lead_ret": 12.48,
+"second": "이씨에스",
+"second_ret": 8.92
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 18,
+"avg": 1.12,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 13.92,
+"second": "알서포트",
+"second_ret": 5.61
+}
+],
+"themes_worst": [
+{
+"name": "바이오인식(생체인식)",
+"n": 18,
+"avg": -2.88,
+"up5": 0,
+"lead": "알체라",
+"lead_ret": 0.75,
+"second": "동운아나텍",
+"second_ret": 0.56
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -2.77,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 0.37,
+"second": "사람인",
+"second_ret": -0.41
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -2.3,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 0.37,
+"second": "팬스타엔터프라이즈",
+"second_ret": -1.32
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": -2.28,
+"up5": 0,
+"lead": "재영솔루텍",
+"lead_ret": 3.39,
+"second": "나무가",
+"second_ret": 1.92
+},
+{
+"name": "게임",
+"n": 27,
+"avg": -2.27,
+"up5": 0,
+"lead": "밸로프",
+"lead_ret": 1.35,
+"second": "넷마블",
+"second_ret": 0.72
+}
+],
+"leaders": [
+{
+"name": "HLB글로벌",
+"code": "003580",
+"ret": 29.98,
+"value": 3620,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "신원",
+"code": "009270",
+"ret": 15.98,
+"value": 2619,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "아모센스",
+"code": "357580",
+"ret": 22.41,
+"value": 2615,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "엠케이전자",
+"code": "033160",
+"ret": 21.19,
+"value": 2582,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 10.29,
+"value": 1998,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240115",
+"kospi": 0.04,
+"kosdaq": -0.96,
+"adv": 716,
+"dec": 1380,
+"flat": 132,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 165514,
+"hot": [
+{
+"name": "통신장비",
+"n": 4,
+"lead": "에이스테크",
+"lead_ret": 29.78,
+"second": "빛과전자",
+"second_ret": 24.6
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "네오셈",
+"lead_ret": 17.57,
+"second": "에이팩트",
+"second_ret": 11.48
+},
+{
+"name": "온디바이스 AI",
+"n": 3,
+"lead": "제주반도체",
+"lead_ret": 17.17,
+"second": "에이팩트",
+"second_ret": 11.48
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 5.48,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 29.94,
+"second": "지에스이",
+"second_ret": 18.04
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 4.04,
+"up5": 3,
+"lead": "동방",
+"lead_ret": 29.87,
+"second": "KCTC",
+"second_ret": 14.86
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.5,
+"up5": 3,
+"lead": "네오셈",
+"lead_ret": 17.57,
+"second": "엑시콘",
+"second_ret": 10.91
+},
+{
+"name": "통신장비",
+"n": 44,
+"avg": 3.29,
+"up5": 8,
+"lead": "에이스테크",
+"lead_ret": 29.78,
+"second": "빛과전자",
+"second_ret": 24.6
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.8,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 14.08,
+"second": "STX그린로지스",
+"second_ret": 1.41
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.79,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 6.11,
+"second": "미래생명자원",
+"second_ret": 4.8
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 20,
+"avg": 2.6,
+"up5": 2,
+"lead": "LG헬로비전",
+"lead_ret": 29.97,
+"second": "와이투솔루션",
+"second_ret": 10.3
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.45,
+"up5": 1,
+"lead": "빛과전자",
+"lead_ret": 24.6,
+"second": "RFHIC",
+"second_ret": 4.38
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.43,
+"up5": 2,
+"lead": "LB인베스트먼트",
+"lead_ret": 9.93,
+"second": "아이티센글로벌",
+"second_ret": 7.32
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 55,
+"avg": 2.37,
+"up5": 8,
+"lead": "에이스테크",
+"lead_ret": 29.78,
+"second": "빛과전자",
+"second_ret": 24.6
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 2.37,
+"up5": 5,
+"lead": "제주반도체",
+"lead_ret": 17.17,
+"second": "에이팩트",
+"second_ret": 11.48
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 2.21,
+"up5": 1,
+"lead": "현대에이치티",
+"lead_ret": 21.64,
+"second": "코콤",
+"second_ret": 2.58
+}
+],
+"themes_worst": [
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -4.24,
+"up5": 0,
+"lead": "팬젠",
+"lead_ret": 2.26,
+"second": "동아에스티",
+"second_ret": -0.15
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -2.45,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 1.16,
+"second": "드림어스컴퍼니",
+"second_ret": -0.17
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 40,
+"avg": -2.28,
+"up5": 0,
+"lead": "진바이오텍",
+"lead_ret": 0.81,
+"second": "대한뉴팜",
+"second_ret": 0.45
+},
+{
+"name": "치매",
+"n": 48,
+"avg": -2.02,
+"up5": 0,
+"lead": "모나리자",
+"lead_ret": 1.73,
+"second": "큐라클",
+"second_ret": 1.08
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.94,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 1.16,
+"second": "이스트에이드",
+"second_ret": 0.32
+}
+],
+"leaders": [
+{
+"name": "흥아해운",
+"code": "003280",
+"ret": 14.08,
+"value": 5423,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 17.17,
+"value": 4723,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 29.94,
+"value": 3336,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "한미사이언스",
+"code": "008930",
+"ret": 12.76,
+"value": 2354,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 18.04,
+"value": 2080,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210330",
+"kospi": 1.12,
+"kosdaq": 0.42,
+"adv": 1161,
+"dec": 629,
+"flat": 206,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 240345,
+"hot": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 4,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "우리기술투자",
+"second_ret": 29.92
+},
+{
+"name": "두나무(Dunamu)",
+"n": 4,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "우리기술투자",
+"second_ret": 29.92
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "HLB글로벌",
+"lead_ret": 15.82,
+"second": "제로투세븐",
+"second_ret": 12.23
+}
+],
+"themes": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 10.9,
+"up5": 5,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "우리기술투자",
+"second_ret": 29.92
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 8.76,
+"up5": 3,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "아주IB투자",
+"second_ret": 5.33
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 7.88,
+"up5": 8,
+"lead": "우리기술투자",
+"lead_ret": 29.92,
+"second": "대성창투",
+"second_ret": 24.14
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 6.94,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "엔비티",
+"second_ret": 12.67
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 6.51,
+"up5": 10,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "우리기술투자",
+"second_ret": 29.92
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 6.26,
+"up5": 2,
+"lead": "대성창투",
+"lead_ret": 24.14,
+"second": "TS인베스트먼트",
+"second_ret": 7.11
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 5.07,
+"up5": 5,
+"lead": "한화투자증권",
+"lead_ret": 29.94,
+"second": "우리기술투자",
+"second_ret": 29.92
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 4.23,
+"up5": 4,
+"lead": "깨끗한나라",
+"lead_ret": 29.8,
+"second": "제로투세븐",
+"second_ret": 12.23
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.74,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 11.91,
+"second": "미래생명자원",
+"second_ret": 4.05
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 3.32,
+"up5": 3,
+"lead": "세코닉스",
+"lead_ret": 8.24,
+"second": "유비벨록스",
+"second_ret": 5.17
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 3.31,
+"up5": 1,
+"lead": "깨끗한나라",
+"lead_ret": 29.8,
+"second": "페이퍼코리아",
+"second_ret": 4.54
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.22,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 8.19,
+"second": "삼성에스디에스",
+"second_ret": 4.0
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.97,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 1.42,
+"second": "유니온머티리얼",
+"second_ret": -1.21
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -3.41,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 0.0,
+"second": "KSS해운",
+"second_ret": -1.79
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.51,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.86,
+"second": "현대건설",
+"second_ret": -0.68
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.39,
+"up5": 0,
+"lead": "태광",
+"lead_ret": 0.12,
+"second": "화성밸브",
+"second_ret": 0.12
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -1.04,
+"up5": 0,
+"lead": "선익시스템",
+"lead_ret": 2.31,
+"second": "석경에이티",
+"second_ret": 1.72
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 29.92,
+"value": 10809,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 10.88,
+"value": 4532,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "한화투자증권",
+"code": "003530",
+"ret": 29.94,
+"value": 3390,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "깨끗한나라",
+"code": "004540",
+"ret": 29.8,
+"value": 3330,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "대성창투",
+"code": "027830",
+"ret": 24.14,
+"value": 2877,
+"theme": "두나무(Dunamu)",
+"reason": "테마: 두나무(Dunamu)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20210326",
+"kospi": 1.09,
+"kosdaq": 0.18,
+"adv": 986,
+"dec": 807,
+"flat": 203,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 243893,
+"hot": [
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "HD현대마린엔진",
+"lead_ret": 18.43,
+"second": "STX엔진",
+"second_ret": 13.23
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "휴니드",
+"lead_ret": 19.65,
+"second": "STX엔진",
+"second_ret": 13.23
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.81,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 15.96,
+"second": "대한해운",
+"second_ret": 5.78
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 5.33,
+"up5": 5,
+"lead": "HC보광산업",
+"lead_ret": 29.91,
+"second": "HC홈센타",
+"second_ret": 11.68
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.21,
+"up5": 2,
+"lead": "HC보광산업",
+"lead_ret": 29.91,
+"second": "HC홈센타",
+"second_ret": 11.68
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 5.0,
+"up5": 10,
+"lead": "HD현대마린엔진",
+"lead_ret": 18.43,
+"second": "STX엔진",
+"second_ret": 13.23
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.38,
+"up5": 4,
+"lead": "휴니드",
+"lead_ret": 19.65,
+"second": "켄코아에어로스페이스",
+"second_ret": 10.14
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 3.6,
+"up5": 7,
+"lead": "HD한국조선해양",
+"lead_ret": 11.39,
+"second": "대창솔루션",
+"second_ret": 8.97
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.43,
+"up5": 2,
+"lead": "케이에스피",
+"lead_ret": 12.95,
+"second": "성광벤드",
+"second_ret": 5.4
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 3.41,
+"up5": 3,
+"lead": "태웅로직스",
+"lead_ret": 30.01,
+"second": "SG&G",
+"second_ret": 6.82
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.63,
+"up5": 2,
+"lead": "HS효성첨단소재",
+"lead_ret": 8.92,
+"second": "금호석유화학",
+"second_ret": 5.99
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 2.54,
+"up5": 6,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 10.14,
+"second": "SK텔레콤",
+"second_ret": 8.09
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.51,
+"up5": 1,
+"lead": "대한제강",
+"lead_ret": 5.27,
+"second": "현대제철",
+"second_ret": 4.04
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 2.46,
+"up5": 2,
+"lead": "비케이홀딩스",
+"lead_ret": 29.74,
+"second": "아티스트컴퍼니",
+"second_ret": 11.09
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -1.96,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 1.77,
+"second": "오로라",
+"second_ret": -0.51
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.88,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.48,
+"second": "강원랜드",
+"second_ret": -0.38
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.88,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.48,
+"second": "강원랜드",
+"second_ret": -0.38
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": -1.31,
+"up5": 0,
+"lead": "링크드",
+"lead_ret": 3.83,
+"second": "큐에스아이",
+"second_ret": 2.13
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -1.29,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 1.32,
+"second": "파수AI",
+"second_ret": 0.81
+}
+],
+"leaders": [
+{
+"name": "HMM",
+"code": "011200",
+"ret": 15.96,
+"value": 18486,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 14.2,
+"value": 4282,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "태웅로직스",
+"code": "124560",
+"ret": 30.01,
+"value": 2778,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "HD한국조선해양",
+"code": "009540",
+"ret": 11.39,
+"value": 2543,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "깨끗한나라",
+"code": "004540",
+"ret": 17.72,
+"value": 2046,
+"theme": "마스크",
+"reason": "테마: 마스크"
+}
+],
+"backfilled": true
+}

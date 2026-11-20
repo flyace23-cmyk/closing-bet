@@ -1,0 +1,254 @@
+{
+"date": "20250909",
+"kospi": 1.26,
+"kosdaq": 0.76,
+"adv": 1371,
+"dec": 831,
+"flat": 176,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 175073,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "원익홀딩스",
+"lead_ret": 20.77,
+"second": "기가비스",
+"second_ret": 13.65
+},
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "일승",
+"lead_ret": 22.97,
+"second": "조선선재",
+"second_ret": 20.53
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "삼현",
+"lead_ret": 29.99,
+"second": "원익홀딩스",
+"second_ret": 20.77
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 6.69,
+"up5": 6,
+"lead": "코리아써키트",
+"lead_ret": 15.5,
+"second": "심텍",
+"second_ret": 14.08
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.71,
+"up5": 6,
+"lead": "코리아써키트",
+"lead_ret": 15.5,
+"second": "심텍",
+"second_ret": 14.08
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 5.42,
+"up5": 7,
+"lead": "상상인증권",
+"lead_ret": 21.0,
+"second": "미래에셋증권",
+"second_ret": 11.68
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 4.68,
+"up5": 5,
+"lead": "코리아써키트",
+"lead_ret": 15.5,
+"second": "티엘비",
+"second_ret": 9.75
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 3.84,
+"up5": 5,
+"lead": "심텍",
+"lead_ret": 14.08,
+"second": "에이팩트",
+"second_ret": 11.13
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 3.51,
+"up5": 6,
+"lead": "디에이피",
+"lead_ret": 29.92,
+"second": "코리아써키트",
+"second_ret": 15.5
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.16,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 5.47,
+"second": "삼성생명",
+"second_ret": 4.72
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.94,
+"up5": 6,
+"lead": "키움증권",
+"lead_ret": 8.71,
+"second": "헥토파이낸셜",
+"second_ret": 8.59
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.82,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 8.24,
+"second": "이루온",
+"second_ret": 3.15
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.78,
+"up5": 4,
+"lead": "에이엘티",
+"lead_ret": 9.76,
+"second": "테스",
+"second_ret": 8.01
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 2.65,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 3.81,
+"second": "코나아이",
+"second_ret": 3.31
+},
+{
+"name": "반도체 장비",
+"n": 92,
+"avg": 2.49,
+"up5": 14,
+"lead": "원익홀딩스",
+"lead_ret": 20.77,
+"second": "기가비스",
+"second_ret": 13.65
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.6,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.97,
+"second": "파미셀",
+"second_ret": 0.53
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -1.56,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": 2.94,
+"second": "한화오션",
+"second_ret": -0.81
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": -1.03,
+"up5": 0,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 1.0,
+"second": "GS",
+"second_ret": 0.77
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.98,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.0,
+"second": "강원랜드",
+"second_ret": -0.39
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.98,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.0,
+"second": "강원랜드",
+"second_ret": -0.39
+}
+],
+"leaders": [
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 17.01,
+"value": 6062,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 19.76,
+"value": 2596,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 20.77,
+"value": 2242,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "일승",
+"code": "333430",
+"ret": 22.97,
+"value": 2112,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "삼현",
+"code": "437730",
+"ret": 29.99,
+"value": 1847,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20200813",
+"kospi": 0.21,
+"kosdaq": 1.08,
+"adv": 1096,
+"dec": 660,
+"flat": 175,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 308607,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "성창오토텍",
+"lead_ret": 13.45,
+"second": "휴림에이텍",
+"second_ret": 12.9
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "알루코",
+"lead_ret": 29.87,
+"second": "TCC스틸",
+"second_ret": 29.82
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 4.92,
+"up5": 2,
+"lead": "삼성생명",
+"lead_ret": 21.04,
+"second": "삼성물산",
+"second_ret": 5.86
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.25,
+"up5": 2,
+"lead": "스페코",
+"lead_ret": 29.91,
+"second": "SG",
+"second_ret": 10.39
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 4.18,
+"up5": 3,
+"lead": "상보",
+"lead_ret": 29.7,
+"second": "오리엔트정공",
+"second_ret": 9.16
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.83,
+"up5": 2,
+"lead": "GRT",
+"lead_ret": 12.17,
+"second": "헝셩그룹",
+"second_ret": 8.25
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 3.68,
+"up5": 3,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 9.04,
+"second": "JYP Ent.",
+"second_ret": 5.89
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 3.67,
+"up5": 4,
+"lead": "알루코",
+"lead_ret": 29.87,
+"second": "DI동일",
+"second_ret": 20.96
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 3.4,
+"up5": 4,
+"lead": "유니온바이오메트릭스",
+"lead_ret": 29.9,
+"second": "슈프리마",
+"second_ret": 5.72
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 3.25,
+"up5": 3,
+"lead": "신도기연",
+"lead_ret": 20.85,
+"second": "텔레칩스",
+"second_ret": 7.24
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.24,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 22.03,
+"second": "로지시스",
+"second_ret": 1.19
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.98,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 8.51,
+"second": "오파스넷",
+"second_ret": 5.94
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 2.74,
+"up5": 4,
+"lead": "팬엔터테인먼트",
+"lead_ret": 12.36,
+"second": "와이지엔터테인먼트",
+"second_ret": 9.04
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.68,
+"up5": 2,
+"lead": "나인테크",
+"lead_ret": 12.34,
+"second": "디아이씨",
+"second_ret": 6.29
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.87,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 1.36,
+"second": "티앤알바이오팹",
+"second_ret": -0.35
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.81,
+"up5": 0,
+"lead": "한미사이언스",
+"lead_ret": 4.45,
+"second": "아미노로직스",
+"second_ret": 1.86
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.7,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": 1.21,
+"second": "TKG휴켐스",
+"second_ret": -0.59
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.66,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.69,
+"second": "엔투텍",
+"second_ret": 0.66
+},
+{
+"name": "유전자 치료제/분석",
+"n": 25,
+"avg": -1.44,
+"up5": 0,
+"lead": "CG인바이츠",
+"lead_ret": 3.07,
+"second": "코오롱생명과학",
+"second_ret": 2.85
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 29.99,
+"value": 9482,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "삼성생명",
+"code": "032830",
+"ret": 21.04,
+"value": 5196,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "에이텍",
+"code": "045660",
+"ret": 19.94,
+"value": 4666,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "알루코",
+"code": "001780",
+"ret": 29.87,
+"value": 2362,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 29.93,
+"value": 2332,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20210223",
+"kospi": -0.31,
+"kosdaq": -1.85,
+"adv": 537,
+"dec": 1327,
+"flat": 119,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 363846,
+"hot": [
+{
+"name": "사료",
+"n": 3,
+"lead": "팜스토리",
+"lead_ret": 22.82,
+"second": "사조동아원",
+"second_ret": 9.82
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 4.51,
+"up5": 3,
+"lead": "한네트",
+"lead_ret": 21.62,
+"second": "로지시스",
+"second_ret": 15.16
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.29,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 9.09,
+"second": "파라다이스",
+"second_ret": 8.81
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.29,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 9.09,
+"second": "파라다이스",
+"second_ret": 8.81
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.97,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 9.09,
+"second": "하나투어",
+"second_ret": 6.31
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.63,
+"up5": 2,
+"lead": "로스웰",
+"lead_ret": 18.75,
+"second": "오가닉티코스메틱",
+"second_ret": 7.4
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.97,
+"up5": 3,
+"lead": "팜스토리",
+"lead_ret": 22.82,
+"second": "사조동아원",
+"second_ret": 9.82
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 2.75,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 22.82,
+"second": "이지홀딩스",
+"second_ret": 2.01
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.71,
+"up5": 2,
+"lead": "엔브이에이치코리아",
+"lead_ret": 19.78,
+"second": "에스와이",
+"second_ret": 8.98
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.69,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 9.09,
+"second": "파라다이스",
+"second_ret": 8.81
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.61,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 5.38,
+"second": "현대백화점",
+"second_ret": 2.97
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.4,
+"up5": 1,
+"lead": "포스코스틸리온",
+"lead_ret": 11.49,
+"second": "POSCO홀딩스",
+"second_ret": 4.29
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 2.25,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 22.82,
+"second": "이지홀딩스",
+"second_ret": 2.01
+}
+],
+"themes_worst": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": -5.33,
+"up5": 1,
+"lead": "SGA솔루션즈",
+"lead_ret": 6.39,
+"second": "네오위즈홀딩스",
+"second_ret": 0.0
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.36,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.54,
+"second": "LS에코에너지",
+"second_ret": -0.92
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": -4.21,
+"up5": 0,
+"lead": "NHN KCP",
+"lead_ret": -0.4,
+"second": "헥토파이낸셜",
+"second_ret": -0.59
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -3.93,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": -0.71,
+"second": "코오롱인더",
+"second_ret": -0.96
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -3.69,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 0.5,
+"second": "스틱인베스트먼트",
+"second_ret": 0.41
+}
+],
+"leaders": [
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 20.49,
+"value": 13492,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "서울식품",
+"code": "004410",
+"ret": 10.02,
+"value": 5046,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "켄코아에어로스페이스",
+"code": "274090",
+"ret": 11.89,
+"value": 4308,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 22.82,
+"value": 3099,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "한네트",
+"code": "052600",
+"ret": 21.62,
+"value": 2966,
+"theme": "화폐/금융자동화기기(디지털화폐 등)",
+"reason": "테마: 화폐/금융자동화기기(디지털화폐 등)"
+}
+],
+"backfilled": true
+}

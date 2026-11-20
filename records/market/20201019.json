@@ -1,0 +1,254 @@
+{
+"date": "20201019",
+"kospi": 0.22,
+"kosdaq": -1.39,
+"adv": 712,
+"dec": 1071,
+"flat": 163,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 191773,
+"hot": [
+{
+"name": "지주사",
+"n": 4,
+"lead": "한국전자홀딩스",
+"lead_ret": 26.54,
+"second": "제일파마홀딩스",
+"second_ret": 16.21
+},
+{
+"name": "원자력발전소 해체",
+"n": 3,
+"lead": "에스앤더블류",
+"lead_ret": 29.83,
+"second": "우진",
+"second_ret": 11.82
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "우리기술투자",
+"lead_ret": 28.1,
+"second": "인바이오젠",
+"second_ret": 17.63
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 5.05,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 23.61,
+"second": "서울제약",
+"second_ret": 4.86
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 4.5,
+"up5": 3,
+"lead": "에스앤더블류",
+"lead_ret": 29.83,
+"second": "우진",
+"second_ret": 11.82
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.58,
+"up5": 2,
+"lead": "현대백화점",
+"lead_ret": 7.27,
+"second": "롯데쇼핑",
+"second_ret": 6.94
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.0,
+"up5": 3,
+"lead": "우리기술투자",
+"lead_ret": 28.1,
+"second": "에이티넘인베스트",
+"second_ret": 8.03
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 2.36,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 3.32,
+"second": "대우건설",
+"second_ret": 2.93
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.3,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 4.92,
+"second": "GS리테일",
+"second_ret": 4.5
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.27,
+"up5": 1,
+"lead": "태림포장",
+"lead_ret": 12.03,
+"second": "대림제지",
+"second_ret": 3.55
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.25,
+"up5": 1,
+"lead": "현대백화점",
+"lead_ret": 7.27,
+"second": "신세계",
+"second_ret": 4.65
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.24,
+"up5": 4,
+"lead": "참좋은여행",
+"lead_ret": 6.96,
+"second": "모두투어",
+"second_ret": 6.54
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 2.14,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": 3.76,
+"second": "KB금융",
+"second_ret": 3.3
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.12,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 3.6,
+"second": "현대해상",
+"second_ret": 2.8
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 1.98,
+"up5": 2,
+"lead": "현대백화점",
+"lead_ret": 7.27,
+"second": "롯데쇼핑",
+"second_ret": 6.94
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.3,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.15,
+"second": "녹십자",
+"second_ret": -0.45
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -3.3,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 1.66,
+"second": "이지케어텍",
+"second_ret": 0.25
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": -3.21,
+"up5": 0,
+"lead": "티움바이오",
+"lead_ret": 2.75,
+"second": "에스티큐브",
+"second_ret": 1.61
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": -3.03,
+"up5": 0,
+"lead": "메카로",
+"lead_ret": -0.42,
+"second": "선익시스템",
+"second_ret": -0.9
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": -3.02,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 2.19,
+"second": "한농화성",
+"second_ret": 1.62
+}
+],
+"leaders": [
+{
+"name": "KEC",
+"code": "092220",
+"ret": 29.87,
+"value": 6664,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 12.89,
+"value": 2740,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 28.1,
+"value": 2428,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "제일약품",
+"code": "271980",
+"ret": 23.61,
+"value": 1678,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.78,
+"value": 1091,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+}
+],
+"backfilled": true
+}

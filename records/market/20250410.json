@@ -1,0 +1,254 @@
+{
+"date": "20250410",
+"kospi": 6.6,
+"kosdaq": 5.97,
+"adv": 2208,
+"dec": 99,
+"flat": 41,
+"limit_up": 15,
+"limit_down": 0,
+"value_total": 166679,
+"hot": [
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 5,
+"lead": "그린케미칼",
+"lead_ret": 30.0,
+"second": "에코심플렉스",
+"second_ret": 29.98
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "엔켐",
+"lead_ret": 19.31,
+"second": "켐트로스",
+"second_ret": 19.11
+},
+{
+"name": "전력설비",
+"n": 4,
+"lead": "세명전기",
+"lead_ret": 29.81,
+"second": "KBI메탈",
+"second_ret": 20.12
+}
+],
+"themes": [
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 12.46,
+"up5": 14,
+"lead": "그린케미칼",
+"lead_ret": 30.0,
+"second": "에코심플렉스",
+"second_ret": 29.98
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 10.99,
+"up5": 8,
+"lead": "KBI메탈",
+"lead_ret": 20.12,
+"second": "대원전선",
+"second_ret": 13.52
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 9.86,
+"up5": 15,
+"lead": "린드먼아시아",
+"lead_ret": 29.93,
+"second": "GMI벤처",
+"second_ret": 29.9
+},
+{
+"name": "전력설비",
+"n": 33,
+"avg": 9.59,
+"up5": 27,
+"lead": "세명전기",
+"lead_ret": 29.81,
+"second": "KBI메탈",
+"second_ret": 20.12
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 9.57,
+"up5": 17,
+"lead": "엔켐",
+"lead_ret": 19.31,
+"second": "천보",
+"second_ret": 15.84
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 9.27,
+"up5": 6,
+"lead": "세명전기",
+"lead_ret": 29.81,
+"second": "LS",
+"second_ret": 10.26
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 9.03,
+"up5": 8,
+"lead": "디아이씨",
+"lead_ret": 17.19,
+"second": "LG에너지솔루션",
+"second_ret": 11.31
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 8.79,
+"up5": 37,
+"lead": "그리드위즈",
+"lead_ret": 29.93,
+"second": "엔켐",
+"second_ret": 19.31
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 8.74,
+"up5": 26,
+"lead": "덕산테코피아",
+"lead_ret": 18.35,
+"second": "천보",
+"second_ret": 15.84
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 8.7,
+"up5": 6,
+"lead": "SK스퀘어",
+"lead_ret": 13.96,
+"second": "SK하이닉스",
+"second_ret": 11.03
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 8.69,
+"up5": 29,
+"lead": "미래반도체",
+"lead_ret": 30.0,
+"second": "켐트로스",
+"second_ret": 19.11
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 8.55,
+"up5": 55,
+"lead": "엔켐",
+"lead_ret": 19.31,
+"second": "켐트로스",
+"second_ret": 19.11
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 1.21,
+"up5": 1,
+"lead": "웹케시",
+"lead_ret": 5.75,
+"second": "갤럭시아머니트리",
+"second_ret": 2.09
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 1.97,
+"up5": 2,
+"lead": "아세아제지",
+"lead_ret": 5.32,
+"second": "무림P&P",
+"second_ret": 5.1
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 2.09,
+"up5": 2,
+"lead": "우원개발",
+"lead_ret": 5.98,
+"second": "금호건설",
+"second_ret": 5.56
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 2.37,
+"up5": 3,
+"lead": "좋은사람들",
+"lead_ret": 6.38,
+"second": "크라운해태홀딩스",
+"second_ret": 5.77
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.46,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 4.02,
+"second": "풀무원",
+"second_ret": 2.65
+}
+],
+"leaders": [
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 11.03,
+"value": 14357,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "한텍",
+"code": "098070",
+"ret": 29.94,
+"value": 4873,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "LG에너지솔루션",
+"code": "373220",
+"ret": 11.31,
+"value": 2716,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HD현대일렉트릭",
+"code": "267260",
+"ret": 16.73,
+"value": 2266,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "HD현대중공업",
+"code": "329180",
+"ret": 10.39,
+"value": 2157,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210222",
+"kospi": -0.9,
+"kosdaq": -1.12,
+"adv": 661,
+"dec": 1172,
+"flat": 150,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 307556,
+"hot": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 5,
+"lead": "네오위즈홀딩스",
+"lead_ret": 29.98,
+"second": "다날",
+"second_ret": 29.25
+},
+{
+"name": "비철금속",
+"n": 4,
+"lead": "포스코엠텍",
+"lead_ret": 21.43,
+"second": "국일신동",
+"second_ret": 16.33
+},
+{
+"name": "쿠팡(coupang)",
+"n": 3,
+"lead": "서울식품",
+"lead_ret": 30.0,
+"second": "다날",
+"second_ret": 29.25
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.6,
+"up5": 3,
+"lead": "데브시스터즈",
+"lead_ret": 17.6,
+"second": "에피소드컴퍼니",
+"second_ret": 17.56
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 6.36,
+"up5": 11,
+"lead": "네오위즈홀딩스",
+"lead_ret": 29.98,
+"second": "다날",
+"second_ret": 29.25
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 4.91,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 29.25,
+"second": "갤럭시아머니트리",
+"second_ret": 20.66
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 4.13,
+"up5": 3,
+"lead": "메디톡스",
+"lead_ret": 30.0,
+"second": "대웅제약",
+"second_ret": 14.34
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 4.08,
+"up5": 8,
+"lead": "포스코엠텍",
+"lead_ret": 21.43,
+"second": "국일신동",
+"second_ret": 16.33
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.01,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 7.72,
+"second": "HMM",
+"second_ret": 5.49
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.87,
+"up5": 3,
+"lead": "한네트",
+"lead_ret": 12.72,
+"second": "풍산",
+"second_ret": 11.08
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.8,
+"up5": 1,
+"lead": "포스코스틸리온",
+"lead_ret": 29.83,
+"second": "KG스틸",
+"second_ret": 2.97
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 3.6,
+"up5": 1,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 29.64,
+"second": "미래에셋벤처투자",
+"second_ret": 0.0
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 3.04,
+"up5": 3,
+"lead": "메디톡스",
+"lead_ret": 30.0,
+"second": "대웅제약",
+"second_ret": 14.34
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.96,
+"up5": 2,
+"lead": "한화생명",
+"lead_ret": 7.43,
+"second": "SBI인베스트먼트",
+"second_ret": 6.08
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 2.73,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 29.25,
+"second": "갤럭시아머니트리",
+"second_ret": 20.66
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.92,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": -1.08,
+"second": "강스템바이오텍",
+"second_ret": -1.12
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -2.83,
+"up5": 0,
+"lead": "미투온",
+"lead_ret": 4.91,
+"second": "이스트에이드",
+"second_ret": -0.65
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": -2.63,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": 2.43,
+"second": "엠게임",
+"second_ret": 2.15
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -2.6,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 0.79,
+"second": "애경케미칼",
+"second_ret": -0.44
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": -2.5,
+"up5": 0,
+"lead": "코세스",
+"lead_ret": -0.51,
+"second": "엘티씨",
+"second_ret": -1.4
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 29.25,
+"value": 13725,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 21.43,
+"value": 4585,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 10.29,
+"value": 3877,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "중앙첨단소재",
+"code": "051980",
+"ret": 30.0,
+"value": 2878,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "AP위성",
+"code": "211270",
+"ret": 14.58,
+"value": 2733,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

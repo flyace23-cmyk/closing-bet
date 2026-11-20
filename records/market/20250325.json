@@ -1,0 +1,254 @@
+{
+"date": "20250325",
+"kospi": -0.62,
+"kosdaq": -1.24,
+"adv": 700,
+"dec": 1529,
+"flat": 117,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 133772,
+"hot": [
+{
+"name": "줄기세포",
+"n": 5,
+"lead": "네이처셀",
+"lead_ret": 29.95,
+"second": "풍전약품",
+"second_ret": 21.14
+},
+{
+"name": "유전자 치료제/분석",
+"n": 4,
+"lead": "아이엠비디엑스",
+"lead_ret": 16.91,
+"second": "제넥신",
+"second_ret": 8.48
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "현대공업",
+"lead_ret": 26.04,
+"second": "엠에스오토텍",
+"second_ret": 17.8
+}
+],
+"themes": [
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 3.34,
+"up5": 6,
+"lead": "네이처셀",
+"lead_ret": 29.95,
+"second": "풍전약품",
+"second_ret": 21.14
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.36,
+"up5": 7,
+"lead": "네이처셀",
+"lead_ret": 29.95,
+"second": "큐라티스",
+"second_ret": 8.54
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.74,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 7.34,
+"second": "메디포스트",
+"second_ret": 1.55
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.71,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 3.68,
+"second": "현대차",
+"second_ret": 3.29
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.69,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 8.68,
+"second": "유한양행",
+"second_ret": 5.18
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.49,
+"up5": 3,
+"lead": "큐라티스",
+"lead_ret": 8.54,
+"second": "올릭스",
+"second_ret": 5.84
+},
+{
+"name": "유전자 치료제/분석",
+"n": 37,
+"avg": 1.27,
+"up5": 4,
+"lead": "아이엠비디엑스",
+"lead_ret": 16.91,
+"second": "제넥신",
+"second_ret": 8.48
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.07,
+"up5": 1,
+"lead": "모두투어",
+"lead_ret": 7.11,
+"second": "참좋은여행",
+"second_ret": 2.43
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": 1.04,
+"up5": 3,
+"lead": "신테카바이오",
+"lead_ret": 6.68,
+"second": "파로스아이바이오",
+"second_ret": 6.14
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.03,
+"up5": 1,
+"lead": "YG PLUS",
+"lead_ret": 6.98,
+"second": "와이지엔터테인먼트",
+"second_ret": 3.75
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 0.92,
+"up5": 1,
+"lead": "엑시온그룹",
+"lead_ret": 29.94,
+"second": "CJ ENM",
+"second_ret": 1.43
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 0.77,
+"up5": 8,
+"lead": "네이처셀",
+"lead_ret": 29.95,
+"second": "제일약품",
+"second_ret": 8.68
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -4.14,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": -1.9,
+"second": "HD현대중공업",
+"second_ret": -3.85
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -3.88,
+"up5": 0,
+"lead": "하스",
+"lead_ret": 1.67,
+"second": "삼성전기",
+"second_ret": 0.0
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.74,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.16,
+"second": "대덕전자",
+"second_ret": -1.22
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -3.65,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.16,
+"second": "삼성전자",
+"second_ret": -1.16
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -3.61,
+"up5": 0,
+"lead": "KBI동양철관",
+"lead_ret": 1.79,
+"second": "SK오션플랜트",
+"second_ret": 0.28
+}
+],
+"leaders": [
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 22.26,
+"value": 3215,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 29.95,
+"value": 1694,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 26.04,
+"value": 1146,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 20.12,
+"value": 815,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "지아이텍",
+"code": "382480",
+"ret": 18.02,
+"value": 630,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

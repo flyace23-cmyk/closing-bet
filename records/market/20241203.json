@@ -1,0 +1,254 @@
+{
+"date": "20241203",
+"kospi": 1.86,
+"kosdaq": 2.21,
+"adv": 1669,
+"dec": 511,
+"flat": 131,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 149519,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "헝셩그룹",
+"lead_ret": 29.87,
+"second": "브이티",
+"second_ret": 27.05
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "엔켐",
+"lead_ret": 20.07,
+"second": "디아이티",
+"second_ret": 12.98
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "엔켐",
+"lead_ret": 20.07,
+"second": "앱튼",
+"second_ret": 15.59
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 8.83,
+"up5": 3,
+"lead": "SBI인베스트먼트",
+"lead_ret": 21.24,
+"second": "아주IB투자",
+"second_ret": 12.9
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 5.1,
+"up5": 5,
+"lead": "LS에코에너지",
+"lead_ret": 8.55,
+"second": "일진전기",
+"second_ret": 6.31
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.01,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 29.87,
+"second": "딥커머스",
+"second_ret": 6.45
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 4.3,
+"up5": 5,
+"lead": "레이저옵텍",
+"lead_ret": 12.66,
+"second": "휴온스글로벌",
+"second_ret": 10.23
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 4.03,
+"up5": 27,
+"lead": "헝셩그룹",
+"lead_ret": 29.87,
+"second": "브이티",
+"second_ret": 27.05
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 4.03,
+"up5": 3,
+"lead": "올릭스",
+"lead_ret": 16.67,
+"second": "나이벡",
+"second_ret": 13.97
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.99,
+"up5": 1,
+"lead": "삼성화재",
+"lead_ret": 9.43,
+"second": "코리안리",
+"second_ret": 4.55
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 3.85,
+"up5": 11,
+"lead": "산일전기",
+"lead_ret": 12.43,
+"second": "효성중공업",
+"second_ret": 9.97
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 3.8,
+"up5": 5,
+"lead": "코스텍시스",
+"lead_ret": 13.66,
+"second": "디아이티",
+"second_ret": 12.98
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.77,
+"up5": 2,
+"lead": "BNK금융지주",
+"lead_ret": 8.79,
+"second": "JB금융지주",
+"second_ret": 5.2
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.74,
+"up5": 4,
+"lead": "토니모리",
+"lead_ret": 9.09,
+"second": "현대백화점",
+"second_ret": 8.39
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.6,
+"up5": 2,
+"lead": "브이티",
+"lead_ret": 27.05,
+"second": "아모그린텍",
+"second_ret": 5.96
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -0.76,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 2.16,
+"second": "코나아이",
+"second_ret": -0.13
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -0.64,
+"up5": 0,
+"lead": "페이퍼코리아",
+"lead_ret": 2.28,
+"second": "해성산업",
+"second_ret": 1.72
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 34,
+"avg": -0.21,
+"up5": 0,
+"lead": "파이오링크",
+"lead_ret": 3.09,
+"second": "SK",
+"second_ret": 2.79
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -0.18,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 1.46,
+"second": "시공테크",
+"second_ret": 0.8
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -0.07,
+"up5": 0,
+"lead": "보해양조",
+"lead_ret": 2.43,
+"second": "국순당",
+"second_ret": 1.98
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 26.77,
+"value": 6399,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 12.03,
+"value": 2201,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에이럭스",
+"code": "475580",
+"ret": 14.71,
+"value": 2139,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 20.07,
+"value": 1783,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "브이티",
+"code": "018290",
+"ret": 27.05,
+"value": 1687,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

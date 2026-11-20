@@ -1,0 +1,254 @@
+{
+"date": "20230605",
+"kospi": 0.54,
+"kosdaq": 0.26,
+"adv": 1326,
+"dec": 699,
+"flat": 138,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 140870,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "엑스게이트",
+"lead_ret": 29.94,
+"second": "케이씨에스",
+"second_ret": 12.5
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "이원컴포텍",
+"lead_ret": 13.17,
+"second": "캐프",
+"second_ret": 11.48
+},
+{
+"name": "건설기계",
+"n": 3,
+"lead": "두산밥캣",
+"lead_ret": 8.36,
+"second": "진성티이씨",
+"second_ret": 7.49
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 5.14,
+"up5": 3,
+"lead": "HD현대중공업",
+"lead_ret": 6.3,
+"second": "한화오션",
+"second_ret": 5.5
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.6,
+"up5": 6,
+"lead": "리튬포어스",
+"lead_ret": 18.45,
+"second": "포스코엠텍",
+"second_ret": 8.25
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 3.39,
+"up5": 5,
+"lead": "삼미금속",
+"lead_ret": 9.64,
+"second": "두산밥캣",
+"second_ret": 8.36
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": 3.29,
+"up5": 8,
+"lead": "삼미금속",
+"lead_ret": 9.64,
+"second": "HD현대마린엔진",
+"second_ret": 6.93
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.1,
+"up5": 3,
+"lead": "일진전기",
+"lead_ret": 6.6,
+"second": "KBI메탈",
+"second_ret": 5.25
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.83,
+"up5": 2,
+"lead": "성광벤드",
+"lead_ret": 6.47,
+"second": "케이에스피",
+"second_ret": 5.09
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.77,
+"up5": 4,
+"lead": "HD현대중공업",
+"lead_ret": 6.3,
+"second": "동성화인텍",
+"second_ret": 5.87
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.66,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 18.45,
+"second": "SAMG엔터",
+"second_ret": 3.57
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 2.49,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 6.11,
+"second": "삼화전자",
+"second_ret": 4.95
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.44,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 5.26,
+"second": "풀무원",
+"second_ret": 2.07
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 24,
+"avg": 2.41,
+"up5": 3,
+"lead": "엑스게이트",
+"lead_ret": 29.94,
+"second": "케이씨에스",
+"second_ret": 12.5
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 2.38,
+"up5": 3,
+"lead": "피제이메탈",
+"lead_ret": 18.39,
+"second": "포스코엠텍",
+"second_ret": 8.25
+}
+],
+"themes_worst": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -1.62,
+"up5": 0,
+"lead": "현대바이오랜드",
+"lead_ret": 0.42,
+"second": "신흥",
+"second_ret": -0.14
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -1.4,
+"up5": 1,
+"lead": "메타케어",
+"lead_ret": 12.2,
+"second": "HLB생명과학",
+"second_ret": 1.83
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -1.1,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 2.45,
+"second": "티에프이",
+"second_ret": 0.32
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -0.97,
+"up5": 0,
+"lead": "이수페타시스",
+"lead_ret": 2.37,
+"second": "네오티스",
+"second_ret": 0.11
+},
+{
+"name": "전력반도체",
+"n": 15,
+"avg": -0.9,
+"up5": 0,
+"lead": "에이루트",
+"lead_ret": 1.18,
+"second": "파워넷",
+"second_ret": 0.66
+}
+],
+"leaders": [
+{
+"name": "리튬포어스",
+"code": "073570",
+"ret": 18.45,
+"value": 2451,
+"theme": "캐릭터상품",
+"reason": "테마: 캐릭터상품"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 29.94,
+"value": 1160,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 15.0,
+"value": 1033,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+},
+{
+"name": "케이씨에스",
+"code": "115500",
+"ret": 12.5,
+"value": 723,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "피제이메탈",
+"code": "128660",
+"ret": 18.39,
+"value": 678,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

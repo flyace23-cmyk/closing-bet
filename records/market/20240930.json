@@ -1,0 +1,254 @@
+{
+"date": "20240930",
+"kospi": -2.13,
+"kosdaq": -1.37,
+"adv": 443,
+"dec": 1742,
+"flat": 100,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 156193,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "디와이디",
+"lead_ret": 30.0,
+"second": "헝셩그룹",
+"second_ret": 29.78
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "스페코",
+"lead_ret": 14.55,
+"second": "대성하이텍",
+"second_ret": 8.19
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "태웅로직스",
+"lead_ret": 17.35,
+"second": "오스코텍",
+"second_ret": 5.63
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.28,
+"up5": 3,
+"lead": "헝셩그룹",
+"lead_ret": 29.78,
+"second": "컬러레이",
+"second_ret": 12.0
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.82,
+"up5": 2,
+"lead": "에이치엘사이언스",
+"lead_ret": 29.99,
+"second": "랩지노믹스",
+"second_ret": 16.06
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.26,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 14.55,
+"second": "한국석유",
+"second_ret": 2.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 0.99,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 9.15,
+"second": "신송홀딩스",
+"second_ret": 1.6
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 0.97,
+"up5": 1,
+"lead": "프레스티지바이오파마",
+"lead_ret": 7.3,
+"second": "한올바이오파마",
+"second_ret": 3.33
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 0.82,
+"up5": 1,
+"lead": "태웅로직스",
+"lead_ret": 17.35,
+"second": "STX그린로지스",
+"second_ret": 4.13
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.76,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 5.15,
+"second": "퀀텀레일",
+"second_ret": 1.17
+},
+{
+"name": "교육/온라인 교육",
+"n": 22,
+"avg": 0.6,
+"up5": 1,
+"lead": "유비온",
+"lead_ret": 30.0,
+"second": "유엔젤",
+"second_ret": 1.09
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 0.41,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 29.78,
+"second": "예림당",
+"second_ret": 1.46
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 0.35,
+"up5": 6,
+"lead": "디와이디",
+"lead_ret": 30.0,
+"second": "헝셩그룹",
+"second_ret": 29.78
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 0.3,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 29.78,
+"second": "예림당",
+"second_ret": 1.46
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 0.28,
+"up5": 2,
+"lead": "YTN",
+"lead_ret": 7.05,
+"second": "티비씨",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.67,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -1.27,
+"second": "삼성물산",
+"second_ret": -1.71
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -3.39,
+"up5": 0,
+"lead": "라온시큐어",
+"lead_ret": 2.16,
+"second": "스톤브릿지벤처스",
+"second_ret": -1.06
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -3.31,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 0.54,
+"second": "현대코퍼레이션",
+"second_ret": -0.32
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -3.3,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 11.75,
+"second": "칩스앤미디어",
+"second_ret": 0.4
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.28,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.85,
+"second": "ISC",
+"second_ret": -1.53
+}
+],
+"leaders": [
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 16.06,
+"value": 1822,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "뱅크웨어글로벌",
+"code": "199480",
+"ret": 14.37,
+"value": 1385,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "젝시믹스",
+"code": "337930",
+"ret": 16.15,
+"value": 1052,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "스페코",
+"code": "013810",
+"ret": 14.55,
+"value": 787,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 11.75,
+"value": 691,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+}
+],
+"backfilled": true
+}

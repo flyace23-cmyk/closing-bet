@@ -1,0 +1,254 @@
+{
+"date": "20200227",
+"kospi": -1.05,
+"kosdaq": -2.51,
+"adv": 247,
+"dec": 1546,
+"flat": 111,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 196478,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "코미팜",
+"lead_ret": 30.0,
+"second": "바이오니아",
+"second_ret": 7.67
+},
+{
+"name": "유전자 치료제/분석",
+"n": 5,
+"lead": "바이오니아",
+"lead_ret": 7.67,
+"second": "신테카바이오",
+"second_ret": 7.18
+},
+{
+"name": "교육/온라인 교육",
+"n": 4,
+"lead": "YBM넷",
+"lead_ret": 29.95,
+"second": "메가엠디",
+"second_ret": 9.7
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.72,
+"up5": 1,
+"lead": "현대해상",
+"lead_ret": 6.96,
+"second": "DB손해보험",
+"second_ret": 3.8
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.62,
+"up5": 4,
+"lead": "YBM넷",
+"lead_ret": 29.95,
+"second": "메가엠디",
+"second_ret": 9.7
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 1.14,
+"up5": 6,
+"lead": "HLB파나진",
+"lead_ret": 13.28,
+"second": "바이오니아",
+"second_ret": 7.67
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 0.67,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 4.24,
+"second": "대한해운",
+"second_ret": 2.34
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 0.6,
+"up5": 4,
+"lead": "코미팜",
+"lead_ret": 30.0,
+"second": "바이오니아",
+"second_ret": 7.67
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.39,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 2.68,
+"second": "유한양행",
+"second_ret": 2.37
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 0.33,
+"up5": 3,
+"lead": "HLB",
+"lead_ret": 17.26,
+"second": "오스코텍",
+"second_ret": 8.52
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 0.22,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 1.43,
+"second": "하나금융지주",
+"second_ret": 1.27
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.09,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 8.33,
+"second": "제주항공",
+"second_ret": 0.73
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 0.08,
+"up5": 1,
+"lead": "미코",
+"lead_ret": 22.08,
+"second": "비나텍",
+"second_ret": 0.0
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": -0.06,
+"up5": 1,
+"lead": "코미팜",
+"lead_ret": 30.0,
+"second": "선진",
+"second_ret": 4.19
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -0.18,
+"up5": 2,
+"lead": "엘컴텍",
+"lead_ret": 10.38,
+"second": "비엘팜텍",
+"second_ret": 5.55
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -6.85,
+"up5": 0,
+"lead": "코세스",
+"lead_ret": -0.88,
+"second": "삼성전자",
+"second_ret": -1.06
+},
+{
+"name": "가상현실(VR)",
+"n": 19,
+"avg": -5.95,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 0.42,
+"second": "삼성전자",
+"second_ret": -1.06
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": -5.59,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.06,
+"second": "SK하이닉스",
+"second_ret": -1.9
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": -5.57,
+"up5": 0,
+"lead": "한화솔루션",
+"lead_ret": 0.27,
+"second": "한국전력",
+"second_ret": -3.95
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -5.42,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": -0.97,
+"second": "미래컴퍼니",
+"second_ret": -1.29
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 17.26,
+"value": 4321,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "미코",
+"code": "059090",
+"ret": 22.08,
+"value": 4214,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 10.38,
+"value": 1319,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 12.79,
+"value": 1299,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 29.95,
+"value": 1233,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

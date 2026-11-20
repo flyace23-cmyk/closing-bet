@@ -1,0 +1,254 @@
+{
+"date": "20230829",
+"kospi": 0.34,
+"kosdaq": 0.75,
+"adv": 1542,
+"dec": 524,
+"flat": 119,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 183730,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 7,
+"lead": "한국정보인증",
+"lead_ret": 29.95,
+"second": "아이티센피엔에스",
+"second_ret": 29.9
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "마음AI",
+"lead_ret": 30.0,
+"second": "스맥",
+"second_ret": 16.64
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 4,
+"lead": "한국정보인증",
+"lead_ret": 29.95,
+"second": "아이티센피엔에스",
+"second_ret": 29.9
+}
+],
+"themes": [
+{
+"name": "보안주(정보)",
+"n": 43,
+"avg": 4.75,
+"up5": 12,
+"lead": "한국정보인증",
+"lead_ret": 29.95,
+"second": "아이티센피엔에스",
+"second_ret": 29.9
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 4.6,
+"up5": 7,
+"lead": "마음AI",
+"lead_ret": 30.0,
+"second": "미디어젠",
+"second_ret": 12.87
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 4.56,
+"up5": 5,
+"lead": "NE능률",
+"lead_ret": 22.03,
+"second": "유비온",
+"second_ret": 11.82
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 4.41,
+"up5": 4,
+"lead": "한국정보인증",
+"lead_ret": 29.95,
+"second": "아이티센피엔에스",
+"second_ret": 29.9
+},
+{
+"name": "의료AI",
+"n": 21,
+"avg": 4.41,
+"up5": 4,
+"lead": "뷰노",
+"lead_ret": 24.01,
+"second": "제이엘케이",
+"second_ret": 16.91
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 4.2,
+"up5": 4,
+"lead": "미디어젠",
+"lead_ret": 12.87,
+"second": "셀바스AI",
+"second_ret": 11.88
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 10,
+"avg": 4.12,
+"up5": 2,
+"lead": "샌즈랩",
+"lead_ret": 24.03,
+"second": "라온시큐어",
+"second_ret": 6.6
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 4.01,
+"up5": 7,
+"lead": "한국정보인증",
+"lead_ret": 29.95,
+"second": "아이티센피엔에스",
+"second_ret": 29.9
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.95,
+"up5": 3,
+"lead": "빛과전자",
+"lead_ret": 29.9,
+"second": "자람테크놀로지",
+"second_ret": 5.74
+},
+{
+"name": "보안주(물리)",
+"n": 18,
+"avg": 3.86,
+"up5": 3,
+"lead": "픽셀플러스",
+"lead_ret": 30.0,
+"second": "싸이버원",
+"second_ret": 19.51
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.55,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 16.64,
+"second": "코렌텍",
+"second_ret": 5.88
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 3.55,
+"up5": 6,
+"lead": "한국정보인증",
+"lead_ret": 29.95,
+"second": "아이티센피엔에스",
+"second_ret": 29.9
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.72,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 0.2,
+"second": "샘표",
+"second_ret": -1.85
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -1.7,
+"up5": 0,
+"lead": "한전기술",
+"lead_ret": 2.56,
+"second": "두산에너빌리티",
+"second_ret": 1.11
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -1.55,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 2.03,
+"second": "더블유씨피",
+"second_ret": 0.94
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -1.5,
+"up5": 0,
+"lead": "체리부로",
+"lead_ret": 3.14,
+"second": "교촌에프앤비",
+"second_ret": 0.12
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -1.14,
+"up5": 0,
+"lead": "SOOP",
+"lead_ret": 2.27,
+"second": "하이트진로",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "뷰노",
+"code": "338220",
+"ret": 24.01,
+"value": 2918,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "마음AI",
+"code": "377480",
+"ret": 30.0,
+"value": 2545,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 11.88,
+"value": 2272,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "코위버",
+"code": "056360",
+"ret": 11.55,
+"value": 1399,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "꿈비",
+"code": "407400",
+"ret": 19.35,
+"value": 851,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+}
+],
+"backfilled": true
+}

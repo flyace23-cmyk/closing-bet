@@ -1,0 +1,246 @@
+{
+"date": "20200506",
+"kospi": 1.76,
+"kosdaq": 2.57,
+"adv": 1522,
+"dec": 260,
+"flat": 129,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 289809,
+"hot": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "옵티팜",
+"lead_ret": 29.93,
+"second": "케이바이오랩스",
+"second_ret": 12.27
+},
+{
+"name": "육계",
+"n": 3,
+"lead": "마니커에프앤지",
+"lead_ret": 29.64,
+"second": "마니커",
+"second_ret": 18.9
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 8,
+"avg": 10.79,
+"up5": 6,
+"lead": "마니커에프앤지",
+"lead_ret": 29.64,
+"second": "마니커",
+"second_ret": 18.9
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 5.73,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 17.69,
+"second": "유니온머티리얼",
+"second_ret": 5.72
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 5.41,
+"up5": 12,
+"lead": "옵티팜",
+"lead_ret": 29.93,
+"second": "마니커",
+"second_ret": 18.9
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 5.37,
+"up5": 3,
+"lead": "지어소프트",
+"lead_ret": 18.29,
+"second": "팜스코",
+"second_ret": 9.64
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 5.13,
+"up5": 4,
+"lead": "마니커",
+"lead_ret": 18.9,
+"second": "하림",
+"second_ret": 10.8
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 5.11,
+"up5": 3,
+"lead": "KG파이낸셜",
+"lead_ret": 12.28,
+"second": "NICE",
+"second_ret": 7.95
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 4.79,
+"up5": 5,
+"lead": "링네트",
+"lead_ret": 14.47,
+"second": "제이씨현시스템",
+"second_ret": 9.38
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 4.75,
+"up5": 2,
+"lead": "파이오링크",
+"lead_ret": 17.47,
+"second": "NAVER",
+"second_ret": 6.53
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.69,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 14.83,
+"second": "메디포스트",
+"second_ret": 4.65
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.58,
+"up5": 8,
+"lead": "마니커",
+"lead_ret": 18.9,
+"second": "하림",
+"second_ret": 10.8
+},
+{
+"name": "탈모 치료",
+"n": 19,
+"avg": 4.44,
+"up5": 4,
+"lead": "인산가",
+"lead_ret": 20.0,
+"second": "현대바이오랜드",
+"second_ret": 16.16
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 4.41,
+"up5": 3,
+"lead": "디앤씨미디어",
+"lead_ret": 17.46,
+"second": "카카오",
+"second_ret": 6.97
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.82,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 0.24,
+"second": "트리니티항공",
+"second_ret": -1.08
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -0.6,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 3.42,
+"second": "에스티팜",
+"second_ret": 2.79
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -0.6,
+"up5": 0,
+"lead": "노루페인트",
+"lead_ret": 1.97,
+"second": "강남제비스코",
+"second_ret": 0.29
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -0.55,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 0.92,
+"second": "코오롱인더",
+"second_ret": 0.17
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -0.34,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 0.75,
+"second": "신한지주",
+"second_ret": 0.34
+}
+],
+"leaders": [
+{
+"name": "현대바이오랜드",
+"code": "052260",
+"ret": 16.16,
+"value": 6947,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "마니커",
+"code": "027740",
+"ret": 18.9,
+"value": 1715,
+"theme": "육계",
+"reason": "테마: 육계"
+},
+{
+"name": "KG파이낸셜",
+"code": "046440",
+"ret": 12.28,
+"value": 1242,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "하림",
+"code": "136480",
+"ret": 10.8,
+"value": 1237,
+"theme": "육계",
+"reason": "테마: 육계"
+},
+{
+"name": "마니커에프앤지",
+"code": "195500",
+"ret": 29.64,
+"value": 1217,
+"theme": "육계",
+"reason": "테마: 육계"
+}
+],
+"backfilled": true
+}

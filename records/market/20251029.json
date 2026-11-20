@@ -1,0 +1,254 @@
+{
+"date": "20251029",
+"kospi": 1.76,
+"kosdaq": -0.19,
+"adv": 750,
+"dec": 1496,
+"flat": 136,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 305798,
+"hot": [
+{
+"name": "통신장비",
+"n": 8,
+"lead": "에이스테크",
+"lead_ret": 29.91,
+"second": "이노인스트루먼트",
+"second_ret": 29.83
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "유니테스트",
+"lead_ret": 13.39,
+"second": "기가레인",
+"second_ret": 10.76
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "마이크로투나노",
+"lead_ret": 15.71,
+"second": "파미셀",
+"second_ret": 13.17
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 6.9,
+"up5": 5,
+"lead": "빛과전자",
+"lead_ret": 29.97,
+"second": "자람테크놀로지",
+"second_ret": 26.43
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 6.38,
+"up5": 17,
+"lead": "빛과전자",
+"lead_ret": 29.97,
+"second": "에이스테크",
+"second_ret": 29.91
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 5.98,
+"up5": 18,
+"lead": "빛과전자",
+"lead_ret": 29.97,
+"second": "에이스테크",
+"second_ret": 29.91
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.71,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 20.2,
+"second": "퀀텀레일",
+"second_ret": 2.17
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.65,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 26.43,
+"second": "에이직랜드",
+"second_ret": 4.31
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 4.27,
+"up5": 6,
+"lead": "두산에너빌리티",
+"lead_ret": 11.57,
+"second": "대창솔루션",
+"second_ret": 9.83
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.17,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 11.59,
+"second": "현대건설",
+"second_ret": 6.68
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.17,
+"up5": 3,
+"lead": "대원전선",
+"lead_ret": 11.37,
+"second": "가온전선",
+"second_ret": 10.43
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.62,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 7.1,
+"second": "삼성에스디에스",
+"second_ret": 6.55
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.53,
+"up5": 3,
+"lead": "이루온",
+"lead_ret": 20.2,
+"second": "가비아",
+"second_ret": 10.54
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.48,
+"up5": 5,
+"lead": "심텍",
+"lead_ret": 9.93,
+"second": "네오티스",
+"second_ret": 8.71
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.42,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 11.59,
+"second": "SK하이닉스",
+"second_ret": 7.1
+}
+],
+"themes_worst": [
+{
+"name": "남북경협",
+"n": 29,
+"avg": -4.26,
+"up5": 2,
+"lead": "지엔씨에너지",
+"lead_ret": 17.83,
+"second": "현대건설",
+"second_ret": 6.68
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": -3.25,
+"up5": 0,
+"lead": "SK네트웍스",
+"lead_ret": 0.44,
+"second": "IPARK현대산업개발",
+"second_ret": -0.75
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -2.58,
+"up5": 0,
+"lead": "모나미",
+"lead_ret": 0.48,
+"second": "모나리자",
+"second_ret": 0.0
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -2.45,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 4.19,
+"second": "와이즈넛",
+"second_ret": 1.95
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": -2.34,
+"up5": 0,
+"lead": "유진로봇",
+"lead_ret": 3.69,
+"second": "시그네틱스",
+"second_ret": 0.44
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 11.57,
+"value": 16079,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "강원에너지",
+"code": "114190",
+"ret": 12.76,
+"value": 3319,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 13.17,
+"value": 2716,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "삼성물산",
+"code": "028260",
+"ret": 11.59,
+"value": 2342,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "두산",
+"code": "000150",
+"ret": 12.11,
+"value": 1982,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

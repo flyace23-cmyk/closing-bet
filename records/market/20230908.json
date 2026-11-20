@@ -1,0 +1,254 @@
+{
+"date": "20230908",
+"kospi": -0.02,
+"kosdaq": 0.86,
+"adv": 1275,
+"dec": 777,
+"flat": 135,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 190060,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "대동기어",
+"lead_ret": 20.14,
+"second": "디아이씨",
+"second_ret": 18.6
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "대동기어",
+"lead_ret": 20.14,
+"second": "디아이씨",
+"second_ret": 18.6
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "샤페론",
+"lead_ret": 22.9,
+"second": "더코디",
+"second_ret": 22.26
+}
+],
+"themes": [
+{
+"name": "비료",
+"n": 10,
+"avg": 8.59,
+"up5": 6,
+"lead": "조비",
+"lead_ret": 20.29,
+"second": "KG케미칼",
+"second_ret": 19.02
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 8.15,
+"up5": 3,
+"lead": "KG케미칼",
+"lead_ret": 19.02,
+"second": "유니온",
+"second_ret": 10.62
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 5.7,
+"up5": 8,
+"lead": "조비",
+"lead_ret": 20.29,
+"second": "대동기어",
+"second_ret": 20.14
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 4.75,
+"up5": 3,
+"lead": "조비",
+"lead_ret": 20.29,
+"second": "남해화학",
+"second_ret": 9.04
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 4.44,
+"up5": 9,
+"lead": "샤페론",
+"lead_ret": 22.9,
+"second": "더코디",
+"second_ret": 22.26
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.41,
+"up5": 1,
+"lead": "샘표식품",
+"lead_ret": 9.69,
+"second": "미래생명자원",
+"second_ret": 4.52
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 4.1,
+"up5": 2,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "문배철강",
+"second_ret": 9.68
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 4.09,
+"up5": 3,
+"lead": "휴젤",
+"lead_ret": 12.26,
+"second": "청담글로벌",
+"second_ret": 9.28
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 3.86,
+"up5": 12,
+"lead": "샤페론",
+"lead_ret": 22.9,
+"second": "고바이오랩",
+"second_ret": 16.16
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 3.69,
+"up5": 6,
+"lead": "지니너스",
+"lead_ret": 16.3,
+"second": "고바이오랩",
+"second_ret": 16.16
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 10,
+"avg": 3.58,
+"up5": 2,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "넥스틸",
+"second_ret": 6.09
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.26,
+"up5": 4,
+"lead": "큐라티스",
+"lead_ret": 8.55,
+"second": "인벤티지랩",
+"second_ret": 6.31
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.81,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 0.39,
+"second": "삼성전자",
+"second_ret": -0.14
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": -2.29,
+"up5": 1,
+"lead": "국전",
+"lead_ret": 5.15,
+"second": "케이씨텍",
+"second_ret": 0.45
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.88,
+"up5": 0,
+"lead": "씨엑스아이",
+"lead_ret": 2.18,
+"second": "로스웰",
+"second_ret": 0.24
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 12,
+"avg": -1.88,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 1.05,
+"second": "국순당",
+"second_ret": 0.0
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -1.77,
+"up5": 0,
+"lead": "잉크테크",
+"lead_ret": 0.95,
+"second": "켐트로닉스",
+"second_ret": 0.41
+}
+],
+"leaders": [
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 11.58,
+"value": 9839,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 13.97,
+"value": 4529,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "KG케미칼",
+"code": "001390",
+"ret": 19.02,
+"value": 2210,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 22.9,
+"value": 2056,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 20.14,
+"value": 1192,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

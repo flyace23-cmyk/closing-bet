@@ -1,0 +1,254 @@
+{
+"date": "20250825",
+"kospi": 1.3,
+"kosdaq": 1.98,
+"adv": 1594,
+"dec": 637,
+"flat": 146,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 124512,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 11,
+"lead": "코닉오토메이션",
+"lead_ret": 29.99,
+"second": "하이젠알앤엠",
+"second_ret": 21.71
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "케이지에이",
+"lead_ret": 11.61,
+"second": "아이비젼웍스",
+"second_ret": 10.45
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "지투지바이오",
+"lead_ret": 29.93,
+"second": "인벤티지랩",
+"second_ret": 15.59
+}
+],
+"themes": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": 4.68,
+"up5": 24,
+"lead": "코닉오토메이션",
+"lead_ret": 29.99,
+"second": "하이젠알앤엠",
+"second_ret": 21.71
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 43,
+"avg": 4.5,
+"up5": 17,
+"lead": "로보티즈",
+"lead_ret": 19.31,
+"second": "삼현",
+"second_ret": 15.75
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.2,
+"up5": 1,
+"lead": "오로라",
+"lead_ret": 20.01,
+"second": "손오공",
+"second_ret": 3.28
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 3.85,
+"up5": 10,
+"lead": "코닉오토메이션",
+"lead_ret": 29.99,
+"second": "현대무벡스",
+"second_ret": 11.78
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 3.74,
+"up5": 1,
+"lead": "비츠로시스",
+"lead_ret": 29.97,
+"second": "한화비전",
+"second_ret": 2.22
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 62,
+"avg": 3.71,
+"up5": 16,
+"lead": "로보티즈",
+"lead_ret": 19.31,
+"second": "씨메스로보틱스",
+"second_ret": 10.97
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.24,
+"up5": 3,
+"lead": "코오롱",
+"lead_ret": 7.35,
+"second": "한화투자증권",
+"second_ret": 5.9
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 3.14,
+"up5": 2,
+"lead": "비츠로시스",
+"lead_ret": 29.97,
+"second": "한전산업",
+"second_ret": 6.11
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.9,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 5.95,
+"second": "일진파워",
+"second_ret": 4.06
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.81,
+"up5": 4,
+"lead": "케이엔알시스템",
+"lead_ret": 13.24,
+"second": "오르비텍",
+"second_ret": 6.87
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.81,
+"up5": 3,
+"lead": "부국증권",
+"lead_ret": 9.98,
+"second": "한화투자증권",
+"second_ret": 5.9
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 2.74,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 16.21,
+"second": "포바이포",
+"second_ret": 4.89
+}
+],
+"themes_worst": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -0.94,
+"up5": 0,
+"lead": "유에스티",
+"lead_ret": 1.83,
+"second": "율촌",
+"second_ret": 0.95
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -0.8,
+"up5": 0,
+"lead": "삼현철강",
+"lead_ret": 2.44,
+"second": "부국철강",
+"second_ret": 1.07
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -0.37,
+"up5": 0,
+"lead": "해태제과식품",
+"lead_ret": 1.07,
+"second": "모나리자",
+"second_ret": 0.81
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -0.34,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 2.85,
+"second": "유비벨록스",
+"second_ret": 2.19
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -0.34,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 1.34,
+"second": "CJ씨푸드",
+"second_ret": 0.87
+}
+],
+"leaders": [
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 19.31,
+"value": 3540,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 10.08,
+"value": 2143,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "지투지바이오",
+"code": "456160",
+"ret": 29.93,
+"value": 1377,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "하이젠알앤엠",
+"code": "160190",
+"ret": 21.71,
+"value": 883,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 13.51,
+"value": 611,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

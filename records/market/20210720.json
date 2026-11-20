@@ -1,0 +1,254 @@
+{
+"date": "20210720",
+"kospi": -0.35,
+"kosdaq": -0.59,
+"adv": 469,
+"dec": 1405,
+"flat": 141,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 273047,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "한전기술",
+"lead_ret": 12.64,
+"second": "씨에스윈드",
+"second_ret": 7.42
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "알체라",
+"lead_ret": 20.41,
+"second": "컴투스엔",
+"second_ret": 12.27
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "리메드",
+"lead_ret": 6.73,
+"second": "씨유메디칼",
+"second_ret": 6.5
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.86,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 20.41,
+"second": "이스트소프트",
+"second_ret": 8.27
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.92,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 12.33,
+"second": "에스와이",
+"second_ret": 6.86
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.5,
+"up5": 2,
+"lead": "우진",
+"lead_ret": 12.87,
+"second": "한전기술",
+"second_ret": 12.64
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 2.47,
+"up5": 2,
+"lead": "에이루트",
+"lead_ret": 29.93,
+"second": "디아이티",
+"second_ret": 6.61
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 40,
+"avg": 1.76,
+"up5": 5,
+"lead": "알체라",
+"lead_ret": 20.41,
+"second": "컴투스엔",
+"second_ret": 12.27
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.12,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": 4.18,
+"second": "KG케미칼",
+"second_ret": 2.83
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.01,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 6.3,
+"second": "기아",
+"second_ret": 1.52
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 0.94,
+"up5": 1,
+"lead": "나무가",
+"lead_ret": 10.33,
+"second": "링크드",
+"second_ret": 4.79
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 0.77,
+"up5": 3,
+"lead": "우진",
+"lead_ret": 12.87,
+"second": "한전기술",
+"second_ret": 12.64
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 0.75,
+"up5": 1,
+"lead": "한중엔시에스",
+"lead_ret": 7.39,
+"second": "유니셈",
+"second_ret": 4.58
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 0.64,
+"up5": 1,
+"lead": "나무가",
+"lead_ret": 10.33,
+"second": "이랜텍",
+"second_ret": 3.68
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 0.57,
+"up5": 1,
+"lead": "NH농우바이오",
+"lead_ret": 5.88,
+"second": "KG케미칼",
+"second_ret": 2.83
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -3.61,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 0.75,
+"second": "푸른로보틱스",
+"second_ret": 0.0
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.34,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": -1.96,
+"second": "옴니시스템",
+"second_ret": -2.32
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.5,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": -1.05,
+"second": "샘표",
+"second_ret": -2.09
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.39,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": -0.96,
+"second": "한화투자증권",
+"second_ret": -0.97
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -2.21,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -0.43,
+"second": "나인테크",
+"second_ret": -0.79
+}
+],
+"leaders": [
+{
+"name": "알체라",
+"code": "347860",
+"ret": 20.41,
+"value": 4818,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 12.64,
+"value": 3326,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "우진",
+"code": "105840",
+"ret": 12.87,
+"value": 2780,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "GH신소재",
+"code": "130500",
+"ret": 12.33,
+"value": 2399,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "코리아에셋투자증권",
+"code": "190650",
+"ret": 21.12,
+"value": 1900,
+"theme": "증권",
+"reason": "테마: 증권"
+}
+],
+"backfilled": true
+}

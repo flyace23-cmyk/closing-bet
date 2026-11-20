@@ -1,0 +1,254 @@
+{
+"date": "20250822",
+"kospi": 0.86,
+"kosdaq": 0.68,
+"adv": 1203,
+"dec": 997,
+"flat": 176,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 122291,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 6,
+"lead": "삼양컴텍",
+"lead_ret": 14.98,
+"second": "대한광통신",
+"second_ret": 11.28
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 4,
+"lead": "케일럼",
+"lead_ret": 13.01,
+"second": "한텍",
+"second_ret": 12.61
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "한텍",
+"lead_ret": 12.61,
+"second": "비에이치아이",
+"second_ret": 10.78
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.23,
+"up5": 4,
+"lead": "한텍",
+"lead_ret": 12.61,
+"second": "비에이치아이",
+"second_ret": 10.78
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.2,
+"up5": 2,
+"lead": "인텍플러스",
+"lead_ret": 23.28,
+"second": "티엘비",
+"second_ret": 5.27
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.02,
+"up5": 2,
+"lead": "iMBC",
+"lead_ret": 24.17,
+"second": "애니플러스",
+"second_ret": 5.69
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 2.82,
+"up5": 5,
+"lead": "케일럼",
+"lead_ret": 13.01,
+"second": "한텍",
+"second_ret": 12.61
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.75,
+"up5": 3,
+"lead": "솔디펜스",
+"lead_ret": 9.12,
+"second": "한화에어로스페이스",
+"second_ret": 6.83
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 2.58,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 10.78,
+"second": "비나텍",
+"second_ret": 7.98
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.42,
+"up5": 7,
+"lead": "센서뷰",
+"lead_ret": 9.23,
+"second": "쎄트렉아이",
+"second_ret": 8.32
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.4,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 14.29,
+"second": "신세계",
+"second_ret": 0.79
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 2.27,
+"up5": 2,
+"lead": "라온텍",
+"lead_ret": 9.61,
+"second": "사피엔반도체",
+"second_ret": 8.72
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.23,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 6.37,
+"second": "일진전기",
+"second_ret": 3.96
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 66,
+"avg": 2.18,
+"up5": 12,
+"lead": "삼양컴텍",
+"lead_ret": 14.98,
+"second": "대한광통신",
+"second_ret": 11.28
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.18,
+"up5": 3,
+"lead": "코아스",
+"lead_ret": 14.53,
+"second": "퍼스텍",
+"second_ret": 7.04
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -2.44,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": 0.87,
+"second": "포바이포",
+"second_ret": 0.78
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": -1.86,
+"up5": 0,
+"lead": "아이오케이이엔엠",
+"lead_ret": 1.43,
+"second": "스튜디오드래곤",
+"second_ret": 0.91
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -1.53,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": 2.25,
+"second": "모트렉스",
+"second_ret": 0.77
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -1.53,
+"up5": 1,
+"lead": "LS ELECTRIC",
+"lead_ret": 6.83,
+"second": "모비스",
+"second_ret": 1.07
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.51,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 1.13,
+"second": "후성",
+"second_ret": 0.83
+}
+],
+"leaders": [
+{
+"name": "삼양컴텍",
+"code": "484590",
+"ret": 14.98,
+"value": 1677,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "일승",
+"code": "333430",
+"ret": 10.71,
+"value": 1628,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "iMBC",
+"code": "052220",
+"ret": 24.17,
+"value": 1548,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 10.78,
+"value": 921,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 11.2,
+"value": 753,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

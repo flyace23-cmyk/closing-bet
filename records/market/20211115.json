@@ -1,0 +1,254 @@
+{
+"date": "20211115",
+"kospi": 1.03,
+"kosdaq": 1.98,
+"adv": 1427,
+"dec": 472,
+"flat": 155,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 244081,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "지오엘리먼트",
+"lead_ret": 29.78,
+"second": "KEC",
+"second_ret": 25.41
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "덕산테코피아",
+"lead_ret": 21.51,
+"second": "아이컴포넌트",
+"second_ret": 17.22
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "국전",
+"lead_ret": 16.42,
+"second": "한국비엔씨",
+"second_ret": 15.09
+}
+],
+"themes": [
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 4.92,
+"up5": 4,
+"lead": "KEC",
+"lead_ret": 25.41,
+"second": "DB하이텍",
+"second_ret": 7.11
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.86,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 18.18,
+"second": "인성정보",
+"second_ret": 7.22
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 4.71,
+"up5": 4,
+"lead": "제주반도체",
+"lead_ret": 29.8,
+"second": "텔레칩스",
+"second_ret": 7.07
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.14,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 6.44,
+"second": "드림씨아이에스",
+"second_ret": 6.42
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.75,
+"up5": 3,
+"lead": "국전",
+"lead_ret": 16.42,
+"second": "인트론바이오",
+"second_ret": 7.57
+},
+{
+"name": "반도체 재료/부품",
+"n": 59,
+"avg": 3.58,
+"up5": 11,
+"lead": "지오엘리먼트",
+"lead_ret": 29.78,
+"second": "KEC",
+"second_ret": 25.41
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 3.5,
+"up5": 2,
+"lead": "파이버프로",
+"lead_ret": 20.42,
+"second": "RF머트리얼즈",
+"second_ret": 6.99
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 3.45,
+"up5": 8,
+"lead": "국전",
+"lead_ret": 16.42,
+"second": "엠케이전자",
+"second_ret": 11.11
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 3.4,
+"up5": 6,
+"lead": "토마토시스템",
+"lead_ret": 10.85,
+"second": "인성정보",
+"second_ret": 7.22
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 3.37,
+"up5": 5,
+"lead": "국전",
+"lead_ret": 16.42,
+"second": "한국비엔씨",
+"second_ret": 15.09
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 3.37,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 15.09,
+"second": "메디톡스",
+"second_ret": 8.57
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 3.34,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 15.09,
+"second": "메디톡스",
+"second_ret": 8.57
+}
+],
+"themes_worst": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -1.41,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.04,
+"second": "삼화콘덴서",
+"second_ret": 2.67
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.93,
+"up5": 0,
+"lead": "삼천리",
+"lead_ret": 1.22,
+"second": "경동도시가스",
+"second_ret": 0.88
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -0.76,
+"up5": 0,
+"lead": "KCC",
+"lead_ret": 2.03,
+"second": "조광페인트",
+"second_ret": 0.69
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.68,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 0.56,
+"second": "현대백화점",
+"second_ret": 0.5
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.6,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": 1.16,
+"second": "한진칼",
+"second_ret": 0.34
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 16.15,
+"value": 3997,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "KEC",
+"code": "092220",
+"ret": 25.41,
+"value": 3253,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 13.33,
+"value": 2633,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 15.09,
+"value": 2390,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 21.5,
+"value": 2316,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20251124",
+"kospi": -0.19,
+"kosdaq": -0.87,
+"adv": 823,
+"dec": 1452,
+"flat": 115,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 272471,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 7,
+"lead": "스맥",
+"lead_ret": 29.97,
+"second": "피앤에스로보틱스",
+"second_ret": 27.14
+},
+{
+"name": "의료기기",
+"n": 5,
+"lead": "피앤에스로보틱스",
+"lead_ret": 27.14,
+"second": "큐리오시스",
+"second_ret": 13.53
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 5,
+"lead": "대모",
+"lead_ret": 29.96,
+"second": "대동기어",
+"second_ret": 19.37
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 16,
+"avg": 5.18,
+"up5": 5,
+"lead": "대모",
+"lead_ret": 29.96,
+"second": "현대에버다임",
+"second_ret": 10.39
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 4.01,
+"up5": 1,
+"lead": "천일고속",
+"lead_ret": 30.0,
+"second": "동양고속",
+"second_ret": -0.64
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.41,
+"up5": 9,
+"lead": "대모",
+"lead_ret": 29.96,
+"second": "대동기어",
+"second_ret": 19.37
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 2.43,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 29.97,
+"second": "에스티아이",
+"second_ret": 6.11
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.32,
+"up5": 2,
+"lead": "ISC",
+"lead_ret": 9.84,
+"second": "티에프이",
+"second_ret": 6.28
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.31,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 29.97,
+"second": "서암기계공업",
+"second_ret": 6.82
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 1.73,
+"up5": 2,
+"lead": "덕신이피씨",
+"lead_ret": 5.81,
+"second": "금강공업",
+"second_ret": 5.11
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 1.66,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.91,
+"second": "네오티스",
+"second_ret": 3.9
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 1.57,
+"up5": 2,
+"lead": "대동기어",
+"lead_ret": 19.37,
+"second": "아시아종묘",
+"second_ret": 13.57
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.55,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.91,
+"second": "SK스퀘어",
+"second_ret": 3.76
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.33,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 7.6,
+"second": "금강공업",
+"second_ret": 5.11
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.32,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 6.01,
+"second": "극동유화",
+"second_ret": 1.83
+}
+],
+"themes_worst": [
+{
+"name": "전자파",
+"n": 12,
+"avg": -3.38,
+"up5": 0,
+"lead": "켐트로닉스",
+"lead_ret": 4.36,
+"second": "아모텍",
+"second_ret": 2.55
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -3.09,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 0.0,
+"second": "오가노이드사이언스",
+"second_ret": -0.32
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -3.08,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -1.29,
+"second": "대구백화점",
+"second_ret": -2.25
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -2.94,
+"up5": 0,
+"lead": "메디톡스",
+"lead_ret": 1.15,
+"second": "제테마",
+"second_ret": 0.7
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.84,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 1.82,
+"second": "광무",
+"second_ret": 1.43
+}
+],
+"leaders": [
+{
+"name": "디앤디파마텍",
+"code": "347850",
+"ret": 16.65,
+"value": 4847,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "큐리오시스",
+"code": "494120",
+"ret": 13.53,
+"value": 3599,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "한라캐스트",
+"code": "125490",
+"ret": 11.55,
+"value": 1570,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "피앤에스로보틱스",
+"code": "460940",
+"ret": 27.14,
+"value": 1245,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "스맥",
+"code": "099440",
+"ret": 29.97,
+"value": 934,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

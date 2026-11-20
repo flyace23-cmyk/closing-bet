@@ -1,0 +1,254 @@
+{
+"date": "20200826",
+"kospi": 0.11,
+"kosdaq": 0.6,
+"adv": 794,
+"dec": 956,
+"flat": 185,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 285734,
+"hot": [
+{
+"name": "제약업체",
+"n": 5,
+"lead": "조아제약",
+"lead_ret": 29.94,
+"second": "텔콘RF제약",
+"second_ret": 29.88
+},
+{
+"name": "마스크",
+"n": 4,
+"lead": "조아제약",
+"lead_ret": 29.94,
+"second": "케이피엠테크",
+"second_ret": 29.73
+},
+{
+"name": "LED",
+"n": 3,
+"lead": "우리바이오",
+"lead_ret": 29.93,
+"second": "알에프텍",
+"second_ret": 15.91
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 11.57,
+"up5": 5,
+"lead": "GH신소재",
+"lead_ret": 29.99,
+"second": "엔브이에이치코리아",
+"second_ret": 12.82
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 11.06,
+"up5": 2,
+"lead": "파수AI",
+"lead_ret": 29.95,
+"second": "디지캡",
+"second_ret": 29.94
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 6.21,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 29.73,
+"second": "강스템바이오텍",
+"second_ret": 3.77
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 4.94,
+"up5": 5,
+"lead": "조아제약",
+"lead_ret": 29.94,
+"second": "케이피엠테크",
+"second_ret": 29.73
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 4.46,
+"up5": 4,
+"lead": "파수AI",
+"lead_ret": 29.95,
+"second": "이씨에스",
+"second_ret": 11.52
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 4.04,
+"up5": 2,
+"lead": "파수AI",
+"lead_ret": 29.95,
+"second": "헥토이노베이션",
+"second_ret": 6.16
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.78,
+"up5": 1,
+"lead": "유엔젤",
+"lead_ret": 29.9,
+"second": "가비아",
+"second_ret": 3.07
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 3.14,
+"up5": 3,
+"lead": "유엔젤",
+"lead_ret": 29.9,
+"second": "깨끗한나라",
+"second_ret": 19.27
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 20,
+"avg": 2.83,
+"up5": 3,
+"lead": "유엔젤",
+"lead_ret": 29.9,
+"second": "브리지텍",
+"second_ret": 9.04
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 2.76,
+"up5": 6,
+"lead": "파수AI",
+"lead_ret": 29.95,
+"second": "디지캡",
+"second_ret": 29.94
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 2.68,
+"up5": 3,
+"lead": "비나텍",
+"lead_ret": 7.0,
+"second": "두산퓨얼셀",
+"second_ret": 6.09
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.67,
+"up5": 2,
+"lead": "아미노로직스",
+"lead_ret": 7.68,
+"second": "이연제약",
+"second_ret": 5.03
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.08,
+"up5": 0,
+"lead": "넥센",
+"lead_ret": 1.21,
+"second": "효성티앤씨",
+"second_ret": 0.0
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -2.06,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.0,
+"second": "파세코",
+"second_ret": -0.42
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.9,
+"up5": 0,
+"lead": "한국철강",
+"lead_ret": -0.33,
+"second": "대한제강",
+"second_ret": -0.47
+},
+{
+"name": "공기청정기",
+"n": 10,
+"avg": -1.88,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 1.22,
+"second": "삼성전자",
+"second_ret": 0.0
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 12,
+"avg": -1.8,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 0.2,
+"second": "덕산하이메탈",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 29.73,
+"value": 6234,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "대정화금",
+"code": "120240",
+"ret": 29.88,
+"value": 4745,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "유니슨",
+"code": "018000",
+"ret": 27.16,
+"value": 3161,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "KNN",
+"code": "058400",
+"ret": 21.58,
+"value": 2920,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "앱토크롬",
+"code": "109960",
+"ret": 18.92,
+"value": 2504,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

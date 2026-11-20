@@ -1,0 +1,254 @@
+{
+"date": "20220520",
+"kospi": 1.81,
+"kosdaq": 1.86,
+"adv": 1391,
+"dec": 500,
+"flat": 188,
+"limit_up": 4,
+"limit_down": 2,
+"value_total": 160292,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "대명에너지",
+"lead_ret": 12.92,
+"second": "SK오션플랜트",
+"second_ret": 11.4
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "비트맥스",
+"lead_ret": 30.0,
+"second": "자이언트스텝",
+"second_ret": 24.59
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "지투파워",
+"lead_ret": 29.72,
+"second": "한신기계",
+"second_ret": 15.14
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 7.63,
+"up5": 8,
+"lead": "대주산업",
+"lead_ret": 29.94,
+"second": "고려산업",
+"second_ret": 24.79
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 4.36,
+"up5": 12,
+"lead": "비트맥스",
+"lead_ret": 30.0,
+"second": "자이언트스텝",
+"second_ret": 24.59
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 4.36,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 29.93,
+"second": "나이스정보통신",
+"second_ret": 2.26
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.24,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 11.74,
+"second": "데브시스터즈",
+"second_ret": 7.48
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.06,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 12.93,
+"second": "우리기술",
+"second_ret": 9.09
+},
+{
+"name": "원자력발전",
+"n": 44,
+"avg": 3.65,
+"up5": 9,
+"lead": "지투파워",
+"lead_ret": 29.72,
+"second": "한신기계",
+"second_ret": 15.14
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 3.59,
+"up5": 3,
+"lead": "한중엔시에스",
+"lead_ret": 12.08,
+"second": "3S",
+"second_ret": 11.5
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.56,
+"up5": 11,
+"lead": "크래프톤",
+"lead_ret": 8.02,
+"second": "데브시스터즈",
+"second_ret": 7.48
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 3.54,
+"up5": 8,
+"lead": "크래프톤",
+"lead_ret": 8.02,
+"second": "위메이드",
+"second_ret": 6.17
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.48,
+"up5": 2,
+"lead": "지씨셀",
+"lead_ret": 6.83,
+"second": "메디포스트",
+"second_ret": 5.51
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 3.43,
+"up5": 4,
+"lead": "비트맥스",
+"lead_ret": 30.0,
+"second": "위메이드",
+"second_ret": 6.17
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.14,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 9.09,
+"second": "졸스",
+"second_ret": 5.24
+}
+],
+"themes_worst": [
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -2.23,
+"up5": 1,
+"lead": "LG화학",
+"lead_ret": 8.57,
+"second": "알테오젠",
+"second_ret": 4.41
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.03,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": 0.76,
+"second": "동양고속",
+"second_ret": 0.28
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -0.93,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 3.85,
+"second": "유비벨록스",
+"second_ret": 2.85
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -0.68,
+"up5": 0,
+"lead": "로보스타",
+"lead_ret": 1.84,
+"second": "에스티아이",
+"second_ret": 1.22
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.58,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 0.5,
+"second": "DB손해보험",
+"second_ret": 0.32
+}
+],
+"leaders": [
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 15.14,
+"value": 3402,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 29.94,
+"value": 3186,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "대명에너지",
+"code": "389260",
+"ret": 12.92,
+"value": 3170,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 24.79,
+"value": 2381,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "엑스플러스",
+"code": "373200",
+"ret": 29.93,
+"value": 2133,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

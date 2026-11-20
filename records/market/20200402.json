@@ -1,0 +1,254 @@
+{
+"date": "20200402",
+"kospi": 2.34,
+"kosdaq": 2.87,
+"adv": 1441,
+"dec": 336,
+"flat": 133,
+"limit_up": 11,
+"limit_down": 1,
+"value_total": 211026,
+"hot": [
+{
+"name": "LPG(액화석유가스)",
+"n": 4,
+"lead": "중앙에너비스",
+"lead_ret": 29.92,
+"second": "흥구석유",
+"second_ret": 29.84
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "피제이전자",
+"lead_ret": 30.0,
+"second": "나노엔텍",
+"second_ret": 29.94
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "미래컴퍼니",
+"lead_ret": 29.94,
+"second": "레몬",
+"second_ret": 29.84
+}
+],
+"themes": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 15.16,
+"up5": 8,
+"lead": "중앙에너비스",
+"lead_ret": 29.92,
+"second": "흥구석유",
+"second_ret": 29.84
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 15.16,
+"up5": 8,
+"lead": "중앙에너비스",
+"lead_ret": 29.92,
+"second": "흥구석유",
+"second_ret": 29.84
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 13.5,
+"up5": 5,
+"lead": "흥구석유",
+"lead_ret": 29.84,
+"second": "극동유화",
+"second_ret": 23.41
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 11.52,
+"up5": 9,
+"lead": "중앙에너비스",
+"lead_ret": 29.92,
+"second": "흥구석유",
+"second_ret": 29.84
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 8.1,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 23.41,
+"second": "한국석유",
+"second_ret": 19.95
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 7.68,
+"up5": 4,
+"lead": "삼성화재",
+"lead_ret": 15.33,
+"second": "흥국화재",
+"second_ret": 9.91
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 7.06,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 29.81,
+"second": "한화생명",
+"second_ret": 3.03
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 6.96,
+"up5": 9,
+"lead": "나노엔텍",
+"lead_ret": 29.94,
+"second": "소프트센",
+"second_ret": 22.22
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 6.7,
+"up5": 5,
+"lead": "서울바이오시스",
+"lead_ret": 30.0,
+"second": "대한광통신",
+"second_ret": 9.68
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 6.15,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 17.84,
+"second": "이마트",
+"second_ret": 4.39
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 5.92,
+"up5": 3,
+"lead": "소프트센",
+"lead_ret": 22.22,
+"second": "SK이노베이션",
+"second_ret": 9.58
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 5.71,
+"up5": 8,
+"lead": "레몬",
+"lead_ret": 29.84,
+"second": "톱텍",
+"second_ret": 29.57
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -7.52,
+"up5": 0,
+"lead": "국제약품",
+"lead_ret": 2.42,
+"second": "국전",
+"second_ret": 0.0
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.54,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": 4.83,
+"second": "사조대림",
+"second_ret": 2.0
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -2.47,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 2.0,
+"second": "풀무원",
+"second_ret": 1.46
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.83,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 2.47,
+"second": "유비벨록스",
+"second_ret": 1.6
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": -1.31,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": 4.26,
+"second": "현대바이오랜드",
+"second_ret": 3.08
+}
+],
+"leaders": [
+{
+"name": "톱텍",
+"code": "108230",
+"ret": 29.57,
+"value": 3442,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "레몬",
+"code": "294140",
+"ret": 29.84,
+"value": 2654,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "S-Oil",
+"code": "010950",
+"ret": 20.0,
+"value": 1817,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+},
+{
+"name": "DL",
+"code": "000210",
+"ret": 15.56,
+"value": 1447,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "서울반도체",
+"code": "046890",
+"ret": 16.52,
+"value": 1321,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+}
+],
+"backfilled": true
+}

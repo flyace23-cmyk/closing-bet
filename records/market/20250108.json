@@ -1,0 +1,254 @@
+{
+"date": "20250108",
+"kospi": 1.16,
+"kosdaq": 0.19,
+"adv": 1145,
+"dec": 1011,
+"flat": 165,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 168338,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "한미반도체",
+"lead_ret": 14.31,
+"second": "와이씨",
+"second_ret": 13.22
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "램테크놀러지",
+"lead_ret": 12.08,
+"second": "에프에스티",
+"second_ret": 10.42
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "지구홀딩스",
+"lead_ret": 29.97,
+"second": "케이바이오랩스",
+"second_ret": 29.65
+}
+],
+"themes": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 4.62,
+"up5": 14,
+"lead": "한미반도체",
+"lead_ret": 14.31,
+"second": "와이씨",
+"second_ret": 13.22
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.4,
+"up5": 3,
+"lead": "티에프이",
+"lead_ret": 12.57,
+"second": "심텍",
+"second_ret": 6.76
+},
+{
+"name": "유리 기판",
+"n": 20,
+"avg": 3.79,
+"up5": 6,
+"lead": "SKC",
+"lead_ret": 12.55,
+"second": "램테크놀러지",
+"second_ret": 12.08
+},
+{
+"name": "반도체 장비",
+"n": 90,
+"avg": 3.3,
+"up5": 26,
+"lead": "한미반도체",
+"lead_ret": 14.31,
+"second": "와이씨",
+"second_ret": 13.22
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.09,
+"up5": 2,
+"lead": "인텍플러스",
+"lead_ret": 8.51,
+"second": "심텍",
+"second_ret": 6.76
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 3.09,
+"up5": 5,
+"lead": "SKC",
+"lead_ret": 12.55,
+"second": "필옵틱스",
+"second_ret": 7.76
+},
+{
+"name": "반도체 재료/부품",
+"n": 68,
+"avg": 2.85,
+"up5": 15,
+"lead": "램테크놀러지",
+"lead_ret": 12.08,
+"second": "에프에스티",
+"second_ret": 10.42
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.57,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 5.2,
+"second": "한화오션",
+"second_ret": 3.26
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 2.49,
+"up5": 6,
+"lead": "램테크놀러지",
+"lead_ret": 12.08,
+"second": "송원산업",
+"second_ret": 7.89
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 2.49,
+"up5": 4,
+"lead": "에이팩트",
+"lead_ret": 8.32,
+"second": "네패스",
+"second_ret": 6.97
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 2.29,
+"up5": 4,
+"lead": "아이크래프트",
+"lead_ret": 29.94,
+"second": "신세계 I&C",
+"second_ret": 16.28
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.13,
+"up5": 0,
+"lead": "엑시콘",
+"lead_ret": 4.77,
+"second": "오킨스전자",
+"second_ret": 4.42
+}
+],
+"themes_worst": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -4.63,
+"up5": 0,
+"lead": "파인텍",
+"lead_ret": 4.45,
+"second": "라닉스",
+"second_ret": 0.95
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": -2.01,
+"up5": 1,
+"lead": "넥써쓰",
+"lead_ret": 6.57,
+"second": "위메이드",
+"second_ret": 4.32
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.73,
+"up5": 1,
+"lead": "큐라티스",
+"lead_ret": 8.06,
+"second": "이연제약",
+"second_ret": 2.55
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.6,
+"up5": 0,
+"lead": "대원전선",
+"lead_ret": 0.17,
+"second": "대한전선",
+"second_ret": 0.08
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -1.51,
+"up5": 0,
+"lead": "국보디자인",
+"lead_ret": -0.06,
+"second": "이월드",
+"second_ret": -0.83
+}
+],
+"leaders": [
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 10.13,
+"value": 8976,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 14.31,
+"value": 4161,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "신세계 I&C",
+"code": "035510",
+"ret": 16.28,
+"value": 3511,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "SKC",
+"code": "011790",
+"ret": 12.55,
+"value": 1976,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 13.27,
+"value": 1717,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+}
+],
+"backfilled": true
+}

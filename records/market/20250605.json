@@ -1,0 +1,254 @@
+{
+"date": "20250605",
+"kospi": 1.49,
+"kosdaq": 0.8,
+"adv": 1431,
+"dec": 804,
+"flat": 126,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 201722,
+"hot": [
+{
+"name": "남북경협",
+"n": 5,
+"lead": "제이에스티나",
+"lead_ret": 29.95,
+"second": "좋은사람들",
+"second_ret": 20.66
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "성광벤드",
+"lead_ret": 25.65,
+"second": "한전기술",
+"second_ret": 19.8
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "한전기술",
+"lead_ret": 19.8,
+"second": "대명에너지",
+"second_ret": 14.35
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 13.99,
+"up5": 4,
+"lead": "쿠콘",
+"lead_ret": 30.0,
+"second": "코나아이",
+"second_ret": 21.35
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.9,
+"up5": 3,
+"lead": "삼성생명",
+"lead_ret": 10.75,
+"second": "삼성전기",
+"second_ret": 8.46
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 5.49,
+"up5": 3,
+"lead": "성광벤드",
+"lead_ret": 25.65,
+"second": "태광",
+"second_ret": 13.65
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 5.24,
+"up5": 4,
+"lead": "쿠콘",
+"lead_ret": 30.0,
+"second": "인포바인",
+"second_ret": 11.55
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 5.06,
+"up5": 7,
+"lead": "심텍",
+"lead_ret": 17.87,
+"second": "아이언디바이스",
+"second_ret": 16.31
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 4.61,
+"up5": 7,
+"lead": "제이에스티나",
+"lead_ret": 29.95,
+"second": "좋은사람들",
+"second_ret": 20.66
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.53,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 17.87,
+"second": "삼성전기",
+"second_ret": 8.46
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.29,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 17.87,
+"second": "ISC",
+"second_ret": 6.98
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.27,
+"up5": 7,
+"lead": "쿠콘",
+"lead_ret": 30.0,
+"second": "아이티센글로벌",
+"second_ret": 22.19
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 4.06,
+"up5": 3,
+"lead": "아이티센글로벌",
+"lead_ret": 22.19,
+"second": "유라클",
+"second_ret": 7.54
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 3.81,
+"up5": 7,
+"lead": "와이씨켐",
+"lead_ret": 14.2,
+"second": "삼성전기",
+"second_ret": 8.46
+},
+{
+"name": "출산장려정책",
+"n": 20,
+"avg": 3.69,
+"up5": 5,
+"lead": "에르코스",
+"lead_ret": 29.96,
+"second": "꿈비",
+"second_ret": 11.55
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.75,
+"up5": 0,
+"lead": "케이바이오랩스",
+"lead_ret": 2.57,
+"second": "진매트릭스",
+"second_ret": 0.71
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": -1.66,
+"up5": 0,
+"lead": "동방메디컬",
+"lead_ret": 3.72,
+"second": "휴온스글로벌",
+"second_ret": 3.27
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -1.63,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.8,
+"second": "STX그린로지스",
+"second_ret": -0.93
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.3,
+"up5": 0,
+"lead": "한미사이언스",
+"lead_ret": 4.96,
+"second": "녹십자",
+"second_ret": 4.51
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": -0.93,
+"up5": 1,
+"lead": "DXVX",
+"lead_ret": 6.74,
+"second": "삼천당제약",
+"second_ret": 4.75
+}
+],
+"leaders": [
+{
+"name": "코나아이",
+"code": "052400",
+"ret": 21.35,
+"value": 4080,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "쿠콘",
+"code": "294570",
+"ret": 30.0,
+"value": 3218,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 12.59,
+"value": 2918,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 18.79,
+"value": 2277,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 19.8,
+"value": 2116,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

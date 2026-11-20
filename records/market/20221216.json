@@ -1,0 +1,246 @@
+{
+"date": "20221216",
+"kospi": -0.04,
+"kosdaq": -0.73,
+"adv": 537,
+"dec": 1443,
+"flat": 145,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 107427,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "풍전약품",
+"lead_ret": 29.61,
+"second": "아이큐어",
+"second_ret": 18.96
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "나노엔텍",
+"lead_ret": 29.83,
+"second": "엔젠바이오",
+"second_ret": 20.1
+}
+],
+"themes": [
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 2.98,
+"up5": 9,
+"lead": "나노엔텍",
+"lead_ret": 29.83,
+"second": "엔젠바이오",
+"second_ret": 20.1
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.76,
+"up5": 2,
+"lead": "경동도시가스",
+"lead_ret": 7.07,
+"second": "한국가스공사",
+"second_ret": 5.61
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.71,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 25.0,
+"second": "우리금융지주",
+"second_ret": 1.58
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.17,
+"up5": 3,
+"lead": "수젠텍",
+"lead_ret": 16.59,
+"second": "엑세스바이오",
+"second_ret": 8.81
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 1.83,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 13.08,
+"second": "손오공",
+"second_ret": 2.46
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.5,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 5.29,
+"second": "소마젠",
+"second_ret": 4.84
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.28,
+"up5": 1,
+"lead": "YTN",
+"lead_ret": 6.24,
+"second": "콘텐트리중앙",
+"second_ret": 3.43
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 1.28,
+"up5": 2,
+"lead": "풍전약품",
+"lead_ret": 29.61,
+"second": "파미셀",
+"second_ret": 5.29
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 1.27,
+"up5": 4,
+"lead": "엔젠바이오",
+"lead_ret": 20.1,
+"second": "엑세스바이오",
+"second_ret": 8.81
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 1.25,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 5.19,
+"second": "HMM",
+"second_ret": 1.4
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 67,
+"avg": 1.25,
+"up5": 9,
+"lead": "나노엔텍",
+"lead_ret": 29.83,
+"second": "엔젠바이오",
+"second_ret": 20.1
+},
+{
+"name": "화장품",
+"n": 80,
+"avg": 1.15,
+"up5": 7,
+"lead": "풍전약품",
+"lead_ret": 29.61,
+"second": "아이큐어",
+"second_ret": 18.96
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": -2.72,
+"up5": 0,
+"lead": "디와이파워",
+"lead_ret": 2.82,
+"second": "프리엠스",
+"second_ret": 1.13
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -2.08,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.34,
+"second": "광전자",
+"second_ret": -0.88
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -2.02,
+"up5": 0,
+"lead": "경방",
+"lead_ret": 1.79,
+"second": "DI동일",
+"second_ret": 0.59
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -1.98,
+"up5": 0,
+"lead": "KBI동양철관",
+"lead_ret": 0.0,
+"second": "한국주철관",
+"second_ret": -0.42
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.94,
+"up5": 0,
+"lead": "인성정보",
+"lead_ret": -0.71,
+"second": "오픈베이스",
+"second_ret": -1.45
+}
+],
+"leaders": [
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 25.0,
+"value": 1783,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "F&F홀딩스",
+"code": "007700",
+"ret": 17.5,
+"value": 1683,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "나노엔텍",
+"code": "039860",
+"ret": 29.83,
+"value": 1361,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "HD현대마린엔진",
+"code": "071970",
+"ret": 21.18,
+"value": 1249,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "디앤씨미디어",
+"code": "263720",
+"ret": 10.99,
+"value": 638,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+}
+],
+"backfilled": true
+}

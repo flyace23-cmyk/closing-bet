@@ -1,0 +1,254 @@
+{
+"date": "20220427",
+"kospi": -1.1,
+"kosdaq": -1.64,
+"adv": 412,
+"dec": 1530,
+"flat": 135,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 209216,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "엣지파운드리",
+"lead_ret": 12.05,
+"second": "케이피에프",
+"second_ret": 10.02
+},
+{
+"name": "겨울",
+"n": 4,
+"lead": "대성에너지",
+"lead_ret": 30.0,
+"second": "지에스이",
+"second_ret": 29.93
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "파이버프로",
+"lead_ret": 29.91,
+"second": "태웅",
+"second_ret": 11.82
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 9.47,
+"up5": 4,
+"lead": "대성에너지",
+"lead_ret": 30.0,
+"second": "지에스이",
+"second_ret": 29.93
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.97,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 29.62,
+"second": "흥구석유",
+"second_ret": 14.94
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 7.97,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 29.62,
+"second": "흥구석유",
+"second_ret": 14.94
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 5.05,
+"up5": 5,
+"lead": "중앙에너비스",
+"lead_ret": 29.62,
+"second": "흥구석유",
+"second_ret": 14.94
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 3.67,
+"up5": 5,
+"lead": "대성에너지",
+"lead_ret": 30.0,
+"second": "지에스이",
+"second_ret": 29.93
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.39,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 14.94,
+"second": "극동유화",
+"second_ret": 5.92
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.7,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 24.74,
+"second": "극동유화",
+"second_ret": 5.92
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.22,
+"up5": 1,
+"lead": "SH에너지화학",
+"lead_ret": 18.41,
+"second": "E1",
+"second_ret": 3.4
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.22,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 13.4,
+"second": "GS글로벌",
+"second_ret": 8.87
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 28,
+"avg": 1.92,
+"up5": 4,
+"lead": "파이버프로",
+"lead_ret": 29.91,
+"second": "태웅",
+"second_ret": 11.82
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 1.84,
+"up5": 4,
+"lead": "파이버프로",
+"lead_ret": 29.91,
+"second": "베셀",
+"second_ret": 16.39
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.62,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 13.4,
+"second": "천일고속",
+"second_ret": 0.75
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -14.46,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -4.27,
+"second": "풀무원",
+"second_ret": -5.91
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -10.87,
+"up5": 0,
+"lead": "사조동아원",
+"lead_ret": 0.23,
+"second": "애드바이오텍",
+"second_ret": -1.74
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -6.66,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": -3.1,
+"second": "한울앤제주",
+"second_ret": -3.87
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -6.18,
+"up5": 0,
+"lead": "마니커",
+"lead_ret": 4.27,
+"second": "하림",
+"second_ret": 2.46
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": -5.84,
+"up5": 0,
+"lead": "마니커",
+"lead_ret": 4.27,
+"second": "옵티팜",
+"second_ret": 3.9
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 29.93,
+"value": 4703,
+"theme": "겨울",
+"reason": "테마: 겨울"
+},
+{
+"name": "베셀",
+"code": "177350",
+"ret": 16.39,
+"value": 2296,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 30.0,
+"value": 2016,
+"theme": "겨울",
+"reason": "테마: 겨울"
+},
+{
+"name": "중앙에너비스",
+"code": "000440",
+"ret": 29.62,
+"value": 1918,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+},
+{
+"name": "케이피에프",
+"code": "024880",
+"ret": 10.02,
+"value": 1870,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

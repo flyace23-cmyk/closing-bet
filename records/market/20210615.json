@@ -1,0 +1,229 @@
+{
+"date": "20210615",
+"kospi": 0.2,
+"kosdaq": -0.0,
+"adv": 850,
+"dec": 957,
+"flat": 204,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 237116,
+"hot": [],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.31,
+"up5": 3,
+"lead": "대원전선",
+"lead_ret": 30.0,
+"second": "대한전선",
+"second_ret": 7.35
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 4.12,
+"up5": 3,
+"lead": "강동씨앤엘",
+"lead_ret": 25.18,
+"second": "쎄니트",
+"second_ret": 13.37
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 4.1,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 18.05,
+"second": "TS인베스트먼트",
+"second_ret": 4.41
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.6,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 18.05,
+"second": "TS인베스트먼트",
+"second_ret": 4.41
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 2.51,
+"up5": 2,
+"lead": "대성창투",
+"lead_ret": 18.05,
+"second": "GMI벤처",
+"second_ret": 9.42
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 2.36,
+"up5": 3,
+"lead": "에스엠",
+"lead_ret": 8.28,
+"second": "에프엔씨엔터",
+"second_ret": 5.75
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.36,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 7.89,
+"second": "HS효성첨단소재",
+"second_ret": 3.89
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 2.08,
+"up5": 4,
+"lead": "에스엠",
+"lead_ret": 8.28,
+"second": "TJ미디어",
+"second_ret": 6.18
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 1.94,
+"up5": 1,
+"lead": "다올투자증권",
+"lead_ret": 7.15,
+"second": "상상인증권",
+"second_ret": 4.58
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 1.48,
+"up5": 1,
+"lead": "한빛소프트",
+"lead_ret": 5.23,
+"second": "라온시큐어",
+"second_ret": 4.74
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 1.41,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 4.55,
+"second": "기가레인",
+"second_ret": 4.09
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.41,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 5.97,
+"second": "티앤알바이오팹",
+"second_ret": 3.93
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.14,
+"up5": 0,
+"lead": "에어부산",
+"lead_ret": 0.0,
+"second": "아시아나항공",
+"second_ret": 0.0
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.85,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.78,
+"second": "아미노로직스",
+"second_ret": 0.17
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": -1.56,
+"up5": 0,
+"lead": "삼화전자",
+"lead_ret": 1.59,
+"second": "황금에스티",
+"second_ret": 0.22
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.36,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 3.03,
+"second": "세중",
+"second_ret": 0.0
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.35,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 1.57,
+"second": "보령",
+"second_ret": 0.86
+}
+],
+"leaders": [
+{
+"name": "강동씨앤엘",
+"code": "198440",
+"ret": 25.18,
+"value": 5397,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 30.0,
+"value": 4287,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "삼성제약",
+"code": "001360",
+"ret": 10.83,
+"value": 4158,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "디지틀조선",
+"code": "033130",
+"ret": 11.62,
+"value": 2672,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "에이치엠넥스",
+"code": "036170",
+"ret": 14.39,
+"value": 2542,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

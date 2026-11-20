@@ -1,0 +1,254 @@
+{
+"date": "20220928",
+"kospi": -2.45,
+"kosdaq": -3.47,
+"adv": 213,
+"dec": 1815,
+"flat": 71,
+"limit_up": 3,
+"limit_down": 3,
+"value_total": 142306,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "소마젠",
+"lead_ret": 22.3,
+"second": "일동제약",
+"second_ret": 10.05
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "일동제약",
+"lead_ret": 10.05,
+"second": "삼일제약",
+"second_ret": 4.23
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "샘표",
+"lead_ret": 29.82,
+"second": "신송홀딩스",
+"second_ret": 8.17
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.95,
+"up5": 2,
+"lead": "샘표",
+"lead_ret": 29.82,
+"second": "신송홀딩스",
+"second_ret": 8.17
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.14,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 22.3,
+"second": "삼성바이오로직스",
+"second_ret": 1.72
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 0.92,
+"up5": 1,
+"lead": "올릭스",
+"lead_ret": 21.04,
+"second": "이연제약",
+"second_ret": 2.14
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.56,
+"up5": 0,
+"lead": "지에스이",
+"lead_ret": 3.73,
+"second": "대성에너지",
+"second_ret": 3.69
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 0.48,
+"up5": 1,
+"lead": "iMBC",
+"lead_ret": 29.86,
+"second": "YTN",
+"second_ret": 2.31
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.15,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 1.19,
+"second": "파미셀",
+"second_ret": 0.7
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.04,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 7.19,
+"second": "카카오뱅크",
+"second_ret": 1.86
+},
+{
+"name": "탈모 치료",
+"n": 22,
+"avg": -0.14,
+"up5": 2,
+"lead": "올릭스",
+"lead_ret": 21.04,
+"second": "이노진",
+"second_ret": 8.2
+},
+{
+"name": "비만치료제",
+"n": 31,
+"avg": -0.16,
+"up5": 3,
+"lead": "올릭스",
+"lead_ret": 21.04,
+"second": "일동제약",
+"second_ret": 10.05
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -0.51,
+"up5": 2,
+"lead": "소마젠",
+"lead_ret": 22.3,
+"second": "제넥신",
+"second_ret": 6.04
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -0.79,
+"up5": 0,
+"lead": "동아에스티",
+"lead_ret": 1.94,
+"second": "프레스티지바이오파마",
+"second_ret": 1.76
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -0.9,
+"up5": 0,
+"lead": "지에스이",
+"lead_ret": 3.73,
+"second": "대성에너지",
+"second_ret": 3.69
+}
+],
+"themes_worst": [
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -8.21,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.4,
+"second": "LG전자",
+"second_ret": -2.46
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -6.31,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": -2.51,
+"second": "아이에이",
+"second_ret": -3.97
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.94,
+"up5": 0,
+"lead": "케스피온",
+"lead_ret": -3.75,
+"second": "상신전자",
+"second_ret": -4.07
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -5.94,
+"up5": 0,
+"lead": "케스피온",
+"lead_ret": -3.75,
+"second": "상신전자",
+"second_ret": -4.07
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -5.94,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": -3.93,
+"second": "티에스이",
+"second_ret": -4.0
+}
+],
+"leaders": [
+{
+"name": "푸른저축은행",
+"code": "007330",
+"ret": 20.43,
+"value": 1905,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 10.05,
+"value": 1640,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "대정화금",
+"code": "120240",
+"ret": 20.98,
+"value": 1036,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "iMBC",
+"code": "052220",
+"ret": 29.86,
+"value": 814,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 14.41,
+"value": 705,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

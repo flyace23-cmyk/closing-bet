@@ -1,0 +1,254 @@
+{
+"date": "20200122",
+"kospi": 1.23,
+"kosdaq": 1.73,
+"adv": 1226,
+"dec": 503,
+"flat": 174,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 100081,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "솔루스첨단소재",
+"lead_ret": 13.71,
+"second": "와이엠씨",
+"second_ret": 13.61
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "국제약품",
+"lead_ret": 25.18,
+"second": "에스티팜",
+"second_ret": 11.26
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "와이엠씨",
+"lead_ret": 13.61,
+"second": "에스앤에스텍",
+"second_ret": 9.12
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 6.23,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 11.26,
+"second": "엔투텍",
+"second_ret": 10.08
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 5.13,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.89,
+"second": "에스티팜",
+"second_ret": 11.26
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 4.68,
+"up5": 2,
+"lead": "국제약품",
+"lead_ret": 25.18,
+"second": "멕아이씨에스",
+"second_ret": 13.3
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": 4.37,
+"up5": 3,
+"lead": "모나리자",
+"lead_ret": 30.0,
+"second": "국제약품",
+"second_ret": 25.18
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 4.05,
+"up5": 3,
+"lead": "신대양제지",
+"lead_ret": 9.56,
+"second": "대림제지",
+"second_ret": 9.09
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.67,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.89,
+"second": "일신바이오",
+"second_ret": 9.4
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 3.41,
+"up5": 3,
+"lead": "에이디테크놀로지",
+"lead_ret": 10.72,
+"second": "에이팩트",
+"second_ret": 5.93
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.39,
+"up5": 2,
+"lead": "현대차",
+"lead_ret": 8.55,
+"second": "현대위아",
+"second_ret": 7.58
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 3.28,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 9.4,
+"second": "삼성바이오로직스",
+"second_ret": 3.2
+},
+{
+"name": "치매",
+"n": 40,
+"avg": 3.11,
+"up5": 5,
+"lead": "모나리자",
+"lead_ret": 30.0,
+"second": "유유제약",
+"second_ret": 8.89
+},
+{
+"name": "마스크",
+"n": 19,
+"avg": 3.1,
+"up5": 4,
+"lead": "모나리자",
+"lead_ret": 30.0,
+"second": "국제약품",
+"second_ret": 25.18
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.05,
+"up5": 2,
+"lead": "루멘스바이오스",
+"lead_ret": 8.7,
+"second": "영우디에스피",
+"second_ret": 6.37
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.08,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 1.49,
+"second": "유진기업",
+"second_ret": 1.31
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.42,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.41,
+"second": "E1",
+"second_ret": 0.11
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.42,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.41,
+"second": "E1",
+"second_ret": 0.11
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.2,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.41,
+"second": "SK이노베이션",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.06,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 0.83,
+"second": "삼성화재",
+"second_ret": -0.44
+}
+],
+"leaders": [
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 30.0,
+"value": 1933,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 25.18,
+"value": 1698,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "우진비앤지",
+"code": "018620",
+"ret": 16.7,
+"value": 925,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "서린바이오",
+"code": "038070",
+"ret": 29.89,
+"value": 924,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 29.97,
+"value": 499,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

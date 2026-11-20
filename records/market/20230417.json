@@ -1,0 +1,254 @@
+{
+"date": "20230417",
+"kospi": 0.17,
+"kosdaq": 0.63,
+"adv": 1067,
+"dec": 951,
+"flat": 130,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 244186,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에스엠벡셀",
+"lead_ret": 29.89,
+"second": "KG케미칼",
+"second_ret": 18.34
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "포스코DX",
+"lead_ret": 30.0,
+"second": "한전기술",
+"second_ret": 14.56
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 4,
+"lead": "비츠로시스",
+"lead_ret": 29.96,
+"second": "우리기술",
+"second_ret": 21.97
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 7.43,
+"up5": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 29.89,
+"second": "세아제강",
+"second_ret": 16.87
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 6.2,
+"up5": 7,
+"lead": "우리기술",
+"lead_ret": 21.97,
+"second": "한전기술",
+"second_ret": 14.56
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 5.59,
+"up5": 6,
+"lead": "포스코DX",
+"lead_ret": 30.0,
+"second": "비츠로시스",
+"second_ret": 29.96
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.77,
+"up5": 5,
+"lead": "특수건설",
+"lead_ret": 8.48,
+"second": "우원개발",
+"second_ret": 7.99
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 4.6,
+"up5": 12,
+"lead": "비츠로시스",
+"lead_ret": 29.96,
+"second": "제룡산업",
+"second_ret": 13.86
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 4.59,
+"up5": 6,
+"lead": "비츠로시스",
+"lead_ret": 29.96,
+"second": "우리기술",
+"second_ret": 21.97
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 4.51,
+"up5": 1,
+"lead": "비츠로시스",
+"lead_ret": 29.96,
+"second": "코콤",
+"second_ret": 1.68
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.22,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 14.34,
+"second": "현대코퍼레이션",
+"second_ret": 6.44
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 4.18,
+"up5": 5,
+"lead": "포스코인터내셔널",
+"lead_ret": 14.34,
+"second": "두산에너빌리티",
+"second_ret": 6.75
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.86,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 18.34,
+"second": "TKG휴켐스",
+"second_ret": 2.91
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 3.52,
+"up5": 9,
+"lead": "비츠로시스",
+"lead_ret": 29.96,
+"second": "우리기술",
+"second_ret": 21.97
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 3.5,
+"up5": 6,
+"lead": "비츠로시스",
+"lead_ret": 29.96,
+"second": "특수건설",
+"second_ret": 8.48
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": -2.33,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": 0.16,
+"second": "녹십자",
+"second_ret": -0.66
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -2.25,
+"up5": 0,
+"lead": "에이치엘사이언스",
+"lead_ret": 4.01,
+"second": "랩지노믹스",
+"second_ret": 3.08
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -2.24,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": -0.11,
+"second": "JW중외제약",
+"second_ret": -0.45
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -1.85,
+"up5": 1,
+"lead": "앱클론",
+"lead_ret": 7.49,
+"second": "진시스템",
+"second_ret": 3.39
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -1.79,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 1.56,
+"second": "삼성전자",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 30.0,
+"value": 11506,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 12.26,
+"value": 10162,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 20.93,
+"value": 6340,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 14.34,
+"value": 5453,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 15.49,
+"value": 5256,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

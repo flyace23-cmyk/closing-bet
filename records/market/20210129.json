@@ -1,0 +1,246 @@
+{
+"date": "20210129",
+"kospi": -3.03,
+"kosdaq": -3.38,
+"adv": 156,
+"dec": 1743,
+"flat": 77,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 373222,
+"hot": [
+{
+"name": "통신장비",
+"n": 3,
+"lead": "AP위성",
+"lead_ret": 14.03,
+"second": "CS",
+"second_ret": 9.16
+},
+{
+"name": "골판지 제조",
+"n": 3,
+"lead": "블루산업개발",
+"lead_ret": 8.05,
+"second": "대영포장",
+"second_ret": 4.93
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 9,
+"avg": 0.29,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 30.0,
+"second": "BNK금융지주",
+"second_ret": -0.72
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 0.25,
+"up5": 1,
+"lead": "블루산업개발",
+"lead_ret": 8.05,
+"second": "대영포장",
+"second_ret": 4.93
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.08,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 6.83,
+"second": "메디포스트",
+"second_ret": 4.13
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.85,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": 3.21,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.21,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 0.36,
+"second": "서울가스",
+"second_ret": 0.23
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.32,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.27,
+"second": "한국쉘석유",
+"second_ret": -0.61
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -1.33,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 21.85,
+"second": "티씨케이",
+"second_ret": 1.2
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -1.35,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 1.36,
+"second": "휴젤",
+"second_ret": 1.08
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -1.61,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 4.13,
+"second": "인피니트헬스케어",
+"second_ret": 2.97
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -1.74,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 1.36,
+"second": "휴젤",
+"second_ret": 1.08
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 26,
+"avg": -1.75,
+"up5": 1,
+"lead": "AP위성",
+"lead_ret": 14.03,
+"second": "인텔리안테크",
+"second_ret": 4.19
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.75,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 2.8,
+"second": "엘컴텍",
+"second_ret": 1.46
+}
+],
+"themes_worst": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": -6.18,
+"up5": 0,
+"lead": "아이에이",
+"lead_ret": -3.39,
+"second": "MDS테크",
+"second_ret": -3.49
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -6.15,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": -2.92,
+"second": "이월드",
+"second_ret": -3.18
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -5.34,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -2.99,
+"second": "현대건설",
+"second_ret": -4.62
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -5.27,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 2.8,
+"second": "SFA넥셀",
+"second_ret": -2.65
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -5.18,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": -2.97,
+"second": "카카오",
+"second_ret": -3.71
+}
+],
+"leaders": [
+{
+"name": "AP위성",
+"code": "211270",
+"ret": 14.03,
+"value": 1957,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "까뮤이앤씨",
+"code": "013700",
+"ret": 13.92,
+"value": 1825,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "프로텍",
+"code": "053610",
+"ret": 21.85,
+"value": 1756,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 30.0,
+"value": 1074,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "아이티센엔텍",
+"code": "010280",
+"ret": 12.47,
+"value": 983,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210105",
+"kospi": 1.57,
+"kosdaq": 0.83,
+"adv": 1066,
+"dec": 746,
+"flat": 158,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 434244,
+"hot": [
+{
+"name": "치매",
+"n": 3,
+"lead": "삼성제약",
+"lead_ret": 29.99,
+"second": "타임X AI",
+"second_ret": 29.95
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "프리엠스",
+"lead_ret": 22.89,
+"second": "서암기계공업",
+"second_ret": 17.69
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 3,
+"lead": "체시스",
+"lead_ret": 22.45,
+"second": "팜스코",
+"second_ret": 14.78
+}
+],
+"themes": [
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 5.88,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 12.43,
+"second": "IPARK현대산업개발",
+"second_ret": 6.65
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 5.43,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 20.62,
+"second": "KSS해운",
+"second_ret": 5.71
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.65,
+"up5": 4,
+"lead": "세아베스틸지주",
+"lead_ret": 7.41,
+"second": "KG스틸",
+"second_ret": 6.58
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 4.34,
+"up5": 3,
+"lead": "한솔로지스틱스",
+"lead_ret": 29.93,
+"second": "유성티엔에스",
+"second_ret": 6.35
+},
+{
+"name": "탈모 치료",
+"n": 21,
+"avg": 4.22,
+"up5": 7,
+"lead": "타임X AI",
+"lead_ret": 29.95,
+"second": "대웅제약",
+"second_ret": 10.76
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 4.13,
+"up5": 5,
+"lead": "문배철강",
+"lead_ret": 13.04,
+"second": "대동스틸",
+"second_ret": 7.05
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 4.05,
+"up5": 8,
+"lead": "대우건설",
+"lead_ret": 12.43,
+"second": "현대로템",
+"second_ret": 10.18
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.87,
+"up5": 2,
+"lead": "대원전선",
+"lead_ret": 10.71,
+"second": "일진전기",
+"second_ret": 5.69
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.73,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 22.89,
+"second": "푸른로보틱스",
+"second_ret": 4.45
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 3.65,
+"up5": 1,
+"lead": "오킨스전자",
+"lead_ret": 28.84,
+"second": "네오셈",
+"second_ret": 4.1
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 3.54,
+"up5": 7,
+"lead": "체시스",
+"lead_ret": 22.45,
+"second": "팜스코",
+"second_ret": 14.78
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.48,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 6.27,
+"second": "샘표식품",
+"second_ret": 4.91
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.06,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.47,
+"second": "삼성바이오로직스",
+"second_ret": 0.36
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.05,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 3.57,
+"second": "삼성전자",
+"second_ret": 1.08
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -1.01,
+"up5": 0,
+"lead": "미래컴퍼니",
+"lead_ret": 1.85,
+"second": "기가레인",
+"second_ret": 0.66
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -0.83,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": 2.56,
+"second": "심텍홀딩스",
+"second_ret": 1.53
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -0.8,
+"up5": 0,
+"lead": "삼륭물산",
+"lead_ret": 0.92,
+"second": "세림B&G",
+"second_ret": 0.25
+}
+],
+"leaders": [
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 10.18,
+"value": 11304,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "대웅",
+"code": "003090",
+"ret": 25.75,
+"value": 8679,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "대한해운",
+"code": "005880",
+"ret": 20.62,
+"value": 7334,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 19.69,
+"value": 7072,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "고바이오랩",
+"code": "348150",
+"ret": 13.46,
+"value": 6544,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+}
+],
+"backfilled": true
+}

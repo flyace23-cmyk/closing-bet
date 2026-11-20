@@ -1,0 +1,254 @@
+{
+"date": "20230307",
+"kospi": 0.03,
+"kosdaq": -0.09,
+"adv": 953,
+"dec": 1067,
+"flat": 120,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 213776,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "레몬",
+"lead_ret": 29.88,
+"second": "KG케미칼",
+"second_ret": 29.82
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "한울반도체",
+"lead_ret": 17.87,
+"second": "와이투솔루션",
+"second_ret": 13.42
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "라파스",
+"lead_ret": 14.04,
+"second": "지놈앤컴퍼니",
+"second_ret": 12.99
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 6.56,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 29.89,
+"second": "녹십자",
+"second_ret": 3.98
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 5.83,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 29.82,
+"second": "TKG휴켐스",
+"second_ret": 1.06
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.92,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 29.82,
+"second": "효성오앤비",
+"second_ret": 6.76
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.52,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 19.44,
+"second": "강스템바이오텍",
+"second_ret": 3.54
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 3.27,
+"up5": 4,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 12.99,
+"second": "고바이오랩",
+"second_ret": 12.07
+},
+{
+"name": "면역항암제",
+"n": 30,
+"avg": 2.73,
+"up5": 5,
+"lead": "에이프릴바이오",
+"lead_ret": 13.29,
+"second": "앱클론",
+"second_ret": 12.7
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.28,
+"up5": 4,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 12.99,
+"second": "앱클론",
+"second_ret": 12.7
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": 2.24,
+"up5": 2,
+"lead": "한미사이언스",
+"lead_ret": 7.96,
+"second": "올릭스",
+"second_ret": 6.02
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.19,
+"up5": 4,
+"lead": "에코캡",
+"lead_ret": 12.09,
+"second": "디와이",
+"second_ret": 9.5
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.17,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 29.82,
+"second": "효성오앤비",
+"second_ret": 6.76
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.16,
+"up5": 2,
+"lead": "셀트리온제약",
+"lead_ret": 12.82,
+"second": "한올바이오파마",
+"second_ret": 8.64
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.13,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 26.31,
+"second": "손오공",
+"second_ret": 0.9
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -2.58,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.3,
+"second": "앤씨앤",
+"second_ret": -1.6
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -2.23,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 5.02,
+"second": "NHN벅스",
+"second_ret": -0.53
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -2.14,
+"up5": 0,
+"lead": "에이팩트",
+"lead_ret": 1.59,
+"second": "유니퀘스트",
+"second_ret": 0.93
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": -2.14,
+"up5": 1,
+"lead": "라온피플",
+"lead_ret": 7.61,
+"second": "롯데이노베이트",
+"second_ret": 3.9
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": -2.11,
+"up5": 0,
+"lead": "키다리스튜디오",
+"lead_ret": 0.35,
+"second": "미투온",
+"second_ret": -0.25
+}
+],
+"leaders": [
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 11.09,
+"value": 11418,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에스엠",
+"code": "041510",
+"ret": 15.07,
+"value": 5404,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "앱튼",
+"code": "270520",
+"ret": 18.22,
+"value": 3127,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "나노팀",
+"code": "417010",
+"ret": 19.08,
+"value": 2881,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 12.82,
+"value": 1750,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

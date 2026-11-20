@@ -1,0 +1,254 @@
+{
+"date": "20250626",
+"kospi": -0.92,
+"kosdaq": -1.29,
+"adv": 447,
+"dec": 1835,
+"flat": 82,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 225112,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "애경케미칼",
+"lead_ret": 12.85,
+"second": "나인테크",
+"second_ret": 12.14
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "에프엔에스테크",
+"lead_ret": 9.98,
+"second": "파미셀",
+"second_ret": 8.56
+},
+{
+"name": "통신장비",
+"n": 4,
+"lead": "텔콘RF제약",
+"lead_ret": 29.87,
+"second": "센서뷰",
+"second_ret": 12.17
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.74,
+"up5": 2,
+"lead": "엔투텍",
+"lead_ret": 16.86,
+"second": "파미셀",
+"second_ret": 8.56
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.99,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 30.0,
+"second": "하나금융지주",
+"second_ret": 0.36
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.85,
+"up5": 2,
+"lead": "애경케미칼",
+"lead_ret": 12.85,
+"second": "나인테크",
+"second_ret": 12.14
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.23,
+"up5": 1,
+"lead": "오로라",
+"lead_ret": 28.48,
+"second": "손오공",
+"second_ret": -0.49
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 1.89,
+"up5": 5,
+"lead": "애경케미칼",
+"lead_ret": 12.85,
+"second": "이수화학",
+"second_ret": 11.83
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.44,
+"up5": 3,
+"lead": "이연제약",
+"lead_ret": 22.44,
+"second": "아미노로직스",
+"second_ret": 14.3
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.25,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 8.56,
+"second": "서울제약",
+"second_ret": 0.44
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 1.11,
+"up5": 1,
+"lead": "오가노이드사이언스",
+"lead_ret": 19.53,
+"second": "티앤알바이오팹",
+"second_ret": 0.94
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 0.88,
+"up5": 3,
+"lead": "나인테크",
+"lead_ret": 12.14,
+"second": "에프엔에스테크",
+"second_ret": 9.98
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 0.83,
+"up5": 2,
+"lead": "RFHIC",
+"lead_ret": 11.39,
+"second": "대한광통신",
+"second_ret": 7.98
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 0.77,
+"up5": 6,
+"lead": "텔콘RF제약",
+"lead_ret": 29.87,
+"second": "센서뷰",
+"second_ret": 12.17
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 0.76,
+"up5": 1,
+"lead": "한화비전",
+"lead_ret": 9.49,
+"second": "포커스에이아이",
+"second_ret": 0.54
+}
+],
+"themes_worst": [
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -8.99,
+"up5": 0,
+"lead": "사토시홀딩스",
+"lead_ret": 3.99,
+"second": "카카오페이",
+"second_ret": 0.0
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -6.87,
+"up5": 0,
+"lead": "초록뱀미디어",
+"lead_ret": 0.66,
+"second": "FSN",
+"second_ret": -1.4
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -6.82,
+"up5": 0,
+"lead": "인포바인",
+"lead_ret": 0.34,
+"second": "카페24",
+"second_ret": 0.1
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -6.1,
+"up5": 0,
+"lead": "엑스플러스",
+"lead_ret": -0.86,
+"second": "NICE",
+"second_ret": -1.01
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -5.97,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 0.37,
+"second": "하나금융지주",
+"second_ret": 0.36
+}
+],
+"leaders": [
+{
+"name": "오가노이드사이언스",
+"code": "476040",
+"ret": 19.53,
+"value": 2199,
+"theme": "오가노이드",
+"reason": "테마: 오가노이드"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 12.85,
+"value": 2031,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "나인테크",
+"code": "267320",
+"ret": 12.14,
+"value": 932,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "미래반도체",
+"code": "254490",
+"ret": 11.33,
+"value": 626,
+"theme": "HBM(고대역폭메모리)",
+"reason": "테마: HBM(고대역폭메모리)"
+},
+{
+"name": "스맥",
+"code": "099440",
+"ret": 12.69,
+"value": 549,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

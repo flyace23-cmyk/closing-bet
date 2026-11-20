@@ -1,0 +1,254 @@
+{
+"date": "20221116",
+"kospi": -0.12,
+"kosdaq": -0.25,
+"adv": 942,
+"dec": 1001,
+"flat": 174,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 143085,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 4,
+"lead": "평화홀딩스",
+"lead_ret": 13.16,
+"second": "SY동아",
+"second_ret": 10.71
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "디케이락",
+"lead_ret": 9.54,
+"second": "지투파워",
+"second_ret": 9.01
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "세아제강지주",
+"lead_ret": 13.4,
+"second": "씨에스베어링",
+"second_ret": 8.53
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.53,
+"up5": 3,
+"lead": "디케이락",
+"lead_ret": 9.54,
+"second": "비엠티",
+"second_ret": 7.9
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.77,
+"up5": 1,
+"lead": "잉크테크",
+"lead_ret": 22.76,
+"second": "다산솔루에타",
+"second_ret": 4.45
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.57,
+"up5": 3,
+"lead": "애드바이오텍",
+"lead_ret": 13.77,
+"second": "대주산업",
+"second_ret": 12.84
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.43,
+"up5": 2,
+"lead": "인콘",
+"lead_ret": 7.03,
+"second": "비츠로시스",
+"second_ret": 5.95
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 2.02,
+"up5": 5,
+"lead": "한화엔진",
+"lead_ret": 8.76,
+"second": "비엠티",
+"second_ret": 7.9
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": 1.86,
+"up5": 6,
+"lead": "디케이락",
+"lead_ret": 9.54,
+"second": "지투파워",
+"second_ret": 9.01
+},
+{
+"name": "태양광에너지",
+"n": 39,
+"avg": 1.78,
+"up5": 4,
+"lead": "지투파워",
+"lead_ret": 9.01,
+"second": "LS ELECTRIC",
+"second_ret": 5.67
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 1.77,
+"up5": 5,
+"lead": "세아제강지주",
+"lead_ret": 13.4,
+"second": "씨에스베어링",
+"second_ret": 8.53
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 1.57,
+"up5": 3,
+"lead": "지투파워",
+"lead_ret": 9.01,
+"second": "비츠로시스",
+"second_ret": 5.95
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 1.52,
+"up5": 2,
+"lead": "석경에이티",
+"lead_ret": 7.1,
+"second": "HD현대에너지솔루션",
+"second_ret": 5.37
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 1.52,
+"up5": 4,
+"lead": "지투파워",
+"lead_ret": 9.01,
+"second": "제룡전기",
+"second_ret": 8.1
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.46,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 3.55,
+"second": "신송홀딩스",
+"second_ret": 2.6
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": -2.71,
+"up5": 0,
+"lead": "디지캡",
+"lead_ret": 1.49,
+"second": "파수AI",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.08,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 1.17,
+"second": "소마젠",
+"second_ret": -1.59
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 25,
+"avg": -1.94,
+"up5": 0,
+"lead": "리가켐바이오",
+"lead_ret": 2.74,
+"second": "현대바이오",
+"second_ret": 1.83
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.87,
+"up5": 0,
+"lead": "딥커머스",
+"lead_ret": -0.5,
+"second": "씨엑스아이",
+"second_ret": -0.89
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -1.73,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 0.67,
+"second": "삼성SDI",
+"second_ret": 0.56
+}
+],
+"leaders": [
+{
+"name": "플라즈맵",
+"code": "405000",
+"ret": 20.86,
+"value": 1805,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "윤성에프앤씨",
+"code": "372170",
+"ret": 13.04,
+"value": 1522,
+"theme": "2차전지(장비)",
+"reason": "테마: 2차전지(장비)"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 12.84,
+"value": 1478,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 17.85,
+"value": 1406,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "데이타솔루션",
+"code": "263800",
+"ret": 14.1,
+"value": 817,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

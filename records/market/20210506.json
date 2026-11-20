@@ -1,0 +1,254 @@
+{
+"date": "20210506",
+"kospi": 1.0,
+"kosdaq": 0.29,
+"adv": 1321,
+"dec": 529,
+"flat": 150,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 231788,
+"hot": [
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 5,
+"lead": "세아베스틸지주",
+"lead_ret": 15.19,
+"second": "세아홀딩스",
+"second_ret": 12.94
+},
+{
+"name": "철강 중소형",
+"n": 4,
+"lead": "동일제강",
+"lead_ret": 29.89,
+"second": "한일철강",
+"second_ret": 20.74
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "HMM",
+"lead_ret": 11.92,
+"second": "두산밥캣",
+"second_ret": 10.61
+}
+],
+"themes": [
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": 6.72,
+"up5": 15,
+"lead": "동일제강",
+"lead_ret": 29.89,
+"second": "한일철강",
+"second_ret": 20.74
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 6.66,
+"up5": 6,
+"lead": "세아베스틸지주",
+"lead_ret": 15.19,
+"second": "고려제강",
+"second_ret": 9.09
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.49,
+"up5": 4,
+"lead": "특수건설",
+"lead_ret": 11.92,
+"second": "한국선재",
+"second_ret": 11.04
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 5.76,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 11.92,
+"second": "팬오션",
+"second_ret": 7.54
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 5.36,
+"up5": 5,
+"lead": "KB금융",
+"lead_ret": 7.88,
+"second": "기업은행",
+"second_ret": 6.62
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.79,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 9.5,
+"second": "GS",
+"second_ret": 8.49
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.79,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 9.5,
+"second": "GS",
+"second_ret": 8.49
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.67,
+"up5": 2,
+"lead": "GS",
+"lead_ret": 8.49,
+"second": "흥구석유",
+"second_ret": 5.13
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 4.64,
+"up5": 8,
+"lead": "대창",
+"lead_ret": 11.33,
+"second": "삼아알미늄",
+"second_ret": 8.97
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 4.41,
+"up5": 4,
+"lead": "한국선재",
+"lead_ret": 11.04,
+"second": "태광",
+"second_ret": 7.62
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.31,
+"up5": 3,
+"lead": "금강공업",
+"lead_ret": 7.97,
+"second": "하이스틸",
+"second_ret": 7.5
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.14,
+"up5": 4,
+"lead": "HD현대",
+"lead_ret": 9.78,
+"second": "중앙에너비스",
+"second_ret": 9.5
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 9,
+"avg": -1.39,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 3.61,
+"second": "쎄니트",
+"second_ret": 2.49
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": -1.27,
+"up5": 0,
+"lead": "하이브",
+"lead_ret": 4.8,
+"second": "CJ ENM",
+"second_ret": 3.61
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.92,
+"up5": 0,
+"lead": "LG디스플레이",
+"lead_ret": 0.84,
+"second": "삼성전자",
+"second_ret": -0.36
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": -0.84,
+"up5": 0,
+"lead": "디아이티",
+"lead_ret": 2.09,
+"second": "에스티아이",
+"second_ret": 1.85
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -0.7,
+"up5": 1,
+"lead": "덴티움",
+"lead_ret": 5.47,
+"second": "메타바이오메드",
+"second_ret": 1.62
+}
+],
+"leaders": [
+{
+"name": "HMM",
+"code": "011200",
+"ret": 11.92,
+"value": 6635,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 11.04,
+"value": 3369,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 22.04,
+"value": 2319,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "SH에너지화학",
+"code": "002360",
+"ret": 10.2,
+"value": 2185,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 10.02,
+"value": 1726,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

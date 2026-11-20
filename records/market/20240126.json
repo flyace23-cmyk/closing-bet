@@ -1,0 +1,254 @@
+{
+"date": "20240126",
+"kospi": 0.33,
+"kosdaq": 1.64,
+"adv": 1334,
+"dec": 752,
+"flat": 145,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 175850,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "롯데이노베이트",
+"lead_ret": 24.62,
+"second": "산돌",
+"second_ret": 17.89
+},
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "나무가",
+"lead_ret": 27.21,
+"second": "파워로직스",
+"second_ret": 22.05
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "뉴프렉스",
+"lead_ret": 29.95,
+"second": "롯데이노베이트",
+"second_ret": 24.62
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 6.88,
+"up5": 5,
+"lead": "신성델타테크",
+"lead_ret": 22.1,
+"second": "파워로직스",
+"second_ret": 22.05
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 5.79,
+"up5": 9,
+"lead": "나무가",
+"lead_ret": 27.21,
+"second": "동운아나텍",
+"second_ret": 11.86
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 5.4,
+"up5": 5,
+"lead": "이스트소프트",
+"lead_ret": 15.54,
+"second": "라온시큐어",
+"second_ret": 13.3
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 4.21,
+"up5": 6,
+"lead": "파워로직스",
+"lead_ret": 22.05,
+"second": "라온시큐어",
+"second_ret": 13.3
+},
+{
+"name": "가상현실(VR)",
+"n": 22,
+"avg": 3.99,
+"up5": 7,
+"lead": "나무가",
+"lead_ret": 27.21,
+"second": "동운아나텍",
+"second_ret": 11.86
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 3.72,
+"up5": 6,
+"lead": "나무가",
+"lead_ret": 27.21,
+"second": "파워로직스",
+"second_ret": 22.05
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.53,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 8.34,
+"second": "DL이앤씨",
+"second_ret": 4.02
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.44,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 21.56,
+"second": "포바이포",
+"second_ret": 14.47
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 44,
+"avg": 3.34,
+"up5": 11,
+"lead": "뉴프렉스",
+"lead_ret": 29.95,
+"second": "롯데이노베이트",
+"second_ret": 24.62
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.91,
+"up5": 4,
+"lead": "엔켐",
+"lead_ret": 19.28,
+"second": "에코프로",
+"second_ret": 9.28
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.87,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 9.28,
+"second": "에코프로비엠",
+"second_ret": 7.49
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.71,
+"up5": 2,
+"lead": "유엔젤",
+"lead_ret": 6.94,
+"second": "포니링크",
+"second_ret": 5.48
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -3.12,
+"up5": 0,
+"lead": "켐트로스",
+"lead_ret": 2.18,
+"second": "한미반도체",
+"second_ret": 1.73
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -2.69,
+"up5": 1,
+"lead": "유니퀘스트",
+"lead_ret": 5.46,
+"second": "어보브반도체",
+"second_ret": 2.95
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.62,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.11,
+"second": "삼성전자",
+"second_ret": -0.94
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": -2.4,
+"up5": 0,
+"lead": "아이티아이즈",
+"lead_ret": 1.61,
+"second": "NAVER",
+"second_ret": 1.41
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -2.07,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 3.14,
+"second": "영림원소프트랩",
+"second_ret": 1.95
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 19.2,
+"value": 10793,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 22.1,
+"value": 4906,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 19.28,
+"value": 3358,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "나무가",
+"code": "190510",
+"ret": 27.21,
+"value": 2984,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "우진엔텍",
+"code": "457550",
+"ret": 12.52,
+"value": 2518,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

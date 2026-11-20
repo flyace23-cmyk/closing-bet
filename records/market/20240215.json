@@ -1,0 +1,254 @@
+{
+"date": "20240215",
+"kospi": -0.25,
+"kosdaq": 0.69,
+"adv": 950,
+"dec": 1117,
+"flat": 170,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 203804,
+"hot": [
+{
+"name": "초전도체",
+"n": 5,
+"lead": "서남",
+"lead_ret": 29.91,
+"second": "덕성",
+"second_ret": 29.9
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 5,
+"lead": "우리기술투자",
+"lead_ret": 26.18,
+"second": "한화투자증권",
+"second_ret": 15.17
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에코앤드림",
+"lead_ret": 29.86,
+"second": "소프트센",
+"second_ret": 24.57
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 9.86,
+"up5": 7,
+"lead": "서남",
+"lead_ret": 29.91,
+"second": "덕성",
+"second_ret": 29.9
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 5.67,
+"up5": 3,
+"lead": "우리기술투자",
+"lead_ret": 26.18,
+"second": "한화투자증권",
+"second_ret": 15.17
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.91,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 21.33,
+"second": "비츠로테크",
+"second_ret": 10.91
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 4.45,
+"up5": 7,
+"lead": "우리기술투자",
+"lead_ret": 26.18,
+"second": "한화투자증권",
+"second_ret": 15.17
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.19,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 15.17,
+"second": "SBI인베스트먼트",
+"second_ret": 5.86
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 4.14,
+"up5": 8,
+"lead": "우리기술투자",
+"lead_ret": 26.18,
+"second": "한화투자증권",
+"second_ret": 15.17
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.92,
+"up5": 4,
+"lead": "헥토파이낸셜",
+"lead_ret": 14.53,
+"second": "갤럭시아머니트리",
+"second_ret": 11.6
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 3.85,
+"up5": 3,
+"lead": "스피어",
+"lead_ret": 29.78,
+"second": "소프트센",
+"second_ret": 24.57
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.5,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 12.55,
+"second": "인성정보",
+"second_ret": 8.44
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.47,
+"up5": 2,
+"lead": "소프트센",
+"lead_ret": 24.57,
+"second": "SFA넥셀",
+"second_ret": 9.67
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.46,
+"up5": 5,
+"lead": "리튬포어스",
+"lead_ret": 14.96,
+"second": "광무",
+"second_ret": 12.55
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.43,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 8.01,
+"second": "LG화학",
+"second_ret": 4.88
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -1.98,
+"up5": 0,
+"lead": "STX그린로지스",
+"lead_ret": 1.88,
+"second": "KSS해운",
+"second_ret": -1.1
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.94,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": -0.44,
+"second": "유성티엔에스",
+"second_ret": -0.65
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.84,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 0.17,
+"second": "현대모비스",
+"second_ret": -0.66
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.74,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": -0.3,
+"second": "광주신세계",
+"second_ret": -1.13
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": -1.62,
+"up5": 0,
+"lead": "롯데하이마트",
+"lead_ret": 0.94,
+"second": "그래디언트",
+"second_ret": 0.45
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 26.18,
+"value": 4178,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "파워로직스",
+"code": "047310",
+"ret": 14.78,
+"value": 3757,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "한화투자증권",
+"code": "003530",
+"ret": 15.17,
+"value": 2911,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 29.9,
+"value": 2319,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "모비스",
+"code": "250060",
+"ret": 21.33,
+"value": 2286,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

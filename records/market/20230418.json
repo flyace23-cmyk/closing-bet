@@ -1,0 +1,254 @@
+{
+"date": "20230418",
+"kospi": -0.19,
+"kosdaq": -0.05,
+"adv": 684,
+"dec": 1363,
+"flat": 101,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 279508,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "에스엠벡셀",
+"lead_ret": 29.97,
+"second": "티에스아이",
+"second_ret": 29.94
+},
+{
+"name": "2차전지(전고체)",
+"n": 4,
+"lead": "티에스아이",
+"lead_ret": 29.94,
+"second": "이브이첨단소재",
+"second_ret": 29.93
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에스엠벡셀",
+"lead_ret": 29.97,
+"second": "모베이스전자",
+"second_ret": 29.84
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 6.55,
+"up5": 5,
+"lead": "크리스탈신소재",
+"lead_ret": 29.88,
+"second": "헝셩그룹",
+"second_ret": 6.25
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 5.01,
+"up5": 1,
+"lead": "비츠로시스",
+"lead_ret": 29.98,
+"second": "인콘",
+"second_ret": 3.12
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.67,
+"up5": 10,
+"lead": "티에스아이",
+"lead_ret": 29.94,
+"second": "이브이첨단소재",
+"second_ret": 29.93
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 3.62,
+"up5": 13,
+"lead": "티에스아이",
+"lead_ret": 29.94,
+"second": "윤성에프앤씨",
+"second_ret": 14.32
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.83,
+"up5": 3,
+"lead": "아모센스",
+"lead_ret": 18.09,
+"second": "상신전자",
+"second_ret": 7.43
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.83,
+"up5": 3,
+"lead": "아모센스",
+"lead_ret": 18.09,
+"second": "상신전자",
+"second_ret": 7.43
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.56,
+"up5": 3,
+"lead": "코윈로보틱스",
+"lead_ret": 13.68,
+"second": "탑머티리얼",
+"second_ret": 5.97
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.28,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 7.42,
+"second": "에어부산",
+"second_ret": 4.99
+},
+{
+"name": "화장품",
+"n": 81,
+"avg": 2.24,
+"up5": 17,
+"lead": "실리콘투",
+"lead_ret": 16.32,
+"second": "콜마비앤에이치",
+"second_ret": 9.7
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.14,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 4.12,
+"second": "롯데관광개발",
+"second_ret": 3.32
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.14,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 4.12,
+"second": "롯데관광개발",
+"second_ret": 3.32
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 2.0,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 18.09,
+"second": "웰킵스하이텍",
+"second_ret": 6.91
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -3.92,
+"up5": 0,
+"lead": "대창솔루션",
+"lead_ret": 0.0,
+"second": "현대건설",
+"second_ret": -0.51
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.81,
+"up5": 0,
+"lead": "티씨케이",
+"lead_ret": 0.41,
+"second": "탑엔지니어링",
+"second_ret": -1.77
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -2.6,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 0.66,
+"second": "SH에너지화학",
+"second_ret": 0.12
+},
+{
+"name": "원자력발전",
+"n": 46,
+"avg": -2.37,
+"up5": 0,
+"lead": "태웅",
+"lead_ret": 3.09,
+"second": "한미글로벌",
+"second_ret": 1.27
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": -2.24,
+"up5": 1,
+"lead": "토마토시스템",
+"lead_ret": 5.92,
+"second": "랩지노믹스",
+"second_ret": 0.14
+}
+],
+"leaders": [
+{
+"name": "레이크머티리얼즈",
+"code": "281740",
+"ret": 21.12,
+"value": 7884,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "동국산업",
+"code": "005160",
+"ret": 25.15,
+"value": 4202,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "제이케이시냅스",
+"code": "060230",
+"ret": 19.87,
+"value": 3808,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 16.03,
+"value": 3405,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코스틸리온",
+"code": "058430",
+"ret": 16.56,
+"value": 3366,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+}
+],
+"backfilled": true
+}

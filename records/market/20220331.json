@@ -1,0 +1,254 @@
+{
+"date": "20220331",
+"kospi": 0.4,
+"kosdaq": 0.58,
+"adv": 1246,
+"dec": 601,
+"flat": 228,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 182427,
+"hot": [
+{
+"name": "통신장비",
+"n": 5,
+"lead": "우리넷",
+"lead_ret": 26.57,
+"second": "에치에프알",
+"second_ret": 14.37
+},
+{
+"name": "농업",
+"n": 3,
+"lead": "누보",
+"lead_ret": 15.08,
+"second": "포메탈",
+"second_ret": 10.37
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "네오오토",
+"lead_ret": 14.05,
+"second": "포메탈",
+"second_ret": 10.37
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 11.06,
+"up5": 5,
+"lead": "대한전선",
+"lead_ret": 29.83,
+"second": "대원전선",
+"second_ret": 25.13
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 4.77,
+"up5": 3,
+"lead": "우리넷",
+"lead_ret": 26.57,
+"second": "RF머트리얼즈",
+"second_ret": 14.06
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.13,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 11.72,
+"second": "신송홀딩스",
+"second_ret": 5.2
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": 3.96,
+"up5": 12,
+"lead": "우리넷",
+"lead_ret": 26.57,
+"second": "에치에프알",
+"second_ret": 14.37
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 3.8,
+"up5": 5,
+"lead": "대한전선",
+"lead_ret": 29.83,
+"second": "대원전선",
+"second_ret": 25.13
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.39,
+"up5": 2,
+"lead": "한화손해보험",
+"lead_ret": 6.01,
+"second": "삼성화재",
+"second_ret": 5.54
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 52,
+"avg": 3.37,
+"up5": 14,
+"lead": "우리넷",
+"lead_ret": 26.57,
+"second": "에치에프알",
+"second_ret": 14.37
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.95,
+"up5": 5,
+"lead": "미래생명자원",
+"lead_ret": 11.72,
+"second": "씨티씨바이오",
+"second_ret": 10.52
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": 2.88,
+"up5": 3,
+"lead": "우리넷",
+"lead_ret": 26.57,
+"second": "코위버",
+"second_ret": 10.51
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.77,
+"up5": 2,
+"lead": "한울앤제주",
+"lead_ret": 8.71,
+"second": "한성기업",
+"second_ret": 6.5
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.77,
+"up5": 2,
+"lead": "HS효성첨단소재",
+"lead_ret": 9.68,
+"second": "코오롱인더",
+"second_ret": 7.46
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.59,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 13.62,
+"second": "오로라",
+"second_ret": 3.38
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.95,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 2.56,
+"second": "소마젠",
+"second_ret": 1.39
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.92,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 1.35,
+"second": "국전",
+"second_ret": 0.21
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -0.76,
+"up5": 0,
+"lead": "위메이드",
+"lead_ret": 3.5,
+"second": "고스트스튜디오",
+"second_ret": 1.75
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -0.54,
+"up5": 1,
+"lead": "루트K",
+"lead_ret": 6.73,
+"second": "박셀바이오",
+"second_ret": 2.48
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -0.53,
+"up5": 0,
+"lead": "위메이드",
+"lead_ret": 3.5,
+"second": "컴퍼니케이",
+"second_ret": 1.85
+}
+],
+"leaders": [
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 29.83,
+"value": 5290,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 25.13,
+"value": 2501,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "TJ미디어",
+"code": "032540",
+"ret": 23.97,
+"value": 2306,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "대신정보통신",
+"code": "020180",
+"ret": 11.53,
+"value": 1853,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 11.72,
+"value": 1377,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

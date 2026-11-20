@@ -1,0 +1,254 @@
+{
+"date": "20241008",
+"kospi": -0.61,
+"kosdaq": -0.35,
+"adv": 739,
+"dec": 1403,
+"flat": 144,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 151288,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "광무",
+"lead_ret": 13.38,
+"second": "HT로보틱스",
+"second_ret": 12.54
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "펩트론",
+"lead_ret": 25.39,
+"second": "대웅",
+"second_ret": 8.93
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "퓨쳐켐",
+"lead_ret": 7.99,
+"second": "앱클론",
+"second_ret": 6.13
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.12,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 5.54,
+"second": "녹십자",
+"second_ret": 4.41
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.07,
+"up5": 4,
+"lead": "대화제약",
+"lead_ret": 30.0,
+"second": "펩트론",
+"second_ret": 25.39
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.01,
+"up5": 4,
+"lead": "펩트론",
+"lead_ret": 25.39,
+"second": "진매트릭스",
+"second_ret": 6.2
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.01,
+"up5": 1,
+"lead": "올릭스",
+"lead_ret": 20.27,
+"second": "녹십자",
+"second_ret": 4.41
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 1.96,
+"up5": 1,
+"lead": "한화비전",
+"lead_ret": 10.28,
+"second": "인콘",
+"second_ret": 4.52
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.74,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 4.77,
+"second": "IPARK현대산업개발",
+"second_ret": 4.12
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.56,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 13.38,
+"second": "오파스넷",
+"second_ret": 0.43
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 1.26,
+"up5": 4,
+"lead": "대화제약",
+"lead_ret": 30.0,
+"second": "펩트론",
+"second_ret": 25.39
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 1.24,
+"up5": 2,
+"lead": "올릭스",
+"lead_ret": 20.27,
+"second": "강스템바이오텍",
+"second_ret": 5.54
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 1.14,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 6.02,
+"second": "삼화콘덴서",
+"second_ret": 3.56
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 1.1,
+"up5": 2,
+"lead": "테고사이언스",
+"lead_ret": 8.73,
+"second": "강스템바이오텍",
+"second_ret": 5.54
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.04,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 22.08,
+"second": "LK삼양",
+"second_ret": 19.16
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.28,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 1.39,
+"second": "크리스탈신소재",
+"second_ret": -0.09
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.75,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": -0.81,
+"second": "한화손해보험",
+"second_ret": -1.37
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -2.22,
+"up5": 0,
+"lead": "웰킵스하이텍",
+"lead_ret": 0.13,
+"second": "이랜텍",
+"second_ret": 0.0
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.2,
+"up5": 0,
+"lead": "한국앤컴퍼니",
+"lead_ret": 0.29,
+"second": "넥센타이어",
+"second_ret": -0.68
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.19,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": -0.19,
+"second": "LS마린솔루션",
+"second_ret": -0.29
+}
+],
+"leaders": [
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 10.28,
+"value": 5044,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 25.39,
+"value": 3601,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 30.0,
+"value": 2459,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 22.08,
+"value": 1537,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "LK삼양",
+"code": "225190",
+"ret": 19.16,
+"value": 1439,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

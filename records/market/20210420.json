@@ -1,0 +1,254 @@
+{
+"date": "20210420",
+"kospi": 0.68,
+"kosdaq": 0.24,
+"adv": 1174,
+"dec": 642,
+"flat": 181,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 246152,
+"hot": [
+{
+"name": "비철금속",
+"n": 3,
+"lead": "이구산업",
+"lead_ret": 29.88,
+"second": "대창",
+"second_ret": 21.5
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "인팩",
+"lead_ret": 16.5,
+"second": "디아이씨",
+"second_ret": 11.13
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "인팩",
+"lead_ret": 16.5,
+"second": "디아이씨",
+"second_ret": 11.13
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 5.85,
+"up5": 1,
+"lead": "흥국화재",
+"lead_ret": 29.85,
+"second": "한화손해보험",
+"second_ret": 3.34
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.29,
+"up5": 2,
+"lead": "그래디언트",
+"lead_ret": 6.44,
+"second": "한화투자증권",
+"second_ret": 5.49
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 4.18,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 7.7,
+"second": "메가엠디",
+"second_ret": 6.43
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 4.02,
+"up5": 2,
+"lead": "휴메딕스",
+"lead_ret": 26.73,
+"second": "휴온스글로벌",
+"second_ret": 14.47
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 3.97,
+"up5": 4,
+"lead": "이구산업",
+"lead_ret": 29.88,
+"second": "대창",
+"second_ret": 21.5
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 3.56,
+"up5": 2,
+"lead": "휴메딕스",
+"lead_ret": 26.73,
+"second": "휴온스글로벌",
+"second_ret": 14.47
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 3.24,
+"up5": 6,
+"lead": "다올투자증권",
+"lead_ret": 8.64,
+"second": "유안타증권",
+"second_ret": 6.45
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 3.18,
+"up5": 3,
+"lead": "희림",
+"lead_ret": 29.94,
+"second": "벽산",
+"second_ret": 10.1
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.01,
+"up5": 2,
+"lead": "벽산",
+"lead_ret": 10.1,
+"second": "노루페인트",
+"second_ret": 5.47
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.0,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 7.7,
+"second": "에이티넘인베스트",
+"second_ret": 7.34
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 2.88,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 7.7,
+"second": "TS인베스트먼트",
+"second_ret": 3.34
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.81,
+"up5": 2,
+"lead": "티케이케미칼",
+"lead_ret": 21.17,
+"second": "효성화학",
+"second_ret": 6.63
+}
+],
+"themes_worst": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": -1.65,
+"up5": 0,
+"lead": "두산퓨얼셀",
+"lead_ret": 0.0,
+"second": "엘티씨",
+"second_ret": -0.36
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -1.39,
+"up5": 0,
+"lead": "미래컴퍼니",
+"lead_ret": 1.22,
+"second": "주성엔지니어링",
+"second_ret": 0.34
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": -1.31,
+"up5": 0,
+"lead": "한미반도체",
+"lead_ret": 2.02,
+"second": "성우전자",
+"second_ret": 0.76
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.93,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.43,
+"second": "롯데정밀화학",
+"second_ret": 0.14
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": -0.67,
+"up5": 0,
+"lead": "다보링크",
+"lead_ret": 3.25,
+"second": "가온그룹",
+"second_ret": 2.56
+}
+],
+"leaders": [
+{
+"name": "휴온스글로벌",
+"code": "084110",
+"ret": 14.47,
+"value": 4989,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "대창",
+"code": "012800",
+"ret": 21.5,
+"value": 4759,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "티케이케미칼",
+"code": "104480",
+"ret": 21.17,
+"value": 3291,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "휴메딕스",
+"code": "200670",
+"ret": 26.73,
+"value": 2078,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 29.88,
+"value": 1950,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230731",
+"kospi": 0.93,
+"kosdaq": 2.43,
+"adv": 1592,
+"dec": 483,
+"flat": 103,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 250567,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "알체라",
+"lead_ret": 29.95,
+"second": "솔트룩스",
+"second_ret": 21.36
+},
+{
+"name": "초전도체",
+"n": 3,
+"lead": "덕성",
+"lead_ret": 17.71,
+"second": "고려제강",
+"second_ret": 15.82
+},
+{
+"name": "철강 주요종목",
+"n": 3,
+"lead": "동국제강",
+"lead_ret": 29.98,
+"second": "고려제강",
+"second_ret": 15.82
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 7.48,
+"up5": 4,
+"lead": "동국제강",
+"lead_ret": 29.98,
+"second": "고려제강",
+"second_ret": 15.82
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.03,
+"up5": 4,
+"lead": "LS마린솔루션",
+"lead_ret": 13.93,
+"second": "우원개발",
+"second_ret": 13.03
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 5.62,
+"up5": 6,
+"lead": "덕성",
+"lead_ret": 17.71,
+"second": "고려제강",
+"second_ret": 15.82
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 5.09,
+"up5": 11,
+"lead": "솔트룩스",
+"lead_ret": 21.36,
+"second": "셀바스AI",
+"second_ret": 15.86
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 10,
+"avg": 4.97,
+"up5": 3,
+"lead": "알체라",
+"lead_ret": 29.95,
+"second": "시선AI",
+"second_ret": 6.94
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.49,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 12.62,
+"second": "현대코퍼레이션",
+"second_ret": 7.51
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 4.05,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 9.33,
+"second": "더블유씨피",
+"second_ret": 9.28
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 50,
+"avg": 3.96,
+"up5": 13,
+"lead": "알체라",
+"lead_ret": 29.95,
+"second": "솔트룩스",
+"second_ret": 21.36
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 3.77,
+"up5": 3,
+"lead": "SK이노베이션",
+"lead_ret": 13.98,
+"second": "포스코인터내셔널",
+"second_ret": 12.62
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 38,
+"avg": 3.74,
+"up5": 10,
+"lead": "효성중공업",
+"lead_ret": 29.93,
+"second": "SK이노베이션",
+"second_ret": 13.98
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.72,
+"up5": 6,
+"lead": "효성중공업",
+"lead_ret": 29.93,
+"second": "서남",
+"second_ret": 14.94
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.66,
+"up5": 2,
+"lead": "성우전자",
+"lead_ret": 14.0,
+"second": "유비벨록스",
+"second_ret": 7.79
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.81,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": 1.01,
+"second": "삼성전기",
+"second_ret": 0.69
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -0.66,
+"up5": 0,
+"lead": "티에프이",
+"lead_ret": 2.64,
+"second": "LB인베스트먼트",
+"second_ret": 2.08
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -0.52,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 3.39,
+"second": "네오티스",
+"second_ret": 3.07
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.51,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 2.32,
+"second": "녹십자",
+"second_ret": 0.54
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.32,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 4.56,
+"second": "삼성SDI",
+"second_ret": 0.3
+}
+],
+"leaders": [
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 12.62,
+"value": 14138,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 13.98,
+"value": 5352,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 14.13,
+"value": 4114,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 12.1,
+"value": 3279,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 21.36,
+"value": 2813,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

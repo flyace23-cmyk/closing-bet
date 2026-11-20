@@ -1,0 +1,254 @@
+{
+"date": "20240131",
+"kospi": -0.07,
+"kosdaq": -2.4,
+"adv": 559,
+"dec": 1564,
+"flat": 110,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 166414,
+"hot": [
+{
+"name": "지주사",
+"n": 6,
+"lead": "성창기업지주",
+"lead_ret": 8.77,
+"second": "두산밥캣",
+"second_ret": 8.76
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "팸텍",
+"lead_ret": 23.21,
+"second": "링크제니시스",
+"second_ret": 7.28
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "에브리봇",
+"lead_ret": 13.56,
+"second": "아고스",
+"second_ret": 10.6
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 6.6,
+"up5": 1,
+"lead": "천일고속",
+"lead_ret": 29.85,
+"second": "대성산업",
+"second_ret": 1.43
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 4.76,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 29.92,
+"second": "기업은행",
+"second_ret": 3.99
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.9,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 4.39,
+"second": "현대해상",
+"second_ret": 3.83
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.5,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 13.64,
+"second": "LG화학",
+"second_ret": 1.88
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.45,
+"up5": 1,
+"lead": "기아",
+"lead_ret": 5.0,
+"second": "현대차",
+"second_ret": 2.42
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 1.41,
+"up5": 1,
+"lead": "천일고속",
+"lead_ret": 29.85,
+"second": "신도리코",
+"second_ret": 3.83
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.33,
+"up5": 1,
+"lead": "태광산업",
+"lead_ret": 11.66,
+"second": "대한화섬",
+"second_ret": 2.22
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.24,
+"up5": 1,
+"lead": "SNT에너지",
+"lead_ret": 8.07,
+"second": "두산에너빌리티",
+"second_ret": 2.73
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.19,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 6.4,
+"second": "삼성생명",
+"second_ret": 5.32
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.03,
+"up5": 1,
+"lead": "삼성물산",
+"lead_ret": 6.4,
+"second": "현대건설",
+"second_ret": 2.51
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 0.87,
+"up5": 1,
+"lead": "코아스",
+"lead_ret": 29.84,
+"second": "웰크론",
+"second_ret": 1.42
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 0.84,
+"up5": 1,
+"lead": "진영",
+"lead_ret": 13.5,
+"second": "디아이씨",
+"second_ret": 1.57
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": -8.11,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 1.24,
+"second": "파수AI",
+"second_ret": -2.17
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": -5.7,
+"up5": 0,
+"lead": "글로벌텍스프리",
+"lead_ret": -0.24,
+"second": "삼성에스디에스",
+"second_ret": -0.26
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -5.21,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": -1.27,
+"second": "SK하이닉스",
+"second_ret": -1.61
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -5.03,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.0,
+"second": "삼성전자",
+"second_ret": -2.15
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -4.86,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 0.21,
+"second": "팬스타엔터프라이즈",
+"second_ret": -0.72
+}
+],
+"leaders": [
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 29.92,
+"value": 5228,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "하이비젼시스템",
+"code": "126700",
+"ret": 25.97,
+"value": 4064,
+"theme": "3D 프린터",
+"reason": "테마: 3D 프린터"
+},
+{
+"name": "상보",
+"code": "027580",
+"ret": 13.64,
+"value": 3055,
+"theme": "탄소나노튜브(CNT)",
+"reason": "테마: 탄소나노튜브(CNT)"
+},
+{
+"name": "팸텍",
+"code": "271830",
+"ret": 23.21,
+"value": 1546,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 13.56,
+"value": 1110,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

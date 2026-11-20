@@ -1,0 +1,254 @@
+{
+"date": "20240603",
+"kospi": 1.74,
+"kosdaq": 0.56,
+"adv": 1481,
+"dec": 648,
+"flat": 129,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 215555,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 5,
+"lead": "KBI동양철관",
+"lead_ret": 29.85,
+"second": "대동스틸",
+"second_ret": 27.91
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 5,
+"lead": "화성밸브",
+"lead_ret": 29.94,
+"second": "KBI동양철관",
+"second_ret": 29.85
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 4,
+"lead": "한국가스공사",
+"lead_ret": 29.87,
+"second": "우림피티에스",
+"second_ret": 22.95
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 14.4,
+"up5": 6,
+"lead": "대성에너지",
+"lead_ret": 29.91,
+"second": "한국가스공사",
+"second_ret": 29.87
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 13.11,
+"up5": 7,
+"lead": "화성밸브",
+"lead_ret": 29.94,
+"second": "KBI동양철관",
+"second_ret": 29.85
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 12.22,
+"up5": 6,
+"lead": "흥구석유",
+"lead_ret": 30.0,
+"second": "중앙에너비스",
+"second_ret": 29.51
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 12.22,
+"up5": 6,
+"lead": "흥구석유",
+"lead_ret": 30.0,
+"second": "중앙에너비스",
+"second_ret": 29.51
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 9.79,
+"up5": 5,
+"lead": "한국가스공사",
+"lead_ret": 29.87,
+"second": "우림피티에스",
+"second_ret": 22.95
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 9.57,
+"up5": 6,
+"lead": "화성밸브",
+"lead_ret": 29.94,
+"second": "디케이락",
+"second_ret": 25.35
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 9.24,
+"up5": 6,
+"lead": "KBI동양철관",
+"lead_ret": 29.85,
+"second": "하이스틸",
+"second_ret": 19.91
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 8.89,
+"up5": 6,
+"lead": "흥구석유",
+"lead_ret": 30.0,
+"second": "중앙에너비스",
+"second_ret": 29.51
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 8.61,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 30.0,
+"second": "극동유화",
+"second_ret": 14.36
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 7.22,
+"up5": 6,
+"lead": "한국가스공사",
+"lead_ret": 29.87,
+"second": "포스코인터내셔널",
+"second_ret": 18.93
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 7.18,
+"up5": 7,
+"lead": "대성에너지",
+"lead_ret": 29.91,
+"second": "한국가스공사",
+"second_ret": 29.87
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.69,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 29.98,
+"second": "극동유화",
+"second_ret": 14.36
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.89,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 0.74,
+"second": "강원랜드",
+"second_ret": 0.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.89,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 0.74,
+"second": "강원랜드",
+"second_ret": 0.0
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -0.78,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 4.37,
+"second": "야스",
+"second_ret": 1.42
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -0.68,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 16.74,
+"second": "비나텍",
+"second_ret": 2.79
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.63,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": 1.62,
+"second": "카카오뱅크",
+"second_ret": 1.12
+}
+],
+"leaders": [
+{
+"name": "한국가스공사",
+"code": "036460",
+"ret": 29.87,
+"value": 5191,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 18.93,
+"value": 4749,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 14.17,
+"value": 3055,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "와이랩",
+"code": "432430",
+"ret": 24.14,
+"value": 3012,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 30.0,
+"value": 2556,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+}
+],
+"backfilled": true
+}

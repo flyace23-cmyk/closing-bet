@@ -1,0 +1,254 @@
+{
+"date": "20240718",
+"kospi": -0.67,
+"kosdaq": -0.84,
+"adv": 552,
+"dec": 1594,
+"flat": 122,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 217212,
+"hot": [
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "DXVX",
+"lead_ret": 29.96,
+"second": "샤페론",
+"second_ret": 27.19
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "엑시콘",
+"lead_ret": 20.63,
+"second": "오로스테크놀로지",
+"second_ret": 7.74
+},
+{
+"name": "건강기능식품",
+"n": 3,
+"lead": "DXVX",
+"lead_ret": 29.96,
+"second": "압타바이오",
+"second_ret": 9.67
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.78,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 29.9,
+"second": "유비벨록스",
+"second_ret": 1.93
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.59,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 7.09,
+"second": "롯데정밀화학",
+"second_ret": 3.1
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.45,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 25.07,
+"second": "한선엔지니어링",
+"second_ret": 3.12
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.29,
+"up5": 2,
+"lead": "GS글로벌",
+"lead_ret": 11.81,
+"second": "포스코인터내셔널",
+"second_ret": 5.73
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.01,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 25.07,
+"second": "KBI동양철관",
+"second_ret": 4.61
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 1.16,
+"up5": 2,
+"lead": "샤페론",
+"lead_ret": 27.19,
+"second": "압타바이오",
+"second_ret": 9.67
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 1.14,
+"up5": 0,
+"lead": "대한제강",
+"lead_ret": 4.98,
+"second": "세아베스틸지주",
+"second_ret": 3.19
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 1.03,
+"up5": 4,
+"lead": "DXVX",
+"lead_ret": 29.96,
+"second": "샤페론",
+"second_ret": 27.19
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 1.0,
+"up5": 2,
+"lead": "엑시콘",
+"lead_ret": 20.63,
+"second": "네오셈",
+"second_ret": 7.33
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.99,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 4.38,
+"second": "한화손해보험",
+"second_ret": 2.49
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 0.99,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 10.1,
+"second": "올릭스",
+"second_ret": 6.81
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 0.95,
+"up5": 1,
+"lead": "DXVX",
+"lead_ret": 29.96,
+"second": "위더스제약",
+"second_ret": -0.36
+}
+],
+"themes_worst": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": -2.81,
+"up5": 0,
+"lead": "한컴",
+"lead_ret": 1.97,
+"second": "NAVER",
+"second_ret": 0.87
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.75,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 1.55,
+"second": "CJ씨푸드",
+"second_ret": -0.57
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.63,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 1.58,
+"second": "대한전선",
+"second_ret": 0.63
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": -2.63,
+"up5": 0,
+"lead": "DB하이텍",
+"lead_ret": 0.75,
+"second": "삼성전자",
+"second_ret": 0.23
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.61,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 0.72,
+"second": "대한약품",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 18.27,
+"value": 3983,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 11.81,
+"value": 1793,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "화성밸브",
+"code": "039610",
+"ret": 25.07,
+"value": 1788,
+"theme": "남-북-러 가스관사업",
+"reason": "테마: 남-북-러 가스관사업"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 27.19,
+"value": 1699,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 20.63,
+"value": 1362,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

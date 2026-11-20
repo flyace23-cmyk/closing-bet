@@ -1,0 +1,246 @@
+{
+"date": "20240130",
+"kospi": -0.07,
+"kosdaq": -0.03,
+"adv": 1004,
+"dec": 1075,
+"flat": 154,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 176665,
+"hot": [
+{
+"name": "철도",
+"n": 4,
+"lead": "동아지질",
+"lead_ret": 12.89,
+"second": "빛샘전자",
+"second_ret": 9.19
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "데이타솔루션",
+"lead_ret": 13.6,
+"second": "한컴",
+"second_ret": 10.02
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.55,
+"up5": 3,
+"lead": "동아지질",
+"lead_ret": 12.89,
+"second": "우원개발",
+"second_ret": 8.26
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.09,
+"up5": 2,
+"lead": "한화손해보험",
+"lead_ret": 6.79,
+"second": "흥국화재",
+"second_ret": 5.64
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.78,
+"up5": 1,
+"lead": "비엘팜텍",
+"lead_ret": 29.76,
+"second": "GS",
+"second_ret": 4.1
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.57,
+"up5": 1,
+"lead": "노루홀딩스",
+"lead_ret": 7.23,
+"second": "KCC",
+"second_ret": 4.5
+},
+{
+"name": "철강 중소형",
+"n": 34,
+"avg": 2.49,
+"up5": 4,
+"lead": "신스틸",
+"lead_ret": 29.86,
+"second": "하이스틸",
+"second_ret": 9.34
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.43,
+"up5": 1,
+"lead": "한화생명",
+"lead_ret": 8.47,
+"second": "한화투자증권",
+"second_ret": 1.69
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 2.1,
+"up5": 4,
+"lead": "비트컴퓨터",
+"lead_ret": 25.97,
+"second": "케어랩스",
+"second_ret": 7.24
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.01,
+"up5": 1,
+"lead": "부국증권",
+"lead_ret": 7.44,
+"second": "한국금융지주",
+"second_ret": 4.6
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 1.99,
+"up5": 5,
+"lead": "이스트소프트",
+"lead_ret": 7.63,
+"second": "웹젠",
+"second_ret": 7.5
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.91,
+"up5": 2,
+"lead": "FSN",
+"lead_ret": 11.72,
+"second": "갤럭시아머니트리",
+"second_ret": 8.02
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.9,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 9.04,
+"second": "현대백화점",
+"second_ret": 2.34
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 1.87,
+"up5": 5,
+"lead": "이스트소프트",
+"lead_ret": 7.63,
+"second": "웹젠",
+"second_ret": 7.5
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.11,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": 0.4,
+"second": "풀무원",
+"second_ret": 0.1
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.35,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 2.63,
+"second": "STX그린로지스",
+"second_ret": -0.65
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.27,
+"up5": 0,
+"lead": "국순당",
+"lead_ret": 2.13,
+"second": "SK하이닉스",
+"second_ret": 1.41
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -2.18,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 0.19,
+"second": "대주전자재료",
+"second_ret": -0.7
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.15,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -1.36,
+"second": "HJ중공업",
+"second_ret": -1.41
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 10.62,
+"value": 5390,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 16.52,
+"value": 2862,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "포스뱅크",
+"code": "105760",
+"ret": 19.91,
+"value": 2365,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "비트컴퓨터",
+"code": "032850",
+"ret": 25.97,
+"value": 2342,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "인터플렉스",
+"code": "051370",
+"ret": 14.29,
+"value": 1711,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+}
+],
+"backfilled": true
+}

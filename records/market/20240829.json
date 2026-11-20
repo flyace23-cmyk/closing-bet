@@ -1,0 +1,246 @@
+{
+"date": "20240829",
+"kospi": -1.02,
+"kosdaq": -0.85,
+"adv": 589,
+"dec": 1584,
+"flat": 107,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 179276,
+"hot": [
+{
+"name": "2차전지",
+"n": 12,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 14.38,
+"second": "TCC스틸",
+"second_ret": 11.22
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "웰킵스하이텍",
+"lead_ret": 18.06,
+"second": "덕산테코피아",
+"second_ret": 6.94
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.98,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 17.15,
+"second": "현대백화점",
+"second_ret": 1.16
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 2.52,
+"up5": 5,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 14.38,
+"second": "덕산테코피아",
+"second_ret": 6.94
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 1.94,
+"up5": 4,
+"lead": "이엔셀",
+"lead_ret": 29.96,
+"second": "에스바이오메딕스",
+"second_ret": 10.02
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 1.87,
+"up5": 2,
+"lead": "LG에너지솔루션",
+"lead_ret": 6.11,
+"second": "삼성SDI",
+"second_ret": 5.6
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.75,
+"up5": 1,
+"lead": "LG에너지솔루션",
+"lead_ret": 6.11,
+"second": "강원에너지",
+"second_ret": 4.21
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 1.56,
+"up5": 9,
+"lead": "TCC스틸",
+"lead_ret": 11.22,
+"second": "에코앤드림",
+"second_ret": 8.67
+},
+{
+"name": "2차전지",
+"n": 132,
+"avg": 1.25,
+"up5": 15,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 14.38,
+"second": "TCC스틸",
+"second_ret": 11.22
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 1.18,
+"up5": 2,
+"lead": "TCC스틸",
+"lead_ret": 11.22,
+"second": "삼성SDI",
+"second_ret": 5.6
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 1.16,
+"up5": 2,
+"lead": "소노스퀘어",
+"lead_ret": 7.54,
+"second": "SK네트웍스",
+"second_ret": 5.21
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.1,
+"up5": 1,
+"lead": "YTN",
+"lead_ret": 19.56,
+"second": "KNN",
+"second_ret": 0.66
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.04,
+"up5": 5,
+"lead": "한빛레이저",
+"lead_ret": 11.09,
+"second": "이닉스",
+"second_ret": 7.74
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.0,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 5.21,
+"second": "포스코인터내셔널",
+"second_ret": 4.33
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -4.75,
+"up5": 0,
+"lead": "레이언스",
+"lead_ret": -0.14,
+"second": "켐트로스",
+"second_ret": -0.55
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -4.17,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": -0.83,
+"second": "국전",
+"second_ret": -1.82
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": -3.83,
+"up5": 0,
+"lead": "예림당",
+"lead_ret": 0.47,
+"second": "토박스코리아",
+"second_ret": 0.17
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.52,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": -0.82,
+"second": "성우전자",
+"second_ret": -0.9
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": -3.43,
+"up5": 0,
+"lead": "HLB제넥스",
+"lead_ret": 2.19,
+"second": "유바이오로직스",
+"second_ret": 1.76
+}
+],
+"leaders": [
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 29.96,
+"value": 4642,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 14.38,
+"value": 2871,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 11.09,
+"value": 2684,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 13.76,
+"value": 2139,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+},
+{
+"name": "라파스",
+"code": "214260",
+"ret": 18.17,
+"value": 842,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

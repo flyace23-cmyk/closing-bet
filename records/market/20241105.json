@@ -1,0 +1,238 @@
+{
+"date": "20241105",
+"kospi": -0.47,
+"kosdaq": -0.3,
+"adv": 1290,
+"dec": 874,
+"flat": 133,
+"limit_up": 0,
+"limit_down": 1,
+"value_total": 124923,
+"hot": [
+{
+"name": "엔터테인먼트",
+"n": 3,
+"lead": "빌리언스",
+"lead_ret": 13.89,
+"second": "디어유",
+"second_ret": 13.62
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 5.26,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 29.42,
+"second": "SAMG엔터",
+"second_ret": 2.53
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.1,
+"up5": 2,
+"lead": "SFA넥셀",
+"lead_ret": 26.37,
+"second": "아모그린텍",
+"second_ret": 6.2
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.85,
+"up5": 7,
+"lead": "빌리언스",
+"lead_ret": 13.89,
+"second": "디어유",
+"second_ret": 13.62
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.71,
+"up5": 1,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 7.5,
+"second": "한국앤컴퍼니",
+"second_ret": 4.23
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.51,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 5.74,
+"second": "현대건설",
+"second_ret": 3.91
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.47,
+"up5": 3,
+"lead": "빌리언스",
+"lead_ret": 13.89,
+"second": "위메이드",
+"second_ret": 9.41
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.42,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 6.29,
+"second": "유니온머티리얼",
+"second_ret": 1.94
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 2.35,
+"up5": 2,
+"lead": "예림당",
+"lead_ret": 14.21,
+"second": "오가닉티코스메틱",
+"second_ret": 12.5
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 2.23,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 9.41,
+"second": "네오리진",
+"second_ret": 8.08
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 2.05,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 9.41,
+"second": "네오리진",
+"second_ret": 8.08
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.98,
+"up5": 1,
+"lead": "예림당",
+"lead_ret": 14.21,
+"second": "제로투세븐",
+"second_ret": 3.52
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 1.89,
+"up5": 1,
+"lead": "금양그린파워",
+"lead_ret": 12.83,
+"second": "LS머트리얼즈",
+"second_ret": 4.37
+}
+],
+"themes_worst": [
+{
+"name": "수산",
+"n": 9,
+"avg": -5.37,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": 0.63,
+"second": "한성기업",
+"second_ret": 0.39
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -2.61,
+"up5": 0,
+"lead": "비츠로시스",
+"lead_ret": 4.22,
+"second": "한화비전",
+"second_ret": 2.32
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.13,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.41,
+"second": "LG전자",
+"second_ret": -0.43
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.98,
+"up5": 0,
+"lead": "아이진",
+"lead_ret": 0.54,
+"second": "한미약품",
+"second_ret": 0.45
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": -1.64,
+"up5": 0,
+"lead": "시너지이노베이션",
+"lead_ret": 4.87,
+"second": "샤페론",
+"second_ret": 3.03
+}
+],
+"leaders": [
+{
+"name": "DS단석",
+"code": "017860",
+"ret": 17.2,
+"value": 5589,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 26.37,
+"value": 2853,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 15.85,
+"value": 1903,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "디어유",
+"code": "376300",
+"ret": 13.62,
+"value": 829,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "금양그린파워",
+"code": "282720",
+"ret": 12.83,
+"value": 659,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+}
+],
+"backfilled": true
+}

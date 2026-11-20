@@ -1,0 +1,254 @@
+{
+"date": "20221118",
+"kospi": 0.06,
+"kosdaq": -0.76,
+"adv": 623,
+"dec": 1330,
+"flat": 166,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 118386,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "쎄노텍",
+"lead_ret": 8.49,
+"second": "인텍플러스",
+"second_ret": 8.3
+},
+{
+"name": "리튬",
+"n": 4,
+"lead": "중앙첨단소재",
+"lead_ret": 29.98,
+"second": "리튬포어스",
+"second_ret": 22.64
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "유라테크",
+"lead_ret": 29.88,
+"second": "에이치엠넥스",
+"second_ret": 20.4
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.27,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 22.64,
+"second": "손오공",
+"second_ret": 4.01
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.0,
+"up5": 4,
+"lead": "HD건설기계",
+"lead_ret": 12.83,
+"second": "디와이파워",
+"second_ret": 8.33
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.15,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 12.95,
+"second": "HD현대중공업",
+"second_ret": 3.52
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.73,
+"up5": 4,
+"lead": "중앙첨단소재",
+"lead_ret": 29.98,
+"second": "리튬포어스",
+"second_ret": 22.64
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.31,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 15.29,
+"second": "금강공업",
+"second_ret": 2.76
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 1.97,
+"up5": 2,
+"lead": "예림당",
+"lead_ret": 17.44,
+"second": "제로투세븐",
+"second_ret": 5.86
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 1.81,
+"up5": 2,
+"lead": "예림당",
+"lead_ret": 17.44,
+"second": "제로투세븐",
+"second_ret": 5.86
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.56,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 15.29,
+"second": "GH신소재",
+"second_ret": 1.4
+},
+{
+"name": "공기청정기",
+"n": 11,
+"avg": 1.5,
+"up5": 1,
+"lead": "크린앤사이언스",
+"lead_ret": 16.39,
+"second": "위닉스",
+"second_ret": 1.87
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.46,
+"up5": 1,
+"lead": "웰킵스하이텍",
+"lead_ret": 12.16,
+"second": "이랜텍",
+"second_ret": 3.69
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 1.35,
+"up5": 4,
+"lead": "에스와이",
+"lead_ret": 15.29,
+"second": "HD건설기계",
+"second_ret": 12.83
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.03,
+"up5": 1,
+"lead": "마니커에프앤지",
+"lead_ret": 5.53,
+"second": "교촌에프앤비",
+"second_ret": 4.45
+}
+],
+"themes_worst": [
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -2.26,
+"up5": 0,
+"lead": "GST",
+"lead_ret": 1.52,
+"second": "HLB테라퓨틱스",
+"second_ret": 0.41
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.26,
+"up5": 0,
+"lead": "NHN",
+"lead_ret": 0.6,
+"second": "쿠콘",
+"second_ret": -0.49
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": -1.99,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 0.72,
+"second": "서울바이오시스",
+"second_ret": 0.0
+},
+{
+"name": "광고",
+"n": 20,
+"avg": -1.88,
+"up5": 0,
+"lead": "제일기획",
+"lead_ret": 1.46,
+"second": "아시아경제",
+"second_ret": 1.17
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 25,
+"avg": -1.86,
+"up5": 0,
+"lead": "현대바이오",
+"lead_ret": 3.37,
+"second": "JW중외제약",
+"second_ret": 3.2
+}
+],
+"leaders": [
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 15.29,
+"value": 2342,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "리튬포어스",
+"code": "073570",
+"ret": 22.64,
+"value": 1474,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "HD건설기계",
+"code": "267270",
+"ret": 12.83,
+"value": 892,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 11.51,
+"value": 570,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "유라테크",
+"code": "048430",
+"ret": 29.88,
+"value": 546,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250725",
+"kospi": 0.18,
+"kosdaq": -0.36,
+"adv": 898,
+"dec": 1308,
+"flat": 163,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 140018,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 7,
+"lead": "미투온",
+"lead_ret": 29.87,
+"second": "한컴위드",
+"second_ret": 15.01
+},
+{
+"name": "쿠팡(coupang)",
+"n": 3,
+"lead": "헥토파이낸셜",
+"lead_ret": 11.14,
+"second": "다날",
+"second_ret": 9.23
+},
+{
+"name": "조선기자재",
+"n": 3,
+"lead": "한화엔진",
+"lead_ret": 11.93,
+"second": "HD현대마린엔진",
+"second_ret": 11.42
+}
+],
+"themes": [
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 5.97,
+"up5": 9,
+"lead": "미투온",
+"lead_ret": 29.87,
+"second": "한컴위드",
+"second_ret": 15.01
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.02,
+"up5": 4,
+"lead": "헥토파이낸셜",
+"lead_ret": 11.14,
+"second": "카카오페이",
+"second_ret": 10.71
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.91,
+"up5": 2,
+"lead": "하이즈항공",
+"lead_ret": 29.79,
+"second": "아스트",
+"second_ret": 12.14
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.49,
+"up5": 3,
+"lead": "미투온",
+"lead_ret": 29.87,
+"second": "다날",
+"second_ret": 9.23
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.2,
+"up5": 2,
+"lead": "미투온",
+"lead_ret": 29.87,
+"second": "엔비티",
+"second_ret": 5.58
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.97,
+"up5": 2,
+"lead": "HD현대중공업",
+"lead_ret": 5.83,
+"second": "HJ중공업",
+"second_ret": 5.76
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.66,
+"up5": 4,
+"lead": "한컴위드",
+"lead_ret": 15.01,
+"second": "헥토파이낸셜",
+"second_ret": 11.14
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 2.38,
+"up5": 3,
+"lead": "케이사인",
+"lead_ret": 18.18,
+"second": "한컴위드",
+"second_ret": 15.01
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.37,
+"up5": 1,
+"lead": "카카오페이",
+"lead_ret": 10.71,
+"second": "로지시스",
+"second_ret": 3.13
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 2.28,
+"up5": 4,
+"lead": "아모센스",
+"lead_ret": 15.21,
+"second": "코세스",
+"second_ret": 5.9
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.22,
+"up5": 4,
+"lead": "헥토파이낸셜",
+"lead_ret": 11.14,
+"second": "다날",
+"second_ret": 9.23
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.12,
+"up5": 0,
+"lead": "NHN KCP",
+"lead_ret": 4.18,
+"second": "NICE",
+"second_ret": 2.93
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.61,
+"up5": 0,
+"lead": "넥센",
+"lead_ret": 0.46,
+"second": "효성티앤씨",
+"second_ret": 0.2
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.59,
+"up5": 0,
+"lead": "윙입푸드",
+"lead_ret": 0.25,
+"second": "씨엑스아이",
+"second_ret": 0.0
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -1.35,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 0.6,
+"second": "CJ씨푸드",
+"second_ret": -0.17
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": -1.31,
+"up5": 0,
+"lead": "아난티",
+"lead_ret": 2.15,
+"second": "호텔신라",
+"second_ret": 0.39
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.29,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.39,
+"second": "엔투텍",
+"second_ret": -0.55
+}
+],
+"leaders": [
+{
+"name": "더즌",
+"code": "462860",
+"ret": 12.31,
+"value": 3038,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 11.93,
+"value": 2698,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 10.71,
+"value": 2421,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "미투온",
+"code": "201490",
+"ret": 29.87,
+"value": 1642,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "한컴위드",
+"code": "054920",
+"ret": 15.01,
+"value": 780,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

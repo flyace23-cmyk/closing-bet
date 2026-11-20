@@ -1,0 +1,254 @@
+{
+"date": "20240208",
+"kospi": 0.41,
+"kosdaq": 1.81,
+"adv": 1196,
+"dec": 911,
+"flat": 130,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 210830,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "한미반도체",
+"lead_ret": 29.97,
+"second": "디아이티",
+"second_ret": 15.84
+},
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "한미반도체",
+"lead_ret": 29.97,
+"second": "매커스",
+"second_ret": 19.61
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "에브리봇",
+"lead_ret": 14.29,
+"second": "이랜시스",
+"second_ret": 11.68
+}
+],
+"themes": [
+{
+"name": "페인트",
+"n": 8,
+"avg": 6.45,
+"up5": 2,
+"lead": "노루페인트",
+"lead_ret": 29.94,
+"second": "노루홀딩스",
+"second_ret": 12.72
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 5.59,
+"up5": 11,
+"lead": "큐알티",
+"lead_ret": 18.08,
+"second": "HPSP",
+"second_ret": 11.25
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 5.42,
+"up5": 5,
+"lead": "큐알티",
+"lead_ret": 18.08,
+"second": "네오셈",
+"second_ret": 15.22
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.94,
+"up5": 3,
+"lead": "에이직랜드",
+"lead_ret": 12.5,
+"second": "오픈엣지테크놀로지",
+"second_ret": 9.56
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 4.93,
+"up5": 13,
+"lead": "한미반도체",
+"lead_ret": 29.97,
+"second": "큐알티",
+"second_ret": 18.08
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 4.43,
+"up5": 15,
+"lead": "한미반도체",
+"lead_ret": 29.97,
+"second": "매커스",
+"second_ret": 19.61
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.3,
+"up5": 6,
+"lead": "중앙첨단소재",
+"lead_ret": 16.22,
+"second": "광무",
+"second_ret": 15.0
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 12,
+"avg": 3.46,
+"up5": 1,
+"lead": "한미반도체",
+"lead_ret": 29.97,
+"second": "세아베스틸지주",
+"second_ret": 3.53
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.44,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 15.0,
+"second": "인성정보",
+"second_ret": 5.73
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 3.33,
+"up5": 2,
+"lead": "아이티센글로벌",
+"lead_ret": 14.47,
+"second": "포바이포",
+"second_ret": 8.88
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 3.24,
+"up5": 1,
+"lead": "한미반도체",
+"lead_ret": 29.97,
+"second": "제너셈",
+"second_ret": 3.03
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.12,
+"up5": 3,
+"lead": "티에프이",
+"lead_ret": 14.47,
+"second": "엠케이전자",
+"second_ret": 7.48
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.48,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 0.31,
+"second": "유니온",
+"second_ret": -0.53
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": -1.31,
+"up5": 0,
+"lead": "수산세보틱스",
+"lead_ret": 0.99,
+"second": "프리엠스",
+"second_ret": 0.64
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": -1.27,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 3.36,
+"second": "롯데하이마트",
+"second_ret": 1.22
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.21,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": -0.23,
+"second": "유성티엔에스",
+"second_ret": -0.65
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -1.03,
+"up5": 0,
+"lead": "인선이엔티",
+"lead_ret": 0.28,
+"second": "남해화학",
+"second_ret": 0.13
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 29.97,
+"value": 9732,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 11.92,
+"value": 8195,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 11.29,
+"value": 3122,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 11.25,
+"value": 2132,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "고려제강",
+"code": "002240",
+"ret": 12.26,
+"value": 1574,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

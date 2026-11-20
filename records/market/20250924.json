@@ -1,0 +1,254 @@
+{
+"date": "20250924",
+"kospi": -0.4,
+"kosdaq": -1.29,
+"adv": 605,
+"dec": 1678,
+"flat": 97,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 213559,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "라닉스",
+"lead_ret": 29.78,
+"second": "에스투더블유",
+"second_ret": 21.04
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "한양디지텍",
+"lead_ret": 8.72,
+"second": "케이엔제이",
+"second_ret": 7.91
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한스바이오메드",
+"lead_ret": 20.67,
+"second": "뉴로핏",
+"second_ret": 11.53
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.93,
+"up5": 4,
+"lead": "심텍",
+"lead_ret": 12.45,
+"second": "티엘비",
+"second_ret": 7.47
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.87,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 12.45,
+"second": "티엘비",
+"second_ret": 7.47
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 2.23,
+"up5": 5,
+"lead": "라닉스",
+"lead_ret": 29.78,
+"second": "MSDI",
+"second_ret": 6.84
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.75,
+"up5": 1,
+"lead": "일진파워",
+"lead_ret": 5.51,
+"second": "두산에너빌리티",
+"second_ret": 4.44
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 1.73,
+"up5": 1,
+"lead": "한텍",
+"lead_ret": 5.64,
+"second": "우리기술",
+"second_ret": 4.96
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.62,
+"up5": 1,
+"lead": "큐로홀딩스",
+"lead_ret": 30.0,
+"second": "대성산업",
+"second_ret": 1.03
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.59,
+"up5": 1,
+"lead": "한화에어로스페이스",
+"lead_ret": 5.38,
+"second": "두산에너빌리티",
+"second_ret": 4.44
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 1.52,
+"up5": 4,
+"lead": "에스엠벡셀",
+"lead_ret": 29.78,
+"second": "제노코",
+"second_ret": 6.08
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 1.43,
+"up5": 6,
+"lead": "에너토크",
+"lead_ret": 15.48,
+"second": "한신기계",
+"second_ret": 7.89
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 1.42,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 12.45,
+"second": "대덕전자",
+"second_ret": 5.82
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 1.11,
+"up5": 4,
+"lead": "에이럭스",
+"lead_ret": 6.9,
+"second": "쎄트렉아이",
+"second_ret": 5.87
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 1.09,
+"up5": 3,
+"lead": "케일럼",
+"lead_ret": 6.1,
+"second": "한텍",
+"second_ret": 5.64
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.47,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 0.53,
+"second": "코텍",
+"second_ret": -0.8
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.47,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 0.53,
+"second": "코텍",
+"second_ret": -0.8
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -3.18,
+"up5": 0,
+"lead": "조광페인트",
+"lead_ret": -0.89,
+"second": "SP삼화",
+"second_ret": -0.99
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": -3.09,
+"up5": 0,
+"lead": "동아지질",
+"lead_ret": -0.78,
+"second": "티씨머티리얼즈",
+"second_ret": -0.89
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -2.88,
+"up5": 0,
+"lead": "한미약품",
+"lead_ret": 2.21,
+"second": "에이프로젠바이오로직스",
+"second_ret": -0.97
+}
+],
+"leaders": [
+{
+"name": "에스투더블유",
+"code": "488280",
+"ret": 21.04,
+"value": 4106,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 11.53,
+"value": 3724,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "에너토크",
+"code": "019990",
+"ret": 15.48,
+"value": 1680,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "심텍",
+"code": "222800",
+"ret": 12.45,
+"value": 1417,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "폴라리스AI파마",
+"code": "041910",
+"ret": 18.86,
+"value": 769,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

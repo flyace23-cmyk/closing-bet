@@ -1,0 +1,254 @@
+{
+"date": "20240103",
+"kospi": -2.34,
+"kosdaq": -0.84,
+"adv": 806,
+"dec": 1304,
+"flat": 117,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 196966,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "서플러스글로벌",
+"lead_ret": 14.9,
+"second": "와이씨",
+"second_ret": 12.61
+},
+{
+"name": "출산장려정책",
+"n": 4,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.87,
+"second": "제로투세븐",
+"second_ret": 17.08
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "퀀타매트릭스",
+"lead_ret": 10.9,
+"second": "모나리자",
+"second_ret": 8.9
+}
+],
+"themes": [
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 6.28,
+"up5": 10,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.87,
+"second": "제로투세븐",
+"second_ret": 17.08
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 4.56,
+"up5": 7,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.87,
+"second": "제로투세븐",
+"second_ret": 17.08
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.76,
+"up5": 1,
+"lead": "태영건설",
+"lead_ret": 23.86,
+"second": "서한",
+"second_ret": 1.04
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 2.57,
+"up5": 4,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.87,
+"second": "메디앙스",
+"second_ret": 9.84
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.45,
+"up5": 2,
+"lead": "아미노로직스",
+"lead_ret": 16.07,
+"second": "나이벡",
+"second_ret": 5.72
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 2.29,
+"up5": 4,
+"lead": "아가방컴퍼니",
+"lead_ret": 29.87,
+"second": "메디앙스",
+"second_ret": 9.84
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 2.2,
+"up5": 1,
+"lead": "오픈놀",
+"lead_ret": 15.01,
+"second": "사람인",
+"second_ret": 2.97
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.16,
+"up5": 4,
+"lead": "삼성출판사",
+"lead_ret": 13.87,
+"second": "유엔젤",
+"second_ret": 7.56
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.0,
+"up5": 2,
+"lead": "한국정밀기계",
+"lead_ret": 29.94,
+"second": "한국주강",
+"second_ret": 5.37
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 31,
+"avg": 1.99,
+"up5": 7,
+"lead": "AP위성",
+"lead_ret": 25.33,
+"second": "컨텍",
+"second_ret": 19.01
+},
+{
+"name": "드론(Drone)",
+"n": 26,
+"avg": 1.86,
+"up5": 4,
+"lead": "베셀",
+"lead_ret": 29.98,
+"second": "쎄트렉아이",
+"second_ret": 8.08
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.77,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 4.05,
+"second": "파미셀",
+"second_ret": 2.73
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -3.73,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -2.16,
+"second": "HJ중공업",
+"second_ret": -3.09
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.33,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": -2.81,
+"second": "KG모빌리티",
+"second_ret": -2.86
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.07,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.7,
+"second": "삼성생명",
+"second_ret": -1.76
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.93,
+"up5": 0,
+"lead": "LG디스플레이",
+"lead_ret": -0.53,
+"second": "LG전자",
+"second_ret": -1.87
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -2.52,
+"up5": 0,
+"lead": "와이엠티",
+"lead_ret": 2.23,
+"second": "슈피겐코리아",
+"second_ret": -0.15
+}
+],
+"leaders": [
+{
+"name": "퓨릿",
+"code": "445180",
+"ret": 23.28,
+"value": 2155,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "AP위성",
+"code": "211270",
+"ret": 25.33,
+"value": 2029,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 12.61,
+"value": 1967,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "아가방컴퍼니",
+"code": "013990",
+"ret": 29.87,
+"value": 1576,
+"theme": "출산장려정책",
+"reason": "테마: 출산장려정책"
+},
+{
+"name": "삼성출판사",
+"code": "068290",
+"ret": 13.87,
+"value": 1500,
+"theme": "출산장려정책",
+"reason": "테마: 출산장려정책"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240415",
+"kospi": -0.42,
+"kosdaq": -0.94,
+"adv": 606,
+"dec": 1538,
+"flat": 106,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 177518,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "제이엔비",
+"lead_ret": 29.82,
+"second": "디아이",
+"second_ret": 19.59
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "디아이",
+"lead_ret": 19.59,
+"second": "파두",
+"second_ret": 13.12
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "에프에스티",
+"lead_ret": 14.34,
+"second": "한양디지텍",
+"second_ret": 9.23
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.15,
+"up5": 2,
+"lead": "KBI메탈",
+"lead_ret": 29.8,
+"second": "대원전선",
+"second_ret": 12.79
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 2.25,
+"up5": 5,
+"lead": "피제이메탈",
+"lead_ret": 16.89,
+"second": "이구산업",
+"second_ret": 15.26
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 2.14,
+"up5": 5,
+"lead": "KBI메탈",
+"lead_ret": 29.8,
+"second": "대원전선",
+"second_ret": 12.79
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.11,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 6.69,
+"second": "대성에너지",
+"second_ret": 5.66
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.81,
+"up5": 3,
+"lead": "레이저쎌",
+"lead_ret": 6.76,
+"second": "예스티",
+"second_ret": 6.7
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.51,
+"up5": 1,
+"lead": "빛과전자",
+"lead_ret": 29.93,
+"second": "성호전자",
+"second_ret": 3.87
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 1.34,
+"up5": 6,
+"lead": "디아이",
+"lead_ret": 19.59,
+"second": "윈팩",
+"second_ret": 10.14
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.29,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 3.14,
+"second": "DB손해보험",
+"second_ret": 2.84
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.23,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 7.4,
+"second": "GS",
+"second_ret": 2.29
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.2,
+"up5": 2,
+"lead": "디와이덕양",
+"lead_ret": 24.35,
+"second": "대창",
+"second_ret": 5.25
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 0.99,
+"up5": 3,
+"lead": "한화엔진",
+"lead_ret": 8.84,
+"second": "한국가스공사",
+"second_ret": 6.69
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 0.88,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 3.64,
+"second": "샘표식품",
+"second_ret": 1.67
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.6,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -0.54,
+"second": "지씨셀",
+"second_ret": -1.05
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.95,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 0.4,
+"second": "팬스타엔터프라이즈",
+"second_ret": -0.6
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.85,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": 1.07,
+"second": "엔브이에이치코리아",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -2.72,
+"up5": 1,
+"lead": "유바이오로직스",
+"lead_ret": 15.16,
+"second": "인바이오젠",
+"second_ret": 0.0
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -2.68,
+"up5": 1,
+"lead": "HLB",
+"lead_ret": 5.91,
+"second": "츌립앤사이언스",
+"second_ret": 2.7
+}
+],
+"leaders": [
+{
+"name": "디아이",
+"code": "003160",
+"ret": 19.59,
+"value": 3257,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 16.02,
+"value": 2768,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 15.26,
+"value": 2457,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "샌즈랩",
+"code": "411080",
+"ret": 13.25,
+"value": 2197,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "에프에스티",
+"code": "036810",
+"ret": 14.34,
+"value": 1903,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

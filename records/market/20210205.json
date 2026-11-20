@@ -1,0 +1,254 @@
+{
+"date": "20210205",
+"kospi": 1.07,
+"kosdaq": 0.29,
+"adv": 969,
+"dec": 829,
+"flat": 182,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 281579,
+"hot": [
+{
+"name": "게임",
+"n": 3,
+"lead": "대원미디어",
+"lead_ret": 17.49,
+"second": "펄어비스",
+"second_ret": 14.86
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "유니슨",
+"lead_ret": 17.62,
+"second": "동국S&C",
+"second_ret": 11.62
+},
+{
+"name": "석유화학",
+"n": 3,
+"lead": "KPX케미칼",
+"lead_ret": 14.18,
+"second": "효성화학",
+"second_ret": 11.59
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 7.05,
+"up5": 2,
+"lead": "대원미디어",
+"lead_ret": 17.49,
+"second": "리튬포어스",
+"second_ret": 12.87
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 5.58,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 29.75,
+"second": "효성티앤씨",
+"second_ret": 6.68
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.75,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 19.51,
+"second": "한화생명",
+"second_ret": 3.29
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.27,
+"up5": 4,
+"lead": "금호석유화학",
+"lead_ret": 9.29,
+"second": "넥센타이어",
+"second_ret": 8.73
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 3.82,
+"up5": 3,
+"lead": "하나금융지주",
+"lead_ret": 6.48,
+"second": "제주은행",
+"second_ret": 6.17
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.53,
+"up5": 9,
+"lead": "유니슨",
+"lead_ret": 17.62,
+"second": "동국S&C",
+"second_ret": 11.62
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.12,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 19.51,
+"second": "참좋은여행",
+"second_ret": 4.85
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.19,
+"up5": 1,
+"lead": "인콘",
+"lead_ret": 10.36,
+"second": "앤씨앤",
+"second_ret": 3.65
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 2.18,
+"up5": 3,
+"lead": "일승",
+"lead_ret": 29.96,
+"second": "SK오션플랜트",
+"second_ret": 8.13
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.14,
+"up5": 2,
+"lead": "진에어",
+"lead_ret": 8.89,
+"second": "티웨이홀딩스",
+"second_ret": 6.53
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 2.13,
+"up5": 2,
+"lead": "그래디언트",
+"lead_ret": 19.51,
+"second": "엑시온그룹",
+"second_ret": 5.0
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.12,
+"up5": 1,
+"lead": "대원전선",
+"lead_ret": 8.01,
+"second": "LS",
+"second_ret": 3.11
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.93,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.82,
+"second": "강스템바이오텍",
+"second_ret": -0.14
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.76,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 0.87,
+"second": "풀무원",
+"second_ret": 0.0
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.69,
+"up5": 0,
+"lead": "신대양제지",
+"lead_ret": 1.84,
+"second": "한솔홀딩스",
+"second_ret": 0.14
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.57,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 0.16,
+"second": "에스넷",
+"second_ret": 0.0
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.35,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": -0.17,
+"second": "성광벤드",
+"second_ret": -0.27
+}
+],
+"leaders": [
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 19.51,
+"value": 5065,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 29.91,
+"value": 4633,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "부광약품",
+"code": "003000",
+"ret": 20.33,
+"value": 3789,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 19.64,
+"value": 2968,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "유니슨",
+"code": "018000",
+"ret": 17.62,
+"value": 1963,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

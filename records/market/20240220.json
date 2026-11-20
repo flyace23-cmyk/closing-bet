@@ -1,0 +1,254 @@
+{
+"date": "20240220",
+"kospi": -0.84,
+"kosdaq": 0.9,
+"adv": 786,
+"dec": 1320,
+"flat": 133,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 207041,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "솔브레인홀딩스",
+"lead_ret": 29.98,
+"second": "신성델타테크",
+"second_ret": 29.95
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "인텍플러스",
+"lead_ret": 13.85,
+"second": "오로스테크놀로지",
+"second_ret": 12.31
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "덕산테코피아",
+"lead_ret": 24.31,
+"second": "퓨릿",
+"second_ret": 15.74
+}
+],
+"themes": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": 6.26,
+"up5": 4,
+"lead": "신성델타테크",
+"lead_ret": 29.95,
+"second": "서남",
+"second_ret": 29.79
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 4.71,
+"up5": 5,
+"lead": "와이랩",
+"lead_ret": 29.91,
+"second": "미스터블루",
+"second_ret": 11.09
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 4.52,
+"up5": 2,
+"lead": "아이비김영",
+"lead_ret": 25.55,
+"second": "메가엠디",
+"second_ret": 6.06
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.54,
+"up5": 3,
+"lead": "비상교육",
+"lead_ret": 29.87,
+"second": "아이비김영",
+"second_ret": 25.55
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 2.97,
+"up5": 16,
+"lead": "솔브레인홀딩스",
+"lead_ret": 29.98,
+"second": "신성델타테크",
+"second_ret": 29.95
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.85,
+"up5": 5,
+"lead": "미래나노텍",
+"lead_ret": 14.61,
+"second": "엔켐",
+"second_ret": 10.45
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 2.17,
+"up5": 4,
+"lead": "덕산테코피아",
+"lead_ret": 24.31,
+"second": "동화기업",
+"second_ret": 9.26
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.16,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 21.69,
+"second": "광주신세계",
+"second_ret": 0.0
+},
+{
+"name": "2차전지",
+"n": 130,
+"avg": 1.98,
+"up5": 20,
+"lead": "솔브레인홀딩스",
+"lead_ret": 29.98,
+"second": "신성델타테크",
+"second_ret": 29.95
+},
+{
+"name": "영상콘텐츠",
+"n": 27,
+"avg": 1.86,
+"up5": 3,
+"lead": "와이랩",
+"lead_ret": 29.91,
+"second": "애니플러스",
+"second_ret": 7.21
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 1.74,
+"up5": 2,
+"lead": "키네마스터",
+"lead_ret": 29.93,
+"second": "카페24",
+"second_ret": 9.87
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 1.72,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 11.9,
+"second": "DSC인베스트먼트",
+"second_ret": 2.62
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -3.7,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -2.42,
+"second": "DB손해보험",
+"second_ret": -2.84
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.73,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 1.84,
+"second": "KB금융",
+"second_ret": -1.31
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": -2.41,
+"up5": 0,
+"lead": "샌즈랩",
+"lead_ret": 3.93,
+"second": "한빛소프트",
+"second_ret": 0.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.98,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -0.15,
+"second": "삼성전자",
+"second_ret": -0.68
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.8,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -0.82,
+"second": "HD현대중공업",
+"second_ret": -1.17
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 29.95,
+"value": 7470,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "서남",
+"code": "294630",
+"ret": 29.79,
+"value": 5003,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 10.45,
+"value": 4205,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "솔브레인홀딩스",
+"code": "036830",
+"ret": 29.98,
+"value": 3750,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한화갤러리아",
+"code": "452260",
+"ret": 21.69,
+"value": 3344,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+}
+],
+"backfilled": true
+}

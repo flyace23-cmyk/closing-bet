@@ -1,0 +1,254 @@
+{
+"date": "20221228",
+"kospi": -2.24,
+"kosdaq": -1.68,
+"adv": 729,
+"dec": 1257,
+"flat": 142,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 114660,
+"hot": [
+{
+"name": "드론(Drone)",
+"n": 4,
+"lead": "코콤",
+"lead_ret": 29.86,
+"second": "제이씨현시스템",
+"second_ret": 29.82
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "디티앤씨",
+"lead_ret": 9.33,
+"second": "비에이치아이",
+"second_ret": 8.77
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "경보제약",
+"lead_ret": 12.33,
+"second": "그린생명과학",
+"second_ret": 10.32
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 4.5,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 29.86,
+"second": "인콘",
+"second_ret": 3.55
+},
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": 4.1,
+"up5": 5,
+"lead": "코콤",
+"lead_ret": 29.86,
+"second": "제이씨현시스템",
+"second_ret": 29.82
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.88,
+"up5": 2,
+"lead": "참좋은여행",
+"lead_ret": 6.05,
+"second": "롯데관광개발",
+"second_ret": 5.42
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.04,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 7.09,
+"second": "강스템바이오텍",
+"second_ret": 4.73
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.85,
+"up5": 1,
+"lead": "제이씨현시스템",
+"lead_ret": 29.82,
+"second": "링네트",
+"second_ret": 2.7
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.81,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 5.29,
+"second": "글로벌텍스프리",
+"second_ret": 4.99
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 1.78,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 8.77,
+"second": "두산에너빌리티",
+"second_ret": 5.72
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.72,
+"up5": 1,
+"lead": "에어부산",
+"lead_ret": 8.9,
+"second": "제주항공",
+"second_ret": 4.1
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 1.69,
+"up5": 2,
+"lead": "제이씨현시스템",
+"lead_ret": 29.82,
+"second": "한빛소프트",
+"second_ret": 5.52
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.68,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.42,
+"second": "GKL",
+"second_ret": 2.42
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.68,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.42,
+"second": "GKL",
+"second_ret": 2.42
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 1.33,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 29.86,
+"second": "가온그룹",
+"second_ret": 4.87
+}
+],
+"themes_worst": [
+{
+"name": "증권",
+"n": 21,
+"avg": -5.26,
+"up5": 0,
+"lead": "코리아에셋투자증권",
+"lead_ret": -0.4,
+"second": "신영증권",
+"second_ret": -1.03
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -4.63,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 14.65,
+"second": "카카오뱅크",
+"second_ret": -2.91
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -3.93,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.74,
+"second": "나인테크",
+"second_ret": -1.49
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -3.44,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": 0.43,
+"second": "코오롱글로벌",
+"second_ret": 0.0
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -3.4,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": -0.51,
+"second": "미창석유",
+"second_ret": -1.22
+}
+],
+"leaders": [
+{
+"name": "제이씨현시스템",
+"code": "033320",
+"ret": 29.82,
+"value": 1344,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 14.65,
+"value": 1298,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "베셀",
+"code": "177350",
+"ret": 18.86,
+"value": 930,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+},
+{
+"name": "경보제약",
+"code": "214390",
+"ret": 12.33,
+"value": 881,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "에스티큐브",
+"code": "052020",
+"ret": 17.13,
+"value": 741,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

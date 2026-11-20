@@ -1,0 +1,254 @@
+{
+"date": "20210903",
+"kospi": 0.79,
+"kosdaq": 0.64,
+"adv": 1128,
+"dec": 677,
+"flat": 224,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 237362,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "두올",
+"lead_ret": 14.48,
+"second": "삼기",
+"second_ret": 13.55
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "로보로보",
+"lead_ret": 14.01,
+"second": "LG전자",
+"second_ret": 10.04
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "나노신소재",
+"lead_ret": 13.81,
+"second": "LG전자",
+"second_ret": 10.04
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 3.21,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 18.58,
+"second": "한울반도체",
+"second_ret": 2.53
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.04,
+"up5": 3,
+"lead": "이연제약",
+"lead_ret": 12.01,
+"second": "에스티팜",
+"second_ret": 9.22
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.87,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 10.04,
+"second": "LG디스플레이",
+"second_ret": 3.71
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.83,
+"up5": 1,
+"lead": "KG파이낸셜",
+"lead_ret": 20.2,
+"second": "KG이니시스",
+"second_ret": 2.6
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.72,
+"up5": 3,
+"lead": "인포뱅크",
+"lead_ret": 8.64,
+"second": "LG이노텍",
+"second_ret": 6.37
+},
+{
+"name": "스테이블코인",
+"n": 20,
+"avg": 2.54,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 22.15,
+"second": "KG파이낸셜",
+"second_ret": 20.2
+},
+{
+"name": "자율주행차",
+"n": 46,
+"avg": 2.5,
+"up5": 9,
+"lead": "캠시스",
+"lead_ret": 13.07,
+"second": "LG전자",
+"second_ret": 10.04
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.5,
+"up5": 1,
+"lead": "에스티팜",
+"lead_ret": 9.22,
+"second": "녹십자",
+"second_ret": 3.45
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 2.46,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 10.04,
+"second": "파세코",
+"second_ret": 3.2
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.37,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 18.58,
+"second": "메카로",
+"second_ret": 2.58
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.37,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 5.96,
+"second": "나인테크",
+"second_ret": 3.99
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 12,
+"avg": 2.31,
+"up5": 2,
+"lead": "KG파이낸셜",
+"lead_ret": 20.2,
+"second": "인포뱅크",
+"second_ret": 8.64
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.19,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": 0.64,
+"second": "광무",
+"second_ret": 0.4
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -1.13,
+"up5": 0,
+"lead": "이오테크닉스",
+"lead_ret": 4.77,
+"second": "기가레인",
+"second_ret": 1.74
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.94,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": 2.11,
+"second": "현대건설",
+"second_ret": 1.85
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -0.71,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 2.26,
+"second": "카카오",
+"second_ret": 0.97
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.69,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 1.1,
+"second": "롯데지주",
+"second_ret": -0.28
+}
+],
+"leaders": [
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 10.04,
+"value": 6207,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 22.15,
+"value": 4487,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 12.01,
+"value": 3737,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "경남스틸",
+"code": "039240",
+"ret": 23.63,
+"value": 3177,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "대주전자재료",
+"code": "078600",
+"ret": 18.58,
+"value": 2998,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+}
+],
+"backfilled": true
+}

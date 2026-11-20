@@ -1,0 +1,246 @@
+{
+"date": "20220930",
+"kospi": -0.71,
+"kosdaq": -0.36,
+"adv": 798,
+"dec": 1131,
+"flat": 171,
+"limit_up": 6,
+"limit_down": 2,
+"value_total": 119859,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "엔젠바이오",
+"lead_ret": 29.89,
+"second": "소마젠",
+"second_ret": 13.84
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "엔젠바이오",
+"lead_ret": 29.89,
+"second": "하이퍼코퍼레이션",
+"second_ret": 10.55
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.63,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 30.0,
+"second": "데브시스터즈",
+"second_ret": 9.45
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.86,
+"up5": 3,
+"lead": "디케이락",
+"lead_ret": 12.39,
+"second": "성광벤드",
+"second_ret": 6.16
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.57,
+"up5": 4,
+"lead": "디케이락",
+"lead_ret": 12.39,
+"second": "휴스틸",
+"second_ret": 10.01
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.45,
+"up5": 2,
+"lead": "대모",
+"lead_ret": 12.39,
+"second": "현대에버다임",
+"second_ret": 6.78
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.25,
+"up5": 5,
+"lead": "엔젠바이오",
+"lead_ret": 29.89,
+"second": "툴젠",
+"second_ret": 24.48
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.12,
+"up5": 2,
+"lead": "휴스틸",
+"lead_ret": 10.01,
+"second": "하이스틸",
+"second_ret": 5.97
+},
+{
+"name": "의료AI",
+"n": 18,
+"avg": 2.06,
+"up5": 2,
+"lead": "엔젠바이오",
+"lead_ret": 29.89,
+"second": "랩지노믹스",
+"second_ret": 7.64
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.94,
+"up5": 2,
+"lead": "YTN",
+"lead_ret": 19.86,
+"second": "한국경제TV",
+"second_ret": 5.96
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.73,
+"up5": 4,
+"lead": "소마젠",
+"lead_ret": 13.84,
+"second": "랩지노믹스",
+"second_ret": 7.64
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.68,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 7.02,
+"second": "경동도시가스",
+"second_ret": 6.24
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 1.63,
+"up5": 5,
+"lead": "엔젠바이오",
+"lead_ret": 29.89,
+"second": "소마젠",
+"second_ret": 13.84
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.53,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 13.84,
+"second": "에스티팜",
+"second_ret": 0.12
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -3.69,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.95,
+"second": "네패스아크",
+"second_ret": -0.24
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -3.66,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": -0.38,
+"second": "삼성바이오로직스",
+"second_ret": -0.74
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.64,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "현대차",
+"second_ret": -2.75
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.52,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 0.0,
+"second": "지씨셀",
+"second_ret": -1.28
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -3.44,
+"up5": 1,
+"lead": "한국파마",
+"lead_ret": 6.75,
+"second": "케이바이오랩스",
+"second_ret": 3.37
+}
+],
+"leaders": [
+{
+"name": "YTN",
+"code": "040300",
+"ret": 19.86,
+"value": 1227,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 13.07,
+"value": 816,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "리튬포어스",
+"code": "073570",
+"ret": 30.0,
+"value": 752,
+"theme": "캐릭터상품",
+"reason": "테마: 캐릭터상품"
+},
+{
+"name": "오성첨단소재",
+"code": "052420",
+"ret": 29.95,
+"value": 469,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대모",
+"code": "317850",
+"ret": 12.39,
+"value": 316,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+}
+],
+"backfilled": true
+}

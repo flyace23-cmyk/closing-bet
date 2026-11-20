@@ -1,0 +1,254 @@
+{
+"date": "20220428",
+"kospi": 1.08,
+"kosdaq": -0.44,
+"adv": 822,
+"dec": 1061,
+"flat": 194,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 200744,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 5,
+"lead": "대모",
+"lead_ret": 29.93,
+"second": "현대에버다임",
+"second_ret": 15.25
+},
+{
+"name": "철강 중소형",
+"n": 4,
+"lead": "동일제강",
+"lead_ret": 29.91,
+"second": "DSR제강",
+"second_ret": 21.04
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "아모레퍼시픽",
+"lead_ret": 9.2,
+"second": "LG화학",
+"second_ret": 8.42
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": 7.16,
+"up5": 6,
+"lead": "대모",
+"lead_ret": 29.93,
+"second": "현대에버다임",
+"second_ret": 15.25
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 5.94,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 11.11,
+"second": "삼성물산",
+"second_ret": 6.94
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.57,
+"up5": 2,
+"lead": "고려제강",
+"lead_ret": 29.98,
+"second": "대한제강",
+"second_ret": 5.71
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.76,
+"up5": 3,
+"lead": "자연과환경",
+"lead_ret": 17.49,
+"second": "삼성물산",
+"second_ret": 6.94
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.35,
+"up5": 1,
+"lead": "고려제강",
+"lead_ret": 29.98,
+"second": "두산에너빌리티",
+"second_ret": 2.67
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 3.72,
+"up5": 11,
+"lead": "대모",
+"lead_ret": 29.93,
+"second": "현대에버다임",
+"second_ret": 15.25
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.34,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 17.49,
+"second": "제이씨케미칼",
+"second_ret": 15.5
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.34,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 17.49,
+"second": "제이씨케미칼",
+"second_ret": 15.5
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 3.11,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 6.15,
+"second": "KSS해운",
+"second_ret": 3.06
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 2.98,
+"up5": 5,
+"lead": "동일제강",
+"lead_ret": 29.91,
+"second": "DSR제강",
+"second_ret": 21.04
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.57,
+"up5": 3,
+"lead": "대우건설",
+"lead_ret": 11.11,
+"second": "GS건설",
+"second_ret": 6.5
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 2.44,
+"up5": 2,
+"lead": "LG화학",
+"lead_ret": 8.42,
+"second": "이지트로닉스",
+"second_ret": 6.01
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.26,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.7,
+"second": "GS",
+"second_ret": 0.46
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.26,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.7,
+"second": "GS",
+"second_ret": 0.46
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -2.7,
+"up5": 2,
+"lead": "팜스토리",
+"lead_ret": 5.88,
+"second": "대주산업",
+"second_ret": 5.17
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.37,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 3.14,
+"second": "삼성전기",
+"second_ret": 1.57
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -2.3,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.92,
+"second": "삼성전자",
+"second_ret": -0.31
+}
+],
+"leaders": [
+{
+"name": "제이씨케미칼",
+"code": "137950",
+"ret": 15.5,
+"value": 6150,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 12.09,
+"value": 5875,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "동일제강",
+"code": "002690",
+"ret": 29.91,
+"value": 2028,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "웨이버스",
+"code": "336060",
+"ret": 15.25,
+"value": 1512,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "DSR제강",
+"code": "069730",
+"ret": 21.04,
+"value": 1129,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

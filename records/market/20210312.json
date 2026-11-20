@@ -1,0 +1,246 @@
+{
+"date": "20210312",
+"kospi": 1.35,
+"kosdaq": 1.93,
+"adv": 1565,
+"dec": 278,
+"flat": 146,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 249583,
+"hot": [
+{
+"name": "마켓컬리(kurly)",
+"n": 6,
+"lead": "흥국에프엔비",
+"lead_ret": 30.0,
+"second": "케이씨피드",
+"second_ret": 30.0
+},
+{
+"name": "쿠팡(coupang)",
+"n": 5,
+"lead": "흥국에프엔비",
+"lead_ret": 30.0,
+"second": "한국전자홀딩스",
+"second_ret": 29.96
+}
+],
+"themes": [
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 18.12,
+"up5": 10,
+"lead": "흥국에프엔비",
+"lead_ret": 30.0,
+"second": "케이씨피드",
+"second_ret": 30.0
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 6.9,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 20.88,
+"second": "TS인베스트먼트",
+"second_ret": 6.24
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 5.65,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 20.88,
+"second": "TS인베스트먼트",
+"second_ret": 6.24
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 5.61,
+"up5": 5,
+"lead": "미래에셋벤처투자",
+"lead_ret": 29.89,
+"second": "DSC인베스트먼트",
+"second_ret": 20.88
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 5.48,
+"up5": 2,
+"lead": "미래에셋벤처투자",
+"lead_ret": 29.89,
+"second": "이녹스첨단소재",
+"second_ret": 6.87
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 4.65,
+"up5": 3,
+"lead": "이씨에스",
+"lead_ret": 29.84,
+"second": "세종텔레콤",
+"second_ret": 13.4
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 4.62,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 20.88,
+"second": "우리기술투자",
+"second_ret": 7.23
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 4.27,
+"up5": 4,
+"lead": "태경케미컬",
+"lead_ret": 11.34,
+"second": "대창솔루션",
+"second_ret": 8.63
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.1,
+"up5": 1,
+"lead": "TKG휴켐스",
+"lead_ret": 10.88,
+"second": "유니온머티리얼",
+"second_ret": 3.52
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.97,
+"up5": 6,
+"lead": "흥국에프엔비",
+"lead_ret": 30.0,
+"second": "한국전자홀딩스",
+"second_ret": 29.96
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.86,
+"up5": 10,
+"lead": "SK오션플랜트",
+"lead_ret": 15.03,
+"second": "씨에스윈드",
+"second_ret": 10.08
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.83,
+"up5": 2,
+"lead": "한네트",
+"lead_ret": 7.69,
+"second": "로지시스",
+"second_ret": 6.1
+}
+],
+"themes_worst": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.35,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 0.39,
+"second": "천일고속",
+"second_ret": 0.31
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -0.16,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": 1.59,
+"second": "우리금융지주",
+"second_ret": 1.0
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.14,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": 0.56,
+"second": "롯데지주",
+"second_ret": 0.46
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.13,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 1.57,
+"second": "신세계",
+"second_ret": -0.17
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -0.05,
+"up5": 0,
+"lead": "세이브존I&C",
+"lead_ret": 3.19,
+"second": "IPARK현대산업개발",
+"second_ret": 1.67
+}
+],
+"leaders": [
+{
+"name": "삼성출판사",
+"code": "068290",
+"ret": 29.94,
+"value": 6597,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "서울식품",
+"code": "004410",
+"ret": 11.29,
+"value": 4312,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "세종텔레콤",
+"code": "036630",
+"ret": 13.4,
+"value": 4277,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 11.62,
+"value": 3058,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 10.77,
+"value": 2224,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

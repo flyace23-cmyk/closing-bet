@@ -1,0 +1,254 @@
+{
+"date": "20221229",
+"kospi": -1.93,
+"kosdaq": -1.89,
+"adv": 252,
+"dec": 1785,
+"flat": 91,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 97897,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 7,
+"lead": "진시스템",
+"lead_ret": 29.97,
+"second": "나노엔텍",
+"second_ret": 4.57
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "그린생명과학",
+"lead_ret": 13.39,
+"second": "경남제약",
+"second_ret": 12.9
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "넷마블",
+"lead_ret": 17.74,
+"second": "조이시티",
+"second_ret": 11.14
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.8,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 4.22,
+"second": "서울제약",
+"second_ret": 3.71
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 0.51,
+"up5": 3,
+"lead": "넷마블",
+"lead_ret": 17.74,
+"second": "조이시티",
+"second_ret": 11.14
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 0.4,
+"up5": 4,
+"lead": "넷마블",
+"lead_ret": 17.74,
+"second": "조이시티",
+"second_ret": 11.14
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -0.14,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 2.65,
+"second": "와이지엔터테인먼트",
+"second_ret": 2.45
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -0.2,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 7.2,
+"second": "미디어젠",
+"second_ret": 3.82
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -0.32,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 6.06,
+"second": "태광산업",
+"second_ret": 0.13
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -0.36,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 10.04,
+"second": "손오공",
+"second_ret": 0.56
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -0.44,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 7.2,
+"second": "아이디스",
+"second_ret": 0.68
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -0.45,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 2.65,
+"second": "디지틀조선",
+"second_ret": 2.28
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.46,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 2.87,
+"second": "흥국화재",
+"second_ret": 2.28
+},
+{
+"name": "코로나19(진단키트)",
+"n": 38,
+"avg": -0.67,
+"up5": 1,
+"lead": "진시스템",
+"lead_ret": 29.97,
+"second": "나노엔텍",
+"second_ret": 4.57
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": -0.78,
+"up5": 0,
+"lead": "키이스트",
+"lead_ret": 3.31,
+"second": "CJ ENM",
+"second_ret": 2.65
+}
+],
+"themes_worst": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": -4.37,
+"up5": 0,
+"lead": "INVENI",
+"lead_ret": -0.63,
+"second": "서울가스",
+"second_ret": -1.05
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -4.25,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": -2.5,
+"second": "포스코스틸리온",
+"second_ret": -2.87
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": -3.83,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": -0.44,
+"second": "스톤브릿지벤처스",
+"second_ret": -1.2
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -3.8,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": -0.86,
+"second": "제주항공",
+"second_ret": -2.3
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": -3.78,
+"up5": 0,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 0.66,
+"second": "한국항공우주",
+"second_ret": 0.59
+}
+],
+"leaders": [
+{
+"name": "넷마블",
+"code": "251270",
+"ret": 17.74,
+"value": 2481,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 13.39,
+"value": 1845,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "신스틸",
+"code": "162300",
+"ret": 29.91,
+"value": 1393,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "조이시티",
+"code": "067000",
+"ret": 11.14,
+"value": 822,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "데브시스터즈",
+"code": "194480",
+"ret": 10.04,
+"value": 696,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

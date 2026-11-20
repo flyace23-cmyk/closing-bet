@@ -1,0 +1,254 @@
+{
+"date": "20210804",
+"kospi": 1.34,
+"kosdaq": 1.14,
+"adv": 1520,
+"dec": 325,
+"flat": 172,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 228401,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 5,
+"lead": "코세스",
+"lead_ret": 29.56,
+"second": "옵티시스",
+"second_ret": 24.8
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "아진엑스텍",
+"lead_ret": 16.27,
+"second": "유니테크노",
+"second_ret": 14.84
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "케이사인",
+"lead_ret": 17.1,
+"second": "싸이버원",
+"second_ret": 9.49
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 5.26,
+"up5": 3,
+"lead": "SM C&C",
+"lead_ret": 21.33,
+"second": "하나투어",
+"second_ret": 6.83
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 4.67,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 29.56,
+"second": "LG전자",
+"second_ret": 2.24
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 4.62,
+"up5": 4,
+"lead": "이연제약",
+"lead_ret": 12.07,
+"second": "한미사이언스",
+"second_ret": 7.55
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": 4.19,
+"up5": 2,
+"lead": "코세스",
+"lead_ret": 29.56,
+"second": "비에이치아이",
+"second_ret": 5.51
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.09,
+"up5": 3,
+"lead": "트리니티항공",
+"lead_ret": 8.07,
+"second": "진에어",
+"second_ret": 6.17
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 4.05,
+"up5": 5,
+"lead": "SM C&C",
+"lead_ret": 21.33,
+"second": "키이스트",
+"second_ret": 15.51
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 41,
+"avg": 3.98,
+"up5": 9,
+"lead": "코세스",
+"lead_ret": 29.56,
+"second": "옵티시스",
+"second_ret": 24.8
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 3.96,
+"up5": 5,
+"lead": "SM C&C",
+"lead_ret": 21.33,
+"second": "키이스트",
+"second_ret": 15.51
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.7,
+"up5": 1,
+"lead": "한빛소프트",
+"lead_ret": 11.53,
+"second": "라온시큐어",
+"second_ret": 4.94
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 3.6,
+"up5": 3,
+"lead": "드림시큐리티",
+"lead_ret": 8.03,
+"second": "인포뱅크",
+"second_ret": 6.9
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.58,
+"up5": 3,
+"lead": "유엔젤",
+"lead_ret": 7.01,
+"second": "인포뱅크",
+"second_ret": 6.9
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.32,
+"up5": 2,
+"lead": "로지시스",
+"lead_ret": 6.02,
+"second": "케이씨에스",
+"second_ret": 5.35
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.28,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.84,
+"second": "티엘비",
+"second_ret": 1.29
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": -0.88,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 0.16,
+"second": "삼화콘덴서",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.69,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": 2.36,
+"second": "나인테크",
+"second_ret": 0.97
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": -0.4,
+"up5": 0,
+"lead": "피에스케이홀딩스",
+"lead_ret": 3.44,
+"second": "예스티",
+"second_ret": 2.39
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -0.35,
+"up5": 0,
+"lead": "삼양패키징",
+"lead_ret": 1.78,
+"second": "한국팩키지",
+"second_ret": 1.44
+}
+],
+"leaders": [
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 21.33,
+"value": 6370,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "에스엠",
+"code": "041510",
+"ret": 14.67,
+"value": 3045,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "케이사인",
+"code": "192250",
+"ret": 17.1,
+"value": 2651,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "옵티시스",
+"code": "109080",
+"ret": 24.8,
+"value": 2513,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 11.21,
+"value": 2413,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

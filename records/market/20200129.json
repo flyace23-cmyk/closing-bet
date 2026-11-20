@@ -1,0 +1,254 @@
+{
+"date": "20200129",
+"kospi": 0.39,
+"kosdaq": 0.82,
+"adv": 1067,
+"dec": 640,
+"flat": 196,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 108243,
+"hot": [
+{
+"name": "의료기기",
+"n": 5,
+"lead": "리메드",
+"lead_ret": 14.0,
+"second": "멕아이씨에스",
+"second_ret": 11.3
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "씨티알모빌리티",
+"lead_ret": 29.91,
+"second": "유니테크노",
+"second_ret": 13.57
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에스엠벡셀",
+"lead_ret": 12.89,
+"second": "코스모화학",
+"second_ret": 11.07
+}
+],
+"themes": [
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 2.63,
+"up5": 2,
+"lead": "동구바이오제약",
+"lead_ret": 14.61,
+"second": "메타케어",
+"second_ret": 7.45
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 31,
+"avg": 2.22,
+"up5": 6,
+"lead": "유니테크노",
+"lead_ret": 13.57,
+"second": "에스엠벡셀",
+"second_ret": 12.89
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.06,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 5.89,
+"second": "현대건설",
+"second_ret": 2.19
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.04,
+"up5": 4,
+"lead": "아이티엠반도체",
+"lead_ret": 9.26,
+"second": "덕우전자",
+"second_ret": 7.53
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 1.98,
+"up5": 1,
+"lead": "SFA넥셀",
+"lead_ret": 8.17,
+"second": "상신이디피",
+"second_ret": 4.36
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 1.97,
+"up5": 2,
+"lead": "아이티센피엔에스",
+"lead_ret": 6.67,
+"second": "동운아나텍",
+"second_ret": 6.05
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.96,
+"up5": 1,
+"lead": "네오위즈",
+"lead_ret": 6.18,
+"second": "대성창투",
+"second_ret": 4.64
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.9,
+"up5": 2,
+"lead": "HC보광산업",
+"lead_ret": 11.44,
+"second": "HC홈센타",
+"second_ret": 5.3
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 1.86,
+"up5": 1,
+"lead": "루멘스바이오스",
+"lead_ret": 6.99,
+"second": "영우디에스피",
+"second_ret": 4.63
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 1.85,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 10.55,
+"second": "폴라리스오피스",
+"second_ret": 5.66
+},
+{
+"name": "의료기기",
+"n": 60,
+"avg": 1.83,
+"up5": 10,
+"lead": "리메드",
+"lead_ret": 14.0,
+"second": "멕아이씨에스",
+"second_ret": 11.3
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 1.67,
+"up5": 2,
+"lead": "덕우전자",
+"lead_ret": 7.53,
+"second": "동운아나텍",
+"second_ret": 6.05
+}
+],
+"themes_worst": [
+{
+"name": "마스크",
+"n": 19,
+"avg": -4.21,
+"up5": 1,
+"lead": "애경산업",
+"lead_ret": 6.66,
+"second": "동국제약",
+"second_ret": 1.59
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -3.57,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 10.55,
+"second": "수젠텍",
+"second_ret": 8.91
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": -3.5,
+"up5": 0,
+"lead": "마니커",
+"lead_ret": 1.74,
+"second": "이지홀딩스",
+"second_ret": 1.41
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": -2.95,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 1.28,
+"second": "티앤알바이오팹",
+"second_ret": 1.1
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": -2.93,
+"up5": 1,
+"lead": "휴비츠",
+"lead_ret": 5.56,
+"second": "포스코DX",
+"second_ret": 1.96
+}
+],
+"leaders": [
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 11.07,
+"value": 1130,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "씨티알모빌리티",
+"code": "308170",
+"ret": 29.91,
+"value": 1078,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 10.55,
+"value": 821,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "아이즈비전",
+"code": "031310",
+"ret": 15.38,
+"value": 582,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "창해에탄올",
+"code": "004650",
+"ret": 10.98,
+"value": 444,
+"theme": "주류업(주정, 에탄올 등)",
+"reason": "테마: 주류업(주정, 에탄올 등)"
+}
+],
+"backfilled": true
+}

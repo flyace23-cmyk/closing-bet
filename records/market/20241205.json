@@ -1,0 +1,254 @@
+{
+"date": "20241205",
+"kospi": -0.9,
+"kosdaq": -0.92,
+"adv": 520,
+"dec": 1687,
+"flat": 104,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 151875,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "오로스테크놀로지",
+"lead_ret": 29.95,
+"second": "이오테크닉스",
+"second_ret": 13.83
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "티사이언티픽",
+"lead_ret": 19.11,
+"second": "이스트소프트",
+"second_ret": 15.1
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "네오위즈홀딩스",
+"lead_ret": 29.87,
+"second": "티사이언티픽",
+"second_ret": 19.11
+}
+],
+"themes": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.04,
+"up5": 8,
+"lead": "오로스테크놀로지",
+"lead_ret": 29.95,
+"second": "이오테크닉스",
+"second_ret": 13.83
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.7,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 29.86,
+"second": "이루온",
+"second_ret": 0.48
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.56,
+"up5": 4,
+"lead": "이오테크닉스",
+"lead_ret": 13.83,
+"second": "프로텍",
+"second_ret": 9.93
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.49,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 29.83,
+"second": "이건홀딩스",
+"second_ret": 4.89
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.49,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 29.83,
+"second": "이건홀딩스",
+"second_ret": 4.89
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 1.48,
+"up5": 2,
+"lead": "위츠",
+"lead_ret": 21.84,
+"second": "웰킵스하이텍",
+"second_ret": 13.11
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 1.47,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 4.42,
+"second": "퀄리타스반도체",
+"second_ret": 3.62
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.45,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 5.06,
+"second": "삼성전기",
+"second_ret": 3.11
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 1.31,
+"up5": 4,
+"lead": "네오위즈홀딩스",
+"lead_ret": 29.87,
+"second": "티사이언티픽",
+"second_ret": 19.11
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 1.03,
+"up5": 1,
+"lead": "HPSP",
+"lead_ret": 6.9,
+"second": "퀄리타스반도체",
+"second_ret": 3.62
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 0.99,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 5.29,
+"second": "오픈엣지테크놀로지",
+"second_ret": 3.01
+},
+{
+"name": "반도체 장비",
+"n": 90,
+"avg": 0.96,
+"up5": 12,
+"lead": "오로스테크놀로지",
+"lead_ret": 29.95,
+"second": "이오테크닉스",
+"second_ret": 13.83
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -6.23,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": 0.38,
+"second": "NICE인프라",
+"second_ret": -1.27
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -5.58,
+"up5": 0,
+"lead": "이월드",
+"lead_ret": 0.32,
+"second": "국보디자인",
+"second_ret": -0.83
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -4.83,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": -2.94,
+"second": "BNK금융지주",
+"second_ret": -3.04
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.32,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": -1.24,
+"second": "샘표식품",
+"second_ret": -3.46
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -3.48,
+"up5": 0,
+"lead": "세명전기",
+"lead_ret": -0.47,
+"second": "LS",
+"second_ret": -1.08
+}
+],
+"leaders": [
+{
+"name": "한화투자증권",
+"code": "003530",
+"ret": 15.07,
+"value": 2449,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "셀비온",
+"code": "308430",
+"ret": 23.4,
+"value": 2255,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 19.69,
+"value": 1904,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "이스트소프트",
+"code": "047560",
+"ret": 15.1,
+"value": 1850,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "위츠",
+"code": "459100",
+"ret": 21.84,
+"value": 1457,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+}
+],
+"backfilled": true
+}

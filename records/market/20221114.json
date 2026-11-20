@@ -1,0 +1,254 @@
+{
+"date": "20221114",
+"kospi": -0.34,
+"kosdaq": -0.23,
+"adv": 1196,
+"dec": 757,
+"flat": 163,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 164848,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "삼진엘앤디",
+"lead_ret": 20.21,
+"second": "상신이디피",
+"second_ret": 16.72
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 4,
+"lead": "평화홀딩스",
+"lead_ret": 18.58,
+"second": "에스코넥",
+"second_ret": 13.42
+},
+{
+"name": "통신장비",
+"n": 3,
+"lead": "기가레인",
+"lead_ret": 29.73,
+"second": "기산텔레콤",
+"second_ret": 19.14
+}
+],
+"themes": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 5.29,
+"up5": 3,
+"lead": "효성티앤씨",
+"lead_ret": 12.44,
+"second": "우성머티리얼스",
+"second_ret": 12.21
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 4.85,
+"up5": 2,
+"lead": "대산F&B",
+"lead_ret": 29.8,
+"second": "마니커",
+"second_ret": 6.62
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.48,
+"up5": 1,
+"lead": "크리스탈신소재",
+"lead_ret": 29.49,
+"second": "오가닉티코스메틱",
+"second_ret": 3.82
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.28,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 12.44,
+"second": "HS효성첨단소재",
+"second_ret": 6.35
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 25,
+"avg": 2.83,
+"up5": 4,
+"lead": "신풍제약",
+"lead_ret": 20.75,
+"second": "네이처셀",
+"second_ret": 10.86
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.77,
+"up5": 2,
+"lead": "상신이디피",
+"lead_ret": 16.72,
+"second": "TCC스틸",
+"second_ret": 12.11
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 2.56,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 12.21,
+"second": "노바텍",
+"second_ret": 8.65
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.52,
+"up5": 3,
+"lead": "대한유화",
+"lead_ret": 14.29,
+"second": "SK케미칼",
+"second_ret": 9.54
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.46,
+"up5": 1,
+"lead": "크리스탈신소재",
+"lead_ret": 29.49,
+"second": "다산솔루에타",
+"second_ret": 3.32
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 63,
+"avg": 2.44,
+"up5": 9,
+"lead": "삼진엘앤디",
+"lead_ret": 20.21,
+"second": "상신이디피",
+"second_ret": 16.72
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 2.35,
+"up5": 3,
+"lead": "머큐리",
+"lead_ret": 14.87,
+"second": "파이버프로",
+"second_ret": 6.34
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.3,
+"up5": 1,
+"lead": "잉크테크",
+"lead_ret": 17.44,
+"second": "켐트로닉스",
+"second_ret": 4.6
+}
+],
+"themes_worst": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -3.21,
+"up5": 0,
+"lead": "플레이위드",
+"lead_ret": 2.23,
+"second": "네오리진",
+"second_ret": 1.48
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -2.69,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 2.39,
+"second": "플레이위드",
+"second_ret": 2.23
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -1.63,
+"up5": 0,
+"lead": "매커스",
+"lead_ret": 2.25,
+"second": "제이씨현시스템",
+"second_ret": 1.31
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.62,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": -0.22,
+"second": "대덕전자",
+"second_ret": -0.4
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -1.58,
+"up5": 0,
+"lead": "서울옥션",
+"lead_ret": 2.72,
+"second": "빌리언스",
+"second_ret": 2.11
+}
+],
+"leaders": [
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 14.92,
+"value": 3218,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 20.75,
+"value": 1234,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "삼진엘앤디",
+"code": "054090",
+"ret": 20.21,
+"value": 1114,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "크리스탈신소재",
+"code": "900250",
+"ret": 29.49,
+"value": 691,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "머큐리",
+"code": "100590",
+"ret": 14.87,
+"value": 626,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+}
+],
+"backfilled": true
+}

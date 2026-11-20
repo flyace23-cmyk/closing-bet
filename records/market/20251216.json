@@ -1,0 +1,254 @@
+{
+"date": "20251216",
+"kospi": -2.24,
+"kosdaq": -2.42,
+"adv": 425,
+"dec": 1892,
+"flat": 77,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 250499,
+"hot": [
+{
+"name": "탈모 치료",
+"n": 6,
+"lead": "위더스제약",
+"lead_ret": 29.87,
+"second": "JW신약",
+"second_ret": 26.1
+},
+{
+"name": "화장품",
+"n": 6,
+"lead": "더라미",
+"lead_ret": 16.83,
+"second": "프롬바이오",
+"second_ret": 15.89
+},
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "에스제이그룹",
+"lead_ret": 29.82,
+"second": "메타랩스",
+"second_ret": 8.25
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 6.47,
+"up5": 1,
+"lead": "동양고속",
+"lead_ret": 29.96,
+"second": "대성산업",
+"second_ret": 3.08
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 4.2,
+"up5": 7,
+"lead": "위더스제약",
+"lead_ret": 29.87,
+"second": "JW신약",
+"second_ret": 26.1
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.41,
+"up5": 1,
+"lead": "큐로홀딩스",
+"lead_ret": 29.97,
+"second": "대성산업",
+"second_ret": 3.08
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 1.37,
+"up5": 2,
+"lead": "이엔셀",
+"lead_ret": 26.48,
+"second": "안트로젠",
+"second_ret": 5.42
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 1.28,
+"up5": 1,
+"lead": "위더스제약",
+"lead_ret": 29.87,
+"second": "광동제약",
+"second_ret": -0.16
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 1.11,
+"up5": 1,
+"lead": "티엠씨",
+"lead_ret": 29.99,
+"second": "성호전자",
+"second_ret": 4.36
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 1.05,
+"up5": 2,
+"lead": "큐로홀딩스",
+"lead_ret": 29.97,
+"second": "디어유",
+"second_ret": 7.16
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.88,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 2.31,
+"second": "이마트",
+"second_ret": 1.68
+},
+{
+"name": "화장품",
+"n": 93,
+"avg": 0.66,
+"up5": 9,
+"lead": "더라미",
+"lead_ret": 16.83,
+"second": "프롬바이오",
+"second_ret": 15.89
+},
+{
+"name": "건강기능식품",
+"n": 42,
+"avg": 0.64,
+"up5": 5,
+"lead": "프롬바이오",
+"lead_ret": 15.89,
+"second": "아미코젠",
+"second_ret": 9.35
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": 0.21,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 4.36,
+"second": "에스피지",
+"second_ret": 3.93
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 0.19,
+"up5": 1,
+"lead": "아이진",
+"lead_ret": 29.78,
+"second": "올릭스",
+"second_ret": -0.42
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -5.86,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -3.14,
+"second": "더블유씨피",
+"second_ret": -3.38
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": -3.98,
+"up5": 0,
+"lead": "아바코",
+"lead_ret": -1.02,
+"second": "석경에이티",
+"second_ret": -1.61
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": -3.95,
+"up5": 1,
+"lead": "아이로보틱스",
+"lead_ret": 5.84,
+"second": "에스피지",
+"second_ret": 3.93
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": -3.91,
+"up5": 0,
+"lead": "에스오에스랩",
+"lead_ret": 1.18,
+"second": "롯데이노베이트",
+"second_ret": 0.1
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.81,
+"up5": 0,
+"lead": "앱튼",
+"lead_ret": 4.25,
+"second": "중앙첨단소재",
+"second_ret": 0.18
+}
+],
+"leaders": [
+{
+"name": "티엠씨",
+"code": "217590",
+"ret": 29.99,
+"value": 4456,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "쿼드메디슨",
+"code": "464490",
+"ret": 18.7,
+"value": 2869,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "메지온",
+"code": "140410",
+"ret": 27.13,
+"value": 1608,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 11.06,
+"value": 921,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 26.48,
+"value": 730,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+}
+],
+"backfilled": true
+}

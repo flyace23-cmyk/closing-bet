@@ -1,0 +1,254 @@
+{
+"date": "20201020",
+"kospi": 0.5,
+"kosdaq": 0.29,
+"adv": 797,
+"dec": 963,
+"flat": 187,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 220407,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "웰크론한텍",
+"lead_ret": 29.98,
+"second": "파워로직스",
+"second_ret": 29.93
+},
+{
+"name": "마스크",
+"n": 4,
+"lead": "디케이앤디",
+"lead_ret": 19.4,
+"second": "웰크론",
+"second_ret": 10.1
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "현대글로비스",
+"lead_ret": 14.33,
+"second": "이랜시스",
+"second_ret": 9.09
+}
+],
+"themes": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 6.16,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 29.98,
+"second": "인선이엔티",
+"second_ret": 3.35
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 5.46,
+"up5": 3,
+"lead": "웰크론한텍",
+"lead_ret": 29.98,
+"second": "파워로직스",
+"second_ret": 29.93
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.09,
+"up5": 3,
+"lead": "CJ씨푸드",
+"lead_ret": 9.24,
+"second": "사조씨푸드",
+"second_ret": 8.56
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.08,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 9.24,
+"second": "한성기업",
+"second_ret": 7.17
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 3.05,
+"up5": 3,
+"lead": "파워로직스",
+"lead_ret": 29.93,
+"second": "동운아나텍",
+"second_ret": 7.07
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 2.8,
+"up5": 3,
+"lead": "파워로직스",
+"lead_ret": 29.93,
+"second": "동운아나텍",
+"second_ret": 7.07
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 2.21,
+"up5": 5,
+"lead": "디케이앤디",
+"lead_ret": 19.4,
+"second": "웰크론",
+"second_ret": 10.1
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 31,
+"avg": 2.2,
+"up5": 3,
+"lead": "파워로직스",
+"lead_ret": 29.93,
+"second": "피엔티",
+"second_ret": 5.5
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.11,
+"up5": 2,
+"lead": "파워로직스",
+"lead_ret": 29.93,
+"second": "탑엔지니어링",
+"second_ret": 6.59
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 2.07,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 4.92,
+"second": "미코",
+"second_ret": 4.7
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 26,
+"avg": 1.97,
+"up5": 5,
+"lead": "현대글로비스",
+"lead_ret": 14.33,
+"second": "이랜시스",
+"second_ret": 9.09
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 1.91,
+"up5": 5,
+"lead": "세진중공업",
+"lead_ret": 8.14,
+"second": "세아제강",
+"second_ret": 6.29
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.29,
+"up5": 0,
+"lead": "윙입푸드",
+"lead_ret": 1.59,
+"second": "씨엑스아이",
+"second_ret": 0.0
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -2.95,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.58,
+"second": "티앤알바이오팹",
+"second_ret": -1.5
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.75,
+"up5": 0,
+"lead": "하이비젼시스템",
+"lead_ret": 3.8,
+"second": "TPC로보틱스",
+"second_ret": 3.7
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.59,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 4.17,
+"second": "대한약품",
+"second_ret": 0.0
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.54,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 0.48,
+"second": "누리플렉스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "SV인베스트먼트",
+"code": "289080",
+"ret": 19.54,
+"value": 6751,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "현대글로비스",
+"code": "086280",
+"ret": 14.33,
+"value": 6461,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "파워로직스",
+"code": "047310",
+"ret": 29.93,
+"value": 2859,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 10.1,
+"value": 2575,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "티움바이오",
+"code": "321550",
+"ret": 16.39,
+"value": 689,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

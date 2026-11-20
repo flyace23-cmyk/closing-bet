@@ -1,0 +1,254 @@
+{
+"date": "20220922",
+"kospi": -0.63,
+"kosdaq": -0.46,
+"adv": 596,
+"dec": 1365,
+"flat": 137,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 125925,
+"hot": [
+{
+"name": "사료",
+"n": 8,
+"lead": "한일사료",
+"lead_ret": 29.94,
+"second": "대주산업",
+"second_ret": 25.38
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "씨에스베어링",
+"lead_ret": 10.88,
+"second": "동국산업",
+"second_ret": 9.89
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "리튬포어스",
+"lead_ret": 29.73,
+"second": "미래나노텍",
+"second_ret": 11.55
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 9.89,
+"up5": 12,
+"lead": "한일사료",
+"lead_ret": 29.94,
+"second": "대주산업",
+"second_ret": 25.38
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.44,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 11.6,
+"second": "미래생명자원",
+"second_ret": 10.89
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 3.51,
+"up5": 3,
+"lead": "한일사료",
+"lead_ret": 29.94,
+"second": "팜스토리",
+"second_ret": 14.22
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.17,
+"up5": 4,
+"lead": "리튬포어스",
+"lead_ret": 29.73,
+"second": "미래나노텍",
+"second_ret": 11.55
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.06,
+"up5": 2,
+"lead": "팜스토리",
+"lead_ret": 14.22,
+"second": "체리부로",
+"second_ret": 5.61
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.59,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 29.73,
+"second": "손오공",
+"second_ret": -0.52
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 2.58,
+"up5": 6,
+"lead": "한일사료",
+"lead_ret": 29.94,
+"second": "팜스토리",
+"second_ret": 14.22
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.94,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 8.49,
+"second": "누보",
+"second_ret": 7.01
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.92,
+"up5": 3,
+"lead": "효성오앤비",
+"lead_ret": 8.49,
+"second": "대동기어",
+"second_ret": 8.06
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 1.9,
+"up5": 1,
+"lead": "석경에이티",
+"lead_ret": 13.47,
+"second": "한화솔루션",
+"second_ret": 3.34
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 1.87,
+"up5": 2,
+"lead": "일승",
+"lead_ret": 5.91,
+"second": "성광벤드",
+"second_ret": 5.1
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 1.8,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 5.03,
+"second": "에코프로비엠",
+"second_ret": 3.75
+}
+],
+"themes_worst": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -5.5,
+"up5": 0,
+"lead": "SBS",
+"lead_ret": 3.66,
+"second": "애니플러스",
+"second_ret": 1.39
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -3.52,
+"up5": 0,
+"lead": "동일금속",
+"lead_ret": 0.47,
+"second": "대동금속",
+"second_ret": 0.1
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.15,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": -2.16,
+"second": "SBI인베스트먼트",
+"second_ret": -2.36
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.12,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 3.67,
+"second": "삼성바이오로직스",
+"second_ret": -0.13
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -3.04,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.89,
+"second": "POSCO홀딩스",
+"second_ret": -1.05
+}
+],
+"leaders": [
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 25.38,
+"value": 3117,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 20.15,
+"value": 1907,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 29.94,
+"value": 1593,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 11.55,
+"value": 1592,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 16.02,
+"value": 1204,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+}
+],
+"backfilled": true
+}

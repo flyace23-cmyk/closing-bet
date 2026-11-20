@@ -1,0 +1,254 @@
+{
+"date": "20231025",
+"kospi": -0.85,
+"kosdaq": -1.79,
+"adv": 1221,
+"dec": 856,
+"flat": 122,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 136365,
+"hot": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 5,
+"lead": "국제약품",
+"lead_ret": 29.91,
+"second": "DXVX",
+"second_ret": 18.46
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "마녀공장",
+"lead_ret": 30.0,
+"second": "국제약품",
+"second_ret": 29.91
+},
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "우듬지팜",
+"lead_ret": 29.92,
+"second": "미래생명자원",
+"second_ret": 10.55
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 9.23,
+"up5": 6,
+"lead": "국제약품",
+"lead_ret": 29.91,
+"second": "DXVX",
+"second_ret": 18.46
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 3.85,
+"up5": 3,
+"lead": "우듬지팜",
+"lead_ret": 29.92,
+"second": "그린플러스",
+"second_ret": 20.4
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.58,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 5.23,
+"second": "삼성중공업",
+"second_ret": 3.4
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.22,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 10.55,
+"second": "샘표",
+"second_ret": 2.23
+},
+{
+"name": "화장품",
+"n": 84,
+"avg": 3.05,
+"up5": 23,
+"lead": "마녀공장",
+"lead_ret": 30.0,
+"second": "국제약품",
+"second_ret": 29.91
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.89,
+"up5": 2,
+"lead": "NH농우바이오",
+"lead_ret": 11.67,
+"second": "체시스",
+"second_ret": 5.57
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.88,
+"up5": 5,
+"lead": "DXVX",
+"lead_ret": 18.46,
+"second": "인트론바이오",
+"second_ret": 13.35
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.79,
+"up5": 1,
+"lead": "토니모리",
+"lead_ret": 9.12,
+"second": "JTC",
+"second_ret": 3.44
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.79,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 8.66,
+"second": "넥센",
+"second_ret": 4.26
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.72,
+"up5": 0,
+"lead": "트리니티항공",
+"lead_ret": 4.74,
+"second": "진에어",
+"second_ret": 4.37
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.65,
+"up5": 1,
+"lead": "GS리테일",
+"lead_ret": 5.13,
+"second": "롯데지주",
+"second_ret": 4.63
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": 2.57,
+"up5": 4,
+"lead": "HD현대마린엔진",
+"lead_ret": 13.37,
+"second": "일승",
+"second_ret": 13.31
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -5.9,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": -1.94,
+"second": "애경케미칼",
+"second_ret": -2.19
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -5.26,
+"up5": 0,
+"lead": "후성",
+"lead_ret": -0.29,
+"second": "앱튼",
+"second_ret": -0.6
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": -4.17,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.56,
+"second": "아이엘",
+"second_ret": 1.32
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": -3.34,
+"up5": 0,
+"lead": "이상네트웍스",
+"lead_ret": 0.37,
+"second": "이지트로닉스",
+"second_ret": 0.24
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -3.15,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.03,
+"second": "브이티",
+"second_ret": 0.33
+}
+],
+"leaders": [
+{
+"name": "쏘카",
+"code": "403550",
+"ret": 22.55,
+"value": 1315,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "우듬지팜",
+"code": "403490",
+"ret": 29.92,
+"value": 1116,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "마녀공장",
+"code": "439090",
+"ret": 30.0,
+"value": 771,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "한싹",
+"code": "430690",
+"ret": 30.01,
+"value": 747,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "위더스제약",
+"code": "330350",
+"ret": 14.04,
+"value": 643,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+}
+],
+"backfilled": true
+}

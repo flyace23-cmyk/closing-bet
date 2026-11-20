@@ -1,0 +1,254 @@
+{
+"date": "20241024",
+"kospi": -0.72,
+"kosdaq": -1.42,
+"adv": 544,
+"dec": 1635,
+"flat": 112,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 143626,
+"hot": [
+{
+"name": "자율주행차",
+"n": 4,
+"lead": "하이비젼시스템",
+"lead_ret": 15.83,
+"second": "DH오토웨어",
+"second_ret": 9.39
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "하이비젼시스템",
+"lead_ret": 15.83,
+"second": "엑스플러스",
+"second_ret": 9.09
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "디티앤씨",
+"lead_ret": 11.61,
+"second": "비에이치아이",
+"second_ret": 11.0
+}
+],
+"themes": [
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.52,
+"up5": 3,
+"lead": "고려아연",
+"lead_ret": 29.91,
+"second": "하이트진로",
+"second_ret": 6.0
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 1.48,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 29.96,
+"second": "고려아연",
+"second_ret": 29.91
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.4,
+"up5": 1,
+"lead": "이렘",
+"lead_ret": 29.96,
+"second": "한국주철관",
+"second_ret": 0.0
+},
+{
+"name": "광고",
+"n": 23,
+"avg": 1.25,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 15.12,
+"second": "플레이디",
+"second_ret": 10.48
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.17,
+"up5": 1,
+"lead": "한미사이언스",
+"lead_ret": 19.54,
+"second": "한미약품",
+"second_ret": 4.55
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 1.14,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 9.69,
+"second": "한화비전",
+"second_ret": 2.13
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.02,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 15.12,
+"second": "드림어스컴퍼니",
+"second_ret": 7.28
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 0.83,
+"up5": 2,
+"lead": "소노스퀘어",
+"lead_ret": 10.44,
+"second": "제이에스코퍼레이션",
+"second_ret": 5.84
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.83,
+"up5": 1,
+"lead": "트리니티항공",
+"lead_ret": 6.37,
+"second": "티웨이홀딩스",
+"second_ret": 3.11
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 0.8,
+"up5": 1,
+"lead": "금호석유화학",
+"lead_ret": 5.56,
+"second": "LG화학",
+"second_ret": 1.08
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 0.75,
+"up5": 2,
+"lead": "네이처셀",
+"lead_ret": 23.61,
+"second": "테고사이언스",
+"second_ret": 6.13
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 0.71,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 7.09,
+"second": "KSS해운",
+"second_ret": 0.88
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -3.8,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": 0.38,
+"second": "심텍홀딩스",
+"second_ret": -1.55
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -3.46,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.12,
+"second": "큐알티",
+"second_ret": 0.42
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.28,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": 2.99,
+"second": "한울반도체",
+"second_ret": 0.18
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.98,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.0,
+"second": "에이직랜드",
+"second_ret": -0.8
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.96,
+"up5": 0,
+"lead": "동아지질",
+"lead_ret": -0.6,
+"second": "한국선재",
+"second_ret": -1.76
+}
+],
+"leaders": [
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 15.12,
+"value": 2503,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "셀비온",
+"code": "308430",
+"ret": 13.23,
+"value": 2105,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 29.91,
+"value": 1605,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "한미사이언스",
+"code": "008930",
+"ret": 19.54,
+"value": 1578,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "전진건설로봇",
+"code": "079900",
+"ret": 19.99,
+"value": 1533,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+}
+],
+"backfilled": true
+}

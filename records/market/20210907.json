@@ -1,0 +1,254 @@
+{
+"date": "20210907",
+"kospi": -0.5,
+"kosdaq": 0.14,
+"adv": 796,
+"dec": 1030,
+"flat": 204,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 239189,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "삼아알미늄",
+"lead_ret": 29.87,
+"second": "조일알미늄",
+"second_ret": 21.76
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "천보",
+"lead_ret": 11.6,
+"second": "켐트로스",
+"second_ret": 11.22
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "무학",
+"lead_ret": 13.66,
+"second": "동원시스템즈",
+"second_ret": 12.31
+}
+],
+"themes": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 6.35,
+"up5": 2,
+"lead": "HC보광산업",
+"lead_ret": 29.56,
+"second": "HC홈센타",
+"second_ret": 26.05
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 4.99,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 26.11,
+"second": "신세계",
+"second_ret": 1.1
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": 4.37,
+"up5": 2,
+"lead": "MH에탄올",
+"lead_ret": 29.58,
+"second": "무학",
+"second_ret": 13.66
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 4.1,
+"up5": 5,
+"lead": "삼아알미늄",
+"lead_ret": 29.87,
+"second": "조일알미늄",
+"second_ret": 21.76
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 4.1,
+"up5": 3,
+"lead": "HC보광산업",
+"lead_ret": 29.56,
+"second": "HC홈센타",
+"second_ret": 26.05
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.92,
+"up5": 3,
+"lead": "티비씨",
+"lead_ret": 30.0,
+"second": "KNN",
+"second_ret": 6.81
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.73,
+"up5": 2,
+"lead": "대한제강",
+"lead_ret": 10.02,
+"second": "KG스틸",
+"second_ret": 5.65
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 3.26,
+"up5": 15,
+"lead": "삼아알미늄",
+"lead_ret": 29.87,
+"second": "조일알미늄",
+"second_ret": 21.76
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.15,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 19.42,
+"second": "비엠티",
+"second_ret": 4.05
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 2.3,
+"up5": 4,
+"lead": "경남스틸",
+"lead_ret": 20.25,
+"second": "화인베스틸",
+"second_ret": 10.76
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 20,
+"avg": 2.05,
+"up5": 3,
+"lead": "켐트로스",
+"lead_ret": 11.22,
+"second": "서연이화",
+"second_ret": 7.36
+},
+{
+"name": "2차전지",
+"n": 104,
+"avg": 2.0,
+"up5": 18,
+"lead": "삼아알미늄",
+"lead_ret": 29.87,
+"second": "조일알미늄",
+"second_ret": 21.76
+}
+],
+"themes_worst": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -2.01,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 2.41,
+"second": "메디톡스",
+"second_ret": -0.44
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.93,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.0,
+"second": "드림씨아이에스",
+"second_ret": -0.32
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.88,
+"up5": 0,
+"lead": "로보스타",
+"lead_ret": 0.61,
+"second": "모아텍",
+"second_ret": -0.24
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": -1.86,
+"up5": 0,
+"lead": "코스텍시스",
+"lead_ret": -0.2,
+"second": "파워넷",
+"second_ret": -0.98
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.47,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": -0.2,
+"second": "SBI인베스트먼트",
+"second_ret": -0.28
+}
+],
+"leaders": [
+{
+"name": "국전",
+"code": "307750",
+"ret": 11.2,
+"value": 5728,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "경남스틸",
+"code": "039240",
+"ret": 20.25,
+"value": 3861,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 19.42,
+"value": 3669,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "넥스턴앤롤코리아",
+"code": "089140",
+"ret": 20.77,
+"value": 3577,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "HC홈센타",
+"code": "060560",
+"ret": 26.05,
+"value": 2909,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

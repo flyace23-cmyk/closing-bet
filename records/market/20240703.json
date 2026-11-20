@@ -1,0 +1,254 @@
+{
+"date": "20240703",
+"kospi": 0.47,
+"kosdaq": 0.75,
+"adv": 566,
+"dec": 1569,
+"flat": 130,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 188575,
+"hot": [
+{
+"name": "전력저장장치(ESS)",
+"n": 5,
+"lead": "신성에스티",
+"lead_ret": 22.53,
+"second": "한중엔시에스",
+"second_ret": 22.13
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "신성에스티",
+"lead_ret": 22.53,
+"second": "엔시스",
+"second_ret": 11.87
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "서진시스템",
+"lead_ret": 17.01,
+"second": "위드텍",
+"second_ret": 11.14
+}
+],
+"themes": [
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 2.91,
+"up5": 8,
+"lead": "신성에스티",
+"lead_ret": 22.53,
+"second": "한중엔시에스",
+"second_ret": 22.13
+},
+{
+"name": "태양광에너지",
+"n": 43,
+"avg": 1.71,
+"up5": 8,
+"lead": "SDN",
+"lead_ret": 24.88,
+"second": "금양그린파워",
+"second_ret": 17.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.65,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 4.27,
+"second": "LG디스플레이",
+"second_ret": 3.58
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.51,
+"up5": 2,
+"lead": "웰킵스하이텍",
+"lead_ret": 13.52,
+"second": "이랜텍",
+"second_ret": 8.08
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 1.32,
+"up5": 9,
+"lead": "신성에스티",
+"lead_ret": 22.53,
+"second": "엘앤에프",
+"second_ret": 9.22
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 1.32,
+"up5": 4,
+"lead": "HLB",
+"lead_ret": 29.95,
+"second": "에이비엘바이오",
+"second_ret": 11.39
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 1.31,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 7.67,
+"second": "에코프로비엠",
+"second_ret": 4.66
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 1.14,
+"up5": 1,
+"lead": "엘앤에프",
+"lead_ret": 9.22,
+"second": "LG에너지솔루션",
+"second_ret": 4.22
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.13,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": 3.23,
+"second": "하나금융지주",
+"second_ret": 2.7
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.1,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 7.67,
+"second": "강원에너지",
+"second_ret": 4.59
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 1.09,
+"up5": 3,
+"lead": "금양그린파워",
+"lead_ret": 17.67,
+"second": "서진시스템",
+"second_ret": 17.01
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 1.0,
+"up5": 4,
+"lead": "HLB제약",
+"lead_ret": 29.95,
+"second": "에이비엘바이오",
+"second_ret": 11.39
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.96,
+"up5": 0,
+"lead": "링네트",
+"lead_ret": -0.69,
+"second": "에스넷",
+"second_ret": -1.49
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.82,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": -0.65,
+"second": "대원미디어",
+"second_ret": -0.78
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.51,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": -0.12,
+"second": "HMM",
+"second_ret": -0.35
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -2.43,
+"up5": 0,
+"lead": "화천기공",
+"lead_ret": 0.0,
+"second": "한국정밀기계",
+"second_ret": -0.42
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": -2.39,
+"up5": 0,
+"lead": "예림당",
+"lead_ret": 0.37,
+"second": "남양유업",
+"second_ret": -0.17
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 29.95,
+"value": 9478,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 14.38,
+"value": 2448,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "서진시스템",
+"code": "178320",
+"ret": 17.01,
+"value": 1600,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 29.91,
+"value": 1501,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "한중엔시에스",
+"code": "107640",
+"ret": 22.13,
+"value": 1284,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

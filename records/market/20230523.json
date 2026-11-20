@@ -1,0 +1,254 @@
+{
+"date": "20230523",
+"kospi": 0.41,
+"kosdaq": 0.84,
+"adv": 1013,
+"dec": 950,
+"flat": 194,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 155287,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 7,
+"lead": "휴마시스",
+"lead_ret": 20.16,
+"second": "나노실리칸첨단소재",
+"second_ret": 14.86
+},
+{
+"name": "의료AI",
+"n": 5,
+"lead": "시선AI",
+"lead_ret": 29.95,
+"second": "폴라리스오피스",
+"second_ret": 13.16
+},
+{
+"name": "보안주(정보)",
+"n": 4,
+"lead": "이스트소프트",
+"lead_ret": 22.15,
+"second": "나노실리칸첨단소재",
+"second_ret": 14.86
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 10,
+"avg": 4.95,
+"up5": 2,
+"lead": "시선AI",
+"lead_ret": 29.95,
+"second": "이스트소프트",
+"second_ret": 22.15
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": 4.17,
+"up5": 6,
+"lead": "시선AI",
+"lead_ret": 29.95,
+"second": "폴라리스오피스",
+"second_ret": 13.16
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 2.82,
+"up5": 4,
+"lead": "CG인바이츠",
+"lead_ret": 27.5,
+"second": "에이프릴바이오",
+"second_ret": 15.05
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.76,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 6.91,
+"second": "LG화학",
+"second_ret": 2.71
+},
+{
+"name": "코로나19(진단키트)",
+"n": 38,
+"avg": 2.62,
+"up5": 7,
+"lead": "휴마시스",
+"lead_ret": 20.16,
+"second": "나노실리칸첨단소재",
+"second_ret": 14.86
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.58,
+"up5": 4,
+"lead": "강원에너지",
+"lead_ret": 17.99,
+"second": "코스모화학",
+"second_ret": 8.57
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.55,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 14.29,
+"second": "코오롱인더",
+"second_ret": 1.27
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.5,
+"up5": 5,
+"lead": "CG인바이츠",
+"lead_ret": 27.5,
+"second": "신테카바이오",
+"second_ret": 9.61
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.33,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 15.85,
+"second": "SK네트웍스",
+"second_ret": 3.55
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.3,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 15.85,
+"second": "한울앤제주",
+"second_ret": 1.64
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 2.02,
+"up5": 1,
+"lead": "레이크머티리얼즈",
+"lead_ret": 8.76,
+"second": "한농화성",
+"second_ret": 4.7
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 68,
+"avg": 1.94,
+"up5": 7,
+"lead": "휴마시스",
+"lead_ret": 20.16,
+"second": "나노실리칸첨단소재",
+"second_ret": 14.86
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 15,
+"avg": -1.82,
+"up5": 0,
+"lead": "두산밥캣",
+"lead_ret": 2.06,
+"second": "프리엠스",
+"second_ret": 1.86
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -1.8,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": 0.75,
+"second": "두산에너빌리티",
+"second_ret": 0.18
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -1.61,
+"up5": 0,
+"lead": "네패스아크",
+"lead_ret": 0.0,
+"second": "삼성전자",
+"second_ret": -0.15
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": -1.02,
+"up5": 0,
+"lead": "셀레믹스",
+"lead_ret": 3.3,
+"second": "팜스코",
+"second_ret": 1.62
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": -0.99,
+"up5": 0,
+"lead": "티엘비",
+"lead_ret": 0.0,
+"second": "대교",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "디와이디",
+"code": "219550",
+"ret": 29.95,
+"value": 2788,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "휴마시스",
+"code": "205470",
+"ret": 20.16,
+"value": 2506,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "강원에너지",
+"code": "114190",
+"ret": 17.99,
+"value": 2355,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "모니터랩",
+"code": "434480",
+"ret": 11.7,
+"value": 2222,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "이스트소프트",
+"code": "047560",
+"ret": 22.15,
+"value": 1633,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

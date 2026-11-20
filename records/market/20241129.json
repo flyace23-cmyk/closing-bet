@@ -1,0 +1,254 @@
+{
+"date": "20241129",
+"kospi": -1.95,
+"kosdaq": -2.33,
+"adv": 400,
+"dec": 1816,
+"flat": 94,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 147045,
+"hot": [
+{
+"name": "마스크",
+"n": 4,
+"lead": "깨끗한나라",
+"lead_ret": 29.83,
+"second": "레몬",
+"second_ret": 14.59
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "크라우드웍스",
+"lead_ret": 15.96,
+"second": "뉴로메카",
+"second_ret": 7.77
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 3,
+"lead": "나노팀",
+"lead_ret": 12.64,
+"second": "아주IB투자",
+"second_ret": 7.87
+}
+],
+"themes": [
+{
+"name": "마스크",
+"n": 22,
+"avg": 2.03,
+"up5": 4,
+"lead": "깨끗한나라",
+"lead_ret": 29.83,
+"second": "레몬",
+"second_ret": 14.59
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.72,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 7.87,
+"second": "한화투자증권",
+"second_ret": 1.14
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 1.38,
+"up5": 3,
+"lead": "깨끗한나라",
+"lead_ret": 29.83,
+"second": "모나리자",
+"second_ret": 13.65
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 1.28,
+"up5": 1,
+"lead": "깨끗한나라",
+"lead_ret": 29.83,
+"second": "페이퍼코리아",
+"second_ret": 2.09
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 0.95,
+"up5": 2,
+"lead": "깨끗한나라",
+"lead_ret": 29.83,
+"second": "모나리자",
+"second_ret": 13.65
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 0.91,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 4.97,
+"second": "갤럭시아머니트리",
+"second_ret": 3.41
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 0.7,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 8.84,
+"second": "국보디자인",
+"second_ret": 0.53
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 0.62,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 19.79,
+"second": "네패스아크",
+"second_ret": -0.97
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 0.56,
+"up5": 4,
+"lead": "나노팀",
+"lead_ret": 12.64,
+"second": "아주IB투자",
+"second_ret": 7.87
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 0.34,
+"up5": 1,
+"lead": "이스트에이드",
+"lead_ret": 8.43,
+"second": "카카오",
+"second_ret": 4.97
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.12,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 1.85,
+"second": "GKL",
+"second_ret": 0.17
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.12,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 1.85,
+"second": "GKL",
+"second_ret": 0.17
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.79,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -1.62,
+"second": "나인테크",
+"second_ret": -2.3
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -4.03,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -0.21,
+"second": "제이오",
+"second_ret": -2.98
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.7,
+"up5": 1,
+"lead": "미래산업",
+"lead_ret": 7.13,
+"second": "강원에너지",
+"second_ret": 0.75
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": -3.66,
+"up5": 0,
+"lead": "티케이케미칼",
+"lead_ret": -0.44,
+"second": "태광산업",
+"second_ret": -0.64
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.61,
+"up5": 0,
+"lead": "한울반도체",
+"lead_ret": 1.07,
+"second": "아바텍",
+"second_ret": -0.92
+}
+],
+"leaders": [
+{
+"name": "LK삼양",
+"code": "225190",
+"ret": 26.66,
+"value": 2382,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "자람테크놀로지",
+"code": "389020",
+"ret": 19.79,
+"value": 1200,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "나노팀",
+"code": "417010",
+"ret": 12.64,
+"value": 891,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "아이언디바이스",
+"code": "464500",
+"ret": 29.79,
+"value": 825,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "RF시스템즈",
+"code": "474610",
+"ret": 18.73,
+"value": 798,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

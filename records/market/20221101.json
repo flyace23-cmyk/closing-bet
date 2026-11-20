@@ -1,0 +1,254 @@
+{
+"date": "20221101",
+"kospi": 1.81,
+"kosdaq": 0.68,
+"adv": 1540,
+"dec": 395,
+"flat": 177,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 131564,
+"hot": [
+{
+"name": "원자력발전",
+"n": 13,
+"lead": "한전기술",
+"lead_ret": 29.91,
+"second": "한전산업",
+"second_ret": 27.97
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "LG화학",
+"lead_ret": 11.02,
+"second": "베셀",
+"second_ret": 10.39
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "한전기술",
+"lead_ret": 29.91,
+"second": "엘앤씨바이오",
+"second_ret": 11.81
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 10.3,
+"up5": 9,
+"lead": "한전기술",
+"lead_ret": 29.91,
+"second": "두산에너빌리티",
+"second_ret": 19.62
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": 7.71,
+"up5": 26,
+"lead": "한전기술",
+"lead_ret": 29.91,
+"second": "한전산업",
+"second_ret": 27.97
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 6.16,
+"up5": 12,
+"lead": "한전산업",
+"lead_ret": 27.97,
+"second": "두산에너빌리티",
+"second_ret": 19.62
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 5.65,
+"up5": 3,
+"lead": "두산에너빌리티",
+"lead_ret": 19.62,
+"second": "비에이치아이",
+"second_ret": 18.93
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 5.43,
+"up5": 3,
+"lead": "대한전선",
+"lead_ret": 14.66,
+"second": "일진전기",
+"second_ret": 7.42
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 5.4,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 19.62,
+"second": "일진파워",
+"second_ret": 11.2
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 4.98,
+"up5": 10,
+"lead": "한전기술",
+"lead_ret": 29.91,
+"second": "두산에너빌리티",
+"second_ret": 19.62
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.89,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 29.64,
+"second": "오가닉티코스메틱",
+"second_ret": 8.3
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 4.86,
+"up5": 5,
+"lead": "한전산업",
+"lead_ret": 27.97,
+"second": "서전기전",
+"second_ret": 13.29
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 4.31,
+"up5": 5,
+"lead": "유신",
+"lead_ret": 26.55,
+"second": "현대건설",
+"second_ret": 6.73
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 4.24,
+"up5": 8,
+"lead": "유신",
+"lead_ret": 26.55,
+"second": "두산에너빌리티",
+"second_ret": 19.62
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.23,
+"up5": 3,
+"lead": "현대건설",
+"lead_ret": 6.73,
+"second": "대우건설",
+"second_ret": 6.06
+}
+],
+"themes_worst": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -3.58,
+"up5": 0,
+"lead": "휴온스글로벌",
+"lead_ret": 1.69,
+"second": "대웅제약",
+"second_ret": 1.55
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -3.03,
+"up5": 0,
+"lead": "클래시스",
+"lead_ret": 1.95,
+"second": "휴온스글로벌",
+"second_ret": 1.69
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.72,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.98,
+"second": "삼성바이오로직스",
+"second_ret": 0.57
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -0.9,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.01,
+"second": "네패스",
+"second_ret": 0.82
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.89,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 1.46,
+"second": "샘표식품",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 19.62,
+"value": 7955,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "LG화학",
+"code": "051910",
+"ret": 11.02,
+"value": 3769,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "유신",
+"code": "054930",
+"ret": 26.55,
+"value": 2159,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 14.66,
+"value": 2014,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 29.91,
+"value": 1987,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

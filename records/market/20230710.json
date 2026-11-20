@@ -1,0 +1,254 @@
+{
+"date": "20230710",
+"kospi": -0.24,
+"kosdaq": -0.8,
+"adv": 924,
+"dec": 1125,
+"flat": 121,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 171991,
+"hot": [
+{
+"name": "광고",
+"n": 4,
+"lead": "와이즈버즈",
+"lead_ret": 29.93,
+"second": "플레이디",
+"second_ret": 29.92
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 3,
+"lead": "비투엔",
+"lead_ret": 18.16,
+"second": "솔트웨어",
+"second_ret": 11.54
+},
+{
+"name": "2차전지(장비)",
+"n": 3,
+"lead": "하나기술",
+"lead_ret": 13.89,
+"second": "피엔티",
+"second_ret": 12.21
+}
+],
+"themes": [
+{
+"name": "광고",
+"n": 20,
+"avg": 4.45,
+"up5": 5,
+"lead": "와이즈버즈",
+"lead_ret": 29.93,
+"second": "플레이디",
+"second_ret": 29.92
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 3.36,
+"up5": 5,
+"lead": "유신",
+"lead_ret": 29.97,
+"second": "남광토건",
+"second_ret": 10.44
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.8,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 7.99,
+"second": "현대건설",
+"second_ret": 3.46
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 2.74,
+"up5": 4,
+"lead": "신원종합개발",
+"lead_ret": 21.69,
+"second": "남광토건",
+"second_ret": 10.44
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.52,
+"up5": 3,
+"lead": "유신",
+"lead_ret": 29.97,
+"second": "대우건설",
+"second_ret": 7.99
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.42,
+"up5": 1,
+"lead": "DB손해보험",
+"lead_ret": 5.12,
+"second": "삼성화재",
+"second_ret": 4.73
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 2.31,
+"up5": 6,
+"lead": "유신",
+"lead_ret": 29.97,
+"second": "희림",
+"second_ret": 9.01
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.03,
+"up5": 0,
+"lead": "노랑풍선",
+"lead_ret": 4.33,
+"second": "참좋은여행",
+"second_ret": 4.0
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 10,
+"avg": 1.91,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 7.37,
+"second": "시선AI",
+"second_ret": 6.02
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 1.79,
+"up5": 1,
+"lead": "SP삼화",
+"lead_ret": 5.44,
+"second": "강남제비스코",
+"second_ret": 2.95
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 1.68,
+"up5": 1,
+"lead": "금강공업",
+"lead_ret": 5.45,
+"second": "한신공영",
+"second_ret": 3.85
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 1.67,
+"up5": 7,
+"lead": "하나기술",
+"lead_ret": 13.89,
+"second": "피엔티",
+"second_ret": 12.21
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.92,
+"up5": 1,
+"lead": "LB인베스트먼트",
+"lead_ret": 5.51,
+"second": "엠케이전자",
+"second_ret": -0.07
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -3.11,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.57,
+"second": "네패스아크",
+"second_ret": -3.29
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -2.55,
+"up5": 0,
+"lead": "휴메딕스",
+"lead_ret": 2.39,
+"second": "한국비티비",
+"second_ret": 0.0
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": -2.5,
+"up5": 1,
+"lead": "에스티아이",
+"lead_ret": 7.12,
+"second": "디아이티",
+"second_ret": 0.94
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -2.46,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 1.52,
+"second": "에이디테크놀로지",
+"second_ret": 1.39
+}
+],
+"leaders": [
+{
+"name": "피엔티",
+"code": "137400",
+"ret": 12.21,
+"value": 2520,
+"theme": "2차전지(장비)",
+"reason": "테마: 2차전지(장비)"
+},
+{
+"name": "하나기술",
+"code": "299030",
+"ret": 13.89,
+"value": 1941,
+"theme": "2차전지(장비)",
+"reason": "테마: 2차전지(장비)"
+},
+{
+"name": "유신",
+"code": "054930",
+"ret": 29.97,
+"value": 1375,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "모비데이즈",
+"code": "363260",
+"ret": 10.48,
+"value": 1135,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "덴티스",
+"code": "261200",
+"ret": 29.94,
+"value": 1120,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+}
+],
+"backfilled": true
+}

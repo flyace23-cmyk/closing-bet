@@ -1,0 +1,254 @@
+{
+"date": "20201216",
+"kospi": 0.54,
+"kosdaq": 0.9,
+"adv": 1207,
+"dec": 557,
+"flat": 202,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 264495,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "웰크론한텍",
+"lead_ret": 29.96,
+"second": "새로닉스",
+"second_ret": 29.59
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "브이엠",
+"lead_ret": 12.93,
+"second": "탑엔지니어링",
+"second_ret": 12.85
+},
+{
+"name": "재택근무/스마트워크",
+"n": 3,
+"lead": "링네트",
+"lead_ret": 29.97,
+"second": "이씨에스",
+"second_ret": 15.51
+}
+],
+"themes": [
+{
+"name": "페인트",
+"n": 8,
+"avg": 8.06,
+"up5": 4,
+"lead": "SP삼화",
+"lead_ret": 29.46,
+"second": "조광페인트",
+"second_ret": 13.31
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 5.7,
+"up5": 6,
+"lead": "링네트",
+"lead_ret": 29.97,
+"second": "이씨에스",
+"second_ret": 15.51
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 5.33,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 29.96,
+"second": "와이엔텍",
+"second_ret": 3.69
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 5.22,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 16.53,
+"second": "CJ씨푸드",
+"second_ret": 5.88
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 5.13,
+"up5": 3,
+"lead": "우양",
+"lead_ret": 16.53,
+"second": "이씨에스",
+"second_ret": 15.51
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 5.05,
+"up5": 4,
+"lead": "블루산업개발",
+"lead_ret": 15.27,
+"second": "삼보판지",
+"second_ret": 10.55
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.04,
+"up5": 2,
+"lead": "링네트",
+"lead_ret": 29.97,
+"second": "에스넷",
+"second_ret": 7.66
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 5.0,
+"up5": 2,
+"lead": "한국팩키지",
+"lead_ret": 24.46,
+"second": "삼륭물산",
+"second_ret": 6.4
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 4.11,
+"up5": 2,
+"lead": "탑엔지니어링",
+"lead_ret": 12.85,
+"second": "기가레인",
+"second_ret": 8.06
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 3.58,
+"up5": 4,
+"lead": "신풍",
+"lead_ret": 8.39,
+"second": "한창제지",
+"second_ret": 7.45
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 3.55,
+"up5": 4,
+"lead": "웰크론한텍",
+"lead_ret": 29.96,
+"second": "영화테크",
+"second_ret": 6.15
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 3.54,
+"up5": 6,
+"lead": "탑엔지니어링",
+"lead_ret": 12.85,
+"second": "해성옵틱스",
+"second_ret": 12.56
+}
+],
+"themes_worst": [
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.85,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 1.58,
+"second": "하이트진로홀딩스",
+"second_ret": 0.32
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.74,
+"up5": 0,
+"lead": "휴온스",
+"lead_ret": 1.55,
+"second": "휴젤",
+"second_ret": 1.04
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.7,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 3.26,
+"second": "현대위아",
+"second_ret": 1.14
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -0.69,
+"up5": 0,
+"lead": "혜인",
+"lead_ret": 1.91,
+"second": "동일금속",
+"second_ret": 1.36
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.67,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 0.83,
+"second": "대한항공",
+"second_ret": 0.18
+}
+],
+"leaders": [
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 25.44,
+"value": 7027,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이씨에스",
+"code": "067010",
+"ret": 15.51,
+"value": 4637,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "링네트",
+"code": "042500",
+"ret": 29.97,
+"value": 3697,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "인바이오",
+"code": "352940",
+"ret": 19.81,
+"value": 3307,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "아이큐어",
+"code": "175250",
+"ret": 17.1,
+"value": 3143,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

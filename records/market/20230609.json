@@ -1,0 +1,254 @@
+{
+"date": "20230609",
+"kospi": 1.16,
+"kosdaq": 0.87,
+"adv": 1205,
+"dec": 783,
+"flat": 176,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 189715,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "현대바이오",
+"lead_ret": 29.86,
+"second": "마녀공장",
+"second_ret": 12.74
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "탑머티리얼",
+"lead_ret": 16.3,
+"second": "코스모신소재",
+"second_ret": 13.01
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "현대바이오",
+"lead_ret": 29.86,
+"second": "앱클론",
+"second_ret": 17.33
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.91,
+"up5": 3,
+"lead": "코스모신소재",
+"lead_ret": 13.01,
+"second": "대주전자재료",
+"second_ret": 9.41
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.84,
+"up5": 3,
+"lead": "이건산업",
+"lead_ret": 12.45,
+"second": "무림P&P",
+"second_ret": 9.15
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.84,
+"up5": 3,
+"lead": "이건산업",
+"lead_ret": 12.45,
+"second": "무림P&P",
+"second_ret": 9.15
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.38,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 12.2,
+"second": "성우전자",
+"second_ret": 2.94
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.31,
+"up5": 1,
+"lead": "이수페타시스",
+"lead_ret": 23.54,
+"second": "코리아써키트",
+"second_ret": 4.31
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.12,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 12.2,
+"second": "엑스플러스",
+"second_ret": 5.0
+},
+{
+"name": "리모델링/인테리어",
+"n": 24,
+"avg": 2.79,
+"up5": 4,
+"lead": "라이온켐텍",
+"lead_ret": 29.97,
+"second": "이건산업",
+"second_ret": 12.45
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.76,
+"up5": 2,
+"lead": "탑머티리얼",
+"lead_ret": 16.3,
+"second": "아모그린텍",
+"second_ret": 5.93
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 2.48,
+"up5": 1,
+"lead": "나라셀라",
+"lead_ret": 29.89,
+"second": "한울앤제주",
+"second_ret": 1.91
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.46,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.2,
+"second": "코리아써키트",
+"second_ret": 4.31
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 2.46,
+"up5": 2,
+"lead": "네오셈",
+"lead_ret": 6.13,
+"second": "SK하이닉스",
+"second_ret": 5.2
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 2.43,
+"up5": 2,
+"lead": "한국전자홀딩스",
+"lead_ret": 29.96,
+"second": "갤럭시아머니트리",
+"second_ret": 7.97
+}
+],
+"themes_worst": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -1.28,
+"up5": 0,
+"lead": "한국주철관",
+"lead_ret": 0.55,
+"second": "금강공업",
+"second_ret": 0.18
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.11,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.38,
+"second": "한화오션",
+"second_ret": -0.51
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -1.06,
+"up5": 1,
+"lead": "에스넷",
+"lead_ret": 7.19,
+"second": "효성ITX",
+"second_ret": 0.23
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.03,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": 0.41,
+"second": "성광벤드",
+"second_ret": 0.07
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": -0.92,
+"up5": 0,
+"lead": "KS인더스트리",
+"lead_ret": 4.74,
+"second": "삼미금속",
+"second_ret": 3.69
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 23.54,
+"value": 7273,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "마녀공장",
+"code": "439090",
+"ret": 12.74,
+"value": 5328,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 13.01,
+"value": 4103,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 29.86,
+"value": 1621,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 10.21,
+"value": 1416,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

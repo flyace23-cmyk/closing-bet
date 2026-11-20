@@ -1,0 +1,254 @@
+{
+"date": "20240202",
+"kospi": 2.87,
+"kosdaq": 2.01,
+"adv": 1660,
+"dec": 467,
+"flat": 108,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 220873,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "원익홀딩스",
+"lead_ret": 29.88,
+"second": "워트",
+"second_ret": 11.52
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "서연이화",
+"lead_ret": 24.72,
+"second": "피에이치에이",
+"second_ret": 19.9
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "원익홀딩스",
+"lead_ret": 29.88,
+"second": "동국홀딩스",
+"second_ret": 18.8
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.99,
+"up5": 4,
+"lead": "기아",
+"lead_ret": 12.42,
+"second": "현대차",
+"second_ret": 9.13
+},
+{
+"name": "광고",
+"n": 22,
+"avg": 4.48,
+"up5": 6,
+"lead": "플레이디",
+"lead_ret": 29.9,
+"second": "이엠넷",
+"second_ret": 14.22
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.83,
+"up5": 2,
+"lead": "HLB테라퓨틱스",
+"lead_ret": 20.72,
+"second": "GST",
+"second_ret": 10.17
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.79,
+"up5": 4,
+"lead": "NAVER",
+"lead_ret": 9.38,
+"second": "포니링크",
+"second_ret": 7.83
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 3.48,
+"up5": 6,
+"lead": "케이옥션",
+"lead_ret": 18.65,
+"second": "KB금융",
+"second_ret": 8.16
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.29,
+"up5": 4,
+"lead": "카카오뱅크",
+"lead_ret": 9.12,
+"second": "KB금융",
+"second_ret": 8.16
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 3.28,
+"up5": 2,
+"lead": "피에이치에이",
+"lead_ret": 19.9,
+"second": "TCC스틸",
+"second_ret": 8.36
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.28,
+"up5": 3,
+"lead": "하이트진로홀딩스",
+"lead_ret": 7.7,
+"second": "하이트진로",
+"second_ret": 6.59
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.25,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 11.78,
+"second": "HDC",
+"second_ret": 7.71
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 3.2,
+"up5": 2,
+"lead": "에코플라스틱",
+"lead_ret": 18.24,
+"second": "삼양패키징",
+"second_ret": 5.76
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 3.18,
+"up5": 9,
+"lead": "워트",
+"lead_ret": 11.52,
+"second": "제우스",
+"second_ret": 10.15
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.1,
+"up5": 3,
+"lead": "신성델타테크",
+"lead_ret": 16.31,
+"second": "파워로직스",
+"second_ret": 7.61
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.79,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": 0.62,
+"second": "글로벌에스엠",
+"second_ret": 0.19
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.72,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": 0.13,
+"second": "삼성물산",
+"second_ret": 0.0
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.13,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 0.73,
+"second": "동원산업",
+"second_ret": 0.51
+},
+{
+"name": "미용기기",
+"n": 14,
+"avg": -0.7,
+"up5": 0,
+"lead": "제테마",
+"lead_ret": 3.07,
+"second": "휴젤",
+"second_ret": 2.37
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -0.61,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 1.18,
+"second": "국보디자인",
+"second_ret": 0.07
+}
+],
+"leaders": [
+{
+"name": "기아",
+"code": "000270",
+"ret": 12.42,
+"value": 10132,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 16.31,
+"value": 4502,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "서연이화",
+"code": "200880",
+"ret": 24.72,
+"value": 4041,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "우진엔텍",
+"code": "457550",
+"ret": 19.34,
+"value": 2319,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한컴",
+"code": "030520",
+"ret": 11.56,
+"value": 1663,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

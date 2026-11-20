@@ -1,0 +1,246 @@
+{
+"date": "20240219",
+"kospi": 1.19,
+"kosdaq": 0.1,
+"adv": 1249,
+"dec": 855,
+"flat": 134,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 197614,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "유진테크놀로지",
+"lead_ret": 29.93,
+"second": "엔켐",
+"second_ret": 19.64
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "이노뎁",
+"lead_ret": 24.77,
+"second": "크라우드웍스",
+"second_ret": 19.9
+}
+],
+"themes": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.79,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 11.81,
+"second": "인성정보",
+"second_ret": 8.06
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 4.64,
+"up5": 2,
+"lead": "제주은행",
+"lead_ret": 29.92,
+"second": "하나금융지주",
+"second_ret": 5.75
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 4.14,
+"up5": 4,
+"lead": "나노엔텍",
+"lead_ret": 29.9,
+"second": "케어랩스",
+"second_ret": 29.84
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 4.01,
+"up5": 3,
+"lead": "한국가스공사",
+"lead_ret": 12.71,
+"second": "삼천리",
+"second_ret": 6.36
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.55,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 6.26,
+"second": "삼성생명",
+"second_ret": 5.85
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 3.35,
+"up5": 4,
+"lead": "지역난방공사",
+"lead_ret": 29.99,
+"second": "한국가스공사",
+"second_ret": 12.71
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 3.13,
+"up5": 6,
+"lead": "지역난방공사",
+"lead_ret": 29.99,
+"second": "한국가스공사",
+"second_ret": 12.71
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.99,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 12.71,
+"second": "GS",
+"second_ret": 5.75
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.93,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 12.71,
+"second": "한국전력",
+"second_ret": 9.95
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 2.74,
+"up5": 4,
+"lead": "케이엔솔",
+"lead_ret": 8.56,
+"second": "한화에어로스페이스",
+"second_ret": 7.5
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.64,
+"up5": 2,
+"lead": "동원산업",
+"lead_ret": 8.85,
+"second": "사조대림",
+"second_ret": 8.43
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 2.58,
+"up5": 1,
+"lead": "동원산업",
+"lead_ret": 8.85,
+"second": "신세계",
+"second_ret": 2.77
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.11,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 0.91,
+"second": "인콘",
+"second_ret": 0.35
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.01,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.37,
+"second": "네패스",
+"second_ret": 1.11
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.99,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 0.48,
+"second": "메가터치",
+"second_ret": -0.11
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -1.56,
+"up5": 2,
+"lead": "고려제강",
+"lead_ret": 7.58,
+"second": "서남",
+"second_ret": 5.2
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 26,
+"avg": -1.39,
+"up5": 0,
+"lead": "롯데이노베이트",
+"lead_ret": 0.8,
+"second": "이노메트리",
+"second_ret": 0.66
+}
+],
+"leaders": [
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 19.64,
+"value": 5545,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 14.87,
+"value": 5018,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 29.92,
+"value": 2470,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "테크윙",
+"code": "089030",
+"ret": 18.41,
+"value": 1669,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "TCC스틸",
+"code": "002710",
+"ret": 15.53,
+"value": 1582,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220913",
+"kospi": 2.74,
+"kosdaq": 2.44,
+"adv": 1771,
+"dec": 226,
+"flat": 101,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 145444,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "코닉오토메이션",
+"lead_ret": 29.92,
+"second": "레인보우로보틱스",
+"second_ret": 17.84
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "대모",
+"lead_ret": 29.91,
+"second": "현대에버다임",
+"second_ret": 26.5
+},
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "대동스틸",
+"lead_ret": 13.2,
+"second": "하이스틸",
+"second_ret": 12.28
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": 8.87,
+"up5": 8,
+"lead": "대모",
+"lead_ret": 29.91,
+"second": "현대에버다임",
+"second_ret": 26.5
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 5.19,
+"up5": 3,
+"lead": "ISC",
+"lead_ret": 7.13,
+"second": "심텍",
+"second_ret": 7.13
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.94,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 15.9,
+"second": "유비벨록스",
+"second_ret": 4.11
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.92,
+"up5": 2,
+"lead": "차바이오텍",
+"lead_ret": 12.19,
+"second": "강스템바이오텍",
+"second_ret": 5.18
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 4.84,
+"up5": 6,
+"lead": "다원넥스뷰",
+"lead_ret": 11.11,
+"second": "LG이노텍",
+"second_ret": 7.85
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.68,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 15.9,
+"second": "SOOP",
+"second_ret": 6.36
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.65,
+"up5": 4,
+"lead": "미래컴퍼니",
+"lead_ret": 11.39,
+"second": "티에스이",
+"second_ret": 6.53
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.62,
+"up5": 3,
+"lead": "대한해운",
+"lead_ret": 7.69,
+"second": "팬오션",
+"second_ret": 7.25
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 4.52,
+"up5": 9,
+"lead": "대모",
+"lead_ret": 29.91,
+"second": "현대에버다임",
+"second_ret": 26.5
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 4.47,
+"up5": 6,
+"lead": "덕우전자",
+"lead_ret": 9.09,
+"second": "아이티엠반도체",
+"second_ret": 8.98
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.43,
+"up5": 3,
+"lead": "데브시스터즈",
+"lead_ret": 9.3,
+"second": "리튬포어스",
+"second_ret": 5.63
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 4.4,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 5.43,
+"second": "SK하이닉스",
+"second_ret": 4.87
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -2.33,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 4.36,
+"second": "화성밸브",
+"second_ret": 1.1
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": -0.67,
+"up5": 0,
+"lead": "케이프",
+"lead_ret": 2.9,
+"second": "제일테크노스",
+"second_ret": 2.87
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.46,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 0.65,
+"second": "기아",
+"second_ret": 0.49
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -0.43,
+"up5": 0,
+"lead": "대한항공",
+"lead_ret": 4.35,
+"second": "하이즈항공",
+"second_ret": 2.37
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -0.18,
+"up5": 0,
+"lead": "우림피티에스",
+"lead_ret": 4.44,
+"second": "SH에너지화학",
+"second_ret": 2.7
+}
+],
+"leaders": [
+{
+"name": "유일로보틱스",
+"code": "388720",
+"ret": 13.95,
+"value": 2062,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼기",
+"code": "122350",
+"ret": 16.12,
+"value": 2003,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 15.9,
+"value": 1566,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "현대에버다임",
+"code": "041440",
+"ret": 26.5,
+"value": 1287,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 12.63,
+"value": 1251,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+}
+],
+"backfilled": true
+}

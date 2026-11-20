@@ -1,0 +1,246 @@
+{
+"date": "20220718",
+"kospi": 1.9,
+"kosdaq": 1.88,
+"adv": 1760,
+"dec": 227,
+"flat": 101,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 113721,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "해성에어로보틱스",
+"lead_ret": 11.62,
+"second": "SJG세종",
+"second_ret": 11.05
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "SJG세종",
+"lead_ret": 11.05,
+"second": "나라엠앤디",
+"second_ret": 10.03
+}
+],
+"themes": [
+{
+"name": "테마파크",
+"n": 5,
+"avg": 6.32,
+"up5": 2,
+"lead": "한국종합기술",
+"lead_ret": 13.21,
+"second": "국보디자인",
+"second_ret": 8.47
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 5.73,
+"up5": 3,
+"lead": "제주은행",
+"lead_ret": 22.08,
+"second": "우리금융지주",
+"second_ret": 5.91
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.87,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 8.77,
+"second": "HJ중공업",
+"second_ret": 4.4
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 4.56,
+"up5": 1,
+"lead": "동일기연",
+"lead_ret": 29.74,
+"second": "성우전자",
+"second_ret": 4.61
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.47,
+"up5": 3,
+"lead": "NHN벅스",
+"lead_ret": 9.99,
+"second": "NAVER",
+"second_ret": 6.71
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 4.28,
+"up5": 8,
+"lead": "케이옥션",
+"lead_ret": 12.32,
+"second": "키움증권",
+"second_ret": 7.54
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 4.21,
+"up5": 10,
+"lead": "일승",
+"lead_ret": 14.07,
+"second": "동방선기",
+"second_ret": 9.3
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.18,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 10.13,
+"second": "성우전자",
+"second_ret": 4.61
+},
+{
+"name": "온디바이스 AI",
+"n": 19,
+"avg": 4.11,
+"up5": 2,
+"lead": "HPSP",
+"lead_ret": 19.07,
+"second": "가온칩스",
+"second_ret": 9.21
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.8,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 6.4,
+"second": "한화생명",
+"second_ret": 5.12
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.8,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 6.01,
+"second": "성광벤드",
+"second_ret": 5.47
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.77,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 4.73,
+"second": "대우건설",
+"second_ret": 4.69
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.25,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": 0.32,
+"second": "파미셀",
+"second_ret": -0.8
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.04,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": 3.58,
+"second": "이연제약",
+"second_ret": 0.75
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -0.5,
+"up5": 0,
+"lead": "에이프로젠",
+"lead_ret": 1.62,
+"second": "대웅제약",
+"second_ret": 1.12
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.51,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 1.69,
+"second": "서울제약",
+"second_ret": 0.76
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 0.54,
+"up5": 0,
+"lead": "GST",
+"lead_ret": 2.55,
+"second": "한익스프레스",
+"second_ret": 2.2
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 20.42,
+"value": 5828,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 29.98,
+"value": 1861,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 19.07,
+"value": 1340,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 25.39,
+"value": 921,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "KT지니뮤직",
+"code": "043610",
+"ret": 12.63,
+"value": 585,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

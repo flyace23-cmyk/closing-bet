@@ -1,0 +1,254 @@
+{
+"date": "20220104",
+"kospi": 0.02,
+"kosdaq": -0.59,
+"adv": 1142,
+"dec": 730,
+"flat": 186,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 216397,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "TPC로보틱스",
+"lead_ret": 29.87,
+"second": "우림피티에스",
+"second_ret": 29.77
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "네오티스",
+"lead_ret": 13.55,
+"second": "SG글로벌",
+"second_ret": 12.91
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "로스웰",
+"lead_ret": 29.93,
+"second": "네오티스",
+"second_ret": 13.55
+}
+],
+"themes": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 5.33,
+"up5": 6,
+"lead": "삼표시멘트",
+"lead_ret": 15.47,
+"second": "아세아시멘트",
+"second_ret": 14.34
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.9,
+"up5": 2,
+"lead": "KCC",
+"lead_ret": 25.4,
+"second": "노루홀딩스",
+"second_ret": 5.91
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.92,
+"up5": 2,
+"lead": "엔피케이",
+"lead_ret": 19.65,
+"second": "유진기업",
+"second_ret": 6.02
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.38,
+"up5": 2,
+"lead": "대한제강",
+"lead_ret": 8.18,
+"second": "KG스틸",
+"second_ret": 6.98
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 3.35,
+"up5": 3,
+"lead": "SG세계물산",
+"lead_ret": 29.9,
+"second": "삼표시멘트",
+"second_ret": 15.47
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 3.27,
+"up5": 4,
+"lead": "KCC",
+"lead_ret": 25.4,
+"second": "국보디자인",
+"second_ret": 10.64
+},
+{
+"name": "2차전지(장비)",
+"n": 34,
+"avg": 3.14,
+"up5": 9,
+"lead": "티에스아이",
+"lead_ret": 17.47,
+"second": "대보마그네틱",
+"second_ret": 9.99
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 3.11,
+"up5": 4,
+"lead": "셀바스헬스케어",
+"lead_ret": 18.85,
+"second": "제이엘케이",
+"second_ret": 15.37
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.04,
+"up5": 3,
+"lead": "지어소프트",
+"lead_ret": 8.27,
+"second": "케이씨피드",
+"second_ret": 6.8
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.97,
+"up5": 2,
+"lead": "TPC로보틱스",
+"lead_ret": 29.87,
+"second": "휴림로봇",
+"second_ret": 6.3
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 55,
+"avg": 2.92,
+"up5": 9,
+"lead": "TPC로보틱스",
+"lead_ret": 29.87,
+"second": "우림피티에스",
+"second_ret": 29.77
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.92,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 29.77,
+"second": "포스코인터내셔널",
+"second_ret": 3.78
+}
+],
+"themes_worst": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.7,
+"up5": 1,
+"lead": "핑거",
+"lead_ret": 5.46,
+"second": "삼성전자",
+"second_ret": 0.13
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -2.52,
+"up5": 0,
+"lead": "액토즈소프트",
+"lead_ret": 4.04,
+"second": "이스트소프트",
+"second_ret": 1.1
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -2.11,
+"up5": 2,
+"lead": "링크드",
+"lead_ret": 9.81,
+"second": "모비릭스",
+"second_ret": 6.8
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -2.08,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": 1.28,
+"second": "아이진",
+"second_ret": 0.73
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -2.0,
+"up5": 0,
+"lead": "휴온스글로벌",
+"lead_ret": 1.04,
+"second": "제테마",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "로보로보",
+"code": "215100",
+"ret": 25.8,
+"value": 3957,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "SKAI",
+"code": "357880",
+"ret": 29.83,
+"value": 3741,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "경남스틸",
+"code": "039240",
+"ret": 15.16,
+"value": 2734,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "KCC",
+"code": "002380",
+"ret": 25.4,
+"value": 2127,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "SG세계물산",
+"code": "004060",
+"ret": 29.9,
+"value": 1263,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+}
+],
+"backfilled": true
+}

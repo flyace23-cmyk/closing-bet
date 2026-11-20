@@ -1,0 +1,254 @@
+{
+"date": "20230421",
+"kospi": -0.73,
+"kosdaq": -1.91,
+"adv": 502,
+"dec": 1545,
+"flat": 102,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 230412,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "누보",
+"lead_ret": 29.96,
+"second": "에쓰씨엔지니어링",
+"second_ret": 29.88
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "비나텍",
+"lead_ret": 23.2,
+"second": "HD현대에너지솔루션",
+"second_ret": 7.46
+},
+{
+"name": "농업",
+"n": 3,
+"lead": "누보",
+"lead_ret": 29.96,
+"second": "아세아텍",
+"second_ret": 12.5
+}
+],
+"themes": [
+{
+"name": "비료",
+"n": 10,
+"avg": 3.79,
+"up5": 2,
+"lead": "누보",
+"lead_ret": 29.96,
+"second": "효성오앤비",
+"second_ret": 12.1
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.46,
+"up5": 1,
+"lead": "샘표",
+"lead_ret": 5.31,
+"second": "풀무원",
+"second_ret": 4.93
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.6,
+"up5": 4,
+"lead": "누보",
+"lead_ret": 29.96,
+"second": "아세아텍",
+"second_ret": 12.5
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 2.39,
+"up5": 5,
+"lead": "누보",
+"lead_ret": 29.96,
+"second": "에쓰씨엔지니어링",
+"second_ret": 29.88
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.39,
+"up5": 4,
+"lead": "한일사료",
+"lead_ret": 15.87,
+"second": "대한제당",
+"second_ret": 8.82
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.33,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 4.32,
+"second": "대우건설",
+"second_ret": 2.88
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 2.11,
+"up5": 2,
+"lead": "마음AI",
+"lead_ret": 18.26,
+"second": "HPSP",
+"second_ret": 9.43
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 1.8,
+"up5": 4,
+"lead": "한일사료",
+"lead_ret": 15.87,
+"second": "마니커",
+"second_ret": 7.53
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.66,
+"up5": 2,
+"lead": "이오테크닉스",
+"lead_ret": 8.22,
+"second": "기가레인",
+"second_ret": 6.1
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": 1.43,
+"up5": 1,
+"lead": "비나텍",
+"lead_ret": 23.2,
+"second": "범한퓨얼셀",
+"second_ret": 4.01
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 1.43,
+"up5": 2,
+"lead": "마니커",
+"lead_ret": 7.53,
+"second": "팜스토리",
+"second_ret": 6.05
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 1.1,
+"up5": 1,
+"lead": "대교",
+"lead_ret": 6.15,
+"second": "큐알티",
+"second_ret": 4.63
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -5.64,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -1.58,
+"second": "코텍",
+"second_ret": -2.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -5.64,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -1.58,
+"second": "코텍",
+"second_ret": -2.0
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -5.28,
+"up5": 0,
+"lead": "DGI",
+"lead_ret": 0.0,
+"second": "앤씨앤",
+"second_ret": -0.95
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.96,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.56,
+"second": "씨엑스아이",
+"second_ret": -1.09
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.93,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 3.8,
+"second": "엔켐",
+"second_ret": 0.55
+}
+],
+"leaders": [
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 29.78,
+"value": 6478,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 15.87,
+"value": 2953,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 11.07,
+"value": 1963,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "셀바스헬스케어",
+"code": "208370",
+"ret": 18.73,
+"value": 1952,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "마음AI",
+"code": "377480",
+"ret": 18.26,
+"value": 1617,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

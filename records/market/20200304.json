@@ -1,0 +1,254 @@
+{
+"date": "20200304",
+"kospi": 2.24,
+"kosdaq": 2.38,
+"adv": 1584,
+"dec": 213,
+"flat": 109,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 141673,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "라닉스",
+"lead_ret": 13.68,
+"second": "네패스",
+"second_ret": 9.49
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "제이엠티",
+"lead_ret": 12.24,
+"second": "필옵틱스",
+"second_ret": 10.26
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "모트렉스",
+"lead_ret": 20.89,
+"second": "라닉스",
+"second_ret": 13.68
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 4.9,
+"up5": 3,
+"lead": "엑세스바이오",
+"lead_ret": 25.82,
+"second": "팜젠사이언스",
+"second_ret": 13.95
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 4.85,
+"up5": 7,
+"lead": "루트K",
+"lead_ret": 29.93,
+"second": "앱클론",
+"second_ret": 21.35
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 4.41,
+"up5": 4,
+"lead": "네패스",
+"lead_ret": 9.49,
+"second": "에이디테크놀로지",
+"second_ret": 9.38
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 4.39,
+"up5": 2,
+"lead": "모트렉스",
+"lead_ret": 20.89,
+"second": "아이에이",
+"second_ret": 6.51
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 4.17,
+"up5": 10,
+"lead": "라닉스",
+"lead_ret": 13.68,
+"second": "네패스",
+"second_ret": 9.49
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.95,
+"up5": 3,
+"lead": "큐에스아이",
+"lead_ret": 7.26,
+"second": "루멘스바이오스",
+"second_ret": 5.77
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 3.89,
+"up5": 2,
+"lead": "엘앤에프",
+"lead_ret": 8.61,
+"second": "브이티",
+"second_ret": 7.17
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 3.84,
+"up5": 3,
+"lead": "테스",
+"lead_ret": 6.74,
+"second": "아이에이",
+"second_ret": 6.51
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 3.81,
+"up5": 12,
+"lead": "모트렉스",
+"lead_ret": 20.89,
+"second": "라닉스",
+"second_ret": 13.68
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 3.78,
+"up5": 5,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.86,
+"second": "웨이브일렉트로",
+"second_ret": 10.56
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 3.73,
+"up5": 5,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.86,
+"second": "웨이브일렉트로",
+"second_ret": 10.56
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": 3.65,
+"up5": 2,
+"lead": "포니링크",
+"lead_ret": 6.45,
+"second": "NC",
+"second_ret": 6.04
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -0.71,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 1.33,
+"second": "풀무원",
+"second_ret": 0.46
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.09,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 2.77,
+"second": "코리안리",
+"second_ret": 2.03
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.07,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 1.33,
+"second": "동원산업",
+"second_ret": 0.78
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.03,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 1.96,
+"second": "극동유화",
+"second_ret": 1.07
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 0.24,
+"up5": 1,
+"lead": "유에스티",
+"lead_ret": 5.5,
+"second": "휴스틸",
+"second_ret": 2.03
+}
+],
+"leaders": [
+{
+"name": "메디톡스",
+"code": "086900",
+"ret": 14.51,
+"value": 1239,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "엑세스바이오",
+"code": "950130",
+"ret": 25.82,
+"value": 1132,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "모트렉스",
+"code": "118990",
+"ret": 20.89,
+"value": 917,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "라닉스",
+"code": "317120",
+"ret": 13.68,
+"value": 726,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "케이프",
+"code": "064820",
+"ret": 29.88,
+"value": 384,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

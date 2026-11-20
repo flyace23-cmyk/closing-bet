@@ -1,0 +1,238 @@
+{
+"date": "20231020",
+"kospi": -1.69,
+"kosdaq": -1.89,
+"adv": 339,
+"dec": 1783,
+"flat": 77,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 151119,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "테크윙",
+"lead_ret": 7.86,
+"second": "에이디테크놀로지",
+"second_ret": 6.73
+}
+],
+"themes": [
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.39,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 24.97,
+"second": "오리엔트정공",
+"second_ret": 4.33
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.18,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 3.17,
+"second": "대우건설",
+"second_ret": 1.75
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 1.13,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 24.97,
+"second": "LG화학",
+"second_ret": -3.04
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 0.56,
+"up5": 1,
+"lead": "SNT에너지",
+"lead_ret": 30.01,
+"second": "E1",
+"second_ret": 0.49
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 0.52,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 20.28,
+"second": "자연과환경",
+"second_ret": 0.0
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 0.52,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 20.28,
+"second": "자연과환경",
+"second_ret": 0.0
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 0.43,
+"up5": 1,
+"lead": "한국알콜",
+"lead_ret": 21.99,
+"second": "MH에탄올",
+"second_ret": 2.6
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 0.28,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 20.28,
+"second": "일성건설",
+"second_ret": 8.09
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 0.07,
+"up5": 3,
+"lead": "더코디",
+"lead_ret": 10.6,
+"second": "신라젠",
+"second_ret": 9.77
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.05,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 8.26,
+"second": "경동도시가스",
+"second_ret": 1.22
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.16,
+"up5": 0,
+"lead": "JTC",
+"lead_ret": 3.97,
+"second": "글로벌텍스프리",
+"second_ret": 0.39
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -0.22,
+"up5": 2,
+"lead": "대성미생물",
+"lead_ret": 11.69,
+"second": "태경비케이",
+"second_ret": 6.55
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -6.89,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -3.33,
+"second": "팬오션",
+"second_ret": -5.51
+},
+{
+"name": "골프",
+"n": 14,
+"avg": -5.62,
+"up5": 0,
+"lead": "베뉴지",
+"lead_ret": 2.58,
+"second": "남화산업",
+"second_ret": 0.16
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -4.36,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": -0.68,
+"second": "롯데정밀화학",
+"second_ret": -0.73
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.08,
+"up5": 1,
+"lead": "강원에너지",
+"lead_ret": 5.0,
+"second": "성일하이텍",
+"second_ret": 0.2
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -4.05,
+"up5": 0,
+"lead": "더블유씨피",
+"lead_ret": -2.19,
+"second": "에코프로비엠",
+"second_ret": -2.51
+}
+],
+"leaders": [
+{
+"name": "이랜시스",
+"code": "264850",
+"ret": 23.18,
+"value": 2308,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "상보",
+"code": "027580",
+"ret": 24.97,
+"value": 1356,
+"theme": "탄소나노튜브(CNT)",
+"reason": "테마: 탄소나노튜브(CNT)"
+},
+{
+"name": "SNT에너지",
+"code": "100840",
+"ret": 30.01,
+"value": 1303,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "한국알콜",
+"code": "017890",
+"ret": 21.99,
+"value": 1267,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 14.81,
+"value": 1009,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20221014",
+"kospi": 2.3,
+"kosdaq": 4.09,
+"adv": 1940,
+"dec": 101,
+"flat": 63,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 110133,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "휴마시스",
+"lead_ret": 29.82,
+"second": "앱클론",
+"second_ret": 29.74
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "신라젠",
+"lead_ret": 29.96,
+"second": "앱클론",
+"second_ret": 29.74
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "대성하이텍",
+"lead_ret": 20.29,
+"second": "빅텍",
+"second_ret": 16.88
+}
+],
+"themes": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 7.09,
+"up5": 24,
+"lead": "위메이드맥스",
+"lead_ret": 30.0,
+"second": "위메이드플레이",
+"second_ret": 12.16
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 7.02,
+"up5": 15,
+"lead": "앱클론",
+"lead_ret": 29.74,
+"second": "인바이오젠",
+"second_ret": 13.65
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 7.02,
+"up5": 17,
+"lead": "신라젠",
+"lead_ret": 29.96,
+"second": "앱클론",
+"second_ret": 29.74
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 6.92,
+"up5": 18,
+"lead": "위메이드맥스",
+"lead_ret": 30.0,
+"second": "위메이드",
+"second_ret": 11.6
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.68,
+"up5": 5,
+"lead": "아주IB투자",
+"lead_ret": 7.58,
+"second": "SBI인베스트먼트",
+"second_ret": 7.07
+},
+{
+"name": "면역항암제",
+"n": 29,
+"avg": 6.63,
+"up5": 16,
+"lead": "신라젠",
+"lead_ret": 29.96,
+"second": "앱클론",
+"second_ret": 29.74
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 6.37,
+"up5": 31,
+"lead": "휴마시스",
+"lead_ret": 29.82,
+"second": "앱클론",
+"second_ret": 29.74
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 6.24,
+"up5": 12,
+"lead": "FSN",
+"lead_ret": 13.45,
+"second": "위메이드",
+"second_ret": 11.6
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 6.23,
+"up5": 16,
+"lead": "인바이오젠",
+"lead_ret": 13.65,
+"second": "FSN",
+"second_ret": 13.45
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 6.05,
+"up5": 14,
+"lead": "휴마시스",
+"lead_ret": 29.82,
+"second": "수젠텍",
+"second_ret": 17.13
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 5.97,
+"up5": 10,
+"lead": "제일약품",
+"lead_ret": 15.09,
+"second": "메타케어",
+"second_ret": 8.74
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 5.9,
+"up5": 5,
+"lead": "NHN벅스",
+"lead_ret": 10.0,
+"second": "카카오",
+"second_ret": 8.67
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": 0.95,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 1.72,
+"second": "신세계",
+"second_ret": 1.54
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 1.18,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 4.98,
+"second": "오로라",
+"second_ret": 2.05
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.21,
+"up5": 0,
+"lead": "JTC",
+"lead_ret": 3.51,
+"second": "글로벌텍스프리",
+"second_ret": 2.57
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 1.37,
+"up5": 1,
+"lead": "현대바이오랜드",
+"lead_ret": 7.48,
+"second": "덴티스",
+"second_ret": 3.55
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.37,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 2.8,
+"second": "현대위아",
+"second_ret": 2.33
+}
+],
+"leaders": [
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 14.18,
+"value": 2986,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "신라젠",
+"code": "215600",
+"ret": 29.96,
+"value": 1668,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 29.87,
+"value": 1018,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "MSDI",
+"code": "123010",
+"ret": 14.22,
+"value": 832,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 11.6,
+"value": 593,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+}
+],
+"backfilled": true
+}

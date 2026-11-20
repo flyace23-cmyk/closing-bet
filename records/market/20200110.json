@@ -1,0 +1,254 @@
+{
+"date": "20200110",
+"kospi": 0.91,
+"kosdaq": 1.04,
+"adv": 1222,
+"dec": 522,
+"flat": 158,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 108040,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "아진전자부품",
+"lead_ret": 15.31,
+"second": "유니크",
+"second_ret": 12.12
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "코스모화학",
+"lead_ret": 14.13,
+"second": "이노메트리",
+"second_ret": 8.33
+},
+{
+"name": "게임",
+"n": 3,
+"lead": "위메이드",
+"lead_ret": 13.41,
+"second": "손오공",
+"second_ret": 11.64
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.54,
+"up5": 2,
+"lead": "손오공",
+"lead_ret": 11.64,
+"second": "리튬포어스",
+"second_ret": 6.22
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 3.52,
+"up5": 3,
+"lead": "한국비엔씨",
+"lead_ret": 10.11,
+"second": "제테마",
+"second_ret": 8.69
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 3.48,
+"up5": 5,
+"lead": "코스모화학",
+"lead_ret": 14.13,
+"second": "포스코퓨처엠",
+"second_ret": 7.94
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": 3.28,
+"up5": 3,
+"lead": "현대바이오랜드",
+"lead_ret": 30.0,
+"second": "대웅제약",
+"second_ret": 6.51
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 18,
+"avg": 3.19,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 13.41,
+"second": "갤럭시아에스엠",
+"second_ret": 12.88
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 62,
+"avg": 3.12,
+"up5": 11,
+"lead": "아진전자부품",
+"lead_ret": 15.31,
+"second": "유니크",
+"second_ret": 12.12
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.1,
+"up5": 3,
+"lead": "지어소프트",
+"lead_ret": 7.74,
+"second": "DSC인베스트먼트",
+"second_ret": 6.8
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.73,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 7.1,
+"second": "에코프로",
+"second_ret": 2.88
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.73,
+"up5": 3,
+"lead": "한국비엔씨",
+"lead_ret": 10.11,
+"second": "제테마",
+"second_ret": 8.69
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 2.66,
+"up5": 2,
+"lead": "대주전자재료",
+"lead_ret": 8.24,
+"second": "코스모신소재",
+"second_ret": 5.54
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 2.66,
+"up5": 2,
+"lead": "대한과학",
+"lead_ret": 16.13,
+"second": "아이큐어",
+"second_ret": 5.99
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 2.65,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 13.41,
+"second": "손오공",
+"second_ret": 11.64
+}
+],
+"themes_worst": [
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.08,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 1.35,
+"second": "SK이노베이션",
+"second_ret": 0.36
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -0.9,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.75,
+"second": "대신정보통신",
+"second_ret": 0.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.82,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 1.35,
+"second": "SK이노베이션",
+"second_ret": 0.36
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.82,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 1.35,
+"second": "SK이노베이션",
+"second_ret": 0.36
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.69,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 0.77,
+"second": "유성티엔에스",
+"second_ret": -0.17
+}
+],
+"leaders": [
+{
+"name": "현대바이오랜드",
+"code": "052260",
+"ret": 30.0,
+"value": 3230,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "아진전자부품",
+"code": "009320",
+"ret": 15.31,
+"value": 843,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "유니크",
+"code": "011320",
+"ret": 12.12,
+"value": 791,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 14.13,
+"value": 486,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "대한과학",
+"code": "131220",
+"ret": 16.13,
+"value": 378,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

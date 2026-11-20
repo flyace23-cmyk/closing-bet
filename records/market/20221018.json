@@ -1,0 +1,254 @@
+{
+"date": "20221018",
+"kospi": 1.36,
+"kosdaq": 2.21,
+"adv": 1821,
+"dec": 192,
+"flat": 93,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 126181,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "휴마시스",
+"lead_ret": 24.52,
+"second": "앱클론",
+"second_ret": 16.89
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "톱텍",
+"lead_ret": 29.88,
+"second": "지아이텍",
+"second_ret": 24.36
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "이미지스",
+"lead_ret": 29.92,
+"second": "레몬",
+"second_ret": 20.16
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.29,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 14.45,
+"second": "그래디언트",
+"second_ret": 5.36
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.81,
+"up5": 5,
+"lead": "엑세스바이오",
+"lead_ret": 15.74,
+"second": "수젠텍",
+"second_ret": 9.39
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 4.72,
+"up5": 13,
+"lead": "휴마시스",
+"lead_ret": 24.52,
+"second": "엑세스바이오",
+"second_ret": 15.74
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 38,
+"avg": 4.59,
+"up5": 14,
+"lead": "엑세스바이오",
+"lead_ret": 15.74,
+"second": "랩지노믹스",
+"second_ret": 10.22
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 4.42,
+"up5": 13,
+"lead": "앱클론",
+"lead_ret": 16.89,
+"second": "엑세스바이오",
+"second_ret": 15.74
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 4.41,
+"up5": 10,
+"lead": "위메이드",
+"lead_ret": 16.71,
+"second": "위메이드맥스",
+"second_ret": 10.45
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 4.38,
+"up5": 2,
+"lead": "엑스플러스",
+"lead_ret": 17.9,
+"second": "NHN KCP",
+"second_ret": 5.98
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.37,
+"up5": 4,
+"lead": "현대건설",
+"lead_ret": 6.12,
+"second": "대우건설",
+"second_ret": 5.93
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 4.32,
+"up5": 3,
+"lead": "톱텍",
+"lead_ret": 29.88,
+"second": "레몬",
+"second_ret": 20.16
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 4.3,
+"up5": 12,
+"lead": "위메이드",
+"lead_ret": 16.71,
+"second": "위메이드맥스",
+"second_ret": 10.45
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 4.14,
+"up5": 17,
+"lead": "휴마시스",
+"lead_ret": 24.52,
+"second": "앱클론",
+"second_ret": 16.89
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.03,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 6.03,
+"second": "녹십자",
+"second_ret": 4.17
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -0.73,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": 1.0,
+"second": "SK하이닉스",
+"second_ret": 0.63
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.45,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.97,
+"second": "한화오션",
+"second_ret": 0.83
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": -0.29,
+"up5": 0,
+"lead": "대원화성",
+"lead_ret": 2.86,
+"second": "삼화전자",
+"second_ret": 2.64
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.13,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.63,
+"second": "삼성생명",
+"second_ret": 0.3
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 0.46,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": 1.28,
+"second": "샘표식품",
+"second_ret": 0.82
+}
+],
+"leaders": [
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 11.31,
+"value": 2305,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 16.71,
+"value": 1697,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "지아이텍",
+"code": "382480",
+"ret": 24.36,
+"value": 1133,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "iMBC",
+"code": "052220",
+"ret": 17.18,
+"value": 1018,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "위메이드맥스",
+"code": "101730",
+"ret": 10.45,
+"value": 928,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240607",
+"kospi": 1.23,
+"kosdaq": 1.81,
+"adv": 1082,
+"dec": 1014,
+"flat": 162,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 212389,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "에코프로머티",
+"lead_ret": 29.95,
+"second": "신성에스티",
+"second_ret": 22.44
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "우림피티에스",
+"lead_ret": 20.2,
+"second": "서암기계공업",
+"second_ret": 13.43
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "에스티팜",
+"lead_ret": 15.49,
+"second": "피에스케이홀딩스",
+"second_ret": 15.48
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 9.72,
+"up5": 3,
+"lead": "우양",
+"lead_ret": 29.93,
+"second": "CJ씨푸드",
+"second_ret": 19.76
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 6.15,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 29.9,
+"second": "녹십자",
+"second_ret": 1.18
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.8,
+"up5": 2,
+"lead": "아주IB투자",
+"lead_ret": 10.61,
+"second": "SBI인베스트먼트",
+"second_ret": 7.49
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.75,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 29.9,
+"second": "JW중외제약",
+"second_ret": 0.17
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 4.3,
+"up5": 3,
+"lead": "CJ씨푸드",
+"lead_ret": 19.76,
+"second": "사조씨푸드",
+"second_ret": 9.26
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.23,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 13.93,
+"second": "SK하이닉스",
+"second_ret": 7.12
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.93,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 15.35,
+"second": "인성정보",
+"second_ret": 10.57
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.69,
+"up5": 1,
+"lead": "에스티팜",
+"lead_ret": 15.49,
+"second": "엔투텍",
+"second_ret": 4.34
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.44,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 29.93,
+"second": "DSC인베스트먼트",
+"second_ret": 2.79
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.4,
+"up5": 5,
+"lead": "에이프로젠",
+"lead_ret": 15.83,
+"second": "알테오젠",
+"second_ret": 13.03
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.33,
+"up5": 3,
+"lead": "메가터치",
+"lead_ret": 9.79,
+"second": "에코프로비엠",
+"second_ret": 9.36
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.24,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 7.74,
+"second": "대한해운",
+"second_ret": 5.7
+}
+],
+"themes_worst": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -6.98,
+"up5": 0,
+"lead": "삼현철강",
+"lead_ret": -0.57,
+"second": "디케이락",
+"second_ret": -1.03
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -5.13,
+"up5": 0,
+"lead": "인천도시가스",
+"lead_ret": 0.19,
+"second": "INVENI",
+"second_ret": -1.4
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -4.13,
+"up5": 0,
+"lead": "넥스틸",
+"lead_ret": 3.63,
+"second": "이렘",
+"second_ret": 0.49
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.67,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.7,
+"second": "SK이노베이션",
+"second_ret": 0.19
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.67,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.7,
+"second": "SK이노베이션",
+"second_ret": 0.19
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 13.03,
+"value": 7688,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 29.95,
+"value": 7594,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "SK",
+"code": "034730",
+"ret": 10.98,
+"value": 3363,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "원익QnC",
+"code": "074600",
+"ret": 15.68,
+"value": 2168,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 29.91,
+"value": 1913,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+}
+],
+"backfilled": true
+}

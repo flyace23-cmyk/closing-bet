@@ -1,0 +1,254 @@
+{
+"date": "20200427",
+"kospi": 1.79,
+"kosdaq": 2.2,
+"adv": 1508,
+"dec": 270,
+"flat": 132,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 177403,
+"hot": [
+{
+"name": "지주사",
+"n": 5,
+"lead": "DRB동일",
+"lead_ret": 22.94,
+"second": "골프존홀딩스",
+"second_ret": 20.07
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "GC메디아이",
+"lead_ret": 25.81,
+"second": "인피니트헬스케어",
+"second_ret": 19.26
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "에이프로젠바이오로직스",
+"lead_ret": 29.99,
+"second": "이연제약",
+"second_ret": 15.1
+}
+],
+"themes": [
+{
+"name": "편의점",
+"n": 5,
+"avg": 8.81,
+"up5": 4,
+"lead": "GS리테일",
+"lead_ret": 16.62,
+"second": "이마트",
+"second_ret": 10.14
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 8.32,
+"up5": 8,
+"lead": "하나금융지주",
+"lead_ret": 16.85,
+"second": "신한지주",
+"second_ret": 10.5
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 6.77,
+"up5": 8,
+"lead": "GC메디아이",
+"lead_ret": 25.81,
+"second": "인피니트헬스케어",
+"second_ret": 19.26
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 6.46,
+"up5": 3,
+"lead": "KNN",
+"lead_ret": 29.73,
+"second": "디지틀조선",
+"second_ret": 20.9
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 6.45,
+"up5": 4,
+"lead": "인성정보",
+"lead_ret": 15.4,
+"second": "링네트",
+"second_ret": 11.31
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 6.24,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 16.11,
+"second": "사조대림",
+"second_ret": 6.27
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 5.44,
+"up5": 3,
+"lead": "골프존",
+"lead_ret": 27.67,
+"second": "골프존홀딩스",
+"second_ret": 20.07
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 5.42,
+"up5": 1,
+"lead": "롯데쇼핑",
+"lead_ret": 14.05,
+"second": "신세계",
+"second_ret": 4.93
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 5.4,
+"up5": 6,
+"lead": "GS리테일",
+"lead_ret": 16.62,
+"second": "롯데쇼핑",
+"second_ret": 14.05
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 5.38,
+"up5": 1,
+"lead": "하나금융지주",
+"lead_ret": 16.85,
+"second": "한화투자증권",
+"second_ret": 4.26
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 5.28,
+"up5": 3,
+"lead": "린드먼아시아",
+"lead_ret": 29.86,
+"second": "미래에셋벤처투자",
+"second_ret": 16.0
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 5.02,
+"up5": 3,
+"lead": "우양",
+"lead_ret": 16.11,
+"second": "미래에셋벤처투자",
+"second_ret": 16.0
+}
+],
+"themes_worst": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.4,
+"up5": 1,
+"lead": "파마리서치",
+"lead_ret": 5.56,
+"second": "휴온스",
+"second_ret": 1.14
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.31,
+"up5": 1,
+"lead": "파마리서치",
+"lead_ret": 5.56,
+"second": "하이로닉",
+"second_ret": 2.93
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -0.13,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 1.32,
+"second": "엔투텍",
+"second_ret": 1.25
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 0.29,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 3.17,
+"second": "한국선재",
+"second_ret": 2.06
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 0.32,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": 4.42,
+"second": "현대제철",
+"second_ret": 3.17
+}
+],
+"leaders": [
+{
+"name": "GC메디아이",
+"code": "032620",
+"ret": 25.81,
+"value": 3136,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "하나금융지주",
+"code": "086790",
+"ret": 16.85,
+"value": 1810,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 12.18,
+"value": 1769,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "신한지주",
+"code": "055550",
+"ret": 10.5,
+"value": 1578,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "에이프로젠바이오로직스",
+"code": "003060",
+"ret": 29.99,
+"value": 1492,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

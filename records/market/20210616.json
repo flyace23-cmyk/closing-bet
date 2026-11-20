@@ -1,0 +1,246 @@
+{
+"date": "20210616",
+"kospi": 0.62,
+"kosdaq": 0.11,
+"adv": 1053,
+"dec": 737,
+"flat": 221,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 237330,
+"hot": [
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "한전산업",
+"lead_ret": 29.82,
+"second": "서전기전",
+"second_ret": 16.72
+},
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "정원엔시스",
+"lead_ret": 19.52,
+"second": "데이타솔루션",
+"second_ret": 14.65
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 4.8,
+"up5": 2,
+"lead": "대원전선",
+"lead_ret": 24.3,
+"second": "일진전기",
+"second_ret": 7.38
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 4.42,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.93,
+"second": "누리플랜",
+"second_ret": 24.71
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 4.31,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 29.93,
+"second": "제이씨케미칼",
+"second_ret": 8.25
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 4.31,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 29.93,
+"second": "제이씨케미칼",
+"second_ret": 8.25
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 4.29,
+"up5": 5,
+"lead": "한전산업",
+"lead_ret": 29.82,
+"second": "대원전선",
+"second_ret": 24.3
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.91,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 29.93,
+"second": "에스와이",
+"second_ret": 1.82
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 3.16,
+"up5": 7,
+"lead": "한전산업",
+"lead_ret": 29.82,
+"second": "서전기전",
+"second_ret": 16.72
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.16,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 14.7,
+"second": "신세계",
+"second_ret": 1.33
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.06,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 6.07,
+"second": "오픈베이스",
+"second_ret": 5.22
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 19,
+"avg": 3.06,
+"up5": 3,
+"lead": "한전산업",
+"lead_ret": 29.82,
+"second": "서전기전",
+"second_ret": 16.72
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.05,
+"up5": 3,
+"lead": "태경케미컬",
+"lead_ret": 22.29,
+"second": "서울식품",
+"second_ret": 16.22
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.01,
+"up5": 2,
+"lead": "우진",
+"lead_ret": 10.1,
+"second": "우리기술",
+"second_ret": 6.67
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.3,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 0.0,
+"second": "일신바이오",
+"second_ret": 0.0
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.04,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 1.33,
+"second": "한국정보통신",
+"second_ret": 0.11
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.0,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -0.46,
+"second": "녹십자",
+"second_ret": -0.61
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -0.97,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 1.03,
+"second": "코콤",
+"second_ret": 0.21
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.7,
+"up5": 0,
+"lead": "하이로닉",
+"lead_ret": 4.08,
+"second": "파마리서치",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 24.3,
+"value": 5819,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 29.82,
+"value": 4048,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 16.39,
+"value": 3926,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "서울식품",
+"code": "004410",
+"ret": 16.22,
+"value": 3129,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "태경케미컬",
+"code": "006890",
+"ret": 22.29,
+"value": 2799,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+}
+],
+"backfilled": true
+}

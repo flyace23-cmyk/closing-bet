@@ -1,0 +1,246 @@
+{
+"date": "20231214",
+"kospi": 1.34,
+"kosdaq": 1.36,
+"adv": 1125,
+"dec": 947,
+"flat": 153,
+"limit_up": 9,
+"limit_down": 1,
+"value_total": 228085,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "네오셈",
+"lead_ret": 14.87,
+"second": "와이씨",
+"second_ret": 12.0
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "엘앤에프",
+"lead_ret": 10.73,
+"second": "성일하이텍",
+"second_ret": 10.55
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 6.12,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 19.2,
+"second": "지씨셀",
+"second_ret": 6.72
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 5.27,
+"up5": 3,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 17.2,
+"second": "야스",
+"second_ret": 9.03
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.95,
+"up5": 7,
+"lead": "아이진",
+"lead_ret": 29.94,
+"second": "강스템바이오텍",
+"second_ret": 19.2
+},
+{
+"name": "창투사",
+"n": 18,
+"avg": 3.95,
+"up5": 4,
+"lead": "스톤브릿지벤처스",
+"lead_ret": 29.85,
+"second": "컴퍼니케이",
+"second_ret": 29.84
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.75,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 19.2,
+"second": "JW중외제약",
+"second_ret": 1.88
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.63,
+"up5": 2,
+"lead": "오킨스전자",
+"lead_ret": 29.96,
+"second": "네오셈",
+"second_ret": 14.87
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.03,
+"up5": 3,
+"lead": "우리기술투자",
+"lead_ret": 7.15,
+"second": "카카오",
+"second_ret": 6.68
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 2.99,
+"up5": 4,
+"lead": "코어라인소프트",
+"lead_ret": 29.98,
+"second": "딥노이드",
+"second_ret": 5.87
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.67,
+"up5": 4,
+"lead": "강스템바이오텍",
+"lead_ret": 19.2,
+"second": "에스바이오메딕스",
+"second_ret": 9.19
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.6,
+"up5": 5,
+"lead": "성일하이텍",
+"lead_ret": 10.55,
+"second": "포스코퓨처엠",
+"second_ret": 7.53
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.54,
+"up5": 1,
+"lead": "아이진",
+"lead_ret": 29.94,
+"second": "한미사이언스",
+"second_ret": 2.77
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.49,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 10.47,
+"second": "금호석유화학",
+"second_ret": 1.98
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -3.1,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 4.0,
+"second": "TS인베스트먼트",
+"second_ret": 0.46
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -2.07,
+"up5": 0,
+"lead": "한솔홀딩스",
+"lead_ret": 0.7,
+"second": "인선이엔티",
+"second_ret": 0.68
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.98,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.94,
+"second": "한화생명",
+"second_ret": 0.94
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -1.64,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.94,
+"second": "하나금융지주",
+"second_ret": 0.48
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": -1.19,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 1.56,
+"second": "HL D&I",
+"second_ret": 0.98
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 16.57,
+"value": 3851,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 14.87,
+"value": 3415,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 11.07,
+"value": 2754,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 12.0,
+"value": 2166,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "코어라인소프트",
+"code": "384470",
+"ret": 29.98,
+"value": 1913,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

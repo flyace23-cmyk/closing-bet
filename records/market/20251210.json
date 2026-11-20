@@ -1,0 +1,254 @@
+{
+"date": "20251210",
+"kospi": -0.21,
+"kosdaq": 0.39,
+"adv": 803,
+"dec": 1459,
+"flat": 129,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 212426,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.94,
+"second": "메디아나",
+"second_ret": 22.93
+},
+{
+"name": "의료AI",
+"n": 4,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.94,
+"second": "메디아나",
+"second_ret": 22.93
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 3,
+"lead": "셀바스AI",
+"lead_ret": 20.4,
+"second": "다날",
+"second_ret": 11.01
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 7.44,
+"up5": 2,
+"lead": "동양고속",
+"lead_ret": 29.96,
+"second": "대성산업",
+"second_ret": 15.79
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 3.78,
+"up5": 7,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.94,
+"second": "메디아나",
+"second_ret": 22.93
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.74,
+"up5": 3,
+"lead": "성호전자",
+"lead_ret": 24.75,
+"second": "RFHIC",
+"second_ret": 7.61
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 2.18,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 11.01,
+"second": "NHN벅스",
+"second_ret": 8.32
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 2.14,
+"up5": 2,
+"lead": "아이티센글로벌",
+"lead_ret": 17.05,
+"second": "토마토시스템",
+"second_ret": 5.2
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.06,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 15.79,
+"second": "우양피앤엘",
+"second_ret": 13.66
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 2.05,
+"up5": 3,
+"lead": "동양고속",
+"lead_ret": 29.96,
+"second": "대성산업",
+"second_ret": 15.79
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 2.03,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 19.38,
+"second": "드림씨아이에스",
+"second_ret": 3.47
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": 1.75,
+"up5": 1,
+"lead": "성호전자",
+"lead_ret": 24.75,
+"second": "케이웨더",
+"second_ret": 3.64
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 1.65,
+"up5": 3,
+"lead": "나이벡",
+"lead_ret": 12.7,
+"second": "그래피",
+"second_ret": 12.65
+},
+{
+"name": "비만치료제",
+"n": 37,
+"avg": 1.58,
+"up5": 7,
+"lead": "나이벡",
+"lead_ret": 12.7,
+"second": "일동제약",
+"second_ret": 9.43
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 1.52,
+"up5": 2,
+"lead": "세아베스틸지주",
+"lead_ret": 14.03,
+"second": "모델솔루션",
+"second_ret": 10.25
+}
+],
+"themes_worst": [
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -2.32,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 0.97,
+"second": "두산에너빌리티",
+"second_ret": 0.13
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.96,
+"up5": 0,
+"lead": "한국팩키지",
+"lead_ret": -0.05,
+"second": "세림B&G",
+"second_ret": -0.26
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -1.87,
+"up5": 0,
+"lead": "KS인더스트리",
+"lead_ret": 3.26,
+"second": "대창솔루션",
+"second_ret": 0.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.69,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -0.38,
+"second": "코텍",
+"second_ret": -0.55
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.69,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -0.38,
+"second": "코텍",
+"second_ret": -0.55
+}
+],
+"leaders": [
+{
+"name": "동양고속",
+"code": "084670",
+"ret": 29.96,
+"value": 1849,
+"theme": "서울고속버스터미널 재개발 수혜",
+"reason": "테마: 서울고속버스터미널 재개발 수혜"
+},
+{
+"name": "바이젠셀",
+"code": "308080",
+"ret": 19.16,
+"value": 1624,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 15.79,
+"value": 1430,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "아이티센글로벌",
+"code": "124500",
+"ret": 17.05,
+"value": 1398,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 24.75,
+"value": 1316,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+}
+],
+"backfilled": true
+}

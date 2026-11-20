@@ -1,0 +1,254 @@
+{
+"date": "20250324",
+"kospi": -0.42,
+"kosdaq": 0.11,
+"adv": 1025,
+"dec": 1164,
+"flat": 156,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 114010,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "모티브링크",
+"lead_ret": 13.05,
+"second": "화신",
+"second_ret": 11.74
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 29.75,
+"second": "HLB글로벌",
+"second_ret": 15.18
+},
+{
+"name": "줄기세포",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 29.75,
+"second": "HLB생명과학",
+"second_ret": 17.36
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 7.73,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 29.96,
+"second": "흥아해운",
+"second_ret": 9.71
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.13,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 5.78,
+"second": "현대모비스",
+"second_ret": 4.88
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.02,
+"up5": 3,
+"lead": "휴니드",
+"lead_ret": 26.26,
+"second": "한화에어로스페이스",
+"second_ret": 7.48
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 2.76,
+"up5": 3,
+"lead": "네이처셀",
+"lead_ret": 29.75,
+"second": "HLB생명과학",
+"second_ret": 17.36
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 2.6,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 29.96,
+"second": "현대글로비스",
+"second_ret": 5.62
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 13,
+"avg": 2.24,
+"up5": 2,
+"lead": "덴티스",
+"lead_ret": 18.38,
+"second": "덴티움",
+"second_ret": 6.06
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": 2.22,
+"up5": 1,
+"lead": "토모큐브",
+"lead_ret": 8.33,
+"second": "강스템바이오텍",
+"second_ret": 3.9
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 1.48,
+"up5": 3,
+"lead": "네이처셀",
+"lead_ret": 29.75,
+"second": "HLB제약",
+"second_ret": 24.27
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.44,
+"up5": 1,
+"lead": "서울보증보험",
+"lead_ret": 5.12,
+"second": "한화손해보험",
+"second_ret": 4.39
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.43,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 4.08,
+"second": "소마젠",
+"second_ret": 3.27
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 1.42,
+"up5": 1,
+"lead": "바이넥스",
+"lead_ret": 10.16,
+"second": "프레스티지바이오파마",
+"second_ret": 4.32
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.36,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 5.06,
+"second": "옴니시스템",
+"second_ret": 2.35
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -5.02,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": 2.65,
+"second": "아이티센글로벌",
+"second_ret": 0.31
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -3.22,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.31,
+"second": "대성창투",
+"second_ret": 0.17
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -2.84,
+"up5": 0,
+"lead": "우리기술투자",
+"lead_ret": 2.04,
+"second": "한화투자증권",
+"second_ret": 1.01
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.34,
+"up5": 0,
+"lead": "부국철강",
+"lead_ret": 2.01,
+"second": "엔케이",
+"second_ret": 1.18
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.02,
+"up5": 0,
+"lead": "대보마그네틱",
+"lead_ret": 2.12,
+"second": "앱튼",
+"second_ret": 1.18
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 15.48,
+"value": 3285,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "휴니드",
+"code": "005870",
+"ret": 26.26,
+"value": 1216,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "모티브링크",
+"code": "463480",
+"ret": 13.05,
+"value": 1194,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "STX그린로지스",
+"code": "465770",
+"ret": 29.96,
+"value": 1033,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "HLB제약",
+"code": "047920",
+"ret": 24.27,
+"value": 1025,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

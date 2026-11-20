@@ -1,0 +1,254 @@
+{
+"date": "20230306",
+"kospi": 1.26,
+"kosdaq": 1.76,
+"adv": 1125,
+"dec": 890,
+"flat": 125,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 212049,
+"hot": [
+{
+"name": "2차전지",
+"n": 14,
+"lead": "나라엠앤디",
+"lead_ret": 23.22,
+"second": "에코프로비엠",
+"second_ret": 19.17
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "미코",
+"lead_ret": 17.53,
+"second": "해성디에스",
+"second_ret": 17.52
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "한울반도체",
+"lead_ret": 17.06,
+"second": "나래나노텍",
+"second_ret": 10.88
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 5.58,
+"up5": 4,
+"lead": "한울반도체",
+"lead_ret": 17.06,
+"second": "코스모신소재",
+"second_ret": 10.37
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 5.35,
+"up5": 3,
+"lead": "에코프로비엠",
+"lead_ret": 19.17,
+"second": "삼성SDI",
+"second_ret": 6.84
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 5.24,
+"up5": 4,
+"lead": "에코프로에이치엔",
+"lead_ret": 29.83,
+"second": "미코",
+"second_ret": 17.53
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 4.72,
+"up5": 3,
+"lead": "미코",
+"lead_ret": 17.53,
+"second": "엘티씨",
+"second_ret": 11.89
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": 4.69,
+"up5": 3,
+"lead": "대덕전자",
+"lead_ret": 9.55,
+"second": "엠케이전자",
+"second_ret": 8.55
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.19,
+"up5": 8,
+"lead": "미코",
+"lead_ret": 17.53,
+"second": "이브이첨단소재",
+"second_ret": 16.56
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.93,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 5.63,
+"second": "앤씨앤",
+"second_ret": 5.33
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 29,
+"avg": 3.91,
+"up5": 9,
+"lead": "이브이첨단소재",
+"lead_ret": 16.56,
+"second": "비에이치",
+"second_ret": 9.78
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.89,
+"up5": 5,
+"lead": "대덕전자",
+"lead_ret": 9.55,
+"second": "코리아써키트",
+"second_ret": 5.53
+},
+{
+"name": "2차전지",
+"n": 120,
+"avg": 3.81,
+"up5": 34,
+"lead": "나라엠앤디",
+"lead_ret": 23.22,
+"second": "에코프로비엠",
+"second_ret": 19.17
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 3.79,
+"up5": 10,
+"lead": "한울반도체",
+"lead_ret": 17.06,
+"second": "강원에너지",
+"second_ret": 13.25
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.65,
+"up5": 3,
+"lead": "탑머티리얼",
+"lead_ret": 16.79,
+"second": "코윈로보틱스",
+"second_ret": 9.94
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.09,
+"up5": 0,
+"lead": "포스코스틸리온",
+"lead_ret": 1.66,
+"second": "한국철강",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.96,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": -1.13,
+"second": "대한해운",
+"second_ret": -1.63
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -1.91,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 4.9,
+"second": "대동금속",
+"second_ret": 0.89
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.72,
+"up5": 0,
+"lead": "레드캡투어",
+"lead_ret": 0.91,
+"second": "그래디언트",
+"second_ret": -0.19
+},
+{
+"name": "광고",
+"n": 20,
+"avg": -1.69,
+"up5": 0,
+"lead": "컴투스엔",
+"lead_ret": 3.08,
+"second": "YG PLUS",
+"second_ret": 2.23
+}
+],
+"leaders": [
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 19.17,
+"value": 17489,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 29.92,
+"value": 5314,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 29.84,
+"value": 5144,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "미코",
+"code": "059090",
+"ret": 17.53,
+"value": 3687,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 20.15,
+"value": 3070,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

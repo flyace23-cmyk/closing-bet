@@ -1,0 +1,254 @@
+{
+"date": "20200702",
+"kospi": 1.36,
+"kosdaq": 2.06,
+"adv": 1460,
+"dec": 307,
+"flat": 152,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 204291,
+"hot": [
+{
+"name": "음원/음반",
+"n": 4,
+"lead": "YG PLUS",
+"lead_ret": 29.9,
+"second": "KT지니뮤직",
+"second_ret": 15.25
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "코디",
+"lead_ret": 20.47,
+"second": "잇츠한불",
+"second_ret": 13.03
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "SBI인베스트먼트",
+"lead_ret": 29.93,
+"second": "티사이언티픽",
+"second_ret": 16.36
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 8.01,
+"up5": 7,
+"lead": "YG PLUS",
+"lead_ret": 29.9,
+"second": "KT지니뮤직",
+"second_ret": 15.25
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.97,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 29.93,
+"second": "그래디언트",
+"second_ret": 2.2
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 5.39,
+"up5": 13,
+"lead": "NEW",
+"lead_ret": 15.45,
+"second": "KT지니뮤직",
+"second_ret": 15.25
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 4.72,
+"up5": 3,
+"lead": "NEW",
+"lead_ret": 15.45,
+"second": "콘텐트리중앙",
+"second_ret": 6.58
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 4.68,
+"up5": 7,
+"lead": "SBI인베스트먼트",
+"lead_ret": 29.93,
+"second": "티사이언티픽",
+"second_ret": 16.36
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 28,
+"avg": 4.55,
+"up5": 9,
+"lead": "티사이언티픽",
+"lead_ret": 16.36,
+"second": "KT지니뮤직",
+"second_ret": 15.25
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 30,
+"avg": 4.29,
+"up5": 12,
+"lead": "웹젠",
+"lead_ret": 15.7,
+"second": "엠게임",
+"second_ret": 10.98
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 4.27,
+"up5": 5,
+"lead": "키다리스튜디오",
+"lead_ret": 11.86,
+"second": "미스터블루",
+"second_ret": 7.3
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.27,
+"up5": 3,
+"lead": "SBI인베스트먼트",
+"lead_ret": 29.93,
+"second": "스틱인베스트먼트",
+"second_ret": 6.64
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 4.18,
+"up5": 9,
+"lead": "NEW",
+"lead_ret": 15.45,
+"second": "SM C&C",
+"second_ret": 8.36
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 3.97,
+"up5": 9,
+"lead": "웹젠",
+"lead_ret": 15.7,
+"second": "엠게임",
+"second_ret": 10.98
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.97,
+"up5": 2,
+"lead": "KNN",
+"lead_ret": 21.71,
+"second": "콘텐트리중앙",
+"second_ret": 6.58
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.67,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.18,
+"second": "TKG휴켐스",
+"second_ret": 0.31
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": -0.54,
+"up5": 0,
+"lead": "대원화성",
+"lead_ret": 2.46,
+"second": "고려아연",
+"second_ret": 2.12
+},
+{
+"name": "탈모 치료",
+"n": 19,
+"avg": -0.17,
+"up5": 0,
+"lead": "바이오니아",
+"lead_ret": 3.14,
+"second": "메타케어",
+"second_ret": 2.95
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 0.04,
+"up5": 0,
+"lead": "상상인증권",
+"lead_ret": 2.97,
+"second": "DB증권",
+"second_ret": 1.26
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 0.05,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 2.3,
+"second": "HD현대에너지솔루션",
+"second_ret": 1.16
+}
+],
+"leaders": [
+{
+"name": "웹젠",
+"code": "069080",
+"ret": 15.7,
+"value": 3284,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "KNN",
+"code": "058400",
+"ret": 21.71,
+"value": 3253,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 13.26,
+"value": 1903,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "와이지엔터테인먼트",
+"code": "122870",
+"ret": 10.81,
+"value": 1453,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 29.9,
+"value": 1393,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

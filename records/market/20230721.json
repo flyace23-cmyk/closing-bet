@@ -1,0 +1,254 @@
+{
+"date": "20230721",
+"kospi": 0.37,
+"kosdaq": 0.32,
+"adv": 717,
+"dec": 1347,
+"flat": 109,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 231715,
+"hot": [
+{
+"name": "치매",
+"n": 7,
+"lead": "오스코텍",
+"lead_ret": 22.88,
+"second": "샤페론",
+"second_ret": 17.69
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "APS이노베이션",
+"lead_ret": 11.95,
+"second": "조일알미늄",
+"second_ret": 11.76
+},
+{
+"name": "의료AI",
+"n": 3,
+"lead": "신테카바이오",
+"lead_ret": 30.0,
+"second": "노을",
+"second_ret": 13.77
+}
+],
+"themes": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 4.42,
+"up5": 3,
+"lead": "오스코텍",
+"lead_ret": 22.88,
+"second": "디오",
+"second_ret": 10.18
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 4.31,
+"up5": 3,
+"lead": "에이프로젠",
+"lead_ret": 29.93,
+"second": "에이프로젠바이오로직스",
+"second_ret": 16.39
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 4.19,
+"up5": 3,
+"lead": "올릭스",
+"lead_ret": 9.38,
+"second": "큐라티스",
+"second_ret": 7.9
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 3.9,
+"up5": 10,
+"lead": "샤페론",
+"lead_ret": 17.69,
+"second": "유한양행",
+"second_ret": 11.48
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 3.63,
+"up5": 7,
+"lead": "오스코텍",
+"lead_ret": 22.88,
+"second": "샤페론",
+"second_ret": 17.69
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 3.57,
+"up5": 10,
+"lead": "오스코텍",
+"lead_ret": 22.88,
+"second": "샤페론",
+"second_ret": 17.69
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 3.31,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 20.16,
+"second": "토마토시스템",
+"second_ret": 4.83
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.24,
+"up5": 1,
+"lead": "유한양행",
+"lead_ret": 11.48,
+"second": "제일약품",
+"second_ret": 2.0
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": 3.04,
+"up5": 6,
+"lead": "신테카바이오",
+"lead_ret": 30.0,
+"second": "노을",
+"second_ret": 13.77
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 3.0,
+"up5": 5,
+"lead": "신테카바이오",
+"lead_ret": 30.0,
+"second": "지니너스",
+"second_ret": 22.1
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.62,
+"up5": 4,
+"lead": "샤페론",
+"lead_ret": 17.69,
+"second": "큐라티스",
+"second_ret": 7.9
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 2.28,
+"up5": 8,
+"lead": "지엘팜텍",
+"lead_ret": 29.9,
+"second": "에이프로젠바이오로직스",
+"second_ret": 16.39
+}
+],
+"themes_worst": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": -4.88,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 1.0,
+"second": "오픈엣지테크놀로지",
+"second_ret": 0.0
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -3.38,
+"up5": 0,
+"lead": "동일기연",
+"lead_ret": 0.8,
+"second": "상신전자",
+"second_ret": -1.18
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.31,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.99,
+"second": "코리아써키트",
+"second_ret": -1.3
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": -2.7,
+"up5": 1,
+"lead": "국전",
+"lead_ret": 5.19,
+"second": "레이저쎌",
+"second_ret": 1.61
+},
+{
+"name": "반도체 재료/부품",
+"n": 65,
+"avg": -2.7,
+"up5": 1,
+"lead": "국전",
+"lead_ret": 5.19,
+"second": "에프에스티",
+"second_ret": 4.75
+}
+],
+"leaders": [
+{
+"name": "POSCO홀딩스",
+"code": "005490",
+"ret": 10.75,
+"value": 19058,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 11.93,
+"value": 2329,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 11.48,
+"value": 2008,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 12.04,
+"value": 1786,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 11.76,
+"value": 1062,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

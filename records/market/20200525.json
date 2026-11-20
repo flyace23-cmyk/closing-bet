@@ -1,0 +1,246 @@
+{
+"date": "20200525",
+"kospi": 1.24,
+"kosdaq": 1.6,
+"adv": 1181,
+"dec": 540,
+"flat": 192,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 172183,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 7,
+"lead": "시큐브",
+"lead_ret": 29.99,
+"second": "휴네시온",
+"second_ret": 23.26
+},
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "아이크래프트",
+"lead_ret": 29.97,
+"second": "SGA솔루션즈",
+"second_ret": 14.9
+}
+],
+"themes": [
+{
+"name": "핀테크(FinTech)",
+"n": 30,
+"avg": 7.61,
+"up5": 16,
+"lead": "시큐브",
+"lead_ret": 29.99,
+"second": "브리지텍",
+"second_ret": 23.33
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 6.47,
+"up5": 13,
+"lead": "시큐브",
+"lead_ret": 29.99,
+"second": "SGA솔루션즈",
+"second_ret": 14.9
+},
+{
+"name": "인터넷은행",
+"n": 26,
+"avg": 6.26,
+"up5": 11,
+"lead": "시큐브",
+"lead_ret": 29.99,
+"second": "브리지텍",
+"second_ret": 23.33
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 6.25,
+"up5": 16,
+"lead": "시큐브",
+"lead_ret": 29.99,
+"second": "휴네시온",
+"second_ret": 23.26
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 5.78,
+"up5": 9,
+"lead": "한국정보인증",
+"lead_ret": 22.77,
+"second": "한컴위드",
+"second_ret": 11.58
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 5.23,
+"up5": 5,
+"lead": "카페24",
+"lead_ret": 16.6,
+"second": "NHN KCP",
+"second_ret": 10.43
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 5.21,
+"up5": 7,
+"lead": "시큐브",
+"lead_ret": 29.99,
+"second": "라온시큐어",
+"second_ret": 10.51
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 5.12,
+"up5": 4,
+"lead": "NHN KCP",
+"lead_ret": 10.43,
+"second": "이루온",
+"second_ret": 5.61
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 5.11,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 13.5,
+"second": "에코프로",
+"second_ret": 9.77
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 4.67,
+"up5": 3,
+"lead": "브리지텍",
+"lead_ret": 23.33,
+"second": "카카오",
+"second_ret": 8.5
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 31,
+"avg": 4.51,
+"up5": 10,
+"lead": "휴네시온",
+"lead_ret": 23.26,
+"second": "SGA솔루션즈",
+"second_ret": 14.9
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.17,
+"up5": 4,
+"lead": "카카오",
+"lead_ret": 8.5,
+"second": "갤럭시아머니트리",
+"second_ret": 7.81
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 9,
+"avg": -1.4,
+"up5": 0,
+"lead": "콘텐트리중앙",
+"lead_ret": 0.32,
+"second": "CJ ENM",
+"second_ret": 0.25
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.07,
+"up5": 0,
+"lead": "오가닉티코스메틱",
+"lead_ret": 1.72,
+"second": "딥커머스",
+"second_ret": 0.0
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -0.85,
+"up5": 0,
+"lead": "대림제지",
+"lead_ret": 1.24,
+"second": "블루산업개발",
+"second_ret": 0.41
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 12,
+"avg": -0.73,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 0.84,
+"second": "인텍플러스",
+"second_ret": 0.47
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.65,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 1.48,
+"second": "풀무원",
+"second_ret": 1.03
+}
+],
+"leaders": [
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 11.12,
+"value": 3359,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "한국정보인증",
+"code": "053300",
+"ret": 22.77,
+"value": 2834,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "라온시큐어",
+"code": "042510",
+"ret": 10.51,
+"value": 2070,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "DB하이텍",
+"code": "000990",
+"ret": 17.77,
+"value": 1662,
+"theme": "반도체 대표주(생산)",
+"reason": "테마: 반도체 대표주(생산)"
+},
+{
+"name": "고려제약",
+"code": "014570",
+"ret": 16.06,
+"value": 1446,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

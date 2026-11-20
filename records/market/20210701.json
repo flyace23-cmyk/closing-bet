@@ -1,0 +1,246 @@
+{
+"date": "20210701",
+"kospi": -0.44,
+"kosdaq": 0.55,
+"adv": 814,
+"dec": 1003,
+"flat": 196,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 247533,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "일성건설",
+"lead_ret": 29.95,
+"second": "까뮤이앤씨",
+"second_ret": 16.98
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "리가켐바이오",
+"lead_ret": 13.35,
+"second": "티움바이오",
+"second_ret": 10.45
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 6.22,
+"up5": 5,
+"lead": "나이벡",
+"lead_ret": 29.88,
+"second": "올릭스",
+"second_ret": 8.37
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.24,
+"up5": 2,
+"lead": "서한",
+"lead_ret": 9.5,
+"second": "웰크론한텍",
+"second_ret": 8.87
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.1,
+"up5": 5,
+"lead": "일성건설",
+"lead_ret": 29.95,
+"second": "까뮤이앤씨",
+"second_ret": 16.98
+},
+{
+"name": "비만치료제",
+"n": 30,
+"avg": 3.09,
+"up5": 6,
+"lead": "나이벡",
+"lead_ret": 29.88,
+"second": "올릭스",
+"second_ret": 8.37
+},
+{
+"name": "면역항암제",
+"n": 26,
+"avg": 3.03,
+"up5": 7,
+"lead": "리가켐바이오",
+"lead_ret": 13.35,
+"second": "티움바이오",
+"second_ret": 10.45
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.82,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 29.88,
+"second": "오스코텍",
+"second_ret": 6.92
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.76,
+"up5": 1,
+"lead": "옴니시스템",
+"lead_ret": 8.17,
+"second": "이루온",
+"second_ret": 4.83
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.54,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 8.06,
+"second": "녹십자",
+"second_ret": 2.13
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.17,
+"up5": 3,
+"lead": "인트론바이오",
+"lead_ret": 8.5,
+"second": "비피도",
+"second_ret": 8.39
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.09,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 12.92,
+"second": "에피소드컴퍼니",
+"second_ret": 1.77
+},
+{
+"name": "유전자 치료제/분석",
+"n": 29,
+"avg": 2.05,
+"up5": 3,
+"lead": "티움바이오",
+"lead_ret": 10.45,
+"second": "제이에스링크",
+"second_ret": 7.81
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.04,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 4.13,
+"second": "유한양행",
+"second_ret": 3.96
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.76,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 1.53,
+"second": "이마트",
+"second_ret": -0.62
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -1.4,
+"up5": 0,
+"lead": "파워넷",
+"lead_ret": 4.55,
+"second": "코윈로보틱스",
+"second_ret": 0.44
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -1.34,
+"up5": 0,
+"lead": "유비온",
+"lead_ret": 1.95,
+"second": "에피소드컴퍼니",
+"second_ret": 1.77
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": -1.24,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 1.77,
+"second": "깨끗한나라",
+"second_ret": 1.64
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.21,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 0.0,
+"second": "BNK금융지주",
+"second_ret": -1.03
+}
+],
+"leaders": [
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 15.86,
+"value": 3842,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "키네마스터",
+"code": "139670",
+"ret": 29.86,
+"value": 2960,
+"theme": "모바일솔루션(스마트폰)",
+"reason": "테마: 모바일솔루션(스마트폰)"
+},
+{
+"name": "덕신이피씨",
+"code": "090410",
+"ret": 12.84,
+"value": 2769,
+"theme": "모듈러주택",
+"reason": "테마: 모듈러주택"
+},
+{
+"name": "까뮤이앤씨",
+"code": "013700",
+"ret": 16.98,
+"value": 1991,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "나이벡",
+"code": "138610",
+"ret": 29.88,
+"value": 1769,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+}
+],
+"backfilled": true
+}

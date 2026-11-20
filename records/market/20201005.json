@@ -1,0 +1,254 @@
+{
+"date": "20201005",
+"kospi": 1.29,
+"kosdaq": 1.21,
+"adv": 1368,
+"dec": 424,
+"flat": 152,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 254132,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "태웅",
+"lead_ret": 14.34,
+"second": "스페코",
+"second_ret": 13.79
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "현대공업",
+"lead_ret": 29.99,
+"second": "인지컨트롤스",
+"second_ret": 29.51
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "인지컨트롤스",
+"lead_ret": 29.51,
+"second": "효성중공업",
+"second_ret": 11.33
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 6.86,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 14.17,
+"second": "TKG휴켐스",
+"second_ret": 9.47
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 5.56,
+"up5": 19,
+"lead": "태웅",
+"lead_ret": 14.34,
+"second": "스페코",
+"second_ret": 13.79
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 5.16,
+"up5": 4,
+"lead": "오르비텍",
+"lead_ret": 29.78,
+"second": "대창솔루션",
+"second_ret": 6.58
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.95,
+"up5": 3,
+"lead": "HL만도",
+"lead_ret": 10.24,
+"second": "기아",
+"second_ret": 7.68
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.95,
+"up5": 4,
+"lead": "오르비텍",
+"lead_ret": 29.78,
+"second": "현대위아",
+"second_ret": 6.67
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.6,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 11.7,
+"second": "대한해운",
+"second_ret": 7.11
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 4.32,
+"up5": 3,
+"lead": "인지컨트롤스",
+"lead_ret": 29.51,
+"second": "인지디스플레",
+"second_ret": 16.9
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 63,
+"avg": 3.98,
+"up5": 18,
+"lead": "인지컨트롤스",
+"lead_ret": 29.51,
+"second": "효성중공업",
+"second_ret": 11.33
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.96,
+"up5": 5,
+"lead": "대한유화",
+"lead_ret": 13.21,
+"second": "효성화학",
+"second_ret": 10.89
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.94,
+"up5": 3,
+"lead": "현대제철",
+"lead_ret": 9.15,
+"second": "포스코스틸리온",
+"second_ret": 5.3
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 3.77,
+"up5": 4,
+"lead": "유니온머티리얼",
+"lead_ret": 14.17,
+"second": "티플랙스",
+"second_ret": 7.79
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 3.61,
+"up5": 3,
+"lead": "인지컨트롤스",
+"lead_ret": 29.51,
+"second": "제이씨현시스템",
+"second_ret": 25.77
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 12,
+"avg": -2.36,
+"up5": 0,
+"lead": "판타지오",
+"lead_ret": 4.43,
+"second": "에프엔씨엔터",
+"second_ret": 2.48
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.71,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": 2.08,
+"second": "글로벌에스엠",
+"second_ret": 1.55
+},
+{
+"name": "엔터테인먼트",
+"n": 25,
+"avg": -0.54,
+"up5": 1,
+"lead": "티엔엔터테인먼트",
+"lead_ret": 5.76,
+"second": "판타지오",
+"second_ret": 4.43
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.49,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 1.72,
+"second": "경동제약",
+"second_ret": 1.21
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": -0.14,
+"up5": 0,
+"lead": "큐로홀딩스",
+"lead_ret": 4.04,
+"second": "에프엔씨엔터",
+"second_ret": 2.48
+}
+],
+"leaders": [
+{
+"name": "이스트에이드",
+"code": "239340",
+"ret": 16.41,
+"value": 3080,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "셀리드",
+"code": "299660",
+"ret": 30.0,
+"value": 2738,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "오르비텍",
+"code": "046120",
+"ret": 29.78,
+"value": 2502,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 10.74,
+"value": 2150,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 29.99,
+"value": 2141,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

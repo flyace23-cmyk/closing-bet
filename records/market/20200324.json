@@ -1,0 +1,254 @@
+{
+"date": "20200324",
+"kospi": 8.6,
+"kosdaq": 8.26,
+"adv": 1778,
+"dec": 66,
+"flat": 66,
+"limit_up": 13,
+"limit_down": 1,
+"value_total": 157523,
+"hot": [
+{
+"name": "지주사",
+"n": 5,
+"lead": "SK",
+"lead_ret": 24.07,
+"second": "유비쿼스홀딩스",
+"second_ret": 22.22
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "진양제약",
+"lead_ret": 29.85,
+"second": "셀트리온제약",
+"second_ret": 29.79
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "인텍플러스",
+"lead_ret": 22.49,
+"second": "테크윙",
+"second_ret": 20.85
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 13.37,
+"up5": 14,
+"lead": "제이앤티씨",
+"lead_ret": 26.12,
+"second": "나인테크",
+"second_ret": 20.78
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 13.18,
+"up5": 11,
+"lead": "미스터블루",
+"lead_ret": 29.92,
+"second": "조이시티",
+"second_ret": 20.36
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 12.75,
+"up5": 5,
+"lead": "JW중외제약",
+"lead_ret": 29.77,
+"second": "삼성바이오로직스",
+"second_ret": 9.17
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 12.27,
+"up5": 9,
+"lead": "미래컴퍼니",
+"lead_ret": 20.49,
+"second": "이오테크닉스",
+"second_ret": 20.04
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 11.86,
+"up5": 6,
+"lead": "심텍",
+"lead_ret": 23.04,
+"second": "SK하이닉스",
+"second_ret": 13.4
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": 11.63,
+"up5": 17,
+"lead": "레이크머티리얼즈",
+"lead_ret": 29.89,
+"second": "나인테크",
+"second_ret": 20.78
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 11.46,
+"up5": 13,
+"lead": "심텍",
+"lead_ret": 23.04,
+"second": "칩스앤미디어",
+"second_ret": 19.2
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 11.44,
+"up5": 19,
+"lead": "덕우전자",
+"lead_ret": 19.3,
+"second": "LG이노텍",
+"second_ret": 17.74
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 11.33,
+"up5": 22,
+"lead": "덕우전자",
+"lead_ret": 19.3,
+"second": "LG이노텍",
+"second_ret": 17.74
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 11.3,
+"up5": 8,
+"lead": "선익시스템",
+"lead_ret": 14.6,
+"second": "대주전자재료",
+"second_ret": 13.85
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 11,
+"avg": 11.18,
+"up5": 9,
+"lead": "심텍",
+"lead_ret": 23.04,
+"second": "인텍플러스",
+"second_ret": 22.49
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 11.1,
+"up5": 36,
+"lead": "아나패스",
+"lead_ret": 29.95,
+"second": "고영",
+"second_ret": 29.07
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.6,
+"up5": 2,
+"lead": "티웨이홀딩스",
+"lead_ret": 5.69,
+"second": "아시아나항공",
+"second_ret": 5.43
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 0.82,
+"up5": 1,
+"lead": "광동제약",
+"lead_ret": 5.75,
+"second": "팜젠사이언스",
+"second_ret": 3.64
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.89,
+"up5": 2,
+"lead": "삼천리",
+"lead_ret": 6.07,
+"second": "한국가스공사",
+"second_ret": 5.74
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": 3.28,
+"up5": 1,
+"lead": "풍국주정",
+"lead_ret": 9.08,
+"second": "하이트진로",
+"second_ret": 4.61
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 3.73,
+"up5": 13,
+"lead": "제놀루션",
+"lead_ret": 11.24,
+"second": "지노믹트리",
+"second_ret": 10.63
+}
+],
+"leaders": [
+{
+"name": "삼성전자",
+"code": "005930",
+"ret": 10.47,
+"value": 23382,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "SK하이닉스",
+"code": "000660",
+"ret": 13.4,
+"value": 5704,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 12.81,
+"value": 4113,
+"theme": "IT 대표주",
+"reason": "테마: IT 대표주"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 29.79,
+"value": 3873,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 10.99,
+"value": 1592,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241101",
+"kospi": -0.54,
+"kosdaq": -1.89,
+"adv": 553,
+"dec": 1617,
+"flat": 125,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 124917,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "원익홀딩스",
+"lead_ret": 29.82,
+"second": "펨트론",
+"second_ret": 14.87
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "삼현",
+"lead_ret": 29.94,
+"second": "한일단조",
+"second_ret": 6.13
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "HPSP",
+"lead_ret": 7.64,
+"second": "주성엔지니어링",
+"second_ret": 5.48
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 1.65,
+"up5": 1,
+"lead": "신한지주",
+"lead_ret": 5.26,
+"second": "BNK금융지주",
+"second_ret": 2.44
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.59,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 5.13,
+"second": "흥구석유",
+"second_ret": 4.86
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.59,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 5.13,
+"second": "흥구석유",
+"second_ret": 4.86
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.46,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.86,
+"second": "SK이노베이션",
+"second_ret": 3.75
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.74,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 2.23,
+"second": "롯데손해보험",
+"second_ret": 2.2
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 0.7,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 5.13,
+"second": "흥구석유",
+"second_ret": 4.86
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 0.69,
+"up5": 1,
+"lead": "DS단석",
+"lead_ret": 10.29,
+"second": "원익피앤이",
+"second_ret": 4.2
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 0.66,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.05,
+"second": "DL이앤씨",
+"second_ret": 0.97
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 0.54,
+"up5": 1,
+"lead": "오텍",
+"lead_ret": 8.36,
+"second": "SK이노베이션",
+"second_ret": 3.75
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 0.43,
+"up5": 1,
+"lead": "GRT",
+"lead_ret": 5.25,
+"second": "딥커머스",
+"second_ret": 1.43
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 0.37,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 2.61,
+"second": "HL만도",
+"second_ret": 1.51
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 0.26,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 1.81,
+"second": "한화비전",
+"second_ret": 1.77
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -5.53,
+"up5": 0,
+"lead": "아이진",
+"lead_ret": -0.51,
+"second": "서린바이오",
+"second_ret": -1.67
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -4.0,
+"up5": 0,
+"lead": "웰크론한텍",
+"lead_ret": -0.47,
+"second": "인선이엔티",
+"second_ret": -0.89
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -3.61,
+"up5": 1,
+"lead": "주성엔지니어링",
+"lead_ret": 5.48,
+"second": "지아이에스",
+"second_ret": 4.07
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -3.48,
+"up5": 0,
+"lead": "대교",
+"lead_ret": -1.1,
+"second": "삼성전자",
+"second_ret": -1.52
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.44,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": 0.0,
+"second": "웹케시",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "DS단석",
+"code": "017860",
+"ret": 10.29,
+"value": 3924,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 14.76,
+"value": 2228,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "루미르",
+"code": "474170",
+"ret": 23.62,
+"value": 1745,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "GC메디아이",
+"code": "032620",
+"ret": 19.16,
+"value": 876,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "펨트론",
+"code": "168360",
+"ret": 14.87,
+"value": 422,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

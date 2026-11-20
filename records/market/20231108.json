@@ -1,0 +1,254 @@
+{
+"date": "20231108",
+"kospi": -0.91,
+"kosdaq": -1.62,
+"adv": 940,
+"dec": 1134,
+"flat": 131,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 150112,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 7,
+"lead": "액토즈소프트",
+"lead_ret": 29.99,
+"second": "위메이드플레이",
+"second_ret": 29.91
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 4,
+"lead": "컴투스홀딩스",
+"lead_ret": 21.8,
+"second": "디앤씨미디어",
+"second_ret": 15.05
+},
+{
+"name": "웹툰",
+"n": 3,
+"lead": "디앤씨미디어",
+"lead_ret": 15.05,
+"second": "키다리스튜디오",
+"second_ret": 10.09
+}
+],
+"themes": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 6.27,
+"up5": 12,
+"lead": "액토즈소프트",
+"lead_ret": 29.99,
+"second": "위메이드플레이",
+"second_ret": 29.91
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 5.34,
+"up5": 9,
+"lead": "액토즈소프트",
+"lead_ret": 29.99,
+"second": "위메이드",
+"second_ret": 19.33
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 4.46,
+"up5": 3,
+"lead": "CJ ENM",
+"lead_ret": 12.98,
+"second": "아센디오",
+"second_ret": 6.37
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.89,
+"up5": 3,
+"lead": "디앤씨미디어",
+"lead_ret": 15.05,
+"second": "키다리스튜디오",
+"second_ret": 10.09
+},
+{
+"name": "영상콘텐츠",
+"n": 27,
+"avg": 3.11,
+"up5": 6,
+"lead": "CJ ENM",
+"lead_ret": 12.98,
+"second": "와이랩",
+"second_ret": 10.05
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 2.83,
+"up5": 1,
+"lead": "SCL사이언스",
+"lead_ret": 27.89,
+"second": "대한과학",
+"second_ret": 3.93
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.81,
+"up5": 4,
+"lead": "클래시스",
+"lead_ret": 9.24,
+"second": "원텍",
+"second_ret": 6.04
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 2.71,
+"up5": 2,
+"lead": "이노시뮬레이션",
+"lead_ret": 18.21,
+"second": "라온텍",
+"second_ret": 5.76
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 2.6,
+"up5": 4,
+"lead": "컴투스홀딩스",
+"lead_ret": 21.8,
+"second": "위메이드",
+"second_ret": 19.33
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.43,
+"up5": 2,
+"lead": "컴투스홀딩스",
+"lead_ret": 21.8,
+"second": "위메이드",
+"second_ret": 19.33
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.41,
+"up5": 2,
+"lead": "참좋은여행",
+"lead_ret": 7.42,
+"second": "하나투어",
+"second_ret": 6.48
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.17,
+"up5": 2,
+"lead": "CJ ENM",
+"lead_ret": 12.98,
+"second": "애니플러스",
+"second_ret": 5.09
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -4.58,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": -1.24,
+"second": "애경케미칼",
+"second_ret": -1.38
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.02,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.24,
+"second": "E1",
+"second_ret": -0.52
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.02,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.24,
+"second": "E1",
+"second_ret": -0.52
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.96,
+"up5": 0,
+"lead": "대보마그네틱",
+"lead_ret": 4.75,
+"second": "천보",
+"second_ret": 1.44
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.74,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.88,
+"second": "삼성중공업",
+"second_ret": -2.44
+}
+],
+"leaders": [
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 19.33,
+"value": 3844,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "크래프톤",
+"code": "259960",
+"ret": 10.61,
+"value": 1804,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "위메이드맥스",
+"code": "101730",
+"ret": 16.7,
+"value": 771,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "모비스",
+"code": "250060",
+"ret": 11.13,
+"value": 605,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "이노시뮬레이션",
+"code": "274400",
+"ret": 18.21,
+"value": 433,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

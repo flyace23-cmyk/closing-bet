@@ -1,0 +1,254 @@
+{
+"date": "20230113",
+"kospi": 0.89,
+"kosdaq": 0.14,
+"adv": 1085,
+"dec": 815,
+"flat": 228,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 110382,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 8,
+"lead": "이스트에이드",
+"lead_ret": 30.0,
+"second": "코난테크놀로지",
+"second_ret": 24.32
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "신도기연",
+"lead_ret": 22.07,
+"second": "위세아이텍",
+"second_ret": 10.5
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "뉴로메카",
+"lead_ret": 10.25,
+"second": "레인보우로보틱스",
+"second_ret": 9.95
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.19,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 9.06,
+"second": "HMM",
+"second_ret": 7.02
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 5.13,
+"up5": 10,
+"lead": "코난테크놀로지",
+"lead_ret": 24.32,
+"second": "바이브컴퍼니",
+"second_ret": 16.91
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 4.06,
+"up5": 11,
+"lead": "이스트에이드",
+"lead_ret": 30.0,
+"second": "코난테크놀로지",
+"second_ret": 24.32
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.82,
+"up5": 1,
+"lead": "지어소프트",
+"lead_ret": 25.66,
+"second": "우양",
+"second_ret": 4.73
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 3.72,
+"up5": 2,
+"lead": "이스트에이드",
+"lead_ret": 30.0,
+"second": "대원미디어",
+"second_ret": 5.07
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.37,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 14.86,
+"second": "네패스",
+"second_ret": 0.91
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.87,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 4.45,
+"second": "제주은행",
+"second_ret": 3.54
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 2.56,
+"up5": 1,
+"lead": "신도기연",
+"lead_ret": 22.07,
+"second": "세코닉스",
+"second_ret": 4.65
+},
+{
+"name": "소매유통",
+"n": 16,
+"avg": 2.54,
+"up5": 2,
+"lead": "지어소프트",
+"lead_ret": 25.66,
+"second": "대구백화점",
+"second_ret": 7.74
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.4,
+"up5": 1,
+"lead": "HD건설기계",
+"lead_ret": 7.56,
+"second": "현대에버다임",
+"second_ret": 4.08
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 2.16,
+"up5": 5,
+"lead": "신도기연",
+"lead_ret": 22.07,
+"second": "위세아이텍",
+"second_ret": 10.5
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.15,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 7.53,
+"second": "LX인터내셔널",
+"second_ret": 2.7
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.25,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.0,
+"second": "JW중외제약",
+"second_ret": -0.25
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.25,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.0,
+"second": "메디포스트",
+"second_ret": -0.68
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.16,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": -0.17,
+"second": "유한양행",
+"second_ret": -0.37
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": -1.15,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": 1.57,
+"second": "삼성전자",
+"second_ret": 0.5
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -1.15,
+"up5": 0,
+"lead": "오스코텍",
+"lead_ret": -0.28,
+"second": "레이",
+"second_ret": -0.42
+}
+],
+"leaders": [
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 24.32,
+"value": 1675,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "이스트에이드",
+"code": "239340",
+"ret": 30.0,
+"value": 1494,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 14.86,
+"value": 1344,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "지어소프트",
+"code": "051160",
+"ret": 25.66,
+"value": 1202,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 13.74,
+"value": 1167,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

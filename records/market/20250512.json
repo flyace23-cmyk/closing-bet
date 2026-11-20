@@ -1,0 +1,254 @@
+{
+"date": "20250512",
+"kospi": 1.17,
+"kosdaq": 0.4,
+"adv": 1578,
+"dec": 668,
+"flat": 107,
+"limit_up": 14,
+"limit_down": 1,
+"value_total": 140445,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "유진로봇",
+"lead_ret": 29.96,
+"second": "비큐AI",
+"second_ret": 29.93
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "평화산업",
+"lead_ret": 29.99,
+"second": "세원물산",
+"second_ret": 29.97
+},
+{
+"name": "퓨리오사AI",
+"n": 3,
+"lead": "엑스페릭스",
+"lead_ret": 21.14,
+"second": "유라클",
+"second_ret": 15.65
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 7.24,
+"up5": 3,
+"lead": "우원개발",
+"lead_ret": 29.88,
+"second": "한국선재",
+"second_ret": 13.79
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 7.16,
+"up5": 5,
+"lead": "엑스페릭스",
+"lead_ret": 21.14,
+"second": "유라클",
+"second_ret": 15.65
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 5.39,
+"up5": 3,
+"lead": "대영포장",
+"lead_ret": 29.96,
+"second": "신대양제지",
+"second_ret": 11.8
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.0,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 10.35,
+"second": "심텍",
+"second_ret": 8.47
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.8,
+"up5": 4,
+"lead": "현대건설",
+"lead_ret": 7.28,
+"second": "대우건설",
+"second_ret": 6.47
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.56,
+"up5": 6,
+"lead": "티엘비",
+"lead_ret": 10.35,
+"second": "심텍",
+"second_ret": 8.47
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 4.52,
+"up5": 8,
+"lead": "심텍",
+"lead_ret": 8.47,
+"second": "삼성전기",
+"second_ret": 7.34
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.39,
+"up5": 2,
+"lead": "우성머티리얼스",
+"lead_ret": 8.65,
+"second": "대한화섬",
+"second_ret": 6.91
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 4.24,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 10.35,
+"second": "파두",
+"second_ret": 6.24
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 3.94,
+"up5": 2,
+"lead": "프리엠스",
+"lead_ret": 18.53,
+"second": "전진건설로봇",
+"second_ret": 8.96
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.89,
+"up5": 1,
+"lead": "한솔홈데코",
+"lead_ret": 29.97,
+"second": "이건홀딩스",
+"second_ret": 4.16
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.89,
+"up5": 1,
+"lead": "한솔홈데코",
+"lead_ret": 29.97,
+"second": "이건홀딩스",
+"second_ret": 4.16
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -3.44,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -2.06,
+"second": "삼성중공업",
+"second_ret": -2.29
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -3.42,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 0.59,
+"second": "디에스케이",
+"second_ret": 0.57
+},
+{
+"name": "미용기기",
+"n": 18,
+"avg": -3.26,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 0.59,
+"second": "하이로닉",
+"second_ret": 0.0
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -2.94,
+"up5": 0,
+"lead": "삼미금속",
+"lead_ret": 4.63,
+"second": "SK오션플랜트",
+"second_ret": 3.82
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": -2.39,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.28,
+"second": "닷밀",
+"second_ret": 4.56
+}
+],
+"leaders": [
+{
+"name": "크라우드웍스",
+"code": "355390",
+"ret": 21.77,
+"value": 1852,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "엑스페릭스",
+"code": "317770",
+"ret": 21.14,
+"value": 1848,
+"theme": "퓨리오사AI",
+"reason": "테마: 퓨리오사AI"
+},
+{
+"name": "에르코스",
+"code": "435570",
+"ret": 17.46,
+"value": 1373,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "우듬지팜",
+"code": "403490",
+"ret": 29.94,
+"value": 1331,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "한국정보인증",
+"code": "053300",
+"ret": 10.34,
+"value": 1012,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

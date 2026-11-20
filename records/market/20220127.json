@@ -1,0 +1,254 @@
+{
+"date": "20220127",
+"kospi": -3.5,
+"kosdaq": -3.73,
+"adv": 180,
+"dec": 1801,
+"flat": 79,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 198413,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 7,
+"lead": "바이오스마트",
+"lead_ret": 29.92,
+"second": "현대바이오",
+"second_ret": 19.38
+},
+{
+"name": "전력설비",
+"n": 4,
+"lead": "바이오스마트",
+"lead_ret": 29.92,
+"second": "서전기전",
+"second_ret": 15.88
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 3,
+"lead": "우양",
+"lead_ret": 6.4,
+"second": "흥국에프엔비",
+"second_ret": 5.0
+}
+],
+"themes": [
+{
+"name": "전력설비",
+"n": 30,
+"avg": -0.7,
+"up5": 4,
+"lead": "바이오스마트",
+"lead_ret": 29.92,
+"second": "서전기전",
+"second_ret": 15.88
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.88,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.65,
+"second": "우리금융지주",
+"second_ret": -0.35
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -0.91,
+"up5": 0,
+"lead": "일진파워",
+"lead_ret": 3.46,
+"second": "삼화콘덴서",
+"second_ret": -0.32
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -1.15,
+"up5": 0,
+"lead": "우리기술",
+"lead_ret": 3.48,
+"second": "우진",
+"second_ret": 2.4
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": -1.25,
+"up5": 3,
+"lead": "서전기전",
+"lead_ret": 15.88,
+"second": "보성파워텍",
+"second_ret": 6.17
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.26,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 6.4,
+"second": "흥국에프엔비",
+"second_ret": 5.0
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.26,
+"up5": 1,
+"lead": "대한제강",
+"lead_ret": 6.67,
+"second": "세아제강",
+"second_ret": 2.92
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": -1.5,
+"up5": 0,
+"lead": "하이비젼시스템",
+"lead_ret": 3.97,
+"second": "MSDI",
+"second_ret": 2.88
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.57,
+"up5": 0,
+"lead": "포커스에이아이",
+"lead_ret": 0.68,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.61,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 1.8,
+"second": "KG모빌리티",
+"second_ret": 0.0
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.71,
+"up5": 1,
+"lead": "GRT",
+"lead_ret": 20.25,
+"second": "씨엑스아이",
+"second_ret": 2.97
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -1.74,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 11.42,
+"second": "제테마",
+"second_ret": 3.59
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -6.28,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": -4.13,
+"second": "데브시스터즈",
+"second_ret": -4.14
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -5.98,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": -2.31,
+"second": "프리엠스",
+"second_ret": -2.33
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.77,
+"up5": 0,
+"lead": "GS",
+"lead_ret": -2.88,
+"second": "E1",
+"second_ret": -3.3
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.77,
+"up5": 0,
+"lead": "GS",
+"lead_ret": -2.88,
+"second": "E1",
+"second_ret": -3.3
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -5.75,
+"up5": 0,
+"lead": "브이티",
+"lead_ret": -0.46,
+"second": "아모그린텍",
+"second_ret": -3.85
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 11.42,
+"value": 3152,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 19.38,
+"value": 2235,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "바이오스마트",
+"code": "038460",
+"ret": 29.92,
+"value": 1258,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 18.93,
+"value": 797,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "서전기전",
+"code": "189860",
+"ret": 15.88,
+"value": 271,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

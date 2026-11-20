@@ -1,0 +1,254 @@
+{
+"date": "20230705",
+"kospi": -0.55,
+"kosdaq": 0.13,
+"adv": 548,
+"dec": 1507,
+"flat": 114,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 191850,
+"hot": [
+{
+"name": "PCB(FPCB 등)",
+"n": 4,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 19.34,
+"second": "필옵틱스",
+"second_ret": 17.27
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "바텍",
+"lead_ret": 20.0,
+"second": "동운아나텍",
+"second_ret": 15.54
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 19.34,
+"second": "코스모화학",
+"second_ret": 17.97
+}
+],
+"themes": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.59,
+"up5": 3,
+"lead": "한일화학",
+"lead_ret": 29.93,
+"second": "삼화전자",
+"second_ret": 5.95
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.59,
+"up5": 3,
+"lead": "한일화학",
+"lead_ret": 29.93,
+"second": "삼화전자",
+"second_ret": 5.95
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.15,
+"up5": 5,
+"lead": "코스모화학",
+"lead_ret": 17.97,
+"second": "강원에너지",
+"second_ret": 10.19
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.72,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 29.96,
+"second": "아이디스",
+"second_ret": 0.5
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.66,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 10.56,
+"second": "유니온머티리얼",
+"second_ret": 5.65
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 2.08,
+"up5": 3,
+"lead": "포스코인터내셔널",
+"lead_ret": 7.54,
+"second": "삼화전자",
+"second_ret": 5.95
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.07,
+"up5": 2,
+"lead": "바텍",
+"lead_ret": 20.0,
+"second": "레이",
+"second_ret": 5.73
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 2.05,
+"up5": 5,
+"lead": "유니온",
+"lead_ret": 10.56,
+"second": "삼화전자",
+"second_ret": 5.95
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.81,
+"up5": 1,
+"lead": "웰킵스하이텍",
+"lead_ret": 29.91,
+"second": "비에이치",
+"second_ret": 1.24
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.6,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 7.54,
+"second": "LX인터내셔널",
+"second_ret": 4.82
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 66,
+"avg": 1.58,
+"up5": 9,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 19.34,
+"second": "코스모화학",
+"second_ret": 17.97
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 1.42,
+"up5": 4,
+"lead": "조일알미늄",
+"lead_ret": 8.59,
+"second": "포스코엠텍",
+"second_ret": 6.09
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -3.28,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": -0.32,
+"second": "원티드랩",
+"second_ret": -0.63
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.92,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 0.12,
+"second": "코오롱글로벌",
+"second_ret": -0.72
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -2.69,
+"up5": 0,
+"lead": "체리부로",
+"lead_ret": 3.17,
+"second": "교촌에프앤비",
+"second_ret": -0.23
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.65,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 1.48,
+"second": "한전기술",
+"second_ret": -0.43
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.47,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": -0.5,
+"second": "휴림로봇",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "루닛",
+"code": "328130",
+"ret": 12.5,
+"value": 4409,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 17.97,
+"value": 2986,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 15.7,
+"value": 2943,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "동운아나텍",
+"code": "094170",
+"ret": 15.54,
+"value": 1652,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "롯데에너지머티리얼즈",
+"code": "020150",
+"ret": 19.34,
+"value": 1507,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+}
+],
+"backfilled": true
+}

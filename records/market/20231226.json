@@ -1,0 +1,246 @@
+{
+"date": "20231226",
+"kospi": 0.12,
+"kosdaq": -0.73,
+"adv": 729,
+"dec": 1366,
+"flat": 132,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 181326,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "에스와이스틸텍",
+"lead_ret": 29.9,
+"second": "이노인스트루먼트",
+"second_ret": 21.33
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "와이바이오로직스",
+"lead_ret": 25.44,
+"second": "리가켐바이오",
+"second_ret": 10.38
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.27,
+"up5": 1,
+"lead": "에이직랜드",
+"lead_ret": 26.11,
+"second": "삼성전자",
+"second_ret": 0.92
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.78,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 10.89,
+"second": "티앤알바이오팹",
+"second_ret": 4.12
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 1.76,
+"up5": 3,
+"lead": "손오공",
+"lead_ret": 20.6,
+"second": "남양유업",
+"second_ret": 9.83
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": 1.68,
+"up5": 4,
+"lead": "에스와이스틸텍",
+"lead_ret": 29.9,
+"second": "이노인스트루먼트",
+"second_ret": 21.33
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 1.54,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 20.6,
+"second": "에피소드컴퍼니",
+"second_ret": 3.24
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 1.49,
+"up5": 2,
+"lead": "SOOP",
+"lead_ret": 6.99,
+"second": "하림",
+"second_ret": 5.39
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 1.46,
+"up5": 1,
+"lead": "삼미금속",
+"lead_ret": 11.93,
+"second": "대동금속",
+"second_ret": 4.46
+},
+{
+"name": "광고",
+"n": 21,
+"avg": 1.45,
+"up5": 3,
+"lead": "와이즈버즈",
+"lead_ret": 17.65,
+"second": "이엠넷",
+"second_ret": 11.01
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 1.3,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 6.22,
+"second": "한국종합기술",
+"second_ret": 1.06
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.24,
+"up5": 1,
+"lead": "HS효성첨단소재",
+"lead_ret": 8.83,
+"second": "한국앤컴퍼니",
+"second_ret": 2.56
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 1.22,
+"up5": 1,
+"lead": "큐에스아이",
+"lead_ret": 5.21,
+"second": "루멘스바이오스",
+"second_ret": 3.37
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 1.17,
+"up5": 2,
+"lead": "풍전약품",
+"lead_ret": 15.44,
+"second": "에스바이오메딕스",
+"second_ret": 6.88
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -3.32,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": -0.8,
+"second": "대한해운",
+"second_ret": -1.41
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -3.27,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 0.79,
+"second": "LB인베스트먼트",
+"second_ret": -0.99
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.93,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -0.78,
+"second": "LG에너지솔루션",
+"second_ret": -0.95
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -2.68,
+"up5": 0,
+"lead": "태경산업",
+"lead_ret": 0.6,
+"second": "스퀘어텍",
+"second_ret": 0.42
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -2.68,
+"up5": 0,
+"lead": "태경산업",
+"lead_ret": 0.6,
+"second": "스퀘어텍",
+"second_ret": 0.42
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 14.06,
+"value": 10878,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 10.38,
+"value": 4234,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 26.11,
+"value": 1868,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "와이즈버즈",
+"code": "273060",
+"ret": 17.65,
+"value": 1785,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 13.11,
+"value": 1487,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

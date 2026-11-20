@@ -1,0 +1,246 @@
+{
+"date": "20240805",
+"kospi": -8.77,
+"kosdaq": -11.3,
+"adv": 29,
+"dec": 2218,
+"flat": 24,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 260512,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "휴니드",
+"lead_ret": 18.97,
+"second": "스페코",
+"second_ret": 9.88
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "퀀타매트릭스",
+"lead_ret": 29.97,
+"second": "셀리드",
+"second_ret": 11.34
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.13,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 26.59,
+"second": "대성에너지",
+"second_ret": 12.15
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.1,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 3.88,
+"second": "중앙에너비스",
+"second_ret": 0.63
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -5.1,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 3.88,
+"second": "중앙에너비스",
+"second_ret": 0.63
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -5.39,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 26.59,
+"second": "대성에너지",
+"second_ret": 12.15
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -5.64,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 3.88,
+"second": "S-Oil",
+"second_ret": -5.4
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -5.84,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": -1.88,
+"second": "GS리테일",
+"second_ret": -4.9
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -6.09,
+"up5": 0,
+"lead": "대산F&B",
+"lead_ret": 0.0,
+"second": "마니커",
+"second_ret": -0.38
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -6.19,
+"up5": 1,
+"lead": "휴니드",
+"lead_ret": 18.97,
+"second": "솔디펜스",
+"second_ret": 0.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -6.8,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 9.88,
+"second": "한국석유",
+"second_ret": -1.74
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -6.84,
+"up5": 0,
+"lead": "한양증권",
+"lead_ret": 3.72,
+"second": "상상인증권",
+"second_ret": -0.97
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -6.93,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": -6.14,
+"second": "천일고속",
+"second_ret": -6.44
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -6.97,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 3.88,
+"second": "중앙에너비스",
+"second_ret": 0.63
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -16.8,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -10.3,
+"second": "앤씨앤",
+"second_ret": -13.29
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -16.18,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -8.23,
+"second": "SK하이닉스",
+"second_ret": -9.87
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -15.73,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -9.87,
+"second": "삼성전자",
+"second_ret": -10.3
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 13,
+"avg": -15.6,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": -11.02,
+"second": "스톤브릿지벤처스",
+"second_ret": -11.99
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -14.98,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -9.87,
+"second": "레이언스",
+"second_ret": -9.9
+}
+],
+"leaders": [
+{
+"name": "휴니드",
+"code": "005870",
+"ret": 18.97,
+"value": 2434,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 26.59,
+"value": 1981,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 12.15,
+"value": 1823,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "에이치브이엠",
+"code": "295310",
+"ret": 12.98,
+"value": 1444,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "퀀타매트릭스",
+"code": "317690",
+"ret": 29.97,
+"value": 942,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

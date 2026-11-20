@@ -1,0 +1,254 @@
+{
+"date": "20240311",
+"kospi": -0.77,
+"kosdaq": 0.31,
+"adv": 977,
+"dec": 1143,
+"flat": 124,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 189047,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "신성에스티",
+"lead_ret": 22.46,
+"second": "엔켐",
+"second_ret": 17.41
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "시노펙스",
+"lead_ret": 28.53,
+"second": "메가터치",
+"second_ret": 14.81
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "자람테크놀로지",
+"lead_ret": 29.98,
+"second": "리노공업",
+"second_ret": 12.53
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.97,
+"up5": 3,
+"lead": "자람테크놀로지",
+"lead_ret": 29.98,
+"second": "네패스아크",
+"second_ret": 7.42
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.88,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 8.43,
+"second": "삼성중공업",
+"second_ret": 4.7
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.84,
+"up5": 4,
+"lead": "판타지오",
+"lead_ret": 13.07,
+"second": "와이지엔터테인먼트",
+"second_ret": 8.15
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.88,
+"up5": 2,
+"lead": "포니링크",
+"lead_ret": 17.68,
+"second": "SOOP",
+"second_ret": 5.09
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.84,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 9.56,
+"second": "유한양행",
+"second_ret": 5.16
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 2.83,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 9.48,
+"second": "대창솔루션",
+"second_ret": 8.28
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.49,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 22.08,
+"second": "일신바이오",
+"second_ret": 0.67
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 2.43,
+"up5": 9,
+"lead": "우진엔텍",
+"lead_ret": 29.97,
+"second": "에이프로젠",
+"second_ret": 11.47
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 2.37,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 10.11,
+"second": "위메이드플레이",
+"second_ret": 7.78
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.34,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 22.08,
+"second": "에스티아이",
+"second_ret": 3.78
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.01,
+"up5": 3,
+"lead": "판타지오",
+"lead_ret": 13.07,
+"second": "와이지엔터테인먼트",
+"second_ret": 8.15
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.0,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 11.33,
+"second": "대성창투",
+"second_ret": 8.23
+}
+],
+"themes_worst": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -3.04,
+"up5": 0,
+"lead": "엑시콘",
+"lead_ret": 2.61,
+"second": "국순당",
+"second_ret": 0.0
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.96,
+"up5": 1,
+"lead": "와이씨켐",
+"lead_ret": 6.76,
+"second": "에스티아이",
+"second_ret": 3.78
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": -2.69,
+"up5": 1,
+"lead": "디지캡",
+"lead_ret": 5.05,
+"second": "라온시큐어",
+"second_ret": 1.89
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": -2.03,
+"up5": 0,
+"lead": "3S",
+"lead_ret": 1.96,
+"second": "S-Oil",
+"second_ret": 1.08
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.88,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 3.3,
+"second": "티에스이",
+"second_ret": 1.5
+}
+],
+"leaders": [
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 17.41,
+"value": 6178,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "자람테크놀로지",
+"code": "389020",
+"ret": 29.98,
+"value": 2891,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 28.53,
+"value": 2788,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "리노공업",
+"code": "058470",
+"ret": 12.53,
+"value": 2720,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 15.0,
+"value": 1532,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250813",
+"kospi": 1.08,
+"kosdaq": 0.86,
+"adv": 1180,
+"dec": 1065,
+"flat": 128,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 157072,
+"hot": [
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 9,
+"lead": "프로이천",
+"lead_ret": 29.85,
+"second": "에스켐",
+"second_ret": 26.15
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "프로이천",
+"lead_ret": 29.85,
+"second": "케이씨텍",
+"second_ret": 9.68
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "펩트론",
+"lead_ret": 14.24,
+"second": "인벤티지랩",
+"second_ret": 13.54
+}
+],
+"themes": [
+{
+"name": "아이폰",
+"n": 20,
+"avg": 5.08,
+"up5": 4,
+"lead": "덕산네오룩스",
+"lead_ret": 24.6,
+"second": "LG디스플레이",
+"second_ret": 22.49
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 5.06,
+"up5": 1,
+"lead": "LG디스플레이",
+"lead_ret": 22.49,
+"second": "SK하이닉스",
+"second_ret": 3.35
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 24,
+"avg": 4.5,
+"up5": 5,
+"lead": "덕산네오룩스",
+"lead_ret": 24.6,
+"second": "LG디스플레이",
+"second_ret": 22.49
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 78,
+"avg": 4.27,
+"up5": 21,
+"lead": "프로이천",
+"lead_ret": 29.85,
+"second": "에스켐",
+"second_ret": 26.15
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.88,
+"up5": 6,
+"lead": "인바이오젠",
+"lead_ret": 14.29,
+"second": "펩트론",
+"second_ret": 14.24
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.69,
+"up5": 6,
+"lead": "펩트론",
+"lead_ret": 14.24,
+"second": "인벤티지랩",
+"second_ret": 13.54
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 2.66,
+"up5": 2,
+"lead": "HJ중공업",
+"lead_ret": 8.24,
+"second": "HD한국조선해양",
+"second_ret": 6.6
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.65,
+"up5": 4,
+"lead": "ISC",
+"lead_ret": 10.27,
+"second": "케이씨텍",
+"second_ret": 9.68
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.49,
+"up5": 1,
+"lead": "티씨케이",
+"lead_ret": 8.27,
+"second": "이오테크닉스",
+"second_ret": 3.91
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 2.45,
+"up5": 2,
+"lead": "비에이치",
+"lead_ret": 15.8,
+"second": "켐트로닉스",
+"second_ret": 5.53
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.39,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 16.68,
+"second": "GH신소재",
+"second_ret": 2.63
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.33,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 10.27,
+"second": "티엘비",
+"second_ret": 4.13
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.07,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.69,
+"second": "대우건설",
+"second_ret": -0.8
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -3.05,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 1.86,
+"second": "대원미디어",
+"second_ret": 0.29
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -2.4,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": -0.14,
+"second": "신세계",
+"second_ret": -0.3
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.27,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": -0.48,
+"second": "코나아이",
+"second_ret": -0.95
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.81,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 0.22,
+"second": "코오롱인더",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "LG디스플레이",
+"code": "034220",
+"ret": 22.49,
+"value": 4258,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 12.94,
+"value": 2189,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 14.24,
+"value": 1467,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "비에이치",
+"code": "090460",
+"ret": 15.8,
+"value": 1441,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+},
+{
+"name": "덕산네오룩스",
+"code": "213420",
+"ret": 24.6,
+"value": 1281,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

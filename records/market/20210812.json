@@ -1,0 +1,254 @@
+{
+"date": "20210812",
+"kospi": -0.38,
+"kosdaq": 0.21,
+"adv": 781,
+"dec": 1046,
+"flat": 194,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 313212,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "케이엔솔",
+"lead_ret": 29.82,
+"second": "새로닉스",
+"second_ret": 23.51
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "엠케이전자",
+"lead_ret": 17.96,
+"second": "덕산테코피아",
+"second_ret": 15.05
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.12,
+"second": "뷰노",
+"second_ret": 12.76
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 4.72,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 29.82,
+"second": "엔브이에이치코리아",
+"second_ret": 4.59
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 3.35,
+"up5": 3,
+"lead": "에코프로에이치엔",
+"lead_ret": 27.01,
+"second": "유니드",
+"second_ret": 8.0
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.13,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.12,
+"second": "드림씨아이에스",
+"second_ret": 4.42
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.1,
+"up5": 2,
+"lead": "디아이씨",
+"lead_ret": 7.63,
+"second": "에코프로",
+"second_ret": 6.83
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 3.08,
+"up5": 12,
+"lead": "코스모화학",
+"lead_ret": 21.53,
+"second": "엠케이전자",
+"second_ret": 17.96
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.75,
+"up5": 2,
+"lead": "엠케이전자",
+"lead_ret": 17.96,
+"second": "티엘비",
+"second_ret": 5.17
+},
+{
+"name": "2차전지",
+"n": 104,
+"avg": 2.47,
+"up5": 16,
+"lead": "케이엔솔",
+"lead_ret": 29.82,
+"second": "새로닉스",
+"second_ret": 23.51
+},
+{
+"name": "2차전지(전고체)",
+"n": 25,
+"avg": 2.37,
+"up5": 5,
+"lead": "덕산테코피아",
+"lead_ret": 15.05,
+"second": "동화기업",
+"second_ret": 8.29
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.33,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 29.82,
+"second": "3S",
+"second_ret": 2.65
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 2.19,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 15.33,
+"second": "와이지엔터테인먼트",
+"second_ret": 11.59
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 2.17,
+"up5": 2,
+"lead": "코스모화학",
+"lead_ret": 21.53,
+"second": "에코프로",
+"second_ret": 6.83
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 2.0,
+"up5": 2,
+"lead": "코스모화학",
+"lead_ret": 21.53,
+"second": "에코프로",
+"second_ret": 6.83
+}
+],
+"themes_worst": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": -2.42,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 0.3,
+"second": "두산퓨얼셀",
+"second_ret": -0.5
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.26,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 0.0,
+"second": "대원미디어",
+"second_ret": -0.29
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.16,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.42,
+"second": "메디포스트",
+"second_ret": -1.19
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -2.06,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.47,
+"second": "DSC인베스트먼트",
+"second_ret": 0.38
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -1.9,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.09,
+"second": "삼성생명",
+"second_ret": -1.42
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 10.97,
+"value": 11760,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 27.01,
+"value": 5057,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 21.53,
+"value": 3159,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 11.7,
+"value": 2719,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 15.33,
+"value": 2185,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

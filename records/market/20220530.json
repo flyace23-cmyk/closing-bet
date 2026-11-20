@@ -1,0 +1,254 @@
+{
+"date": "20220530",
+"kospi": 1.2,
+"kosdaq": 1.43,
+"adv": 1596,
+"dec": 318,
+"flat": 166,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 131748,
+"hot": [
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 4,
+"lead": "휴림로봇",
+"lead_ret": 10.28,
+"second": "LG",
+"second_ret": 9.64
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "신송홀딩스",
+"lead_ret": 23.68,
+"second": "일진홀딩스",
+"second_ret": 13.32
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "아리바이오랩",
+"lead_ret": 24.68,
+"second": "국전",
+"second_ret": 19.1
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.18,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 23.68,
+"second": "샘표",
+"second_ret": 2.28
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 3.77,
+"up5": 3,
+"lead": "아리바이오랩",
+"lead_ret": 24.68,
+"second": "국전",
+"second_ret": 19.1
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.41,
+"up5": 2,
+"lead": "이지바이오",
+"lead_ret": 20.0,
+"second": "이지홀딩스",
+"second_ret": 10.26
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.17,
+"up5": 2,
+"lead": "루멘스바이오스",
+"lead_ret": 5.99,
+"second": "큐에스아이",
+"second_ret": 5.18
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.07,
+"up5": 4,
+"lead": "쇼박스",
+"lead_ret": 8.93,
+"second": "CJ CGV",
+"second_ret": 8.11
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.0,
+"up5": 1,
+"lead": "이지홀딩스",
+"lead_ret": 10.26,
+"second": "마니커",
+"second_ret": 4.44
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.99,
+"up5": 1,
+"lead": "국전",
+"lead_ret": 19.1,
+"second": "국제약품",
+"second_ret": 3.53
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.9,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 5.94,
+"second": "코오롱인더",
+"second_ret": 5.76
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.89,
+"up5": 1,
+"lead": "KT지니뮤직",
+"lead_ret": 10.88,
+"second": "하이브",
+"second_ret": 4.35
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.81,
+"up5": 1,
+"lead": "세림B&G",
+"lead_ret": 12.48,
+"second": "씨티케이",
+"second_ret": 3.2
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.8,
+"up5": 2,
+"lead": "레이",
+"lead_ret": 9.91,
+"second": "오스코텍",
+"second_ret": 5.52
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.76,
+"up5": 3,
+"lead": "KT지니뮤직",
+"lead_ret": 10.88,
+"second": "콘텐트리중앙",
+"second_ret": 6.7
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -3.79,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.0,
+"second": "흥아해운",
+"second_ret": -2.34
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": -0.7,
+"up5": 0,
+"lead": "삼천리",
+"lead_ret": 2.5,
+"second": "SK",
+"second_ret": 2.1
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.52,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 0.45,
+"second": "HJ중공업",
+"second_ret": 0.27
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -0.39,
+"up5": 0,
+"lead": "우림피티에스",
+"lead_ret": 2.89,
+"second": "비에이치아이",
+"second_ret": 1.92
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -0.38,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": 2.67,
+"second": "팬스타엔터프라이즈",
+"second_ret": 2.23
+}
+],
+"leaders": [
+{
+"name": "국전",
+"code": "307750",
+"ret": 19.1,
+"value": 2723,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 10.28,
+"value": 2579,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 10.13,
+"value": 2134,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "이지바이오",
+"code": "353810",
+"ret": 20.0,
+"value": 1780,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "이지홀딩스",
+"code": "035810",
+"ret": 10.26,
+"value": 1579,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

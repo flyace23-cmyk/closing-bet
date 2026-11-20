@@ -1,0 +1,254 @@
+{
+"date": "20200318",
+"kospi": -4.86,
+"kosdaq": -5.75,
+"adv": 179,
+"dec": 1648,
+"flat": 83,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 144814,
+"hot": [
+{
+"name": "패션/의류",
+"n": 5,
+"lead": "좋은사람들",
+"lead_ret": 30.02,
+"second": "온타이드",
+"second_ret": 29.88
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "오상자이엘",
+"lead_ret": 29.99,
+"second": "랩지노믹스",
+"second_ret": 9.06
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "오상자이엘",
+"lead_ret": 29.99,
+"second": "LG생활건강",
+"second_ret": 3.85
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 1.61,
+"up5": 1,
+"lead": "멕아이씨에스",
+"lead_ret": 29.85,
+"second": "경동제약",
+"second_ret": 1.06
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 1.07,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 17.79,
+"second": "랩지노믹스",
+"second_ret": 9.06
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.56,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": 0.64,
+"second": "대성산업",
+"second_ret": 0.37
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -1.81,
+"up5": 3,
+"lead": "다이나믹솔루션",
+"lead_ret": 29.86,
+"second": "인성정보",
+"second_ret": 17.79
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": -1.87,
+"up5": 3,
+"lead": "오상자이엘",
+"lead_ret": 29.99,
+"second": "랩지노믹스",
+"second_ret": 9.06
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -1.9,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 1.53,
+"second": "한성기업",
+"second_ret": 0.0
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -1.97,
+"up5": 2,
+"lead": "좋은사람들",
+"lead_ret": 30.02,
+"second": "TBH글로벌",
+"second_ret": 14.69
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -2.16,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 7.59,
+"second": "파미셀",
+"second_ret": -3.02
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.23,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 0.71,
+"second": "인천도시가스",
+"second_ret": -0.42
+},
+{
+"name": "패션/의류",
+"n": 44,
+"avg": -2.23,
+"up5": 3,
+"lead": "좋은사람들",
+"lead_ret": 30.02,
+"second": "온타이드",
+"second_ret": 29.88
+},
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": -2.24,
+"up5": 1,
+"lead": "랩지노믹스",
+"lead_ret": 9.06,
+"second": "LG생활건강",
+"second_ret": 3.85
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.34,
+"up5": 1,
+"lead": "DGI",
+"lead_ret": 9.59,
+"second": "비츠로시스",
+"second_ret": 0.0
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -10.23,
+"up5": 0,
+"lead": "에어부산",
+"lead_ret": -4.02,
+"second": "아시아나항공",
+"second_ret": -5.26
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -9.12,
+"up5": 0,
+"lead": "EG",
+"lead_ret": -3.29,
+"second": "브이티",
+"second_ret": -4.88
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -8.84,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -3.3,
+"second": "디아이씨",
+"second_ret": -5.46
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": -8.46,
+"up5": 0,
+"lead": "태성",
+"lead_ret": -1.68,
+"second": "미래컴퍼니",
+"second_ret": -5.48
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": -8.44,
+"up5": 0,
+"lead": "한미반도체",
+"lead_ret": -6.47,
+"second": "미래에셋벤처투자",
+"second_ret": -6.65
+}
+],
+"leaders": [
+{
+"name": "좋은사람들",
+"code": "033340",
+"ret": 30.02,
+"value": 1499,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "오상자이엘",
+"code": "053980",
+"ret": 29.99,
+"value": 758,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "오공",
+"code": "045060",
+"ret": 16.94,
+"value": 561,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "톱텍",
+"code": "108230",
+"ret": 11.71,
+"value": 438,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "온타이드",
+"code": "005320",
+"ret": 29.88,
+"value": 223,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+}
+],
+"backfilled": true
+}

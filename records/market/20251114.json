@@ -1,0 +1,254 @@
+{
+"date": "20251114",
+"kospi": -3.81,
+"kosdaq": -2.23,
+"adv": 463,
+"dec": 1814,
+"flat": 108,
+"limit_up": 5,
+"limit_down": 2,
+"value_total": 262662,
+"hot": [
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "엔케이",
+"lead_ret": 29.96,
+"second": "삼영엠텍",
+"second_ret": 16.37
+},
+{
+"name": "치매",
+"n": 5,
+"lead": "타임X AI",
+"lead_ret": 16.61,
+"second": "퓨쳐켐",
+"second_ret": 14.78
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "씨어스",
+"lead_ret": 30.0,
+"second": "셀바스헬스케어",
+"second_ret": 14.23
+}
+],
+"themes": [
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 1.43,
+"up5": 7,
+"lead": "엔케이",
+"lead_ret": 29.96,
+"second": "삼영엠텍",
+"second_ret": 16.37
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 1.4,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 4.36,
+"second": "대한조선",
+"second_ret": 4.31
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 1.31,
+"up5": 1,
+"lead": "수젠텍",
+"lead_ret": 7.24,
+"second": "멕아이씨에스",
+"second_ret": 4.04
+},
+{
+"name": "탈모 치료",
+"n": 27,
+"avg": 1.18,
+"up5": 3,
+"lead": "메타랩스",
+"lead_ret": 29.79,
+"second": "타임X AI",
+"second_ret": 16.61
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.06,
+"up5": 2,
+"lead": "디에스케이",
+"lead_ret": 7.24,
+"second": "대웅제약",
+"second_ret": 6.82
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 0.74,
+"up5": 1,
+"lead": "엔케이",
+"lead_ret": 29.96,
+"second": "삼현철강",
+"second_ret": 0.11
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 0.41,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 8.14,
+"second": "티앤알바이오팹",
+"second_ret": 1.06
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 0.35,
+"up5": 1,
+"lead": "샘표식품",
+"lead_ret": 6.45,
+"second": "샘표",
+"second_ret": 0.79
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 0.3,
+"up5": 1,
+"lead": "씨어스",
+"lead_ret": 30.0,
+"second": "이지케어텍",
+"second_ret": 2.43
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 0.28,
+"up5": 2,
+"lead": "엔케이",
+"lead_ret": 29.96,
+"second": "원일티엔아이",
+"second_ret": 9.35
+},
+{
+"name": "치매",
+"n": 50,
+"avg": 0.22,
+"up5": 6,
+"lead": "하이퍼코퍼레이션",
+"lead_ret": 29.96,
+"second": "타임X AI",
+"second_ret": 16.61
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.16,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 3.29,
+"second": "HC홈센타",
+"second_ret": 3.26
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -6.51,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -2.44,
+"second": "삼성전기",
+"second_ret": -3.84
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -5.79,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": -0.82,
+"second": "다원넥스뷰",
+"second_ret": -1.52
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -5.74,
+"up5": 0,
+"lead": "티에프이",
+"lead_ret": 2.79,
+"second": "LB인베스트먼트",
+"second_ret": -1.49
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -5.5,
+"up5": 0,
+"lead": "국순당",
+"lead_ret": 0.0,
+"second": "대교",
+"second_ret": -1.11
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -5.34,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": -3.12,
+"second": "애경케미칼",
+"second_ret": -3.84
+}
+],
+"leaders": [
+{
+"name": "삼영엠텍",
+"code": "054540",
+"ret": 16.37,
+"value": 3366,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "퓨쳐켐",
+"code": "220100",
+"ret": 14.78,
+"value": 1779,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "씨어스",
+"code": "458870",
+"ret": 30.0,
+"value": 1534,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "세진중공업",
+"code": "075580",
+"ret": 10.94,
+"value": 1473,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "엔케이",
+"code": "085310",
+"ret": 29.96,
+"value": 773,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

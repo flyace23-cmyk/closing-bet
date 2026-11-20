@@ -1,0 +1,254 @@
+{
+"date": "20240228",
+"kospi": 1.04,
+"kosdaq": 1.13,
+"adv": 1248,
+"dec": 830,
+"flat": 165,
+"limit_up": 3,
+"limit_down": 2,
+"value_total": 210360,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "주성엔지니어링",
+"lead_ret": 13.96,
+"second": "와이씨",
+"second_ret": 13.39
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "이노뎁",
+"lead_ret": 11.97,
+"second": "아고스",
+"second_ret": 9.12
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한국비엔씨",
+"lead_ret": 13.87,
+"second": "바이오다인",
+"second_ret": 12.11
+}
+],
+"themes": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 4.37,
+"up5": 2,
+"lead": "삼성생명",
+"lead_ret": 11.73,
+"second": "삼성물산",
+"second_ret": 5.63
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.9,
+"up5": 3,
+"lead": "IPARK현대산업개발",
+"lead_ret": 6.08,
+"second": "GS건설",
+"second_ret": 5.81
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.2,
+"up5": 1,
+"lead": "케이에스피",
+"lead_ret": 11.34,
+"second": "태광",
+"second_ret": 3.85
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": 2.86,
+"up5": 2,
+"lead": "덴티스",
+"lead_ret": 29.99,
+"second": "덴티움",
+"second_ret": 5.88
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.56,
+"up5": 2,
+"lead": "주성엔지니어링",
+"lead_ret": 13.96,
+"second": "이오테크닉스",
+"second_ret": 12.16
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.5,
+"up5": 3,
+"lead": "야스",
+"lead_ret": 7.89,
+"second": "선익시스템",
+"second_ret": 7.16
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.42,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 4.53,
+"second": "현대차",
+"second_ret": 3.98
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.42,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 4.76,
+"second": "BGF리테일",
+"second_ret": 3.0
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 2.3,
+"up5": 1,
+"lead": "한화에어로스페이스",
+"lead_ret": 8.6,
+"second": "GST",
+"second_ret": 4.95
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.27,
+"up5": 2,
+"lead": "미래나노텍",
+"lead_ret": 24.3,
+"second": "상신전자",
+"second_ret": 5.15
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.27,
+"up5": 2,
+"lead": "미래나노텍",
+"lead_ret": 24.3,
+"second": "상신전자",
+"second_ret": 5.15
+},
+{
+"name": "조선기자재",
+"n": 33,
+"avg": 2.26,
+"up5": 3,
+"lead": "케이에스피",
+"lead_ret": 11.34,
+"second": "한화엔진",
+"second_ret": 7.96
+}
+],
+"themes_worst": [
+{
+"name": "마스크",
+"n": 22,
+"avg": -1.38,
+"up5": 0,
+"lead": "톱텍",
+"lead_ret": 3.91,
+"second": "디케이앤디",
+"second_ret": 3.51
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -1.15,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 2.18,
+"second": "서울바이오시스",
+"second_ret": 0.55
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -1.05,
+"up5": 0,
+"lead": "라온텍",
+"lead_ret": 4.18,
+"second": "영우디에스피",
+"second_ret": 0.8
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.04,
+"up5": 0,
+"lead": "일신바이오",
+"lead_ret": 0.07,
+"second": "JW중외제약",
+"second_ret": -0.29
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": -0.93,
+"up5": 1,
+"lead": "석경에이티",
+"lead_ret": 5.33,
+"second": "이수스페셜티케미컬",
+"second_ret": 4.53
+}
+],
+"leaders": [
+{
+"name": "주성엔지니어링",
+"code": "036930",
+"ret": 13.96,
+"value": 5126,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 24.3,
+"value": 3432,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "동일고무벨트",
+"code": "163560",
+"ret": 13.13,
+"value": 2012,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "에스앤에스텍",
+"code": "101490",
+"ret": 17.35,
+"value": 1869,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 13.39,
+"value": 1569,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

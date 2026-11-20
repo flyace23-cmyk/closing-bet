@@ -1,0 +1,254 @@
+{
+"date": "20251230",
+"kospi": -0.15,
+"kosdaq": -0.76,
+"adv": 867,
+"dec": 1403,
+"flat": 128,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 224297,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "원익",
+"lead_ret": 29.98,
+"second": "더블유에스아이",
+"second_ret": 16.24
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "제이엔비",
+"lead_ret": 29.96,
+"second": "저스템",
+"second_ret": 11.3
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "엘케이켐",
+"lead_ret": 21.4,
+"second": "에스에이엠티",
+"second_ret": 13.39
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.94,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 8.67,
+"second": "녹십자",
+"second_ret": 6.5
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 2.59,
+"up5": 3,
+"lead": "상지건설",
+"lead_ret": 19.28,
+"second": "동신건설",
+"second_ret": 13.79
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.32,
+"up5": 4,
+"lead": "아이언디바이스",
+"lead_ret": 11.07,
+"second": "에이엘티",
+"second_ret": 8.84
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.23,
+"up5": 3,
+"lead": "코리아써키트",
+"lead_ret": 10.65,
+"second": "네오셈",
+"second_ret": 9.49
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": 2.05,
+"up5": 6,
+"lead": "제주반도체",
+"lead_ret": 17.9,
+"second": "아이언디바이스",
+"second_ret": 11.07
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.99,
+"up5": 2,
+"lead": "아미노로직스",
+"lead_ret": 29.92,
+"second": "녹십자",
+"second_ret": 6.5
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 1.79,
+"up5": 2,
+"lead": "GST",
+"lead_ret": 6.65,
+"second": "워트",
+"second_ret": 5.61
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 1.77,
+"up5": 2,
+"lead": "비츠로넥스텍",
+"lead_ret": 13.7,
+"second": "모비스",
+"second_ret": 7.75
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.68,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 5.8,
+"second": "대우건설",
+"second_ret": 2.96
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.54,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.33,
+"second": "강원랜드",
+"second_ret": 2.49
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.54,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.33,
+"second": "강원랜드",
+"second_ret": 2.49
+},
+{
+"name": "시스템반도체",
+"n": 57,
+"avg": 1.46,
+"up5": 10,
+"lead": "아이언디바이스",
+"lead_ret": 11.07,
+"second": "켐트로스",
+"second_ret": 9.08
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 16,
+"avg": -3.42,
+"up5": 0,
+"lead": "동일금속",
+"lead_ret": 0.25,
+"second": "흥국",
+"second_ret": -0.19
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.91,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": -1.63,
+"second": "LS마린솔루션",
+"second_ret": -1.96
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.79,
+"up5": 0,
+"lead": "광무",
+"lead_ret": 3.06,
+"second": "미래산업",
+"second_ret": 0.58
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -2.56,
+"up5": 0,
+"lead": "서울바이오시스",
+"lead_ret": 0.79,
+"second": "우리넷",
+"second_ret": 0.42
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.54,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 1.62,
+"second": "메가터치",
+"second_ret": 1.29
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 17.9,
+"value": 5892,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "비츠로넥스텍",
+"code": "488900",
+"ret": 13.7,
+"value": 2514,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "형지엘리트",
+"code": "093240",
+"ret": 13.43,
+"value": 1908,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "리브스메드",
+"code": "491000",
+"ret": 11.78,
+"value": 1610,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼보모터스",
+"code": "053700",
+"ret": 22.99,
+"value": 1190,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240122",
+"kospi": -0.34,
+"kosdaq": -0.35,
+"adv": 939,
+"dec": 1159,
+"flat": 130,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 206074,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "네오셈",
+"lead_ret": 28.79,
+"second": "엑시콘",
+"second_ret": 20.17
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 4,
+"lead": "이수페타시스",
+"lead_ret": 21.86,
+"second": "인스웨이브",
+"second_ret": 17.26
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "신성델타테크",
+"lead_ret": 18.24,
+"second": "제우스",
+"second_ret": 18.02
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 9.09,
+"up5": 6,
+"lead": "오킨스전자",
+"lead_ret": 29.95,
+"second": "네오셈",
+"second_ret": 28.79
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 5.85,
+"up5": 6,
+"lead": "파워로직스",
+"lead_ret": 29.9,
+"second": "신성델타테크",
+"second_ret": 18.24
+},
+{
+"name": "보안주(물리)",
+"n": 18,
+"avg": 5.84,
+"up5": 5,
+"lead": "픽셀플러스",
+"lead_ret": 30.0,
+"second": "슈프리마에이치큐",
+"second_ret": 29.96
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 5.61,
+"up5": 3,
+"lead": "아이티센글로벌",
+"lead_ret": 19.17,
+"second": "포바이포",
+"second_ret": 18.37
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 5.56,
+"up5": 6,
+"lead": "슈프리마에이치큐",
+"lead_ret": 29.96,
+"second": "파워로직스",
+"second_ret": 29.9
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 5.23,
+"up5": 6,
+"lead": "어보브반도체",
+"lead_ret": 29.96,
+"second": "제주반도체",
+"second_ret": 16.95
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 4.89,
+"up5": 17,
+"lead": "어보브반도체",
+"lead_ret": 29.96,
+"second": "에이엘티",
+"second_ret": 17.56
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.72,
+"up5": 3,
+"lead": "에이직랜드",
+"lead_ret": 11.95,
+"second": "자람테크놀로지",
+"second_ret": 8.42
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 4.59,
+"up5": 7,
+"lead": "픽셀플러스",
+"lead_ret": 30.0,
+"second": "파워로직스",
+"second_ret": 29.9
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 4.47,
+"up5": 10,
+"lead": "제우스",
+"lead_ret": 18.02,
+"second": "와이씨",
+"second_ret": 12.83
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": 4.29,
+"up5": 6,
+"lead": "이수페타시스",
+"lead_ret": 21.86,
+"second": "인스웨이브",
+"second_ret": 17.26
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 3.76,
+"up5": 3,
+"lead": "어보브반도체",
+"lead_ret": 29.96,
+"second": "에이엘티",
+"second_ret": 17.56
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.28,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": 2.19,
+"second": "애경케미칼",
+"second_ret": 0.4
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.75,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.99,
+"second": "샘표",
+"second_ret": -0.59
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": -2.87,
+"up5": 0,
+"lead": "코윈로보틱스",
+"lead_ret": 2.37,
+"second": "미코",
+"second_ret": 1.59
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.54,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 4.76,
+"second": "광무",
+"second_ret": 3.61
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.54,
+"up5": 0,
+"lead": "코윈로보틱스",
+"lead_ret": 2.37,
+"second": "파워넷",
+"second_ret": 0.64
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 16.95,
+"value": 7973,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 18.24,
+"value": 5578,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 21.86,
+"value": 5230,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 15.92,
+"value": 3665,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 28.79,
+"value": 3436,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

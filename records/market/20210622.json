@@ -1,0 +1,254 @@
+{
+"date": "20210622",
+"kospi": 0.71,
+"kosdaq": 0.06,
+"adv": 1075,
+"dec": 738,
+"flat": 199,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 251328,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "케이비아이동국실업",
+"lead_ret": 17.65,
+"second": "디와이에이",
+"second_ret": 16.86
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "옵티시스",
+"lead_ret": 29.95,
+"second": "코세스",
+"second_ret": 29.72
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "화신",
+"lead_ret": 15.23,
+"second": "성호전자",
+"second_ret": 11.73
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.23,
+"up5": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 11.18,
+"second": "대한제강",
+"second_ret": 8.04
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.33,
+"up5": 4,
+"lead": "HS효성첨단소재",
+"lead_ret": 8.24,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 7.1
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 4.15,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 29.72,
+"second": "큐에스아이",
+"second_ret": 2.48
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.44,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 8.56,
+"second": "LX인터내셔널",
+"second_ret": 4.39
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.2,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 29.72,
+"second": "엘티씨",
+"second_ret": 1.6
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.11,
+"up5": 2,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 29.63,
+"second": "SIMPAC",
+"second_ret": 11.11
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.03,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 9.32,
+"second": "강스템바이오텍",
+"second_ret": 4.57
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 3.01,
+"up5": 1,
+"lead": "한세엠케이",
+"lead_ret": 29.97,
+"second": "모나용평",
+"second_ret": 3.62
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 2.93,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 8.56,
+"second": "현대비앤지스틸",
+"second_ret": 5.2
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.73,
+"up5": 3,
+"lead": "디와이에이",
+"lead_ret": 16.86,
+"second": "포스코인터내셔널",
+"second_ret": 8.56
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 40,
+"avg": 2.68,
+"up5": 6,
+"lead": "옵티시스",
+"lead_ret": 29.95,
+"second": "코세스",
+"second_ret": 29.72
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.65,
+"up5": 3,
+"lead": "상보",
+"lead_ret": 20.05,
+"second": "디와이덕양",
+"second_ret": 5.84
+}
+],
+"themes_worst": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.0,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 1.41,
+"second": "KG이니시스",
+"second_ret": 0.7
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -1.61,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 2.58,
+"second": "유엔젤",
+"second_ret": 0.12
+},
+{
+"name": "코로나19(진단키트)",
+"n": 36,
+"avg": -1.08,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 2.67,
+"second": "퀀타매트릭스",
+"second_ret": 1.96
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -1.01,
+"up5": 0,
+"lead": "다스코",
+"lead_ret": 3.18,
+"second": "형지엘리트",
+"second_ret": 1.07
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": -0.85,
+"up5": 0,
+"lead": "파워넷",
+"lead_ret": 0.71,
+"second": "LB세미콘",
+"second_ret": 0.39
+}
+],
+"leaders": [
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 15.79,
+"value": 9599,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 24.43,
+"value": 5302,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 20.34,
+"value": 3884,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "선익시스템",
+"code": "171090",
+"ret": 16.02,
+"value": 3470,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 13.34,
+"value": 2497,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

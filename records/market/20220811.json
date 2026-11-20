@@ -1,0 +1,254 @@
+{
+"date": "20220811",
+"kospi": 1.73,
+"kosdaq": 1.45,
+"adv": 1645,
+"dec": 299,
+"flat": 152,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 154534,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 6,
+"lead": "두산퓨얼셀",
+"lead_ret": 14.79,
+"second": "에스프리즘",
+"second_ret": 12.24
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 4,
+"lead": "와이엠텍",
+"lead_ret": 11.04,
+"second": "LG전자",
+"second_ret": 8.84
+},
+{
+"name": "태양광에너지",
+"n": 4,
+"lead": "대명에너지",
+"lead_ret": 29.88,
+"second": "에스에너지",
+"second_ret": 11.89
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 4.65,
+"up5": 4,
+"lead": "두산퓨얼셀",
+"lead_ret": 14.79,
+"second": "비에이치아이",
+"second_ret": 7.69
+},
+{
+"name": "태양광에너지",
+"n": 39,
+"avg": 3.9,
+"up5": 7,
+"lead": "대명에너지",
+"lead_ret": 29.88,
+"second": "지투파워",
+"second_ret": 29.71
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.64,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 8.84,
+"second": "LG디스플레이",
+"second_ret": 5.38
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 3.62,
+"up5": 6,
+"lead": "대명에너지",
+"lead_ret": 29.88,
+"second": "우림피티에스",
+"second_ret": 8.85
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.43,
+"up5": 2,
+"lead": "HS효성첨단소재",
+"lead_ret": 8.04,
+"second": "효성티앤씨",
+"second_ret": 5.57
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.37,
+"up5": 3,
+"lead": "예스티",
+"lead_ret": 6.09,
+"second": "이오테크닉스",
+"second_ret": 5.95
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.32,
+"up5": 3,
+"lead": "신성이엔지",
+"lead_ret": 8.41,
+"second": "한화투자증권",
+"second_ret": 6.38
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.15,
+"up5": 2,
+"lead": "엔케이",
+"lead_ret": 10.08,
+"second": "문배철강",
+"second_ret": 7.39
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": 3.14,
+"up5": 9,
+"lead": "지투파워",
+"lead_ret": 29.71,
+"second": "보성파워텍",
+"second_ret": 10.13
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.11,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 8.84,
+"second": "광전자",
+"second_ret": 6.61
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.1,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 6.38,
+"second": "그래디언트",
+"second_ret": 4.02
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.98,
+"up5": 1,
+"lead": "우원개발",
+"lead_ret": 13.41,
+"second": "LS마린솔루션",
+"second_ret": 3.36
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -1.48,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 1.35,
+"second": "강스템바이오텍",
+"second_ret": 0.1
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.14,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 1.57,
+"second": "유성티엔에스",
+"second_ret": 1.12
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 0.01,
+"up5": 0,
+"lead": "비츠로시스",
+"lead_ret": 3.25,
+"second": "앤씨앤",
+"second_ret": 1.04
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.07,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 1.17,
+"second": "유비벨록스",
+"second_ret": 0.32
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 0.1,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 1.68,
+"second": "KG이니시스",
+"second_ret": 1.44
+}
+],
+"leaders": [
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 14.79,
+"value": 2315,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 10.13,
+"value": 1885,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대명에너지",
+"code": "389260",
+"ret": 29.88,
+"value": 1879,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 10.81,
+"value": 1413,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "에스에너지",
+"code": "095910",
+"ret": 11.89,
+"value": 1401,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

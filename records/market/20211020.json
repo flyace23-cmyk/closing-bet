@@ -1,0 +1,254 @@
+{
+"date": "20211020",
+"kospi": -0.53,
+"kosdaq": -0.37,
+"adv": 766,
+"dec": 1096,
+"flat": 179,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 295767,
+"hot": [
+{
+"name": "음원/음반",
+"n": 4,
+"lead": "NHN벅스",
+"lead_ret": 29.86,
+"second": "다날",
+"second_ret": 19.58
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 4,
+"lead": "NHN벅스",
+"lead_ret": 29.86,
+"second": "다날",
+"second_ret": 19.58
+},
+{
+"name": "쿠팡(coupang)",
+"n": 3,
+"lead": "다날",
+"lead_ret": 19.58,
+"second": "NEW",
+"second_ret": 11.44
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 7.06,
+"up5": 6,
+"lead": "NHN벅스",
+"lead_ret": 29.86,
+"second": "다날",
+"second_ret": 19.58
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 4.02,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 14.07,
+"second": "NEW",
+"second_ret": 11.44
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.53,
+"up5": 2,
+"lead": "남해화학",
+"lead_ret": 20.09,
+"second": "조비",
+"second_ret": 7.22
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 3.38,
+"up5": 6,
+"lead": "아센디오",
+"lead_ret": 14.07,
+"second": "JYP Ent.",
+"second_ret": 11.5
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.37,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 19.58,
+"second": "NEW",
+"second_ret": 11.44
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.21,
+"up5": 3,
+"lead": "남해화학",
+"lead_ret": 20.09,
+"second": "조비",
+"second_ret": 7.22
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.06,
+"up5": 1,
+"lead": "NHN벅스",
+"lead_ret": 29.86,
+"second": "가비아",
+"second_ret": 2.35
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.02,
+"up5": 1,
+"lead": "씨엑스아이",
+"lead_ret": 21.12,
+"second": "글로벌에스엠",
+"second_ret": 2.75
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.01,
+"up5": 1,
+"lead": "이연제약",
+"lead_ret": 29.84,
+"second": "서린바이오",
+"second_ret": 3.46
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": 2.9,
+"up5": 4,
+"lead": "NHN벅스",
+"lead_ret": 29.86,
+"second": "다날",
+"second_ret": 19.58
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.71,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 6.58,
+"second": "리튬포어스",
+"second_ret": 5.39
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.68,
+"up5": 3,
+"lead": "키다리스튜디오",
+"lead_ret": 9.33,
+"second": "디앤씨미디어",
+"second_ret": 7.87
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.94,
+"up5": 0,
+"lead": "한국철강",
+"lead_ret": -2.16,
+"second": "대한제강",
+"second_ret": -2.24
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -2.92,
+"up5": 0,
+"lead": "모비스",
+"lead_ret": 0.0,
+"second": "삼화콘덴서",
+"second_ret": -1.41
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.73,
+"up5": 0,
+"lead": "오르비텍",
+"lead_ret": 1.26,
+"second": "에스앤더블류",
+"second_ret": 0.0
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.36,
+"up5": 0,
+"lead": "오르비텍",
+"lead_ret": 1.26,
+"second": "아스트",
+"second_ret": -0.14
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.27,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.52,
+"second": "토비스",
+"second_ret": -1.51
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 19.58,
+"value": 6489,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "신원",
+"code": "009270",
+"ret": 10.39,
+"value": 3065,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "JYP Ent.",
+"code": "035900",
+"ret": 11.5,
+"value": 2456,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "남해화학",
+"code": "025860",
+"ret": 20.09,
+"value": 2003,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "원준",
+"code": "382840",
+"ret": 12.96,
+"value": 1776,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230214",
+"kospi": 0.53,
+"kosdaq": 0.91,
+"adv": 1131,
+"dec": 865,
+"flat": 139,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 154046,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "윈팩",
+"lead_ret": 30.0,
+"second": "네패스아크",
+"second_ret": 14.0
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "네패스아크",
+"lead_ret": 14.0,
+"second": "프로텍",
+"second_ret": 13.36
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "피엔에이치테크",
+"lead_ret": 12.21,
+"second": "디바이스",
+"second_ret": 9.71
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": 5.41,
+"up5": 3,
+"lead": "엠케이전자",
+"lead_ret": 29.96,
+"second": "티에프이",
+"second_ret": 7.26
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 30,
+"avg": 5.09,
+"up5": 10,
+"lead": "윈팩",
+"lead_ret": 30.0,
+"second": "엠케이전자",
+"second_ret": 29.96
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 4.68,
+"up5": 2,
+"lead": "네패스아크",
+"lead_ret": 14.0,
+"second": "오픈엣지테크놀로지",
+"second_ret": 7.87
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 4.18,
+"up5": 6,
+"lead": "제주반도체",
+"lead_ret": 20.66,
+"second": "네패스아크",
+"second_ret": 14.0
+},
+{
+"name": "전력반도체",
+"n": 15,
+"avg": 3.96,
+"up5": 4,
+"lead": "어보브반도체",
+"lead_ret": 13.47,
+"second": "디아이티",
+"second_ret": 8.74
+},
+{
+"name": "시스템반도체",
+"n": 45,
+"avg": 3.74,
+"up5": 13,
+"lead": "윈팩",
+"lead_ret": 30.0,
+"second": "네패스아크",
+"second_ret": 14.0
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.22,
+"up5": 2,
+"lead": "대모",
+"lead_ret": 12.9,
+"second": "혜인",
+"second_ret": 5.6
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.08,
+"up5": 3,
+"lead": "휴온스",
+"lead_ret": 13.89,
+"second": "제테마",
+"second_ret": 8.06
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 2.99,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 7.87,
+"second": "큐알티",
+"second_ret": 7.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.91,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 5.69,
+"second": "삼성에스디에스",
+"second_ret": 3.55
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 2.91,
+"up5": 1,
+"lead": "라이콤",
+"lead_ret": 29.88,
+"second": "서울바이오시스",
+"second_ret": 3.71
+},
+{
+"name": "반도체 장비",
+"n": 83,
+"avg": 2.57,
+"up5": 16,
+"lead": "네패스아크",
+"lead_ret": 14.0,
+"second": "프로텍",
+"second_ret": 13.36
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 10,
+"avg": -2.46,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.77,
+"second": "기업은행",
+"second_ret": -0.95
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.1,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 0.88,
+"second": "광무",
+"second_ret": 0.0
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -2.05,
+"up5": 0,
+"lead": "케이씨피드",
+"lead_ret": 3.67,
+"second": "팜스코",
+"second_ret": 3.67
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": -1.65,
+"up5": 0,
+"lead": "셀바스AI",
+"lead_ret": 3.26,
+"second": "이미지스",
+"second_ret": 1.97
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.59,
+"up5": 0,
+"lead": "케이에스피",
+"lead_ret": 0.48,
+"second": "화성밸브",
+"second_ret": -0.18
+}
+],
+"leaders": [
+{
+"name": "엠케이전자",
+"code": "033160",
+"ret": 29.96,
+"value": 2730,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 20.66,
+"value": 2501,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "티쓰리",
+"code": "204610",
+"ret": 23.99,
+"value": 2368,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "컴투스",
+"code": "078340",
+"ret": 11.55,
+"value": 2091,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "대모",
+"code": "317850",
+"ret": 12.9,
+"value": 1567,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+}
+],
+"backfilled": true
+}

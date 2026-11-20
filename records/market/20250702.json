@@ -1,0 +1,254 @@
+{
+"date": "20250702",
+"kospi": -0.47,
+"kosdaq": -0.19,
+"adv": 913,
+"dec": 1305,
+"flat": 146,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 195022,
+"hot": [
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "애경케미칼",
+"lead_ret": 16.62,
+"second": "HD건설기계",
+"second_ret": 15.23
+},
+{
+"name": "여름",
+"n": 3,
+"lead": "파세코",
+"lead_ret": 21.08,
+"second": "오텍",
+"second_ret": 14.58
+},
+{
+"name": "황사/미세먼지",
+"n": 3,
+"lead": "파세코",
+"lead_ret": 21.08,
+"second": "웰크론",
+"second_ret": 11.22
+}
+],
+"themes": [
+{
+"name": "제습기",
+"n": 8,
+"avg": 5.51,
+"up5": 3,
+"lead": "파세코",
+"lead_ret": 21.08,
+"second": "위닉스",
+"second_ret": 10.24
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.63,
+"up5": 2,
+"lead": "딥커머스",
+"lead_ret": 29.65,
+"second": "씨엑스아이",
+"second_ret": 7.89
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 3.16,
+"up5": 6,
+"lead": "파세코",
+"lead_ret": 21.08,
+"second": "오텍",
+"second_ret": 14.58
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": 3.14,
+"up5": 3,
+"lead": "오텍",
+"lead_ret": 14.58,
+"second": "위닉스",
+"second_ret": 10.24
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.74,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 6.82,
+"second": "한국앤컴퍼니",
+"second_ret": 4.65
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.49,
+"up5": 1,
+"lead": "앱튼",
+"lead_ret": 23.5,
+"second": "LG화학",
+"second_ret": 4.8
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.45,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 9.86,
+"second": "한울앤제주",
+"second_ret": 3.81
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.38,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 16.62,
+"second": "메가터치",
+"second_ret": 3.74
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.33,
+"up5": 3,
+"lead": "오로라",
+"lead_ret": 12.68,
+"second": "데브시스터즈",
+"second_ret": 8.18
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.23,
+"up5": 3,
+"lead": "애경케미칼",
+"lead_ret": 16.62,
+"second": "한화솔루션",
+"second_ret": 6.14
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.19,
+"up5": 4,
+"lead": "셀트리온제약",
+"lead_ret": 8.18,
+"second": "삼천당제약",
+"second_ret": 7.06
+},
+{
+"name": "황사/미세먼지",
+"n": 25,
+"avg": 1.96,
+"up5": 3,
+"lead": "파세코",
+"lead_ret": 21.08,
+"second": "웰크론",
+"second_ret": 11.22
+}
+],
+"themes_worst": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -3.47,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 2.44,
+"second": "우리기술투자",
+"second_ret": 0.99
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -3.4,
+"up5": 1,
+"lead": "사토시홀딩스",
+"lead_ret": 5.54,
+"second": "카카오페이",
+"second_ret": 0.91
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.3,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -1.43,
+"second": "한화오션",
+"second_ret": -2.79
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.23,
+"up5": 0,
+"lead": "카카오페이",
+"lead_ret": 0.91,
+"second": "인포바인",
+"second_ret": 0.7
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.13,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": -0.68,
+"second": "웹케시",
+"second_ret": -2.63
+}
+],
+"leaders": [
+{
+"name": "HD건설기계",
+"code": "267270",
+"ret": 15.23,
+"value": 3104,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "파세코",
+"code": "037070",
+"ret": 21.08,
+"value": 1504,
+"theme": "여름",
+"reason": "테마: 여름"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 16.62,
+"value": 1275,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "상지건설",
+"code": "042940",
+"ret": 29.98,
+"value": 1104,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "인트론바이오",
+"code": "048530",
+"ret": 16.12,
+"value": 647,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+}
+],
+"backfilled": true
+}

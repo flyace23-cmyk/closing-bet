@@ -1,0 +1,254 @@
+{
+"date": "20221109",
+"kospi": 1.06,
+"kosdaq": 0.18,
+"adv": 1118,
+"dec": 782,
+"flat": 215,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 135223,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 7,
+"lead": "SY동아",
+"lead_ret": 29.95,
+"second": "신도기연",
+"second_ret": 18.88
+},
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "SY동아",
+"lead_ret": 29.95,
+"second": "엠에스오토텍",
+"second_ret": 15.73
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "씨에스베어링",
+"lead_ret": 13.48,
+"second": "한국전력",
+"second_ret": 8.77
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 4.92,
+"up5": 5,
+"lead": "비에이치아이",
+"lead_ret": 18.83,
+"second": "미코",
+"second_ret": 8.4
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 4.09,
+"up5": 2,
+"lead": "한울반도체",
+"lead_ret": 29.83,
+"second": "삼성전기",
+"second_ret": 6.95
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.67,
+"up5": 3,
+"lead": "YTN",
+"lead_ret": 20.96,
+"second": "iMBC",
+"second_ret": 6.31
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.31,
+"up5": 3,
+"lead": "한국전력",
+"lead_ret": 8.77,
+"second": "HD현대에너지솔루션",
+"second_ret": 8.14
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 3.28,
+"up5": 7,
+"lead": "씨엔플러스",
+"lead_ret": 29.88,
+"second": "씨에스베어링",
+"second_ret": 13.48
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.18,
+"up5": 3,
+"lead": "앱튼",
+"lead_ret": 24.32,
+"second": "미래나노텍",
+"second_ret": 10.91
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.82,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 18.83,
+"second": "한국전력",
+"second_ret": 8.77
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 68,
+"avg": 2.7,
+"up5": 12,
+"lead": "SY동아",
+"lead_ret": 29.95,
+"second": "신도기연",
+"second_ret": 18.88
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.52,
+"up5": 1,
+"lead": "비에이치아이",
+"lead_ret": 18.83,
+"second": "우리기술",
+"second_ret": 3.16
+},
+{
+"name": "태양광에너지",
+"n": 39,
+"avg": 2.43,
+"up5": 4,
+"lead": "씨엔플러스",
+"lead_ret": 29.88,
+"second": "한국전력",
+"second_ret": 8.77
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 2.39,
+"up5": 3,
+"lead": "신도기연",
+"lead_ret": 18.88,
+"second": "동운아나텍",
+"second_ret": 7.54
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.2,
+"up5": 3,
+"lead": "영풍",
+"lead_ret": 20.62,
+"second": "LX세미콘",
+"second_ret": 7.98
+}
+],
+"themes_worst": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.36,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 1.5,
+"second": "코오롱인더",
+"second_ret": 1.32
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.19,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -0.21,
+"second": "GKL",
+"second_ret": -0.32
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.19,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -0.21,
+"second": "GKL",
+"second_ret": -0.32
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.03,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 0.59,
+"second": "레드캡투어",
+"second_ret": 0.0
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -0.86,
+"up5": 0,
+"lead": "네오리진",
+"lead_ret": 3.22,
+"second": "액토즈소프트",
+"second_ret": 2.81
+}
+],
+"leaders": [
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 10.91,
+"value": 5838,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 10.94,
+"value": 3141,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "YTN",
+"code": "040300",
+"ret": 20.96,
+"value": 1590,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "신도기연",
+"code": "290520",
+"ret": 18.88,
+"value": 678,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "영풍",
+"code": "000670",
+"ret": 20.62,
+"value": 605,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

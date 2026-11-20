@@ -1,0 +1,254 @@
+{
+"date": "20230531",
+"kospi": -0.32,
+"kosdaq": 0.64,
+"adv": 806,
+"dec": 1205,
+"flat": 149,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 216140,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "아이크래프트",
+"lead_ret": 18.29,
+"second": "PS일렉트로닉스",
+"second_ret": 15.98
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "코미코",
+"lead_ret": 9.69,
+"second": "기가비스",
+"second_ret": 8.57
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "유라테크",
+"lead_ret": 14.52,
+"second": "디와이덕양",
+"second_ret": 9.9
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.44,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 8.55,
+"second": "제주항공",
+"second_ret": 4.55
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.32,
+"up5": 1,
+"lead": "더블유씨피",
+"lead_ret": 6.75,
+"second": "에코프로비엠",
+"second_ret": 4.18
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.78,
+"up5": 2,
+"lead": "HLB제넥스",
+"lead_ret": 29.94,
+"second": "DXVX",
+"second_ret": 7.3
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 1.72,
+"up5": 1,
+"lead": "NICE인프라",
+"lead_ret": 10.23,
+"second": "카카오페이",
+"second_ret": 2.74
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.64,
+"up5": 4,
+"lead": "미래나노텍",
+"lead_ret": 8.48,
+"second": "리튬포어스",
+"second_ret": 7.27
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.46,
+"up5": 1,
+"lead": "시그네틱스",
+"lead_ret": 27.43,
+"second": "웰크론",
+"second_ret": 1.02
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 1.38,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 7.27,
+"second": "데브시스터즈",
+"second_ret": 1.86
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 1.21,
+"up5": 2,
+"lead": "HLB제넥스",
+"lead_ret": 29.94,
+"second": "바이오니아",
+"second_ret": 9.18
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 1.18,
+"up5": 0,
+"lead": "토마토시스템",
+"lead_ret": 4.74,
+"second": "엑스페릭스",
+"second_ret": 4.17
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 1.12,
+"up5": 3,
+"lead": "아이크래프트",
+"lead_ret": 18.29,
+"second": "광무",
+"second_ret": 5.95
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.98,
+"up5": 1,
+"lead": "푸드나무",
+"lead_ret": 7.89,
+"second": "마니커에프앤지",
+"second_ret": 1.35
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 0.91,
+"up5": 1,
+"lead": "세코닉스",
+"lead_ret": 11.48,
+"second": "오비고",
+"second_ret": 2.28
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.62,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 5.95,
+"second": "오파스넷",
+"second_ret": -1.9
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.18,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": -1.06,
+"second": "휴비스",
+"second_ret": -1.28
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -1.75,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -0.51,
+"second": "네패스아크",
+"second_ret": -0.61
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -1.58,
+"up5": 0,
+"lead": "대한광통신",
+"lead_ret": 1.13,
+"second": "RFHIC",
+"second_ret": 0.87
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.56,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.05,
+"second": "롯데정밀화학",
+"second_ret": -1.18
+}
+],
+"leaders": [
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 29.88,
+"value": 2620,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "시그네틱스",
+"code": "033170",
+"ret": 27.43,
+"value": 1918,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "OCI",
+"code": "456040",
+"ret": 17.48,
+"value": 1784,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "아이크래프트",
+"code": "052460",
+"ret": 18.29,
+"value": 1288,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "셀바스헬스케어",
+"code": "208370",
+"ret": 11.38,
+"value": 1180,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

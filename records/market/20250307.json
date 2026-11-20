@@ -1,0 +1,254 @@
+{
+"date": "20250307",
+"kospi": -0.49,
+"kosdaq": -0.98,
+"adv": 738,
+"dec": 1476,
+"flat": 124,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 179617,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "파이버프로",
+"lead_ret": 16.33,
+"second": "한화시스템",
+"second_ret": 10.1
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "나인테크",
+"lead_ret": 10.13,
+"second": "LG화학",
+"second_ret": 7.51
+},
+{
+"name": "철강 주요종목",
+"n": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 17.46,
+"second": "현대제철",
+"second_ret": 8.7
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 3.82,
+"up5": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 17.46,
+"second": "현대제철",
+"second_ret": 8.7
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.52,
+"up5": 1,
+"lead": "퀄리타스반도체",
+"lead_ret": 22.68,
+"second": "코리아써키트",
+"second_ret": 4.85
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.36,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 10.13,
+"second": "에코프로비엠",
+"second_ret": 3.37
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.03,
+"up5": 3,
+"lead": "LG화학",
+"lead_ret": 7.51,
+"second": "롯데케미칼",
+"second_ret": 7.01
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 1.63,
+"up5": 2,
+"lead": "LG화학",
+"lead_ret": 7.51,
+"second": "POSCO홀딩스",
+"second_ret": 7.28
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.62,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 4.93,
+"second": "DL이앤씨",
+"second_ret": 1.85
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.51,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.97,
+"second": "모두투어",
+"second_ret": 2.47
+},
+{
+"name": "철강 중소형",
+"n": 34,
+"avg": 1.5,
+"up5": 8,
+"lead": "하이스틸",
+"lead_ret": 11.98,
+"second": "한국특강",
+"second_ret": 9.34
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 1.47,
+"up5": 2,
+"lead": "퀄리타스반도체",
+"lead_ret": 22.68,
+"second": "제주반도체",
+"second_ret": 5.73
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.35,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 5.45,
+"second": "태광산업",
+"second_ret": 2.8
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.26,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.97,
+"second": "파라다이스",
+"second_ret": 3.38
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.26,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 3.97,
+"second": "파라다이스",
+"second_ret": 3.38
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -3.76,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": 0.0,
+"second": "알체라",
+"second_ret": 0.0
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -3.35,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": -0.57,
+"second": "메가엠디",
+"second_ret": -1.35
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.15,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": 1.67,
+"second": "갤럭시아머니트리",
+"second_ret": -3.32
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -2.83,
+"up5": 0,
+"lead": "NEW",
+"lead_ret": 1.96,
+"second": "CJ ENM",
+"second_ret": 1.19
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.77,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": -0.78,
+"second": "녹십자",
+"second_ret": -2.85
+}
+],
+"leaders": [
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 10.1,
+"value": 10840,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 11.98,
+"value": 1608,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "포스코스틸리온",
+"code": "058430",
+"ret": 17.46,
+"value": 1591,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 20.79,
+"value": 1435,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "퀄리타스반도체",
+"code": "432720",
+"ret": 22.68,
+"value": 1065,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+}
+],
+"backfilled": true
+}

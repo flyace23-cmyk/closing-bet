@@ -1,0 +1,254 @@
+{
+"date": "20200224",
+"kospi": -3.87,
+"kosdaq": -4.3,
+"adv": 109,
+"dec": 1734,
+"flat": 61,
+"limit_up": 8,
+"limit_down": 2,
+"value_total": 183274,
+"hot": [
+{
+"name": "수산",
+"n": 5,
+"lead": "CJ씨푸드",
+"lead_ret": 29.98,
+"second": "사조오양",
+"second_ret": 29.68
+},
+{
+"name": "쿠팡(coupang)",
+"n": 4,
+"lead": "동방",
+"lead_ret": 29.93,
+"second": "서울식품",
+"second_ret": 29.76
+},
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "서울식품",
+"lead_ret": 29.76,
+"second": "우양",
+"second_ret": 16.09
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 12.15,
+"up5": 4,
+"lead": "CJ씨푸드",
+"lead_ret": 29.98,
+"second": "우양",
+"second_ret": 16.09
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 11.04,
+"up5": 6,
+"lead": "CJ씨푸드",
+"lead_ret": 29.98,
+"second": "사조오양",
+"second_ret": 29.68
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 6.56,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 30.0,
+"second": "엔브이에이치코리아",
+"second_ret": 22.34
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 2.4,
+"up5": 3,
+"lead": "한익스프레스",
+"lead_ret": 30.0,
+"second": "동방",
+"second_ret": 29.93
+},
+{
+"name": "쿠팡(coupang)",
+"n": 17,
+"avg": 2.28,
+"up5": 4,
+"lead": "동방",
+"lead_ret": 29.93,
+"second": "서울식품",
+"second_ret": 29.76
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 1.56,
+"up5": 5,
+"lead": "CJ씨푸드",
+"lead_ret": 29.98,
+"second": "사조오양",
+"second_ret": 29.68
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 1.22,
+"up5": 2,
+"lead": "태림포장",
+"lead_ret": 15.18,
+"second": "삼보판지",
+"second_ret": 13.05
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 0.41,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 16.09,
+"second": "지어소프트",
+"second_ret": 8.14
+},
+{
+"name": "육계",
+"n": 8,
+"avg": -0.38,
+"up5": 1,
+"lead": "마니커에프앤지",
+"lead_ret": 6.84,
+"second": "푸드나무",
+"second_ret": 1.18
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": -0.58,
+"up5": 1,
+"lead": "다날",
+"lead_ret": 9.04,
+"second": "인포뱅크",
+"second_ret": 3.05
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.34,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 1.82,
+"second": "DB손해보험",
+"second_ret": 1.29
+},
+{
+"name": "음식료업종",
+"n": 53,
+"avg": -1.45,
+"up5": 5,
+"lead": "서울식품",
+"lead_ret": 29.76,
+"second": "우양",
+"second_ret": 16.09
+}
+],
+"themes_worst": [
+{
+"name": "마스크",
+"n": 19,
+"avg": -8.68,
+"up5": 0,
+"lead": "톱텍",
+"lead_ret": 0.42,
+"second": "조아제약",
+"second_ret": -1.68
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -8.65,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 0.23,
+"second": "유비온",
+"second_ret": 0.0
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -8.16,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -6.11,
+"second": "성우전자",
+"second_ret": -6.25
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": -8.07,
+"up5": 0,
+"lead": "네오팜",
+"lead_ret": -0.57,
+"second": "매일유업",
+"second_ret": -0.96
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": -7.77,
+"up5": 0,
+"lead": "일신바이오",
+"lead_ret": -4.97,
+"second": "삼성바이오로직스",
+"second_ret": -5.24
+}
+],
+"leaders": [
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 29.9,
+"value": 1548,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "태림포장",
+"code": "011280",
+"ret": 15.18,
+"value": 1445,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "CJ씨푸드",
+"code": "011150",
+"ret": 29.98,
+"value": 1054,
+"theme": "수산",
+"reason": "테마: 수산"
+},
+{
+"name": "엔브이에이치코리아",
+"code": "067570",
+"ret": 22.34,
+"value": 784,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "비씨월드제약",
+"code": "200780",
+"ret": 30.0,
+"value": 715,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

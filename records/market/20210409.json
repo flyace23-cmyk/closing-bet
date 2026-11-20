@@ -1,0 +1,246 @@
+{
+"date": "20210409",
+"kospi": -0.36,
+"kosdaq": 0.75,
+"adv": 1130,
+"dec": 672,
+"flat": 195,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 292421,
+"hot": [
+{
+"name": "리모델링/인테리어",
+"n": 3,
+"lead": "시공테크",
+"lead_ret": 29.86,
+"second": "희림",
+"second_ret": 13.94
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "셀리드",
+"lead_ret": 12.4,
+"second": "네오이뮨텍",
+"second_ret": 12.14
+}
+],
+"themes": [
+{
+"name": "테마파크",
+"n": 5,
+"avg": 8.39,
+"up5": 2,
+"lead": "시공테크",
+"lead_ret": 29.86,
+"second": "한국종합기술",
+"second_ret": 13.1
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.5,
+"up5": 2,
+"lead": "엔투텍",
+"lead_ret": 15.62,
+"second": "녹십자",
+"second_ret": 5.05
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.21,
+"up5": 2,
+"lead": "벽산",
+"lead_ret": 12.38,
+"second": "조광페인트",
+"second_ret": 10.67
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 3.86,
+"up5": 4,
+"lead": "보해양조",
+"lead_ret": 29.96,
+"second": "모나미",
+"second_ret": 13.48
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": 3.73,
+"up5": 1,
+"lead": "보해양조",
+"lead_ret": 29.96,
+"second": "무학",
+"second_ret": 3.5
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 3.62,
+"up5": 4,
+"lead": "시공테크",
+"lead_ret": 29.86,
+"second": "희림",
+"second_ret": 13.94
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 3.45,
+"up5": 5,
+"lead": "유니온",
+"lead_ret": 11.46,
+"second": "동국알앤에스",
+"second_ret": 9.2
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.38,
+"up5": 4,
+"lead": "프리엠스",
+"lead_ret": 12.71,
+"second": "수산세보틱스",
+"second_ret": 9.69
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.34,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 11.46,
+"second": "유니온머티리얼",
+"second_ret": 5.37
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 2.92,
+"up5": 3,
+"lead": "시공테크",
+"lead_ret": 29.86,
+"second": "데브시스터즈",
+"second_ret": 6.43
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.86,
+"up5": 2,
+"lead": "코오롱",
+"lead_ret": 18.93,
+"second": "한화투자증권",
+"second_ret": 7.87
+},
+{
+"name": "면역항암제",
+"n": 26,
+"avg": 2.74,
+"up5": 6,
+"lead": "셀리드",
+"lead_ret": 12.4,
+"second": "네오이뮨텍",
+"second_ret": 12.14
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.8,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "HL만도",
+"second_ret": -0.91
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.61,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": 0.64,
+"second": "현대제철",
+"second_ret": 0.2
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -1.16,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 1.42,
+"second": "대성창투",
+"second_ret": 0.55
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.09,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": 0.0,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": -1.09,
+"up5": 0,
+"lead": "아이에이",
+"lead_ret": 1.99,
+"second": "코스텍시스",
+"second_ret": 1.65
+}
+],
+"leaders": [
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 14.35,
+"value": 4597,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "웹젠",
+"code": "069080",
+"ret": 21.76,
+"value": 3649,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "보해양조",
+"code": "000890",
+"ret": 29.96,
+"value": 2875,
+"theme": "주류업(주정, 에탄올 등)",
+"reason": "테마: 주류업(주정, 에탄올 등)"
+},
+{
+"name": "벽산",
+"code": "007210",
+"ret": 12.38,
+"value": 2867,
+"theme": "리모델링/인테리어",
+"reason": "테마: 리모델링/인테리어"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 11.46,
+"value": 2477,
+"theme": "요소수",
+"reason": "테마: 요소수"
+}
+],
+"backfilled": true
+}

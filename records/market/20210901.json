@@ -1,0 +1,254 @@
+{
+"date": "20210901",
+"kospi": 0.24,
+"kosdaq": 0.74,
+"adv": 1329,
+"dec": 500,
+"flat": 199,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 241531,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "조일알미늄",
+"lead_ret": 29.85,
+"second": "에코앤드림",
+"second_ret": 16.75
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "위메이드맥스",
+"lead_ret": 29.92,
+"second": "엠게임",
+"second_ret": 29.79
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "다산솔루에타",
+"lead_ret": 19.0,
+"second": "KH바텍",
+"second_ret": 10.16
+}
+],
+"themes": [
+{
+"name": "비철금속",
+"n": 22,
+"avg": 3.81,
+"up5": 6,
+"lead": "조일알미늄",
+"lead_ret": 29.85,
+"second": "삼아알미늄",
+"second_ret": 11.34
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 3.42,
+"up5": 1,
+"lead": "원티드랩",
+"lead_ret": 16.03,
+"second": "메가엠디",
+"second_ret": 2.43
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.16,
+"up5": 2,
+"lead": "엠게임",
+"lead_ret": 29.79,
+"second": "위메이드",
+"second_ret": 13.73
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 2.98,
+"up5": 6,
+"lead": "위메이드맥스",
+"lead_ret": 29.92,
+"second": "엠게임",
+"second_ret": 29.79
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.97,
+"up5": 4,
+"lead": "위메이드맥스",
+"lead_ret": 29.92,
+"second": "엠게임",
+"second_ret": 29.79
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.89,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 11.0,
+"second": "아이티센씨티에스",
+"second_ret": 3.76
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 2.89,
+"up5": 2,
+"lead": "엠게임",
+"lead_ret": 29.79,
+"second": "동운아나텍",
+"second_ret": 8.76
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.73,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 9.13,
+"second": "휴온스글로벌",
+"second_ret": 5.08
+},
+{
+"name": "유전자 치료제/분석",
+"n": 31,
+"avg": 2.68,
+"up5": 4,
+"lead": "바이오니아",
+"lead_ret": 18.41,
+"second": "바이젠셀",
+"second_ret": 8.93
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.67,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 6.14,
+"second": "한전기술",
+"second_ret": 5.17
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.65,
+"up5": 2,
+"lead": "엠게임",
+"lead_ret": 29.79,
+"second": "위메이드",
+"second_ret": 13.73
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 2.35,
+"up5": 1,
+"lead": "SIMPAC",
+"lead_ret": 19.34,
+"second": "한국주강",
+"second_ret": 3.94
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.74,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 2.54,
+"second": "아주IB투자",
+"second_ret": 1.05
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -1.31,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 2.51,
+"second": "애경케미칼",
+"second_ret": 2.41
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": -0.74,
+"up5": 0,
+"lead": "엑시온그룹",
+"lead_ret": 2.21,
+"second": "BGF리테일",
+"second_ret": 1.12
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.62,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": 0.94,
+"second": "흥구석유",
+"second_ret": 0.4
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": -0.6,
+"up5": 0,
+"lead": "한솔홈데코",
+"lead_ret": 3.37,
+"second": "SGC에너지",
+"second_ret": 2.66
+}
+],
+"leaders": [
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 18.41,
+"value": 5343,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 13.73,
+"value": 5106,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 29.85,
+"value": 2975,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "KH바텍",
+"code": "060720",
+"ret": 10.16,
+"value": 2490,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 16.81,
+"value": 2461,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+}
+],
+"backfilled": true
+}

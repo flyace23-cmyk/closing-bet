@@ -1,0 +1,254 @@
+{
+"date": "20231006",
+"kospi": 0.21,
+"kosdaq": 1.92,
+"adv": 1720,
+"dec": 371,
+"flat": 104,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 114888,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 6,
+"lead": "엑스게이트",
+"lead_ret": 29.93,
+"second": "우리로",
+"second_ret": 29.78
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "이미지스",
+"lead_ret": 26.51,
+"second": "파워로직스",
+"second_ret": 24.38
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "이미지스",
+"lead_ret": 26.51,
+"second": "두산테스나",
+"second_ret": 11.87
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 8.09,
+"up5": 11,
+"lead": "엑스게이트",
+"lead_ret": 29.93,
+"second": "한국첨단소재",
+"second_ret": 29.88
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 6.09,
+"up5": 7,
+"lead": "파워로직스",
+"lead_ret": 24.38,
+"second": "서남",
+"second_ret": 15.49
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 5.29,
+"up5": 7,
+"lead": "인벤티지랩",
+"lead_ret": 12.26,
+"second": "올릭스",
+"second_ret": 9.98
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 4.73,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 29.88,
+"second": "머큐리",
+"second_ret": 11.19
+},
+{
+"name": "보안주(정보)",
+"n": 44,
+"avg": 4.11,
+"up5": 10,
+"lead": "엑스게이트",
+"lead_ret": 29.93,
+"second": "드림시큐리티",
+"second_ret": 16.04
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 3.92,
+"up5": 5,
+"lead": "파워로직스",
+"lead_ret": 24.38,
+"second": "드림시큐리티",
+"second_ret": 16.04
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.86,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 18.48,
+"second": "흥아해운",
+"second_ret": 3.06
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 3.77,
+"up5": 8,
+"lead": "인벤티지랩",
+"lead_ret": 12.26,
+"second": "펩트론",
+"second_ret": 10.65
+},
+{
+"name": "통신장비",
+"n": 43,
+"avg": 3.7,
+"up5": 11,
+"lead": "한국첨단소재",
+"lead_ret": 29.88,
+"second": "우리로",
+"second_ret": 29.78
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.54,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 8.06,
+"second": "소마젠",
+"second_ret": 4.97
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 3.5,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 19.67,
+"second": "NICE인프라",
+"second_ret": 6.37
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 3.45,
+"up5": 2,
+"lead": "드림시큐리티",
+"lead_ret": 16.04,
+"second": "인포뱅크",
+"second_ret": 7.59
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -1.42,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.27,
+"second": "삼성중공업",
+"second_ret": -1.24
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.29,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 1.24,
+"second": "SK하이닉스",
+"second_ret": 0.17
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.57,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 2.26,
+"second": "HDC",
+"second_ret": 1.47
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -0.32,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 1.17,
+"second": "대구백화점",
+"second_ret": 0.8
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.23,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.17,
+"second": "삼성생명",
+"second_ret": 0.14
+}
+],
+"leaders": [
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 10.76,
+"value": 1521,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "이미지스",
+"code": "115610",
+"ret": 26.51,
+"value": 1374,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "STX그린로지스",
+"code": "465770",
+"ret": 18.48,
+"value": 1191,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "파워로직스",
+"code": "047310",
+"ret": 24.38,
+"value": 1092,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "아이센스",
+"code": "099190",
+"ret": 14.23,
+"value": 728,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

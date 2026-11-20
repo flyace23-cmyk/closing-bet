@@ -1,0 +1,254 @@
+{
+"date": "20251016",
+"kospi": 2.49,
+"kosdaq": 0.08,
+"adv": 950,
+"dec": 1306,
+"flat": 125,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 263202,
+"hot": [
+{
+"name": "2차전지",
+"n": 10,
+"lead": "에코프로머티",
+"lead_ret": 26.04,
+"second": "에이아이코리아",
+"second_ret": 22.85
+},
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "KS인더스트리",
+"lead_ret": 29.95,
+"second": "동방선기",
+"second_ret": 18.3
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한스바이오메드",
+"lead_ret": 24.32,
+"second": "로킷헬스케어",
+"second_ret": 19.65
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 5.56,
+"up5": 4,
+"lead": "에코프로비엠",
+"lead_ret": 14.22,
+"second": "에코프로",
+"second_ret": 14.03
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 5.51,
+"up5": 3,
+"lead": "현대차",
+"lead_ret": 8.28,
+"second": "한온시스템",
+"second_ret": 8.08
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.41,
+"up5": 11,
+"lead": "중앙첨단소재",
+"lead_ret": 17.34,
+"second": "에코프로",
+"second_ret": 14.03
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 4.21,
+"up5": 5,
+"lead": "엘앤에프",
+"lead_ret": 19.27,
+"second": "LG에너지솔루션",
+"second_ret": 8.8
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 3.94,
+"up5": 26,
+"lead": "에코프로머티",
+"lead_ret": 26.04,
+"second": "엘앤에프",
+"second_ret": 19.27
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.79,
+"up5": 15,
+"lead": "레이크머티리얼즈",
+"lead_ret": 11.58,
+"second": "천보",
+"second_ret": 10.43
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 3.74,
+"up5": 6,
+"lead": "에코프로",
+"lead_ret": 14.03,
+"second": "새빗켐",
+"second_ret": 10.65
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.72,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 7.1,
+"second": "SK스퀘어",
+"second_ret": 5.75
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 3.02,
+"up5": 11,
+"lead": "한중엔시에스",
+"lead_ret": 17.98,
+"second": "에스엠벡셀",
+"second_ret": 12.81
+},
+{
+"name": "2차전지",
+"n": 141,
+"avg": 3.0,
+"up5": 42,
+"lead": "에코프로머티",
+"lead_ret": 26.04,
+"second": "에이아이코리아",
+"second_ret": 22.85
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 3.0,
+"up5": 3,
+"lead": "에코프로머티",
+"lead_ret": 26.04,
+"second": "LG에너지솔루션",
+"second_ret": 8.8
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.79,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 7.1,
+"second": "삼성SDI",
+"second_ret": 6.55
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.84,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 4.13,
+"second": "에피소드컴퍼니",
+"second_ret": 0.23
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.62,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 0.64,
+"second": "링네트",
+"second_ret": -0.39
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -2.04,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 2.38,
+"second": "한국전력",
+"second_ret": 2.16
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.94,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -0.18,
+"second": "풀무원",
+"second_ret": -1.43
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -1.83,
+"up5": 0,
+"lead": "루트K",
+"lead_ret": 0.5,
+"second": "화천기공",
+"second_ret": 0.47
+}
+],
+"leaders": [
+{
+"name": "산일전기",
+"code": "062040",
+"ret": 14.37,
+"value": 3694,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "로킷헬스케어",
+"code": "376900",
+"ret": 19.65,
+"value": 3377,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 14.22,
+"value": 2807,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 19.27,
+"value": 2200,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에이아이코리아",
+"code": "364950",
+"ret": 22.85,
+"value": 1941,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

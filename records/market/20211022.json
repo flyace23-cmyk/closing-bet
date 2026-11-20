@@ -1,0 +1,254 @@
+{
+"date": "20211022",
+"kospi": -0.04,
+"kosdaq": 0.14,
+"adv": 767,
+"dec": 1070,
+"flat": 205,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 192494,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 7,
+"lead": "컴투스엔",
+"lead_ret": 18.41,
+"second": "비트맥스",
+"second_ret": 16.48
+},
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "딥커머스",
+"lead_ret": 9.21,
+"second": "제이에스코퍼레이션",
+"second_ret": 8.76
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "츌립앤사이언스",
+"lead_ret": 11.17,
+"second": "바이젠셀",
+"second_ret": 9.23
+}
+],
+"themes": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.89,
+"up5": 2,
+"lead": "대영포장",
+"lead_ret": 12.47,
+"second": "블루산업개발",
+"second_ret": 7.3
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 3.22,
+"up5": 2,
+"lead": "신풍",
+"lead_ret": 22.96,
+"second": "한국제지",
+"second_ret": 5.01
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 41,
+"avg": 3.07,
+"up5": 12,
+"lead": "컴투스엔",
+"lead_ret": 18.41,
+"second": "비트맥스",
+"second_ret": 16.48
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 2.9,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 9.87,
+"second": "이스트소프트",
+"second_ret": 6.64
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.53,
+"up5": 2,
+"lead": "씨엑스아이",
+"lead_ret": 19.41,
+"second": "딥커머스",
+"second_ret": 9.21
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 2.25,
+"up5": 2,
+"lead": "코세스",
+"lead_ret": 11.97,
+"second": "큐에스아이",
+"second_ret": 10.58
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 1.97,
+"up5": 1,
+"lead": "비트맥스",
+"lead_ret": 16.48,
+"second": "가온그룹",
+"second_ret": 4.98
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 1.73,
+"up5": 5,
+"lead": "휴마시스",
+"lead_ret": 29.79,
+"second": "엑세스바이오",
+"second_ret": 9.94
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.71,
+"up5": 2,
+"lead": "서울옥션",
+"lead_ret": 15.1,
+"second": "에이스토리",
+"second_ret": 6.44
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 1.66,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 5.59,
+"second": "에피소드컴퍼니",
+"second_ret": 2.92
+},
+{
+"name": "마이데이터",
+"n": 10,
+"avg": 1.51,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 5.86,
+"second": "파수AI",
+"second_ret": 4.46
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 1.47,
+"up5": 4,
+"lead": "네오위즈",
+"lead_ret": 9.13,
+"second": "넥써쓰",
+"second_ret": 9.06
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.36,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": -0.19,
+"second": "E1",
+"second_ret": -0.91
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.36,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": -0.19,
+"second": "E1",
+"second_ret": -0.91
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -3.0,
+"up5": 0,
+"lead": "INVENI",
+"lead_ret": 1.17,
+"second": "인천도시가스",
+"second_ret": 0.52
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.98,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": -1.67,
+"second": "한화투자증권",
+"second_ret": -1.89
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.51,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": -0.7,
+"second": "HMM",
+"second_ret": -1.53
+}
+],
+"leaders": [
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 18.41,
+"value": 3707,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 11.01,
+"value": 1981,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "대영포장",
+"code": "014160",
+"ret": 12.47,
+"value": 1623,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "서울옥션",
+"code": "063170",
+"ret": 15.1,
+"value": 1314,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "비트맥스",
+"code": "377030",
+"ret": 16.48,
+"value": 1044,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

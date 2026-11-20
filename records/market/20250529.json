@@ -1,0 +1,254 @@
+{
+"date": "20250529",
+"kospi": 1.89,
+"kosdaq": 1.03,
+"adv": 1677,
+"dec": 564,
+"flat": 119,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 154171,
+"hot": [
+{
+"name": "지주사",
+"n": 10,
+"lead": "대웅",
+"lead_ret": 29.99,
+"second": "HS효성",
+"second_ret": 29.8
+},
+{
+"name": "증권",
+"n": 4,
+"lead": "상상인증권",
+"lead_ret": 29.98,
+"second": "미래에셋증권",
+"second_ret": 23.22
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "태웅",
+"lead_ret": 13.92,
+"second": "효성",
+"second_ret": 11.33
+}
+],
+"themes": [
+{
+"name": "증권",
+"n": 21,
+"avg": 9.46,
+"up5": 18,
+"lead": "상상인증권",
+"lead_ret": 29.98,
+"second": "미래에셋증권",
+"second_ret": 23.22
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 7.94,
+"up5": 5,
+"lead": "삼륭물산",
+"lead_ret": 29.95,
+"second": "진영",
+"second_ret": 9.3
+},
+{
+"name": "지주사",
+"n": 123,
+"avg": 4.67,
+"up5": 43,
+"lead": "대웅",
+"lead_ret": 29.99,
+"second": "HS효성",
+"second_ret": 29.8
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 4.22,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 29.96,
+"second": "오가노이드사이언스",
+"second_ret": 2.46
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.04,
+"up5": 1,
+"lead": "한국앤컴퍼니",
+"lead_ret": 18.68,
+"second": "넥센타이어",
+"second_ret": 4.04
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 3.92,
+"up5": 3,
+"lead": "흥국화재",
+"lead_ret": 8.11,
+"second": "한화손해보험",
+"second_ret": 6.1
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.86,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 10.03,
+"second": "DL이앤씨",
+"second_ret": 3.2
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.8,
+"up5": 3,
+"lead": "나이벡",
+"lead_ret": 29.82,
+"second": "서린바이오",
+"second_ret": 13.06
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.78,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 8.39,
+"second": "한화생명",
+"second_ret": 6.26
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 3.76,
+"up5": 8,
+"lead": "유진투자증권",
+"lead_ret": 16.58,
+"second": "SK증권",
+"second_ret": 9.39
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.73,
+"up5": 2,
+"lead": "일신바이오",
+"lead_ret": 29.96,
+"second": "서린바이오",
+"second_ret": 13.06
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.61,
+"up5": 3,
+"lead": "코오롱",
+"lead_ret": 17.78,
+"second": "한화투자증권",
+"second_ret": 8.39
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 26,
+"avg": -0.78,
+"up5": 0,
+"lead": "엔젠바이오",
+"lead_ret": 2.35,
+"second": "랩지노믹스",
+"second_ret": 2.08
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -0.74,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 5.26,
+"second": "에코프로비엠",
+"second_ret": 1.35
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -0.61,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 1.71,
+"second": "한화비전",
+"second_ret": 0.94
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.3,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 2.15,
+"second": "HDC",
+"second_ret": 1.49
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 23,
+"avg": -0.15,
+"up5": 0,
+"lead": "포니링크",
+"lead_ret": 2.23,
+"second": "핑거",
+"second_ret": 2.16
+}
+],
+"leaders": [
+{
+"name": "현대건설",
+"code": "000720",
+"ret": 10.03,
+"value": 2444,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "미래에셋증권",
+"code": "006800",
+"ret": 23.22,
+"value": 2149,
+"theme": "증권",
+"reason": "테마: 증권"
+},
+{
+"name": "HD현대",
+"code": "267250",
+"ret": 11.26,
+"value": 1514,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "태웅",
+"code": "044490",
+"ret": 13.92,
+"value": 1197,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "한화",
+"code": "000880",
+"ret": 10.22,
+"value": 1046,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

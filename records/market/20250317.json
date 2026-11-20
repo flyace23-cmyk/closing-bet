@@ -1,0 +1,254 @@
+{
+"date": "20250317",
+"kospi": 1.73,
+"kosdaq": 1.26,
+"adv": 1242,
+"dec": 973,
+"flat": 126,
+"limit_up": 4,
+"limit_down": 3,
+"value_total": 182418,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "아이에스티이",
+"lead_ret": 13.28,
+"second": "주성엔지니어링",
+"second_ret": 11.96
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "센서뷰",
+"lead_ret": 30.0,
+"second": "한국항공우주",
+"second_ret": 10.85
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "콜마홀딩스",
+"lead_ret": 29.97,
+"second": "한국항공우주",
+"second_ret": 10.85
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 5.43,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 21.62,
+"second": "데브시스터즈",
+"second_ret": 11.94
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.72,
+"up5": 7,
+"lead": "센서뷰",
+"lead_ret": 30.0,
+"second": "한국항공우주",
+"second_ret": 10.85
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.58,
+"up5": 2,
+"lead": "오리엔트정공",
+"lead_ret": 20.2,
+"second": "덕산하이메탈",
+"second_ret": 7.66
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 2.49,
+"up5": 7,
+"lead": "한국항공우주",
+"lead_ret": 10.85,
+"second": "한화시스템",
+"second_ret": 10.84
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 2.24,
+"up5": 1,
+"lead": "센서뷰",
+"lead_ret": 30.0,
+"second": "미래에셋증권",
+"second_ret": 3.88
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.24,
+"up5": 2,
+"lead": "주성엔지니어링",
+"lead_ret": 11.96,
+"second": "이오테크닉스",
+"second_ret": 5.69
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 64,
+"avg": 2.18,
+"up5": 13,
+"lead": "센서뷰",
+"lead_ret": 30.0,
+"second": "한국항공우주",
+"second_ret": 10.85
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.09,
+"up5": 1,
+"lead": "삼성전자",
+"lead_ret": 5.3,
+"second": "티엘비",
+"second_ret": 3.57
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.08,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 4.86,
+"second": "iM금융지주",
+"second_ret": 3.04
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.08,
+"up5": 1,
+"lead": "삼성전자",
+"lead_ret": 5.3,
+"second": "네패스",
+"second_ret": 4.83
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 2.06,
+"up5": 1,
+"lead": "엑시온그룹",
+"lead_ret": 29.88,
+"second": "대구백화점",
+"second_ret": 2.93
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.06,
+"up5": 5,
+"lead": "와이씨",
+"lead_ret": 10.83,
+"second": "테크윙",
+"second_ret": 8.01
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -2.09,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 2.0,
+"second": "현대건설",
+"second_ret": 1.07
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.83,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 0.96,
+"second": "한국가스공사",
+"second_ret": 0.27
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -1.52,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.7,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -1.42,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": -0.1,
+"second": "고려제강",
+"second_ret": -0.11
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.17,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 8.78,
+"second": "LS마린솔루션",
+"second_ret": -0.3
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 12.12,
+"value": 9024,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 10.84,
+"value": 7204,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한국항공우주",
+"code": "047810",
+"ret": 10.85,
+"value": 3863,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 10.81,
+"value": 2493,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "오리엔트정공",
+"code": "065500",
+"ret": 20.2,
+"value": 2247,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

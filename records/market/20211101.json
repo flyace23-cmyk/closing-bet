@@ -1,0 +1,254 @@
+{
+"date": "20211101",
+"kospi": 0.28,
+"kosdaq": 0.63,
+"adv": 769,
+"dec": 1106,
+"flat": 171,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 224880,
+"hot": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 11,
+"lead": "엠게임",
+"lead_ret": 29.9,
+"second": "갤럭시아에스엠",
+"second_ret": 29.81
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 8,
+"lead": "엠게임",
+"lead_ret": 29.9,
+"second": "위메이드맥스",
+"second_ret": 29.66
+},
+{
+"name": "삼성페이",
+"n": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.43,
+"second": "효성ITX",
+"second_ret": 16.75
+}
+],
+"themes": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 9.55,
+"up5": 11,
+"lead": "엠게임",
+"lead_ret": 29.9,
+"second": "갤럭시아에스엠",
+"second_ret": 29.81
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 6.05,
+"up5": 12,
+"lead": "엠게임",
+"lead_ret": 29.9,
+"second": "위메이드맥스",
+"second_ret": 29.66
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 5.98,
+"up5": 16,
+"lead": "엠게임",
+"lead_ret": 29.9,
+"second": "위메이드맥스",
+"second_ret": 29.66
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 5.19,
+"up5": 9,
+"lead": "엠게임",
+"lead_ret": 29.9,
+"second": "갤럭시아머니트리",
+"second_ret": 29.43
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 5.02,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.43,
+"second": "SOOP",
+"second_ret": 7.2
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.01,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 25.04,
+"second": "인성정보",
+"second_ret": 5.52
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 5.0,
+"up5": 5,
+"lead": "갤럭시아에스엠",
+"lead_ret": 29.81,
+"second": "갤럭시아머니트리",
+"second_ret": 29.43
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.73,
+"up5": 3,
+"lead": "폴라리스오피스",
+"lead_ret": 18.16,
+"second": "효성ITX",
+"second_ret": 16.75
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 12,
+"avg": 3.69,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.43,
+"second": "다날",
+"second_ret": 9.12
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 3.37,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.43,
+"second": "폴라리스오피스",
+"second_ret": 18.16
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.34,
+"up5": 7,
+"lead": "에피소드컴퍼니",
+"lead_ret": 10.33,
+"second": "아이비김영",
+"second_ret": 7.72
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 3.31,
+"up5": 3,
+"lead": "에프엔씨엔터",
+"lead_ret": 9.9,
+"second": "다날",
+"second_ret": 9.12
+}
+],
+"themes_worst": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.38,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 3.61,
+"second": "세아제강",
+"second_ret": 0.0
+},
+{
+"name": "퓨리오사AI",
+"n": 6,
+"avg": -2.35,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 1.88,
+"second": "엑스페릭스",
+"second_ret": -0.29
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": -2.22,
+"up5": 0,
+"lead": "롯데케미칼",
+"lead_ret": 1.56,
+"second": "KPX케미칼",
+"second_ret": 0.87
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -2.17,
+"up5": 0,
+"lead": "토니모리",
+"lead_ret": 1.75,
+"second": "HDC",
+"second_ret": 0.47
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -2.07,
+"up5": 0,
+"lead": "브이티",
+"lead_ret": 2.26,
+"second": "아모그린텍",
+"second_ret": 1.47
+}
+],
+"leaders": [
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 10.15,
+"value": 8063,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "엠게임",
+"code": "058630",
+"ret": 29.9,
+"value": 2773,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 17.5,
+"value": 2253,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 29.43,
+"value": 1716,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "서울옥션",
+"code": "063170",
+"ret": 21.33,
+"value": 1630,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+}
+],
+"backfilled": true
+}

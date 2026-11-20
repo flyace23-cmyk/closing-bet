@@ -1,0 +1,254 @@
+{
+"date": "20250520",
+"kospi": -0.06,
+"kosdaq": 0.25,
+"adv": 1325,
+"dec": 904,
+"flat": 128,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 134129,
+"hot": [
+{
+"name": "화장품",
+"n": 6,
+"lead": "엔에프씨",
+"lead_ret": 14.62,
+"second": "씨앤씨인터내셔널",
+"second_ret": 14.47
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "츌립앤사이언스",
+"lead_ret": 29.94,
+"second": "와이바이오로직스",
+"second_ret": 22.28
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "평화홀딩스",
+"lead_ret": 30.0,
+"second": "평화산업",
+"second_ret": 28.7
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 4.81,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 30.0,
+"second": "한국팩키지",
+"second_ret": 6.65
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 4.37,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 14.81,
+"second": "쿠콘",
+"second_ret": 5.46
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.92,
+"up5": 3,
+"lead": "가온전선",
+"lead_ret": 11.42,
+"second": "일진전기",
+"second_ret": 8.8
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 3.69,
+"up5": 4,
+"lead": "GS피앤엘",
+"lead_ret": 16.14,
+"second": "아난티",
+"second_ret": 5.72
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 3.14,
+"up5": 6,
+"lead": "츌립앤사이언스",
+"lead_ret": 29.94,
+"second": "와이바이오로직스",
+"second_ret": 22.28
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 2.94,
+"up5": 8,
+"lead": "가온전선",
+"lead_ret": 11.42,
+"second": "일진전기",
+"second_ret": 8.8
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.79,
+"up5": 1,
+"lead": "삼륭물산",
+"lead_ret": 30.0,
+"second": "유진로봇",
+"second_ret": 3.81
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 2.66,
+"up5": 9,
+"lead": "씨에스베어링",
+"lead_ret": 29.9,
+"second": "SK이터닉스",
+"second_ret": 10.9
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.66,
+"up5": 2,
+"lead": "대영포장",
+"lead_ret": 18.8,
+"second": "신대양제지",
+"second_ret": 5.73
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.6,
+"up5": 3,
+"lead": "대아티아이",
+"lead_ret": 8.41,
+"second": "우원개발",
+"second_ret": 7.9
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.55,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 14.81,
+"second": "한국정보인증",
+"second_ret": 6.39
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.54,
+"up5": 6,
+"lead": "대아티아이",
+"lead_ret": 8.41,
+"second": "우리기술",
+"second_ret": 7.92
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 9,
+"avg": -5.28,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 2.2,
+"second": "푸드나무",
+"second_ret": -1.23
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.01,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 2.12,
+"second": "메가터치",
+"second_ret": -0.13
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.23,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 2.34,
+"second": "앱튼",
+"second_ret": 1.29
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.3,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.28,
+"second": "삼성중공업",
+"second_ret": -0.77
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": -2.0,
+"up5": 2,
+"lead": "신성에스티",
+"lead_ret": 6.42,
+"second": "PI첨단소재",
+"second_ret": 5.14
+}
+],
+"leaders": [
+{
+"name": "나우로보틱스",
+"code": "459510",
+"ret": 14.96,
+"value": 4163,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 11.65,
+"value": 1421,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 10.9,
+"value": 1202,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "유라클",
+"code": "088340",
+"ret": 14.81,
+"value": 1034,
+"theme": "지역화폐",
+"reason": "테마: 지역화폐"
+},
+{
+"name": "대영포장",
+"code": "014160",
+"ret": 18.8,
+"value": 978,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+}
+],
+"backfilled": true
+}

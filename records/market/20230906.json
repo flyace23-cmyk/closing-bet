@@ -1,0 +1,254 @@
+{
+"date": "20230906",
+"kospi": -0.73,
+"kosdaq": -0.38,
+"adv": 785,
+"dec": 1279,
+"flat": 123,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 195292,
+"hot": [
+{
+"name": "의료AI",
+"n": 8,
+"lead": "셀바스헬스케어",
+"lead_ret": 30.0,
+"second": "스피어",
+"second_ret": 21.09
+},
+{
+"name": "의료기기",
+"n": 5,
+"lead": "셀바스헬스케어",
+"lead_ret": 30.0,
+"second": "딥노이드",
+"second_ret": 13.09
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "일동제약",
+"lead_ret": 29.72,
+"second": "올릭스",
+"second_ret": 22.36
+}
+],
+"themes": [
+{
+"name": "의료AI",
+"n": 21,
+"avg": 7.85,
+"up5": 13,
+"lead": "셀바스헬스케어",
+"lead_ret": 30.0,
+"second": "스피어",
+"second_ret": 21.09
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 5.49,
+"up5": 4,
+"lead": "올릭스",
+"lead_ret": 22.36,
+"second": "나이벡",
+"second_ret": 21.18
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 4.47,
+"up5": 9,
+"lead": "일동제약",
+"lead_ret": 29.72,
+"second": "올릭스",
+"second_ret": 22.36
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 4.06,
+"up5": 5,
+"lead": "스피어",
+"lead_ret": 21.09,
+"second": "이지케어텍",
+"second_ret": 11.7
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.78,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 13.24,
+"second": "서울제약",
+"second_ret": 2.79
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.88,
+"up5": 1,
+"lead": "푸른로보틱스",
+"lead_ret": 30.0,
+"second": "NICE인프라",
+"second_ret": 2.42
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.57,
+"up5": 8,
+"lead": "엔젠바이오",
+"lead_ret": 14.88,
+"second": "지니너스",
+"second_ret": 11.23
+},
+{
+"name": "코로나19(진단키트)",
+"n": 38,
+"avg": 2.47,
+"up5": 8,
+"lead": "일동제약",
+"lead_ret": 29.72,
+"second": "엔젠바이오",
+"second_ret": 14.88
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.46,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 8.19,
+"second": "흥구석유",
+"second_ret": 7.56
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.28,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 8.19,
+"second": "흥구석유",
+"second_ret": 7.56
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.28,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 8.19,
+"second": "흥구석유",
+"second_ret": 7.56
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.21,
+"up5": 3,
+"lead": "일동제약",
+"lead_ret": 29.72,
+"second": "샤페론",
+"second_ret": 6.12
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -2.83,
+"up5": 0,
+"lead": "아센디오",
+"lead_ret": -0.36,
+"second": "인지디스플레",
+"second_ret": -0.47
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.73,
+"up5": 0,
+"lead": "티씨케이",
+"lead_ret": 0.52,
+"second": "레이저쎌",
+"second_ret": 0.0
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.46,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": -0.38,
+"second": "오로라",
+"second_ret": -1.44
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.41,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 0.0,
+"second": "대한전선",
+"second_ret": -0.46
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.35,
+"up5": 0,
+"lead": "더블유씨피",
+"lead_ret": -1.58,
+"second": "LG에너지솔루션",
+"second_ret": -1.68
+}
+],
+"leaders": [
+{
+"name": "셀바스헬스케어",
+"code": "208370",
+"ret": 30.0,
+"value": 1784,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 29.72,
+"value": 1405,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "푸른로보틱스",
+"code": "094940",
+"ret": 30.0,
+"value": 1221,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "올릭스",
+"code": "226950",
+"ret": 22.36,
+"value": 1001,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "딥노이드",
+"code": "315640",
+"ret": 13.09,
+"value": 978,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+}
+],
+"backfilled": true
+}

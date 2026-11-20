@@ -1,0 +1,254 @@
+{
+"date": "20210826",
+"kospi": -0.58,
+"kosdaq": 0.26,
+"adv": 756,
+"dec": 1091,
+"flat": 181,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 234286,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "케이엔솔",
+"lead_ret": 29.91,
+"second": "조일알미늄",
+"second_ret": 24.69
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "케이엔솔",
+"lead_ret": 29.91,
+"second": "디아이티",
+"second_ret": 13.13
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "디아이티",
+"lead_ret": 13.13,
+"second": "포인트엔지니어링",
+"second_ret": 8.04
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.5,
+"up5": 2,
+"lead": "글로벌에스엠",
+"lead_ret": 22.6,
+"second": "씨엑스아이",
+"second_ret": 13.63
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.8,
+"up5": 2,
+"lead": "엠케이전자",
+"lead_ret": 15.35,
+"second": "심텍",
+"second_ret": 6.17
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.61,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 29.91,
+"second": "엔브이에이치코리아",
+"second_ret": 1.34
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 19,
+"avg": 2.34,
+"up5": 3,
+"lead": "일진홀딩스",
+"lead_ret": 26.37,
+"second": "일진전기",
+"second_ret": 15.1
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.13,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 29.91,
+"second": "3S",
+"second_ret": 1.35
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 1.7,
+"up5": 2,
+"lead": "나노씨엠에스",
+"lead_ret": 17.44,
+"second": "디아이티",
+"second_ret": 13.13
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 1.62,
+"up5": 1,
+"lead": "제너셈",
+"lead_ret": 11.51,
+"second": "다산솔루에타",
+"second_ret": 4.93
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 1.6,
+"up5": 0,
+"lead": "로지시스",
+"lead_ret": 4.43,
+"second": "한네트",
+"second_ret": 3.75
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.41,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 5.96,
+"second": "JB금융지주",
+"second_ret": 1.86
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.4,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 1.99,
+"second": "코리안리",
+"second_ret": 1.88
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": 1.29,
+"up5": 2,
+"lead": "코세스",
+"lead_ret": 6.95,
+"second": "미코",
+"second_ret": 5.71
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 1.22,
+"up5": 1,
+"lead": "심텍",
+"lead_ret": 6.17,
+"second": "심텍홀딩스",
+"second_ret": 4.2
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 9,
+"avg": -2.9,
+"up5": 0,
+"lead": "푸드나무",
+"lead_ret": 2.34,
+"second": "팜스토리",
+"second_ret": 1.19
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -2.54,
+"up5": 0,
+"lead": "팜스토리",
+"lead_ret": 1.19,
+"second": "SOOP",
+"second_ret": 0.94
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": -2.29,
+"up5": 0,
+"lead": "티플랙스",
+"lead_ret": 1.04,
+"second": "쎄노텍",
+"second_ret": 0.51
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": -1.98,
+"up5": 0,
+"lead": "신도기연",
+"lead_ret": 0.67,
+"second": "텔레칩스",
+"second_ret": 0.61
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -1.9,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.53,
+"second": "코윈로보틱스",
+"second_ret": -0.41
+}
+],
+"leaders": [
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 11.2,
+"value": 9362,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "펄어비스",
+"code": "263750",
+"ret": 25.57,
+"value": 7524,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "일진홀딩스",
+"code": "015860",
+"ret": 26.37,
+"value": 4274,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "엠케이전자",
+"code": "033160",
+"ret": 15.35,
+"value": 4230,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 24.69,
+"value": 2926,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

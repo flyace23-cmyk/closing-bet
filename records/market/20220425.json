@@ -1,0 +1,254 @@
+{
+"date": "20220425",
+"kospi": -1.76,
+"kosdaq": -2.49,
+"adv": 254,
+"dec": 1732,
+"flat": 91,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 191286,
+"hot": [
+{
+"name": "사료",
+"n": 10,
+"lead": "팜스토리",
+"lead_ret": 30.0,
+"second": "고려산업",
+"second_ret": 29.94
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "샘표",
+"lead_ret": 29.91,
+"second": "신송홀딩스",
+"second_ret": 29.56
+},
+{
+"name": "콩/대두",
+"n": 3,
+"lead": "샘표",
+"lead_ret": 29.91,
+"second": "신송홀딩스",
+"second_ret": 29.56
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 15.34,
+"up5": 4,
+"lead": "샘표",
+"lead_ret": 29.91,
+"second": "신송홀딩스",
+"second_ret": 29.56
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 11.53,
+"up5": 11,
+"lead": "팜스토리",
+"lead_ret": 30.0,
+"second": "고려산업",
+"second_ret": 29.94
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 5.61,
+"up5": 3,
+"lead": "사조대림",
+"lead_ret": 18.63,
+"second": "사조씨푸드",
+"second_ret": 14.12
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 5.2,
+"up5": 2,
+"lead": "팜스토리",
+"lead_ret": 30.0,
+"second": "이지홀딩스",
+"second_ret": 14.12
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 4.79,
+"up5": 5,
+"lead": "팜스토리",
+"lead_ret": 30.0,
+"second": "사조대림",
+"second_ret": 18.63
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 4.13,
+"up5": 2,
+"lead": "팜스토리",
+"lead_ret": 30.0,
+"second": "이지홀딩스",
+"second_ret": 14.12
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.65,
+"up5": 2,
+"lead": "케이씨피드",
+"lead_ret": 29.89,
+"second": "팜스코",
+"second_ret": 14.44
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.48,
+"up5": 2,
+"lead": "사조대림",
+"lead_ret": 18.63,
+"second": "한성기업",
+"second_ret": 5.83
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 2.91,
+"up5": 7,
+"lead": "팜스토리",
+"lead_ret": 30.0,
+"second": "팜스코",
+"second_ret": 14.44
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.76,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 10.23,
+"second": "아주IB투자",
+"second_ret": 3.73
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.61,
+"up5": 1,
+"lead": "제이씨케미칼",
+"lead_ret": 29.85,
+"second": "성창기업지주",
+"second_ret": 4.62
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.61,
+"up5": 1,
+"lead": "제이씨케미칼",
+"lead_ret": 29.85,
+"second": "성창기업지주",
+"second_ret": 4.62
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": -4.43,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": -1.84,
+"second": "스톤브릿지벤처스",
+"second_ret": -2.1
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -4.28,
+"up5": 0,
+"lead": "한울반도체",
+"lead_ret": -1.05,
+"second": "삼성전기",
+"second_ret": -2.69
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.88,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": -2.01,
+"second": "카카오",
+"second_ret": -2.5
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -3.73,
+"up5": 0,
+"lead": "이스트에이드",
+"lead_ret": -1.23,
+"second": "NHN",
+"second_ret": -1.68
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -3.64,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 2.38,
+"second": "오로라",
+"second_ret": -2.83
+}
+],
+"leaders": [
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 30.0,
+"value": 6613,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "이지홀딩스",
+"code": "035810",
+"ret": 14.12,
+"value": 3887,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "안랩",
+"code": "053800",
+"ret": 17.54,
+"value": 3551,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "윙입푸드",
+"code": "900340",
+"ret": 13.93,
+"value": 1790,
+"theme": "아프리카 돼지열병(ASF)",
+"reason": "테마: 아프리카 돼지열병(ASF)"
+},
+{
+"name": "케이씨피드",
+"code": "025880",
+"ret": 29.89,
+"value": 1786,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

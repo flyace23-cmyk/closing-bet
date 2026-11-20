@@ -1,0 +1,254 @@
+{
+"date": "20201130",
+"kospi": -1.6,
+"kosdaq": 0.06,
+"adv": 797,
+"dec": 985,
+"flat": 176,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 305857,
+"hot": [
+{
+"name": "골판지 제조",
+"n": 7,
+"lead": "대영포장",
+"lead_ret": 29.93,
+"second": "태림포장",
+"second_ret": 25.0
+},
+{
+"name": "제지",
+"n": 4,
+"lead": "한창제지",
+"lead_ret": 14.0,
+"second": "한국수출포장",
+"second_ret": 13.89
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "소프트센",
+"lead_ret": 13.86,
+"second": "율촌화학",
+"second_ret": 13.18
+}
+],
+"themes": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 13.09,
+"up5": 8,
+"lead": "대영포장",
+"lead_ret": 29.93,
+"second": "태림포장",
+"second_ret": 25.0
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 6.21,
+"up5": 7,
+"lead": "한창제지",
+"lead_ret": 14.0,
+"second": "한국수출포장",
+"second_ret": 13.89
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.19,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 29.84,
+"second": "대원미디어",
+"second_ret": 2.41
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 3.44,
+"up5": 4,
+"lead": "한익스프레스",
+"lead_ret": 20.06,
+"second": "동방",
+"second_ret": 7.91
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.86,
+"up5": 3,
+"lead": "종근당바이오",
+"lead_ret": 29.83,
+"second": "고바이오랩",
+"second_ret": 19.21
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 2.39,
+"up5": 1,
+"lead": "한익스프레스",
+"lead_ret": 20.06,
+"second": "태경케미컬",
+"second_ret": 4.76
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.15,
+"up5": 0,
+"lead": "태경케미컬",
+"lead_ret": 4.76,
+"second": "팜스코",
+"second_ret": 4.32
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.09,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 4.79,
+"second": "GH신소재",
+"second_ret": 4.55
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 2.08,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 5.31,
+"second": "DSC인베스트먼트",
+"second_ret": 2.25
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 1.97,
+"up5": 4,
+"lead": "한탑",
+"lead_ret": 5.8,
+"second": "씨티씨바이오",
+"second_ret": 5.53
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.96,
+"up5": 3,
+"lead": "티비씨",
+"lead_ret": 13.08,
+"second": "iMBC",
+"second_ret": 5.68
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.93,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 4.25,
+"second": "지씨셀",
+"second_ret": 2.97
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 9,
+"avg": -3.31,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.14,
+"second": "BNK금융지주",
+"second_ret": -0.88
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -2.76,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 0.29,
+"second": "대신정보통신",
+"second_ret": -1.01
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -2.71,
+"up5": 0,
+"lead": "코리아에셋투자증권",
+"lead_ret": 0.93,
+"second": "LS증권",
+"second_ret": -1.27
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -2.57,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": -0.85,
+"second": "삼성물산",
+"second_ret": -1.63
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.38,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -1.32,
+"second": "삼성에스디에스",
+"second_ret": -1.7
+}
+],
+"leaders": [
+{
+"name": "고바이오랩",
+"code": "348150",
+"ret": 19.21,
+"value": 6797,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "종근당바이오",
+"code": "063160",
+"ret": 29.83,
+"value": 5217,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "태림포장",
+"code": "011280",
+"ret": 25.0,
+"value": 4350,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "서연탑메탈",
+"code": "019770",
+"ret": 14.56,
+"value": 2718,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한익스프레스",
+"code": "014130",
+"ret": 20.06,
+"value": 2114,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

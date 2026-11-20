@@ -1,0 +1,254 @@
+{
+"date": "20230224",
+"kospi": -0.63,
+"kosdaq": -0.56,
+"adv": 516,
+"dec": 1526,
+"flat": 96,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 160031,
+"hot": [
+{
+"name": "의료AI",
+"n": 6,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.84,
+"second": "뷰노",
+"second_ret": 25.6
+},
+{
+"name": "재택근무/스마트워크",
+"n": 4,
+"lead": "이씨에스",
+"lead_ret": 14.14,
+"second": "소프트캠프",
+"second_ret": 10.88
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 4,
+"lead": "브리지텍",
+"lead_ret": 29.93,
+"second": "코난테크놀로지",
+"second_ret": 22.57
+}
+],
+"themes": [
+{
+"name": "의료AI",
+"n": 19,
+"avg": 7.06,
+"up5": 7,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.84,
+"second": "뷰노",
+"second_ret": 25.6
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.86,
+"up5": 6,
+"lead": "이씨에스",
+"lead_ret": 14.14,
+"second": "소프트캠프",
+"second_ret": 10.88
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.58,
+"up5": 6,
+"lead": "브리지텍",
+"lead_ret": 29.93,
+"second": "코난테크놀로지",
+"second_ret": 22.57
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 3.0,
+"up5": 5,
+"lead": "MDS테크",
+"lead_ret": 29.65,
+"second": "인지소프트",
+"second_ret": 9.88
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 2.33,
+"up5": 1,
+"lead": "브리지텍",
+"lead_ret": 29.93,
+"second": "셀바스AI",
+"second_ret": 3.66
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.12,
+"up5": 1,
+"lead": "링네트",
+"lead_ret": 10.87,
+"second": "오픈베이스",
+"second_ret": 1.5
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 1.97,
+"up5": 3,
+"lead": "스피어",
+"lead_ret": 23.61,
+"second": "제이엘케이",
+"second_ret": 17.77
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.95,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 19.5,
+"second": "비츠로테크",
+"second_ret": 1.4
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.93,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 9.87,
+"second": "한국정보통신",
+"second_ret": 4.68
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 1.69,
+"up5": 2,
+"lead": "아이티아이즈",
+"lead_ret": 19.05,
+"second": "핑거",
+"second_ret": 7.44
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.69,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 29.65,
+"second": "인포뱅크",
+"second_ret": 1.14
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.62,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 3.47,
+"second": "현대해상",
+"second_ret": 3.25
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.74,
+"up5": 0,
+"lead": "한국철강",
+"lead_ret": -1.62,
+"second": "대한제강",
+"second_ret": -2.11
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -2.41,
+"up5": 0,
+"lead": "덴티스",
+"lead_ret": 0.73,
+"second": "신흥",
+"second_ret": -0.2
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -2.4,
+"up5": 0,
+"lead": "선진",
+"lead_ret": -0.6,
+"second": "애드바이오텍",
+"second_ret": -0.62
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.32,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": -0.92,
+"second": "신성이엔지",
+"second_ret": -1.05
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.32,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.62,
+"second": "코오롱글로벌",
+"second_ret": -1.56
+}
+],
+"leaders": [
+{
+"name": "MDS테크",
+"code": "086960",
+"ret": 29.65,
+"value": 7956,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 15.87,
+"value": 4426,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 22.57,
+"value": 3676,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "브리지텍",
+"code": "064480",
+"ret": 29.93,
+"value": 1832,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "딥노이드",
+"code": "315640",
+"ret": 23.99,
+"value": 1006,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20211217",
+"kospi": 0.38,
+"kosdaq": -0.65,
+"adv": 895,
+"dec": 963,
+"flat": 200,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 244144,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "넥슨게임즈",
+"lead_ret": 29.94,
+"second": "위메이드플레이",
+"second_ret": 8.84
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "바이오스마트",
+"lead_ret": 17.08,
+"second": "일동제약",
+"second_ret": 13.59
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 3.34,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 14.23,
+"second": "KB금융",
+"second_ret": 3.18
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.54,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 9.9,
+"second": "대성에너지",
+"second_ret": 5.69
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.3,
+"up5": 1,
+"lead": "대한제강",
+"lead_ret": 6.85,
+"second": "현대제철",
+"second_ret": 3.15
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.28,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 4.27,
+"second": "팬오션",
+"second_ret": 2.71
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.91,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 4.69,
+"second": "한화손해보험",
+"second_ret": 3.76
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 1.62,
+"up5": 1,
+"lead": "동방",
+"lead_ret": 6.26,
+"second": "현대글로비스",
+"second_ret": 3.95
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.6,
+"up5": 1,
+"lead": "성신양회",
+"lead_ret": 11.28,
+"second": "한일시멘트",
+"second_ret": 2.68
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.59,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 4.28,
+"second": "포스코인터내셔널",
+"second_ret": 3.58
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 1.55,
+"up5": 6,
+"lead": "넥슨게임즈",
+"lead_ret": 29.94,
+"second": "위메이드플레이",
+"second_ret": 8.84
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 1.55,
+"up5": 3,
+"lead": "이구산업",
+"lead_ret": 8.9,
+"second": "피제이메탈",
+"second_ret": 5.83
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 1.44,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 4.52,
+"second": "유에스티",
+"second_ret": 2.59
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 1.33,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 3.58,
+"second": "POSCO홀딩스",
+"second_ret": 3.0
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.52,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 0.0,
+"second": "에스와이",
+"second_ret": -0.54
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.49,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 1.06,
+"second": "위더스제약",
+"second_ret": 0.0
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -2.11,
+"up5": 0,
+"lead": "덴티움",
+"lead_ret": 1.45,
+"second": "신흥",
+"second_ret": -0.31
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": -2.09,
+"up5": 0,
+"lead": "신테카바이오",
+"lead_ret": 4.75,
+"second": "토마토시스템",
+"second_ret": 0.0
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -2.03,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 0.0,
+"second": "알체라",
+"second_ret": -0.47
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 13.59,
+"value": 5709,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "성신양회",
+"code": "004980",
+"ret": 11.28,
+"value": 2522,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 29.94,
+"value": 1369,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 10.54,
+"value": 1178,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "바이오스마트",
+"code": "038460",
+"ret": 17.08,
+"value": 910,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

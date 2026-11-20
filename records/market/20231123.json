@@ -1,0 +1,254 @@
+{
+"date": "20231123",
+"kospi": 0.13,
+"kosdaq": 0.17,
+"adv": 920,
+"dec": 1146,
+"flat": 150,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 132308,
+"hot": [
+{
+"name": "유전자 치료제/분석",
+"n": 5,
+"lead": "제넥신",
+"lead_ret": 18.4,
+"second": "아미코젠",
+"second_ret": 16.11
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "펩트론",
+"lead_ret": 16.8,
+"second": "지노믹트리",
+"second_ret": 13.56
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 3,
+"lead": "엑스페릭스",
+"lead_ret": 29.85,
+"second": "슈프리마에이치큐",
+"second_ret": 10.77
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 3.81,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 15.31,
+"second": "성우전자",
+"second_ret": 2.1
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.47,
+"up5": 4,
+"lead": "멕아이씨에스",
+"lead_ret": 12.52,
+"second": "위더스제약",
+"second_ret": 6.65
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.35,
+"up5": 2,
+"lead": "핑거스토리",
+"lead_ret": 29.93,
+"second": "키다리스튜디오",
+"second_ret": 10.62
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.11,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 6.91,
+"second": "지씨셀",
+"second_ret": 3.12
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 3.08,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 29.85,
+"second": "DSC인베스트먼트",
+"second_ret": 0.54
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": 3.02,
+"up5": 4,
+"lead": "아이큐어",
+"lead_ret": 19.63,
+"second": "제넥신",
+"second_ret": 18.4
+},
+{
+"name": "유전자 치료제/분석",
+"n": 33,
+"avg": 2.79,
+"up5": 5,
+"lead": "제넥신",
+"lead_ret": 18.4,
+"second": "아미코젠",
+"second_ret": 16.11
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.54,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 11.65,
+"second": "유한양행",
+"second_ret": 0.97
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.47,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 11.7,
+"second": "유엔젤",
+"second_ret": 5.95
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 2.44,
+"up5": 4,
+"lead": "제넥신",
+"lead_ret": 18.4,
+"second": "헬릭스미스",
+"second_ret": 15.3
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.43,
+"up5": 3,
+"lead": "제일약품",
+"lead_ret": 11.65,
+"second": "마크로젠",
+"second_ret": 10.94
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.33,
+"up5": 4,
+"lead": "엑스페릭스",
+"lead_ret": 29.85,
+"second": "슈프리마에이치큐",
+"second_ret": 10.77
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.52,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.55,
+"second": "SK하이닉스",
+"second_ret": -0.91
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.78,
+"up5": 1,
+"lead": "아이엠티",
+"lead_ret": 5.12,
+"second": "넥스틴",
+"second_ret": 0.44
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -2.6,
+"up5": 0,
+"lead": "심텍홀딩스",
+"lead_ret": 4.94,
+"second": "삼성전기",
+"second_ret": 0.14
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -2.53,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 0.67,
+"second": "국보디자인",
+"second_ret": -0.14
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.36,
+"up5": 0,
+"lead": "티씨케이",
+"lead_ret": 3.01,
+"second": "탑엔지니어링",
+"second_ret": 0.36
+}
+],
+"leaders": [
+{
+"name": "스톰테크",
+"code": "352090",
+"ret": 20.51,
+"value": 4575,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 21.38,
+"value": 1584,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "한싹",
+"code": "430690",
+"ret": 21.08,
+"value": 1546,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 10.28,
+"value": 1507,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 18.4,
+"value": 1249,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+}
+],
+"backfilled": true
+}

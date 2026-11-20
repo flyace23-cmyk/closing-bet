@@ -1,0 +1,254 @@
+{
+"date": "20230131",
+"kospi": -1.04,
+"kosdaq": 0.25,
+"adv": 1125,
+"dec": 853,
+"flat": 154,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 171620,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "케이알엠",
+"lead_ret": 30.0,
+"second": "에스비비테크",
+"second_ret": 20.68
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "라온피플",
+"lead_ret": 16.27,
+"second": "미래컴퍼니",
+"second_ret": 14.73
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "브리지텍",
+"lead_ret": 17.19,
+"second": "마음AI",
+"second_ret": 10.88
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 4.67,
+"up5": 2,
+"lead": "삼성중공업",
+"lead_ret": 10.5,
+"second": "한화오션",
+"second_ret": 5.5
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 4.14,
+"up5": 7,
+"lead": "토마토시스템",
+"lead_ret": 14.98,
+"second": "스피어",
+"second_ret": 14.46
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.73,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 12.21,
+"second": "비엠티",
+"second_ret": 4.42
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.4,
+"up5": 6,
+"lead": "토마토시스템",
+"lead_ret": 14.98,
+"second": "스피어",
+"second_ret": 14.46
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 3.19,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 14.98,
+"second": "포바이포",
+"second_ret": 7.75
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 2.52,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 17.85,
+"second": "네패스아크",
+"second_ret": 1.39
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": 2.27,
+"up5": 9,
+"lead": "라온피플",
+"lead_ret": 16.27,
+"second": "미래컴퍼니",
+"second_ret": 14.73
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 60,
+"avg": 2.22,
+"up5": 10,
+"lead": "케이알엠",
+"lead_ret": 30.0,
+"second": "에스비비테크",
+"second_ret": 20.68
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.22,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 12.21,
+"second": "디케이락",
+"second_ret": 4.23
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.15,
+"up5": 1,
+"lead": "미래컴퍼니",
+"lead_ret": 14.73,
+"second": "기가레인",
+"second_ret": 4.63
+},
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": 2.11,
+"up5": 2,
+"lead": "케이알엠",
+"lead_ret": 30.0,
+"second": "아고스",
+"second_ret": 5.12
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 10,
+"avg": 2.05,
+"up5": 1,
+"lead": "스피어",
+"lead_ret": 14.46,
+"second": "켄코아에어로스페이스",
+"second_ret": 4.56
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.83,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": 0.0,
+"second": "삼성물산",
+"second_ret": -0.08
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.56,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -0.29,
+"second": "LG전자",
+"second_ret": -0.3
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.48,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 2.53,
+"second": "제주은행",
+"second_ret": 2.42
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -1.38,
+"up5": 0,
+"lead": "엔비티",
+"lead_ret": 4.44,
+"second": "한화투자증권",
+"second_ret": 3.88
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.35,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 4.83,
+"second": "오로라",
+"second_ret": 0.74
+}
+],
+"leaders": [
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 10.5,
+"value": 2648,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 17.85,
+"value": 2606,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 13.18,
+"value": 1985,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "마음AI",
+"code": "377480",
+"ret": 10.88,
+"value": 1947,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "에스비비테크",
+"code": "389500",
+"ret": 20.68,
+"value": 1757,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20221214",
+"kospi": 1.13,
+"kosdaq": 1.94,
+"adv": 1598,
+"dec": 369,
+"flat": 158,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 98992,
+"hot": [
+{
+"name": "화장품",
+"n": 7,
+"lead": "아우딘퓨쳐스",
+"lead_ret": 26.57,
+"second": "아이큐어",
+"second_ret": 14.13
+},
+{
+"name": "건강기능식품",
+"n": 4,
+"lead": "경남제약",
+"lead_ret": 25.6,
+"second": "그래디언트",
+"second_ret": 11.76
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "그린생명과학",
+"lead_ret": 29.97,
+"second": "경남제약",
+"second_ret": 25.6
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 7.47,
+"up5": 3,
+"lead": "서울제약",
+"lead_ret": 21.98,
+"second": "파미셀",
+"second_ret": 8.25
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 4.96,
+"up5": 4,
+"lead": "핑거스토리",
+"lead_ret": 15.7,
+"second": "디앤씨미디어",
+"second_ret": 15.41
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.77,
+"up5": 3,
+"lead": "파미셀",
+"lead_ret": 8.25,
+"second": "에스티팜",
+"second_ret": 5.84
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.48,
+"up5": 2,
+"lead": "주성엔지니어링",
+"lead_ret": 6.78,
+"second": "기가레인",
+"second_ret": 5.83
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.35,
+"up5": 2,
+"lead": "중앙첨단소재",
+"lead_ret": 29.81,
+"second": "에코프로",
+"second_ret": 5.76
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.3,
+"up5": 2,
+"lead": "영우디에스피",
+"lead_ret": 8.37,
+"second": "코세스",
+"second_ret": 6.35
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.28,
+"up5": 5,
+"lead": "솔트룩스",
+"lead_ret": 14.18,
+"second": "마음AI",
+"second_ret": 7.77
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.13,
+"up5": 2,
+"lead": "선익시스템",
+"lead_ret": 7.34,
+"second": "한화솔루션",
+"second_ret": 6.79
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 31,
+"avg": 2.98,
+"up5": 5,
+"lead": "핑거스토리",
+"lead_ret": 15.7,
+"second": "디앤씨미디어",
+"second_ret": 15.41
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 2.85,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 4.73,
+"second": "원티드랩",
+"second_ret": 4.62
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 2.83,
+"up5": 2,
+"lead": "한화솔루션",
+"lead_ret": 6.79,
+"second": "이녹스첨단소재",
+"second_ret": 5.19
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.83,
+"up5": 1,
+"lead": "씨티케이",
+"lead_ret": 10.46,
+"second": "세림B&G",
+"second_ret": 2.29
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.11,
+"up5": 0,
+"lead": "대영포장",
+"lead_ret": 1.49,
+"second": "태림포장",
+"second_ret": 0.96
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.11,
+"up5": 0,
+"lead": "티웨이홀딩스",
+"lead_ret": 0.54,
+"second": "아시아나항공",
+"second_ret": 0.37
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -0.83,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 1.46,
+"second": "앤씨앤",
+"second_ret": 1.45
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.8,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 0.3,
+"second": "대구백화점",
+"second_ret": -0.2
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.63,
+"up5": 0,
+"lead": "기업은행",
+"lead_ret": 0.0,
+"second": "BNK금융지주",
+"second_ret": -0.14
+}
+],
+"leaders": [
+{
+"name": "핑거스토리",
+"code": "417180",
+"ret": 15.7,
+"value": 2510,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "경남제약",
+"code": "053950",
+"ret": 25.6,
+"value": 572,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 29.97,
+"value": 567,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "서플러스글로벌",
+"code": "140070",
+"ret": 14.04,
+"value": 477,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "디앤씨미디어",
+"code": "263720",
+"ret": 15.41,
+"value": 396,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+}
+],
+"backfilled": true
+}

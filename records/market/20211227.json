@@ -1,0 +1,254 @@
+{
+"date": "20211227",
+"kospi": -0.43,
+"kosdaq": 0.39,
+"adv": 983,
+"dec": 861,
+"flat": 214,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 179384,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "퍼스텍",
+"lead_ret": 29.89,
+"second": "에브리봇",
+"second_ret": 29.84
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "그린생명과학",
+"lead_ret": 29.86,
+"second": "서울제약",
+"second_ret": 19.4
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 3,
+"lead": "LS티라유텍",
+"lead_ret": 9.34,
+"second": "톱텍",
+"second_ret": 9.08
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 7.54,
+"up5": 2,
+"lead": "서울제약",
+"lead_ret": 19.4,
+"second": "제일약품",
+"second_ret": 12.84
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.37,
+"up5": 3,
+"lead": "모아텍",
+"lead_ret": 11.36,
+"second": "로보스타",
+"second_ret": 8.79
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 3.33,
+"up5": 2,
+"lead": "한국비티비",
+"lead_ret": 11.69,
+"second": "휴젤",
+"second_ret": 6.3
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 55,
+"avg": 3.27,
+"up5": 11,
+"lead": "퍼스텍",
+"lead_ret": 29.89,
+"second": "에브리봇",
+"second_ret": 29.84
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 3.02,
+"up5": 3,
+"lead": "제일약품",
+"lead_ret": 12.84,
+"second": "풍전약품",
+"second_ret": 9.68
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 2.94,
+"up5": 4,
+"lead": "퍼스텍",
+"lead_ret": 29.89,
+"second": "휴니드",
+"second_ret": 18.55
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 45,
+"avg": 2.77,
+"up5": 10,
+"lead": "퍼스텍",
+"lead_ret": 29.89,
+"second": "에브리봇",
+"second_ret": 29.84
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.66,
+"up5": 2,
+"lead": "휴젤",
+"lead_ret": 6.3,
+"second": "유바이오로직스",
+"second_ret": 5.57
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.49,
+"up5": 2,
+"lead": "특수건설",
+"lead_ret": 14.29,
+"second": "동아지질",
+"second_ret": 5.59
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.43,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 5.26,
+"second": "메디포스트",
+"second_ret": 2.64
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.36,
+"up5": 1,
+"lead": "퍼스텍",
+"lead_ret": 29.89,
+"second": "누리플랜",
+"second_ret": 4.49
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 31,
+"avg": 2.2,
+"up5": 6,
+"lead": "LS티라유텍",
+"lead_ret": 9.34,
+"second": "톱텍",
+"second_ret": 9.08
+}
+],
+"themes_worst": [
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.35,
+"up5": 0,
+"lead": "리드코프",
+"lead_ret": 0.86,
+"second": "SK이노베이션",
+"second_ret": 0.22
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -2.34,
+"up5": 0,
+"lead": "디앤씨미디어",
+"lead_ret": 1.39,
+"second": "키다리스튜디오",
+"second_ret": 1.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.21,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.22,
+"second": "E1",
+"second_ret": 0.1
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.21,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.22,
+"second": "E1",
+"second_ret": 0.1
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -1.72,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 1.92,
+"second": "제이씨현시스템",
+"second_ret": 1.6
+}
+],
+"leaders": [
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 29.86,
+"value": 3902,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 17.97,
+"value": 2644,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "제일약품",
+"code": "271980",
+"ret": 12.84,
+"value": 1422,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 29.84,
+"value": 1141,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 29.89,
+"value": 1107,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

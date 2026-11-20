@@ -1,0 +1,254 @@
+{
+"date": "20230619",
+"kospi": -0.62,
+"kosdaq": 0.07,
+"adv": 1039,
+"dec": 996,
+"flat": 132,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 182738,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "한화에어로스페이스",
+"lead_ret": 17.55,
+"second": "에스코넥",
+"second_ret": 11.09
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.95,
+"second": "에스와이",
+"second_ret": 14.32
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "한화에어로스페이스",
+"lead_ret": 17.55,
+"second": "피에스케이홀딩스",
+"second_ret": 15.8
+}
+],
+"themes": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 8.76,
+"up5": 4,
+"lead": "금강공업",
+"lead_ret": 24.57,
+"second": "자연과환경",
+"second_ret": 22.26
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 4.7,
+"up5": 1,
+"lead": "시공테크",
+"lead_ret": 14.41,
+"second": "현대건설",
+"second_ret": 3.5
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.1,
+"up5": 2,
+"lead": "금강공업",
+"lead_ret": 24.57,
+"second": "하이스틸",
+"second_ret": 8.99
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 4.01,
+"up5": 9,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.95,
+"second": "에스와이",
+"second_ret": 14.32
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.94,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 22.26,
+"second": "동신건설",
+"second_ret": 6.77
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.94,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 22.26,
+"second": "동신건설",
+"second_ret": 6.77
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.77,
+"up5": 7,
+"lead": "신원종합개발",
+"lead_ret": 11.73,
+"second": "계룡건설",
+"second_ret": 10.57
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 3.62,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 22.26,
+"second": "시공테크",
+"second_ret": 14.41
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.89,
+"up5": 3,
+"lead": "한화에어로스페이스",
+"lead_ret": 17.55,
+"second": "한국항공우주",
+"second_ret": 6.11
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.72,
+"up5": 3,
+"lead": "현대로템",
+"lead_ret": 10.95,
+"second": "유신",
+"second_ret": 6.65
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.67,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 14.32,
+"second": "오텍",
+"second_ret": 3.08
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.6,
+"up5": 1,
+"lead": "한화에어로스페이스",
+"lead_ret": 17.55,
+"second": "한중엔시에스",
+"second_ret": 4.0
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.59,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 2.33,
+"second": "풀무원",
+"second_ret": -3.31
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -2.3,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 0.06,
+"second": "팬스타엔터프라이즈",
+"second_ret": -0.26
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -2.15,
+"up5": 0,
+"lead": "제너셈",
+"lead_ret": 1.84,
+"second": "한미반도체",
+"second_ret": 0.69
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -1.85,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 1.43,
+"second": "오로라",
+"second_ret": 0.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.28,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.19,
+"second": "삼성전자",
+"second_ret": -0.84
+}
+],
+"leaders": [
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 17.55,
+"value": 4737,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 13.4,
+"value": 4298,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 10.95,
+"value": 4170,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 14.32,
+"value": 3081,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "자연과환경",
+"code": "043910",
+"ret": 22.26,
+"value": 1357,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+}
+],
+"backfilled": true
+}

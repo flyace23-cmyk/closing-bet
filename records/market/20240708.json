@@ -1,0 +1,254 @@
+{
+"date": "20240708",
+"kospi": -0.16,
+"kosdaq": 1.39,
+"adv": 1441,
+"dec": 677,
+"flat": 148,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 174764,
+"hot": [
+{
+"name": "수산",
+"n": 6,
+"lead": "사조씨푸드",
+"lead_ret": 29.97,
+"second": "사조대림",
+"second_ret": 29.93
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "리더스코스메틱",
+"lead_ret": 29.97,
+"second": "제이투케이바이오",
+"second_ret": 16.71
+},
+{
+"name": "비만치료제",
+"n": 3,
+"lead": "고바이오랩",
+"lead_ret": 18.58,
+"second": "블루엠텍",
+"second_ret": 15.04
+}
+],
+"themes": [
+{
+"name": "수산",
+"n": 9,
+"avg": 15.47,
+"up5": 8,
+"lead": "사조씨푸드",
+"lead_ret": 29.97,
+"second": "사조대림",
+"second_ret": 29.93
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 11.88,
+"up5": 4,
+"lead": "사조대림",
+"lead_ret": 29.93,
+"second": "한성기업",
+"second_ret": 17.06
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 6.67,
+"up5": 7,
+"lead": "사조대림",
+"lead_ret": 29.93,
+"second": "사조산업",
+"second_ret": 19.24
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 4.58,
+"up5": 4,
+"lead": "우리기술",
+"lead_ret": 20.93,
+"second": "오르비텍",
+"second_ret": 11.55
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.33,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 14.27,
+"second": "대원전선",
+"second_ret": 7.15
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.14,
+"up5": 1,
+"lead": "샘표식품",
+"lead_ret": 8.01,
+"second": "신송홀딩스",
+"second_ret": 4.26
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.37,
+"up5": 8,
+"lead": "LS마린솔루션",
+"lead_ret": 14.27,
+"second": "두산에너빌리티",
+"second_ret": 7.47
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.19,
+"up5": 1,
+"lead": "리더스코스메틱",
+"lead_ret": 29.97,
+"second": "대영포장",
+"second_ret": 1.61
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 3.17,
+"up5": 9,
+"lead": "우리기술",
+"lead_ret": 20.93,
+"second": "오르비텍",
+"second_ret": 11.55
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.04,
+"up5": 3,
+"lead": "오르비텍",
+"lead_ret": 11.55,
+"second": "아스트",
+"second_ret": 9.17
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.97,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 14.27,
+"second": "LS",
+"second_ret": 2.75
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.95,
+"up5": 3,
+"lead": "고바이오랩",
+"lead_ret": 18.58,
+"second": "쎌바이오텍",
+"second_ret": 6.3
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -2.55,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -0.12,
+"second": "흥아해운",
+"second_ret": -0.42
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.53,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.34,
+"second": "SK하이닉스",
+"second_ret": -1.06
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -2.0,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 1.49,
+"second": "유니테스트",
+"second_ret": 0.93
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.64,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 1.4,
+"second": "우리금융지주",
+"second_ret": -0.14
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.53,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.18,
+"second": "한화손해보험",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 15.04,
+"value": 2183,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 10.88,
+"value": 2154,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 26.94,
+"value": 1933,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 20.93,
+"value": 1617,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 12.89,
+"value": 1115,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+}
+],
+"backfilled": true
+}

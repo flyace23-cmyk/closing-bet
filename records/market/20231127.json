@@ -1,0 +1,254 @@
+{
+"date": "20231127",
+"kospi": -0.04,
+"kosdaq": -0.58,
+"adv": 711,
+"dec": 1401,
+"flat": 107,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 154582,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 9,
+"lead": "이미지스",
+"lead_ret": 25.92,
+"second": "퀄리타스반도체",
+"second_ret": 20.41
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "예스티",
+"lead_ret": 15.03,
+"second": "리노공업",
+"second_ret": 11.4
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "대상홀딩스",
+"lead_ret": 29.97,
+"second": "코아시아",
+"second_ret": 11.28
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 7.31,
+"up5": 5,
+"lead": "멕아이씨에스",
+"lead_ret": 29.98,
+"second": "국제약품",
+"second_ret": 26.33
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 6.29,
+"up5": 13,
+"lead": "퀄리타스반도체",
+"lead_ret": 20.41,
+"second": "칩스앤미디어",
+"second_ret": 15.12
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.11,
+"up5": 4,
+"lead": "에이직랜드",
+"lead_ret": 19.3,
+"second": "네패스아크",
+"second_ret": 9.61
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 4.15,
+"up5": 17,
+"lead": "이미지스",
+"lead_ret": 25.92,
+"second": "퀄리타스반도체",
+"second_ret": 20.41
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.76,
+"up5": 5,
+"lead": "심텍",
+"lead_ret": 13.71,
+"second": "심텍홀딩스",
+"second_ret": 8.89
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.9,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 13.71,
+"second": "대덕전자",
+"second_ret": 7.77
+},
+{
+"name": "전력반도체",
+"n": 17,
+"avg": 2.76,
+"up5": 3,
+"lead": "에이엘티",
+"lead_ret": 18.95,
+"second": "어보브반도체",
+"second_ret": 13.76
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.6,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 3.92,
+"second": "HD현대중공업",
+"second_ret": 3.59
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.43,
+"up5": 3,
+"lead": "퀄리타스반도체",
+"lead_ret": 20.41,
+"second": "오픈엣지테크놀로지",
+"second_ret": 6.92
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.69,
+"up5": 2,
+"lead": "콘텐트리중앙",
+"lead_ret": 10.32,
+"second": "아센디오",
+"second_ret": 8.9
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.38,
+"up5": 1,
+"lead": "예스티",
+"lead_ret": 15.03,
+"second": "티에스이",
+"second_ret": 2.86
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.38,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 26.33,
+"second": "케이엠",
+"second_ret": 9.21
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 22,
+"avg": -2.45,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 4.89,
+"second": "뷰노",
+"second_ret": 1.2
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.34,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 0.14,
+"second": "인성정보",
+"second_ret": -0.87
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -2.21,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 0.0,
+"second": "하이록코리아",
+"second_ret": 0.0
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -2.21,
+"up5": 0,
+"lead": "하이브",
+"lead_ret": 0.71,
+"second": "알비더블유",
+"second_ret": -0.15
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": -2.16,
+"up5": 0,
+"lead": "스톤브릿지벤처스",
+"lead_ret": 2.22,
+"second": "샌즈랩",
+"second_ret": 1.66
+}
+],
+"leaders": [
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 25.73,
+"value": 16137,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 19.3,
+"value": 2558,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "퀄리타스반도체",
+"code": "432720",
+"ret": 20.41,
+"value": 2016,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 15.12,
+"value": 1986,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 11.63,
+"value": 1741,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+}
+],
+"backfilled": true
+}

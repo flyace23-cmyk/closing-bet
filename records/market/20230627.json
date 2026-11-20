@@ -1,0 +1,254 @@
+{
+"date": "20230627",
+"kospi": -0.03,
+"kosdaq": -0.61,
+"adv": 968,
+"dec": 1061,
+"flat": 138,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 165841,
+"hot": [
+{
+"name": "스마트폰",
+"n": 5,
+"lead": "동운아나텍",
+"lead_ret": 29.77,
+"second": "기가레인",
+"second_ret": 21.87
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "기가레인",
+"lead_ret": 21.87,
+"second": "오로스테크놀로지",
+"second_ret": 18.63
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "동국홀딩스",
+"lead_ret": 24.62,
+"second": "CR홀딩스",
+"second_ret": 19.77
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.34,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 12.73,
+"second": "대한해운",
+"second_ret": 5.07
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 3.42,
+"up5": 3,
+"lead": "동운아나텍",
+"lead_ret": 29.77,
+"second": "엑스페릭스",
+"second_ret": 29.76
+},
+{
+"name": "통신장비",
+"n": 42,
+"avg": 2.71,
+"up5": 6,
+"lead": "와이어블",
+"lead_ret": 29.9,
+"second": "기가레인",
+"second_ret": 21.87
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 2.7,
+"up5": 3,
+"lead": "동국제강",
+"lead_ret": 7.75,
+"second": "세아베스틸지주",
+"second_ret": 6.36
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.7,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 29.76,
+"second": "아이티센글로벌",
+"second_ret": 0.48
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.47,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 12.46,
+"second": "태광산업",
+"second_ret": 1.91
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.26,
+"up5": 2,
+"lead": "케일럼",
+"lead_ret": 24.69,
+"second": "대한해운",
+"second_ret": 5.07
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.26,
+"up5": 2,
+"lead": "엑스플러스",
+"lead_ret": 10.83,
+"second": "이루온",
+"second_ret": 7.35
+},
+{
+"name": "철강 중소형",
+"n": 32,
+"avg": 2.11,
+"up5": 2,
+"lead": "신스틸",
+"lead_ret": 25.48,
+"second": "아주스틸",
+"second_ret": 10.28
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 53,
+"avg": 2.06,
+"up5": 7,
+"lead": "와이어블",
+"lead_ret": 29.9,
+"second": "기가레인",
+"second_ret": 21.87
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.05,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 4.46,
+"second": "HD한국조선해양",
+"second_ret": 2.74
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.77,
+"up5": 2,
+"lead": "알에프텍",
+"lead_ret": 9.08,
+"second": "켐트로닉스",
+"second_ret": 5.74
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.91,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": -0.17,
+"second": "링네트",
+"second_ret": -0.77
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": -2.36,
+"up5": 1,
+"lead": "마크로젠",
+"lead_ret": 8.35,
+"second": "메디포스트",
+"second_ret": 2.31
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.13,
+"up5": 0,
+"lead": "더블유씨피",
+"lead_ret": 1.14,
+"second": "LG에너지솔루션",
+"second_ret": -0.53
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": -1.68,
+"up5": 2,
+"lead": "신테카바이오",
+"lead_ret": 14.07,
+"second": "비스토스",
+"second_ret": 7.44
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.59,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 0.72,
+"second": "롯데쇼핑",
+"second_ret": 0.56
+}
+],
+"leaders": [
+{
+"name": "CR홀딩스",
+"code": "000480",
+"ret": 19.77,
+"value": 2406,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "동국홀딩스",
+"code": "001230",
+"ret": 24.62,
+"value": 2102,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "기가레인",
+"code": "049080",
+"ret": 21.87,
+"value": 2096,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "카페24",
+"code": "042000",
+"ret": 29.98,
+"value": 1931,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "다산솔루에타",
+"code": "154040",
+"ret": 10.22,
+"value": 1364,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

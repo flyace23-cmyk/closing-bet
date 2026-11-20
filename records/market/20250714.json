@@ -1,0 +1,254 @@
+{
+"date": "20250714",
+"kospi": 0.83,
+"kosdaq": -0.14,
+"adv": 1053,
+"dec": 1184,
+"flat": 130,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 170217,
+"hot": [
+{
+"name": "화장품",
+"n": 6,
+"lead": "씨티케이",
+"lead_ret": 29.82,
+"second": "한국화장품",
+"second_ret": 20.39
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "이녹스",
+"lead_ret": 13.39,
+"second": "CJ",
+"second_ret": 10.0
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "애경산업",
+"lead_ret": 14.33,
+"second": "현대지에프홀딩스",
+"second_ret": 9.89
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 7.62,
+"up5": 4,
+"lead": "씨티케이",
+"lead_ret": 29.82,
+"second": "삼륭물산",
+"second_ret": 13.02
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.01,
+"up5": 3,
+"lead": "삼성화재",
+"lead_ret": 9.51,
+"second": "현대해상",
+"second_ret": 6.7
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 3.09,
+"up5": 3,
+"lead": "KCTC",
+"lead_ret": 17.44,
+"second": "SG&G",
+"second_ret": 5.37
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.0,
+"up5": 2,
+"lead": "삼성생명",
+"lead_ret": 6.91,
+"second": "삼성물산",
+"second_ret": 6.62
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.64,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 4.7,
+"second": "유성티엔에스",
+"second_ret": 4.33
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.57,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 6.57,
+"second": "현대백화점",
+"second_ret": 5.98
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.19,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 6.57,
+"second": "현대백화점",
+"second_ret": 5.98
+},
+{
+"name": "화장품",
+"n": 93,
+"avg": 2.01,
+"up5": 13,
+"lead": "씨티케이",
+"lead_ret": 29.82,
+"second": "한국화장품",
+"second_ret": 20.39
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 2.0,
+"up5": 2,
+"lead": "KCTC",
+"lead_ret": 17.44,
+"second": "신세계",
+"second_ret": 6.57
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 1.93,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 6.57,
+"second": "현대백화점",
+"second_ret": 5.98
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.9,
+"up5": 0,
+"lead": "기업은행",
+"lead_ret": 4.05,
+"second": "신한지주",
+"second_ret": 3.61
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.85,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 6.57,
+"second": "천일고속",
+"second_ret": 0.96
+}
+],
+"themes_worst": [
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -3.78,
+"up5": 0,
+"lead": "한컴위드",
+"lead_ret": 2.19,
+"second": "뱅크웨어글로벌",
+"second_ret": 0.1
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.48,
+"up5": 1,
+"lead": "인포바인",
+"lead_ret": 7.07,
+"second": "인포뱅크",
+"second_ret": -1.35
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.61,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": 2.3,
+"second": "이루온",
+"second_ret": -1.44
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -2.51,
+"up5": 0,
+"lead": "디앤씨미디어",
+"lead_ret": 2.25,
+"second": "핑거스토리",
+"second_ret": -0.57
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.49,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": -1.44,
+"second": "웹케시",
+"second_ret": -1.45
+}
+],
+"leaders": [
+{
+"name": "KCTC",
+"code": "009070",
+"ret": 17.44,
+"value": 2998,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "스맥",
+"code": "099440",
+"ret": 16.72,
+"value": 1487,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼륭물산",
+"code": "014970",
+"ret": 13.02,
+"value": 1270,
+"theme": "日 수출 규제(국산화 등)",
+"reason": "테마: 日 수출 규제(국산화 등)"
+},
+{
+"name": "강원에너지",
+"code": "114190",
+"ret": 17.59,
+"value": 1209,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "씨티케이",
+"code": "260930",
+"ret": 29.82,
+"value": 962,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

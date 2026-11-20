@@ -1,0 +1,254 @@
+{
+"date": "20220113",
+"kospi": -0.35,
+"kosdaq": -0.82,
+"adv": 813,
+"dec": 1066,
+"flat": 179,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 205239,
+"hot": [
+{
+"name": "2차전지",
+"n": 15,
+"lead": "나인테크",
+"lead_ret": 29.78,
+"second": "알루코",
+"second_ret": 26.92
+},
+{
+"name": "전기차",
+"n": 7,
+"lead": "나라엠앤디",
+"lead_ret": 17.77,
+"second": "엠플러스",
+"second_ret": 14.31
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "퍼스텍",
+"lead_ret": 29.86,
+"second": "브이원텍",
+"second_ret": 17.89
+}
+],
+"themes": [
+{
+"name": "2차전지(장비)",
+"n": 34,
+"avg": 6.1,
+"up5": 19,
+"lead": "나인테크",
+"lead_ret": 29.78,
+"second": "대보마그네틱",
+"second_ret": 21.59
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 4.69,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 29.78,
+"second": "삼성SDI",
+"second_ret": 1.06
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 4.1,
+"up5": 4,
+"lead": "나인테크",
+"lead_ret": 29.78,
+"second": "하나기술",
+"second_ret": 11.35
+},
+{
+"name": "2차전지(전고체)",
+"n": 26,
+"avg": 3.78,
+"up5": 8,
+"lead": "나인테크",
+"lead_ret": 29.78,
+"second": "한농화성",
+"second_ret": 15.02
+},
+{
+"name": "2차전지",
+"n": 107,
+"avg": 3.29,
+"up5": 31,
+"lead": "나인테크",
+"lead_ret": 29.78,
+"second": "알루코",
+"second_ret": 26.92
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.94,
+"up5": 3,
+"lead": "SFA넥셀",
+"lead_ret": 10.62,
+"second": "파워넷",
+"second_ret": 5.81
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.87,
+"up5": 3,
+"lead": "다산솔루에타",
+"lead_ret": 15.94,
+"second": "디와이덕양",
+"second_ret": 8.91
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.67,
+"up5": 1,
+"lead": "참좋은여행",
+"lead_ret": 6.79,
+"second": "하나투어",
+"second_ret": 4.65
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.67,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 4.53,
+"second": "토비스",
+"second_ret": 4.41
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.67,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 4.53,
+"second": "토비스",
+"second_ret": 4.41
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.48,
+"up5": 3,
+"lead": "알루코",
+"lead_ret": 26.92,
+"second": "삼아알미늄",
+"second_ret": 6.81
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 2.45,
+"up5": 2,
+"lead": "퍼스텍",
+"lead_ret": 29.86,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 5.88
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -2.99,
+"up5": 0,
+"lead": "에이비엘바이오",
+"lead_ret": 4.02,
+"second": "이수앱지스",
+"second_ret": 2.26
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.69,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 0.72,
+"second": "컴퍼니케이",
+"second_ret": 0.13
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -2.47,
+"up5": 0,
+"lead": "HLB파나진",
+"lead_ret": 0.92,
+"second": "티움바이오",
+"second_ret": 0.54
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -2.46,
+"up5": 0,
+"lead": "위메이드맥스",
+"lead_ret": 1.24,
+"second": "네오위즈",
+"second_ret": 1.11
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -2.34,
+"up5": 1,
+"lead": "유바이오로직스",
+"lead_ret": 6.34,
+"second": "국전",
+"second_ret": 1.92
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 10.62,
+"value": 3048,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "알루코",
+"code": "001780",
+"ret": 26.92,
+"value": 2560,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 29.86,
+"value": 2478,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "나라엠앤디",
+"code": "051490",
+"ret": 17.77,
+"value": 2309,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼기",
+"code": "122350",
+"ret": 11.52,
+"value": 1508,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

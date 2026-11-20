@@ -1,0 +1,238 @@
+{
+"date": "20230509",
+"kospi": -0.13,
+"kosdaq": -0.76,
+"adv": 682,
+"dec": 1336,
+"flat": 134,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 172805,
+"hot": [
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "모베이스전자",
+"lead_ret": 13.27,
+"second": "서연이화",
+"second_ret": 12.12
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 3.59,
+"up5": 1,
+"lead": "HD한국조선해양",
+"lead_ret": 5.11,
+"second": "한화오션",
+"second_ret": 4.53
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.96,
+"up5": 3,
+"lead": "잉크테크",
+"lead_ret": 21.16,
+"second": "다산솔루에타",
+"second_ret": 14.34
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.63,
+"up5": 2,
+"lead": "일승",
+"lead_ret": 16.87,
+"second": "HD한국조선해양",
+"second_ret": 5.11
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 1.5,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 6.05,
+"second": "서한",
+"second_ret": 2.82
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.26,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 6.6,
+"second": "한화손해보험",
+"second_ret": 4.43
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.23,
+"up5": 1,
+"lead": "JW중외제약",
+"lead_ret": 12.31,
+"second": "강스템바이오텍",
+"second_ret": 0.76
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 1.18,
+"up5": 1,
+"lead": "원텍",
+"lead_ret": 16.14,
+"second": "하이로닉",
+"second_ret": 3.26
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.12,
+"up5": 2,
+"lead": "라이콤",
+"lead_ret": 30.0,
+"second": "자람테크놀로지",
+"second_ret": 5.76
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 1.04,
+"up5": 1,
+"lead": "일승",
+"lead_ret": 16.87,
+"second": "화인베스틸",
+"second_ret": 4.27
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 31,
+"avg": 1.0,
+"up5": 2,
+"lead": "슈어소프트테크",
+"lead_ret": 29.97,
+"second": "레인보우로보틱스",
+"second_ret": 7.39
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.97,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 3.37,
+"second": "퀀텀레일",
+"second_ret": 1.37
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.95,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 3.31,
+"second": "천일고속",
+"second_ret": 1.29
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.19,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.0,
+"second": "풀무원",
+"second_ret": -0.29
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -3.36,
+"up5": 0,
+"lead": "대한제당",
+"lead_ret": 3.57,
+"second": "씨티씨바이오",
+"second_ret": 0.0
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -3.04,
+"up5": 0,
+"lead": "삼화전기",
+"lead_ret": 2.29,
+"second": "한솔테크닉스",
+"second_ret": 0.58
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -3.04,
+"up5": 0,
+"lead": "삼화전기",
+"lead_ret": 2.29,
+"second": "한솔테크닉스",
+"second_ret": 0.58
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": -2.96,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 1.22,
+"second": "대원화성",
+"second_ret": 0.74
+}
+],
+"leaders": [
+{
+"name": "KBG",
+"code": "318000",
+"ret": 26.32,
+"value": 2746,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 16.16,
+"value": 2461,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "모베이스전자",
+"code": "012860",
+"ret": 13.27,
+"value": 2355,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "서연이화",
+"code": "200880",
+"ret": 12.12,
+"value": 1734,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 25.37,
+"value": 1497,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

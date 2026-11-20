@@ -1,0 +1,246 @@
+{
+"date": "20250224",
+"kospi": -0.35,
+"kosdaq": -0.17,
+"adv": 1028,
+"dec": 1176,
+"flat": 131,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 171129,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "삼성공조",
+"lead_ret": 29.96,
+"second": "성우",
+"second_ret": 28.12
+},
+{
+"name": "2차전지",
+"n": 7,
+"lead": "성우",
+"lead_ret": 28.12,
+"second": "케이엔에스",
+"second_ret": 27.32
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.03,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 22.59,
+"second": "롯데쇼핑",
+"second_ret": 1.21
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.59,
+"up5": 2,
+"lead": "메가터치",
+"lead_ret": 12.64,
+"second": "삼성SDI",
+"second_ret": 6.7
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.64,
+"up5": 1,
+"lead": "포니링크",
+"lead_ret": 29.94,
+"second": "SOOP",
+"second_ret": 1.22
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.22,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 7.12,
+"second": "흥아해운",
+"second_ret": 3.12
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.14,
+"up5": 12,
+"lead": "성우",
+"lead_ret": 28.12,
+"second": "나라엠앤디",
+"second_ret": 14.63
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 1.87,
+"up5": 1,
+"lead": "워트",
+"lead_ret": 11.59,
+"second": "GST",
+"second_ret": 3.6
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.86,
+"up5": 2,
+"lead": "에피소드컴퍼니",
+"lead_ret": 9.49,
+"second": "꿈비",
+"second_ret": 6.09
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 1.76,
+"up5": 4,
+"lead": "엠오티",
+"lead_ret": 16.59,
+"second": "삼성SDI",
+"second_ret": 6.7
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.7,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 12.12,
+"second": "이건홀딩스",
+"second_ret": 3.46
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.7,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 12.12,
+"second": "이건홀딩스",
+"second_ret": 3.46
+},
+{
+"name": "2차전지",
+"n": 137,
+"avg": 1.66,
+"up5": 19,
+"lead": "성우",
+"lead_ret": 28.12,
+"second": "케이엔에스",
+"second_ret": 27.32
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 1.61,
+"up5": 3,
+"lead": "케이엔에스",
+"lead_ret": 27.32,
+"second": "이닉스",
+"second_ret": 10.09
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -3.53,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 2.74,
+"second": "유라클",
+"second_ret": 2.17
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -2.23,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": 1.2,
+"second": "삼성전기",
+"second_ret": 0.35
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.13,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.52,
+"second": "소마젠",
+"second_ret": -0.62
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.1,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 0.23,
+"second": "LS마린솔루션",
+"second_ret": -0.17
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": -1.98,
+"up5": 0,
+"lead": "금화피에스시",
+"lead_ret": 1.17,
+"second": "한국전력",
+"second_ret": 0.68
+}
+],
+"leaders": [
+{
+"name": "삼성공조",
+"code": "006660",
+"ret": 29.96,
+"value": 2532,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "성우",
+"code": "458650",
+"ret": 28.12,
+"value": 1546,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "오리엔트정공",
+"code": "065500",
+"ret": 16.55,
+"value": 1433,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "워트",
+"code": "396470",
+"ret": 11.59,
+"value": 1088,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 11.17,
+"value": 883,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

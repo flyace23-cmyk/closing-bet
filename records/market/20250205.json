@@ -1,0 +1,254 @@
+{
+"date": "20250205",
+"kospi": 1.11,
+"kosdaq": 1.54,
+"adv": 1555,
+"dec": 660,
+"flat": 114,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 169628,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 8,
+"lead": "클로봇",
+"lead_ret": 29.95,
+"second": "해성에어로보틱스",
+"second_ret": 22.72
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "클로봇",
+"lead_ret": 29.95,
+"second": "솔트룩스",
+"second_ret": 17.14
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "삼현",
+"lead_ret": 19.71,
+"second": "한국무브넥스",
+"second_ret": 13.92
+}
+],
+"themes": [
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 40,
+"avg": 4.54,
+"up5": 14,
+"lead": "클로봇",
+"lead_ret": 29.95,
+"second": "삼현",
+"second_ret": 19.71
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 67,
+"avg": 4.44,
+"up5": 25,
+"lead": "클로봇",
+"lead_ret": 29.95,
+"second": "해성에어로보틱스",
+"second_ret": 22.72
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 59,
+"avg": 4.14,
+"up5": 20,
+"lead": "클로봇",
+"lead_ret": 29.95,
+"second": "솔트룩스",
+"second_ret": 17.14
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.9,
+"up5": 2,
+"lead": "SOOP",
+"lead_ret": 27.31,
+"second": "카카오",
+"second_ret": 5.62
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.9,
+"up5": 2,
+"lead": "SOOP",
+"lead_ret": 27.31,
+"second": "SBS",
+"second_ret": 5.45
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.81,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 7.05,
+"second": "유한양행",
+"second_ret": 5.88
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 3.53,
+"up5": 4,
+"lead": "테스",
+"lead_ret": 18.88,
+"second": "어보브반도체",
+"second_ret": 16.01
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 3.39,
+"up5": 9,
+"lead": "솔트룩스",
+"lead_ret": 17.14,
+"second": "바이브컴퍼니",
+"second_ret": 12.46
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": 3.39,
+"up5": 4,
+"lead": "제이엘케이",
+"lead_ret": 9.55,
+"second": "토마토시스템",
+"second_ret": 9.37
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.22,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 9.08,
+"second": "엠케이전자",
+"second_ret": 4.59
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.16,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 14.88,
+"second": "갤럭시아머니트리",
+"second_ret": 1.1
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 3.14,
+"up5": 5,
+"lead": "어보브반도체",
+"lead_ret": 16.01,
+"second": "네패스아크",
+"second_ret": 7.53
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -2.62,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.37,
+"second": "한화오션",
+"second_ret": -1.48
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -2.1,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": -0.17,
+"second": "화성밸브",
+"second_ret": -0.53
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.59,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 0.31,
+"second": "가온전선",
+"second_ret": -0.69
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -1.29,
+"up5": 0,
+"lead": "KS인더스트리",
+"lead_ret": 4.44,
+"second": "화인베스틸",
+"second_ret": 3.46
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.04,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 3.03,
+"second": "컬러레이",
+"second_ret": 2.42
+}
+],
+"leaders": [
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 29.95,
+"value": 5203,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 21.69,
+"value": 4714,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "SOOP",
+"code": "067160",
+"ret": 27.31,
+"value": 2153,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 17.14,
+"value": 2094,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "삼현",
+"code": "437730",
+"ret": 19.71,
+"value": 2076,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

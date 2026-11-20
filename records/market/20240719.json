@@ -1,0 +1,246 @@
+{
+"date": "20240719",
+"kospi": -1.02,
+"kosdaq": 0.76,
+"adv": 904,
+"dec": 1236,
+"flat": 128,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 160217,
+"hot": [
+{
+"name": "치매",
+"n": 5,
+"lead": "펩트론",
+"lead_ret": 26.56,
+"second": "에이프로젠바이오로직스",
+"second_ret": 17.31
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "DXVX",
+"lead_ret": 29.84,
+"second": "펩트론",
+"second_ret": 26.56
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.08,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 17.38,
+"second": "성우전자",
+"second_ret": 3.52
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.02,
+"up5": 3,
+"lead": "광무",
+"lead_ret": 23.28,
+"second": "앱튼",
+"second_ret": 8.05
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.85,
+"up5": 1,
+"lead": "광무",
+"lead_ret": 23.28,
+"second": "인성정보",
+"second_ret": 1.07
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.6,
+"up5": 1,
+"lead": "DXVX",
+"lead_ret": 29.84,
+"second": "멕아이씨에스",
+"second_ret": 1.72
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.13,
+"up5": 6,
+"lead": "DXVX",
+"lead_ret": 29.84,
+"second": "펩트론",
+"second_ret": 26.56
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 1.92,
+"up5": 1,
+"lead": "브이티",
+"lead_ret": 13.15,
+"second": "LG에너지솔루션",
+"second_ret": 3.13
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 29,
+"avg": 1.86,
+"up5": 2,
+"lead": "우리바이오",
+"lead_ret": 29.95,
+"second": "태성",
+"second_ret": 25.22
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 1.68,
+"up5": 5,
+"lead": "피노",
+"lead_ret": 24.77,
+"second": "광무",
+"second_ret": 23.28
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 1.67,
+"up5": 4,
+"lead": "올릭스",
+"lead_ret": 14.83,
+"second": "타임X AI",
+"second_ret": 13.55
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 1.66,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 6.48,
+"second": "LG에너지솔루션",
+"second_ret": 3.13
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.63,
+"up5": 3,
+"lead": "빛과전자",
+"lead_ret": 7.26,
+"second": "자람테크놀로지",
+"second_ret": 6.07
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 1.6,
+"up5": 4,
+"lead": "펩트론",
+"lead_ret": 26.56,
+"second": "인벤티지랩",
+"second_ret": 11.19
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -3.64,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 0.35,
+"second": "대창솔루션",
+"second_ret": 0.25
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.65,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": -0.6,
+"second": "SBI인베스트먼트",
+"second_ret": -0.71
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.5,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -1.15,
+"second": "HD한국조선해양",
+"second_ret": -1.69
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": -2.46,
+"up5": 1,
+"lead": "신화프리텍",
+"lead_ret": 7.3,
+"second": "LS ELECTRIC",
+"second_ret": 4.69
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -2.46,
+"up5": 0,
+"lead": "모비스",
+"lead_ret": 0.9,
+"second": "삼화콘덴서",
+"second_ret": -2.28
+}
+],
+"leaders": [
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 26.56,
+"value": 4487,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 29.95,
+"value": 2643,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "브이티",
+"code": "018290",
+"ret": 13.15,
+"value": 1314,
+"theme": "2차전지(LFP/리튬인산철)",
+"reason": "테마: 2차전지(LFP/리튬인산철)"
+},
+{
+"name": "태성",
+"code": "323280",
+"ret": 25.22,
+"value": 1073,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 10.13,
+"value": 1062,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20200713",
+"kospi": 1.67,
+"kosdaq": 1.08,
+"adv": 1297,
+"dec": 478,
+"flat": 147,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 201147,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 6,
+"lead": "시노펙스",
+"lead_ret": 30.01,
+"second": "SJG세종",
+"second_ret": 29.89
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "시노펙스",
+"lead_ret": 30.01,
+"second": "드림텍",
+"second_ret": 29.6
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "시노펙스",
+"lead_ret": 30.01,
+"second": "SJG세종",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 9.25,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 29.92,
+"second": "풀무원",
+"second_ret": 9.11
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 63,
+"avg": 4.96,
+"up5": 22,
+"lead": "시노펙스",
+"lead_ret": 30.01,
+"second": "SJG세종",
+"second_ret": 29.89
+},
+{
+"name": "육계",
+"n": 8,
+"avg": 4.46,
+"up5": 3,
+"lead": "푸드나무",
+"lead_ret": 12.4,
+"second": "체리부로",
+"second_ret": 7.61
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.4,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 15.68,
+"second": "지씨셀",
+"second_ret": 5.14
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 4.38,
+"up5": 3,
+"lead": "유니테스트",
+"lead_ret": 10.94,
+"second": "한화솔루션",
+"second_ret": 7.53
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.27,
+"up5": 3,
+"lead": "현대위아",
+"lead_ret": 12.89,
+"second": "현대모비스",
+"second_ret": 6.23
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 4.27,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 29.92,
+"second": "CJ씨푸드",
+"second_ret": 2.21
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": 4.18,
+"up5": 2,
+"lead": "SJG세종",
+"lead_ret": 29.89,
+"second": "미코",
+"second_ret": 6.85
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 4.13,
+"up5": 4,
+"lead": "소프트캠프",
+"lead_ret": 17.18,
+"second": "오파스넷",
+"second_ret": 11.08
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 20,
+"avg": 4.07,
+"up5": 7,
+"lead": "한국정보인증",
+"lead_ret": 13.27,
+"second": "유진투자증권",
+"second_ret": 10.78
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 4.06,
+"up5": 2,
+"lead": "두산퓨얼셀",
+"lead_ret": 22.11,
+"second": "미코",
+"second_ret": 6.85
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 3.69,
+"up5": 7,
+"lead": "드림텍",
+"lead_ret": 29.6,
+"second": "휴마시스",
+"second_ret": 16.87
+}
+],
+"themes_worst": [
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.61,
+"up5": 0,
+"lead": "휴메딕스",
+"lead_ret": 2.12,
+"second": "파마리서치",
+"second_ret": 1.79
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -0.19,
+"up5": 0,
+"lead": "네이처셀",
+"lead_ret": 2.3,
+"second": "차바이오텍",
+"second_ret": 2.15
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.18,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": 2.28,
+"second": "유한양행",
+"second_ret": 0.59
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -0.17,
+"up5": 0,
+"lead": "휴메딕스",
+"lead_ret": 2.12,
+"second": "파마리서치",
+"second_ret": 1.79
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 12,
+"avg": -0.17,
+"up5": 0,
+"lead": "인텍플러스",
+"lead_ret": 3.39,
+"second": "심텍홀딩스",
+"second_ret": 1.55
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 23.95,
+"value": 7938,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 22.11,
+"value": 4481,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 30.01,
+"value": 3324,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "녹십자",
+"code": "006280",
+"ret": 15.68,
+"value": 3038,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "드림텍",
+"code": "192650",
+"ret": 29.6,
+"value": 2683,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

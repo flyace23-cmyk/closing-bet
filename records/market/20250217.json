@@ -1,0 +1,254 @@
+{
+"date": "20250217",
+"kospi": 0.75,
+"kosdaq": 1.61,
+"adv": 1527,
+"dec": 672,
+"flat": 134,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 195761,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "탑머티리얼",
+"lead_ret": 29.98,
+"second": "피아이이",
+"second_ret": 20.21
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "원익홀딩스",
+"lead_ret": 21.01,
+"second": "저스템",
+"second_ret": 17.39
+},
+{
+"name": "퓨리오사AI",
+"n": 3,
+"lead": "아이티센글로벌",
+"lead_ret": 19.13,
+"second": "토마토시스템",
+"second_ret": 12.88
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.31,
+"up5": 5,
+"lead": "심텍",
+"lead_ret": 20.97,
+"second": "티엘비",
+"second_ret": 18.26
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 5.29,
+"up5": 3,
+"lead": "아이티센글로벌",
+"lead_ret": 19.13,
+"second": "토마토시스템",
+"second_ret": 12.88
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.1,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 20.97,
+"second": "티엘비",
+"second_ret": 18.26
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": 4.73,
+"up5": 9,
+"lead": "쓰리빌리언",
+"lead_ret": 26.81,
+"second": "온코크로스",
+"second_ret": 17.41
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.16,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 8.73,
+"second": "한화생명",
+"second_ret": 4.72
+},
+{
+"name": "증강현실(AR)",
+"n": 19,
+"avg": 3.9,
+"up5": 4,
+"lead": "버넥트",
+"lead_ret": 29.91,
+"second": "세코닉스",
+"second_ret": 22.72
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.68,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 18.26,
+"second": "오픈엣지테크놀로지",
+"second_ret": 7.56
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.68,
+"up5": 2,
+"lead": "성광벤드",
+"lead_ret": 8.81,
+"second": "태광",
+"second_ret": 8.19
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 3.47,
+"up5": 5,
+"lead": "심텍",
+"lead_ret": 20.97,
+"second": "에이팩트",
+"second_ret": 11.19
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.39,
+"up5": 2,
+"lead": "탑머티리얼",
+"lead_ret": 29.98,
+"second": "SK이노베이션",
+"second_ret": 5.33
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 3.38,
+"up5": 3,
+"lead": "에코심플렉스",
+"lead_ret": 10.58,
+"second": "에코아이",
+"second_ret": 9.67
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 3.37,
+"up5": 7,
+"lead": "심텍",
+"lead_ret": 20.97,
+"second": "티엘비",
+"second_ret": 18.26
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.88,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.42,
+"second": "녹십자",
+"second_ret": 0.37
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.3,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 0.0,
+"second": "HD한국조선해양",
+"second_ret": 0.0
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.96,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": -0.19,
+"second": "유한양행",
+"second_ret": -0.4
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -0.95,
+"up5": 0,
+"lead": "서연탑메탈",
+"lead_ret": 1.92,
+"second": "동일금속",
+"second_ret": 0.93
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": -0.87,
+"up5": 1,
+"lead": "노머스",
+"lead_ret": 6.33,
+"second": "빌리언스",
+"second_ret": 3.17
+}
+],
+"leaders": [
+{
+"name": "피아이이",
+"code": "452450",
+"ret": 20.21,
+"value": 3294,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 12.38,
+"value": 2701,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "쓰리빌리언",
+"code": "394800",
+"ret": 26.81,
+"value": 2306,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "오름테라퓨틱",
+"code": "475830",
+"ret": 29.82,
+"value": 1975,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에이럭스",
+"code": "475580",
+"ret": 16.5,
+"value": 1937,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+}
+],
+"backfilled": true
+}

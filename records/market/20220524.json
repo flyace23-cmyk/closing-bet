@@ -1,0 +1,254 @@
+{
+"date": "20220524",
+"kospi": -1.57,
+"kosdaq": -2.1,
+"adv": 251,
+"dec": 1712,
+"flat": 117,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 149944,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "현대공업",
+"lead_ret": 18.73,
+"second": "HT로보틱스",
+"second_ret": 12.88
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "에스피시스템스",
+"lead_ret": 29.77,
+"second": "유일로보틱스",
+"second_ret": 24.62
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 4,
+"lead": "효성화학",
+"lead_ret": 5.42,
+"second": "디와이",
+"second_ret": 5.26
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 9,
+"avg": 2.06,
+"up5": 1,
+"lead": "마니커",
+"lead_ret": 13.83,
+"second": "하림",
+"second_ret": 3.75
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 1.11,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": 2.5,
+"second": "HMM",
+"second_ret": 1.9
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 0.77,
+"up5": 0,
+"lead": "파세코",
+"lead_ret": 4.89,
+"second": "위닉스",
+"second_ret": 4.41
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 32,
+"avg": 0.76,
+"up5": 3,
+"lead": "에스피시스템스",
+"lead_ret": 29.77,
+"second": "유일로보틱스",
+"second_ret": 24.62
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 0.67,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 6.47,
+"second": "파미셀",
+"second_ret": 5.84
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 0.61,
+"up5": 1,
+"lead": "마니커",
+"lead_ret": 13.83,
+"second": "하림",
+"second_ret": 3.75
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.6,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 5.84,
+"second": "서울제약",
+"second_ret": -0.16
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 0.58,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": 3.78,
+"second": "현대건설",
+"second_ret": 1.95
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 0.34,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 4.66,
+"second": "JW중외제약",
+"second_ret": 0.79
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 0.3,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 1.89,
+"second": "BNK금융지주",
+"second_ret": 1.05
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 57,
+"avg": 0.27,
+"up5": 4,
+"lead": "에스피시스템스",
+"lead_ret": 29.77,
+"second": "유일로보틱스",
+"second_ret": 24.62
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 0.19,
+"up5": 2,
+"lead": "에코캡",
+"lead_ret": 8.7,
+"second": "디와이",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": -5.15,
+"up5": 0,
+"lead": "동일금속",
+"lead_ret": -1.2,
+"second": "두산밥캣",
+"second_ret": -1.45
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -3.69,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": -0.31,
+"second": "나이스정보통신",
+"second_ret": -0.52
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -3.51,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": -1.62,
+"second": "삼성전자",
+"second_ret": -2.06
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.36,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": -1.77,
+"second": "갤럭시아머니트리",
+"second_ret": -2.24
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -3.35,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -0.58,
+"second": "한국팩키지",
+"second_ret": -0.74
+}
+],
+"leaders": [
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 15.09,
+"value": 2988,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "비트맥스",
+"code": "377030",
+"ret": 11.99,
+"value": 2010,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "유일로보틱스",
+"code": "388720",
+"ret": 24.62,
+"value": 1800,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 18.73,
+"value": 1714,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "HT로보틱스",
+"code": "396300",
+"ret": 12.88,
+"value": 969,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

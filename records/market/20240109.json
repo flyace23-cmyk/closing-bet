@@ -1,0 +1,246 @@
+{
+"date": "20240109",
+"kospi": -0.26,
+"kosdaq": 0.6,
+"adv": 1435,
+"dec": 642,
+"flat": 151,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 190781,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "한빛레이저",
+"lead_ret": 30.0,
+"second": "광무",
+"second_ret": 10.45
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "코디",
+"lead_ret": 29.88,
+"second": "내츄럴엔도텍",
+"second_ret": 22.09
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 4.97,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 29.98,
+"second": "아이티센글로벌",
+"second_ret": 4.06
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.41,
+"up5": 3,
+"lead": "에어부산",
+"lead_ret": 7.15,
+"second": "제주항공",
+"second_ret": 6.96
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 4.03,
+"up5": 2,
+"lead": "마크로젠",
+"lead_ret": 29.78,
+"second": "소마젠",
+"second_ret": 9.62
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.7,
+"up5": 1,
+"lead": "토니모리",
+"lead_ret": 20.49,
+"second": "한국정보통신",
+"second_ret": 3.53
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 3.69,
+"up5": 9,
+"lead": "갤럭시아머니트리",
+"lead_ret": 9.41,
+"second": "위메이드",
+"second_ret": 8.01
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.56,
+"up5": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 9.41,
+"second": "카페24",
+"second_ret": 7.66
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 3.54,
+"up5": 2,
+"lead": "광전자",
+"lead_ret": 29.91,
+"second": "루멘스바이오스",
+"second_ret": 5.15
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.48,
+"up5": 7,
+"lead": "컴퍼니케이",
+"lead_ret": 9.62,
+"second": "갤럭시아머니트리",
+"second_ret": 9.41
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.42,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 9.62,
+"second": "파미셀",
+"second_ret": 4.83
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.35,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 17.98,
+"second": "GS",
+"second_ret": 3.02
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 3.24,
+"up5": 3,
+"lead": "마크로젠",
+"lead_ret": 29.78,
+"second": "제이엘케이",
+"second_ret": 12.02
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.21,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 29.98,
+"second": "쇼박스",
+"second_ret": 3.58
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -1.41,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 1.25,
+"second": "인지컨트롤스",
+"second_ret": 0.99
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.37,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 0.6,
+"second": "디아이씨",
+"second_ret": 0.2
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.17,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.77,
+"second": "HD한국조선해양",
+"second_ret": -1.07
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.99,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.03,
+"second": "삼성SDI",
+"second_ret": -0.92
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -0.92,
+"up5": 0,
+"lead": "상보",
+"lead_ret": 0.81,
+"second": "금호석유화학",
+"second_ret": 0.08
+}
+],
+"leaders": [
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 17.98,
+"value": 3457,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 30.0,
+"value": 2708,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "KEC",
+"code": "092220",
+"ret": 17.09,
+"value": 2340,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 22.25,
+"value": 1816,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 28.25,
+"value": 1397,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

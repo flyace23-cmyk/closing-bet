@@ -1,0 +1,246 @@
+{
+"date": "20210316",
+"kospi": 0.7,
+"kosdaq": 1.48,
+"adv": 1233,
+"dec": 588,
+"flat": 169,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 253220,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "나노신소재",
+"lead_ret": 12.45,
+"second": "켐트로스",
+"second_ret": 9.43
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "유유제약",
+"lead_ret": 21.78,
+"second": "신풍제약",
+"second_ret": 15.79
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 4.74,
+"up5": 3,
+"lead": "로지시스",
+"lead_ret": 29.53,
+"second": "한네트",
+"second_ret": 7.08
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.83,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.29,
+"second": "드림씨아이에스",
+"second_ret": 6.26
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.82,
+"up5": 4,
+"lead": "컴퍼니케이",
+"lead_ret": 29.59,
+"second": "갤럭시아머니트리",
+"second_ret": 16.9
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 3.77,
+"up5": 4,
+"lead": "컴퍼니케이",
+"lead_ret": 29.59,
+"second": "에이티넘인베스트",
+"second_ret": 12.94
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.5,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 29.93,
+"second": "엔피케이",
+"second_ret": 2.23
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.35,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 29.93,
+"second": "GS",
+"second_ret": 0.62
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.12,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 7.95,
+"second": "녹십자",
+"second_ret": 2.99
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.1,
+"up5": 3,
+"lead": "에이티넘인베스트",
+"lead_ret": 12.94,
+"second": "우리기술투자",
+"second_ret": 7.78
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.06,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 16.9,
+"second": "NHN벅스",
+"second_ret": 8.53
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.03,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 29.93,
+"second": "대성산업",
+"second_ret": 4.45
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.03,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 29.93,
+"second": "대성산업",
+"second_ret": 4.45
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.03,
+"up5": 3,
+"lead": "제주항공",
+"lead_ret": 6.26,
+"second": "아시아나항공",
+"second_ret": 5.65
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.55,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 3.18,
+"second": "롯데정밀화학",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.95,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.6,
+"second": "신송홀딩스",
+"second_ret": 0.11
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": -1.77,
+"up5": 0,
+"lead": "제이에스링크",
+"lead_ret": 0.6,
+"second": "고려아연",
+"second_ret": 0.12
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.11,
+"up5": 0,
+"lead": "아이디스",
+"lead_ret": 0.77,
+"second": "포커스에이아이",
+"second_ret": 0.46
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": -0.91,
+"up5": 0,
+"lead": "미래나노텍",
+"lead_ret": 2.33,
+"second": "세방전지",
+"second_ret": 2.0
+}
+],
+"leaders": [
+{
+"name": "일월지엠엘",
+"code": "178780",
+"ret": 15.35,
+"value": 4807,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 15.79,
+"value": 3251,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 16.9,
+"value": 3171,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "에이티넘인베스트",
+"code": "021080",
+"ret": 12.94,
+"value": 2933,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 22.6,
+"value": 2778,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+}
+],
+"backfilled": true
+}

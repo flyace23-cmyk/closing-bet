@@ -1,0 +1,254 @@
+{
+"date": "20251217",
+"kospi": 1.43,
+"kosdaq": -0.55,
+"adv": 1225,
+"dec": 1022,
+"flat": 147,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 211566,
+"hot": [
+{
+"name": "탈모 치료",
+"n": 6,
+"lead": "알리코제약",
+"lead_ret": 29.99,
+"second": "이노진",
+"second_ret": 29.9
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "해성디에스",
+"lead_ret": 19.27,
+"second": "켐트로스",
+"second_ret": 12.02
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "넥스트칩",
+"lead_ret": 20.63,
+"second": "켐트로스",
+"second_ret": 12.02
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 14.07,
+"up5": 3,
+"lead": "동양고속",
+"lead_ret": 29.96,
+"second": "대성산업",
+"second_ret": 29.89
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": 5.87,
+"up5": 10,
+"lead": "알리코제약",
+"lead_ret": 29.99,
+"second": "이노진",
+"second_ret": 29.9
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 5.7,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 30.0,
+"second": "신세계",
+"second_ret": 2.91
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.45,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 29.89,
+"second": "E1",
+"second_ret": 5.29
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.45,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 29.89,
+"second": "E1",
+"second_ret": 5.29
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.19,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 10.04,
+"second": "티에프이",
+"second_ret": 8.17
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 3.7,
+"up5": 6,
+"lead": "동양고속",
+"lead_ret": 29.96,
+"second": "대성산업",
+"second_ret": 29.89
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.23,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 10.04,
+"second": "네오티스",
+"second_ret": 7.52
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.08,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 29.89,
+"second": "우양피앤엘",
+"second_ret": 4.28
+},
+{
+"name": "출산장려정책",
+"n": 22,
+"avg": 3.0,
+"up5": 3,
+"lead": "에르코스",
+"lead_ret": 29.92,
+"second": "꿈비",
+"second_ret": 14.8
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.59,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 7.78,
+"second": "코오롱인더",
+"second_ret": 4.7
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.43,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 8.77,
+"second": "한화생명",
+"second_ret": 4.86
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -3.39,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 1.36,
+"second": "JW중외제약",
+"second_ret": 0.71
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -3.37,
+"up5": 0,
+"lead": "에스티아이",
+"lead_ret": 1.83,
+"second": "하이비젼시스템",
+"second_ret": 1.59
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.7,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": -0.56,
+"second": "KBI메탈",
+"second_ret": -0.91
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": -2.46,
+"up5": 0,
+"lead": "제이엘케이",
+"lead_ret": 4.75,
+"second": "파로스아이바이오",
+"second_ret": 3.97
+},
+{
+"name": "유전자 치료제/분석",
+"n": 38,
+"avg": -2.05,
+"up5": 1,
+"lead": "바이젠셀",
+"lead_ret": 9.11,
+"second": "HLB파나진",
+"second_ret": 2.79
+}
+],
+"leaders": [
+{
+"name": "쿼드메디슨",
+"code": "464490",
+"ret": 21.23,
+"value": 5881,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "에스제이그룹",
+"code": "306040",
+"ret": 30.0,
+"value": 1187,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "신신제약",
+"code": "002800",
+"ret": 22.32,
+"value": 1176,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "JW신약",
+"code": "067290",
+"ret": 13.93,
+"value": 992,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "한화갤러리아",
+"code": "452260",
+"ret": 30.0,
+"value": 887,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+}
+],
+"backfilled": true
+}

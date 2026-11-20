@@ -1,0 +1,254 @@
+{
+"date": "20220921",
+"kospi": -0.87,
+"kosdaq": -0.72,
+"adv": 624,
+"dec": 1306,
+"flat": 168,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 109355,
+"hot": [
+{
+"name": "미디어(방송/신문)",
+"n": 6,
+"lead": "iMBC",
+"lead_ret": 29.95,
+"second": "YTN",
+"second_ret": 29.9
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "화천기계",
+"lead_ret": 29.9,
+"second": "삼보모터스",
+"second_ret": 29.87
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "삼보모터스",
+"lead_ret": 29.87,
+"second": "모트렉스",
+"second_ret": 7.98
+}
+],
+"themes": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 9.95,
+"up5": 6,
+"lead": "iMBC",
+"lead_ret": 29.95,
+"second": "YTN",
+"second_ret": 29.9
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.01,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 29.83,
+"second": "데브시스터즈",
+"second_ret": 11.28
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.41,
+"up5": 1,
+"lead": "대한해운",
+"lead_ret": 6.56,
+"second": "팬오션",
+"second_ret": 2.81
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.41,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 8.93,
+"second": "삼성중공업",
+"second_ret": 4.9
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.08,
+"up5": 3,
+"lead": "케이씨피드",
+"lead_ret": 9.97,
+"second": "한탑",
+"second_ret": 7.2
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.82,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 6.58,
+"second": "대성에너지",
+"second_ret": 4.39
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.46,
+"up5": 2,
+"lead": "아세아텍",
+"lead_ret": 22.14,
+"second": "대동기어",
+"second_ret": 11.57
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.24,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 4.83,
+"second": "한국카본",
+"second_ret": 3.01
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.17,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 3.35,
+"second": "KG이니시스",
+"second_ret": 2.19
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.04,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 29.83,
+"second": "성일하이텍",
+"second_ret": 5.19
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.02,
+"up5": 1,
+"lead": "대한해운",
+"lead_ret": 6.56,
+"second": "삼성중공업",
+"second_ret": 4.9
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.02,
+"up5": 0,
+"lead": "한화손해보험",
+"lead_ret": 3.31,
+"second": "롯데손해보험",
+"second_ret": 1.56
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.91,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": 0.5,
+"second": "녹십자",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.35,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.0,
+"second": "파미셀",
+"second_ret": -1.36
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.04,
+"up5": 0,
+"lead": "휴스틸",
+"lead_ret": 2.64,
+"second": "세아제강",
+"second_ret": 0.66
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 22,
+"avg": -2.02,
+"up5": 0,
+"lead": "LG유플러스",
+"lead_ret": 0.87,
+"second": "현대에이치티",
+"second_ret": 0.63
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.01,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "윙입푸드",
+"second_ret": -0.45
+}
+],
+"leaders": [
+{
+"name": "한국경제TV",
+"code": "039340",
+"ret": 16.96,
+"value": 1458,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "하나기술",
+"code": "299030",
+"ret": 13.21,
+"value": 1117,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "삼보모터스",
+"code": "053700",
+"ret": 29.87,
+"value": 843,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "아세아텍",
+"code": "050860",
+"ret": 22.14,
+"value": 795,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "iMBC",
+"code": "052220",
+"ret": 29.95,
+"value": 581,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+}
+],
+"backfilled": true
+}

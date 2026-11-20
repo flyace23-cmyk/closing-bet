@@ -1,0 +1,254 @@
+{
+"date": "20220107",
+"kospi": 1.18,
+"kosdaq": 1.52,
+"adv": 1501,
+"dec": 394,
+"flat": 163,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 197028,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 11,
+"lead": "퍼스텍",
+"lead_ret": 29.82,
+"second": "아진엑스텍",
+"second_ret": 29.74
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "유진로봇",
+"lead_ret": 24.46,
+"second": "세코닉스",
+"second_ret": 17.81
+},
+{
+"name": "DMZ 평화공원",
+"n": 3,
+"lead": "웹스",
+"lead_ret": 29.85,
+"second": "퍼스텍",
+"second_ret": 29.82
+}
+],
+"themes": [
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 6.11,
+"up5": 4,
+"lead": "웹스",
+"lead_ret": 29.85,
+"second": "퍼스텍",
+"second_ret": 29.82
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.98,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 21.99,
+"second": "유비벨록스",
+"second_ret": 4.76
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 28,
+"avg": 5.6,
+"up5": 9,
+"lead": "아진엑스텍",
+"lead_ret": 29.74,
+"second": "유진로봇",
+"second_ret": 24.46
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 5.25,
+"up5": 3,
+"lead": "스맥",
+"lead_ret": 14.28,
+"second": "휴림로봇",
+"second_ret": 11.35
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 55,
+"avg": 5.23,
+"up5": 19,
+"lead": "퍼스텍",
+"lead_ret": 29.82,
+"second": "아진엑스텍",
+"second_ret": 29.74
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 4.77,
+"up5": 3,
+"lead": "아이비김영",
+"lead_ret": 15.64,
+"second": "메가엠디",
+"second_ret": 6.49
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 45,
+"avg": 4.24,
+"up5": 10,
+"lead": "퍼스텍",
+"lead_ret": 29.82,
+"second": "유진로봇",
+"second_ret": 24.46
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 4.09,
+"up5": 2,
+"lead": "세코닉스",
+"lead_ret": 17.81,
+"second": "동운아나텍",
+"second_ret": 6.91
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.03,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 21.99,
+"second": "갤럭시아머니트리",
+"second_ret": 4.91
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 31,
+"avg": 3.91,
+"up5": 9,
+"lead": "아진엑스텍",
+"lead_ret": 29.74,
+"second": "알에스오토메이션",
+"second_ret": 16.67
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.78,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 8.36,
+"second": "파수AI",
+"second_ret": 6.14
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 3.76,
+"up5": 6,
+"lead": "퍼스텍",
+"lead_ret": 29.82,
+"second": "매커스",
+"second_ret": 10.12
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.15,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": 2.84,
+"second": "GRT",
+"second_ret": 0.41
+},
+{
+"name": "탈모 치료",
+"n": 22,
+"avg": -2.59,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 1.42,
+"second": "이노진",
+"second_ret": 1.21
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -0.86,
+"up5": 0,
+"lead": "대한제강",
+"lead_ret": 1.12,
+"second": "POSCO홀딩스",
+"second_ret": 0.16
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.42,
+"up5": 0,
+"lead": "경동도시가스",
+"lead_ret": 0.91,
+"second": "대성홀딩스",
+"second_ret": 0.74
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -0.36,
+"up5": 1,
+"lead": "아세아시멘트",
+"lead_ret": 5.0,
+"second": "부산산업",
+"second_ret": 3.47
+}
+],
+"leaders": [
+{
+"name": "이루온",
+"code": "065440",
+"ret": 21.99,
+"value": 2206,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 24.46,
+"value": 2193,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 29.82,
+"value": 1930,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "위메이드맥스",
+"code": "101730",
+"ret": 18.45,
+"value": 1198,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 11.38,
+"value": 1196,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20210831",
+"kospi": 1.75,
+"kosdaq": 0.63,
+"adv": 1060,
+"dec": 748,
+"flat": 220,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 269210,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에코프로",
+"lead_ret": 15.07,
+"second": "켐트로스",
+"second_ret": 9.61
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "케이바이오랩스",
+"lead_ret": 29.81,
+"second": "한국파마",
+"second_ret": 17.99
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.87,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 15.07,
+"second": "삼성SDI",
+"second_ret": 3.93
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.84,
+"up5": 1,
+"lead": "유비벨록스",
+"lead_ret": 9.48,
+"second": "이루온",
+"second_ret": 3.16
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 2.65,
+"up5": 3,
+"lead": "유티아이",
+"lead_ret": 14.88,
+"second": "SKC",
+"second_ret": 8.14
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 19,
+"avg": 2.64,
+"up5": 3,
+"lead": "디티씨",
+"lead_ret": 19.36,
+"second": "휴맥스",
+"second_ret": 12.49
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 2.52,
+"up5": 2,
+"lead": "지아이에스",
+"lead_ret": 5.41,
+"second": "대주전자재료",
+"second_ret": 5.05
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.41,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 3.93,
+"second": "SK하이닉스",
+"second_ret": 2.9
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.41,
+"up5": 2,
+"lead": "슈피겐코리아",
+"lead_ret": 7.58,
+"second": "이녹스첨단소재",
+"second_ret": 5.2
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 2.34,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.36,
+"second": "SK하이닉스",
+"second_ret": 2.9
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 2.25,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 15.07,
+"second": "영화테크",
+"second_ret": 4.24
+},
+{
+"name": "마이데이터",
+"n": 10,
+"avg": 2.19,
+"up5": 2,
+"lead": "유비벨록스",
+"lead_ret": 9.48,
+"second": "쿠콘",
+"second_ret": 6.5
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 2.17,
+"up5": 10,
+"lead": "에코프로",
+"lead_ret": 15.07,
+"second": "켐트로스",
+"second_ret": 9.61
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.14,
+"up5": 1,
+"lead": "휴스틸",
+"lead_ret": 12.3,
+"second": "세아제강",
+"second_ret": 2.79
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -1.22,
+"up5": 0,
+"lead": "SG",
+"lead_ret": 1.84,
+"second": "엔피케이",
+"second_ret": 0.61
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.07,
+"up5": 0,
+"lead": "리더스코스메틱",
+"lead_ret": 0.23,
+"second": "블루산업개발",
+"second_ret": -0.54
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -0.93,
+"up5": 0,
+"lead": "바이오솔루션",
+"lead_ret": 2.44,
+"second": "차바이오텍",
+"second_ret": 1.49
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.93,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 2.95,
+"second": "레드캡투어",
+"second_ret": 0.0
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -0.89,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 0.32,
+"second": "LS에코에너지",
+"second_ret": 0.12
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 15.07,
+"value": 4957,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 14.93,
+"value": 4933,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 17.99,
+"value": 4127,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "디티씨",
+"code": "066670",
+"ret": 19.36,
+"value": 3403,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "케이바이오랩스",
+"code": "038530",
+"ret": 29.81,
+"value": 1631,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

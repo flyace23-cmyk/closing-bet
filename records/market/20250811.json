@@ -1,0 +1,254 @@
+{
+"date": "20250811",
+"kospi": -0.1,
+"kosdaq": 0.32,
+"adv": 906,
+"dec": 1352,
+"flat": 115,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 150705,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "엔켐",
+"lead_ret": 21.34,
+"second": "코스모신소재",
+"second_ret": 13.98
+},
+{
+"name": "리튬",
+"n": 4,
+"lead": "리튬포어스",
+"lead_ret": 23.65,
+"second": "엔켐",
+"second_ret": 21.34
+},
+{
+"name": "음식료업종",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 14.96,
+"second": "우양",
+"second_ret": 12.63
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.44,
+"up5": 6,
+"lead": "리튬포어스",
+"lead_ret": 23.65,
+"second": "엔켐",
+"second_ret": 21.34
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 4.09,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 12.63,
+"second": "한울앤제주",
+"second_ret": 10.54
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.77,
+"up5": 4,
+"lead": "NHN벅스",
+"lead_ret": 18.88,
+"second": "와이지엔터테인먼트",
+"second_ret": 11.91
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.38,
+"up5": 6,
+"lead": "이브이첨단소재",
+"lead_ret": 15.18,
+"second": "하나기술",
+"second_ret": 9.94
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.27,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 7.98,
+"second": "더블유씨피",
+"second_ret": 5.34
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.87,
+"up5": 16,
+"lead": "엔켐",
+"lead_ret": 21.34,
+"second": "코스모신소재",
+"second_ret": 13.98
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.55,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 15.37,
+"second": "에스티팜",
+"second_ret": 2.8
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.33,
+"up5": 1,
+"lead": "코스모신소재",
+"lead_ret": 13.98,
+"second": "대주전자재료",
+"second_ret": 3.59
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.33,
+"up5": 2,
+"lead": "엘앤에프",
+"lead_ret": 10.32,
+"second": "팬스타엔터프라이즈",
+"second_ret": 6.22
+},
+{
+"name": "2차전지",
+"n": 141,
+"avg": 2.15,
+"up5": 20,
+"lead": "엔켐",
+"lead_ret": 21.34,
+"second": "코스모신소재",
+"second_ret": 13.98
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 2.1,
+"up5": 4,
+"lead": "빌리언스",
+"lead_ret": 29.84,
+"second": "와이지엔터테인먼트",
+"second_ret": 11.91
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.93,
+"up5": 1,
+"lead": "NHN벅스",
+"lead_ret": 18.88,
+"second": "가비아",
+"second_ret": 4.11
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.25,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.06,
+"second": "대우건설",
+"second_ret": -0.78
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.68,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 1.09,
+"second": "효성티앤씨",
+"second_ret": -1.08
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": -2.41,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": 2.41,
+"second": "클래시스",
+"second_ret": 0.5
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.4,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 0.33,
+"second": "한화갤러리아",
+"second_ret": -1.22
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -2.17,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": 2.41,
+"second": "휴온스글로벌",
+"second_ret": -0.72
+}
+],
+"leaders": [
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 21.34,
+"value": 1562,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 15.18,
+"value": 1445,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "세명전기",
+"code": "017510",
+"ret": 16.11,
+"value": 1309,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "우양",
+"code": "103840",
+"ret": 12.63,
+"value": 1206,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 14.96,
+"value": 1063,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+}
+],
+"backfilled": true
+}

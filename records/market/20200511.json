@@ -1,0 +1,254 @@
+{
+"date": "20200511",
+"kospi": -0.54,
+"kosdaq": 0.4,
+"adv": 675,
+"dec": 1086,
+"flat": 150,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 189840,
+"hot": [
+{
+"name": "재택근무/스마트워크",
+"n": 4,
+"lead": "소프트캠프",
+"lead_ret": 29.42,
+"second": "이씨에스",
+"second_ret": 14.88
+},
+{
+"name": "보안주(정보)",
+"n": 4,
+"lead": "소프트캠프",
+"lead_ret": 29.42,
+"second": "오픈베이스",
+"second_ret": 15.58
+},
+{
+"name": "교육/온라인 교육",
+"n": 4,
+"lead": "YBM넷",
+"lead_ret": 29.97,
+"second": "메가엠디",
+"second_ret": 19.26
+}
+],
+"themes": [
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 7.1,
+"up5": 8,
+"lead": "소프트캠프",
+"lead_ret": 29.42,
+"second": "이씨에스",
+"second_ret": 14.88
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 6.64,
+"up5": 4,
+"lead": "오픈베이스",
+"lead_ret": 15.58,
+"second": "링네트",
+"second_ret": 9.56
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 4.55,
+"up5": 6,
+"lead": "YBM넷",
+"lead_ret": 29.97,
+"second": "메가엠디",
+"second_ret": 19.26
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 3.59,
+"up5": 3,
+"lead": "아톤",
+"lead_ret": 9.32,
+"second": "파이오링크",
+"second_ret": 7.64
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.54,
+"up5": 3,
+"lead": "상보",
+"lead_ret": 13.76,
+"second": "아이텍",
+"second_ret": 10.34
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 3.45,
+"up5": 5,
+"lead": "위메이드",
+"lead_ret": 12.45,
+"second": "미투온",
+"second_ret": 11.51
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.24,
+"up5": 1,
+"lead": "두산퓨얼셀",
+"lead_ret": 29.98,
+"second": "비나텍",
+"second_ret": 1.94
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.23,
+"up5": 1,
+"lead": "메가엠디",
+"lead_ret": 19.26,
+"second": "사람인",
+"second_ret": 1.14
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 3.09,
+"up5": 2,
+"lead": "인성정보",
+"lead_ret": 9.24,
+"second": "제이엘케이",
+"second_ret": 9.12
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 3.07,
+"up5": 9,
+"lead": "소프트캠프",
+"lead_ret": 29.42,
+"second": "오픈베이스",
+"second_ret": 15.58
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 20,
+"avg": 2.79,
+"up5": 5,
+"lead": "이미지스",
+"lead_ret": 20.99,
+"second": "위세아이텍",
+"second_ret": 11.23
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 2.7,
+"up5": 2,
+"lead": "NICE",
+"lead_ret": 6.7,
+"second": "NHN KCP",
+"second_ret": 6.1
+}
+],
+"themes_worst": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -3.81,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": -0.57,
+"second": "LS",
+"second_ret": -1.24
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -3.23,
+"up5": 0,
+"lead": "스페코",
+"lead_ret": 1.03,
+"second": "지엔씨에너지",
+"second_ret": 0.86
+},
+{
+"name": "철도",
+"n": 40,
+"avg": -3.04,
+"up5": 0,
+"lead": "알루코",
+"lead_ret": 2.23,
+"second": "황금에스티",
+"second_ret": 1.63
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": -2.97,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 5.05,
+"second": "HJ중공업",
+"second_ret": 1.48
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -2.87,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.67,
+"second": "삼성바이오로직스",
+"second_ret": -0.34
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 13.24,
+"value": 3267,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "메가엠디",
+"code": "133750",
+"ret": 19.26,
+"value": 2713,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 16.14,
+"value": 2709,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 29.97,
+"value": 2362,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "오픈베이스",
+"code": "049480",
+"ret": 15.58,
+"value": 2259,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

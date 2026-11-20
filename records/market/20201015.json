@@ -1,0 +1,254 @@
+{
+"date": "20201015",
+"kospi": -0.81,
+"kosdaq": -1.98,
+"adv": 404,
+"dec": 1411,
+"flat": 130,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 308108,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 4,
+"lead": "에스코넥",
+"lead_ret": 29.87,
+"second": "SY동아",
+"second_ret": 12.2
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "세동",
+"lead_ret": 29.98,
+"second": "에이치엠넥스",
+"second_ret": 18.39
+},
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "유니슨",
+"lead_ret": 9.77,
+"second": "우림피티에스",
+"second_ret": 9.23
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 6.01,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.81,
+"second": "DSC인베스트먼트",
+"second_ret": 3.97
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 4.63,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.81,
+"second": "DSC인베스트먼트",
+"second_ret": 3.97
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 2.85,
+"up5": 3,
+"lead": "태림포장",
+"lead_ret": 10.45,
+"second": "아세아제지",
+"second_ret": 8.14
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.64,
+"up5": 3,
+"lead": "우림피티에스",
+"lead_ret": 9.23,
+"second": "SK가스",
+"second_ret": 8.77
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.75,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 7.57,
+"second": "서울가스",
+"second_ret": 4.59
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.57,
+"up5": 1,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.81,
+"second": "DSC인베스트먼트",
+"second_ret": 3.97
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.45,
+"up5": 1,
+"lead": "모아텍",
+"lead_ret": 30.0,
+"second": "로보스타",
+"second_ret": -1.14
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.09,
+"up5": 1,
+"lead": "SK가스",
+"lead_ret": 8.77,
+"second": "GS",
+"second_ret": 3.5
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.09,
+"up5": 1,
+"lead": "SK가스",
+"lead_ret": 8.77,
+"second": "GS",
+"second_ret": 3.5
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.0,
+"up5": 2,
+"lead": "비엘팜텍",
+"lead_ret": 12.78,
+"second": "한국가스공사",
+"second_ret": 7.57
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 0.97,
+"up5": 1,
+"lead": "현대제철",
+"lead_ret": 7.03,
+"second": "KG스틸",
+"second_ret": 3.62
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 0.83,
+"up5": 3,
+"lead": "대창솔루션",
+"lead_ret": 9.14,
+"second": "SK가스",
+"second_ret": 8.77
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 12,
+"avg": -4.27,
+"up5": 0,
+"lead": "NHN벅스",
+"lead_ret": 2.8,
+"second": "카카오",
+"second_ret": -1.76
+},
+{
+"name": "엔터테인먼트",
+"n": 25,
+"avg": -3.89,
+"up5": 1,
+"lead": "TJ미디어",
+"lead_ret": 8.0,
+"second": "아센디오",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.88,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.42,
+"second": "에스티팜",
+"second_ret": -1.87
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -3.52,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 0.99,
+"second": "파수AI",
+"second_ret": 0.55
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": -3.49,
+"up5": 0,
+"lead": "KX",
+"lead_ret": 1.72,
+"second": "스튜디오쏠쏠",
+"second_ret": -0.34
+}
+],
+"leaders": [
+{
+"name": "KEC",
+"code": "092220",
+"ret": 18.44,
+"value": 6124,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 12.81,
+"value": 2839,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "에스코넥",
+"code": "096630",
+"ret": 29.87,
+"value": 2756,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "태림포장",
+"code": "011280",
+"ret": 10.45,
+"value": 2470,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "압타바이오",
+"code": "293780",
+"ret": 15.57,
+"value": 1546,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

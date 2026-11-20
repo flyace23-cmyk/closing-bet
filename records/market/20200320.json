@@ -1,0 +1,254 @@
+{
+"date": "20200320",
+"kospi": 7.44,
+"kosdaq": 9.2,
+"adv": 1738,
+"dec": 105,
+"flat": 67,
+"limit_up": 23,
+"limit_down": 0,
+"value_total": 163033,
+"hot": [
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 6,
+"lead": "금호석유화학",
+"lead_ret": 29.92,
+"second": "LG이노텍",
+"second_ret": 29.88
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "코미코",
+"lead_ret": 29.75,
+"second": "파크시스템스",
+"second_ret": 25.62
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "한진칼",
+"lead_ret": 29.84,
+"second": "이지홀딩스",
+"second_ret": 24.0
+}
+],
+"themes": [
+{
+"name": "아이폰",
+"n": 20,
+"avg": 16.68,
+"up5": 19,
+"lead": "LG이노텍",
+"lead_ret": 29.88,
+"second": "비에이치",
+"second_ret": 24.81
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 14.57,
+"up5": 8,
+"lead": "AK홀딩스",
+"lead_ret": 30.0,
+"second": "한진칼",
+"second_ret": 29.84
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 14.5,
+"up5": 9,
+"lead": "이오테크닉스",
+"lead_ret": 21.59,
+"second": "미래컴퍼니",
+"second_ret": 21.27
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 13.76,
+"up5": 5,
+"lead": "강스템바이오텍",
+"lead_ret": 29.85,
+"second": "삼성바이오로직스",
+"second_ret": 17.49
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 13.7,
+"up5": 4,
+"lead": "나인테크",
+"lead_ret": 29.89,
+"second": "삼성SDI",
+"second_ret": 18.31
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 13.39,
+"up5": 14,
+"lead": "나인테크",
+"lead_ret": 29.89,
+"second": "미래컴퍼니",
+"second_ret": 21.27
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 13.31,
+"up5": 5,
+"lead": "IPARK현대산업개발",
+"lead_ret": 26.98,
+"second": "GS건설",
+"second_ret": 17.61
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 11,
+"avg": 12.41,
+"up5": 8,
+"lead": "LG이노텍",
+"lead_ret": 29.88,
+"second": "덕산하이메탈",
+"second_ret": 29.88
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 21,
+"avg": 12.39,
+"up5": 20,
+"lead": "덕산네오룩스",
+"lead_ret": 22.71,
+"second": "APS이노베이션",
+"second_ret": 18.52
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 12.09,
+"up5": 11,
+"lead": "나인테크",
+"lead_ret": 29.89,
+"second": "아이에스동서",
+"second_ret": 22.77
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": 11.97,
+"up5": 7,
+"lead": "LG이노텍",
+"lead_ret": 29.88,
+"second": "비에이치",
+"second_ret": 24.81
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 11.94,
+"up5": 4,
+"lead": "강스템바이오텍",
+"lead_ret": 29.85,
+"second": "메디포스트",
+"second_ret": 11.09
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": 1.7,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 9.8,
+"second": "롯데쇼핑",
+"second_ret": 4.79
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.75,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 9.8,
+"second": "대성산업",
+"second_ret": 1.52
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.9,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 16.57,
+"second": "경동도시가스",
+"second_ret": 6.91
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.84,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 6.48,
+"second": "CJ씨푸드",
+"second_ret": 4.91
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 3.95,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 13.11,
+"second": "팜젠사이언스",
+"second_ret": 8.26
+}
+],
+"leaders": [
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 18.31,
+"value": 3937,
+"theme": "IT 대표주",
+"reason": "테마: IT 대표주"
+},
+{
+"name": "LG화학",
+"code": "051910",
+"ret": 18.48,
+"value": 3559,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 29.84,
+"value": 3355,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "삼성바이오로직스",
+"code": "207940",
+"ret": 17.49,
+"value": 2464,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "삼성전기",
+"code": "009150",
+"ret": 12.49,
+"value": 2081,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+}
+],
+"backfilled": true
+}

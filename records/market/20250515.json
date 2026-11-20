@@ -1,0 +1,246 @@
+{
+"date": "20250515",
+"kospi": -0.73,
+"kosdaq": -0.79,
+"adv": 718,
+"dec": 1522,
+"flat": 114,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 143872,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "로킷헬스케어",
+"lead_ret": 29.92,
+"second": "아스테라시스",
+"second_ret": 18.22
+},
+{
+"name": "면역항암제",
+"n": 3,
+"lead": "네오이뮨텍",
+"lead_ret": 13.08,
+"second": "메드팩토",
+"second_ret": 12.69
+}
+],
+"themes": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.18,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 29.94,
+"second": "남해화학",
+"second_ret": 3.07
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.04,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 22.05,
+"second": "대원미디어",
+"second_ret": 4.51
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.19,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 4.6,
+"second": "효성티앤씨",
+"second_ret": 3.55
+},
+{
+"name": "3D 프린터",
+"n": 10,
+"avg": 2.12,
+"up5": 2,
+"lead": "로킷헬스케어",
+"lead_ret": 29.92,
+"second": "티앤알바이오팹",
+"second_ret": 10.63
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.02,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.93,
+"second": "토비스",
+"second_ret": 2.7
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.02,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.93,
+"second": "토비스",
+"second_ret": 2.7
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.83,
+"up5": 1,
+"lead": "리드코프",
+"lead_ret": 29.82,
+"second": "남해화학",
+"second_ret": 3.07
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 1.81,
+"up5": 5,
+"lead": "네오이뮨텍",
+"lead_ret": 13.08,
+"second": "메드팩토",
+"second_ret": 12.69
+},
+{
+"name": "탈모 치료",
+"n": 26,
+"avg": 1.72,
+"up5": 3,
+"lead": "로킷헬스케어",
+"lead_ret": 29.92,
+"second": "프롬바이오",
+"second_ret": 17.58
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 1.65,
+"up5": 4,
+"lead": "파루",
+"lead_ret": 29.94,
+"second": "진바이오텍",
+"second_ret": 15.14
+},
+{
+"name": "유전자 치료제/분석",
+"n": 37,
+"avg": 1.53,
+"up5": 5,
+"lead": "HLB파나진",
+"lead_ret": 14.05,
+"second": "앱클론",
+"second_ret": 8.74
+},
+{
+"name": "의료AI",
+"n": 26,
+"avg": 1.31,
+"up5": 3,
+"lead": "로킷헬스케어",
+"lead_ret": 29.92,
+"second": "쓰리빌리언",
+"second_ret": 7.64
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -4.83,
+"up5": 0,
+"lead": "메가엠디",
+"lead_ret": 2.11,
+"second": "사람인",
+"second_ret": -2.84
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.41,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": -2.38,
+"second": "갤럭시아머니트리",
+"second_ret": -3.08
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -2.8,
+"up5": 0,
+"lead": "마이크로투나노",
+"lead_ret": 2.36,
+"second": "이오테크닉스",
+"second_ret": 0.45
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -2.7,
+"up5": 0,
+"lead": "메카로",
+"lead_ret": 2.97,
+"second": "한국전력",
+"second_ret": 1.53
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.65,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.17,
+"second": "LB인베스트먼트",
+"second_ret": -1.03
+}
+],
+"leaders": [
+{
+"name": "로킷헬스케어",
+"code": "376900",
+"ret": 29.92,
+"value": 5543,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 12.25,
+"value": 3020,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 10.62,
+"value": 2243,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "프롬바이오",
+"code": "377220",
+"ret": 17.58,
+"value": 2163,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "아스테라시스",
+"code": "450950",
+"ret": 18.22,
+"value": 1476,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

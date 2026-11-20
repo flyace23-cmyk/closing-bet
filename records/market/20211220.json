@@ -1,0 +1,246 @@
+{
+"date": "20211220",
+"kospi": -1.81,
+"kosdaq": -1.07,
+"adv": 280,
+"dec": 1680,
+"flat": 98,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 199346,
+"hot": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "한국비엔씨",
+"lead_ret": 17.55,
+"second": "진매트릭스",
+"second_ret": 7.8
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 3,
+"lead": "에스와이",
+"lead_ret": 15.45,
+"second": "신성이엔지",
+"second_ret": 8.47
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 6.13,
+"up5": 2,
+"lead": "한국전자인증",
+"lead_ret": 29.51,
+"second": "이월드",
+"second_ret": 8.71
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.76,
+"up5": 3,
+"lead": "에스와이",
+"lead_ret": 15.45,
+"second": "신성이엔지",
+"second_ret": 8.47
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.45,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 9.99,
+"second": "동양고속",
+"second_ret": 0.55
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 0.92,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 12.36,
+"second": "이지케어텍",
+"second_ret": 10.51
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 0.79,
+"up5": 4,
+"lead": "한국비엔씨",
+"lead_ret": 17.55,
+"second": "진매트릭스",
+"second_ret": 7.8
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 0.56,
+"up5": 1,
+"lead": "이지케어텍",
+"lead_ret": 10.51,
+"second": "GC메디아이",
+"second_ret": 4.08
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 0.55,
+"up5": 1,
+"lead": "에이루트",
+"lead_ret": 30.0,
+"second": "KEC",
+"second_ret": 1.82
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.24,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": 4.83,
+"second": "소마젠",
+"second_ret": 0.87
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 0.2,
+"up5": 1,
+"lead": "일진파워",
+"lead_ret": 6.74,
+"second": "두산에너빌리티",
+"second_ret": 0.46
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 0.13,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 17.55,
+"second": "파마리서치",
+"second_ret": 0.26
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 17,
+"avg": 0.11,
+"up5": 3,
+"lead": "동진쎄미켐",
+"lead_ret": 10.11,
+"second": "경인양행",
+"second_ret": 7.99
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": -0.11,
+"up5": 1,
+"lead": "에이루트",
+"lead_ret": 30.0,
+"second": "HD현대일렉트릭",
+"second_ret": 2.91
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.92,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": -2.78,
+"second": "유비벨록스",
+"second_ret": -3.11
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -3.98,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": -1.2,
+"second": "대성창투",
+"second_ret": -2.62
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -3.53,
+"up5": 0,
+"lead": "판타지오",
+"lead_ret": -1.16,
+"second": "JYP Ent.",
+"second_ret": -1.36
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.45,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 2.36,
+"second": "SOOP",
+"second_ret": 1.56
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -3.43,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 0.0,
+"second": "휴림로봇",
+"second_ret": -1.0
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 17.55,
+"value": 13262,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "동진쎄미켐",
+"code": "005290",
+"ret": 10.11,
+"value": 5413,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "위메이드플레이",
+"code": "123420",
+"ret": 20.94,
+"value": 4433,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "한국전자인증",
+"code": "041460",
+"ret": 29.51,
+"value": 2331,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "HLB글로벌",
+"code": "003580",
+"ret": 29.53,
+"value": 1311,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

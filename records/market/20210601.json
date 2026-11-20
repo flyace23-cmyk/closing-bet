@@ -1,0 +1,254 @@
+{
+"date": "20210601",
+"kospi": 0.56,
+"kosdaq": 0.29,
+"adv": 1133,
+"dec": 687,
+"flat": 190,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 235785,
+"hot": [
+{
+"name": "토스(toss)",
+"n": 3,
+"lead": "한국전자인증",
+"lead_ret": 30.0,
+"second": "한화투자증권",
+"second_ret": 14.23
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "웅진",
+"lead_ret": 21.59,
+"second": "서연",
+"second_ret": 13.25
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.56,
+"second": "헝셩그룹",
+"second_ret": 21.22
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 9.33,
+"up5": 3,
+"lead": "한국전자인증",
+"lead_ret": 30.0,
+"second": "한화투자증권",
+"second_ret": 14.23
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 7.08,
+"up5": 4,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.56,
+"second": "헝셩그룹",
+"second_ret": 21.22
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.43,
+"up5": 1,
+"lead": "대원전선",
+"lead_ret": 30.0,
+"second": "가온전선",
+"second_ret": 4.65
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 4.07,
+"up5": 3,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.56,
+"second": "헝셩그룹",
+"second_ret": 21.22
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.49,
+"up5": 2,
+"lead": "사조산업",
+"lead_ret": 8.23,
+"second": "사조대림",
+"second_ret": 7.95
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 3.48,
+"up5": 2,
+"lead": "대원미디어",
+"lead_ret": 16.51,
+"second": "키다리스튜디오",
+"second_ret": 6.31
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.05,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 6.73,
+"second": "극동유화",
+"second_ret": 6.27
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.05,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 6.73,
+"second": "극동유화",
+"second_ret": 6.27
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.82,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 16.51,
+"second": "손오공",
+"second_ret": 3.1
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.77,
+"up5": 3,
+"lead": "S-Oil",
+"lead_ret": 6.73,
+"second": "HD현대",
+"second_ret": 6.38
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.74,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 6.73,
+"second": "극동유화",
+"second_ret": 6.27
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.63,
+"up5": 2,
+"lead": "사조산업",
+"lead_ret": 8.23,
+"second": "사조대림",
+"second_ret": 7.95
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.21,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.79,
+"second": "에스앤더블류",
+"second_ret": 0.0
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -1.65,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.23,
+"second": "덕산하이메탈",
+"second_ret": 3.11
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.46,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.88,
+"second": "엔투텍",
+"second_ret": 0.0
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.45,
+"up5": 1,
+"lead": "나이벡",
+"lead_ret": 5.85,
+"second": "파미셀",
+"second_ret": 0.88
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.0,
+"second": "강원랜드",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "덕성",
+"code": "004830",
+"ret": 18.24,
+"value": 4131,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 29.93,
+"value": 3697,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "한화투자증권",
+"code": "003530",
+"ret": 14.23,
+"value": 3260,
+"theme": "토스(toss)",
+"reason": "테마: 토스(toss)"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 13.25,
+"value": 2649,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "웅진",
+"code": "016880",
+"ret": 21.59,
+"value": 2612,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20210813",
+"kospi": -1.16,
+"kosdaq": -1.26,
+"adv": 362,
+"dec": 1556,
+"flat": 104,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 320353,
+"hot": [
+{
+"name": "화장품",
+"n": 3,
+"lead": "프리티",
+"lead_ret": 14.57,
+"second": "HLB펩",
+"second_ret": 7.47
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.56,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 29.86,
+"second": "콜마바이오텍",
+"second_ret": -0.12
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 1.18,
+"up5": 1,
+"lead": "케이엔솔",
+"lead_ret": 29.86,
+"second": "SK이노베이션",
+"second_ret": 2.69
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.12,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 11.49,
+"second": "한화생명",
+"second_ret": 0.29
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 0.35,
+"up5": 3,
+"lead": "삼일기업공사",
+"lead_ret": 21.95,
+"second": "상지건설",
+"second_ret": 5.37
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 0.31,
+"up5": 1,
+"lead": "하이스틸",
+"lead_ret": 6.38,
+"second": "SK오션플랜트",
+"second_ret": 4.21
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.24,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 2.41,
+"second": "현대해상",
+"second_ret": 1.75
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 0.22,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 3.79,
+"second": "예스24",
+"second_ret": 2.41
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 0.13,
+"up5": 2,
+"lead": "삼성출판사",
+"lead_ret": 18.77,
+"second": "토박스코리아",
+"second_ret": 7.41
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 0.12,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 11.49,
+"second": "이마트",
+"second_ret": 3.85
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 0.07,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 4.61,
+"second": "특수건설",
+"second_ret": 3.11
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -0.01,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 4.74,
+"second": "삼성바이오로직스",
+"second_ret": 1.13
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.08,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": 3.85,
+"second": "BGF리테일",
+"second_ret": 2.31
+}
+],
+"themes_worst": [
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 21,
+"avg": -4.2,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": 0.21,
+"second": "폴라리스오피스",
+"second_ret": 0.0
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -3.38,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": -0.29,
+"second": "유한양행",
+"second_ret": -0.33
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 42,
+"avg": -2.99,
+"up5": 1,
+"lead": "씨이랩",
+"lead_ret": 7.62,
+"second": "유진로봇",
+"second_ret": 3.02
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": -2.91,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.0,
+"second": "코스텍시스",
+"second_ret": -0.45
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.88,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -0.6,
+"second": "옴니시스템",
+"second_ret": -1.59
+}
+],
+"leaders": [
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 11.49,
+"value": 7210,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "삼성출판사",
+"code": "068290",
+"ret": 18.77,
+"value": 5953,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "플래티어",
+"code": "367000",
+"ret": 10.49,
+"value": 3023,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대정화금",
+"code": "120240",
+"ret": 13.84,
+"value": 2649,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "경남스틸",
+"code": "039240",
+"ret": 18.41,
+"value": 2070,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

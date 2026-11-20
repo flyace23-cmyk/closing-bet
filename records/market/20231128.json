@@ -1,0 +1,246 @@
+{
+"date": "20231128",
+"kospi": 1.05,
+"kosdaq": 0.76,
+"adv": 950,
+"dec": 1130,
+"flat": 139,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 159818,
+"hot": [
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 4,
+"lead": "레인보우로보틱스",
+"lead_ret": 17.77,
+"second": "슈어소프트테크",
+"second_ret": 14.37
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "유진로봇",
+"lead_ret": 14.34,
+"second": "티로보틱스",
+"second_ret": 12.17
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 3.5,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 9.42,
+"second": "삼성중공업",
+"second_ret": 4.08
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": 2.98,
+"up5": 6,
+"lead": "레인보우로보틱스",
+"lead_ret": 17.77,
+"second": "슈어소프트테크",
+"second_ret": 14.37
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.91,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.11,
+"second": "메디포스트",
+"second_ret": 4.25
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 2.37,
+"up5": 2,
+"lead": "테고사이언스",
+"lead_ret": 29.94,
+"second": "강스템바이오텍",
+"second_ret": 9.11
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.14,
+"up5": 2,
+"lead": "핑거스토리",
+"lead_ret": 18.29,
+"second": "와이랩",
+"second_ret": 7.2
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.09,
+"up5": 1,
+"lead": "네패스아크",
+"lead_ret": 8.54,
+"second": "에이직랜드",
+"second_ret": 2.94
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.91,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 4.12,
+"second": "SK스퀘어",
+"second_ret": 2.14
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.81,
+"up5": 2,
+"lead": "프로텍",
+"lead_ret": 6.45,
+"second": "주성엔지니어링",
+"second_ret": 5.71
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.75,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.11,
+"second": "삼성바이오로직스",
+"second_ret": 3.41
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": 1.73,
+"up5": 3,
+"lead": "HD현대마린엔진",
+"lead_ret": 12.72,
+"second": "동방선기",
+"second_ret": 5.88
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.7,
+"up5": 1,
+"lead": "디와이덕양",
+"lead_ret": 29.8,
+"second": "크리스탈신소재",
+"second_ret": 2.15
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.67,
+"up5": 1,
+"lead": "아바텍",
+"lead_ret": 5.51,
+"second": "삼성전기",
+"second_ret": 4.12
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.6,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 0.66,
+"second": "신세계",
+"second_ret": -0.35
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -1.51,
+"up5": 0,
+"lead": "성광벤드",
+"lead_ret": 2.89,
+"second": "케이에스피",
+"second_ret": 2.71
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -1.44,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": 0.61,
+"second": "나이스정보통신",
+"second_ret": 0.0
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -1.37,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 4.68,
+"second": "대원화성",
+"second_ret": 2.6
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": -1.32,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 0.78,
+"second": "신한지주",
+"second_ret": 0.68
+}
+],
+"leaders": [
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 17.77,
+"value": 7343,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "신라젠",
+"code": "215600",
+"ret": 22.73,
+"value": 2833,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "대상홀딩스",
+"code": "084690",
+"ret": 25.17,
+"value": 2498,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "코어라인소프트",
+"code": "384470",
+"ret": 18.92,
+"value": 1008,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "아남전자",
+"code": "008700",
+"ret": 12.19,
+"value": 949,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

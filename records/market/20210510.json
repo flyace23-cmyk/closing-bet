@@ -1,0 +1,254 @@
+{
+"date": "20210510",
+"kospi": 1.63,
+"kosdaq": 1.48,
+"adv": 1313,
+"dec": 512,
+"flat": 175,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 246635,
+"hot": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 5,
+"lead": "아이진",
+"lead_ret": 30.0,
+"second": "유바이오로직스",
+"second_ret": 21.32
+},
+{
+"name": "지주사",
+"n": 5,
+"lead": "휴온스글로벌",
+"lead_ret": 17.25,
+"second": "KPX홀딩스",
+"second_ret": 14.61
+},
+{
+"name": "패션/의류",
+"n": 5,
+"lead": "감성코퍼레이션",
+"lead_ret": 17.53,
+"second": "미스토홀딩스",
+"second_ret": 13.25
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 8.77,
+"up5": 7,
+"lead": "아이진",
+"lead_ret": 30.0,
+"second": "에스티팜",
+"second_ret": 14.23
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 7.05,
+"up5": 4,
+"lead": "유바이오로직스",
+"lead_ret": 21.32,
+"second": "휴온스글로벌",
+"second_ret": 17.25
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.13,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.72,
+"second": "흥구석유",
+"second_ret": 12.2
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.13,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.72,
+"second": "흥구석유",
+"second_ret": 12.2
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 5.75,
+"up5": 6,
+"lead": "진에어",
+"lead_ret": 9.64,
+"second": "한진칼",
+"second_ret": 8.19
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 5.47,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 14.23,
+"second": "엔투텍",
+"second_ret": 6.97
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 5.22,
+"up5": 5,
+"lead": "아이진",
+"lead_ret": 30.0,
+"second": "유바이오로직스",
+"second_ret": 21.32
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 5.04,
+"up5": 3,
+"lead": "휴온스글로벌",
+"lead_ret": 17.25,
+"second": "제테마",
+"second_ret": 12.05
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.72,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 29.72,
+"second": "흥구석유",
+"second_ret": 12.2
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.45,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 19.47,
+"second": "대한전선",
+"second_ret": 6.17
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.04,
+"up5": 2,
+"lead": "롯데지주",
+"lead_ret": 9.42,
+"second": "BGF리테일",
+"second_ret": 6.63
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.89,
+"up5": 3,
+"lead": "동양에스텍",
+"lead_ret": 29.95,
+"second": "대동스틸",
+"second_ret": 11.0
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.2,
+"up5": 0,
+"lead": "스맥",
+"lead_ret": 1.13,
+"second": "모아텍",
+"second_ret": 0.54
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -0.95,
+"up5": 0,
+"lead": "스틱인베스트먼트",
+"lead_ret": 1.71,
+"second": "SBI인베스트먼트",
+"second_ret": 1.62
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -0.94,
+"up5": 0,
+"lead": "코오롱",
+"lead_ret": 1.97,
+"second": "네오위즈",
+"second_ret": 1.49
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -0.82,
+"up5": 0,
+"lead": "혜인",
+"lead_ret": 3.84,
+"second": "대모",
+"second_ret": 1.5
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": -0.44,
+"up5": 0,
+"lead": "KT지니뮤직",
+"lead_ret": 3.75,
+"second": "자이언트스텝",
+"second_ret": 2.74
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 16.8,
+"value": 6223,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 21.32,
+"value": 5373,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "삼성제약",
+"code": "001360",
+"ret": 14.58,
+"value": 4135,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "셀리드",
+"code": "299660",
+"ret": 13.97,
+"value": 2698,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "루트K",
+"code": "195990",
+"ret": 13.79,
+"value": 2460,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+}
+],
+"backfilled": true
+}

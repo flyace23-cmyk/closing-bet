@@ -1,0 +1,254 @@
+{
+"date": "20210916",
+"kospi": -0.74,
+"kosdaq": -0.32,
+"adv": 621,
+"dec": 1245,
+"flat": 165,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 228005,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "우진",
+"lead_ret": 29.74,
+"second": "HRS",
+"second_ret": 17.39
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 3,
+"lead": "휴스틸",
+"lead_ret": 12.12,
+"second": "하이스틸",
+"second_ret": 10.53
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.79,
+"second": "극동유화",
+"second_ret": 13.09
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 7.17,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 23.6,
+"second": "서울가스",
+"second_ret": 14.79
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.47,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.79,
+"second": "극동유화",
+"second_ret": 13.09
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.47,
+"up5": 3,
+"lead": "중앙에너비스",
+"lead_ret": 29.79,
+"second": "극동유화",
+"second_ret": 13.09
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 5.86,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 29.95,
+"second": "대한해운",
+"second_ret": 0.67
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.56,
+"up5": 2,
+"lead": "우진",
+"lead_ret": 29.74,
+"second": "비에이치아이",
+"second_ret": 10.11
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 4.52,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 10.11,
+"second": "SK가스",
+"second_ret": 8.2
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.23,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 29.79,
+"second": "극동유화",
+"second_ret": 13.09
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.65,
+"up5": 2,
+"lead": "고려제강",
+"lead_ret": 12.68,
+"second": "일진파워",
+"second_ret": 9.76
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 3.47,
+"up5": 3,
+"lead": "휴스틸",
+"lead_ret": 12.12,
+"second": "하이스틸",
+"second_ret": 10.53
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.33,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 13.09,
+"second": "한국석유",
+"second_ret": 11.76
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.94,
+"up5": 2,
+"lead": "고려제강",
+"lead_ret": 12.68,
+"second": "세아제강",
+"second_ret": 8.15
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 2.9,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 23.6,
+"second": "서울가스",
+"second_ret": 14.79
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": -3.49,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.74,
+"second": "우리넷",
+"second_ret": 0.23
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.3,
+"up5": 0,
+"lead": "하나투어",
+"lead_ret": 0.0,
+"second": "롯데관광개발",
+"second_ret": -0.96
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.18,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "크리스탈신소재",
+"second_ret": -0.36
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.03,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": -0.7,
+"second": "삼성전자",
+"second_ret": -1.17
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -1.98,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": 0.62,
+"second": "NICE인프라",
+"second_ret": -0.33
+}
+],
+"leaders": [
+{
+"name": "우진",
+"code": "105840",
+"ret": 29.74,
+"value": 2640,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 16.32,
+"value": 2483,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "HRS",
+"code": "036640",
+"ret": 17.39,
+"value": 1737,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "나노씨엠에스",
+"code": "247660",
+"ret": 17.98,
+"value": 1659,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "컴투스엔",
+"code": "291230",
+"ret": 18.94,
+"value": 1095,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

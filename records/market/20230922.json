@@ -1,0 +1,254 @@
+{
+"date": "20230922",
+"kospi": -0.27,
+"kosdaq": -0.39,
+"adv": 658,
+"dec": 1404,
+"flat": 129,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 146372,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "이랜시스",
+"lead_ret": 29.91,
+"second": "에스피지",
+"second_ret": 16.21
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "이스트에이드",
+"lead_ret": 14.16,
+"second": "엑셈",
+"second_ret": 11.18
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "이원컴포텍",
+"lead_ret": 29.84,
+"second": "티피씨글로벌",
+"second_ret": 13.49
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.96,
+"up5": 1,
+"lead": "위더스제약",
+"lead_ret": 29.92,
+"second": "수젠텍",
+"second_ret": 2.15
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.9,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 21.2,
+"second": "강스템바이오텍",
+"second_ret": 0.0
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 1.5,
+"up5": 2,
+"lead": "서원",
+"lead_ret": 29.95,
+"second": "남선알미늄",
+"second_ret": 5.48
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 1.48,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 16.21,
+"second": "LG전자",
+"second_ret": 0.19
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.38,
+"up5": 2,
+"lead": "부국철강",
+"lead_ret": 15.42,
+"second": "삼현철강",
+"second_ret": 5.05
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": 1.36,
+"up5": 2,
+"lead": "이랜시스",
+"lead_ret": 29.91,
+"second": "유진로봇",
+"second_ret": 6.5
+},
+{
+"name": "공기청정기",
+"n": 11,
+"avg": 1.33,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 16.21,
+"second": "씨앤투스",
+"second_ret": 1.82
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 61,
+"avg": 1.11,
+"up5": 3,
+"lead": "이랜시스",
+"lead_ret": 29.91,
+"second": "에스피지",
+"second_ret": 16.21
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.86,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 4.15,
+"second": "흥구석유",
+"second_ret": 2.7
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.86,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 4.15,
+"second": "흥구석유",
+"second_ret": 2.7
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 0.83,
+"up5": 0,
+"lead": "LG디스플레이",
+"lead_ret": 3.09,
+"second": "삼성에스디에스",
+"second_ret": 2.09
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 0.76,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 4.15,
+"second": "흥구석유",
+"second_ret": 2.7
+}
+],
+"themes_worst": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -5.53,
+"up5": 0,
+"lead": "모비스",
+"lead_ret": 0.0,
+"second": "SFA",
+"second_ret": -0.31
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -4.59,
+"up5": 0,
+"lead": "인지디스플레",
+"lead_ret": 0.0,
+"second": "모비스",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.44,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.6,
+"second": "대한해운",
+"second_ret": -0.37
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -3.11,
+"up5": 0,
+"lead": "인콘",
+"lead_ret": 0.18,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": -2.79,
+"up5": 0,
+"lead": "썸에이지",
+"lead_ret": 3.18,
+"second": "데브시스터즈",
+"second_ret": 1.75
+}
+],
+"leaders": [
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 16.21,
+"value": 3681,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "라이콤",
+"code": "388790",
+"ret": 11.55,
+"value": 1959,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "이랜시스",
+"code": "264850",
+"ret": 29.91,
+"value": 1211,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "위더스제약",
+"code": "330350",
+"ret": 29.92,
+"value": 1053,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "서원",
+"code": "021050",
+"ret": 29.95,
+"value": 854,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

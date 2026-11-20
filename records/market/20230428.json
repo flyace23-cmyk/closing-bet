@@ -1,0 +1,254 @@
+{
+"date": "20230428",
+"kospi": 0.23,
+"kosdaq": -0.87,
+"adv": 740,
+"dec": 1285,
+"flat": 125,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 241567,
+"hot": [
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "디와이덕양",
+"lead_ret": 17.68,
+"second": "LX하우시스",
+"second_ret": 14.21
+},
+{
+"name": "도시가스",
+"n": 3,
+"lead": "삼천리",
+"lead_ret": 22.89,
+"second": "서울가스",
+"second_ret": 13.49
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 3,
+"lead": "제이에스링크",
+"lead_ret": 18.97,
+"second": "삼화전자",
+"second_ret": 18.5
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 4.6,
+"up5": 3,
+"lead": "삼천리",
+"lead_ret": 22.89,
+"second": "서울가스",
+"second_ret": 13.49
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 3.07,
+"up5": 5,
+"lead": "제이에스링크",
+"lead_ret": 18.97,
+"second": "삼화전자",
+"second_ret": 18.5
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.16,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 4.3,
+"second": "삼성물산",
+"second_ret": 2.33
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 2.04,
+"up5": 3,
+"lead": "삼천리",
+"lead_ret": 22.89,
+"second": "서울가스",
+"second_ret": 13.49
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 2.0,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 15.35,
+"second": "위메이드맥스",
+"second_ret": 8.15
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 1.97,
+"up5": 4,
+"lead": "위메이드",
+"lead_ret": 15.35,
+"second": "위메이드맥스",
+"second_ret": 8.15
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.74,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 3.99,
+"second": "삼성물산",
+"second_ret": 2.33
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 1.26,
+"up5": 1,
+"lead": "다올투자증권",
+"lead_ret": 10.43,
+"second": "NH투자증권",
+"second_ret": 4.47
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 1.19,
+"up5": 1,
+"lead": "위메이드",
+"lead_ret": 15.35,
+"second": "카카오",
+"second_ret": 4.12
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.19,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 2.74,
+"second": "한화손해보험",
+"second_ret": 2.6
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.07,
+"up5": 2,
+"lead": "삼천리",
+"lead_ret": 22.89,
+"second": "SNT에너지",
+"second_ret": 5.59
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 1.06,
+"up5": 2,
+"lead": "세방",
+"lead_ret": 11.07,
+"second": "한익스프레스",
+"second_ret": 6.7
+}
+],
+"themes_worst": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -4.42,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": -0.37,
+"second": "유니테스트",
+"second_ret": -0.57
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -3.89,
+"up5": 0,
+"lead": "현대제철",
+"lead_ret": 1.67,
+"second": "대한제강",
+"second_ret": 0.08
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.44,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 3.28,
+"second": "에코프로",
+"second_ret": 2.96
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -3.34,
+"up5": 0,
+"lead": "체시스",
+"lead_ret": 0.34,
+"second": "NH농우바이오",
+"second_ret": -0.12
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.23,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.89,
+"second": "에스티팜",
+"second_ret": 0.51
+}
+],
+"leaders": [
+{
+"name": "삼천리",
+"code": "004690",
+"ret": 22.89,
+"value": 5312,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "서울가스",
+"code": "017390",
+"ret": 13.49,
+"value": 2814,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 15.35,
+"value": 2539,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "디와이덕양",
+"code": "024900",
+"ret": 17.68,
+"value": 2216,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "세방",
+"code": "004360",
+"ret": 11.07,
+"value": 2044,
+"theme": "종합 물류",
+"reason": "테마: 종합 물류"
+}
+],
+"backfilled": true
+}

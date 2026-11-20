@@ -1,0 +1,254 @@
+{
+"date": "20200306",
+"kospi": -2.16,
+"kosdaq": -1.15,
+"adv": 311,
+"dec": 1482,
+"flat": 114,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 142138,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 11,
+"lead": "씨젠",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.68
+},
+{
+"name": "마스크",
+"n": 5,
+"lead": "케이엠",
+"lead_ret": 19.24,
+"second": "웰크론",
+"second_ret": 14.34
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "웰크론",
+"lead_ret": 14.34,
+"second": "HJ중공업",
+"second_ret": 6.88
+}
+],
+"themes": [
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 3.55,
+"up5": 9,
+"lead": "씨젠",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.68
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 3.36,
+"up5": 1,
+"lead": "수젠텍",
+"lead_ret": 29.68,
+"second": "국제약품",
+"second_ret": 4.28
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 2.95,
+"up5": 6,
+"lead": "씨젠",
+"lead_ret": 29.98,
+"second": "랩지노믹스",
+"second_ret": 28.51
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 2.92,
+"up5": 5,
+"lead": "케이엠",
+"lead_ret": 19.24,
+"second": "웰크론",
+"second_ret": 14.34
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.05,
+"up5": 2,
+"lead": "서울제약",
+"lead_ret": 5.76,
+"second": "파미셀",
+"second_ret": 5.08
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 1.89,
+"up5": 6,
+"lead": "씨젠",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.68
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": 1.71,
+"up5": 11,
+"lead": "씨젠",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.68
+},
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": 1.11,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 28.51,
+"second": "마크로젠",
+"second_ret": 7.39
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 1.11,
+"up5": 1,
+"lead": "랩지노믹스",
+"lead_ret": 28.51,
+"second": "제이에스링크",
+"second_ret": 2.29
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 0.9,
+"up5": 0,
+"lead": "우양",
+"lead_ret": 4.27,
+"second": "풀무원",
+"second_ret": 2.23
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 0.89,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 5.08,
+"second": "에스티팜",
+"second_ret": 3.42
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 0.66,
+"up5": 3,
+"lead": "깨끗한나라",
+"lead_ret": 9.6,
+"second": "모나미",
+"second_ret": 7.73
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -4.76,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": -1.94,
+"second": "에어부산",
+"second_ret": -2.28
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -3.76,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": -1.2,
+"second": "오텍",
+"second_ret": -2.2
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": -3.7,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 0.84,
+"second": "에프엔씨엔터",
+"second_ret": -1.15
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": -3.29,
+"up5": 0,
+"lead": "이녹스첨단소재",
+"lead_ret": -2.13,
+"second": "아주IB투자",
+"second_ret": -2.14
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -3.28,
+"up5": 0,
+"lead": "오르비텍",
+"lead_ret": -0.99,
+"second": "휴니드",
+"second_ret": -1.5
+}
+],
+"leaders": [
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 14.34,
+"value": 5340,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 29.98,
+"value": 3583,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "케이엠",
+"code": "083550",
+"ret": 19.24,
+"value": 1328,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 28.51,
+"value": 1283,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 29.68,
+"value": 718,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

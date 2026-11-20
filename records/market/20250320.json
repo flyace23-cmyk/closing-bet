@@ -1,0 +1,254 @@
+{
+"date": "20250320",
+"kospi": 0.32,
+"kosdaq": -1.79,
+"adv": 675,
+"dec": 1531,
+"flat": 136,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 181611,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "나인테크",
+"lead_ret": 14.84,
+"second": "성우",
+"second_ret": 14.35
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "삼화전자",
+"lead_ret": 14.62,
+"second": "엣지파운드리",
+"second_ret": 7.71
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "시노펙스",
+"lead_ret": 14.64,
+"second": "엑스플러스",
+"second_ret": 9.93
+}
+],
+"themes": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 4.56,
+"up5": 1,
+"lead": "태영건설",
+"lead_ret": 29.86,
+"second": "서한",
+"second_ret": -0.13
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.6,
+"up5": 2,
+"lead": "제이오",
+"lead_ret": 9.08,
+"second": "LG화학",
+"second_ret": 6.2
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.59,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 13.46,
+"second": "휴비스",
+"second_ret": 3.21
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.47,
+"up5": 2,
+"lead": "나인테크",
+"lead_ret": 14.84,
+"second": "삼성SDI",
+"second_ret": 5.52
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.18,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 13.14,
+"second": "사조대림",
+"second_ret": 0.98
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 2.14,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 14.62,
+"second": "POSCO홀딩스",
+"second_ret": 6.24
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.06,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 5.52,
+"second": "삼성전자",
+"second_ret": 2.91
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 2.06,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 20.64,
+"second": "아센디오",
+"second_ret": 7.14
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.97,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 4.44,
+"second": "삼성전자",
+"second_ret": 2.91
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 1.97,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 20.64,
+"second": "엑스페릭스",
+"second_ret": 7.08
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 1.66,
+"up5": 0,
+"lead": "신일전자",
+"lead_ret": 3.21,
+"second": "삼성전자",
+"second_ret": 2.91
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 1.55,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 14.62,
+"second": "우성머티리얼스",
+"second_ret": 13.46
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -5.07,
+"up5": 0,
+"lead": "한선엔지니어링",
+"lead_ret": -0.89,
+"second": "하이록코리아",
+"second_ret": -2.56
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -4.5,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -3.54,
+"second": "HJ중공업",
+"second_ret": -3.6
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -3.25,
+"up5": 1,
+"lead": "삼미금속",
+"lead_ret": 12.3,
+"second": "화인베스틸",
+"second_ret": 3.11
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -3.21,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 4.49,
+"second": "빛과전자",
+"second_ret": 0.0
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.9,
+"up5": 0,
+"lead": "아스트",
+"lead_ret": 0.27,
+"second": "솔디펜스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 14.64,
+"value": 2813,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "성우",
+"code": "458650",
+"ret": 14.35,
+"value": 1228,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "나인테크",
+"code": "267320",
+"ret": 14.84,
+"value": 1009,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포바이포",
+"code": "389140",
+"ret": 20.64,
+"value": 885,
+"theme": "영화",
+"reason": "테마: 영화"
+},
+{
+"name": "태영건설",
+"code": "009410",
+"ret": 29.86,
+"value": 196,
+"theme": "폐기물처리",
+"reason": "테마: 폐기물처리"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20200316",
+"kospi": -3.19,
+"kosdaq": -3.72,
+"adv": 293,
+"dec": 1509,
+"flat": 107,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 137528,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 8,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.77
+},
+{
+"name": "교육/온라인 교육",
+"n": 5,
+"lead": "YBM넷",
+"lead_ret": 15.7,
+"second": "메가엠디",
+"second_ret": 11.66
+},
+{
+"name": "유전자 치료제/분석",
+"n": 5,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "엑세스바이오",
+"second_ret": 23.0
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 5.64,
+"up5": 3,
+"lead": "수젠텍",
+"lead_ret": 29.77,
+"second": "엑세스바이오",
+"second_ret": 23.0
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.39,
+"up5": 8,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.77
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 2.32,
+"up5": 9,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.77
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 2.16,
+"up5": 3,
+"lead": "엔투텍",
+"lead_ret": 15.1,
+"second": "파미셀",
+"second_ret": 8.48
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 1.25,
+"up5": 6,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "엑세스바이오",
+"second_ret": 23.0
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.01,
+"up5": 3,
+"lead": "YBM넷",
+"lead_ret": 15.7,
+"second": "메가엠디",
+"second_ret": 11.66
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": 0.37,
+"up5": 10,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "수젠텍",
+"second_ret": 29.77
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 0.2,
+"up5": 1,
+"lead": "콜마바이오텍",
+"lead_ret": 6.04,
+"second": "GH신소재",
+"second_ret": 2.63
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 0.04,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 8.48,
+"second": "유한양행",
+"second_ret": 0.0
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": -0.37,
+"up5": 2,
+"lead": "바이오니아",
+"lead_ret": 29.98,
+"second": "신신제약",
+"second_ret": 29.93
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.51,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.74,
+"second": "토비스",
+"second_ret": 0.84
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.51,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 2.74,
+"second": "토비스",
+"second_ret": 0.84
+}
+],
+"themes_worst": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": -7.86,
+"up5": 0,
+"lead": "아이에이",
+"lead_ret": -3.95,
+"second": "HL만도",
+"second_ret": -4.07
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": -7.54,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.1,
+"second": "SK하이닉스",
+"second_ret": -2.3
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -7.46,
+"up5": 0,
+"lead": "KBI동양철관",
+"lead_ret": -1.48,
+"second": "휴스틸",
+"second_ret": -2.92
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": -7.29,
+"up5": 0,
+"lead": "태성",
+"lead_ret": -0.5,
+"second": "램테크놀러지",
+"second_ret": -3.74
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": -7.14,
+"up5": 0,
+"lead": "팅크웨어",
+"lead_ret": -4.04,
+"second": "가온그룹",
+"second_ret": -4.15
+}
+],
+"leaders": [
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 17.53,
+"value": 4420,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 25.91,
+"value": 2127,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 15.7,
+"value": 2060,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 29.77,
+"value": 1203,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 29.98,
+"value": 897,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

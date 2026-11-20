@@ -1,0 +1,254 @@
+{
+"date": "20230405",
+"kospi": 0.59,
+"kosdaq": 1.77,
+"adv": 1169,
+"dec": 848,
+"flat": 130,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 212684,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "피노",
+"lead_ret": 30.0,
+"second": "한울반도체",
+"second_ret": 29.9
+},
+{
+"name": "마이크로바이옴",
+"n": 5,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.87,
+"second": "랩지노믹스",
+"second_ret": 19.59
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "랩지노믹스",
+"lead_ret": 19.59,
+"second": "루닛",
+"second_ret": 14.47
+}
+],
+"themes": [
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 9.12,
+"up5": 12,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.87,
+"second": "랩지노믹스",
+"second_ret": 19.59
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 7.85,
+"up5": 2,
+"lead": "엔투텍",
+"lead_ret": 29.97,
+"second": "소마젠",
+"second_ret": 13.37
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 6.98,
+"up5": 16,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.87,
+"second": "랩지노믹스",
+"second_ret": 19.59
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 5.68,
+"up5": 3,
+"lead": "한울반도체",
+"lead_ret": 29.9,
+"second": "코스모신소재",
+"second_ret": 6.81
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 4.85,
+"up5": 6,
+"lead": "랩지노믹스",
+"lead_ret": 19.59,
+"second": "루닛",
+"second_ret": 14.47
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 4.56,
+"up5": 8,
+"lead": "메드팩토",
+"lead_ret": 29.79,
+"second": "에스티큐브",
+"second_ret": 13.29
+},
+{
+"name": "코로나19(진단키트)",
+"n": 38,
+"avg": 4.46,
+"up5": 10,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.87,
+"second": "랩지노믹스",
+"second_ret": 19.59
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.23,
+"up5": 4,
+"lead": "앱튼",
+"lead_ret": 29.91,
+"second": "강원에너지",
+"second_ret": 12.87
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 68,
+"avg": 3.66,
+"up5": 14,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 29.87,
+"second": "랩지노믹스",
+"second_ret": 19.59
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 3.54,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 8.42,
+"second": "삼성SDI",
+"second_ret": 7.16
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 3.09,
+"up5": 3,
+"lead": "엑스페릭스",
+"lead_ret": 12.3,
+"second": "토마토시스템",
+"second_ret": 6.31
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.05,
+"up5": 2,
+"lead": "엑세스바이오",
+"lead_ret": 6.15,
+"second": "DXVX",
+"second_ret": 5.63
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.17,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 0.34,
+"second": "TKG휴켐스",
+"second_ret": -0.94
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -2.69,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": -0.24,
+"second": "케이에스피",
+"second_ret": -0.51
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.32,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": -0.71,
+"second": "롯데쇼핑",
+"second_ret": -0.73
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.06,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.25,
+"second": "GKL",
+"second_ret": -1.47
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.06,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.25,
+"second": "GKL",
+"second_ret": -1.47
+}
+],
+"leaders": [
+{
+"name": "인탑스",
+"code": "049070",
+"ret": 14.71,
+"value": 4038,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 13.81,
+"value": 3391,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "새로닉스",
+"code": "042600",
+"ret": 22.64,
+"value": 2037,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "강원에너지",
+"code": "114190",
+"ret": 12.87,
+"value": 1968,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "고바이오랩",
+"code": "348150",
+"ret": 17.08,
+"value": 1769,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+}
+],
+"backfilled": true
+}

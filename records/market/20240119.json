@@ -1,0 +1,254 @@
+{
+"date": "20240119",
+"kospi": 1.34,
+"kosdaq": 0.28,
+"adv": 1354,
+"dec": 730,
+"flat": 144,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 195352,
+"hot": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 4,
+"lead": "테크윙",
+"lead_ret": 13.88,
+"second": "이오테크닉스",
+"second_ret": 13.52
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "매커스",
+"lead_ret": 29.96,
+"second": "시그네틱스",
+"second_ret": 17.52
+},
+{
+"name": "온디바이스 AI",
+"n": 3,
+"lead": "제주반도체",
+"lead_ret": 23.53,
+"second": "유니퀘스트",
+"second_ret": 15.9
+}
+],
+"themes": [
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 5.91,
+"up5": 4,
+"lead": "웰킵스하이텍",
+"lead_ret": 30.0,
+"second": "이랜텍",
+"second_ret": 9.43
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 5.76,
+"up5": 10,
+"lead": "제주반도체",
+"lead_ret": 23.53,
+"second": "유니퀘스트",
+"second_ret": 15.9
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 5.37,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 15.97,
+"second": "포바이포",
+"second_ret": 9.96
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 5.02,
+"up5": 15,
+"lead": "테크윙",
+"lead_ret": 13.88,
+"second": "이오테크닉스",
+"second_ret": 13.52
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.89,
+"up5": 4,
+"lead": "이오테크닉스",
+"lead_ret": 13.52,
+"second": "프로텍",
+"second_ret": 8.68
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.5,
+"up5": 2,
+"lead": "HD한국조선해양",
+"lead_ret": 7.8,
+"second": "삼성중공업",
+"second_ret": 5.62
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 4.45,
+"up5": 2,
+"lead": "이스트소프트",
+"lead_ret": 29.9,
+"second": "크라우드웍스",
+"second_ret": 7.49
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.41,
+"up5": 3,
+"lead": "네패스아크",
+"lead_ret": 10.96,
+"second": "에이직랜드",
+"second_ret": 5.6
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 4.35,
+"up5": 6,
+"lead": "큐알티",
+"lead_ret": 11.26,
+"second": "디아이티",
+"second_ret": 10.55
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 4.35,
+"up5": 8,
+"lead": "인터플렉스",
+"lead_ret": 29.96,
+"second": "덕우전자",
+"second_ret": 11.94
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.13,
+"up5": 2,
+"lead": "펨트론",
+"lead_ret": 9.83,
+"second": "코리아써키트",
+"second_ret": 5.51
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 3.83,
+"up5": 13,
+"lead": "매커스",
+"lead_ret": 29.96,
+"second": "시그네틱스",
+"second_ret": 17.52
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.79,
+"up5": 0,
+"lead": "성일하이텍",
+"lead_ret": 1.02,
+"second": "후성",
+"second_ret": 0.99
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -3.64,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.0,
+"second": "팬오션",
+"second_ret": -1.63
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.76,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": 1.62,
+"second": "나인테크",
+"second_ret": 0.31
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.62,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 3.11,
+"second": "에스넷",
+"second_ret": 2.33
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -1.38,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 1.53,
+"second": "대신정보통신",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 23.53,
+"value": 10073,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "플리토",
+"code": "300080",
+"ret": 23.75,
+"value": 2291,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "매커스",
+"code": "093520",
+"ret": 29.96,
+"value": 1870,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "DS단석",
+"code": "017860",
+"ret": 16.75,
+"value": 1711,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "이스트소프트",
+"code": "047560",
+"ret": 29.9,
+"value": 1600,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+}
+],
+"backfilled": true
+}

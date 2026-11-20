@@ -1,0 +1,254 @@
+{
+"date": "20240924",
+"kospi": 1.14,
+"kosdaq": 1.62,
+"adv": 1505,
+"dec": 613,
+"flat": 165,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 162962,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "코칩",
+"lead_ret": 16.37,
+"second": "동화기업",
+"second_ret": 13.13
+},
+{
+"name": "공작기계",
+"n": 3,
+"lead": "화천기공",
+"lead_ret": 30.0,
+"second": "화천기계",
+"second_ret": 29.9
+},
+{
+"name": "석유화학",
+"n": 3,
+"lead": "롯데케미칼",
+"lead_ret": 10.75,
+"second": "한화솔루션",
+"second_ret": 10.63
+}
+],
+"themes": [
+{
+"name": "공작기계",
+"n": 14,
+"avg": 6.02,
+"up5": 3,
+"lead": "화천기공",
+"lead_ret": 30.0,
+"second": "화천기계",
+"second_ret": 29.9
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 4.78,
+"up5": 2,
+"lead": "LG화학",
+"lead_ret": 8.46,
+"second": "금호석유화학",
+"second_ret": 7.66
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 4.73,
+"up5": 4,
+"lead": "코칩",
+"lead_ret": 16.37,
+"second": "원준",
+"second_ret": 13.05
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 4.61,
+"up5": 6,
+"lead": "롯데케미칼",
+"lead_ret": 10.75,
+"second": "한화솔루션",
+"second_ret": 10.63
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.38,
+"up5": 8,
+"lead": "엔켐",
+"lead_ret": 9.2,
+"second": "에코프로",
+"second_ret": 8.94
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 3.78,
+"up5": 7,
+"lead": "동화기업",
+"lead_ret": 13.13,
+"second": "원준",
+"second_ret": 13.05
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.64,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 8.94,
+"second": "더블유씨피",
+"second_ret": 6.65
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 3.6,
+"up5": 20,
+"lead": "동화기업",
+"lead_ret": 13.13,
+"second": "엘앤에프",
+"second_ret": 11.61
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 3.31,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 8.94,
+"second": "SK이노베이션",
+"second_ret": 6.45
+},
+{
+"name": "2차전지",
+"n": 133,
+"avg": 3.3,
+"up5": 33,
+"lead": "코칩",
+"lead_ret": 16.37,
+"second": "동화기업",
+"second_ret": 13.13
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.08,
+"up5": 2,
+"lead": "한화솔루션",
+"lead_ret": 10.63,
+"second": "대주전자재료",
+"second_ret": 6.73
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 2.99,
+"up5": 4,
+"lead": "송원산업",
+"lead_ret": 12.07,
+"second": "한화솔루션",
+"second_ret": 10.63
+}
+],
+"themes_worst": [
+{
+"name": "창투사",
+"n": 19,
+"avg": -0.99,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 2.96,
+"second": "스틱인베스트먼트",
+"second_ret": 2.02
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -0.71,
+"up5": 0,
+"lead": "키움증권",
+"lead_ret": 1.95,
+"second": "부국증권",
+"second_ret": 1.93
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.48,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 1.39,
+"second": "소마젠",
+"second_ret": 1.33
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -0.44,
+"up5": 0,
+"lead": "아이디스",
+"lead_ret": 1.08,
+"second": "코콤",
+"second_ret": 0.24
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.43,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 1.07,
+"second": "풀무원",
+"second_ret": 0.28
+}
+],
+"leaders": [
+{
+"name": "엑셀세라퓨틱스",
+"code": "373110",
+"ret": 29.88,
+"value": 3154,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 16.1,
+"value": 1602,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "핑거",
+"code": "163730",
+"ret": 13.03,
+"value": 1520,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "샌즈랩",
+"code": "411080",
+"ret": 16.95,
+"value": 1388,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "원준",
+"code": "382840",
+"ret": 13.05,
+"value": 1181,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

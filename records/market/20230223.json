@@ -1,0 +1,254 @@
+{
+"date": "20230223",
+"kospi": 0.89,
+"kosdaq": 0.61,
+"adv": 1160,
+"dec": 832,
+"flat": 146,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 162933,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 9,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "알체라",
+"second_ret": 21.09
+},
+{
+"name": "의료AI",
+"n": 6,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.98,
+"second": "셀바스AI",
+"second_ret": 21.35
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 5,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "알체라",
+"second_ret": 21.09
+}
+],
+"themes": [
+{
+"name": "의료AI",
+"n": 19,
+"avg": 6.56,
+"up5": 9,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.98,
+"second": "셀바스AI",
+"second_ret": 21.35
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 6.44,
+"up5": 11,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "솔트룩스",
+"second_ret": 21.04
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 5.31,
+"up5": 4,
+"lead": "한화손해보험",
+"lead_ret": 10.42,
+"second": "현대해상",
+"second_ret": 7.29
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": 5.16,
+"up5": 13,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "알체라",
+"second_ret": 21.09
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 4.23,
+"up5": 3,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "가온그룹",
+"second_ret": 8.09
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 3.75,
+"up5": 6,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "위세아이텍",
+"second_ret": 12.53
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 9,
+"avg": 3.7,
+"up5": 1,
+"lead": "알체라",
+"lead_ret": 21.09,
+"second": "한빛소프트",
+"second_ret": 4.17
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 3.69,
+"up5": 11,
+"lead": "셀바스AI",
+"lead_ret": 21.35,
+"second": "알체라",
+"second_ret": 21.09
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 3.43,
+"up5": 3,
+"lead": "엠게임",
+"lead_ret": 13.1,
+"second": "가온그룹",
+"second_ret": 8.09
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.29,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 8.81,
+"second": "네패스",
+"second_ret": 3.37
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 30,
+"avg": 3.22,
+"up5": 6,
+"lead": "뉴로메카",
+"lead_ret": 29.93,
+"second": "티로보틱스",
+"second_ret": 11.78
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 3.12,
+"up5": 5,
+"lead": "제로투세븐",
+"lead_ret": 8.6,
+"second": "메디앙스",
+"second_ret": 8.17
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 38,
+"avg": -2.03,
+"up5": 1,
+"lead": "바이오니아",
+"lead_ret": 5.17,
+"second": "휴마시스",
+"second_ret": 3.9
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -1.54,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": 3.21,
+"second": "선진",
+"second_ret": 1.22
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.47,
+"up5": 0,
+"lead": "현대제철",
+"lead_ret": -0.13,
+"second": "POSCO홀딩스",
+"second_ret": -0.15
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.32,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.95,
+"second": "샘표식품",
+"second_ret": -0.32
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.18,
+"up5": 0,
+"lead": "디케이락",
+"lead_ret": 1.96,
+"second": "삼현철강",
+"second_ret": 0.56
+}
+],
+"leaders": [
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 21.35,
+"value": 5897,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "뉴로메카",
+"code": "348340",
+"ret": 29.93,
+"value": 4256,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 21.04,
+"value": 3677,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 19.07,
+"value": 2850,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "알체라",
+"code": "347860",
+"ret": 21.09,
+"value": 1152,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

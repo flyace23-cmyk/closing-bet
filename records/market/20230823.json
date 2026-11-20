@@ -1,0 +1,254 @@
+{
+"date": "20230823",
+"kospi": -0.41,
+"kosdaq": -1.17,
+"adv": 889,
+"dec": 1165,
+"flat": 131,
+"limit_up": 11,
+"limit_down": 0,
+"value_total": 198482,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 13,
+"lead": "우리로",
+"lead_ret": 29.96,
+"second": "한울소재과학",
+"second_ret": 29.91
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 3,
+"lead": "파이버프로",
+"lead_ret": 29.85,
+"second": "한국첨단소재",
+"second_ret": 29.83
+},
+{
+"name": "철도",
+"n": 3,
+"lead": "케이씨에스",
+"lead_ret": 29.89,
+"second": "옵티시스",
+"second_ret": 25.99
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 13.17,
+"up5": 15,
+"lead": "우리로",
+"lead_ret": 29.96,
+"second": "한울소재과학",
+"second_ret": 29.91
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 6.51,
+"up5": 4,
+"lead": "파이버프로",
+"lead_ret": 29.85,
+"second": "한국첨단소재",
+"second_ret": 29.83
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 6.17,
+"up5": 3,
+"lead": "케이엔솔",
+"lead_ret": 20.46,
+"second": "에스와이",
+"second_ret": 18.01
+},
+{
+"name": "통신장비",
+"n": 43,
+"avg": 4.97,
+"up5": 9,
+"lead": "우리로",
+"lead_ret": 29.96,
+"second": "한울소재과학",
+"second_ret": 29.91
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.52,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 29.89,
+"second": "로지시스",
+"second_ret": 5.12
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 4.24,
+"up5": 2,
+"lead": "마니커에프앤지",
+"lead_ret": 26.15,
+"second": "마니커",
+"second_ret": 10.27
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 54,
+"avg": 3.78,
+"up5": 10,
+"lead": "우리로",
+"lead_ret": 29.96,
+"second": "한울소재과학",
+"second_ret": 29.91
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.71,
+"up5": 1,
+"lead": "휴비스",
+"lead_ret": 18.76,
+"second": "우성머티리얼스",
+"second_ret": 4.03
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.26,
+"up5": 2,
+"lead": "오파스넷",
+"lead_ret": 11.11,
+"second": "인성정보",
+"second_ret": 9.94
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 2.99,
+"up5": 5,
+"lead": "케이씨에스",
+"lead_ret": 29.89,
+"second": "오파스넷",
+"second_ret": 11.11
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.83,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 18.01,
+"second": "덕신이피씨",
+"second_ret": 4.42
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.75,
+"up5": 3,
+"lead": "드림시큐리티",
+"lead_ret": 25.83,
+"second": "아이티센피엔에스",
+"second_ret": 19.74
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.53,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.46,
+"second": "미래생명자원",
+"second_ret": -4.68
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -5.47,
+"up5": 1,
+"lead": "덕성",
+"lead_ret": 7.64,
+"second": "LS ELECTRIC",
+"second_ret": -1.33
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.02,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 0.5,
+"second": "앱튼",
+"second_ret": -1.13
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": -2.34,
+"up5": 0,
+"lead": "넥써쓰",
+"lead_ret": 1.92,
+"second": "밸로프",
+"second_ret": 0.81
+},
+{
+"name": "게임",
+"n": 29,
+"avg": -2.26,
+"up5": 0,
+"lead": "넥써쓰",
+"lead_ret": 1.92,
+"second": "밸로프",
+"second_ret": 0.81
+}
+],
+"leaders": [
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 25.0,
+"value": 5254,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "휴비스",
+"code": "079980",
+"ret": 18.76,
+"value": 4304,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "큐리옥스바이오시스템즈",
+"code": "445680",
+"ret": 10.35,
+"value": 3794,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "드림시큐리티",
+"code": "203650",
+"ret": 25.83,
+"value": 1466,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 18.01,
+"value": 1318,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

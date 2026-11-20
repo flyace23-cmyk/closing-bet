@@ -1,0 +1,254 @@
+{
+"date": "20231227",
+"kospi": 0.42,
+"kosdaq": 1.35,
+"adv": 1071,
+"dec": 1047,
+"flat": 109,
+"limit_up": 6,
+"limit_down": 2,
+"value_total": 198930,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "파라텍",
+"lead_ret": 29.96,
+"second": "폴라리스AI",
+"second_ret": 29.94
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "유티아이",
+"lead_ret": 13.3,
+"second": "드림텍",
+"second_ret": 11.02
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "하이로닉",
+"lead_ret": 15.05,
+"second": "더블유에스아이",
+"second_ret": 13.4
+}
+],
+"themes": [
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 66.9,
+"up5": 2,
+"lead": "아이오케이이엔엠",
+"lead_ret": 1870.86,
+"second": "티엔엔터테인먼트",
+"second_ret": 5.15
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.06,
+"up5": 2,
+"lead": "포스코엠텍",
+"lead_ret": 29.93,
+"second": "미래나노텍",
+"second_ret": 7.4
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.8,
+"up5": 7,
+"lead": "에이프릴바이오",
+"lead_ret": 17.6,
+"second": "헬릭스미스",
+"second_ret": 11.31
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.69,
+"up5": 2,
+"lead": "파라텍",
+"lead_ret": 29.96,
+"second": "폴라리스AI",
+"second_ret": 29.94
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.66,
+"up5": 6,
+"lead": "인벤티지랩",
+"lead_ret": 10.1,
+"second": "펩트론",
+"second_ret": 6.9
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 2.64,
+"up5": 4,
+"lead": "텔레칩스",
+"lead_ret": 12.66,
+"second": "라온텍",
+"second_ret": 7.01
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.49,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 4.22,
+"second": "HD현대중공업",
+"second_ret": 2.95
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.44,
+"up5": 4,
+"lead": "와이씨",
+"lead_ret": 8.93,
+"second": "펨트론",
+"second_ret": 6.87
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.42,
+"up5": 2,
+"lead": "인벤티지랩",
+"lead_ret": 10.1,
+"second": "나이벡",
+"second_ret": 7.32
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.27,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 7.57,
+"second": "SBI인베스트먼트",
+"second_ret": 1.83
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 2.26,
+"up5": 3,
+"lead": "이브이첨단소재",
+"lead_ret": 7.51,
+"second": "레이크머티리얼즈",
+"second_ret": 5.74
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": 2.2,
+"up5": 2,
+"lead": "폴라리스AI",
+"lead_ret": 29.94,
+"second": "플리토",
+"second_ret": 5.8
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -3.52,
+"up5": 0,
+"lead": "금호타이어",
+"lead_ret": 0.0,
+"second": "넥센",
+"second_ret": -1.19
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -3.44,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": -0.93,
+"second": "이마트",
+"second_ret": -2.05
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -2.79,
+"up5": 0,
+"lead": "웰크론한텍",
+"lead_ret": 4.59,
+"second": "인선이엔티",
+"second_ret": 0.28
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.77,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": 0.0,
+"second": "대구백화점",
+"second_ret": -1.07
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -2.4,
+"up5": 0,
+"lead": "조비",
+"lead_ret": 2.87,
+"second": "효성오앤비",
+"second_ret": 0.54
+}
+],
+"leaders": [
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 10.66,
+"value": 6476,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 29.93,
+"value": 5325,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "한올바이오파마",
+"code": "009420",
+"ret": 16.43,
+"value": 5073,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 26.14,
+"value": 1755,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "디티앤씨알오",
+"code": "383930",
+"ret": 29.96,
+"value": 1562,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

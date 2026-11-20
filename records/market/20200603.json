@@ -1,0 +1,254 @@
+{
+"date": "20200603",
+"kospi": 2.87,
+"kosdaq": -0.8,
+"adv": 831,
+"dec": 939,
+"flat": 143,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 259351,
+"hot": [
+{
+"name": "조선기자재",
+"n": 9,
+"lead": "대창솔루션",
+"lead_ret": 30.0,
+"second": "조선선재",
+"second_ret": 29.7
+},
+{
+"name": "철강 주요종목",
+"n": 4,
+"lead": "고려제강",
+"lead_ret": 30.01,
+"second": "세아베스틸지주",
+"second_ret": 29.9
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "세아베스틸지주",
+"lead_ret": 29.9,
+"second": "HD건설기계",
+"second_ret": 14.0
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 14.64,
+"up5": 8,
+"lead": "고려제강",
+"lead_ret": 30.01,
+"second": "세아베스틸지주",
+"second_ret": 29.9
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 8.95,
+"up5": 19,
+"lead": "대창솔루션",
+"lead_ret": 30.0,
+"second": "조선선재",
+"second_ret": 29.7
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 8.7,
+"up5": 5,
+"lead": "하이록코리아",
+"lead_ret": 24.49,
+"second": "케이에스피",
+"second_ret": 12.7
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 5.68,
+"up5": 5,
+"lead": "신한지주",
+"lead_ret": 11.72,
+"second": "기업은행",
+"second_ret": 8.11
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 4.79,
+"up5": 3,
+"lead": "SK하이닉스",
+"lead_ret": 6.48,
+"second": "삼성전자",
+"second_ret": 6.03
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 4.17,
+"up5": 8,
+"lead": "대창솔루션",
+"lead_ret": 30.0,
+"second": "삼성중공업",
+"second_ret": 18.33
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 4.14,
+"up5": 2,
+"lead": "세아베스틸지주",
+"lead_ret": 29.9,
+"second": "미래에셋증권",
+"second_ret": 7.43
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.93,
+"up5": 1,
+"lead": "고려제강",
+"lead_ret": 30.01,
+"second": "일진파워",
+"second_ret": 2.19
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.64,
+"up5": 3,
+"lead": "화성밸브",
+"lead_ret": 9.82,
+"second": "대동스틸",
+"second_ret": 5.79
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.56,
+"up5": 2,
+"lead": "금호타이어",
+"lead_ret": 6.47,
+"second": "넥센타이어",
+"second_ret": 5.09
+},
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": 3.54,
+"up5": 8,
+"lead": "한국특강",
+"lead_ret": 11.63,
+"second": "화인베스틸",
+"second_ret": 10.58
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.52,
+"up5": 4,
+"lead": "HD건설기계",
+"lead_ret": 14.0,
+"second": "디와이파워",
+"second_ret": 10.38
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.72,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": 2.24,
+"second": "녹십자",
+"second_ret": -0.35
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.37,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -2.72,
+"second": "샘표식품",
+"second_ret": -3.91
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -3.65,
+"up5": 0,
+"lead": "이지케어텍",
+"lead_ret": 1.96,
+"second": "인바디",
+"second_ret": 0.0
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -3.29,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": -0.95,
+"second": "CJ씨푸드",
+"second_ret": -2.4
+},
+{
+"name": "사료",
+"n": 16,
+"avg": -2.97,
+"up5": 0,
+"lead": "사조동아원",
+"lead_ret": 0.11,
+"second": "이지홀딩스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 18.33,
+"value": 7822,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "MSDI",
+"code": "123010",
+"ret": 19.73,
+"value": 3398,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "신한지주",
+"code": "055550",
+"ret": 11.72,
+"value": 2546,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "현대제철",
+"code": "004020",
+"ret": 14.25,
+"value": 1891,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "아이크래프트",
+"code": "052460",
+"ret": 11.15,
+"value": 1495,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

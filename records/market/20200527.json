@@ -1,0 +1,254 @@
+{
+"date": "20200527",
+"kospi": 0.07,
+"kosdaq": -0.62,
+"adv": 841,
+"dec": 915,
+"flat": 157,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 249955,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 5,
+"lead": "유니슨",
+"lead_ret": 29.72,
+"second": "태웅",
+"second_ret": 15.76
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 4,
+"lead": "티플랙스",
+"lead_ret": 29.93,
+"second": "노바텍",
+"second_ret": 29.54
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "신성이엔지",
+"lead_ret": 24.87,
+"second": "SFA넥셀",
+"second_ret": 11.49
+}
+],
+"themes": [
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 8.25,
+"up5": 8,
+"lead": "티플랙스",
+"lead_ret": 29.93,
+"second": "노바텍",
+"second_ret": 29.54
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 5.42,
+"up5": 3,
+"lead": "티플랙스",
+"lead_ret": 29.93,
+"second": "유에스티",
+"second_ret": 11.8
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 4.83,
+"up5": 5,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 19.45,
+"second": "두산에너빌리티",
+"second_ret": 14.31
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 4.47,
+"up5": 10,
+"lead": "유니슨",
+"lead_ret": 29.72,
+"second": "태웅",
+"second_ret": 15.76
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 4.31,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 24.87,
+"second": "엔브이에이치코리아",
+"second_ret": 1.87
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 3.85,
+"up5": 12,
+"lead": "태웅",
+"lead_ret": 15.76,
+"second": "한화엔진",
+"second_ret": 14.47
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.68,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 17.56,
+"second": "롯데정밀화학",
+"second_ret": 2.94
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 3.65,
+"up5": 1,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 19.45,
+"second": "아주IB투자",
+"second_ret": 3.79
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.6,
+"up5": 2,
+"lead": "샘표",
+"lead_ret": 7.5,
+"second": "미래생명자원",
+"second_ret": 5.26
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 3.56,
+"up5": 4,
+"lead": "티플랙스",
+"lead_ret": 29.93,
+"second": "포스코엠텍",
+"second_ret": 22.99
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 3.21,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 14.31,
+"second": "비츠로테크",
+"second_ret": 6.86
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 3.19,
+"up5": 7,
+"lead": "한화엔진",
+"lead_ret": 14.47,
+"second": "삼성중공업",
+"second_ret": 11.54
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -3.12,
+"up5": 0,
+"lead": "일신바이오",
+"lead_ret": -0.81,
+"second": "강스템바이오텍",
+"second_ret": -1.17
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": -2.96,
+"up5": 0,
+"lead": "다날",
+"lead_ret": -1.0,
+"second": "NHN",
+"second_ret": -1.33
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": -2.08,
+"up5": 0,
+"lead": "아톤",
+"lead_ret": 0.0,
+"second": "세종텔레콤",
+"second_ret": -0.34
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -2.01,
+"up5": 0,
+"lead": "폴라리스오피스",
+"lead_ret": 3.57,
+"second": "신테카바이오",
+"second_ret": 0.92
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.9,
+"up5": 0,
+"lead": "휴림로봇",
+"lead_ret": 0.82,
+"second": "로보스타",
+"second_ret": 0.61
+}
+],
+"leaders": [
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 10.5,
+"value": 4619,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "유니온머티리얼",
+"code": "047400",
+"ret": 17.56,
+"value": 4061,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+},
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 11.54,
+"value": 2264,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "티플랙스",
+"code": "081150",
+"ret": 29.93,
+"value": 2029,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 22.99,
+"value": 1445,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

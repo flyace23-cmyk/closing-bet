@@ -1,0 +1,254 @@
+{
+"date": "20200721",
+"kospi": 1.39,
+"kosdaq": 1.1,
+"adv": 1065,
+"dec": 668,
+"flat": 191,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 236088,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 7,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "태웅",
+"second_ret": 29.41
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "신일제약",
+"lead_ret": 30.0,
+"second": "화일약품",
+"second_ret": 29.94
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "OCI홀딩스",
+"lead_ret": 29.96,
+"second": "삼양홀딩스",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 6.68,
+"up5": 16,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "태웅",
+"second_ret": 29.41
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.31,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "비츠로테크",
+"second_ret": 1.19
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 3.81,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "대창솔루션",
+"second_ret": 5.21
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.8,
+"up5": 1,
+"lead": "국제약품",
+"lead_ret": 29.64,
+"second": "인트론바이오",
+"second_ret": 4.27
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 3.77,
+"up5": 9,
+"lead": "태웅",
+"lead_ret": 29.41,
+"second": "성광벤드",
+"second_ret": 10.51
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.64,
+"up5": 4,
+"lead": "진성티이씨",
+"lead_ret": 21.27,
+"second": "두산밥캣",
+"second_ret": 7.81
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.22,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "한국카본",
+"second_ret": 2.91
+},
+{
+"name": "치매",
+"n": 40,
+"avg": 3.14,
+"up5": 9,
+"lead": "하이퍼코퍼레이션",
+"lead_ret": 30.0,
+"second": "화일약품",
+"second_ret": 29.94
+},
+{
+"name": "제약업체",
+"n": 78,
+"avg": 3.04,
+"up5": 13,
+"lead": "신일제약",
+"lead_ret": 30.0,
+"second": "화일약품",
+"second_ret": 29.94
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 3.01,
+"up5": 3,
+"lead": "유바이오로직스",
+"lead_ret": 10.31,
+"second": "휴온스",
+"second_ret": 6.59
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.94,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "대한항공",
+"second_ret": 7.75
+},
+{
+"name": "원자력발전",
+"n": 42,
+"avg": 2.94,
+"up5": 8,
+"lead": "두산에너빌리티",
+"lead_ret": 30.0,
+"second": "태웅",
+"second_ret": 29.41
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.35,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 1.88,
+"second": "파미셀",
+"second_ret": 1.84
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.33,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.51,
+"second": "HL만도",
+"second_ret": 0.41
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -1.01,
+"up5": 0,
+"lead": "국보디자인",
+"lead_ret": 0.31,
+"second": "이월드",
+"second_ret": 0.25
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -0.94,
+"up5": 0,
+"lead": "미래에셋벤처투자",
+"lead_ret": 3.46,
+"second": "우리기술투자",
+"second_ret": 0.97
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.79,
+"up5": 0,
+"lead": "사조씨푸드",
+"lead_ret": 0.12,
+"second": "CJ씨푸드",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 17.73,
+"value": 9960,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "동국S&C",
+"code": "100130",
+"ret": 12.0,
+"value": 3239,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "OCI홀딩스",
+"code": "010060",
+"ret": 29.96,
+"value": 2873,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 30.0,
+"value": 2426,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 29.64,
+"value": 2006,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220126",
+"kospi": -0.41,
+"kosdaq": -0.83,
+"adv": 994,
+"dec": 849,
+"flat": 217,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 161662,
+"hot": [
+{
+"name": "의료기기",
+"n": 5,
+"lead": "티로보틱스",
+"lead_ret": 23.3,
+"second": "엠아이텍",
+"second_ret": 12.15
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "SNT모티브",
+"lead_ret": 11.22,
+"second": "삼기",
+"second_ret": 11.06
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "인바이오젠",
+"lead_ret": 9.85,
+"second": "유바이오로직스",
+"second_ret": 8.85
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 3.87,
+"up5": 1,
+"lead": "대원전선",
+"lead_ret": 29.93,
+"second": "가온전선",
+"second_ret": 4.2
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 3.8,
+"up5": 1,
+"lead": "푸른로보틱스",
+"lead_ret": 29.56,
+"second": "프리엠스",
+"second_ret": 4.45
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.65,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 4.73,
+"second": "SBI인베스트먼트",
+"second_ret": 2.89
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.62,
+"up5": 1,
+"lead": "우리기술",
+"lead_ret": 5.35,
+"second": "비에이치아이",
+"second_ret": 4.4
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.37,
+"up5": 3,
+"lead": "대원전선",
+"lead_ret": 29.93,
+"second": "푸른로보틱스",
+"second_ret": 29.56
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 2.32,
+"up5": 4,
+"lead": "대원전선",
+"lead_ret": 29.93,
+"second": "보성파워텍",
+"second_ret": 9.02
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.17,
+"up5": 3,
+"lead": "에너토크",
+"lead_ret": 29.4,
+"second": "자연과환경",
+"second_ret": 7.54
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.16,
+"up5": 1,
+"lead": "유바이오로직스",
+"lead_ret": 8.85,
+"second": "제테마",
+"second_ret": 4.7
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.16,
+"up5": 3,
+"lead": "인바이오젠",
+"lead_ret": 9.85,
+"second": "위메이드",
+"second_ret": 8.46
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 2.12,
+"up5": 5,
+"lead": "에너토크",
+"lead_ret": 29.4,
+"second": "보성파워텍",
+"second_ret": 9.02
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.06,
+"up5": 1,
+"lead": "코리안리",
+"lead_ret": 6.43,
+"second": "현대해상",
+"second_ret": 3.75
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.85,
+"up5": 1,
+"lead": "동양에스텍",
+"lead_ret": 12.12,
+"second": "삼현철강",
+"second_ret": 4.59
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -7.63,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 2.37,
+"second": "디아이씨",
+"second_ret": 0.76
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": -3.36,
+"up5": 1,
+"lead": "에이치엠넥스",
+"lead_ret": 5.42,
+"second": "그린케미칼",
+"second_ret": 4.19
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -2.11,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.42,
+"second": "티엘비",
+"second_ret": -0.45
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.02,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": 3.91,
+"second": "이수페타시스",
+"second_ret": 0.14
+},
+{
+"name": "리튬",
+"n": 18,
+"avg": -1.87,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 3.42,
+"second": "LG화학",
+"second_ret": 3.27
+}
+],
+"leaders": [
+{
+"name": "티로보틱스",
+"code": "117730",
+"ret": 23.3,
+"value": 958,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "삼기",
+"code": "122350",
+"ret": 11.06,
+"value": 697,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "코위버",
+"code": "056360",
+"ret": 11.61,
+"value": 638,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 29.93,
+"value": 635,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "나라엠앤디",
+"code": "051490",
+"ret": 11.02,
+"value": 560,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

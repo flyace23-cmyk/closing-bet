@@ -1,0 +1,254 @@
+{
+"date": "20220525",
+"kospi": 0.44,
+"kosdaq": 0.88,
+"adv": 1048,
+"dec": 821,
+"flat": 211,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 142770,
+"hot": [
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "이수페타시스",
+"lead_ret": 11.43,
+"second": "우리바이오",
+"second_ret": 7.73
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "케이씨에스",
+"lead_ret": 29.92,
+"second": "코위버",
+"second_ret": 9.61
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 3,
+"lead": "오파스넷",
+"lead_ret": 20.2,
+"second": "이수페타시스",
+"second_ret": 11.43
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.7,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 29.92,
+"second": "카카오페이",
+"second_ret": 8.17
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 3.83,
+"up5": 7,
+"lead": "위메이드맥스",
+"lead_ret": 29.81,
+"second": "위메이드",
+"second_ret": 11.89
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.67,
+"up5": 8,
+"lead": "위메이드맥스",
+"lead_ret": 29.81,
+"second": "위메이드",
+"second_ret": 11.89
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.19,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 20.2,
+"second": "광무",
+"second_ret": 4.82
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 3.04,
+"up5": 2,
+"lead": "삼성출판사",
+"lead_ret": 29.87,
+"second": "토박스코리아",
+"second_ret": 19.43
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.83,
+"up5": 2,
+"lead": "삼성출판사",
+"lead_ret": 29.87,
+"second": "토박스코리아",
+"second_ret": 19.43
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 2.68,
+"up5": 3,
+"lead": "케이씨에스",
+"lead_ret": 29.92,
+"second": "오파스넷",
+"second_ret": 20.2
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.68,
+"up5": 1,
+"lead": "무림페이퍼",
+"lead_ret": 18.41,
+"second": "무림SP",
+"second_ret": 4.84
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.63,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 11.43,
+"second": "LG이노텍",
+"second_ret": 6.3
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.22,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 5.75,
+"second": "티엘비",
+"second_ret": 3.11
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": 2.12,
+"up5": 3,
+"lead": "케이씨에스",
+"lead_ret": 29.92,
+"second": "코위버",
+"second_ret": 9.61
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.94,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 5.74,
+"second": "지씨셀",
+"second_ret": 1.81
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.39,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -0.37,
+"second": "성우전자",
+"second_ret": -0.73
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": -1.2,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 2.43,
+"second": "GS",
+"second_ret": 1.52
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.18,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": -0.4,
+"second": "오텍",
+"second_ret": -0.66
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 11,
+"avg": -1.05,
+"up5": 0,
+"lead": "SFA넥셀",
+"lead_ret": 1.4,
+"second": "SK이노베이션",
+"second_ret": 1.23
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -0.95,
+"up5": 0,
+"lead": "조비",
+"lead_ret": 0.91,
+"second": "효성오앤비",
+"second_ret": 0.9
+}
+],
+"leaders": [
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 11.89,
+"value": 2095,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "대한제당",
+"code": "001790",
+"ret": 10.66,
+"value": 2078,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 20.25,
+"value": 1617,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "위메이드맥스",
+"code": "101730",
+"ret": 29.81,
+"value": 1511,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "액트로",
+"code": "290740",
+"ret": 10.46,
+"value": 1257,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

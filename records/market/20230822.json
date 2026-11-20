@@ -1,0 +1,254 @@
+{
+"date": "20230822",
+"kospi": 0.28,
+"kosdaq": 0.52,
+"adv": 802,
+"dec": 1252,
+"flat": 130,
+"limit_up": 4,
+"limit_down": 2,
+"value_total": 199803,
+"hot": [
+{
+"name": "음식료업종",
+"n": 5,
+"lead": "인산가",
+"lead_ret": 29.85,
+"second": "보라티알",
+"second_ret": 26.49
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 3,
+"lead": "엑셈",
+"lead_ret": 29.79,
+"second": "비투엔",
+"second_ret": 27.72
+},
+{
+"name": "초전도체",
+"n": 3,
+"lead": "신성델타테크",
+"lead_ret": 30.0,
+"second": "덕성",
+"second_ret": 12.94
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 11.8,
+"up5": 4,
+"lead": "신송홀딩스",
+"lead_ret": 23.45,
+"second": "샘표식품",
+"second_ret": 13.13
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 6.32,
+"up5": 6,
+"lead": "신성델타테크",
+"lead_ret": 30.0,
+"second": "덕성",
+"second_ret": 12.94
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 5.01,
+"up5": 3,
+"lead": "사조씨푸드",
+"lead_ret": 11.11,
+"second": "CJ씨푸드",
+"second_ret": 9.91
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 4.12,
+"up5": 1,
+"lead": "CJ씨푸드",
+"lead_ret": 9.91,
+"second": "풀무원",
+"second_ret": 4.69
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.99,
+"up5": 3,
+"lead": "마니커에프앤지",
+"lead_ret": 11.08,
+"second": "팜스토리",
+"second_ret": 7.1
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.09,
+"up5": 2,
+"lead": "위드텍",
+"lead_ret": 15.85,
+"second": "오르비텍",
+"second_ret": 14.15
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 2.96,
+"up5": 5,
+"lead": "팜스코",
+"lead_ret": 7.45,
+"second": "팜스토리",
+"second_ret": 7.1
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.89,
+"up5": 4,
+"lead": "CJ씨푸드",
+"lead_ret": 9.91,
+"second": "동원수산",
+"second_ret": 8.74
+},
+{
+"name": "음식료업종",
+"n": 59,
+"avg": 2.85,
+"up5": 8,
+"lead": "인산가",
+"lead_ret": 29.85,
+"second": "보라티알",
+"second_ret": 26.49
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 2.79,
+"up5": 1,
+"lead": "엑셈",
+"lead_ret": 29.79,
+"second": "한국금융지주",
+"second_ret": 1.19
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 2.59,
+"up5": 3,
+"lead": "보라티알",
+"lead_ret": 26.49,
+"second": "TBH글로벌",
+"second_ret": 10.74
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 2.4,
+"up5": 3,
+"lead": "엑셈",
+"lead_ret": 29.79,
+"second": "비투엔",
+"second_ret": 27.72
+}
+],
+"themes_worst": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": -6.55,
+"up5": 0,
+"lead": "아모그린텍",
+"lead_ret": 0.07,
+"second": "EG",
+"second_ret": -0.4
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": -6.55,
+"up5": 0,
+"lead": "아모그린텍",
+"lead_ret": 0.07,
+"second": "EG",
+"second_ret": -0.4
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": -3.83,
+"up5": 0,
+"lead": "서진시스템",
+"lead_ret": 3.35,
+"second": "두산퓨얼셀",
+"second_ret": 0.0
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -3.74,
+"up5": 0,
+"lead": "잉크테크",
+"lead_ret": 1.04,
+"second": "아이씨에이치",
+"second_ret": -0.83
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -3.55,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.0,
+"second": "DSC인베스트먼트",
+"second_ret": -0.16
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 30.0,
+"value": 11148,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 12.81,
+"value": 3287,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "큐리옥스바이오시스템즈",
+"code": "445680",
+"ret": 29.84,
+"value": 2493,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 10.05,
+"value": 2492,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "인산가",
+"code": "277410",
+"ret": 29.85,
+"value": 1924,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+}
+],
+"backfilled": true
+}

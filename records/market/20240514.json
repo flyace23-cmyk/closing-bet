@@ -1,0 +1,238 @@
+{
+"date": "20240514",
+"kospi": 0.11,
+"kosdaq": 0.9,
+"adv": 1379,
+"dec": 745,
+"flat": 132,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 185638,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "샘씨엔에스",
+"lead_ret": 12.23,
+"second": "유니트론텍",
+"second_ret": 11.33
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.77,
+"up5": 5,
+"lead": "SK이터닉스",
+"lead_ret": 29.92,
+"second": "엘티씨",
+"second_ret": 10.44
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 4.61,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 29.92,
+"second": "포바이포",
+"second_ret": 15.8
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": 3.96,
+"up5": 4,
+"lead": "토마토시스템",
+"lead_ret": 29.92,
+"second": "나노엔텍",
+"second_ret": 14.33
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.55,
+"up5": 2,
+"lead": "오파스넷",
+"lead_ret": 9.82,
+"second": "링네트",
+"second_ret": 7.43
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 3.55,
+"up5": 5,
+"lead": "토마토시스템",
+"lead_ret": 29.92,
+"second": "노을",
+"second_ret": 9.03
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 3.44,
+"up5": 3,
+"lead": "아이티엠반도체",
+"lead_ret": 29.98,
+"second": "인터플렉스",
+"second_ret": 9.31
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.81,
+"up5": 2,
+"lead": "현대해상",
+"lead_ret": 9.44,
+"second": "DB손해보험",
+"second_ret": 5.36
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.75,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 23.25,
+"second": "LG이노텍",
+"second_ret": 3.85
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.67,
+"up5": 1,
+"lead": "포니링크",
+"lead_ret": 17.89,
+"second": "SOOP",
+"second_ret": 4.3
+},
+{
+"name": "증강현실(AR)",
+"n": 18,
+"avg": 2.55,
+"up5": 2,
+"lead": "포니링크",
+"lead_ret": 17.89,
+"second": "비트맥스",
+"second_ret": 6.16
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.43,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 5.71,
+"second": "유니온머티리얼",
+"second_ret": 2.76
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 2.31,
+"up5": 2,
+"lead": "영우디에스피",
+"lead_ret": 8.09,
+"second": "코세스",
+"second_ret": 6.71
+}
+],
+"themes_worst": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -1.8,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 0.88,
+"second": "두산에너빌리티",
+"second_ret": -0.17
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": -1.79,
+"up5": 1,
+"lead": "KBI메탈",
+"lead_ret": 12.02,
+"second": "한국전력",
+"second_ret": 1.6
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.51,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": -0.52,
+"second": "제주은행",
+"second_ret": -0.6
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -1.32,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 1.67,
+"second": "인지디스플레",
+"second_ret": 0.64
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.07,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 2.11,
+"second": "옴니시스템",
+"second_ret": 1.15
+}
+],
+"leaders": [
+{
+"name": "한컴",
+"code": "030520",
+"ret": 17.58,
+"value": 6984,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 14.71,
+"value": 6322,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "KBI메탈",
+"code": "024840",
+"ret": 12.02,
+"value": 3199,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 29.92,
+"value": 2216,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "솔브레인홀딩스",
+"code": "036830",
+"ret": 16.31,
+"value": 1051,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

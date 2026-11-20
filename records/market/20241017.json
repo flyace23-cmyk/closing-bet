@@ -1,0 +1,254 @@
+{
+"date": "20241017",
+"kospi": -0.04,
+"kosdaq": -0.1,
+"adv": 854,
+"dec": 1278,
+"flat": 155,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 157060,
+"hot": [
+{
+"name": "비만치료제",
+"n": 6,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 29.91,
+"second": "제넥신",
+"second_ret": 14.44
+},
+{
+"name": "유전자 치료제/분석",
+"n": 5,
+"lead": "이엔셀",
+"lead_ret": 20.67,
+"second": "제넥신",
+"second_ret": 14.44
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "서전기전",
+"lead_ret": 15.48,
+"second": "비에이치아이",
+"second_ret": 15.1
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.07,
+"up5": 2,
+"lead": "에이직랜드",
+"lead_ret": 29.98,
+"second": "자람테크놀로지",
+"second_ret": 6.94
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 5.12,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 23.56,
+"second": "두산에너빌리티",
+"second_ret": 8.68
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.69,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 16.26,
+"second": "가온전선",
+"second_ret": 5.98
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.54,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 30.0,
+"second": "이루온",
+"second_ret": 1.49
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.28,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 7.25,
+"second": "지씨셀",
+"second_ret": 6.88
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.22,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 23.56,
+"second": "서남",
+"second_ret": 5.18
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 3.22,
+"up5": 7,
+"lead": "일진전기",
+"lead_ret": 16.26,
+"second": "서전기전",
+"second_ret": 15.48
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.98,
+"up5": 1,
+"lead": "DL이앤씨",
+"lead_ret": 7.18,
+"second": "GS건설",
+"second_ret": 3.15
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 2.62,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 15.1,
+"second": "두산에너빌리티",
+"second_ret": 8.68
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 2.46,
+"up5": 7,
+"lead": "서전기전",
+"lead_ret": 15.48,
+"second": "비에이치아이",
+"second_ret": 15.1
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.26,
+"up5": 1,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 29.91,
+"second": "스맥",
+"second_ret": 2.34
+},
+{
+"name": "유전자 치료제/분석",
+"n": 36,
+"avg": 1.88,
+"up5": 7,
+"lead": "이엔셀",
+"lead_ret": 20.67,
+"second": "제넥신",
+"second_ret": 14.44
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.14,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 0.36,
+"second": "현대해상",
+"second_ret": -0.96
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.09,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 3.21,
+"second": "손오공",
+"second_ret": 1.9
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -1.99,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 1.86,
+"second": "비츠로시스",
+"second_ret": 0.67
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.82,
+"up5": 0,
+"lead": "이스트에이드",
+"lead_ret": 0.17,
+"second": "엔비티",
+"second_ret": -0.14
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -1.73,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": 0.96,
+"second": "갤럭시아머니트리",
+"second_ret": -1.16
+}
+],
+"leaders": [
+{
+"name": "셀비온",
+"code": "308430",
+"ret": 29.78,
+"value": 4984,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 14.44,
+"value": 2166,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 20.67,
+"value": 1885,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "모비스",
+"code": "250060",
+"ret": 23.56,
+"value": 1749,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "우진엔텍",
+"code": "457550",
+"ret": 10.74,
+"value": 1122,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

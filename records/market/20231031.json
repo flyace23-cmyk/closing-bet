@@ -1,0 +1,254 @@
+{
+"date": "20231031",
+"kospi": -1.41,
+"kosdaq": -2.78,
+"adv": 464,
+"dec": 1651,
+"flat": 86,
+"limit_up": 4,
+"limit_down": 2,
+"value_total": 133694,
+"hot": [
+{
+"name": "화장품",
+"n": 7,
+"lead": "뷰티스킨",
+"lead_ret": 17.88,
+"second": "아모레퍼시픽",
+"second_ret": 11.07
+},
+{
+"name": "패션/의류",
+"n": 4,
+"lead": "한세실업",
+"lead_ret": 9.07,
+"second": "감성코퍼레이션",
+"second_ret": 8.42
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "멕아이씨에스",
+"lead_ret": 5.93,
+"second": "딥노이드",
+"second_ret": 5.91
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.42,
+"up5": 1,
+"lead": "아시아나항공",
+"lead_ret": 8.04,
+"second": "에어부산",
+"second_ret": 4.28
+},
+{
+"name": "소매유통",
+"n": 17,
+"avg": 1.17,
+"up5": 2,
+"lead": "엑시온그룹",
+"lead_ret": 12.2,
+"second": "청담글로벌",
+"second_ret": 7.06
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.89,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 2.38,
+"second": "롯데손해보험",
+"second_ret": 1.7
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 0.8,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 13.81,
+"second": "비츠로테크",
+"second_ret": 2.33
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 0.8,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 3.53,
+"second": "신세계",
+"second_ret": 1.38
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 0.6,
+"up5": 1,
+"lead": "참좋은여행",
+"lead_ret": 7.03,
+"second": "노랑풍선",
+"second_ret": 2.76
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 0.4,
+"up5": 0,
+"lead": "글로벌텍스프리",
+"lead_ret": 3.36,
+"second": "토니모리",
+"second_ret": 2.55
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 0.39,
+"up5": 1,
+"lead": "제이에스코퍼레이션",
+"lead_ret": 5.38,
+"second": "호텔신라",
+"second_ret": 2.47
+},
+{
+"name": "건강기능식품",
+"n": 40,
+"avg": 0.28,
+"up5": 2,
+"lead": "경남제약",
+"lead_ret": 30.14,
+"second": "청담글로벌",
+"second_ret": 7.06
+},
+{
+"name": "화장품",
+"n": 84,
+"avg": 0.26,
+"up5": 7,
+"lead": "뷰티스킨",
+"lead_ret": 17.88,
+"second": "아모레퍼시픽",
+"second_ret": 11.07
+},
+{
+"name": "패션/의류",
+"n": 48,
+"avg": 0.13,
+"up5": 4,
+"lead": "한세실업",
+"lead_ret": 9.07,
+"second": "감성코퍼레이션",
+"second_ret": 8.42
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 0.11,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 2.59,
+"second": "신한지주",
+"second_ret": 1.91
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.8,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": -1.12,
+"second": "후성",
+"second_ret": -1.58
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -4.44,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 1.58,
+"second": "디아이씨",
+"second_ret": -3.04
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 20,
+"avg": -4.43,
+"up5": 0,
+"lead": "피에이치에이",
+"lead_ret": -1.75,
+"second": "디와이에이",
+"second_ret": -1.79
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": -4.32,
+"up5": 0,
+"lead": "제이에스링크",
+"lead_ret": -1.57,
+"second": "쎄노텍",
+"second_ret": -1.69
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -4.29,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": -0.64,
+"second": "예스티",
+"second_ret": -1.41
+}
+],
+"leaders": [
+{
+"name": "워트",
+"code": "396470",
+"ret": 29.9,
+"value": 3469,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 20.66,
+"value": 2351,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "아모레퍼시픽",
+"code": "090430",
+"ret": 11.07,
+"value": 1328,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "모비스",
+"code": "250060",
+"ret": 13.81,
+"value": 1063,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "아시아나IDT",
+"code": "267850",
+"ret": 29.97,
+"value": 785,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

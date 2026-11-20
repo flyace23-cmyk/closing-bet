@@ -1,0 +1,254 @@
+{
+"date": "20200922",
+"kospi": -2.38,
+"kosdaq": -2.8,
+"adv": 203,
+"dec": 1655,
+"flat": 82,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 306790,
+"hot": [
+{
+"name": "2차전지",
+"n": 10,
+"lead": "나인테크",
+"lead_ret": 30.0,
+"second": "삼아알미늄",
+"second_ret": 29.93
+},
+{
+"name": "전기차",
+"n": 6,
+"lead": "나라엠앤디",
+"lead_ret": 29.59,
+"second": "한국앤컴퍼니",
+"second_ret": 13.93
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "서진오토모티브",
+"lead_ret": 29.78,
+"second": "나라엠앤디",
+"second_ret": 29.59
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 1.78,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 30.0,
+"second": "삼성SDI",
+"second_ret": 0.11
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 0.67,
+"up5": 1,
+"lead": "파워넷",
+"lead_ret": 12.83,
+"second": "EG",
+"second_ret": 3.24
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 0.19,
+"up5": 1,
+"lead": "이스트에이드",
+"lead_ret": 29.89,
+"second": "조이시티",
+"second_ret": 2.78
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": 0.09,
+"up5": 2,
+"lead": "나인테크",
+"lead_ret": 30.0,
+"second": "엠플러스",
+"second_ret": 12.21
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": -0.06,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 30.0,
+"second": "이노메트리",
+"second_ret": 1.35
+},
+{
+"name": "2차전지(장비)",
+"n": 30,
+"avg": -0.09,
+"up5": 2,
+"lead": "나인테크",
+"lead_ret": 30.0,
+"second": "엠플러스",
+"second_ret": 12.21
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": -0.17,
+"up5": 1,
+"lead": "파이오링크",
+"lead_ret": 9.68,
+"second": "NICE평가정보",
+"second_ret": 1.61
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.22,
+"up5": 2,
+"lead": "소마젠",
+"lead_ret": 8.62,
+"second": "엔투텍",
+"second_ret": 6.79
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -0.32,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 4.87,
+"second": "DGI",
+"second_ret": 0.81
+},
+{
+"name": "2차전지",
+"n": 100,
+"avg": -0.33,
+"up5": 10,
+"lead": "나인테크",
+"lead_ret": 30.0,
+"second": "삼아알미늄",
+"second_ret": 29.93
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 60,
+"avg": -0.42,
+"up5": 7,
+"lead": "삼아알미늄",
+"lead_ret": 29.93,
+"second": "나라엠앤디",
+"second_ret": 29.59
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": -0.62,
+"up5": 2,
+"lead": "삼아알미늄",
+"lead_ret": 29.93,
+"second": "조일알미늄",
+"second_ret": 9.46
+}
+],
+"themes_worst": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -5.72,
+"up5": 0,
+"lead": "한솔홀딩스",
+"lead_ret": -1.76,
+"second": "서한",
+"second_ret": -3.49
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -5.17,
+"up5": 0,
+"lead": "한미약품",
+"lead_ret": -3.22,
+"second": "이연제약",
+"second_ret": -3.7
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -4.87,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": -2.84,
+"second": "현대차",
+"second_ret": -2.97
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.74,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -3.0,
+"second": "대원전선",
+"second_ret": -3.07
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.71,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 0.0,
+"second": "유비벨록스",
+"second_ret": -3.48
+}
+],
+"leaders": [
+{
+"name": "일월지엠엘",
+"code": "178780",
+"ret": 21.82,
+"value": 6292,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "케이피엠테크",
+"code": "042040",
+"ret": 28.48,
+"value": 5505,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "나인테크",
+"code": "267320",
+"ret": 30.0,
+"value": 3219,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "나라엠앤디",
+"code": "051490",
+"ret": 29.59,
+"value": 3000,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼아알미늄",
+"code": "006110",
+"ret": 29.93,
+"value": 1551,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

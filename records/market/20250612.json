@@ -1,0 +1,254 @@
+{
+"date": "20250612",
+"kospi": 0.45,
+"kosdaq": 0.4,
+"adv": 1142,
+"dec": 1097,
+"flat": 124,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 242526,
+"hot": [
+{
+"name": "원자력발전",
+"n": 8,
+"lead": "한전기술",
+"lead_ret": 25.63,
+"second": "한전산업",
+"second_ret": 18.76
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "아난티",
+"lead_ret": 26.7,
+"second": "남광토건",
+"second_ret": 14.65
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "미투온",
+"lead_ret": 29.98,
+"second": "고스트스튜디오",
+"second_ret": 18.99
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 6.78,
+"up5": 8,
+"lead": "한전기술",
+"lead_ret": 25.63,
+"second": "한전KPS",
+"second_ret": 13.93
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 5.35,
+"up5": 13,
+"lead": "아난티",
+"lead_ret": 26.7,
+"second": "남광토건",
+"second_ret": 14.65
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.86,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 25.43,
+"second": "흥구석유",
+"second_ret": 11.53
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.86,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 25.43,
+"second": "흥구석유",
+"second_ret": 11.53
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 4.23,
+"up5": 17,
+"lead": "한전기술",
+"lead_ret": 25.63,
+"second": "한전산업",
+"second_ret": 18.76
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 4.04,
+"up5": 3,
+"lead": "한화손해보험",
+"lead_ret": 8.53,
+"second": "흥국화재",
+"second_ret": 6.98
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.85,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 25.43,
+"second": "흥구석유",
+"second_ret": 11.53
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.52,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 14.21,
+"second": "한화생명",
+"second_ret": 3.62
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.31,
+"up5": 2,
+"lead": "SAMG엔터",
+"lead_ret": 10.35,
+"second": "데브시스터즈",
+"second_ret": 5.89
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 3.09,
+"up5": 5,
+"lead": "한전산업",
+"lead_ret": 18.76,
+"second": "지투파워",
+"second_ret": 15.84
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.05,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 9.11,
+"second": "흥아해운",
+"second_ret": 4.31
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.03,
+"up5": 2,
+"lead": "신성델타테크",
+"lead_ret": 22.05,
+"second": "아모텍",
+"second_ret": 6.1
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.24,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.81,
+"second": "지씨셀",
+"second_ret": -2.63
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": -2.45,
+"up5": 0,
+"lead": "미디어젠",
+"lead_ret": 1.45,
+"second": "삼성에스디에스",
+"second_ret": 0.58
+},
+{
+"name": "의료AI",
+"n": 26,
+"avg": -1.79,
+"up5": 1,
+"lead": "엔젠바이오",
+"lead_ret": 8.23,
+"second": "드림씨아이에스",
+"second_ret": 1.94
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.76,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 1.16,
+"second": "경동제약",
+"second_ret": 0.5
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -1.73,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 7.57,
+"second": "팬스타엔터프라이즈",
+"second_ret": 1.23
+}
+],
+"leaders": [
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 25.63,
+"value": 6923,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "LG씨엔에스",
+"code": "064400",
+"ret": 11.95,
+"value": 4511,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 26.7,
+"value": 2820,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 11.25,
+"value": 2579,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "태웅",
+"code": "044490",
+"ret": 13.23,
+"value": 2066,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

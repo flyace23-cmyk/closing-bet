@@ -1,0 +1,254 @@
+{
+"date": "20221104",
+"kospi": 0.83,
+"kosdaq": -0.03,
+"adv": 907,
+"dec": 998,
+"flat": 208,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 123537,
+"hot": [
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "아모레퍼시픽",
+"lead_ret": 12.77,
+"second": "F&F",
+"second_ret": 7.34
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "아모레퍼시픽",
+"lead_ret": 12.77,
+"second": "애경산업",
+"second_ret": 10.7
+},
+{
+"name": "남북경협",
+"n": 3,
+"lead": "인디에프",
+"lead_ret": 30.0,
+"second": "희림",
+"second_ret": 14.77
+}
+],
+"themes": [
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.83,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 14.49,
+"second": "GKL",
+"second_ret": 7.22
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.83,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 14.49,
+"second": "GKL",
+"second_ret": 7.22
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.78,
+"up5": 3,
+"lead": "마니커에프앤지",
+"lead_ret": 15.06,
+"second": "마니커",
+"second_ret": 7.38
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.2,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 14.49,
+"second": "하나투어",
+"second_ret": 3.98
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 3.19,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 14.49,
+"second": "파라다이스",
+"second_ret": 4.5
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.94,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 6.09,
+"second": "글로벌텍스프리",
+"second_ret": 4.29
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.76,
+"up5": 0,
+"lead": "GS리테일",
+"lead_ret": 4.37,
+"second": "이마트",
+"second_ret": 3.63
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.67,
+"up5": 2,
+"lead": "AK홀딩스",
+"lead_ret": 8.33,
+"second": "대한항공",
+"second_ret": 5.04
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.23,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 7.0,
+"second": "LG디스플레이",
+"second_ret": 3.87
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 2.22,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 7.0,
+"second": "코세스",
+"second_ret": 6.3
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.83,
+"up5": 2,
+"lead": "코오롱글로벌",
+"lead_ret": 7.31,
+"second": "포스코인터내셔널",
+"second_ret": 6.03
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.82,
+"up5": 2,
+"lead": "원익피앤이",
+"lead_ret": 16.91,
+"second": "아센디오",
+"second_ret": 5.12
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.36,
+"up5": 0,
+"lead": "DGI",
+"lead_ret": 0.0,
+"second": "아이디스",
+"second_ret": -1.1
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.39,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.0,
+"second": "서울제약",
+"second_ret": 0.0
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -1.36,
+"up5": 0,
+"lead": "HPSP",
+"lead_ret": 2.79,
+"second": "삼성전기",
+"second_ret": 2.49
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -1.35,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": 1.12,
+"second": "아이비김영",
+"second_ret": -0.52
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -1.33,
+"up5": 0,
+"lead": "동일기연",
+"lead_ret": 0.92,
+"second": "제너셈",
+"second_ret": 0.6
+}
+],
+"leaders": [
+{
+"name": "희림",
+"code": "037440",
+"ret": 14.77,
+"value": 4734,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "코닉오토메이션",
+"code": "391710",
+"ret": 17.05,
+"value": 900,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "아모레퍼시픽",
+"code": "090430",
+"ret": 12.77,
+"value": 872,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 29.54,
+"value": 847,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "현우산업",
+"code": "092300",
+"ret": 11.75,
+"value": 496,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+}
+],
+"backfilled": true
+}

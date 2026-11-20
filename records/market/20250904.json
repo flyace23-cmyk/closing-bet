@@ -1,0 +1,254 @@
+{
+"date": "20250904",
+"kospi": 0.52,
+"kosdaq": 1.08,
+"adv": 1615,
+"dec": 620,
+"flat": 143,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 135342,
+"hot": [
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "삼영엠텍",
+"lead_ret": 26.63,
+"second": "케이에스피",
+"second_ret": 21.77
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "메드팩토",
+"lead_ret": 18.57,
+"second": "신라젠",
+"second_ret": 16.01
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "베셀",
+"lead_ret": 29.99,
+"second": "킵스파마",
+"second_ret": 15.75
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 5.1,
+"up5": 3,
+"lead": "케이에스피",
+"lead_ret": 21.77,
+"second": "한국선재",
+"second_ret": 6.85
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 4.46,
+"up5": 10,
+"lead": "삼영엠텍",
+"lead_ret": 26.63,
+"second": "케이에스피",
+"second_ret": 21.77
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 4.05,
+"up5": 3,
+"lead": "오가노이드사이언스",
+"lead_ret": 7.79,
+"second": "토모큐브",
+"second_ret": 7.69
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 3.51,
+"up5": 2,
+"lead": "GS피앤엘",
+"lead_ret": 12.4,
+"second": "서부T&D",
+"second_ret": 11.52
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 3.36,
+"up5": 3,
+"lead": "이지트로닉스",
+"lead_ret": 29.84,
+"second": "킵스파마",
+"second_ret": 15.75
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 3.3,
+"up5": 1,
+"lead": "이지트로닉스",
+"lead_ret": 29.84,
+"second": "LG화학",
+"second_ret": 2.96
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.08,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 6.57,
+"second": "코나아이",
+"second_ret": 2.97
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.02,
+"up5": 3,
+"lead": "에스앤더블류",
+"lead_ret": 17.14,
+"second": "우리기술",
+"second_ret": 7.98
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.98,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 18.44,
+"second": "오로라",
+"second_ret": 4.4
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 2.86,
+"up5": 7,
+"lead": "메드팩토",
+"lead_ret": 18.57,
+"second": "신라젠",
+"second_ret": 16.01
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 2.82,
+"up5": 2,
+"lead": "씨티케이",
+"lead_ret": 10.58,
+"second": "세림B&G",
+"second_ret": 7.32
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.68,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": 4.1,
+"second": "GS건설",
+"second_ret": 4.04
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -1.71,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.73,
+"second": "CJ씨푸드",
+"second_ret": 0.52
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -0.93,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 0.94,
+"second": "카카오뱅크",
+"second_ret": -0.21
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -0.51,
+"up5": 0,
+"lead": "한국알콜",
+"lead_ret": 1.11,
+"second": "롯데칠성",
+"second_ret": 0.42
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -0.44,
+"up5": 0,
+"lead": "로지시스",
+"lead_ret": 2.37,
+"second": "케이씨에스",
+"second_ret": 0.76
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -0.44,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 0.73,
+"second": "DB손해보험",
+"second_ret": 0.59
+}
+],
+"leaders": [
+{
+"name": "삼영엠텍",
+"code": "054540",
+"ret": 26.63,
+"value": 2749,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "프로티나",
+"code": "468530",
+"ret": 24.68,
+"value": 2340,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "케이에스피",
+"code": "073010",
+"ret": 21.77,
+"value": 1538,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 11.9,
+"value": 1345,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "SK오션플랜트",
+"code": "100090",
+"ret": 13.18,
+"value": 1295,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+}
+],
+"backfilled": true
+}

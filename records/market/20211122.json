@@ -1,0 +1,246 @@
+{
+"date": "20211122",
+"kospi": 1.42,
+"kosdaq": -0.92,
+"adv": 838,
+"dec": 1058,
+"flat": 159,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 426355,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "에이팩트",
+"lead_ret": 14.5,
+"second": "유진테크",
+"second_ret": 14.29
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "램테크놀러지",
+"lead_ret": 29.97,
+"second": "피엠티",
+"second_ret": 13.33
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 6.17,
+"up5": 4,
+"lead": "GH신소재",
+"lead_ret": 13.64,
+"second": "오텍",
+"second_ret": 8.26
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 4.56,
+"up5": 6,
+"lead": "나노씨엠에스",
+"lead_ret": 29.95,
+"second": "테스",
+"second_ret": 7.35
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 4.4,
+"up5": 5,
+"lead": "제주반도체",
+"lead_ret": 18.5,
+"second": "에이팩트",
+"second_ret": 14.5
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 3.84,
+"up5": 2,
+"lead": "SK하이닉스",
+"lead_ret": 7.17,
+"second": "삼성전자",
+"second_ret": 5.2
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 3.79,
+"up5": 10,
+"lead": "오로스테크놀로지",
+"lead_ret": 10.58,
+"second": "케이씨텍",
+"second_ret": 9.79
+},
+{
+"name": "반도체 장비",
+"n": 77,
+"avg": 3.7,
+"up5": 26,
+"lead": "에이팩트",
+"lead_ret": 14.5,
+"second": "유진테크",
+"second_ret": 14.29
+},
+{
+"name": "공기청정기",
+"n": 11,
+"avg": 3.59,
+"up5": 3,
+"lead": "오텍",
+"lead_ret": 8.26,
+"second": "크린앤사이언스",
+"second_ret": 7.03
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 3.57,
+"up5": 4,
+"lead": "한미반도체",
+"lead_ret": 7.82,
+"second": "제너셈",
+"second_ret": 7.1
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.27,
+"up5": 1,
+"lead": "HL만도",
+"lead_ret": 6.39,
+"second": "현대차",
+"second_ret": 4.3
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 3.21,
+"up5": 2,
+"lead": "파이버프로",
+"lead_ret": 14.68,
+"second": "라이콤",
+"second_ret": 6.78
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 2.98,
+"up5": 2,
+"lead": "램테크놀러지",
+"lead_ret": 29.97,
+"second": "에프엔에스테크",
+"second_ret": 5.28
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.71,
+"up5": 2,
+"lead": "프로텍",
+"lead_ret": 6.17,
+"second": "주성엔지니어링",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -5.71,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": -1.24,
+"second": "오로라",
+"second_ret": -2.11
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -5.36,
+"up5": 2,
+"lead": "네오위즈홀딩스",
+"lead_ret": 20.55,
+"second": "위메이드맥스",
+"second_ret": 13.64
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -5.23,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": -0.51,
+"second": "CJ CGV",
+"second_ret": -0.93
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -5.01,
+"up5": 1,
+"lead": "삼성전자",
+"lead_ret": 5.2,
+"second": "NAVER",
+"second_ret": 1.49
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": -4.71,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 4.4,
+"second": "키이스트",
+"second_ret": 0.72
+}
+],
+"leaders": [
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 18.5,
+"value": 3956,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "이노뎁",
+"code": "303530",
+"ret": 27.63,
+"value": 3202,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "아이오케이이엔엠",
+"code": "078860",
+"ret": 15.99,
+"value": 2817,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "네오위즈홀딩스",
+"code": "042420",
+"ret": 20.55,
+"value": 1678,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "인포뱅크",
+"code": "039290",
+"ret": 11.63,
+"value": 1467,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+}
+],
+"backfilled": true
+}

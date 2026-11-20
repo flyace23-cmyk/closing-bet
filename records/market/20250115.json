@@ -1,0 +1,254 @@
+{
+"date": "20250115",
+"kospi": -0.02,
+"kosdaq": -0.9,
+"adv": 683,
+"dec": 1482,
+"flat": 156,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 152351,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 6,
+"lead": "파인텍",
+"lead_ret": 29.97,
+"second": "한국첨단소재",
+"second_ret": 29.83
+},
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "케이프",
+"lead_ret": 16.48,
+"second": "인화정공",
+"second_ret": 9.97
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "글로본",
+"lead_ret": 29.96,
+"second": "엔에프씨",
+"second_ret": 12.91
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 6.6,
+"up5": 9,
+"lead": "파인텍",
+"lead_ret": 29.97,
+"second": "한국첨단소재",
+"second_ret": 29.83
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.21,
+"up5": 2,
+"lead": "삼성중공업",
+"lead_ret": 9.7,
+"second": "한화오션",
+"second_ret": 6.36
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.43,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 6.39,
+"second": "흥아해운",
+"second_ret": 5.34
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 2.89,
+"up5": 6,
+"lead": "케이프",
+"lead_ret": 16.48,
+"second": "인화정공",
+"second_ret": 9.97
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.23,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 6.57,
+"second": "대한전선",
+"second_ret": 4.05
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.07,
+"up5": 1,
+"lead": "한국첨단소재",
+"lead_ret": 29.83,
+"second": "RFHIC",
+"second_ret": 4.26
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.0,
+"up5": 1,
+"lead": "성광벤드",
+"lead_ret": 8.57,
+"second": "케이에스피",
+"second_ret": 4.27
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.75,
+"up5": 3,
+"lead": "한화엔진",
+"lead_ret": 9.83,
+"second": "삼성중공업",
+"second_ret": 9.7
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 1.66,
+"up5": 4,
+"lead": "산일전기",
+"lead_ret": 16.57,
+"second": "지엔씨에너지",
+"second_ret": 13.75
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 1.65,
+"up5": 3,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 22.22,
+"second": "아이티센피엔에스",
+"second_ret": 11.8
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.61,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 7.07,
+"second": "트리니티항공",
+"second_ret": 2.85
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.19,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 3.76,
+"second": "JB금융지주",
+"second_ret": 3.75
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -4.8,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": 1.14,
+"second": "갤럭시아머니트리",
+"second_ret": -2.03
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -2.65,
+"up5": 0,
+"lead": "오스코텍",
+"lead_ret": 2.17,
+"second": "유한양행",
+"second_ret": 0.23
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -2.65,
+"up5": 0,
+"lead": "코미팜",
+"lead_ret": 0.0,
+"second": "옵티팜",
+"second_ret": 0.0
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.47,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 12.1,
+"second": "한솔홈데코",
+"second_ret": 9.31
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.47,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 12.1,
+"second": "한솔홈데코",
+"second_ret": 9.31
+}
+],
+"leaders": [
+{
+"name": "산일전기",
+"code": "062040",
+"ret": 16.57,
+"value": 2371,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "한국첨단소재",
+"code": "062970",
+"ret": 29.83,
+"value": 2273,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 15.05,
+"value": 1623,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 12.38,
+"value": 749,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 13.75,
+"value": 713,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

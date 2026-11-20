@@ -1,0 +1,254 @@
+{
+"date": "20231110",
+"kospi": -0.72,
+"kosdaq": -1.69,
+"adv": 509,
+"dec": 1577,
+"flat": 123,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 115386,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "피에스케이홀딩스",
+"lead_ret": 9.45,
+"second": "한미반도체",
+"second_ret": 7.8
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "피에스케이홀딩스",
+"lead_ret": 9.45,
+"second": "한미반도체",
+"second_ret": 7.8
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 4,
+"lead": "컴투스홀딩스",
+"lead_ret": 8.8,
+"second": "제이씨현시스템",
+"second_ret": 7.44
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.02,
+"up5": 4,
+"lead": "멕아이씨에스",
+"lead_ret": 29.93,
+"second": "위더스제약",
+"second_ret": 27.22
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 1.01,
+"up5": 1,
+"lead": "인텍플러스",
+"lead_ret": 5.55,
+"second": "이수페타시스",
+"second_ret": 4.42
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 0.82,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": 4.05,
+"second": "티에프이",
+"second_ret": 2.37
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.68,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 2.17,
+"second": "코리안리",
+"second_ret": 1.47
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.53,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.95,
+"second": "SK스퀘어",
+"second_ret": 0.84
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 0.43,
+"up5": 3,
+"lead": "피에스케이홀딩스",
+"lead_ret": 9.45,
+"second": "한미반도체",
+"second_ret": 7.8
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.42,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 4.11,
+"second": "GS리테일",
+"second_ret": 0.79
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 0.32,
+"up5": 2,
+"lead": "풍전약품",
+"lead_ret": 13.81,
+"second": "바이오솔루션",
+"second_ret": 6.95
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 0.27,
+"up5": 0,
+"lead": "주성엔지니어링",
+"lead_ret": 3.81,
+"second": "이오테크닉스",
+"second_ret": 2.65
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 0.26,
+"up5": 5,
+"lead": "위더스제약",
+"lead_ret": 27.22,
+"second": "그린생명과학",
+"second_ret": 18.86
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 31,
+"avg": 0.17,
+"up5": 2,
+"lead": "컨텍",
+"lead_ret": 15.7,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 5.78
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 0.11,
+"up5": 1,
+"lead": "삼미금속",
+"lead_ret": 10.0,
+"second": "대동금속",
+"second_ret": 0.86
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -4.55,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -2.19,
+"second": "토비스",
+"second_ret": -3.46
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -4.55,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -2.19,
+"second": "토비스",
+"second_ret": -3.46
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.36,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 0.0,
+"second": "디아이씨",
+"second_ret": -2.69
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.98,
+"up5": 0,
+"lead": "새빗켐",
+"lead_ret": -1.14,
+"second": "강원에너지",
+"second_ret": -1.94
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -3.87,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 0.0,
+"second": "하나투어",
+"second_ret": -1.01
+}
+],
+"leaders": [
+{
+"name": "컨텍",
+"code": "451760",
+"ret": 15.7,
+"value": 2874,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "위더스제약",
+"code": "330350",
+"ret": 27.22,
+"value": 1645,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "큐로셀",
+"code": "372320",
+"ret": 29.95,
+"value": 951,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "파라텍",
+"code": "033540",
+"ret": 12.57,
+"value": 768,
+"theme": "재난/안전(지진/화재 등)",
+"reason": "테마: 재난/안전(지진/화재 등)"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 15.82,
+"value": 665,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

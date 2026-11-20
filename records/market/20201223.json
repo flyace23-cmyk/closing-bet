@@ -1,0 +1,254 @@
+{
+"date": "20201223",
+"kospi": 0.96,
+"kosdaq": -0.6,
+"adv": 763,
+"dec": 1047,
+"flat": 159,
+"limit_up": 8,
+"limit_down": 3,
+"value_total": 334505,
+"hot": [
+{
+"name": "자동차부품",
+"n": 11,
+"lead": "KB오토시스",
+"lead_ret": 29.86,
+"second": "DH오토웨어",
+"second_ret": 29.59
+},
+{
+"name": "자율주행차",
+"n": 8,
+"lead": "인포뱅크",
+"lead_ret": 29.86,
+"second": "LG전자",
+"second_ret": 29.61
+},
+{
+"name": "2차전지",
+"n": 7,
+"lead": "세방전지",
+"lead_ret": 29.94,
+"second": "신성델타테크",
+"second_ret": 29.91
+}
+],
+"themes": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 8.42,
+"up5": 6,
+"lead": "인포뱅크",
+"lead_ret": 29.86,
+"second": "LG이노텍",
+"second_ret": 12.8
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 6.91,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 29.61,
+"second": "LG디스플레이",
+"second_ret": 6.42
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 6.49,
+"up5": 20,
+"lead": "인포뱅크",
+"lead_ret": 29.86,
+"second": "LG전자",
+"second_ret": 29.61
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 6.37,
+"up5": 2,
+"lead": "모아텍",
+"lead_ret": 29.73,
+"second": "로보스타",
+"second_ret": 23.14
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 5.52,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 29.61,
+"second": "큐에스아이",
+"second_ret": 5.69
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 4.49,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 29.61,
+"second": "삼성전자",
+"second_ret": 2.21
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": 4.2,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 29.61,
+"second": "LG이노텍",
+"second_ret": 12.8
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 26,
+"avg": 4.14,
+"up5": 7,
+"lead": "LG전자",
+"lead_ret": 29.61,
+"second": "유진로봇",
+"second_ret": 13.07
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.96,
+"up5": 4,
+"lead": "신성델타테크",
+"lead_ret": 29.91,
+"second": "아모텍",
+"second_ret": 7.63
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 3.93,
+"up5": 3,
+"lead": "삼화콘덴서",
+"lead_ret": 8.45,
+"second": "지아이에스",
+"second_ret": 8.16
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 3.9,
+"up5": 2,
+"lead": "인포뱅크",
+"lead_ret": 29.86,
+"second": "엑셈",
+"second_ret": 8.28
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.3,
+"up5": 2,
+"lead": "HL만도",
+"lead_ret": 10.07,
+"second": "한온시스템",
+"second_ret": 5.55
+}
+],
+"themes_worst": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -5.27,
+"up5": 0,
+"lead": "에코플라스틱",
+"lead_ret": 0.52,
+"second": "삼양패키징",
+"second_ret": -0.46
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -4.91,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": -2.12,
+"second": "한미약품",
+"second_ret": -2.66
+},
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": -4.85,
+"up5": 1,
+"lead": "유바이오로직스",
+"lead_ret": 6.32,
+"second": "인트론바이오",
+"second_ret": 2.49
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.8,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.0,
+"second": "삼성바이오로직스",
+"second_ret": -0.87
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 61,
+"avg": -4.77,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 9.3,
+"second": "유바이오로직스",
+"second_ret": 6.32
+}
+],
+"leaders": [
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 29.61,
+"value": 19796,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "LG이노텍",
+"code": "011070",
+"ret": 12.8,
+"value": 6446,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "LG",
+"code": "003550",
+"ret": 10.35,
+"value": 6332,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "하나기술",
+"code": "299030",
+"ret": 11.24,
+"value": 3418,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HL만도",
+"code": "204320",
+"ret": 10.07,
+"value": 2778,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

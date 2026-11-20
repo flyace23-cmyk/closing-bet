@@ -1,0 +1,254 @@
+{
+"date": "20230320",
+"kospi": -0.69,
+"kosdaq": 0.6,
+"adv": 1108,
+"dec": 908,
+"flat": 128,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 162510,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "에스코넥",
+"lead_ret": 29.99,
+"second": "윤성에프앤씨",
+"second_ret": 22.19
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "가온칩스",
+"lead_ret": 17.25,
+"second": "코아시아",
+"second_ret": 12.49
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "한주라이트메탈",
+"lead_ret": 22.35,
+"second": "강원에너지",
+"second_ret": 13.75
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.47,
+"up5": 2,
+"lead": "석경에이티",
+"lead_ret": 25.96,
+"second": "선익시스템",
+"second_ret": 7.91
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 4.34,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 29.83,
+"second": "KBI동양철관",
+"second_ret": 6.5
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.63,
+"up5": 2,
+"lead": "탑머티리얼",
+"lead_ret": 21.5,
+"second": "팬스타엔터프라이즈",
+"second_ret": 10.72
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 3.41,
+"up5": 5,
+"lead": "이렘",
+"lead_ret": 29.83,
+"second": "한주라이트메탈",
+"second_ret": 22.35
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 2.62,
+"up5": 2,
+"lead": "원준",
+"lead_ret": 12.06,
+"second": "코스모신소재",
+"second_ret": 12.04
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 2.48,
+"up5": 7,
+"lead": "윤성에프앤씨",
+"lead_ret": 22.19,
+"second": "강원에너지",
+"second_ret": 13.75
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 2.36,
+"up5": 3,
+"lead": "HPSP",
+"lead_ret": 24.87,
+"second": "가온칩스",
+"second_ret": 17.25
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.24,
+"up5": 2,
+"lead": "동양에스텍",
+"lead_ret": 11.08,
+"second": "KBI동양철관",
+"second_ret": 6.5
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 2.16,
+"up5": 5,
+"lead": "석경에이티",
+"lead_ret": 25.96,
+"second": "원준",
+"second_ret": 12.06
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.09,
+"up5": 2,
+"lead": "큐로홀딩스",
+"lead_ret": 29.99,
+"second": "엘컴텍",
+"second_ret": 5.24
+},
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": 2.07,
+"up5": 1,
+"lead": "에스코넥",
+"lead_ret": 29.99,
+"second": "베셀",
+"second_ret": 4.28
+},
+{
+"name": "면역항암제",
+"n": 30,
+"avg": 2.03,
+"up5": 3,
+"lead": "박셀바이오",
+"lead_ret": 17.24,
+"second": "에이프릴바이오",
+"second_ret": 6.01
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.92,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.22,
+"second": "흥국화재",
+"second_ret": 0.15
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": -1.76,
+"up5": 0,
+"lead": "이미지스",
+"lead_ret": 3.0,
+"second": "카페24",
+"second_ret": 1.24
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -1.64,
+"up5": 1,
+"lead": "빌리언스",
+"lead_ret": 8.15,
+"second": "NAVER",
+"second_ret": 1.77
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.61,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "현대차",
+"second_ret": -0.85
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": -1.48,
+"up5": 1,
+"lead": "모델솔루션",
+"lead_ret": 12.11,
+"second": "플리토",
+"second_ret": 2.89
+}
+],
+"leaders": [
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 12.04,
+"value": 3138,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 17.25,
+"value": 3135,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "HPSP",
+"code": "403870",
+"ret": 24.87,
+"value": 2579,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 17.24,
+"value": 2127,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "석경에이티",
+"code": "357550",
+"ret": 25.96,
+"value": 1756,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+}
+],
+"backfilled": true
+}

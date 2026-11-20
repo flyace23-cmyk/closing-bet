@@ -1,0 +1,246 @@
+{
+"date": "20200923",
+"kospi": 0.03,
+"kosdaq": 0.09,
+"adv": 932,
+"dec": 836,
+"flat": 174,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 311736,
+"hot": [
+{
+"name": "자율주행차",
+"n": 9,
+"lead": "모트렉스",
+"lead_ret": 29.92,
+"second": "라닉스",
+"second_ret": 19.48
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "시큐브",
+"lead_ret": 20.59,
+"second": "라닉스",
+"second_ret": 19.48
+}
+],
+"themes": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 7.44,
+"up5": 4,
+"lead": "모트렉스",
+"lead_ret": 29.92,
+"second": "아이에이",
+"second_ret": 14.37
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 6.02,
+"up5": 3,
+"lead": "한국팩키지",
+"lead_ret": 24.7,
+"second": "삼륭물산",
+"second_ret": 8.38
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 5.59,
+"up5": 19,
+"lead": "모트렉스",
+"lead_ret": 29.92,
+"second": "라닉스",
+"second_ret": 19.48
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 4.69,
+"up5": 4,
+"lead": "텔레칩스",
+"lead_ret": 17.15,
+"second": "세코닉스",
+"second_ret": 13.44
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 4.17,
+"up5": 8,
+"lead": "세코닉스",
+"lead_ret": 13.44,
+"second": "칩스앤미디어",
+"second_ret": 11.6
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 4.13,
+"up5": 1,
+"lead": "이스트에이드",
+"lead_ret": 29.89,
+"second": "NAVER",
+"second_ret": 4.22
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 3.94,
+"up5": 4,
+"lead": "시큐브",
+"lead_ret": 20.59,
+"second": "유니퀘스트",
+"second_ret": 12.28
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 3.93,
+"up5": 2,
+"lead": "이스트소프트",
+"lead_ret": 10.85,
+"second": "한빛소프트",
+"second_ret": 5.73
+},
+{
+"name": "온디바이스 AI",
+"n": 15,
+"avg": 3.69,
+"up5": 3,
+"lead": "텔레칩스",
+"lead_ret": 17.15,
+"second": "유니퀘스트",
+"second_ret": 12.28
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 3.17,
+"up5": 3,
+"lead": "KT지니뮤직",
+"lead_ret": 9.17,
+"second": "YG PLUS",
+"second_ret": 8.2
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.15,
+"up5": 5,
+"lead": "오파스넷",
+"lead_ret": 9.06,
+"second": "알서포트",
+"second_ret": 7.59
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.95,
+"up5": 2,
+"lead": "신풍",
+"lead_ret": 28.62,
+"second": "깨끗한나라",
+"second_ret": 5.47
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -3.2,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.69,
+"second": "애경케미칼",
+"second_ret": 0.14
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": -3.05,
+"up5": 0,
+"lead": "파워넷",
+"lead_ret": 4.43,
+"second": "브이티",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(장비)",
+"n": 30,
+"avg": -2.57,
+"up5": 1,
+"lead": "SFA",
+"lead_ret": 6.79,
+"second": "HB테크놀러지",
+"second_ret": 1.29
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.18,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 2.56,
+"second": "금호타이어",
+"second_ret": 0.53
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.14,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": -0.6,
+"second": "메디포스트",
+"second_ret": -1.26
+}
+],
+"leaders": [
+{
+"name": "텔콘RF제약",
+"code": "200230",
+"ret": 29.98,
+"value": 8048,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "모트렉스",
+"code": "118990",
+"ret": 29.92,
+"value": 3624,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "한국팩키지",
+"code": "037230",
+"ret": 24.7,
+"value": 3070,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+},
+{
+"name": "이스트에이드",
+"code": "239340",
+"ret": 29.89,
+"value": 2467,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 19.7,
+"value": 2275,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

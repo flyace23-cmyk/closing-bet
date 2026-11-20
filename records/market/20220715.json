@@ -1,0 +1,254 @@
+{
+"date": "20220715",
+"kospi": 0.37,
+"kosdaq": -0.48,
+"adv": 630,
+"dec": 1291,
+"flat": 166,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 119243,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 8,
+"lead": "한국파마",
+"lead_ret": 15.07,
+"second": "일동제약",
+"second_ret": 14.78
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "한국파마",
+"lead_ret": 15.07,
+"second": "일동제약",
+"second_ret": 14.78
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "엠투엔",
+"lead_ret": 12.54,
+"second": "원익피앤이",
+"second_ret": 7.67
+}
+],
+"themes": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 3.24,
+"up5": 7,
+"lead": "한국파마",
+"lead_ret": 15.07,
+"second": "일동제약",
+"second_ret": 14.78
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 2.59,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 11.02,
+"second": "웰킵스하이텍",
+"second_ret": 5.91
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 2.58,
+"up5": 2,
+"lead": "에이루트",
+"lead_ret": 23.59,
+"second": "SK하이닉스",
+"second_ret": 5.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.44,
+"up5": 2,
+"lead": "삼성전기",
+"lead_ret": 5.3,
+"second": "SK하이닉스",
+"second_ret": 5.0
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.35,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.0,
+"second": "삼성전자",
+"second_ret": 4.35
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.17,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.0,
+"second": "삼성전자",
+"second_ret": 4.35
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 1.57,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.0,
+"second": "삼성전자",
+"second_ret": 4.35
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 1.33,
+"up5": 2,
+"lead": "에스티큐브",
+"lead_ret": 28.48,
+"second": "셀리드",
+"second_ret": 8.4
+},
+{
+"name": "온디바이스 AI",
+"n": 18,
+"avg": 1.22,
+"up5": 2,
+"lead": "삼성전기",
+"lead_ret": 5.3,
+"second": "SK하이닉스",
+"second_ret": 5.0
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 1.21,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 13.09,
+"second": "아이티센글로벌",
+"second_ret": 0.77
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.21,
+"up5": 0,
+"lead": "콜마바이오텍",
+"lead_ret": 4.17,
+"second": "GH신소재",
+"second_ret": 3.05
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 1.15,
+"up5": 9,
+"lead": "한국파마",
+"lead_ret": 15.07,
+"second": "일동제약",
+"second_ret": 14.78
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -3.22,
+"up5": 0,
+"lead": "우성",
+"lead_ret": 0.21,
+"second": "씨티씨바이오",
+"second_ret": -0.99
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -2.63,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 0.0,
+"second": "SH에너지화학",
+"second_ret": -1.19
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -2.55,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": -1.6,
+"second": "이월드",
+"second_ret": -1.68
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -2.36,
+"up5": 0,
+"lead": "인선이엔티",
+"lead_ret": -0.72,
+"second": "경농",
+"second_ret": -0.93
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -2.28,
+"up5": 0,
+"lead": "노루홀딩스",
+"lead_ret": 0.0,
+"second": "벽산",
+"second_ret": -1.17
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 14.78,
+"value": 5750,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 15.07,
+"value": 1961,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "부광약품",
+"code": "003000",
+"ret": 10.24,
+"value": 722,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "메지온",
+"code": "140410",
+"ret": 13.3,
+"value": 561,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "아틀라스링크",
+"code": "297570",
+"ret": 18.55,
+"value": 517,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

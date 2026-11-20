@@ -1,0 +1,254 @@
+{
+"date": "20220329",
+"kospi": 0.42,
+"kosdaq": 1.16,
+"adv": 1077,
+"dec": 810,
+"flat": 188,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 181951,
+"hot": [
+{
+"name": "화장품",
+"n": 4,
+"lead": "케어젠",
+"lead_ret": 23.35,
+"second": "엔에프씨",
+"second_ret": 17.12
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "케어젠",
+"lead_ret": 23.35,
+"second": "네이처셀",
+"second_ret": 10.78
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "아모텍",
+"lead_ret": 15.04,
+"second": "유티아이",
+"second_ret": 13.03
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.65,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 8.39,
+"second": "손오공",
+"second_ret": 4.1
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.28,
+"up5": 2,
+"lead": "조광페인트",
+"lead_ret": 9.29,
+"second": "SP삼화",
+"second_ret": 8.46
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.08,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 4.15,
+"second": "강스템바이오텍",
+"second_ret": 4.09
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.37,
+"up5": 2,
+"lead": "아가방컴퍼니",
+"lead_ret": 9.25,
+"second": "제로투세븐",
+"second_ret": 6.45
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.37,
+"up5": 1,
+"lead": "네이처셀",
+"lead_ret": 10.78,
+"second": "메디포스트",
+"second_ret": 4.15
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 2.25,
+"up5": 2,
+"lead": "아가방컴퍼니",
+"lead_ret": 9.25,
+"second": "제로투세븐",
+"second_ret": 6.45
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.22,
+"up5": 1,
+"lead": "한네트",
+"lead_ret": 9.09,
+"second": "케이씨에스",
+"second_ret": 4.87
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.21,
+"up5": 3,
+"lead": "강동씨앤엘",
+"lead_ret": 13.11,
+"second": "아세아시멘트",
+"second_ret": 9.21
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.11,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 6.23,
+"second": "진에어",
+"second_ret": 4.71
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 2.11,
+"up5": 3,
+"lead": "박셀바이오",
+"lead_ret": 12.96,
+"second": "앱클론",
+"second_ret": 10.34
+},
+{
+"name": "화장품",
+"n": 79,
+"avg": 2.08,
+"up5": 8,
+"lead": "케어젠",
+"lead_ret": 23.35,
+"second": "엔에프씨",
+"second_ret": 17.12
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 38,
+"avg": 2.07,
+"up5": 2,
+"lead": "화일약품",
+"lead_ret": 29.84,
+"second": "파루",
+"second_ret": 14.01
+}
+],
+"themes_worst": [
+{
+"name": "비료",
+"n": 10,
+"avg": -4.14,
+"up5": 0,
+"lead": "체시스",
+"lead_ret": 0.89,
+"second": "KG케미칼",
+"second_ret": -0.65
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -3.72,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": 4.63,
+"second": "우진비앤지",
+"second_ret": 1.21
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.58,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.23,
+"second": "샘표",
+"second_ret": 0.0
+},
+{
+"name": "농업",
+"n": 22,
+"avg": -3.45,
+"up5": 0,
+"lead": "그린생명과학",
+"lead_ret": 2.47,
+"second": "SB성보",
+"second_ret": 1.57
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.63,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 1.35,
+"second": "현대건설",
+"second_ret": -1.66
+}
+],
+"leaders": [
+{
+"name": "강동씨앤엘",
+"code": "198440",
+"ret": 13.11,
+"value": 4043,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 29.8,
+"value": 2629,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 12.96,
+"value": 1983,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 13.31,
+"value": 1303,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 29.84,
+"value": 795,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

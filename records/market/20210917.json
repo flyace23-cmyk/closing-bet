@@ -1,0 +1,254 @@
+{
+"date": "20210917",
+"kospi": 0.33,
+"kosdaq": 0.64,
+"adv": 862,
+"dec": 984,
+"flat": 185,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 217911,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "위메이드맥스",
+"lead_ret": 29.7,
+"second": "데브시스터즈",
+"second_ret": 18.2
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "HLB제넥스",
+"lead_ret": 15.12,
+"second": "한국비엔씨",
+"second_ret": 14.1
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "SFA넥셀",
+"lead_ret": 10.42,
+"second": "에코플라스틱",
+"second_ret": 10.3
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 6.59,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 29.9,
+"second": "KSS해운",
+"second_ret": 1.71
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.65,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 18.2,
+"second": "오로라",
+"second_ret": 2.93
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.41,
+"up5": 2,
+"lead": "에어부산",
+"lead_ret": 14.0,
+"second": "티웨이홀딩스",
+"second_ret": 6.86
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.9,
+"up5": 2,
+"lead": "에코플라스틱",
+"lead_ret": 10.3,
+"second": "디아이씨",
+"second_ret": 9.04
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 2.7,
+"up5": 8,
+"lead": "위메이드맥스",
+"lead_ret": 29.7,
+"second": "데브시스터즈",
+"second_ret": 18.2
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 2.39,
+"up5": 6,
+"lead": "한국비엔씨",
+"lead_ret": 14.1,
+"second": "케이바이오랩스",
+"second_ret": 8.59
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.3,
+"up5": 6,
+"lead": "위메이드맥스",
+"lead_ret": 29.7,
+"second": "네오위즈",
+"second_ret": 9.16
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 2.15,
+"up5": 1,
+"lead": "티씨케이",
+"lead_ret": 5.61,
+"second": "이오테크닉스",
+"second_ret": 3.22
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.01,
+"up5": 2,
+"lead": "네오위즈",
+"lead_ret": 9.16,
+"second": "코오롱인더",
+"second_ret": 7.92
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 1.96,
+"up5": 1,
+"lead": "에이루트",
+"lead_ret": 7.89,
+"second": "테스",
+"second_ret": 4.59
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 1.95,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 14.1,
+"second": "휴메딕스",
+"second_ret": 4.75
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 1.79,
+"up5": 2,
+"lead": "안트로젠",
+"lead_ret": 9.65,
+"second": "네이처셀",
+"second_ret": 5.98
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -3.1,
+"up5": 0,
+"lead": "엔피케이",
+"lead_ret": 0.64,
+"second": "유진기업",
+"second_ret": -0.2
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.35,
+"up5": 0,
+"lead": "우원개발",
+"lead_ret": 0.33,
+"second": "부산산업",
+"second_ret": 0.0
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": -2.13,
+"up5": 0,
+"lead": "한국알콜",
+"lead_ret": 1.09,
+"second": "국순당",
+"second_ret": 0.67
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.12,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 2.14,
+"second": "삼천리",
+"second_ret": 1.79
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -2.09,
+"up5": 0,
+"lead": "이렘",
+"lead_ret": 0.0,
+"second": "금강공업",
+"second_ret": -0.35
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 10.42,
+"value": 7067,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "데브시스터즈",
+"code": "194480",
+"ret": 18.2,
+"value": 4463,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 14.1,
+"value": 3647,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "에코플라스틱",
+"code": "038110",
+"ret": 10.3,
+"value": 3373,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 14.98,
+"value": 2357,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+}
+],
+"backfilled": true
+}

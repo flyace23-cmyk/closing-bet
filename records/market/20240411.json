@@ -1,0 +1,254 @@
+{
+"date": "20240411",
+"kospi": 0.07,
+"kosdaq": -0.14,
+"adv": 717,
+"dec": 1391,
+"flat": 142,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 189245,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "제이엔비",
+"lead_ret": 14.78,
+"second": "테크윙",
+"second_ret": 14.5
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "풍원정밀",
+"lead_ret": 29.9,
+"second": "램테크놀러지",
+"second_ret": 12.36
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "램테크놀러지",
+"lead_ret": 12.36,
+"second": "샘씨엔에스",
+"second_ret": 9.96
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 3.09,
+"up5": 6,
+"lead": "램테크놀러지",
+"lead_ret": 12.36,
+"second": "미래컴퍼니",
+"second_ret": 11.19
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 2.32,
+"up5": 2,
+"lead": "웰킵스하이텍",
+"lead_ret": 13.39,
+"second": "켐트로닉스",
+"second_ret": 10.47
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.22,
+"up5": 3,
+"lead": "금호타이어",
+"lead_ret": 9.26,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 8.04
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.16,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 15.4,
+"second": "대한약품",
+"second_ret": 0.0
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 2.11,
+"up5": 2,
+"lead": "풍원정밀",
+"lead_ret": 29.9,
+"second": "램테크놀러지",
+"second_ret": 12.36
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.1,
+"up5": 1,
+"lead": "미래컴퍼니",
+"lead_ret": 11.19,
+"second": "레이저쎌",
+"second_ret": 4.09
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 1.87,
+"up5": 5,
+"lead": "테크윙",
+"lead_ret": 14.5,
+"second": "디아이",
+"second_ret": 11.97
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 1.46,
+"up5": 11,
+"lead": "제이엔비",
+"lead_ret": 14.78,
+"second": "테크윙",
+"second_ret": 14.5
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.46,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 5.7,
+"second": "기아",
+"second_ret": 3.43
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": 1.24,
+"up5": 5,
+"lead": "테크윙",
+"lead_ret": 14.5,
+"second": "디아이",
+"second_ret": 11.97
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 1.16,
+"up5": 0,
+"lead": "자람테크놀로지",
+"lead_ret": 4.53,
+"second": "에이직랜드",
+"second_ret": 2.1
+},
+{
+"name": "반도체 재료/부품",
+"n": 67,
+"avg": 1.13,
+"up5": 4,
+"lead": "웰킵스하이텍",
+"lead_ret": 13.39,
+"second": "램테크놀러지",
+"second_ret": 12.36
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.16,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -0.56,
+"second": "샘표",
+"second_ret": -0.72
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -2.89,
+"up5": 0,
+"lead": "서암기계공업",
+"lead_ret": 1.24,
+"second": "루트K",
+"second_ret": 0.96
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -2.36,
+"up5": 0,
+"lead": "신대양제지",
+"lead_ret": 1.73,
+"second": "대림제지",
+"second_ret": 0.0
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.32,
+"up5": 0,
+"lead": "이건산업",
+"lead_ret": 2.29,
+"second": "효성오앤비",
+"second_ret": 0.82
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.32,
+"up5": 0,
+"lead": "이건산업",
+"lead_ret": 2.29,
+"second": "효성오앤비",
+"second_ret": 0.82
+}
+],
+"leaders": [
+{
+"name": "디아이",
+"code": "003160",
+"ret": 11.97,
+"value": 3192,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제이엔비",
+"code": "452160",
+"ret": 14.78,
+"value": 1624,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "샌즈랩",
+"code": "411080",
+"ret": 11.29,
+"value": 1474,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "테크윙",
+"code": "089030",
+"ret": 14.5,
+"value": 1021,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "켐트로닉스",
+"code": "089010",
+"ret": 10.47,
+"value": 960,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230109",
+"kospi": 2.63,
+"kosdaq": 1.78,
+"adv": 1808,
+"dec": 218,
+"flat": 102,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 109161,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 8,
+"lead": "휴림로봇",
+"lead_ret": 28.52,
+"second": "우림피티에스",
+"second_ret": 14.17
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "휴림로봇",
+"lead_ret": 28.52,
+"second": "셀바스AI",
+"second_ret": 16.14
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 3,
+"lead": "셀바스AI",
+"lead_ret": 16.14,
+"second": "NHN벅스",
+"second_ret": 8.25
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 5.57,
+"up5": 3,
+"lead": "휴림로봇",
+"lead_ret": 28.52,
+"second": "TPC로보틱스",
+"second_ret": 7.63
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 30,
+"avg": 5.15,
+"up5": 8,
+"lead": "MDS테크",
+"lead_ret": 29.97,
+"second": "우림피티에스",
+"second_ret": 14.17
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.65,
+"up5": 4,
+"lead": "금호타이어",
+"lead_ret": 10.42,
+"second": "효성티앤씨",
+"second_ret": 8.62
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 32,
+"avg": 4.63,
+"up5": 9,
+"lead": "MDS테크",
+"lead_ret": 29.97,
+"second": "휴림로봇",
+"second_ret": 28.52
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 60,
+"avg": 4.46,
+"up5": 20,
+"lead": "휴림로봇",
+"lead_ret": 28.52,
+"second": "우림피티에스",
+"second_ret": 14.17
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 4.31,
+"up5": 6,
+"lead": "이스트에이드",
+"lead_ret": 10.29,
+"second": "디앤씨미디어",
+"second_ret": 7.97
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 4.1,
+"up5": 11,
+"lead": "휴림로봇",
+"lead_ret": 28.52,
+"second": "셀바스AI",
+"second_ret": 16.14
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.97,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 29.97,
+"second": "모트렉스",
+"second_ret": 3.14
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.85,
+"up5": 1,
+"lead": "영우디에스피",
+"lead_ret": 15.33,
+"second": "LG전자",
+"second_ret": 4.85
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": 3.84,
+"up5": 1,
+"lead": "펨트론",
+"lead_ret": 20.0,
+"second": "SK하이닉스",
+"second_ret": 3.49
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.83,
+"up5": 5,
+"lead": "대한유화",
+"lead_ret": 9.39,
+"second": "효성화학",
+"second_ret": 8.65
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.77,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 8.62,
+"second": "우성머티리얼스",
+"second_ret": 8.48
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.55,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 2.06,
+"second": "코리안리",
+"second_ret": 0.13
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -0.04,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": 2.13,
+"second": "대원미디어",
+"second_ret": 1.63
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 0.01,
+"up5": 0,
+"lead": "리더스코스메틱",
+"lead_ret": 1.29,
+"second": "대영포장",
+"second_ret": 0.97
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 0.09,
+"up5": 0,
+"lead": "경동제약",
+"lead_ret": 4.22,
+"second": "광동제약",
+"second_ret": 1.7
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.18,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 3.16,
+"second": "파미셀",
+"second_ret": 1.91
+}
+],
+"leaders": [
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 28.52,
+"value": 2031,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 16.14,
+"value": 1486,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "리파인",
+"code": "377450",
+"ret": 11.96,
+"value": 768,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "우림피티에스",
+"code": "101170",
+"ret": 14.17,
+"value": 670,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "인탑스",
+"code": "049070",
+"ret": 11.11,
+"value": 513,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

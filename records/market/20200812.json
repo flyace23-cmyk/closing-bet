@@ -1,0 +1,254 @@
+{
+"date": "20200812",
+"kospi": 0.57,
+"kosdaq": -1.7,
+"adv": 613,
+"dec": 1196,
+"flat": 121,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 279173,
+"hot": [
+{
+"name": "전기차",
+"n": 5,
+"lead": "디와이덕양",
+"lead_ret": 29.97,
+"second": "인지컨트롤스",
+"second_ret": 29.91
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "디와이덕양",
+"lead_ret": 29.97,
+"second": "인지컨트롤스",
+"second_ret": 29.91
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "알루코",
+"lead_ret": 29.89,
+"second": "동국알앤에스",
+"second_ret": 29.81
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 9.51,
+"up5": 6,
+"lead": "노랑풍선",
+"lead_ret": 29.86,
+"second": "참좋은여행",
+"second_ret": 13.07
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.47,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 29.87,
+"second": "삼성바이오로직스",
+"second_ret": 4.85
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.44,
+"up5": 3,
+"lead": "파라다이스",
+"lead_ret": 10.33,
+"second": "롯데관광개발",
+"second_ret": 7.74
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.44,
+"up5": 3,
+"lead": "파라다이스",
+"lead_ret": 10.33,
+"second": "롯데관광개발",
+"second_ret": 7.74
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 4.03,
+"up5": 1,
+"lead": "광주신세계",
+"lead_ret": 7.19,
+"second": "롯데쇼핑",
+"second_ret": 4.35
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.95,
+"up5": 1,
+"lead": "한화손해보험",
+"lead_ret": 14.34,
+"second": "현대해상",
+"second_ret": 4.04
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.57,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 8.14,
+"second": "GS글로벌",
+"second_ret": 6.65
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 3.47,
+"up5": 4,
+"lead": "인지컨트롤스",
+"lead_ret": 29.91,
+"second": "원익피앤이",
+"second_ret": 29.77
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.31,
+"up5": 2,
+"lead": "JTC",
+"lead_ret": 6.72,
+"second": "호텔신라",
+"second_ret": 6.62
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 3.0,
+"up5": 2,
+"lead": "삼성물산",
+"lead_ret": 8.14,
+"second": "삼성생명",
+"second_ret": 5.51
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.9,
+"up5": 3,
+"lead": "파라다이스",
+"lead_ret": 10.33,
+"second": "롯데관광개발",
+"second_ret": 7.74
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.7,
+"up5": 3,
+"lead": "디와이덕양",
+"lead_ret": 29.97,
+"second": "오리엔트정공",
+"second_ret": 13.75
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 22,
+"avg": -3.83,
+"up5": 0,
+"lead": "한국파마",
+"lead_ret": 2.48,
+"second": "옵티팜",
+"second_ret": 0.39
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": -3.76,
+"up5": 2,
+"lead": "제놀루션",
+"lead_ret": 11.43,
+"second": "엑세스바이오",
+"second_ret": 9.4
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -3.71,
+"up5": 0,
+"lead": "바이오솔루션",
+"lead_ret": 0.5,
+"second": "풍전약품",
+"second_ret": -0.93
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 57,
+"avg": -3.64,
+"up5": 2,
+"lead": "제놀루션",
+"lead_ret": 11.43,
+"second": "엑세스바이오",
+"second_ret": 9.4
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.57,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -2.16,
+"second": "강스템바이오텍",
+"second_ret": -2.75
+}
+],
+"leaders": [
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 29.87,
+"value": 5132,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "한온시스템",
+"code": "018880",
+"ret": 10.09,
+"value": 2667,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 18.43,
+"value": 1947,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "유에스티",
+"code": "263770",
+"ret": 16.35,
+"value": 1683,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "KBG",
+"code": "318000",
+"ret": 12.11,
+"value": 1481,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

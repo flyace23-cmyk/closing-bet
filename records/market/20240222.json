@@ -1,0 +1,254 @@
+{
+"date": "20240222",
+"kospi": 0.41,
+"kosdaq": 0.7,
+"adv": 903,
+"dec": 1204,
+"flat": 132,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 223010,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "피에스케이홀딩스",
+"lead_ret": 21.45,
+"second": "그린리소스",
+"second_ret": 17.52
+},
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "앤씨앤",
+"lead_ret": 29.97,
+"second": "가온칩스",
+"second_ret": 29.92
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "에브리봇",
+"lead_ret": 13.48,
+"second": "제우스",
+"second_ret": 12.21
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 9.08,
+"up5": 5,
+"lead": "앤씨앤",
+"lead_ret": 29.97,
+"second": "에이직랜드",
+"second_ret": 15.61
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 6.08,
+"up5": 11,
+"lead": "가온칩스",
+"lead_ret": 29.92,
+"second": "유니퀘스트",
+"second_ret": 15.43
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 4.52,
+"up5": 14,
+"lead": "피에스케이홀딩스",
+"lead_ret": 21.45,
+"second": "제우스",
+"second_ret": 12.21
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 4.51,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.97,
+"second": "비츠로시스",
+"second_ret": 3.66
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 4.27,
+"up5": 2,
+"lead": "아이비김영",
+"lead_ret": 30.0,
+"second": "메가엠디",
+"second_ret": 6.49
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": 4.16,
+"up5": 18,
+"lead": "앤씨앤",
+"lead_ret": 29.97,
+"second": "가온칩스",
+"second_ret": 29.92
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.06,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 29.99,
+"second": "KG이니시스",
+"second_ret": 0.62
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 3.03,
+"up5": 20,
+"lead": "피에스케이홀딩스",
+"lead_ret": 21.45,
+"second": "그린리소스",
+"second_ret": 17.52
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.81,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 5.19,
+"second": "SK하이닉스",
+"second_ret": 5.03
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.64,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 30.0,
+"second": "신성델타테크",
+"second_ret": 11.76
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.58,
+"up5": 1,
+"lead": "티에스이",
+"lead_ret": 11.66,
+"second": "레이저쎌",
+"second_ret": 4.6
+},
+{
+"name": "보안주(물리)",
+"n": 18,
+"avg": 2.52,
+"up5": 2,
+"lead": "앤씨앤",
+"lead_ret": 29.97,
+"second": "이랜시스",
+"second_ret": 6.18
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.13,
+"up5": 0,
+"lead": "에스넷",
+"lead_ret": 4.71,
+"second": "아이티센씨티에스",
+"second_ret": 1.24
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.96,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 2.88,
+"second": "천보",
+"second_ret": 2.2
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.61,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.15,
+"second": "SBI인베스트먼트",
+"second_ret": -0.55
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.58,
+"up5": 0,
+"lead": "제이오",
+"lead_ret": 0.75,
+"second": "오픈베이스",
+"second_ret": -0.38
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.55,
+"up5": 0,
+"lead": "엔키AX",
+"lead_ret": 3.48,
+"second": "이스트에이드",
+"second_ret": 0.16
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 11.76,
+"value": 8405,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 29.92,
+"value": 6857,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 11.82,
+"value": 6278,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 15.58,
+"value": 5548,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 15.61,
+"value": 4804,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+}
+],
+"backfilled": true
+}

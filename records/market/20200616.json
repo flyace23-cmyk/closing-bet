@@ -1,0 +1,254 @@
+{
+"date": "20200616",
+"kospi": 5.28,
+"kosdaq": 6.09,
+"adv": 1803,
+"dec": 48,
+"flat": 63,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 218552,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "휴마시스",
+"lead_ret": 29.92,
+"second": "리가켐바이오",
+"second_ret": 26.06
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "텔콘RF제약",
+"lead_ret": 29.82,
+"second": "일양약품",
+"second_ret": 20.54
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "나노신소재",
+"lead_ret": 21.38,
+"second": "우리넷",
+"second_ret": 14.64
+}
+],
+"themes": [
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 8.64,
+"up5": 16,
+"lead": "에이비엘바이오",
+"lead_ret": 27.45,
+"second": "리가켐바이오",
+"second_ret": 26.06
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 8.38,
+"up5": 6,
+"lead": "이렘",
+"lead_ret": 30.0,
+"second": "하이스틸",
+"second_ret": 8.55
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 8.16,
+"up5": 12,
+"lead": "메타케어",
+"lead_ret": 14.35,
+"second": "테고사이언스",
+"second_ret": 13.89
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 8.14,
+"up5": 8,
+"lead": "세명전기",
+"lead_ret": 10.74,
+"second": "특수건설",
+"second_ret": 9.83
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 7.76,
+"up5": 7,
+"lead": "이연제약",
+"lead_ret": 16.79,
+"second": "아이진",
+"second_ret": 14.23
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 7.62,
+"up5": 8,
+"lead": "DSC인베스트먼트",
+"lead_ret": 14.13,
+"second": "네오위즈",
+"second_ret": 10.75
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 7.55,
+"up5": 14,
+"lead": "리가켐바이오",
+"lead_ret": 26.06,
+"second": "현대바이오",
+"second_ret": 20.08
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 7.48,
+"up5": 4,
+"lead": "JW중외제약",
+"lead_ret": 12.45,
+"second": "티앤알바이오팹",
+"second_ret": 11.34
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 7.17,
+"up5": 8,
+"lead": "두산밥캣",
+"lead_ret": 18.05,
+"second": "HD건설기계",
+"second_ret": 13.8
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 7.16,
+"up5": 8,
+"lead": "유니퀘스트",
+"lead_ret": 27.7,
+"second": "에프에스티",
+"second_ret": 14.52
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": 7.12,
+"up5": 36,
+"lead": "휴마시스",
+"lead_ret": 29.92,
+"second": "리가켐바이오",
+"second_ret": 26.06
+},
+{
+"name": "육계",
+"n": 8,
+"avg": 7.04,
+"up5": 5,
+"lead": "마니커에프앤지",
+"lead_ret": 11.97,
+"second": "푸드나무",
+"second_ret": 11.54
+}
+],
+"themes_worst": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.01,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 10.72,
+"second": "삼천리",
+"second_ret": 3.11
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.51,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 4.87,
+"second": "현대백화점",
+"second_ret": 3.6
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.7,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 6.08,
+"second": "HMM",
+"second_ret": 3.26
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 2.75,
+"up5": 6,
+"lead": "케이알엠",
+"lead_ret": 7.56,
+"second": "한빛소프트",
+"second_ret": 6.67
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.89,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 4.53,
+"second": "에피소드컴퍼니",
+"second_ret": 3.18
+}
+],
+"leaders": [
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 10.9,
+"value": 7504,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 27.45,
+"value": 6570,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "LG화학",
+"code": "051910",
+"ret": 13.9,
+"value": 5636,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 13.68,
+"value": 5158,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 20.54,
+"value": 3697,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

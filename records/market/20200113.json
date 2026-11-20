@@ -1,0 +1,254 @@
+{
+"date": "20200113",
+"kospi": 1.04,
+"kosdaq": 0.92,
+"adv": 1230,
+"dec": 510,
+"flat": 162,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 111437,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "한국화장품",
+"lead_ret": 23.48,
+"second": "코리아나",
+"second_ret": 15.94
+},
+{
+"name": "엔터테인먼트",
+"n": 4,
+"lead": "JYP Ent.",
+"lead_ret": 10.85,
+"second": "키이스트",
+"second_ret": 10.25
+},
+{
+"name": "건강기능식품",
+"n": 3,
+"lead": "비피도",
+"lead_ret": 13.22,
+"second": "경남제약",
+"second_ret": 10.14
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 4.42,
+"up5": 5,
+"lead": "JYP Ent.",
+"lead_ret": 10.85,
+"second": "와이지엔터테인먼트",
+"second_ret": 9.29
+},
+{
+"name": "화장품",
+"n": 70,
+"avg": 4.42,
+"up5": 22,
+"lead": "한국화장품",
+"lead_ret": 23.48,
+"second": "코리아나",
+"second_ret": 15.94
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.71,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 13.85,
+"second": "글로벌텍스프리",
+"second_ret": 5.92
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 3.66,
+"up5": 7,
+"lead": "JYP Ent.",
+"lead_ret": 10.85,
+"second": "키이스트",
+"second_ret": 10.25
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 3.61,
+"up5": 7,
+"lead": "JYP Ent.",
+"lead_ret": 10.85,
+"second": "키이스트",
+"second_ret": 10.25
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.42,
+"up5": 2,
+"lead": "모두투어",
+"lead_ret": 7.12,
+"second": "SM C&C",
+"second_ret": 6.02
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 3.08,
+"up5": 3,
+"lead": "메디톡스",
+"lead_ret": 8.27,
+"second": "파마리서치",
+"second_ret": 7.49
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.9,
+"up5": 2,
+"lead": "체시스",
+"lead_ret": 9.31,
+"second": "조비",
+"second_ret": 5.65
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.81,
+"up5": 1,
+"lead": "이월드",
+"lead_ret": 7.77,
+"second": "현대건설",
+"second_ret": 4.64
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 2.68,
+"up5": 2,
+"lead": "제로투세븐",
+"lead_ret": 12.27,
+"second": "삼익악기",
+"second_ret": 8.49
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.67,
+"up5": 2,
+"lead": "오가닉티코스메틱",
+"lead_ret": 5.6,
+"second": "로스웰",
+"second_ret": 5.25
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.63,
+"up5": 5,
+"lead": "남화토건",
+"lead_ret": 12.27,
+"second": "조비",
+"second_ret": 5.65
+}
+],
+"themes_worst": [
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.09,
+"up5": 0,
+"lead": "미창석유",
+"lead_ret": 0.66,
+"second": "SK이노베이션",
+"second_ret": 0.0
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -0.7,
+"up5": 0,
+"lead": "서한",
+"lead_ret": 2.15,
+"second": "태영건설",
+"second_ret": 0.41
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -0.64,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 1.96,
+"second": "미래컴퍼니",
+"second_ret": 0.29
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 21,
+"avg": -0.63,
+"up5": 0,
+"lead": "루멘스바이오스",
+"lead_ret": 2.6,
+"second": "SKC",
+"second_ret": 2.15
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": -0.6,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 1.57,
+"second": "선익시스템",
+"second_ret": 0.39
+}
+],
+"leaders": [
+{
+"name": "키이스트",
+"code": "054780",
+"ret": 10.25,
+"value": 8111,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "한국화장품",
+"code": "123690",
+"ret": 23.48,
+"value": 2611,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "코리아나",
+"code": "027050",
+"ret": 15.94,
+"value": 1437,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "서원",
+"code": "021050",
+"ret": 29.93,
+"value": 1175,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "JYP Ent.",
+"code": "035900",
+"ret": 10.85,
+"value": 724,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

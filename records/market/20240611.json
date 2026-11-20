@@ -1,0 +1,254 @@
+{
+"date": "20240611",
+"kospi": 0.15,
+"kosdaq": 0.42,
+"adv": 826,
+"dec": 1270,
+"flat": 162,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 212858,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "나노신소재",
+"second_ret": 17.62
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "케스피온",
+"lead_ret": 17.15,
+"second": "엑스플러스",
+"second_ret": 13.11
+},
+{
+"name": "태양광에너지",
+"n": 3,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "나노신소재",
+"second_ret": 17.62
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.89,
+"up5": 3,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "한화솔루션",
+"second_ret": 8.74
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 4.59,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 17.22,
+"second": "우양",
+"second_ret": 5.51
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.26,
+"up5": 9,
+"lead": "리튬포어스",
+"lead_ret": 13.33,
+"second": "포스코엠텍",
+"second_ret": 10.81
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 3.94,
+"up5": 2,
+"lead": "국순당",
+"lead_ret": 30.0,
+"second": "보해양조",
+"second_ret": 9.98
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 3.79,
+"up5": 8,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "롯데에너지머티리얼즈",
+"second_ret": 8.49
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.28,
+"up5": 2,
+"lead": "제이오",
+"lead_ret": 7.92,
+"second": "금호석유화학",
+"second_ret": 5.89
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 2.81,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "코스모신소재",
+"second_ret": 3.14
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.73,
+"up5": 6,
+"lead": "한화솔루션",
+"lead_ret": 8.74,
+"second": "롯데케미칼",
+"second_ret": 8.61
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 2.48,
+"up5": 6,
+"lead": "풍원정밀",
+"lead_ret": 10.01,
+"second": "한화솔루션",
+"second_ret": 8.74
+},
+{
+"name": "2차전지(장비)",
+"n": 42,
+"avg": 2.38,
+"up5": 6,
+"lead": "엔시스",
+"lead_ret": 12.29,
+"second": "아바코",
+"second_ret": 8.47
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 71,
+"avg": 2.29,
+"up5": 15,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "나노신소재",
+"second_ret": 17.62
+},
+{
+"name": "2차전지",
+"n": 132,
+"avg": 2.13,
+"up5": 22,
+"lead": "대주전자재료",
+"lead_ret": 26.56,
+"second": "나노신소재",
+"second_ret": 17.62
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -3.16,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -2.05,
+"second": "팬오션",
+"second_ret": -2.26
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.05,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 0.0,
+"second": "대한전선",
+"second_ret": -1.91
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -2.95,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": -0.6,
+"second": "한전KPS",
+"second_ret": -1.1
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -2.45,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": 2.41,
+"second": "이랜텍",
+"second_ret": 2.2
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -2.41,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.16,
+"second": "LG화학",
+"second_ret": 1.21
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 12.06,
+"value": 8426,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "대주전자재료",
+"code": "078600",
+"ret": 26.56,
+"value": 6304,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "나노신소재",
+"code": "121600",
+"ret": 17.62,
+"value": 3704,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 14.13,
+"value": 2925,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "휴젤",
+"code": "145020",
+"ret": 13.62,
+"value": 2159,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+}
+],
+"backfilled": true
+}

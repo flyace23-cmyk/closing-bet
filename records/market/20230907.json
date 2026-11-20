@@ -1,0 +1,254 @@
+{
+"date": "20230907",
+"kospi": -0.59,
+"kosdaq": -1.26,
+"adv": 460,
+"dec": 1625,
+"flat": 102,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 217570,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 10,
+"lead": "대동기어",
+"lead_ret": 30.02,
+"second": "아진엑스텍",
+"second_ret": 29.93
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "펨트론",
+"lead_ret": 29.92,
+"second": "에스티아이",
+"second_ret": 16.64
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "유진로봇",
+"lead_ret": 25.22,
+"second": "휴림로봇",
+"second_ret": 14.22
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 17,
+"avg": 3.8,
+"up5": 4,
+"lead": "HB테크놀러지",
+"lead_ret": 29.9,
+"second": "필옵틱스",
+"second_ret": 15.46
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 61,
+"avg": 3.56,
+"up5": 13,
+"lead": "대동기어",
+"lead_ret": 30.02,
+"second": "아진엑스텍",
+"second_ret": 29.93
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.23,
+"up5": 2,
+"lead": "에스티아이",
+"lead_ret": 16.64,
+"second": "휴림로봇",
+"second_ret": 14.22
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.86,
+"up5": 1,
+"lead": "펨트론",
+"lead_ret": 29.92,
+"second": "티엘비",
+"second_ret": 4.0
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": 2.53,
+"up5": 6,
+"lead": "아진엑스텍",
+"lead_ret": 29.93,
+"second": "이랜시스",
+"second_ret": 29.9
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.52,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 17.12,
+"second": "중앙에너비스",
+"second_ret": 5.36
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.52,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 17.12,
+"second": "중앙에너비스",
+"second_ret": 5.36
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.86,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 17.12,
+"second": "미창석유",
+"second_ret": 0.56
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 34,
+"avg": 1.64,
+"up5": 4,
+"lead": "아진엑스텍",
+"lead_ret": 29.93,
+"second": "휴림로봇",
+"second_ret": 14.22
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.63,
+"up5": 3,
+"lead": "대동기어",
+"lead_ret": 30.02,
+"second": "대동금속",
+"second_ret": 16.79
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.26,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 17.12,
+"second": "HD현대",
+"second_ret": 5.46
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.99,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 6.3,
+"second": "대성에너지",
+"second_ret": 3.73
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -3.38,
+"up5": 0,
+"lead": "포스코엠텍",
+"lead_ret": 1.34,
+"second": "후성",
+"second_ret": -0.84
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": -3.23,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": 2.77,
+"second": "알체라",
+"second_ret": 0.91
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -2.94,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -1.16,
+"second": "삼성SDI",
+"second_ret": -1.33
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.59,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": -0.82,
+"second": "SK이노베이션",
+"second_ret": -1.03
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 66,
+"avg": -2.56,
+"up5": 0,
+"lead": "엠케이전자",
+"lead_ret": 2.02,
+"second": "글로벌에스엠",
+"second_ret": 1.86
+}
+],
+"leaders": [
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 25.22,
+"value": 4838,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대동",
+"code": "000490",
+"ret": 10.61,
+"value": 4049,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "HB테크놀러지",
+"code": "078150",
+"ret": 29.9,
+"value": 2211,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "펨트론",
+"code": "168360",
+"ret": 29.92,
+"value": 1449,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "YTN",
+"code": "040300",
+"ret": 14.14,
+"value": 1445,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

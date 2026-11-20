@@ -1,0 +1,254 @@
+{
+"date": "20250403",
+"kospi": -0.76,
+"kosdaq": -0.2,
+"adv": 763,
+"dec": 1443,
+"flat": 141,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 131514,
+"hot": [
+{
+"name": "지역화폐",
+"n": 3,
+"lead": "유라클",
+"lead_ret": 29.95,
+"second": "웹케시",
+"second_ret": 26.96
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "iMBC",
+"lead_ret": 11.07,
+"second": "위세아이텍",
+"second_ret": 7.85
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "웹스",
+"lead_ret": 30.0,
+"second": "평화산업",
+"second_ret": 21.47
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 15.2,
+"up5": 4,
+"lead": "유라클",
+"lead_ret": 29.95,
+"second": "웹케시",
+"second_ret": 26.96
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 3.51,
+"up5": 2,
+"lead": "원티드랩",
+"lead_ret": 12.55,
+"second": "대성창투",
+"second_ret": 6.19
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 2.66,
+"up5": 1,
+"lead": "유라클",
+"lead_ret": 29.95,
+"second": "팬스타엔터프라이즈",
+"second_ret": 2.48
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.51,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 6.48,
+"second": "한화오션",
+"second_ret": 2.87
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.18,
+"up5": 2,
+"lead": "iMBC",
+"lead_ret": 11.07,
+"second": "KNN",
+"second_ret": 5.62
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.07,
+"up5": 2,
+"lead": "금강공업",
+"lead_ret": 10.18,
+"second": "넥스틸",
+"second_ret": 8.18
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.72,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 6.73,
+"second": "유한양행",
+"second_ret": 3.37
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.61,
+"up5": 1,
+"lead": "웹스",
+"lead_ret": 30.0,
+"second": "삼륭물산",
+"second_ret": 2.23
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.51,
+"up5": 1,
+"lead": "소프트캠프",
+"lead_ret": 30.02,
+"second": "오파스넷",
+"second_ret": 1.25
+},
+{
+"name": "출산장려정책",
+"n": 20,
+"avg": 1.38,
+"up5": 1,
+"lead": "에르코스",
+"lead_ret": 20.0,
+"second": "아가방컴퍼니",
+"second_ret": 3.72
+},
+{
+"name": "리모델링/인테리어",
+"n": 24,
+"avg": 1.31,
+"up5": 2,
+"lead": "에넥스",
+"lead_ret": 29.97,
+"second": "동화기업",
+"second_ret": 17.95
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 1.19,
+"up5": 2,
+"lead": "애드바이오텍",
+"lead_ret": 10.59,
+"second": "우성",
+"second_ret": 7.66
+}
+],
+"themes_worst": [
+{
+"name": "아이폰",
+"n": 20,
+"avg": -3.31,
+"up5": 0,
+"lead": "이녹스첨단소재",
+"lead_ret": -0.23,
+"second": "프로텍",
+"second_ret": -0.23
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -3.01,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": -1.42,
+"second": "넥센",
+"second_ret": -1.51
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.7,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -1.01,
+"second": "SK스퀘어",
+"second_ret": -1.4
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.54,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": -0.09,
+"second": "SK하이닉스",
+"second_ret": -1.67
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.31,
+"up5": 0,
+"lead": "GS",
+"lead_ret": -0.82,
+"second": "극동유화",
+"second_ret": -0.9
+}
+],
+"leaders": [
+{
+"name": "유일로보틱스",
+"code": "388720",
+"ret": 28.08,
+"value": 1693,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "미트박스",
+"code": "475460",
+"ret": 22.46,
+"value": 1594,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "iMBC",
+"code": "052220",
+"ret": 11.07,
+"value": 1394,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "웹케시",
+"code": "053580",
+"ret": 26.96,
+"value": 926,
+"theme": "지역화폐",
+"reason": "테마: 지역화폐"
+},
+{
+"name": "유라클",
+"code": "088340",
+"ret": 29.95,
+"value": 846,
+"theme": "지역화폐",
+"reason": "테마: 지역화폐"
+}
+],
+"backfilled": true
+}

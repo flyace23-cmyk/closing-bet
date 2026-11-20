@@ -1,0 +1,254 @@
+{
+"date": "20201126",
+"kospi": 0.94,
+"kosdaq": 1.09,
+"adv": 920,
+"dec": 839,
+"flat": 198,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 256648,
+"hot": [
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "인터플렉스",
+"lead_ret": 14.13,
+"second": "기가레인",
+"second_ret": 13.58
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "GH신소재",
+"lead_ret": 29.8,
+"second": "서연탑메탈",
+"second_ret": 9.86
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 3,
+"lead": "GH신소재",
+"lead_ret": 29.8,
+"second": "에스와이",
+"second_ret": 14.74
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 10.69,
+"up5": 4,
+"lead": "GH신소재",
+"lead_ret": 29.8,
+"second": "에스와이",
+"second_ret": 14.74
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.21,
+"up5": 3,
+"lead": "국전",
+"lead_ret": 14.06,
+"second": "멕아이씨에스",
+"second_ret": 9.15
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 4.14,
+"up5": 3,
+"lead": "페이퍼코리아",
+"lead_ret": 29.95,
+"second": "아세아제지",
+"second_ret": 8.35
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.97,
+"up5": 2,
+"lead": "이씨에스",
+"lead_ret": 29.79,
+"second": "태경케미컬",
+"second_ret": 5.7
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 3.68,
+"up5": 3,
+"lead": "풍전약품",
+"lead_ret": 20.24,
+"second": "코아스템켐온",
+"second_ret": 13.51
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.13,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 4.95,
+"second": "우양",
+"second_ret": 4.43
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.12,
+"up5": 1,
+"lead": "링네트",
+"lead_ret": 24.62,
+"second": "아이티센씨티에스",
+"second_ret": 1.89
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 7,
+"avg": 3.02,
+"up5": 1,
+"lead": "심텍",
+"lead_ret": 6.07,
+"second": "엠케이전자",
+"second_ret": 4.82
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.95,
+"up5": 5,
+"lead": "이씨에스",
+"lead_ret": 29.79,
+"second": "링네트",
+"second_ret": 24.62
+},
+{
+"name": "쿠팡(coupang)",
+"n": 17,
+"avg": 2.66,
+"up5": 3,
+"lead": "서울식품",
+"lead_ret": 20.25,
+"second": "아틀라스링크",
+"second_ret": 9.22
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.59,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 10.06,
+"second": "중앙에너비스",
+"second_ret": 8.63
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.59,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 10.06,
+"second": "중앙에너비스",
+"second_ret": 8.63
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.82,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": -0.48,
+"second": "현대백화점",
+"second_ret": -0.98
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.64,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "글로벌에스엠",
+"second_ret": -0.37
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -2.22,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": -0.37,
+"second": "디케이락",
+"second_ret": -1.44
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.72,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.29,
+"second": "코텍",
+"second_ret": -0.88
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.72,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.29,
+"second": "코텍",
+"second_ret": -0.88
+}
+],
+"leaders": [
+{
+"name": "콜마바이오텍",
+"code": "215380",
+"ret": 12.17,
+"value": 3690,
+"theme": "코로나19(음압병실/음압구급차)",
+"reason": "테마: 코로나19(음압병실/음압구급차)"
+},
+{
+"name": "GH신소재",
+"code": "130500",
+"ret": 29.8,
+"value": 3311,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "링네트",
+"code": "042500",
+"ret": 24.62,
+"value": 2385,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "풍전약품",
+"code": "298060",
+"ret": 20.24,
+"value": 2357,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "한국팩키지",
+"code": "037230",
+"ret": 12.92,
+"value": 2333,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+}
+],
+"backfilled": true
+}

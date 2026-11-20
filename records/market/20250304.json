@@ -1,0 +1,254 @@
+{
+"date": "20250304",
+"kospi": -0.15,
+"kosdaq": -0.81,
+"adv": 663,
+"dec": 1580,
+"flat": 95,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 181358,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 13,
+"lead": "HJ중공업",
+"lead_ret": 30.0,
+"second": "한일단조",
+"second_ret": 29.81
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 3,
+"lead": "넥스틸",
+"lead_ret": 26.25,
+"second": "휴스틸",
+"second_ret": 14.4
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "신송홀딩스",
+"lead_ret": 15.77,
+"second": "HD한국조선해양",
+"second_ret": 10.05
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 12.58,
+"up5": 4,
+"lead": "HJ중공업",
+"lead_ret": 30.0,
+"second": "한화오션",
+"second_ret": 14.54
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.09,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 15.77,
+"second": "미래생명자원",
+"second_ret": 5.09
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 5.04,
+"up5": 3,
+"lead": "넥스틸",
+"lead_ret": 26.25,
+"second": "휴스틸",
+"second_ret": 14.4
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 64,
+"avg": 4.43,
+"up5": 24,
+"lead": "HJ중공업",
+"lead_ret": 30.0,
+"second": "대성하이텍",
+"second_ret": 29.97
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.16,
+"up5": 5,
+"lead": "한화에어로스페이스",
+"lead_ret": 18.01,
+"second": "켄코아에어로스페이스",
+"second_ret": 8.86
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 3.0,
+"up5": 8,
+"lead": "한화에어로스페이스",
+"lead_ret": 18.01,
+"second": "케이알엠",
+"second_ret": 14.62
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.81,
+"up5": 2,
+"lead": "대성하이텍",
+"lead_ret": 29.97,
+"second": "SNT다이내믹스",
+"second_ret": 11.4
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.66,
+"up5": 8,
+"lead": "한화에어로스페이스",
+"lead_ret": 18.01,
+"second": "현대로템",
+"second_ret": 10.87
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 2.5,
+"up5": 4,
+"lead": "HJ중공업",
+"lead_ret": 30.0,
+"second": "HD한국조선해양",
+"second_ret": 10.05
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.47,
+"up5": 2,
+"lead": "휴스틸",
+"lead_ret": 14.4,
+"second": "세아제강",
+"second_ret": 9.89
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.3,
+"up5": 2,
+"lead": "비엠티",
+"lead_ret": 5.51,
+"second": "태광",
+"second_ret": 5.25
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 1.76,
+"up5": 5,
+"lead": "STX엔진",
+"lead_ret": 6.83,
+"second": "일승",
+"second_ret": 6.3
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -4.72,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 2.93,
+"second": "LB인베스트먼트",
+"second_ret": 0.13
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": -4.66,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 6.0,
+"second": "삼성전기",
+"second_ret": 1.33
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.58,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 6.0,
+"second": "디아이씨",
+"second_ret": -0.22
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.27,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": -1.16,
+"second": "대보마그네틱",
+"second_ret": -1.28
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -4.21,
+"up5": 0,
+"lead": "금호석유화학",
+"lead_ret": 1.73,
+"second": "상보",
+"second_ret": -1.97
+}
+],
+"leaders": [
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 14.54,
+"value": 14307,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 18.01,
+"value": 8814,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "넥스틸",
+"code": "092790",
+"ret": 26.25,
+"value": 2555,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "삼현",
+"code": "437730",
+"ret": 10.79,
+"value": 2025,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "휴스틸",
+"code": "005010",
+"ret": 14.4,
+"value": 2010,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+}
+],
+"backfilled": true
+}

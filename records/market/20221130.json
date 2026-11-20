@@ -1,0 +1,254 @@
+{
+"date": "20221130",
+"kospi": 1.61,
+"kosdaq": 0.27,
+"adv": 1232,
+"dec": 679,
+"flat": 212,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 157895,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "태영건설",
+"lead_ret": 10.2,
+"second": "동부건설",
+"second_ret": 8.99
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "대성하이텍",
+"lead_ret": 29.99,
+"second": "기산텔레콤",
+"second_ret": 7.87
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "KG모빌리티플랫폼",
+"lead_ret": 11.33,
+"second": "포스코DX",
+"second_ret": 9.86
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 4.67,
+"up5": 3,
+"lead": "경동도시가스",
+"lead_ret": 16.87,
+"second": "인천도시가스",
+"second_ret": 6.88
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.23,
+"up5": 1,
+"lead": "포스코스틸리온",
+"lead_ret": 29.87,
+"second": "한국철강",
+"second_ret": 2.44
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 3.37,
+"up5": 2,
+"lead": "대성하이텍",
+"lead_ret": 29.99,
+"second": "SNT다이내믹스",
+"second_ret": 7.77
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.7,
+"up5": 1,
+"lead": "태영건설",
+"lead_ret": 10.2,
+"second": "웰크론한텍",
+"second_ret": 3.03
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.66,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 11.5,
+"second": "우리금융지주",
+"second_ret": 2.77
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.64,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 4.83,
+"second": "삼성생명",
+"second_ret": 3.82
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 2.5,
+"up5": 5,
+"lead": "태영건설",
+"lead_ret": 10.2,
+"second": "동부건설",
+"second_ret": 8.99
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 2.29,
+"up5": 3,
+"lead": "경동도시가스",
+"lead_ret": 16.87,
+"second": "인천도시가스",
+"second_ret": 6.88
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.04,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 4.05,
+"second": "삼성에스디에스",
+"second_ret": 2.82
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 2.02,
+"up5": 0,
+"lead": "켐트로닉스",
+"lead_ret": 4.41,
+"second": "LG전자",
+"second_ret": 4.05
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 1.97,
+"up5": 1,
+"lead": "루멘스바이오스",
+"lead_ret": 7.51,
+"second": "LG전자",
+"second_ret": 4.05
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": 1.89,
+"up5": 5,
+"lead": "포스코DX",
+"lead_ret": 9.86,
+"second": "신세계 I&C",
+"second_ret": 5.88
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -1.52,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 0.69,
+"second": "리튬포어스",
+"second_ret": 0.0
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -1.2,
+"up5": 0,
+"lead": "NEW",
+"lead_ret": 2.79,
+"second": "롯데쇼핑",
+"second_ret": 0.48
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.99,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 0.35,
+"second": "강스템바이오텍",
+"second_ret": 0.13
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.98,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.5,
+"second": "삼성바이오로직스",
+"second_ret": 0.23
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": -0.96,
+"up5": 0,
+"lead": "NEW",
+"lead_ret": 2.79,
+"second": "에프엔씨엔터",
+"second_ret": 2.38
+}
+],
+"leaders": [
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 11.5,
+"value": 1132,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "대성하이텍",
+"code": "129920",
+"ret": 29.99,
+"value": 1086,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "영진약품",
+"code": "003520",
+"ret": 21.19,
+"value": 822,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "유라테크",
+"code": "048430",
+"ret": 16.57,
+"value": 795,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "경동도시가스",
+"code": "267290",
+"ret": 16.87,
+"value": 590,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

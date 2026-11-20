@@ -1,0 +1,246 @@
+{
+"date": "20210827",
+"kospi": 0.17,
+"kosdaq": 0.3,
+"adv": 1206,
+"dec": 628,
+"flat": 194,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 212458,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 8,
+"lead": "평화산업",
+"lead_ret": 22.57,
+"second": "모토닉",
+"second_ret": 12.86
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "케이알엠",
+"lead_ret": 29.9,
+"second": "TPC로보틱스",
+"second_ret": 8.08
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 5.24,
+"up5": 3,
+"lead": "한국선재",
+"lead_ret": 25.33,
+"second": "디케이락",
+"second_ret": 8.7
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.72,
+"up5": 2,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 26.21,
+"second": "SIMPAC",
+"second_ret": 7.64
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.69,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 25.33,
+"second": "우원개발",
+"second_ret": 3.48
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 64,
+"avg": 3.34,
+"up5": 19,
+"lead": "평화산업",
+"lead_ret": 22.57,
+"second": "모토닉",
+"second_ret": 12.86
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.04,
+"up5": 2,
+"lead": "코오롱인더",
+"lead_ret": 9.15,
+"second": "대한화섬",
+"second_ret": 6.15
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.72,
+"up5": 2,
+"lead": "스페코",
+"lead_ret": 7.15,
+"second": "HC보광산업",
+"second_ret": 6.31
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.57,
+"up5": 1,
+"lead": "소프트센",
+"lead_ret": 17.76,
+"second": "EG",
+"second_ret": 3.49
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 2.2,
+"up5": 3,
+"lead": "케이알엠",
+"lead_ret": 29.9,
+"second": "인지컨트롤스",
+"second_ret": 7.72
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.82,
+"up5": 2,
+"lead": "인지컨트롤스",
+"lead_ret": 7.72,
+"second": "LS ELECTRIC",
+"second_ret": 5.88
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.79,
+"up5": 1,
+"lead": "솔디펜스",
+"lead_ret": 6.17,
+"second": "신화프리텍",
+"second_ret": 4.38
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.76,
+"up5": 0,
+"lead": "중앙에너비스",
+"lead_ret": 4.91,
+"second": "흥구석유",
+"second_ret": 4.76
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.76,
+"up5": 0,
+"lead": "중앙에너비스",
+"lead_ret": 4.91,
+"second": "흥구석유",
+"second_ret": 4.76
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.33,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": 0.98,
+"second": "엠케이전자",
+"second_ret": 0.19
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -1.27,
+"up5": 0,
+"lead": "감성코퍼레이션",
+"lead_ret": 2.39,
+"second": "티사이언티픽",
+"second_ret": 0.94
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -1.25,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 0.77,
+"second": "아이티센글로벌",
+"second_ret": 0.38
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -1.25,
+"up5": 0,
+"lead": "핑거",
+"lead_ret": 1.79,
+"second": "아톤",
+"second_ret": 0.72
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -1.15,
+"up5": 0,
+"lead": "KG이니시스",
+"lead_ret": 1.36,
+"second": "한국정보통신",
+"second_ret": 0.77
+}
+],
+"leaders": [
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 25.33,
+"value": 5441,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 10.06,
+"value": 4116,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "파인테크닉스",
+"code": "106240",
+"ret": 13.86,
+"value": 3907,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "넥스턴앤롤코리아",
+"code": "089140",
+"ret": 26.21,
+"value": 2579,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "소프트센",
+"code": "032680",
+"ret": 17.76,
+"value": 1789,
+"theme": "2차전지(LFP/리튬인산철)",
+"reason": "테마: 2차전지(LFP/리튬인산철)"
+}
+],
+"backfilled": true
+}

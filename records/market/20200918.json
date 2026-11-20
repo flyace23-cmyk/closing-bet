@@ -1,0 +1,254 @@
+{
+"date": "20200918",
+"kospi": 0.26,
+"kosdaq": 0.42,
+"adv": 846,
+"dec": 927,
+"flat": 165,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 358466,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "신성델타테크",
+"lead_ret": 29.97,
+"second": "아바코",
+"second_ret": 14.16
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "신풍제약",
+"lead_ret": 29.84,
+"second": "일양약품",
+"second_ret": 23.45
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "현대이지웰",
+"lead_ret": 15.64,
+"second": "태웅로직스",
+"second_ret": 12.45
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 6.97,
+"up5": 2,
+"lead": "한국팩키지",
+"lead_ret": 29.99,
+"second": "삼륭물산",
+"second_ret": 22.84
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.7,
+"up5": 1,
+"lead": "흥국화재",
+"lead_ret": 15.43,
+"second": "한화손해보험",
+"second_ret": 3.44
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.63,
+"up5": 3,
+"lead": "신성델타테크",
+"lead_ret": 29.97,
+"second": "인지디스플레",
+"second_ret": 5.74
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 7,
+"avg": 2.43,
+"up5": 2,
+"lead": "엠케이전자",
+"lead_ret": 8.68,
+"second": "코리아써키트",
+"second_ret": 5.62
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 22,
+"avg": 2.24,
+"up5": 4,
+"lead": "신풍제약",
+"lead_ret": 29.84,
+"second": "JW중외제약",
+"second_ret": 7.51
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 2.11,
+"up5": 2,
+"lead": "야스",
+"lead_ret": 7.41,
+"second": "대주전자재료",
+"second_ret": 7.26
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": 2.07,
+"up5": 5,
+"lead": "아바코",
+"lead_ret": 14.16,
+"second": "엠플러스",
+"second_ret": 8.74
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 1.97,
+"up5": 2,
+"lead": "아미노로직스",
+"lead_ret": 14.72,
+"second": "에스티팜",
+"second_ret": 6.78
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 1.79,
+"up5": 2,
+"lead": "미래컴퍼니",
+"lead_ret": 8.48,
+"second": "탑엔지니어링",
+"second_ret": 5.18
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.71,
+"up5": 2,
+"lead": "아이텍",
+"lead_ret": 17.29,
+"second": "다산솔루에타",
+"second_ret": 5.99
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 1.65,
+"up5": 2,
+"lead": "동일기연",
+"lead_ret": 6.5,
+"second": "다산솔루에타",
+"second_ret": 5.99
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 1.65,
+"up5": 3,
+"lead": "메디톡스",
+"lead_ret": 6.34,
+"second": "한국비엔씨",
+"second_ret": 5.95
+}
+],
+"themes_worst": [
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": -2.0,
+"up5": 0,
+"lead": "이니텍",
+"lead_ret": 0.75,
+"second": "카카오",
+"second_ret": 0.54
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": -1.96,
+"up5": 1,
+"lead": "와이지-원",
+"lead_ret": 6.1,
+"second": "스맥",
+"second_ret": 0.67
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.8,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 0.98,
+"second": "현대모비스",
+"second_ret": -0.83
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": -1.33,
+"up5": 0,
+"lead": "풍국주정",
+"lead_ret": 0.87,
+"second": "진로발효",
+"second_ret": 0.49
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": -1.23,
+"up5": 1,
+"lead": "나노실리칸첨단소재",
+"lead_ret": 7.18,
+"second": "헥토이노베이션",
+"second_ret": 4.26
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 29.84,
+"value": 22081,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 23.45,
+"value": 7129,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 29.97,
+"value": 4350,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한국팩키지",
+"code": "037230",
+"ret": 29.99,
+"value": 2409,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+},
+{
+"name": "세우글로벌",
+"code": "013000",
+"ret": 30.0,
+"value": 1927,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

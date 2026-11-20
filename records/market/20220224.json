@@ -1,0 +1,254 @@
+{
+"date": "20220224",
+"kospi": -2.6,
+"kosdaq": -3.32,
+"adv": 165,
+"dec": 1821,
+"flat": 80,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 215864,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 6,
+"lead": "빅텍",
+"lead_ret": 23.84,
+"second": "한일단조",
+"second_ret": 22.68
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 5,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 27.52
+},
+{
+"name": "자원개발",
+"n": 4,
+"lead": "큐로홀딩스",
+"lead_ret": 29.94,
+"second": "대성산업",
+"second_ret": 13.0
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 12.45,
+"up5": 5,
+"lead": "대성에너지",
+"lead_ret": 29.82,
+"second": "경동도시가스",
+"second_ret": 28.79
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 11.77,
+"up5": 5,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 27.52
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 11.77,
+"up5": 5,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 27.52
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 7.03,
+"up5": 3,
+"lead": "흥구석유",
+"lead_ret": 27.52,
+"second": "극동유화",
+"second_ret": 14.45
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 6.57,
+"up5": 4,
+"lead": "중앙에너비스",
+"lead_ret": 29.91,
+"second": "흥구석유",
+"second_ret": 27.52
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 5.81,
+"up5": 5,
+"lead": "큐로홀딩스",
+"lead_ret": 29.94,
+"second": "대성산업",
+"second_ret": 13.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.3,
+"up5": 3,
+"lead": "한국석유",
+"lead_ret": 29.89,
+"second": "스페코",
+"second_ret": 17.05
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 3.7,
+"up5": 5,
+"lead": "대성에너지",
+"lead_ret": 29.82,
+"second": "경동도시가스",
+"second_ret": 28.79
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.81,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 12.7,
+"second": "대한해운",
+"second_ret": 4.27
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.36,
+"up5": 2,
+"lead": "SH에너지화학",
+"lead_ret": 18.14,
+"second": "SK가스",
+"second_ret": 15.74
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 1.95,
+"up5": 3,
+"lead": "팜스토리",
+"lead_ret": 13.22,
+"second": "한일사료",
+"second_ret": 11.57
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.59,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 12.5,
+"second": "조비",
+"second_ret": 5.3
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -5.6,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -3.21,
+"second": "대원미디어",
+"second_ret": -3.75
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -5.45,
+"up5": 0,
+"lead": "헝셩그룹",
+"lead_ret": -1.7,
+"second": "GRT",
+"second_ret": -2.53
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": -5.13,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -2.29,
+"second": "에코프로",
+"second_ret": -4.14
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": -4.9,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": -1.04,
+"second": "서진시스템",
+"second_ret": -3.11
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -4.88,
+"up5": 0,
+"lead": "로보스타",
+"lead_ret": -2.06,
+"second": "에스티아이",
+"second_ret": -3.69
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 25.11,
+"value": 6461,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 23.84,
+"value": 4816,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 29.82,
+"value": 4404,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 13.22,
+"value": 3878,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 29.89,
+"value": 3845,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

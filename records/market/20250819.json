@@ -1,0 +1,246 @@
+{
+"date": "20250819",
+"kospi": -0.81,
+"kosdaq": -1.26,
+"adv": 611,
+"dec": 1635,
+"flat": 129,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 130958,
+"hot": [
+{
+"name": "엔터테인먼트",
+"n": 9,
+"lead": "삼화네트웍스",
+"lead_ret": 29.99,
+"second": "아센디오",
+"second_ret": 29.85
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "티에이치엔",
+"lead_ret": 8.62,
+"second": "코리아에프티",
+"second_ret": 7.63
+}
+],
+"themes": [
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 4.64,
+"up5": 9,
+"lead": "삼화네트웍스",
+"lead_ret": 29.99,
+"second": "아센디오",
+"second_ret": 29.85
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 4.61,
+"up5": 3,
+"lead": "아센디오",
+"lead_ret": 29.85,
+"second": "CJ ENM",
+"second_ret": 6.41
+},
+{
+"name": "영상콘텐츠",
+"n": 28,
+"avg": 3.55,
+"up5": 6,
+"lead": "삼화네트웍스",
+"lead_ret": 29.99,
+"second": "팬엔터테인먼트",
+"second_ret": 25.94
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.19,
+"up5": 1,
+"lead": "한온시스템",
+"lead_ret": 5.39,
+"second": "현대모비스",
+"second_ret": 3.42
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.35,
+"up5": 1,
+"lead": "CJ ENM",
+"lead_ret": 6.41,
+"second": "애니플러스",
+"second_ret": 4.05
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 1.26,
+"up5": 1,
+"lead": "토모큐브",
+"lead_ret": 14.51,
+"second": "오가노이드사이언스",
+"second_ret": 2.11
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 1.12,
+"up5": 0,
+"lead": "헝셩그룹",
+"lead_ret": 3.51,
+"second": "딥커머스",
+"second_ret": 2.5
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 0.84,
+"up5": 1,
+"lead": "수산세보틱스",
+"lead_ret": 5.21,
+"second": "대창단조",
+"second_ret": 4.75
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 0.81,
+"up5": 4,
+"lead": "오늘이엔엠",
+"lead_ret": 13.25,
+"second": "TYM",
+"second_ret": 9.73
+},
+{
+"name": "게임",
+"n": 30,
+"avg": 0.79,
+"up5": 1,
+"lead": "펄어비스",
+"lead_ret": 7.8,
+"second": "크래프톤",
+"second_ret": 4.79
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 0.73,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 29.85,
+"second": "탑엔지니어링",
+"second_ret": 1.42
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 0.71,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 12.21,
+"second": "참좋은여행",
+"second_ret": 1.15
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -5.4,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": -2.27,
+"second": "대창솔루션",
+"second_ret": -3.24
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -4.41,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": 1.31,
+"second": "한화오션",
+"second_ret": -2.93
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": -3.33,
+"up5": 0,
+"lead": "에이프로젠",
+"lead_ret": 3.86,
+"second": "강원에너지",
+"second_ret": 1.71
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": -3.09,
+"up5": 0,
+"lead": "지엔씨에너지",
+"lead_ret": 2.95,
+"second": "에이루트",
+"second_ret": 0.06
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": -3.03,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 1.3,
+"second": "테고사이언스",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "팬엔터테인먼트",
+"code": "068050",
+"ret": 25.94,
+"value": 956,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "페니트리움바이오",
+"code": "187660",
+"ret": 16.61,
+"value": 808,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "토모큐브",
+"code": "475960",
+"ret": 14.51,
+"value": 712,
+"theme": "오가노이드",
+"reason": "테마: 오가노이드"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 12.21,
+"value": 564,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "웅진",
+"code": "016880",
+"ret": 10.68,
+"value": 419,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

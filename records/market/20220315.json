@@ -1,0 +1,254 @@
+{
+"date": "20220315",
+"kospi": -0.91,
+"kosdaq": -0.14,
+"adv": 706,
+"dec": 1174,
+"flat": 192,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 191824,
+"hot": [
+{
+"name": "패션/의류",
+"n": 4,
+"lead": "딥커머스",
+"lead_ret": 11.45,
+"second": "한세실업",
+"second_ret": 10.23
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "마음AI",
+"lead_ret": 19.76,
+"second": "트윔",
+"second_ret": 9.69
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "SKAI",
+"lead_ret": 20.64,
+"second": "마음AI",
+"second_ret": 19.76
+}
+],
+"themes": [
+{
+"name": "미용기기",
+"n": 13,
+"avg": 3.95,
+"up5": 2,
+"lead": "한국비티비",
+"lead_ret": 29.7,
+"second": "하이로닉",
+"second_ret": 13.23
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.8,
+"up5": 2,
+"lead": "국전",
+"lead_ret": 23.21,
+"second": "엑세스바이오",
+"second_ret": 5.19
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 24,
+"avg": 2.91,
+"up5": 4,
+"lead": "SKAI",
+"lead_ret": 20.64,
+"second": "마음AI",
+"second_ret": 19.76
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 2.87,
+"up5": 4,
+"lead": "케어젠",
+"lead_ret": 25.0,
+"second": "국전",
+"second_ret": 23.21
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.76,
+"up5": 1,
+"lead": "아시아나항공",
+"lead_ret": 6.65,
+"second": "티웨이홀딩스",
+"second_ret": 4.06
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.62,
+"up5": 2,
+"lead": "SM C&C",
+"lead_ret": 12.13,
+"second": "그래디언트",
+"second_ret": 5.79
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.61,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 7.18,
+"second": "녹십자",
+"second_ret": 3.23
+},
+{
+"name": "의료AI",
+"n": 17,
+"avg": 2.28,
+"up5": 3,
+"lead": "인성정보",
+"lead_ret": 9.77,
+"second": "셀바스AI",
+"second_ret": 8.95
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 2.21,
+"up5": 3,
+"lead": "인성정보",
+"lead_ret": 9.77,
+"second": "메디포스트",
+"second_ret": 7.18
+},
+{
+"name": "비만치료제",
+"n": 31,
+"avg": 1.87,
+"up5": 5,
+"lead": "케어젠",
+"lead_ret": 25.0,
+"second": "츌립앤사이언스",
+"second_ret": 8.78
+},
+{
+"name": "탈모 치료",
+"n": 22,
+"avg": 1.81,
+"up5": 2,
+"lead": "프롬바이오",
+"lead_ret": 13.58,
+"second": "신신제약",
+"second_ret": 5.52
+},
+{
+"name": "치매",
+"n": 45,
+"avg": 1.81,
+"up5": 4,
+"lead": "국전",
+"lead_ret": 23.21,
+"second": "큐라클",
+"second_ret": 17.22
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -6.04,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -1.3,
+"second": "팬오션",
+"second_ret": -4.88
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.94,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -2.33,
+"second": "HD현대중공업",
+"second_ret": -3.52
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.82,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -0.44,
+"second": "SK이노베이션",
+"second_ret": -2.05
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.82,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -0.44,
+"second": "SK이노베이션",
+"second_ret": -2.05
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -3.28,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": -1.09,
+"second": "POSCO홀딩스",
+"second_ret": -1.74
+}
+],
+"leaders": [
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 12.13,
+"value": 3988,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 29.8,
+"value": 3587,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "서전기전",
+"code": "189860",
+"ret": 21.3,
+"value": 1854,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 23.21,
+"value": 1789,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "SKAI",
+"code": "357880",
+"ret": 20.64,
+"value": 1748,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

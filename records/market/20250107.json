@@ -1,0 +1,254 @@
+{
+"date": "20250107",
+"kospi": 0.14,
+"kosdaq": 0.05,
+"adv": 995,
+"dec": 1173,
+"flat": 153,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 169312,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "에스넷",
+"lead_ret": 14.49,
+"second": "케이쓰리아이",
+"second_ret": 10.93
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "저스템",
+"lead_ret": 29.88,
+"second": "아이엠티",
+"second_ret": 23.57
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "램테크놀러지",
+"lead_ret": 29.97,
+"second": "와이씨켐",
+"second_ret": 11.06
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 7.1,
+"up5": 2,
+"lead": "HJ중공업",
+"lead_ret": 15.97,
+"second": "한화오션",
+"second_ret": 12.6
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.82,
+"up5": 1,
+"lead": "에스넷",
+"lead_ret": 14.49,
+"second": "오파스넷",
+"second_ret": 3.81
+},
+{
+"name": "유리 기판",
+"n": 20,
+"avg": 2.61,
+"up5": 4,
+"lead": "램테크놀러지",
+"lead_ret": 29.97,
+"second": "HB테크놀러지",
+"second_ret": 11.48
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.82,
+"up5": 2,
+"lead": "HJ중공업",
+"lead_ret": 15.97,
+"second": "일승",
+"second_ret": 8.7
+},
+{
+"name": "증강현실(AR)",
+"n": 19,
+"avg": 1.65,
+"up5": 2,
+"lead": "에스넷",
+"lead_ret": 14.49,
+"second": "케이쓰리아이",
+"second_ret": 10.93
+},
+{
+"name": "가상현실(VR)",
+"n": 24,
+"avg": 1.62,
+"up5": 4,
+"lead": "제이씨현시스템",
+"lead_ret": 16.5,
+"second": "에스넷",
+"second_ret": 14.49
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": 1.59,
+"up5": 2,
+"lead": "제이씨현시스템",
+"lead_ret": 16.5,
+"second": "사토시홀딩스",
+"second_ret": 12.46
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.56,
+"up5": 1,
+"lead": "LS에코에너지",
+"lead_ret": 8.25,
+"second": "KBI메탈",
+"second_ret": 1.92
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 1.54,
+"up5": 5,
+"lead": "일승",
+"lead_ret": 8.7,
+"second": "KS인더스트리",
+"second_ret": 7.4
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.52,
+"up5": 1,
+"lead": "MDS테크",
+"lead_ret": 30.01,
+"second": "세코닉스",
+"second_ret": 3.12
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.49,
+"up5": 2,
+"lead": "제이씨현시스템",
+"lead_ret": 16.5,
+"second": "에스넷",
+"second_ret": 14.49
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.48,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": 4.14,
+"second": "GS리테일",
+"second_ret": 1.92
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -3.28,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -0.7,
+"second": "삼성전자",
+"second_ret": -0.89
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.52,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 2.69,
+"second": "삼성전자",
+"second_ret": -0.89
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.14,
+"up5": 0,
+"lead": "펨트론",
+"lead_ret": 2.25,
+"second": "엠케이전자",
+"second_ret": -0.58
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.1,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 0.53,
+"second": "옴니시스템",
+"second_ret": -0.38
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -2.05,
+"up5": 0,
+"lead": "디지캡",
+"lead_ret": 1.04,
+"second": "시선AI",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 12.6,
+"value": 9759,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "제이씨현시스템",
+"code": "033320",
+"ret": 16.5,
+"value": 2318,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "한국첨단소재",
+"code": "062970",
+"ret": 29.96,
+"value": 1348,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "MDS테크",
+"code": "086960",
+"ret": 30.01,
+"value": 1133,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 12.9,
+"value": 977,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

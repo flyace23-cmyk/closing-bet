@@ -1,0 +1,254 @@
+{
+"date": "20201103",
+"kospi": 1.88,
+"kosdaq": 1.93,
+"adv": 1475,
+"dec": 329,
+"flat": 146,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 186502,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "동국알앤에스",
+"lead_ret": 17.71,
+"second": "아이티엠반도체",
+"second_ret": 12.5
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "엔투텍",
+"lead_ret": 14.1,
+"second": "서진시스템",
+"second_ret": 13.28
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "타임X AI",
+"lead_ret": 20.26,
+"second": "퓨쳐켐",
+"second_ret": 10.25
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 7.5,
+"up5": 3,
+"lead": "녹십자",
+"lead_ret": 25.37,
+"second": "엔투텍",
+"second_ret": 14.1
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 6.71,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 25.37,
+"second": "지씨셀",
+"second_ret": 5.26
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 4.98,
+"up5": 7,
+"lead": "녹십자",
+"lead_ret": 25.37,
+"second": "한올바이오파마",
+"second_ret": 13.9
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 3.51,
+"up5": 2,
+"lead": "재영솔루텍",
+"lead_ret": 29.96,
+"second": "녹십자",
+"second_ret": 25.37
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 3.45,
+"up5": 1,
+"lead": "서진시스템",
+"lead_ret": 13.28,
+"second": "비나텍",
+"second_ret": 4.92
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": 3.33,
+"up5": 4,
+"lead": "녹십자",
+"lead_ret": 25.37,
+"second": "셀레믹스",
+"second_ret": 12.23
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 3.3,
+"up5": 2,
+"lead": "오킨스전자",
+"lead_ret": 11.83,
+"second": "엑시콘",
+"second_ret": 5.06
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 12,
+"avg": 3.25,
+"up5": 3,
+"lead": "다원넥스뷰",
+"lead_ret": 14.74,
+"second": "심텍홀딩스",
+"second_ret": 6.61
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.24,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 8.02,
+"second": "비츠로테크",
+"second_ret": 4.05
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.23,
+"up5": 7,
+"lead": "녹십자",
+"lead_ret": 25.37,
+"second": "녹십자홀딩스",
+"second_ret": 14.44
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 3.21,
+"up5": 9,
+"lead": "서진시스템",
+"lead_ret": 13.28,
+"second": "오이솔루션",
+"second_ret": 8.7
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.21,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 25.37,
+"second": "한미약품",
+"second_ret": 5.02
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -1.15,
+"up5": 0,
+"lead": "아이비김영",
+"lead_ret": 1.03,
+"second": "사람인",
+"second_ret": 0.0
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -0.65,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 3.03,
+"second": "컴퍼니케이",
+"second_ret": 2.82
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -0.38,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.45,
+"second": "아이티센글로벌",
+"second_ret": 0.96
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -0.29,
+"up5": 0,
+"lead": "코오롱",
+"lead_ret": 3.7,
+"second": "코오롱인더",
+"second_ret": 1.67
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -0.29,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": 3.85,
+"second": "한화투자증권",
+"second_ret": 0.28
+}
+],
+"leaders": [
+{
+"name": "녹십자",
+"code": "006280",
+"ret": 25.37,
+"value": 10810,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 20.26,
+"value": 4390,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 30.0,
+"value": 3661,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 15.22,
+"value": 2329,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "셀레믹스",
+"code": "331920",
+"ret": 12.23,
+"value": 1723,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

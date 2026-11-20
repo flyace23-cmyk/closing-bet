@@ -1,0 +1,254 @@
+{
+"date": "20240125",
+"kospi": 0.03,
+"kosdaq": -1.49,
+"adv": 686,
+"dec": 1410,
+"flat": 133,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 190386,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "코세스",
+"lead_ret": 29.95,
+"second": "아이엠티",
+"second_ret": 25.26
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 4,
+"lead": "아이엠티",
+"lead_ret": 25.26,
+"second": "고영",
+"second_ret": 14.53
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "LB세미콘",
+"lead_ret": 21.78,
+"second": "자람테크놀로지",
+"second_ret": 19.48
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 4.68,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 26.81,
+"second": "일진전기",
+"second_ret": 5.52
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.08,
+"up5": 1,
+"lead": "금호타이어",
+"lead_ret": 14.79,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 4.77
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.52,
+"up5": 1,
+"lead": "기아",
+"lead_ret": 5.8,
+"second": "현대위아",
+"second_ret": 4.5
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.48,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 5.73,
+"second": "효성티앤씨",
+"second_ret": 3.78
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 2.45,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 29.95,
+"second": "서울반도체",
+"second_ret": 0.9
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.1,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 19.48,
+"second": "네패스아크",
+"second_ret": 1.21
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.98,
+"up5": 1,
+"lead": "케이에스피",
+"lead_ret": 18.86,
+"second": "비엠티",
+"second_ret": 1.99
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.89,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 4.04,
+"second": "HD현대중공업",
+"second_ret": 2.13
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.82,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 3.19,
+"second": "GS건설",
+"second_ret": 2.26
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.58,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 8.88,
+"second": "롯데쇼핑",
+"second_ret": 1.52
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 1.42,
+"up5": 2,
+"lead": "대동기어",
+"lead_ret": 23.36,
+"second": "유니드",
+"second_ret": 9.82
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.37,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 3.78,
+"second": "SK네트웍스",
+"second_ret": 3.18
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -3.74,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.0,
+"second": "파워넷",
+"second_ret": -1.64
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.98,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -1.14,
+"second": "손오공",
+"second_ret": -1.24
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": -2.97,
+"up5": 0,
+"lead": "모델솔루션",
+"lead_ret": 2.98,
+"second": "브리지텍",
+"second_ret": 0.53
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.95,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 0.0,
+"second": "디아이씨",
+"second_ret": -0.94
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.82,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 2.01,
+"second": "LG화학",
+"second_ret": 1.0
+}
+],
+"leaders": [
+{
+"name": "고영",
+"code": "098460",
+"ret": 14.53,
+"value": 5710,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "코세스",
+"code": "089890",
+"ret": 29.95,
+"value": 2936,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 10.51,
+"value": 2840,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "LB세미콘",
+"code": "061970",
+"ret": 21.78,
+"value": 2653,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "한미사이언스",
+"code": "008930",
+"ret": 10.03,
+"value": 1796,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+}
+],
+"backfilled": true
+}

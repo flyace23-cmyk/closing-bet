@@ -1,0 +1,254 @@
+{
+"date": "20200626",
+"kospi": 1.05,
+"kosdaq": 0.03,
+"adv": 865,
+"dec": 874,
+"flat": 179,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 218730,
+"hot": [
+{
+"name": "통신장비",
+"n": 6,
+"lead": "에이스테크",
+"lead_ret": 25.22,
+"second": "서진시스템",
+"second_ret": 18.46
+},
+{
+"name": "풍력에너지",
+"n": 4,
+"lead": "씨에스베어링",
+"lead_ret": 29.84,
+"second": "동국S&C",
+"second_ret": 29.83
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "에이스테크",
+"lead_ret": 25.22,
+"second": "KG모빌리티",
+"second_ret": 10.39
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 3.89,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 7.87,
+"second": "팬오션",
+"second_ret": 6.1
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 3.83,
+"up5": 12,
+"lead": "에이스테크",
+"lead_ret": 25.22,
+"second": "서진시스템",
+"second_ret": 18.46
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 3.82,
+"up5": 7,
+"lead": "씨에스베어링",
+"lead_ret": 29.84,
+"second": "동국S&C",
+"second_ret": 29.83
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 3.55,
+"up5": 4,
+"lead": "쎄노텍",
+"lead_ret": 17.65,
+"second": "제이에스링크",
+"second_ret": 11.17
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 48,
+"avg": 3.23,
+"up5": 11,
+"lead": "에이스테크",
+"lead_ret": 25.22,
+"second": "서진시스템",
+"second_ret": 18.46
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 2.36,
+"up5": 1,
+"lead": "서진시스템",
+"lead_ret": 18.46,
+"second": "SFA",
+"second_ret": 2.88
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.24,
+"up5": 1,
+"lead": "KG모빌리티",
+"lead_ret": 10.39,
+"second": "현대모비스",
+"second_ret": 2.32
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 2.09,
+"up5": 1,
+"lead": "엑시콘",
+"lead_ret": 6.99,
+"second": "오킨스전자",
+"second_ret": 4.82
+},
+{
+"name": "게임",
+"n": 26,
+"avg": 2.03,
+"up5": 5,
+"lead": "위메이드",
+"lead_ret": 27.01,
+"second": "액토즈소프트",
+"second_ret": 11.21
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.98,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 8.72,
+"second": "비츠로테크",
+"second_ret": 3.97
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 1.97,
+"up5": 2,
+"lead": "그래디언트",
+"lead_ret": 9.23,
+"second": "롯데하이마트",
+"second_ret": 6.37
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 1.92,
+"up5": 3,
+"lead": "RFHIC",
+"lead_ret": 8.37,
+"second": "머큐리",
+"second_ret": 5.45
+}
+],
+"themes_worst": [
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -3.34,
+"up5": 0,
+"lead": "나노엔텍",
+"lead_ret": 2.6,
+"second": "메디포스트",
+"second_ret": 1.41
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -2.27,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 1.41,
+"second": "파미셀",
+"second_ret": 0.0
+},
+{
+"name": "비만치료제",
+"n": 28,
+"avg": -1.8,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 2.57,
+"second": "올릭스",
+"second_ret": 1.38
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": -1.72,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": 0.74,
+"second": "삼성전기",
+"second_ret": 0.0
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -1.71,
+"up5": 1,
+"lead": "제이에스링크",
+"lead_ret": 11.17,
+"second": "셀바스헬스케어",
+"second_ret": -0.18
+}
+],
+"leaders": [
+{
+"name": "KG모빌리티",
+"code": "003620",
+"ret": 10.39,
+"value": 21012,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "에이스테크",
+"code": "088800",
+"ret": 25.22,
+"value": 3987,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "동국S&C",
+"code": "100130",
+"ret": 29.83,
+"value": 3683,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "서진시스템",
+"code": "178320",
+"ret": 18.46,
+"value": 2854,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "유니슨",
+"code": "018000",
+"ret": 14.28,
+"value": 1865,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

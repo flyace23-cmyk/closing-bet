@@ -1,0 +1,254 @@
+{
+"date": "20240416",
+"kospi": -2.28,
+"kosdaq": -2.3,
+"adv": 288,
+"dec": 1873,
+"flat": 89,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 195120,
+"hot": [
+{
+"name": "자율주행차",
+"n": 4,
+"lead": "라닉스",
+"lead_ret": 29.89,
+"second": "코리아에프티",
+"second_ret": 5.44
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "한컴라이프케어",
+"lead_ret": 29.88,
+"second": "대성하이텍",
+"second_ret": 11.38
+},
+{
+"name": "초전도체",
+"n": 3,
+"lead": "덕성",
+"lead_ret": 15.75,
+"second": "한양이엔지",
+"second_ret": 8.85
+}
+],
+"themes": [
+{
+"name": "줄기세포",
+"n": 16,
+"avg": 1.17,
+"up5": 2,
+"lead": "에스바이오메딕스",
+"lead_ret": 29.78,
+"second": "코아스템켐온",
+"second_ret": 10.67
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 0.82,
+"up5": 3,
+"lead": "덕성",
+"lead_ret": 15.75,
+"second": "한양이엔지",
+"second_ret": 8.85
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.65,
+"up5": 1,
+"lead": "한국석유",
+"lead_ret": 7.28,
+"second": "스페코",
+"second_ret": 4.51
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 0.55,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 17.32,
+"second": "BNK금융지주",
+"second_ret": 1.71
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 0.15,
+"up5": 1,
+"lead": "한컴라이프케어",
+"lead_ret": 29.88,
+"second": "크린앤사이언스",
+"second_ret": 3.51
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 26,
+"avg": -0.06,
+"up5": 2,
+"lead": "신진에스엠",
+"lead_ret": 30.0,
+"second": "한컴라이프케어",
+"second_ret": 29.88
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.18,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 4.09,
+"second": "이마트",
+"second_ret": -0.5
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -0.29,
+"up5": 2,
+"lead": "메가스터디교육",
+"lead_ret": 14.56,
+"second": "비트컴퓨터",
+"second_ret": 5.18
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -0.42,
+"up5": 1,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 5.17,
+"second": "넥센타이어",
+"second_ret": 2.8
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": -0.43,
+"up5": 2,
+"lead": "한컴라이프케어",
+"lead_ret": 29.88,
+"second": "파라텍",
+"second_ret": 6.56
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.47,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 0.56,
+"second": "천일고속",
+"second_ret": -0.22
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": -0.6,
+"up5": 1,
+"lead": "라닉스",
+"lead_ret": 29.89,
+"second": "한국첨단소재",
+"second_ret": 4.78
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -9.37,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -5.79,
+"second": "LS에코에너지",
+"second_ret": -6.08
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": -5.36,
+"up5": 2,
+"lead": "지투파워",
+"lead_ret": 6.18,
+"second": "서남",
+"second_ret": 5.6
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -4.38,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": -0.85,
+"second": "탑엔지니어링",
+"second_ret": -1.79
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -4.19,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": -0.76,
+"second": "알에프텍",
+"second_ret": -1.56
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -4.17,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.84,
+"second": "엠케이전자",
+"second_ret": -1.69
+}
+],
+"leaders": [
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 17.32,
+"value": 5950,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 15.75,
+"value": 1266,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "에스바이오메딕스",
+"code": "304360",
+"ret": 29.78,
+"value": 1174,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "신진에스엠",
+"code": "138070",
+"ret": 30.0,
+"value": 1045,
+"theme": "전기차 화재 방지(배터리 열폭주 등)",
+"reason": "테마: 전기차 화재 방지(배터리 열폭주 등)"
+},
+{
+"name": "한컴라이프케어",
+"code": "372910",
+"ret": 29.88,
+"value": 529,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

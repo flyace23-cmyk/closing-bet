@@ -1,0 +1,254 @@
+{
+"date": "20200805",
+"kospi": 1.4,
+"kosdaq": 1.43,
+"adv": 879,
+"dec": 888,
+"flat": 161,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 273670,
+"hot": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 6,
+"lead": "한미약품",
+"lead_ret": 29.91,
+"second": "한미사이언스",
+"second_ret": 29.86
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "SK이노베이션",
+"lead_ret": 20.45,
+"second": "미래컴퍼니",
+"second_ret": 12.59
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 5,
+"lead": "한미약품",
+"lead_ret": 29.91,
+"second": "아이진",
+"second_ret": 23.41
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 10.47,
+"up5": 6,
+"lead": "한미약품",
+"lead_ret": 29.91,
+"second": "한미사이언스",
+"second_ret": 29.86
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 5.98,
+"up5": 6,
+"lead": "한미약품",
+"lead_ret": 29.91,
+"second": "녹십자",
+"second_ret": 12.63
+},
+{
+"name": "비만치료제",
+"n": 28,
+"avg": 4.84,
+"up5": 8,
+"lead": "한미약품",
+"lead_ret": 29.91,
+"second": "HLB펩",
+"second_ret": 18.3
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 4.26,
+"up5": 10,
+"lead": "한미약품",
+"lead_ret": 29.91,
+"second": "아이진",
+"second_ret": 23.41
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 4.03,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 20.45,
+"second": "흥구석유",
+"second_ret": 3.31
+},
+{
+"name": "마이크로바이옴",
+"n": 16,
+"avg": 4.0,
+"up5": 4,
+"lead": "종근당바이오",
+"lead_ret": 29.67,
+"second": "HLB제넥스",
+"second_ret": 16.01
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 3.7,
+"up5": 9,
+"lead": "유한양행",
+"lead_ret": 15.73,
+"second": "동아에스티",
+"second_ret": 8.81
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.52,
+"up5": 1,
+"lead": "유한양행",
+"lead_ret": 15.73,
+"second": "대한약품",
+"second_ret": 4.72
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.51,
+"up5": 2,
+"lead": "삼성SDI",
+"lead_ret": 12.5,
+"second": "에코프로비엠",
+"second_ret": 5.23
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": 3.35,
+"up5": 4,
+"lead": "SK이노베이션",
+"lead_ret": 20.45,
+"second": "미래컴퍼니",
+"second_ret": 12.59
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.3,
+"up5": 1,
+"lead": "녹십자",
+"lead_ret": 12.63,
+"second": "지씨셀",
+"second_ret": 3.06
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.18,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 20.45,
+"second": "흥구석유",
+"second_ret": 3.31
+}
+],
+"themes_worst": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.48,
+"up5": 1,
+"lead": "SGC E&C",
+"lead_ret": 6.21,
+"second": "상지건설",
+"second_ret": 2.72
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.44,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": -0.39,
+"second": "오파스넷",
+"second_ret": -0.57
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.26,
+"up5": 0,
+"lead": "삼현철강",
+"lead_ret": 0.14,
+"second": "하이스틸",
+"second_ret": 0.0
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -1.26,
+"up5": 0,
+"lead": "하이스틸",
+"lead_ret": 0.0,
+"second": "유에스티",
+"second_ret": 0.0
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -1.25,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.27,
+"second": "한국전자인증",
+"second_ret": -0.99
+}
+],
+"leaders": [
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 20.45,
+"value": 9747,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 15.73,
+"value": 7679,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 12.5,
+"value": 6174,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "종근당바이오",
+"code": "063160",
+"ret": 29.67,
+"value": 4286,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 10.58,
+"value": 3564,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20251121",
+"kospi": -3.79,
+"kosdaq": -3.14,
+"adv": 365,
+"dec": 1949,
+"flat": 75,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 205152,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "에스비비테크",
+"lead_ret": 25.51,
+"second": "한국피아이엠",
+"second_ret": 18.1
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "피앤에스로보틱스",
+"lead_ret": 9.36,
+"second": "가온그룹",
+"second_ret": 5.35
+},
+{
+"name": "2차전지(전고체)",
+"n": 3,
+"lead": "석경에이티",
+"lead_ret": 10.63,
+"second": "하나기술",
+"second_ret": 5.88
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 9.2,
+"up5": 2,
+"lead": "동양고속",
+"lead_ret": 29.98,
+"second": "천일고속",
+"second_ret": 29.89
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 4.05,
+"up5": 5,
+"lead": "동양고속",
+"lead_ret": 29.98,
+"second": "천일고속",
+"second_ret": 29.89
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 0.9,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 9.04,
+"second": "HDC",
+"second_ret": 3.55
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.29,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 6.45,
+"second": "HC보광산업",
+"second_ret": 0.54
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 0.24,
+"up5": 1,
+"lead": "에스피지",
+"lead_ret": 8.47,
+"second": "코웨이",
+"second_ret": 0.8
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -0.02,
+"up5": 2,
+"lead": "전진건설로봇",
+"lead_ret": 8.46,
+"second": "현대에버다임",
+"second_ret": 6.06
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.04,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 2.14,
+"second": "BGF리테일",
+"second_ret": 1.08
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -0.08,
+"up5": 0,
+"lead": "태영건설",
+"lead_ret": 2.64,
+"second": "웰크론한텍",
+"second_ret": 1.7
+},
+{
+"name": "패션/의류",
+"n": 56,
+"avg": -0.12,
+"up5": 2,
+"lead": "SG세계물산",
+"lead_ret": 29.7,
+"second": "에이유브랜즈",
+"second_ret": 17.77
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -0.17,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 2.14,
+"second": "롯데쇼핑",
+"second_ret": 1.36
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -0.21,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 15.53,
+"second": "강스템바이오텍",
+"second_ret": 1.23
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -0.23,
+"up5": 0,
+"lead": "삼호개발",
+"lead_ret": 2.84,
+"second": "태영건설",
+"second_ret": 2.64
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -6.5,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -2.46,
+"second": "티에프이",
+"second_ret": -2.5
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -6.33,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": 0.17,
+"second": "탑엔지니어링",
+"second_ret": -1.2
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -6.24,
+"up5": 0,
+"lead": "레이언스",
+"lead_ret": 1.29,
+"second": "제너셈",
+"second_ret": -0.22
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -6.03,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 0.45,
+"second": "국순당",
+"second_ret": -0.6
+},
+{
+"name": "반도체 재료/부품",
+"n": 71,
+"avg": -5.97,
+"up5": 0,
+"lead": "KPX케미칼",
+"lead_ret": 0.6,
+"second": "피엠티",
+"second_ret": 0.52
+}
+],
+"leaders": [
+{
+"name": "코오롱티슈진",
+"code": "950160",
+"ret": 11.49,
+"value": 1548,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "한국피아이엠",
+"code": "448900",
+"ret": 18.1,
+"value": 1347,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 15.53,
+"value": 902,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "에스비비테크",
+"code": "389500",
+"ret": 25.51,
+"value": 890,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "케어젠",
+"code": "214370",
+"ret": 14.66,
+"value": 562,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

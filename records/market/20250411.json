@@ -1,0 +1,254 @@
+{
+"date": "20250411",
+"kospi": -0.5,
+"kosdaq": 2.02,
+"adv": 1599,
+"dec": 630,
+"flat": 119,
+"limit_up": 14,
+"limit_down": 0,
+"value_total": 139139,
+"hot": [
+{
+"name": "웹툰",
+"n": 6,
+"lead": "키다리스튜디오",
+"lead_ret": 30.0,
+"second": "와이랩",
+"second_ret": 30.0
+},
+{
+"name": "영상콘텐츠",
+"n": 4,
+"lead": "와이랩",
+"lead_ret": 30.0,
+"second": "스튜디오미르",
+"second_ret": 29.95
+},
+{
+"name": "의료AI",
+"n": 3,
+"lead": "온코크로스",
+"lead_ret": 29.92,
+"second": "신테카바이오",
+"second_ret": 19.58
+}
+],
+"themes": [
+{
+"name": "웹툰",
+"n": 14,
+"avg": 14.37,
+"up5": 9,
+"lead": "키다리스튜디오",
+"lead_ret": 30.0,
+"second": "와이랩",
+"second_ret": 30.0
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 7.9,
+"up5": 3,
+"lead": "HJ중공업",
+"lead_ret": 19.91,
+"second": "한화오션",
+"second_ret": 6.16
+},
+{
+"name": "영상콘텐츠",
+"n": 28,
+"avg": 7.3,
+"up5": 16,
+"lead": "와이랩",
+"lead_ret": 30.0,
+"second": "스튜디오미르",
+"second_ret": 29.95
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": 7.18,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 24.38,
+"second": "토모큐브",
+"second_ret": 12.5
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": 6.7,
+"up5": 12,
+"lead": "온코크로스",
+"lead_ret": 29.92,
+"second": "신테카바이오",
+"second_ret": 19.58
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 5.58,
+"up5": 2,
+"lead": "시공테크",
+"lead_ret": 25.67,
+"second": "닷밀",
+"second_ret": 10.14
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 5.4,
+"up5": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 24.38,
+"second": "코렌텍",
+"second_ret": 5.97
+},
+{
+"name": "미용기기",
+"n": 18,
+"avg": 5.24,
+"up5": 7,
+"lead": "라메디텍",
+"lead_ret": 21.05,
+"second": "휴온스글로벌",
+"second_ret": 13.0
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": 4.67,
+"up5": 7,
+"lead": "키다리스튜디오",
+"lead_ret": 30.0,
+"second": "미스터블루",
+"second_ret": 29.98
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 4.63,
+"up5": 10,
+"lead": "현대힘스",
+"lead_ret": 29.97,
+"second": "HD현대마린엔진",
+"second_ret": 10.83
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 4.25,
+"up5": 6,
+"lead": "펩트론",
+"lead_ret": 29.99,
+"second": "인벤티지랩",
+"second_ret": 19.9
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 4.05,
+"up5": 10,
+"lead": "피아이이",
+"lead_ret": 11.82,
+"second": "태성",
+"second_ret": 8.79
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.0,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 0.0,
+"second": "TKG휴켐스",
+"second_ret": -1.37
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.81,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "HL만도",
+"second_ret": -0.43
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.61,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": 1.14,
+"second": "갤럭시아머니트리",
+"second_ret": 0.0
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.03,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 7.71,
+"second": "이월드",
+"second_ret": 1.62
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.09,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.62,
+"second": "SK스퀘어",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 29.99,
+"value": 2968,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "시공테크",
+"code": "020710",
+"ret": 25.67,
+"value": 1262,
+"theme": "가상현실(VR)",
+"reason": "테마: 가상현실(VR)"
+},
+{
+"name": "피아이이",
+"code": "452450",
+"ret": 11.82,
+"value": 990,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "HJ중공업",
+"code": "097230",
+"ret": 19.91,
+"value": 984,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "온코크로스",
+"code": "382150",
+"ret": 29.92,
+"value": 947,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+}
+],
+"backfilled": true
+}

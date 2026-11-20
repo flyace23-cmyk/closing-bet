@@ -1,0 +1,254 @@
+{
+"date": "20240510",
+"kospi": 0.57,
+"kosdaq": -0.69,
+"adv": 1027,
+"dec": 1060,
+"flat": 169,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 206375,
+"hot": [
+{
+"name": "화장품",
+"n": 9,
+"lead": "실리콘투",
+"lead_ret": 29.95,
+"second": "아이패밀리에스씨",
+"second_ret": 17.2
+},
+{
+"name": "전력반도체",
+"n": 4,
+"lead": "시지트로닉스",
+"lead_ret": 30.0,
+"second": "나노씨엠에스",
+"second_ret": 29.91
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "삼영에스앤씨",
+"lead_ret": 29.87,
+"second": "코스텍시스",
+"second_ret": 22.33
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 4.58,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 13.23,
+"second": "HMM",
+"second_ret": 6.01
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.64,
+"up5": 3,
+"lead": "가온전선",
+"lead_ret": 14.59,
+"second": "일진전기",
+"second_ret": 9.31
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 3.44,
+"up5": 4,
+"lead": "시지트로닉스",
+"lead_ret": 30.0,
+"second": "나노씨엠에스",
+"second_ret": 29.91
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.4,
+"up5": 1,
+"lead": "윙입푸드",
+"lead_ret": 19.54,
+"second": "로스웰",
+"second_ret": 3.67
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.11,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 7.2,
+"second": "신송홀딩스",
+"second_ret": 4.84
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 2.62,
+"up5": 16,
+"lead": "실리콘투",
+"lead_ret": 29.95,
+"second": "아이패밀리에스씨",
+"second_ret": 17.2
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.52,
+"up5": 2,
+"lead": "풀무원",
+"lead_ret": 7.2,
+"second": "한성기업",
+"second_ret": 5.67
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 1.96,
+"up5": 4,
+"lead": "키이스트",
+"lead_ret": 14.74,
+"second": "SM C&C",
+"second_ret": 12.88
+},
+{
+"name": "영상콘텐츠",
+"n": 27,
+"avg": 1.91,
+"up5": 4,
+"lead": "키이스트",
+"lead_ret": 14.74,
+"second": "SM C&C",
+"second_ret": 12.88
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.82,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 12.88,
+"second": "참좋은여행",
+"second_ret": 1.37
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.74,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 3.32,
+"second": "한화생명",
+"second_ret": 2.38
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 1.62,
+"up5": 1,
+"lead": "지어소프트",
+"lead_ret": 9.49,
+"second": "SK네트웍스",
+"second_ret": 2.78
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.76,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.57,
+"second": "코리아써키트",
+"second_ret": -0.37
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.99,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.63,
+"second": "네패스",
+"second_ret": -1.16
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -2.96,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.57,
+"second": "삼성전자",
+"second_ret": -0.63
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.71,
+"up5": 1,
+"lead": "기가레인",
+"lead_ret": 6.12,
+"second": "예스티",
+"second_ret": 2.46
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -2.56,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 3.95,
+"second": "DSC인베스트먼트",
+"second_ret": 0.13
+}
+],
+"leaders": [
+{
+"name": "HD현대마린솔루션",
+"code": "443060",
+"ret": 18.58,
+"value": 13335,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 19.4,
+"value": 6136,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 29.95,
+"value": 5032,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 14.59,
+"value": 3088,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "에브리봇",
+"code": "270660",
+"ret": 16.75,
+"value": 1833,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

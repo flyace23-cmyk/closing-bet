@@ -1,0 +1,254 @@
+{
+"date": "20240923",
+"kospi": 0.33,
+"kosdaq": 0.91,
+"adv": 1082,
+"dec": 1064,
+"flat": 136,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 141366,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "펨트론",
+"lead_ret": 20.77,
+"second": "원준",
+"second_ret": 20.23
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "동아엘텍",
+"lead_ret": 29.98,
+"second": "에이치브이엠",
+"second_ret": 17.28
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "슈어소프트테크",
+"lead_ret": 21.89,
+"second": "넥스트칩",
+"second_ret": 14.71
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": 6.98,
+"up5": 5,
+"lead": "원준",
+"lead_ret": 20.23,
+"second": "코칩",
+"second_ret": 17.41
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 5.22,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 24.89,
+"second": "흥아해운",
+"second_ret": 5.28
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 4.25,
+"up5": 8,
+"lead": "원준",
+"lead_ret": 20.23,
+"second": "한농화성",
+"second_ret": 17.13
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 3.77,
+"up5": 2,
+"lead": "아이씨에이치",
+"lead_ret": 29.88,
+"second": "프로텍",
+"second_ret": 5.94
+},
+{
+"name": "2차전지(장비)",
+"n": 43,
+"avg": 2.65,
+"up5": 6,
+"lead": "펨트론",
+"lead_ret": 20.77,
+"second": "원준",
+"second_ret": 20.23
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.59,
+"up5": 3,
+"lead": "메가터치",
+"lead_ret": 5.66,
+"second": "에코프로비엠",
+"second_ret": 5.35
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.58,
+"up5": 1,
+"lead": "펨트론",
+"lead_ret": 20.77,
+"second": "ISC",
+"second_ret": 3.33
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.54,
+"up5": 4,
+"lead": "펨트론",
+"lead_ret": 20.77,
+"second": "유니테스트",
+"second_ret": 7.13
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.45,
+"up5": 3,
+"lead": "티에스이",
+"lead_ret": 13.37,
+"second": "지아이에스",
+"second_ret": 6.4
+},
+{
+"name": "2차전지",
+"n": 133,
+"avg": 2.36,
+"up5": 19,
+"lead": "펨트론",
+"lead_ret": 20.77,
+"second": "원준",
+"second_ret": 20.23
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 16,
+"avg": 2.17,
+"up5": 4,
+"lead": "미코",
+"lead_ret": 7.68,
+"second": "유니드",
+"second_ret": 7.23
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.13,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 6.55,
+"second": "신송홀딩스",
+"second_ret": 3.8
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.18,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": 1.61,
+"second": "컬러레이",
+"second_ret": 0.93
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.14,
+"up5": 0,
+"lead": "DL이앤씨",
+"lead_ret": 0.17,
+"second": "현대건설",
+"second_ret": -1.29
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.79,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": 0.41,
+"second": "오로라",
+"second_ret": 0.38
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.22,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 2.31,
+"second": "AK홀딩스",
+"second_ret": -0.08
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.4,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 2.55,
+"second": "엔투텍",
+"second_ret": -0.59
+}
+],
+"leaders": [
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 10.35,
+"value": 2196,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 17.13,
+"value": 2150,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "슈어소프트테크",
+"code": "298830",
+"ret": 21.89,
+"value": 1700,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "STX그린로지스",
+"code": "465770",
+"ret": 24.89,
+"value": 1165,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "HLB테라퓨틱스",
+"code": "115450",
+"ret": 11.08,
+"value": 825,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

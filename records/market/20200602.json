@@ -1,0 +1,254 @@
+{
+"date": "20200602",
+"kospi": 1.07,
+"kosdaq": 1.07,
+"adv": 1205,
+"dec": 535,
+"flat": 173,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 200389,
+"hot": [
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "조선선재",
+"lead_ret": 29.99,
+"second": "케이에스피",
+"second_ret": 29.96
+},
+{
+"name": "면역항암제",
+"n": 5,
+"lead": "차바이오텍",
+"lead_ret": 30.0,
+"second": "리가켐바이오",
+"second_ret": 16.59
+},
+{
+"name": "줄기세포",
+"n": 4,
+"lead": "차바이오텍",
+"lead_ret": 30.0,
+"second": "동구바이오제약",
+"second_ret": 16.21
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 10.96,
+"up5": 3,
+"lead": "차바이오텍",
+"lead_ret": 30.0,
+"second": "강스템바이오텍",
+"second_ret": 12.71
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 8.09,
+"up5": 12,
+"lead": "조선선재",
+"lead_ret": 29.99,
+"second": "케이에스피",
+"second_ret": 29.96
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 7.72,
+"up5": 4,
+"lead": "케이에스피",
+"lead_ret": 29.96,
+"second": "하이록코리아",
+"second_ret": 7.3
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 7.11,
+"up5": 7,
+"lead": "차바이오텍",
+"lead_ret": 30.0,
+"second": "동구바이오제약",
+"second_ret": 16.21
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 5.52,
+"up5": 8,
+"lead": "차바이오텍",
+"lead_ret": 30.0,
+"second": "리가켐바이오",
+"second_ret": 16.59
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 5.02,
+"up5": 5,
+"lead": "엔케이",
+"lead_ret": 29.61,
+"second": "대창솔루션",
+"second_ret": 27.87
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 4.71,
+"up5": 3,
+"lead": "BNK금융지주",
+"lead_ret": 6.38,
+"second": "우리금융지주",
+"second_ret": 6.36
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 4.68,
+"up5": 3,
+"lead": "미스터블루",
+"lead_ret": 29.89,
+"second": "디앤씨미디어",
+"second_ret": 6.34
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 4.57,
+"up5": 4,
+"lead": "대창솔루션",
+"lead_ret": 27.87,
+"second": "아이텍",
+"second_ret": 8.58
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": 4.51,
+"up5": 2,
+"lead": "대창솔루션",
+"lead_ret": 27.87,
+"second": "두산에너빌리티",
+"second_ret": 9.45
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.9,
+"up5": 2,
+"lead": "삼성화재",
+"lead_ret": 8.85,
+"second": "DB손해보험",
+"second_ret": 6.35
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 3.86,
+"up5": 5,
+"lead": "리가켐바이오",
+"lead_ret": 16.59,
+"second": "앱클론",
+"second_ret": 16.18
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.09,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": 0.69,
+"second": "대한약품",
+"second_ret": 0.33
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.08,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 0.75,
+"second": "우성머티리얼스",
+"second_ret": 0.0
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -0.89,
+"up5": 1,
+"lead": "유비온",
+"lead_ret": 9.21,
+"second": "삼성출판사",
+"second_ret": 2.59
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -0.76,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 0.99,
+"second": "유비벨록스",
+"second_ret": 0.56
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": -0.65,
+"up5": 1,
+"lead": "얼라인드",
+"lead_ret": 9.86,
+"second": "인바이오젠",
+"second_ret": 3.49
+}
+],
+"leaders": [
+{
+"name": "차바이오텍",
+"code": "085660",
+"ret": 30.0,
+"value": 4936,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "LB세미콘",
+"code": "061970",
+"ret": 15.95,
+"value": 4571,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 18.27,
+"value": 3834,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "헬릭스미스",
+"code": "084990",
+"ret": 13.06,
+"value": 2426,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "안트로젠",
+"code": "065660",
+"ret": 12.13,
+"value": 2134,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250916",
+"kospi": 1.24,
+"kosdaq": -0.1,
+"adv": 876,
+"dec": 1363,
+"flat": 140,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 213401,
+"hot": [
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "이미지스",
+"lead_ret": 29.87,
+"second": "켐트로닉스",
+"second_ret": 15.4
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "이미지스",
+"lead_ret": 29.87,
+"second": "아이언디바이스",
+"second_ret": 11.62
+},
+{
+"name": "전력반도체",
+"n": 3,
+"lead": "아이언디바이스",
+"lead_ret": 11.62,
+"second": "코스텍시스",
+"second_ret": 10.71
+}
+],
+"themes": [
+{
+"name": "웹툰",
+"n": 14,
+"avg": 4.76,
+"up5": 3,
+"lead": "미스터블루",
+"lead_ret": 29.7,
+"second": "엔키AX",
+"second_ret": 16.57
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 4.7,
+"up5": 8,
+"lead": "기가비스",
+"lead_ret": 16.99,
+"second": "켐트로닉스",
+"second_ret": 15.4
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.32,
+"up5": 2,
+"lead": "LG디스플레이",
+"lead_ret": 10.46,
+"second": "SK하이닉스",
+"second_ret": 5.14
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.99,
+"up5": 3,
+"lead": "기가비스",
+"lead_ret": 16.99,
+"second": "심텍홀딩스",
+"second_ret": 8.53
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.75,
+"up5": 2,
+"lead": "켐트로닉스",
+"lead_ret": 15.4,
+"second": "아이씨에이치",
+"second_ret": 12.78
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.43,
+"up5": 3,
+"lead": "우진",
+"lead_ret": 11.23,
+"second": "두산에너빌리티",
+"second_ret": 7.65
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.4,
+"up5": 3,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 9.49,
+"second": "두산에너빌리티",
+"second_ret": 7.65
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.24,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.14,
+"second": "삼성전자",
+"second_ret": 3.79
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.24,
+"up5": 5,
+"lead": "루미르",
+"lead_ret": 26.85,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 9.49
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 2.17,
+"up5": 4,
+"lead": "아이언디바이스",
+"lead_ret": 11.62,
+"second": "코스텍시스",
+"second_ret": 10.71
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 1.99,
+"up5": 3,
+"lead": "아이언디바이스",
+"lead_ret": 11.62,
+"second": "유니퀘스트",
+"second_ret": 8.97
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 1.83,
+"up5": 4,
+"lead": "LG디스플레이",
+"lead_ret": 10.46,
+"second": "LG이노텍",
+"second_ret": 7.15
+}
+],
+"themes_worst": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.45,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": 0.62,
+"second": "유한양행",
+"second_ret": 0.25
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.45,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.66,
+"second": "삼성바이오로직스",
+"second_ret": -0.38
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -1.98,
+"up5": 0,
+"lead": "링크솔루션",
+"lead_ret": 2.92,
+"second": "로킷헬스케어",
+"second_ret": 1.99
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.97,
+"up5": 0,
+"lead": "상보",
+"lead_ret": -0.75,
+"second": "오픈베이스",
+"second_ret": -1.39
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -1.68,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": -0.11,
+"second": "유라클",
+"second_ret": -0.8
+}
+],
+"leaders": [
+{
+"name": "한라캐스트",
+"code": "125490",
+"ret": 15.51,
+"value": 5606,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "LG디스플레이",
+"code": "034220",
+"ret": 10.46,
+"value": 2840,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 13.35,
+"value": 2584,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "프로티나",
+"code": "468530",
+"ret": 10.45,
+"value": 1798,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "루미르",
+"code": "474170",
+"ret": 26.85,
+"value": 1379,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

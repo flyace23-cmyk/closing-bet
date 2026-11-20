@@ -1,0 +1,254 @@
+{
+"date": "20230302",
+"kospi": 0.62,
+"kosdaq": -0.56,
+"adv": 1039,
+"dec": 992,
+"flat": 107,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 185834,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "미래컴퍼니",
+"lead_ret": 29.85,
+"second": "성일하이텍",
+"second_ret": 24.13
+},
+{
+"name": "리튬",
+"n": 5,
+"lead": "성일하이텍",
+"lead_ret": 24.13,
+"second": "앱튼",
+"second_ret": 21.52
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "한샘",
+"lead_ret": 19.73,
+"second": "제룡전기",
+"second_ret": 11.92
+}
+],
+"themes": [
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 5.94,
+"up5": 9,
+"lead": "성일하이텍",
+"lead_ret": 24.13,
+"second": "새빗켐",
+"second_ret": 13.83
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.54,
+"up5": 7,
+"lead": "성일하이텍",
+"lead_ret": 24.13,
+"second": "앱튼",
+"second_ret": 21.52
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.29,
+"up5": 8,
+"lead": "미래컴퍼니",
+"lead_ret": 29.85,
+"second": "미코",
+"second_ret": 19.39
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.79,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 8.19,
+"second": "성광벤드",
+"second_ret": 5.68
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 3.76,
+"up5": 4,
+"lead": "꿈비",
+"lead_ret": 29.87,
+"second": "메디앙스",
+"second_ret": 23.68
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 3.63,
+"up5": 2,
+"lead": "팬오션",
+"lead_ret": 6.79,
+"second": "대한해운",
+"second_ret": 5.77
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.47,
+"up5": 2,
+"lead": "현대제철",
+"lead_ret": 6.43,
+"second": "POSCO홀딩스",
+"second_ret": 5.97
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.43,
+"up5": 3,
+"lead": "아모그린텍",
+"lead_ret": 16.17,
+"second": "소프트센",
+"second_ret": 11.65
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.43,
+"up5": 1,
+"lead": "한국팩키지",
+"lead_ret": 10.28,
+"second": "세림B&G",
+"second_ret": 3.95
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 3.18,
+"up5": 4,
+"lead": "꿈비",
+"lead_ret": 29.87,
+"second": "메디앙스",
+"second_ret": 23.68
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 3.01,
+"up5": 3,
+"lead": "아바텍",
+"lead_ret": 9.92,
+"second": "아모텍",
+"second_ret": 6.81
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.82,
+"up5": 3,
+"lead": "아모그린텍",
+"lead_ret": 16.17,
+"second": "케스피온",
+"second_ret": 8.38
+}
+],
+"themes_worst": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": -3.15,
+"up5": 0,
+"lead": "브리지텍",
+"lead_ret": 4.65,
+"second": "이노테나",
+"second_ret": 0.44
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.64,
+"up5": 0,
+"lead": "나이스정보통신",
+"lead_ret": 0.18,
+"second": "NICE",
+"second_ret": -0.73
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -2.41,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.33,
+"second": "네패스아크",
+"second_ret": -1.36
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": -1.9,
+"up5": 0,
+"lead": "세코닉스",
+"lead_ret": 1.68,
+"second": "시공테크",
+"second_ret": 1.42
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": -1.85,
+"up5": 0,
+"lead": "NHN",
+"lead_ret": 2.07,
+"second": "티쓰리",
+"second_ret": 1.61
+}
+],
+"leaders": [
+{
+"name": "성일하이텍",
+"code": "365340",
+"ret": 24.13,
+"value": 6555,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 10.9,
+"value": 4357,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "새빗켐",
+"code": "107600",
+"ret": 13.83,
+"value": 3551,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "미래컴퍼니",
+"code": "049950",
+"ret": 29.85,
+"value": 2408,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "꿈비",
+"code": "407400",
+"ret": 29.87,
+"value": 1882,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+}
+],
+"backfilled": true
+}

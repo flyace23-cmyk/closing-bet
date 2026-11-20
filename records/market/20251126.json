@@ -1,0 +1,254 @@
+{
+"date": "20251126",
+"kospi": 2.67,
+"kosdaq": 2.49,
+"adv": 1897,
+"dec": 398,
+"flat": 95,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 219109,
+"hot": [
+{
+"name": "면역항암제",
+"n": 6,
+"lead": "바이젠셀",
+"lead_ret": 29.96,
+"second": "이뮨온시아",
+"second_ret": 16.94
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "새빗켐",
+"lead_ret": 16.34,
+"second": "아이비젼웍스",
+"second_ret": 14.02
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "이노테크",
+"lead_ret": 29.96,
+"second": "아이에스티이",
+"second_ret": 23.55
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 6.76,
+"up5": 14,
+"lead": "새빗켐",
+"lead_ret": 16.34,
+"second": "에코프로",
+"second_ret": 11.04
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 5.63,
+"up5": 10,
+"lead": "바이젠셀",
+"lead_ret": 29.96,
+"second": "이뮨온시아",
+"second_ret": 16.94
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 5.08,
+"up5": 2,
+"lead": "차바이오텍",
+"lead_ret": 8.48,
+"second": "메디포스트",
+"second_ret": 5.96
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.87,
+"up5": 4,
+"lead": "에코프로",
+"lead_ret": 11.04,
+"second": "에코프로비엠",
+"second_ret": 9.17
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 4.52,
+"up5": 8,
+"lead": "새빗켐",
+"lead_ret": 16.34,
+"second": "에코프로",
+"second_ret": 11.04
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 4.22,
+"up5": 2,
+"lead": "그래피",
+"lead_ret": 29.95,
+"second": "오스코텍",
+"second_ret": 10.34
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 4.1,
+"up5": 1,
+"lead": "LG화학",
+"lead_ret": 9.37,
+"second": "금호석유화학",
+"second_ret": 4.23
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.96,
+"up5": 9,
+"lead": "엠플러스",
+"lead_ret": 11.54,
+"second": "삼성SDI",
+"second_ret": 7.03
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 3.95,
+"up5": 3,
+"lead": "엘앤에프",
+"lead_ret": 9.24,
+"second": "SK이노베이션",
+"second_ret": 5.59
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.91,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.73,
+"second": "GS건설",
+"second_ret": 4.05
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.87,
+"up5": 4,
+"lead": "현대건설",
+"lead_ret": 7.73,
+"second": "우진",
+"second_ret": 6.3
+},
+{
+"name": "유전자 치료제/분석",
+"n": 38,
+"avg": 3.83,
+"up5": 9,
+"lead": "바이젠셀",
+"lead_ret": 29.96,
+"second": "코오롱생명과학",
+"second_ret": 15.36
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -2.02,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": 0.0,
+"second": "GS리테일",
+"second_ret": -0.68
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.87,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 3.11,
+"second": "동원산업",
+"second_ret": 1.94
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 0.12,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 1.94,
+"second": "CJ씨푸드",
+"second_ret": 1.48
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 0.19,
+"up5": 0,
+"lead": "제이에스코퍼레이션",
+"lead_ret": 2.74,
+"second": "아난티",
+"second_ret": 2.37
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 35,
+"avg": 0.19,
+"up5": 1,
+"lead": "센서뷰",
+"lead_ret": 5.59,
+"second": "태웅",
+"second_ret": 4.71
+}
+],
+"leaders": [
+{
+"name": "노타",
+"code": "486990",
+"ret": 29.88,
+"value": 5623,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "이뮨온시아",
+"code": "424870",
+"ret": 16.94,
+"value": 3333,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 11.04,
+"value": 3092,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "프로티나",
+"code": "468530",
+"ret": 14.61,
+"value": 2837,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "로킷헬스케어",
+"code": "376900",
+"ret": 10.87,
+"value": 2251,
+"theme": "3D 프린터",
+"reason": "테마: 3D 프린터"
+}
+],
+"backfilled": true
+}

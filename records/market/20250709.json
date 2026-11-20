@@ -1,0 +1,254 @@
+{
+"date": "20250709",
+"kospi": 0.6,
+"kosdaq": 0.78,
+"adv": 1517,
+"dec": 741,
+"flat": 108,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 175537,
+"hot": [
+{
+"name": "지주사",
+"n": 4,
+"lead": "롯데지주",
+"lead_ret": 20.96,
+"second": "대웅",
+"second_ret": 15.74
+},
+{
+"name": "증권",
+"n": 3,
+"lead": "부국증권",
+"lead_ret": 29.9,
+"second": "신영증권",
+"second_ret": 17.18
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "제이에스링크",
+"lead_ret": 18.21,
+"second": "대웅",
+"second_ret": 15.74
+}
+],
+"themes": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 7.87,
+"up5": 5,
+"lead": "NHN KCP",
+"lead_ret": 30.0,
+"second": "인포바인",
+"second_ret": 29.99
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 7.74,
+"up5": 14,
+"lead": "부국증권",
+"lead_ret": 29.9,
+"second": "신영증권",
+"second_ret": 17.18
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 7.33,
+"up5": 3,
+"lead": "NHN KCP",
+"lead_ret": 30.0,
+"second": "KG이니시스",
+"second_ret": 9.35
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 6.51,
+"up5": 3,
+"lead": "롯데지주",
+"lead_ret": 20.96,
+"second": "유성티엔에스",
+"second_ret": 5.8
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.21,
+"up5": 3,
+"lead": "한화생명",
+"lead_ret": 10.44,
+"second": "한화투자증권",
+"second_ret": 6.24
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.75,
+"up5": 7,
+"lead": "NHN KCP",
+"lead_ret": 30.0,
+"second": "미투온",
+"second_ret": 10.58
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.69,
+"up5": 4,
+"lead": "대성산업",
+"lead_ret": 14.84,
+"second": "E1",
+"second_ret": 6.28
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.69,
+"up5": 4,
+"lead": "대성산업",
+"lead_ret": 14.84,
+"second": "E1",
+"second_ret": 6.28
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 4.16,
+"up5": 7,
+"lead": "비트플래닛",
+"lead_ret": 29.89,
+"second": "매커스",
+"second_ret": 22.09
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 3.88,
+"up5": 5,
+"lead": "NHN KCP",
+"lead_ret": 30.0,
+"second": "인포바인",
+"second_ret": 29.99
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.84,
+"up5": 3,
+"lead": "KCC",
+"lead_ret": 9.04,
+"second": "노루홀딩스",
+"second_ret": 7.53
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.81,
+"up5": 1,
+"lead": "샘표",
+"lead_ret": 11.96,
+"second": "신송홀딩스",
+"second_ret": 3.31
+}
+],
+"themes_worst": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -2.01,
+"up5": 0,
+"lead": "유에스티",
+"lead_ret": 1.46,
+"second": "한국주철관",
+"second_ret": 1.26
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -1.75,
+"up5": 0,
+"lead": "에스피지",
+"lead_ret": 1.9,
+"second": "쿠쿠홈시스",
+"second_ret": 1.09
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.54,
+"up5": 0,
+"lead": "삼양패키징",
+"lead_ret": 1.22,
+"second": "씨티케이",
+"second_ret": 0.44
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.45,
+"up5": 0,
+"lead": "동양에스텍",
+"lead_ret": 1.19,
+"second": "엔케이",
+"second_ret": 0.96
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -1.22,
+"up5": 0,
+"lead": "에이디테크놀로지",
+"lead_ret": 0.97,
+"second": "네패스",
+"second_ret": 0.76
+}
+],
+"leaders": [
+{
+"name": "뉴엔AI",
+"code": "463020",
+"ret": 14.61,
+"value": 4592,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "더즌",
+"code": "462860",
+"ret": 10.37,
+"value": 1891,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "지에프씨생명과학",
+"code": "388610",
+"ret": 10.13,
+"value": 1736,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 13.91,
+"value": 1643,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "NHN KCP",
+"code": "060250",
+"ret": 30.0,
+"value": 1417,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

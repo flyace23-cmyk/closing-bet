@@ -1,0 +1,254 @@
+{
+"date": "20220531",
+"kospi": 0.61,
+"kosdaq": 0.78,
+"adv": 1145,
+"dec": 699,
+"flat": 236,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 200156,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 5,
+"lead": "씨에스베어링",
+"lead_ret": 20.34,
+"second": "유니슨",
+"second_ret": 15.57
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "글로벌에스엠",
+"lead_ret": 29.99,
+"second": "쎄노텍",
+"second_ret": 10.92
+},
+{
+"name": "국내 상장 중국기업",
+"n": 4,
+"lead": "글로벌에스엠",
+"lead_ret": 29.99,
+"second": "헝셩그룹",
+"second_ret": 24.69
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 8.71,
+"up5": 4,
+"lead": "글로벌에스엠",
+"lead_ret": 29.99,
+"second": "헝셩그룹",
+"second_ret": 24.69
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 2.81,
+"up5": 6,
+"lead": "씨에스베어링",
+"lead_ret": 20.34,
+"second": "유니슨",
+"second_ret": 15.57
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.75,
+"up5": 2,
+"lead": "LS",
+"lead_ret": 6.8,
+"second": "일진전기",
+"second_ret": 6.55
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.57,
+"up5": 2,
+"lead": "대모",
+"lead_ret": 10.27,
+"second": "현대에버다임",
+"second_ret": 7.44
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.4,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 7.63,
+"second": "S-Oil",
+"second_ret": 3.11
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.4,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 7.63,
+"second": "S-Oil",
+"second_ret": 3.11
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.39,
+"up5": 3,
+"lead": "일진홀딩스",
+"lead_ret": 17.38,
+"second": "서전기전",
+"second_ret": 7.41
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.34,
+"up5": 1,
+"lead": "현대모비스",
+"lead_ret": 6.07,
+"second": "현대위아",
+"second_ret": 2.79
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.17,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 6.8,
+"second": "동아지질",
+"second_ret": 2.91
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.16,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 7.63,
+"second": "HD현대",
+"second_ret": 4.34
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 2.11,
+"up5": 3,
+"lead": "RF머트리얼즈",
+"lead_ret": 10.8,
+"second": "RFHIC",
+"second_ret": 7.25
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.0,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.11,
+"second": "SK이노베이션",
+"second_ret": 2.62
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.54,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -0.92,
+"second": "풀무원",
+"second_ret": -0.97
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -1.4,
+"up5": 1,
+"lead": "대주산업",
+"lead_ret": 5.39,
+"second": "애드바이오텍",
+"second_ret": 0.95
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -1.09,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": 0.82,
+"second": "팬스타엔터프라이즈",
+"second_ret": 0.57
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -1.08,
+"up5": 0,
+"lead": "SBS",
+"lead_ret": 0.2,
+"second": "대산F&B",
+"second_ret": 0.13
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -0.95,
+"up5": 0,
+"lead": "대성미생물",
+"lead_ret": 0.33,
+"second": "한성기업",
+"second_ret": 0.12
+}
+],
+"leaders": [
+{
+"name": "일진홀딩스",
+"code": "015860",
+"ret": 17.38,
+"value": 3409,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 18.89,
+"value": 1654,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "신화콘텍",
+"code": "187270",
+"ret": 19.53,
+"value": 1546,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대모",
+"code": "317850",
+"ret": 10.27,
+"value": 1179,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "씨에스베어링",
+"code": "297090",
+"ret": 20.34,
+"value": 661,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

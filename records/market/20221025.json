@@ -1,0 +1,254 @@
+{
+"date": "20221025",
+"kospi": -0.05,
+"kosdaq": 0.05,
+"adv": 925,
+"dec": 1009,
+"flat": 176,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 113516,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "지오엘리먼트",
+"lead_ret": 20.8,
+"second": "하나마이크론",
+"second_ret": 9.75
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "넥스트칩",
+"lead_ret": 11.22,
+"second": "하나마이크론",
+"second_ret": 9.75
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "노을",
+"lead_ret": 11.37,
+"second": "넥스트칩",
+"second_ret": 11.22
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.74,
+"up5": 2,
+"lead": "SBI인베스트먼트",
+"lead_ret": 18.75,
+"second": "아주IB투자",
+"second_ret": 6.39
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 3.5,
+"up5": 3,
+"lead": "SBI인베스트먼트",
+"lead_ret": 18.75,
+"second": "GMI벤처",
+"second_ret": 7.2
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.36,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 21.2,
+"second": "CJ씨푸드",
+"second_ret": 0.76
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.31,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 21.2,
+"second": "흥국에프엔비",
+"second_ret": 6.96
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.21,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 5.96,
+"second": "네패스아크",
+"second_ret": 5.91
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.94,
+"up5": 1,
+"lead": "예스티",
+"lead_ret": 6.08,
+"second": "지아이에스",
+"second_ret": 4.85
+},
+{
+"name": "시스템반도체",
+"n": 43,
+"avg": 2.91,
+"up5": 10,
+"lead": "넥스트칩",
+"lead_ret": 11.22,
+"second": "하나마이크론",
+"second_ret": 9.75
+},
+{
+"name": "온디바이스 AI",
+"n": 20,
+"avg": 2.82,
+"up5": 3,
+"lead": "칩스앤미디어",
+"lead_ret": 8.98,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.96
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.76,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 5.0,
+"second": "티엘비",
+"second_ret": 4.89
+},
+{
+"name": "반도체 재료/부품",
+"n": 61,
+"avg": 2.41,
+"up5": 13,
+"lead": "지오엘리먼트",
+"lead_ret": 20.8,
+"second": "하나마이크론",
+"second_ret": 9.75
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 27,
+"avg": 2.3,
+"up5": 4,
+"lead": "와이씨켐",
+"lead_ret": 8.01,
+"second": "예스티",
+"second_ret": 6.08
+},
+{
+"name": "탈모 치료",
+"n": 23,
+"avg": 2.26,
+"up5": 2,
+"lead": "프롬바이오",
+"lead_ret": 24.76,
+"second": "타임X AI",
+"second_ret": 10.95
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -3.89,
+"up5": 0,
+"lead": "대창솔루션",
+"lead_ret": 0.84,
+"second": "에스앤더블류",
+"second_ret": 0.0
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": -2.79,
+"up5": 1,
+"lead": "에이프로젠",
+"lead_ret": 8.34,
+"second": "SG&G",
+"second_ret": 3.51
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -2.54,
+"up5": 0,
+"lead": "호텔신라",
+"lead_ret": -0.83,
+"second": "한국정보통신",
+"second_ret": -0.95
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.51,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -0.83,
+"second": "삼성중공업",
+"second_ret": -0.98
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -2.45,
+"up5": 0,
+"lead": "우림피티에스",
+"lead_ret": 1.01,
+"second": "한국전력",
+"second_ret": 0.3
+}
+],
+"leaders": [
+{
+"name": "프롬바이오",
+"code": "377220",
+"ret": 24.76,
+"value": 931,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "팜젠사이언스",
+"code": "004720",
+"ret": 19.5,
+"value": 745,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 29.89,
+"value": 736,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "SBI인베스트먼트",
+"code": "019550",
+"ret": 18.75,
+"value": 633,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "대아티아이",
+"code": "045390",
+"ret": 12.99,
+"value": 414,
+"theme": "철도",
+"reason": "테마: 철도"
+}
+],
+"backfilled": true
+}

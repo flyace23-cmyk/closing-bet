@@ -1,0 +1,254 @@
+{
+"date": "20220413",
+"kospi": 1.86,
+"kosdaq": 1.48,
+"adv": 1542,
+"dec": 377,
+"flat": 158,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 157168,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "이랜텍",
+"lead_ret": 14.54,
+"second": "신흥에스이씨",
+"second_ret": 11.73
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "랩지노믹스",
+"lead_ret": 17.62,
+"second": "신풍제약",
+"second_ret": 16.77
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "로스웰",
+"lead_ret": 29.93,
+"second": "신흥에스이씨",
+"second_ret": 11.73
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 9.9,
+"up5": 4,
+"lead": "로스웰",
+"lead_ret": 29.93,
+"second": "딥커머스",
+"second_ret": 29.51
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 5.89,
+"up5": 4,
+"lead": "삼성중공업",
+"lead_ret": 7.93,
+"second": "HD한국조선해양",
+"second_ret": 7.12
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 4.06,
+"up5": 2,
+"lead": "이랜텍",
+"lead_ret": 14.54,
+"second": "아모센스",
+"second_ret": 14.45
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.98,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 6.77,
+"second": "한미약품",
+"second_ret": 6.11
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.98,
+"up5": 3,
+"lead": "에이프로젠",
+"lead_ret": 18.75,
+"second": "에이프로젠바이오로직스",
+"second_ret": 8.68
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 2.86,
+"up5": 1,
+"lead": "국순당",
+"lead_ret": 6.83,
+"second": "티엘비",
+"second_ret": 4.28
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 20,
+"avg": 2.79,
+"up5": 3,
+"lead": "LG헬로비전",
+"lead_ret": 29.98,
+"second": "디티씨",
+"second_ret": 6.75
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 2.73,
+"up5": 2,
+"lead": "이랜텍",
+"lead_ret": 14.54,
+"second": "포니링크",
+"second_ret": 7.74
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.71,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 3.81,
+"second": "LG전자",
+"second_ret": 3.67
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.67,
+"up5": 1,
+"lead": "세아제강",
+"lead_ret": 6.18,
+"second": "휴스틸",
+"second_ret": 4.7
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": 2.66,
+"up5": 3,
+"lead": "MH에탄올",
+"lead_ret": 13.31,
+"second": "국순당",
+"second_ret": 6.83
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 2.58,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 4.87,
+"second": "에코프로비엠",
+"second_ret": 4.74
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.74,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 1.34,
+"second": "롯데정밀화학",
+"second_ret": 0.94
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.56,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 2.31,
+"second": "삼성화재",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.44,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.56,
+"second": "KSS해운",
+"second_ret": 0.44
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.31,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 3.04,
+"second": "대성에너지",
+"second_ret": 1.67
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -0.12,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": 1.45,
+"second": "CJ씨푸드",
+"second_ret": 0.74
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 16.77,
+"value": 3024,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "케이피에프",
+"code": "024880",
+"ret": 11.33,
+"value": 1880,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "아모센스",
+"code": "357580",
+"ret": 14.45,
+"value": 1547,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "에이프로젠",
+"code": "007460",
+"ret": 18.75,
+"value": 1327,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "LG헬로비전",
+"code": "037560",
+"ret": 29.98,
+"value": 1253,
+"theme": "전기차(충전소/충전기)",
+"reason": "테마: 전기차(충전소/충전기)"
+}
+],
+"backfilled": true
+}

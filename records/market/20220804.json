@@ -1,0 +1,254 @@
+{
+"date": "20220804",
+"kospi": 0.47,
+"kosdaq": 1.2,
+"adv": 1176,
+"dec": 722,
+"flat": 196,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 134004,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 6,
+"lead": "위메이드맥스",
+"lead_ret": 29.94,
+"second": "위메이드",
+"second_ret": 25.25
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 6,
+"lead": "위메이드",
+"lead_ret": 25.25,
+"second": "컴투스홀딩스",
+"second_ret": 15.52
+},
+{
+"name": "면역항암제",
+"n": 5,
+"lead": "안국약품",
+"lead_ret": 18.41,
+"second": "앱클론",
+"second_ret": 10.55
+}
+],
+"themes": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 5.5,
+"up5": 10,
+"lead": "위메이드맥스",
+"lead_ret": 29.94,
+"second": "위메이드",
+"second_ret": 25.25
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 5.08,
+"up5": 7,
+"lead": "위메이드맥스",
+"lead_ret": 29.94,
+"second": "위메이드",
+"second_ret": 25.25
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.82,
+"up5": 6,
+"lead": "위메이드",
+"lead_ret": 25.25,
+"second": "컴투스홀딩스",
+"second_ret": 15.52
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 4.65,
+"up5": 4,
+"lead": "키다리스튜디오",
+"lead_ret": 9.82,
+"second": "카카오",
+"second_ret": 7.5
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 4.51,
+"up5": 7,
+"lead": "위메이드",
+"lead_ret": 25.25,
+"second": "카카오페이",
+"second_ret": 14.95
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.34,
+"up5": 6,
+"lead": "위메이드",
+"lead_ret": 25.25,
+"second": "컴투스홀딩스",
+"second_ret": 15.52
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.43,
+"up5": 4,
+"lead": "카카오페이",
+"lead_ret": 14.95,
+"second": "헥토파이낸셜",
+"second_ret": 8.85
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 30,
+"avg": 2.96,
+"up5": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 15.52,
+"second": "키다리스튜디오",
+"second_ret": 9.82
+},
+{
+"name": "면역항암제",
+"n": 29,
+"avg": 2.93,
+"up5": 6,
+"lead": "안국약품",
+"lead_ret": 18.41,
+"second": "앱클론",
+"second_ret": 10.55
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.83,
+"up5": 3,
+"lead": "진에어",
+"lead_ret": 7.19,
+"second": "대한항공",
+"second_ret": 5.18
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.8,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 8.15,
+"second": "에스티팜",
+"second_ret": 6.11
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.7,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 8.15,
+"second": "유한양행",
+"second_ret": 3.02
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.06,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 0.6,
+"second": "KG케미칼",
+"second_ret": -0.54
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.9,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.58,
+"second": "한화오션",
+"second_ret": -0.73
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.74,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.73,
+"second": "샘표식품",
+"second_ret": -0.9
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.74,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 1.32,
+"second": "비엠티",
+"second_ret": 1.12
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": -1.66,
+"up5": 0,
+"lead": "동방선기",
+"lead_ret": 2.33,
+"second": "비엠티",
+"second_ret": 1.12
+}
+],
+"leaders": [
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 25.25,
+"value": 4931,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 14.95,
+"value": 2142,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "영우디에스피",
+"code": "143540",
+"ret": 12.6,
+"value": 1134,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "위메이드맥스",
+"code": "101730",
+"ret": 29.94,
+"value": 1043,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 15.52,
+"value": 896,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

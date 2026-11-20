@@ -1,0 +1,254 @@
+{
+"date": "20230518",
+"kospi": 0.83,
+"kosdaq": 0.2,
+"adv": 1376,
+"dec": 624,
+"flat": 155,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 156072,
+"hot": [
+{
+"name": "페라이트",
+"n": 5,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "삼화전기",
+"second_ret": 29.95
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "삼화전기",
+"second_ret": 29.95
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "퍼스텍",
+"lead_ret": 21.14,
+"second": "에스코넥",
+"second_ret": 15.85
+}
+],
+"themes": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": 9.69,
+"up5": 8,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "삼화전기",
+"second_ret": 29.95
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 9.69,
+"up5": 8,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "삼화전기",
+"second_ret": 29.95
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 4.86,
+"up5": 5,
+"lead": "상신전자",
+"lead_ret": 19.88,
+"second": "아이씨에이치",
+"second_ret": 6.62
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 4.57,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "LX인터내셔널",
+"second_ret": 7.31
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 4.51,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 30.0,
+"second": "EG",
+"second_ret": 11.69
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.93,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 29.95,
+"second": "손오공",
+"second_ret": 1.31
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.82,
+"up5": 4,
+"lead": "파이버프로",
+"lead_ret": 10.76,
+"second": "라이콤",
+"second_ret": 9.61
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 3.56,
+"up5": 2,
+"lead": "서울반도체",
+"lead_ret": 10.09,
+"second": "코세스",
+"second_ret": 6.96
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 3.34,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 9.62,
+"second": "에이디테크놀로지",
+"second_ret": 5.44
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.27,
+"up5": 3,
+"lead": "GS글로벌",
+"lead_ret": 7.85,
+"second": "LX인터내셔널",
+"second_ret": 7.31
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.09,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 8.4,
+"second": "ISC",
+"second_ret": 6.68
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.06,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 8.4,
+"second": "인텍플러스",
+"second_ret": 5.09
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 18,
+"avg": -3.64,
+"up5": 0,
+"lead": "애드바이오텍",
+"lead_ret": 1.97,
+"second": "선진",
+"second_ret": -0.23
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.18,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 2.29,
+"second": "퀀텀레일",
+"second_ret": 1.21
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -2.17,
+"up5": 0,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 1.42,
+"second": "에프엔씨엔터",
+"second_ret": 1.41
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": -1.92,
+"up5": 0,
+"lead": "전진바이오팜",
+"lead_ret": 4.79,
+"second": "태경비케이",
+"second_ret": 2.88
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.8,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.28,
+"second": "샘표",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 21.14,
+"value": 3043,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "서울반도체",
+"code": "046890",
+"ret": 10.09,
+"value": 2526,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+},
+{
+"name": "씨큐브",
+"code": "101240",
+"ret": 19.91,
+"value": 1864,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 20.17,
+"value": 1660,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "삼화전자",
+"code": "011230",
+"ret": 30.0,
+"value": 1567,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+}
+],
+"backfilled": true
+}

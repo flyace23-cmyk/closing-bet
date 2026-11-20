@@ -1,0 +1,254 @@
+{
+"date": "20200407",
+"kospi": 1.77,
+"kosdaq": 1.62,
+"adv": 1428,
+"dec": 366,
+"flat": 116,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 234468,
+"hot": [
+{
+"name": "콜드체인(저온 유통)",
+"n": 4,
+"lead": "지씨셀",
+"lead_ret": 29.99,
+"second": "서린바이오",
+"second_ret": 26.56
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "레몬",
+"lead_ret": 29.75,
+"second": "톱텍",
+"second_ret": 18.56
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "아이로보틱스",
+"lead_ret": 29.96,
+"second": "로보스타",
+"second_ret": 13.89
+}
+],
+"themes": [
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 10.0,
+"up5": 7,
+"lead": "지씨셀",
+"lead_ret": 29.99,
+"second": "서린바이오",
+"second_ret": 26.56
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 9.54,
+"up5": 8,
+"lead": "윙입푸드",
+"lead_ret": 18.96,
+"second": "GRT",
+"second_ret": 15.68
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 7.74,
+"up5": 2,
+"lead": "지씨셀",
+"lead_ret": 29.99,
+"second": "녹십자",
+"second_ret": 7.79
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 7.39,
+"up5": 6,
+"lead": "한네트",
+"lead_ret": 16.08,
+"second": "푸른로보틱스",
+"second_ret": 12.55
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.77,
+"up5": 4,
+"lead": "한진칼",
+"lead_ret": 23.18,
+"second": "AK홀딩스",
+"second_ret": 11.96
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 5.95,
+"up5": 4,
+"lead": "레몬",
+"lead_ret": 29.75,
+"second": "아모텍",
+"second_ret": 9.14
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 5.71,
+"up5": 14,
+"lead": "알파칩스",
+"lead_ret": 29.98,
+"second": "동운아나텍",
+"second_ret": 17.15
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 5.53,
+"up5": 7,
+"lead": "오르비텍",
+"lead_ret": 13.79,
+"second": "한화에어로스페이스",
+"second_ret": 10.67
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 5.36,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 12.73,
+"second": "TS인베스트먼트",
+"second_ret": 8.25
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 18,
+"avg": 5.26,
+"up5": 8,
+"lead": "원익피앤이",
+"lead_ret": 16.33,
+"second": "디티씨",
+"second_ret": 11.78
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.25,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 10.08,
+"second": "GKL",
+"second_ret": 6.87
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.25,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 10.08,
+"second": "GKL",
+"second_ret": 6.87
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -2.11,
+"up5": 0,
+"lead": "경동제약",
+"lead_ret": 2.56,
+"second": "인트론바이오",
+"second_ret": 0.74
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.6,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 1.95,
+"second": "대성산업",
+"second_ret": 1.19
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.6,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 1.95,
+"second": "대성산업",
+"second_ret": 1.19
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": -1.08,
+"up5": 2,
+"lead": "윙입푸드",
+"lead_ret": 18.96,
+"second": "이글벳",
+"second_ret": 8.56
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -0.98,
+"up5": 0,
+"lead": "정다운",
+"lead_ret": 2.49,
+"second": "태경비케이",
+"second_ret": 1.37
+}
+],
+"leaders": [
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 23.18,
+"value": 7048,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "레몬",
+"code": "294140",
+"ret": 29.75,
+"value": 6146,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "톱텍",
+"code": "108230",
+"ret": 18.56,
+"value": 5766,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 15.97,
+"value": 2502,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "지씨셀",
+"code": "144510",
+"ret": 29.99,
+"value": 1347,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

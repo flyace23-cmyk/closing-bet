@@ -1,0 +1,254 @@
+{
+"date": "20200206",
+"kospi": 2.88,
+"kosdaq": 1.72,
+"adv": 1463,
+"dec": 308,
+"flat": 132,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 134623,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "엘앤씨바이오",
+"lead_ret": 11.81,
+"second": "제노레이",
+"second_ret": 8.64
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 4,
+"lead": "에이프로젠바이오로직스",
+"lead_ret": 29.63,
+"second": "신풍제약",
+"second_ret": 16.61
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "자비스",
+"lead_ret": 25.04,
+"second": "심텍",
+"second_ret": 19.15
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 6.81,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 19.15,
+"second": "코리아써키트",
+"second_ret": 14.29
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 6.01,
+"up5": 4,
+"lead": "대우건설",
+"lead_ret": 8.7,
+"second": "IPARK현대산업개발",
+"second_ret": 6.2
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 5.47,
+"up5": 3,
+"lead": "에이프로젠바이오로직스",
+"lead_ret": 29.63,
+"second": "에이프로젠",
+"second_ret": 19.25
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 11,
+"avg": 5.28,
+"up5": 4,
+"lead": "심텍",
+"lead_ret": 19.15,
+"second": "코리아써키트",
+"second_ret": 14.29
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": 4.85,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 24.03,
+"second": "한화솔루션",
+"second_ret": 7.84
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 4.47,
+"up5": 4,
+"lead": "호텔신라",
+"lead_ret": 6.74,
+"second": "HDC",
+"second_ret": 5.92
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.31,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 6.45,
+"second": "기아",
+"second_ret": 4.82
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 4.06,
+"up5": 2,
+"lead": "코리아써키트",
+"lead_ret": 14.29,
+"second": "국순당",
+"second_ret": 5.08
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 25,
+"avg": 3.99,
+"up5": 3,
+"lead": "자비스",
+"lead_ret": 25.04,
+"second": "심텍",
+"second_ret": 19.15
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.97,
+"up5": 2,
+"lead": "HD현대",
+"lead_ret": 15.85,
+"second": "중앙에너비스",
+"second_ret": 10.36
+},
+{
+"name": "항공기부품",
+"n": 13,
+"avg": 3.63,
+"up5": 1,
+"lead": "솔디펜스",
+"lead_ret": 14.87,
+"second": "현대위아",
+"second_ret": 4.81
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 3.6,
+"up5": 6,
+"lead": "HD한국조선해양",
+"lead_ret": 12.27,
+"second": "한화엔진",
+"second_ret": 8.41
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -0.78,
+"up5": 0,
+"lead": "신대양제지",
+"lead_ret": 2.01,
+"second": "리더스코스메틱",
+"second_ret": 1.58
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -0.71,
+"up5": 0,
+"lead": "경동제약",
+"lead_ret": 4.48,
+"second": "팜젠사이언스",
+"second_ret": 2.91
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.12,
+"up5": 0,
+"lead": "팜스토리",
+"lead_ret": 1.94,
+"second": "동우팜투테이블",
+"second_ret": 1.5
+},
+{
+"name": "마스크",
+"n": 19,
+"avg": -0.08,
+"up5": 1,
+"lead": "깨끗한나라",
+"lead_ret": 6.99,
+"second": "톱텍",
+"second_ret": 3.33
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 0.18,
+"up5": 0,
+"lead": "오리엔트정공",
+"lead_ret": 3.08,
+"second": "덕산하이메탈",
+"second_ret": 1.88
+}
+],
+"leaders": [
+{
+"name": "앱토크롬",
+"code": "109960",
+"ret": 29.94,
+"value": 14450,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 16.61,
+"value": 4859,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "에이프로젠",
+"code": "007460",
+"ret": 19.25,
+"value": 3211,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 29.83,
+"value": 1385,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "에이프로젠바이오로직스",
+"code": "003060",
+"ret": 29.63,
+"value": 1110,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+}
+],
+"backfilled": true
+}

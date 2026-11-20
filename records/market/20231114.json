@@ -1,0 +1,254 @@
+{
+"date": "20231114",
+"kospi": 1.23,
+"kosdaq": 2.55,
+"adv": 1750,
+"dec": 365,
+"flat": 96,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 117092,
+"hot": [
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "에이스테크",
+"lead_ret": 17.54,
+"second": "팸텍",
+"second_ret": 12.21
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "해성옵틱스",
+"lead_ret": 21.89,
+"second": "동운아나텍",
+"second_ret": 16.95
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "유니테크노",
+"lead_ret": 15.45,
+"second": "아진산업",
+"second_ret": 15.14
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 6.74,
+"up5": 4,
+"lead": "메가터치",
+"lead_ret": 22.86,
+"second": "에코프로비엠",
+"second_ret": 9.69
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 5.04,
+"up5": 4,
+"lead": "현대비앤지스틸",
+"lead_ret": 25.2,
+"second": "우성머티리얼스",
+"second_ret": 8.73
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.86,
+"up5": 4,
+"lead": "ISC",
+"lead_ret": 12.8,
+"second": "티엘비",
+"second_ret": 10.92
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 4.68,
+"up5": 8,
+"lead": "뷰노",
+"lead_ret": 17.19,
+"second": "폴라리스오피스",
+"second_ret": 12.68
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.61,
+"up5": 3,
+"lead": "스맥",
+"lead_ret": 20.46,
+"second": "에스티아이",
+"second_ret": 8.88
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 4.31,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 20.46,
+"second": "넥스턴앤롤코리아",
+"second_ret": 15.79
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 4.25,
+"up5": 2,
+"lead": "현대비앤지스틸",
+"lead_ret": 25.2,
+"second": "LG에너지솔루션",
+"second_ret": 5.17
+},
+{
+"name": "카메라모듈/부품",
+"n": 26,
+"avg": 3.83,
+"up5": 5,
+"lead": "해성옵틱스",
+"lead_ret": 21.89,
+"second": "동운아나텍",
+"second_ret": 16.95
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 3.78,
+"up5": 3,
+"lead": "켐트로닉스",
+"lead_ret": 11.21,
+"second": "상신전자",
+"second_ret": 9.08
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.52,
+"up5": 2,
+"lead": "켐트로닉스",
+"lead_ret": 11.21,
+"second": "웰킵스하이텍",
+"second_ret": 5.78
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 3.52,
+"up5": 2,
+"lead": "동운아나텍",
+"lead_ret": 16.95,
+"second": "텔레칩스",
+"second_ret": 5.32
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 29,
+"avg": 3.49,
+"up5": 6,
+"lead": "뉴프렉스",
+"lead_ret": 12.62,
+"second": "티엘비",
+"second_ret": 10.92
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -2.15,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 3.47,
+"second": "KSS해운",
+"second_ret": 0.25
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.34,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.57,
+"second": "삼성생명",
+"second_ret": 0.0
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -0.26,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 4.32,
+"second": "인지컨트롤스",
+"second_ret": 3.07
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.11,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 3.21,
+"second": "한화손해보험",
+"second_ret": 0.73
+},
+{
+"name": "패션/의류",
+"n": 48,
+"avg": 0.19,
+"up5": 1,
+"lead": "나인앤컴퍼니",
+"lead_ret": 6.57,
+"second": "에스티오",
+"second_ret": 3.68
+}
+],
+"leaders": [
+{
+"name": "에스와이스틸텍",
+"code": "365330",
+"ret": 29.9,
+"value": 1795,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "현대비앤지스틸",
+"code": "004560",
+"ret": 25.2,
+"value": 1478,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "메가터치",
+"code": "446540",
+"ret": 22.86,
+"value": 1262,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "경보제약",
+"code": "214390",
+"ret": 21.84,
+"value": 988,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "유니테크노",
+"code": "241690",
+"ret": 15.45,
+"value": 862,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

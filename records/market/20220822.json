@@ -1,0 +1,254 @@
+{
+"date": "20220822",
+"kospi": -1.21,
+"kosdaq": -2.25,
+"adv": 214,
+"dec": 1789,
+"flat": 93,
+"limit_up": 0,
+"limit_down": 1,
+"value_total": 105609,
+"hot": [
+{
+"name": "사료",
+"n": 6,
+"lead": "미래생명자원",
+"lead_ret": 16.69,
+"second": "한탑",
+"second_ret": 14.43
+},
+{
+"name": "음식료업종",
+"n": 4,
+"lead": "미래생명자원",
+"lead_ret": 16.69,
+"second": "한탑",
+"second_ret": 14.43
+},
+{
+"name": "농업",
+"n": 3,
+"lead": "누보",
+"lead_ret": 8.51,
+"second": "효성오앤비",
+"second_ret": 7.96
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.61,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 16.69,
+"second": "신송홀딩스",
+"second_ret": 5.29
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 4.36,
+"up5": 5,
+"lead": "미래생명자원",
+"lead_ret": 16.69,
+"second": "한탑",
+"second_ret": 14.43
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.71,
+"up5": 3,
+"lead": "누보",
+"lead_ret": 8.51,
+"second": "효성오앤비",
+"second_ret": 7.96
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.42,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 5.58,
+"second": "TKG휴켐스",
+"second_ret": 2.21
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 0.44,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 10.38,
+"second": "현대건설",
+"second_ret": 0.0
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 0.28,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.72,
+"second": "SK이노베이션",
+"second_ret": 0.24
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.15,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 2.8,
+"second": "대성에너지",
+"second_ret": 1.02
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.03,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.72,
+"second": "SK가스",
+"second_ret": 1.27
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.03,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 3.72,
+"second": "SK가스",
+"second_ret": 1.27
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 0.03,
+"up5": 1,
+"lead": "한일사료",
+"lead_ret": 9.98,
+"second": "팜스토리",
+"second_ret": 4.98
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -0.1,
+"up5": 1,
+"lead": "남해화학",
+"lead_ret": 7.18,
+"second": "S-Oil",
+"second_ret": 3.72
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": -0.17,
+"up5": 1,
+"lead": "한탑",
+"lead_ret": 14.43,
+"second": "S-Oil",
+"second_ret": 3.72
+}
+],
+"themes_worst": [
+{
+"name": "마이데이터",
+"n": 11,
+"avg": -4.28,
+"up5": 0,
+"lead": "NICE평가정보",
+"lead_ret": 1.36,
+"second": "NAVER",
+"second_ret": -1.01
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.18,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 0.84,
+"second": "성우전자",
+"second_ret": -3.43
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -4.09,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": -1.89,
+"second": "스맥",
+"second_ret": -2.41
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.75,
+"up5": 0,
+"lead": "가비아",
+"lead_ret": -0.42,
+"second": "NAVER",
+"second_ret": -1.01
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.73,
+"up5": 0,
+"lead": "헥토파이낸셜",
+"lead_ret": -0.22,
+"second": "KG파이낸셜",
+"second_ret": -0.86
+}
+],
+"leaders": [
+{
+"name": "새빗켐",
+"code": "107600",
+"ret": 14.12,
+"value": 1917,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 16.69,
+"value": 1645,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "풍원정밀",
+"code": "371950",
+"ret": 14.71,
+"value": 1260,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 11.52,
+"value": 973,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "시디즈",
+"code": "134790",
+"ret": 13.17,
+"value": 834,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

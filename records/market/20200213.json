@@ -1,0 +1,254 @@
+{
+"date": "20200213",
+"kospi": -0.24,
+"kosdaq": 0.15,
+"adv": 616,
+"dec": 1097,
+"flat": 190,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 162187,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "엘오티베큠",
+"lead_ret": 13.55,
+"second": "고영",
+"second_ret": 10.1
+},
+{
+"name": "영화",
+"n": 3,
+"lead": "졸스",
+"lead_ret": 29.88,
+"second": "CJ ENM",
+"second_ret": 8.65
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "한진칼",
+"lead_ret": 10.34,
+"second": "엘브이엠씨홀딩스",
+"second_ret": 8.07
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 9,
+"avg": 4.95,
+"up5": 3,
+"lead": "졸스",
+"lead_ret": 29.88,
+"second": "CJ ENM",
+"second_ret": 8.65
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 3.75,
+"up5": 2,
+"lead": "큐캐피탈",
+"lead_ret": 30.0,
+"second": "컴퍼니케이",
+"second_ret": 29.54
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 2.88,
+"up5": 4,
+"lead": "졸스",
+"lead_ret": 29.88,
+"second": "CJ ENM",
+"second_ret": 8.65
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 18,
+"avg": 2.24,
+"up5": 2,
+"lead": "컴퍼니케이",
+"lead_ret": 29.54,
+"second": "FSN",
+"second_ret": 8.85
+},
+{
+"name": "광고",
+"n": 16,
+"avg": 1.8,
+"up5": 4,
+"lead": "FSN",
+"lead_ret": 8.85,
+"second": "케어랩스",
+"second_ret": 6.31
+},
+{
+"name": "엔터테인먼트",
+"n": 24,
+"avg": 1.58,
+"up5": 3,
+"lead": "CJ ENM",
+"lead_ret": 8.65,
+"second": "NEW",
+"second_ret": 7.93
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 1.5,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": 2.67,
+"second": "SK하이닉스",
+"second_ret": 2.0
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 1.4,
+"up5": 1,
+"lead": "CJ ENM",
+"lead_ret": 8.65,
+"second": "카카오",
+"second_ret": 4.07
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.4,
+"up5": 0,
+"lead": "참좋은여행",
+"lead_ret": 4.34,
+"second": "레드캡투어",
+"second_ret": 4.04
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 1.35,
+"up5": 1,
+"lead": "미스터블루",
+"lead_ret": 7.91,
+"second": "카카오",
+"second_ret": 4.07
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 1.3,
+"up5": 1,
+"lead": "서울반도체",
+"lead_ret": 12.54,
+"second": "루멘스바이오스",
+"second_ret": 3.0
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 1.27,
+"up5": 1,
+"lead": "멕아이씨에스",
+"lead_ret": 13.09,
+"second": "수젠텍",
+"second_ret": 4.08
+}
+],
+"themes_worst": [
+{
+"name": "마이데이터",
+"n": 8,
+"avg": -2.27,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": -0.27,
+"second": "유비벨록스",
+"second_ret": -0.76
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.17,
+"up5": 0,
+"lead": "아이디스",
+"lead_ret": 3.44,
+"second": "비츠로시스",
+"second_ret": 0.0
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": -2.13,
+"up5": 0,
+"lead": "아이디스",
+"lead_ret": 3.44,
+"second": "포커스에이아이",
+"second_ret": 0.0
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.91,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": 0.43,
+"second": "컬러레이",
+"second_ret": 0.0
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.9,
+"up5": 0,
+"lead": "기아",
+"lead_ret": -0.96,
+"second": "한온시스템",
+"second_ret": -1.32
+}
+],
+"leaders": [
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 10.34,
+"value": 3264,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "지엔코",
+"code": "065060",
+"ret": 29.93,
+"value": 1465,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "컴퍼니케이",
+"code": "307930",
+"ret": 29.54,
+"value": 1426,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "서울반도체",
+"code": "046890",
+"ret": 12.54,
+"value": 1415,
+"theme": "마이크로 LED",
+"reason": "테마: 마이크로 LED"
+},
+{
+"name": "SM Life Design",
+"code": "063440",
+"ret": 14.21,
+"value": 1177,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

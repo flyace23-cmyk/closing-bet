@@ -1,0 +1,238 @@
+{
+"date": "20210405",
+"kospi": 0.26,
+"kosdaq": -0.03,
+"adv": 1066,
+"dec": 769,
+"flat": 162,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 274910,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "피에스케이홀딩스",
+"lead_ret": 15.21,
+"second": "로보스타",
+"second_ret": 12.65
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.32,
+"up5": 2,
+"lead": "SBI인베스트먼트",
+"lead_ret": 18.33,
+"second": "한화투자증권",
+"second_ret": 10.86
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.12,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 30.02,
+"second": "에피소드컴퍼니",
+"second_ret": 2.8
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.07,
+"up5": 4,
+"lead": "대한제강",
+"lead_ret": 7.13,
+"second": "한국철강",
+"second_ret": 6.45
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 8,
+"avg": 3.74,
+"up5": 2,
+"lead": "한미반도체",
+"lead_ret": 11.7,
+"second": "스피어",
+"second_ret": 5.2
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.41,
+"up5": 2,
+"lead": "휴비스",
+"lead_ret": 8.12,
+"second": "코오롱인더",
+"second_ret": 5.55
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.16,
+"up5": 3,
+"lead": "로보스타",
+"lead_ret": 12.65,
+"second": "티앤알바이오팹",
+"second_ret": 12.43
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 3.15,
+"up5": 3,
+"lead": "씨아이테크",
+"lead_ret": 29.56,
+"second": "대창스틸",
+"second_ret": 9.56
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 3.13,
+"up5": 5,
+"lead": "피에스케이홀딩스",
+"lead_ret": 15.21,
+"second": "한미반도체",
+"second_ret": 11.7
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.04,
+"up5": 2,
+"lead": "노루페인트",
+"lead_ret": 8.96,
+"second": "SP삼화",
+"second_ret": 5.74
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.99,
+"up5": 1,
+"lead": "한일화학",
+"lead_ret": 29.97,
+"second": "삼화전기",
+"second_ret": 3.99
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.99,
+"up5": 1,
+"lead": "한일화학",
+"lead_ret": 29.97,
+"second": "삼화전기",
+"second_ret": 3.99
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 2.8,
+"up5": 5,
+"lead": "SBI인베스트먼트",
+"lead_ret": 18.33,
+"second": "한화투자증권",
+"second_ret": 10.86
+}
+],
+"themes_worst": [
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -2.47,
+"up5": 0,
+"lead": "선바이오",
+"lead_ret": 0.18,
+"second": "보령",
+"second_ret": 0.0
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.87,
+"up5": 0,
+"lead": "에어부산",
+"lead_ret": 0.55,
+"second": "진에어",
+"second_ret": -0.52
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -1.54,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 0.99,
+"second": "안트로젠",
+"second_ret": 0.2
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 33,
+"avg": -1.41,
+"up5": 2,
+"lead": "네오위즈홀딩스",
+"lead_ret": 7.73,
+"second": "한빛소프트",
+"second_ret": 5.01
+},
+{
+"name": "면역항암제",
+"n": 26,
+"avg": -1.31,
+"up5": 1,
+"lead": "셀리드",
+"lead_ret": 14.79,
+"second": "CG인바이츠",
+"second_ret": 3.37
+}
+],
+"leaders": [
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 21.68,
+"value": 4477,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "SBI인베스트먼트",
+"code": "019550",
+"ret": 18.33,
+"value": 4057,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "수산세보틱스",
+"code": "017550",
+"ret": 22.88,
+"value": 3029,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 13.57,
+"value": 2915,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 12.65,
+"value": 1787,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

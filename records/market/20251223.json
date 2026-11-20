@@ -1,0 +1,254 @@
+{
+"date": "20251223",
+"kospi": 0.28,
+"kosdaq": -1.03,
+"adv": 498,
+"dec": 1777,
+"flat": 121,
+"limit_up": 8,
+"limit_down": 2,
+"value_total": 236262,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "계양전기",
+"lead_ret": 29.9,
+"second": "TPC로보틱스",
+"second_ret": 9.52
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "포스코DX",
+"lead_ret": 11.42,
+"second": "삼현",
+"second_ret": 9.19
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "계양전기",
+"lead_ret": 29.9,
+"second": "서진오토모티브",
+"second_ret": 14.19
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 5.45,
+"up5": 2,
+"lead": "천일고속",
+"lead_ret": 29.96,
+"second": "동양고속",
+"second_ret": 8.18
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 3.94,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 12.49,
+"second": "HJ중공업",
+"second_ret": 5.54
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 3.07,
+"up5": 2,
+"lead": "한국정밀기계",
+"lead_ret": 29.85,
+"second": "한국주강",
+"second_ret": 29.84
+},
+{
+"name": "조선기자재",
+"n": 36,
+"avg": 1.89,
+"up5": 5,
+"lead": "티엠씨",
+"lead_ret": 29.95,
+"second": "삼영엠텍",
+"second_ret": 16.4
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 1.71,
+"up5": 1,
+"lead": "아이씨에이치",
+"lead_ret": 29.94,
+"second": "레몬",
+"second_ret": 4.0
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 1.17,
+"up5": 3,
+"lead": "천일고속",
+"lead_ret": 29.96,
+"second": "동양고속",
+"second_ret": 8.18
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 1.15,
+"up5": 2,
+"lead": "TPC로보틱스",
+"lead_ret": 9.52,
+"second": "휴림로봇",
+"second_ret": 7.04
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 0.99,
+"up5": 2,
+"lead": "프리티",
+"lead_ret": 18.14,
+"second": "포스코DX",
+"second_ret": 11.42
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 0.8,
+"up5": 4,
+"lead": "노머스",
+"lead_ret": 11.55,
+"second": "에스엠",
+"second_ret": 7.58
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.78,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 5.97,
+"second": "아이티센씨티에스",
+"second_ret": 3.04
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 0.66,
+"up5": 1,
+"lead": "GST",
+"lead_ret": 16.73,
+"second": "케이엔솔",
+"second_ret": 2.11
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 0.54,
+"up5": 2,
+"lead": "엔케이",
+"lead_ret": 6.56,
+"second": "HJ중공업",
+"second_ret": 5.54
+}
+],
+"themes_worst": [
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -9.14,
+"up5": 0,
+"lead": "미래에셋증권",
+"lead_ret": 3.91,
+"second": "한미반도체",
+"second_ret": 0.0
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": -6.76,
+"up5": 0,
+"lead": "GMI벤처",
+"lead_ret": 0.37,
+"second": "플랜티넷",
+"second_ret": -0.6
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 36,
+"avg": -5.22,
+"up5": 0,
+"lead": "한화시스템",
+"lead_ret": 3.52,
+"second": "현대로템",
+"second_ret": 3.11
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -4.74,
+"up5": 0,
+"lead": "이씨에스",
+"lead_ret": 0.4,
+"second": "지어소프트",
+"second_ret": -0.24
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": -4.18,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 1.25,
+"second": "고려제강",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 12.49,
+"value": 11071,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "삼영엠텍",
+"code": "054540",
+"ret": 16.4,
+"value": 2663,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 11.42,
+"value": 2637,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "티엠씨",
+"code": "217590",
+"ret": 29.95,
+"value": 2387,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "천일고속",
+"code": "000650",
+"ret": 29.96,
+"value": 1119,
+"theme": "서울고속버스터미널 재개발 수혜",
+"reason": "테마: 서울고속버스터미널 재개발 수혜"
+}
+],
+"backfilled": true
+}

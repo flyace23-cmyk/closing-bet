@@ -1,0 +1,254 @@
+{
+"date": "20210401",
+"kospi": 0.85,
+"kosdaq": 1.01,
+"adv": 1022,
+"dec": 773,
+"flat": 201,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 240713,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "지란지교시큐리티",
+"lead_ret": 20.99,
+"second": "라온시큐어",
+"second_ret": 19.54
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 28.83,
+"second": "티앤엘",
+"second_ret": 18.86
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "에이티넘인베스트",
+"lead_ret": 29.96,
+"second": "인바이오젠",
+"second_ret": 15.04
+}
+],
+"themes": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 6.05,
+"up5": 4,
+"lead": "에이티넘인베스트",
+"lead_ret": 29.96,
+"second": "코오롱",
+"second_ret": 11.21
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.91,
+"up5": 4,
+"lead": "에이티넘인베스트",
+"lead_ret": 29.96,
+"second": "린드먼아시아",
+"second_ret": 10.4
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.54,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 28.83,
+"second": "JW중외제약",
+"second_ret": 1.01
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.19,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 28.83,
+"second": "로보스타",
+"second_ret": 7.38
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 4.0,
+"up5": 4,
+"lead": "NE능률",
+"lead_ret": 30.0,
+"second": "웅진씽크빅",
+"second_ret": 20.39
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.96,
+"up5": 1,
+"lead": "라온시큐어",
+"lead_ret": 19.54,
+"second": "플랜티넷",
+"second_ret": 4.32
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.66,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 12.71,
+"second": "천일고속",
+"second_ret": 4.32
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 3.34,
+"up5": 4,
+"lead": "에이티넘인베스트",
+"lead_ret": 29.96,
+"second": "인바이오젠",
+"second_ret": 15.04
+},
+{
+"name": "보안주(정보)",
+"n": 38,
+"avg": 3.33,
+"up5": 5,
+"lead": "지란지교시큐리티",
+"lead_ret": 20.99,
+"second": "라온시큐어",
+"second_ret": 19.54
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.0,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 12.71,
+"second": "SK이노베이션",
+"second_ret": 10.27
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.0,
+"up5": 2,
+"lead": "대성산업",
+"lead_ret": 12.71,
+"second": "SK이노베이션",
+"second_ret": 10.27
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 2.74,
+"up5": 3,
+"lead": "라온시큐어",
+"lead_ret": 19.54,
+"second": "대성창투",
+"second_ret": 9.78
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -3.33,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 0.46,
+"second": "흥아해운",
+"second_ret": 0.0
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -1.52,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.0,
+"second": "DL이앤씨",
+"second_ret": -0.83
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": -1.49,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 1.74,
+"second": "포스코인터내셔널",
+"second_ret": 0.99
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.45,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": 2.16,
+"second": "고려제강",
+"second_ret": 0.23
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.37,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": -0.15,
+"second": "우리금융지주",
+"second_ret": -0.5
+}
+],
+"leaders": [
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 10.27,
+"value": 8643,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "라온시큐어",
+"code": "042510",
+"ret": 19.54,
+"value": 4262,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "아이크래프트",
+"code": "052460",
+"ret": 24.63,
+"value": 2970,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "아틀라스링크",
+"code": "297570",
+"ret": 29.93,
+"value": 2812,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "웅진씽크빅",
+"code": "095720",
+"ret": 20.39,
+"value": 2755,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

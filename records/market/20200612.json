@@ -1,0 +1,254 @@
+{
+"date": "20200612",
+"kospi": -2.04,
+"kosdaq": -1.45,
+"adv": 272,
+"dec": 1563,
+"flat": 79,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 237363,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "에스프리즘",
+"lead_ret": 13.27,
+"second": "효성중공업",
+"second_ret": 12.1
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "세화피앤씨",
+"lead_ret": 13.74,
+"second": "HLB펩",
+"second_ret": 9.49
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "진양제약",
+"lead_ret": 9.28,
+"second": "삼성바이오로직스",
+"second_ret": 7.76
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 3.1,
+"up5": 2,
+"lead": "삼성바이오로직스",
+"lead_ret": 7.76,
+"second": "엔투텍",
+"second_ret": 6.09
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 2.36,
+"up5": 1,
+"lead": "KG파이낸셜",
+"lead_ret": 25.27,
+"second": "NHN KCP",
+"second_ret": 3.69
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 1.59,
+"up5": 1,
+"lead": "KG파이낸셜",
+"lead_ret": 25.27,
+"second": "NHN KCP",
+"second_ret": 3.69
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 0.96,
+"up5": 4,
+"lead": "아이진",
+"lead_ret": 11.29,
+"second": "압타바이오",
+"second_ret": 10.01
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 0.64,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 8.23,
+"second": "풀무원",
+"second_ret": 3.51
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 0.57,
+"up5": 2,
+"lead": "미스터블루",
+"lead_ret": 10.75,
+"second": "조이시티",
+"second_ret": 8.33
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 0.5,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 29.81,
+"second": "레몬",
+"second_ret": 2.92
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 0.36,
+"up5": 1,
+"lead": "KG파이낸셜",
+"lead_ret": 25.27,
+"second": "NHN KCP",
+"second_ret": 3.69
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 0.35,
+"up5": 1,
+"lead": "이수앱지스",
+"lead_ret": 7.79,
+"second": "종근당",
+"second_ret": 4.04
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 0.02,
+"up5": 1,
+"lead": "로지시스",
+"lead_ret": 8.4,
+"second": "한네트",
+"second_ret": 2.87
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 0.02,
+"up5": 4,
+"lead": "압타바이오",
+"lead_ret": 10.01,
+"second": "이수앱지스",
+"second_ret": 7.79
+},
+{
+"name": "치매",
+"n": 40,
+"avg": -0.0,
+"up5": 4,
+"lead": "진양제약",
+"lead_ret": 9.28,
+"second": "이수앱지스",
+"second_ret": 7.79
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.8,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": -3.24,
+"second": "이루온",
+"second_ret": -3.37
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -4.48,
+"up5": 0,
+"lead": "아센디오",
+"lead_ret": 0.0,
+"second": "쎄니트",
+"second_ret": -1.79
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -4.23,
+"up5": 0,
+"lead": "한국종합기술",
+"lead_ret": -2.05,
+"second": "이월드",
+"second_ret": -3.46
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": -4.2,
+"up5": 0,
+"lead": "미래에셋증권",
+"lead_ret": -1.86,
+"second": "이녹스첨단소재",
+"second_ret": -2.92
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -4.12,
+"up5": 1,
+"lead": "코리안리",
+"lead_ret": 5.2,
+"second": "현대해상",
+"second_ret": -3.87
+}
+],
+"leaders": [
+{
+"name": "KG파이낸셜",
+"code": "046440",
+"ret": 25.27,
+"value": 3189,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "에스프리즘",
+"code": "288620",
+"ret": 13.27,
+"value": 1946,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "오공",
+"code": "045060",
+"ret": 21.27,
+"value": 1870,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에스앤에스텍",
+"code": "101490",
+"ret": 14.6,
+"value": 1613,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "프로텍",
+"code": "053610",
+"ret": 29.81,
+"value": 1445,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

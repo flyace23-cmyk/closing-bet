@@ -1,0 +1,254 @@
+{
+"date": "20210517",
+"kospi": -0.6,
+"kosdaq": -0.44,
+"adv": 628,
+"dec": 1228,
+"flat": 146,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 263190,
+"hot": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 4,
+"lead": "네이처셀",
+"lead_ret": 29.79,
+"second": "아이진",
+"second_ret": 13.91
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 29.79,
+"second": "승일",
+"second_ret": 16.44
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 3,
+"lead": "이연제약",
+"lead_ret": 29.9,
+"second": "아미노로직스",
+"second_ret": 24.74
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 7.73,
+"up5": 5,
+"lead": "이연제약",
+"lead_ret": 29.9,
+"second": "아미노로직스",
+"second_ret": 24.74
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 4.31,
+"up5": 3,
+"lead": "참좋은여행",
+"lead_ret": 9.75,
+"second": "하나투어",
+"second_ret": 8.04
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.96,
+"up5": 2,
+"lead": "한진칼",
+"lead_ret": 10.18,
+"second": "진에어",
+"second_ret": 5.83
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 2.92,
+"up5": 3,
+"lead": "로지시스",
+"lead_ret": 8.04,
+"second": "한네트",
+"second_ret": 7.88
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 2.58,
+"up5": 5,
+"lead": "네이처셀",
+"lead_ret": 29.79,
+"second": "아이진",
+"second_ret": 13.91
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.16,
+"up5": 2,
+"lead": "네이처셀",
+"lead_ret": 29.79,
+"second": "마크로젠",
+"second_ret": 5.14
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.03,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 10.9,
+"second": "디아이씨",
+"second_ret": 4.85
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 1.68,
+"up5": 4,
+"lead": "네오팜",
+"lead_ret": 8.93,
+"second": "삼성출판사",
+"second_ret": 5.68
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 1.67,
+"up5": 4,
+"lead": "네오팜",
+"lead_ret": 8.93,
+"second": "삼성출판사",
+"second_ret": 5.68
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.64,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 13.72,
+"second": "흥구석유",
+"second_ret": 4.13
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.64,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 13.72,
+"second": "흥구석유",
+"second_ret": 4.13
+},
+{
+"name": "면역항암제",
+"n": 26,
+"avg": 1.58,
+"up5": 2,
+"lead": "셀리드",
+"lead_ret": 13.53,
+"second": "네오이뮨텍",
+"second_ret": 8.55
+}
+],
+"themes_worst": [
+{
+"name": "타이어",
+"n": 9,
+"avg": -3.73,
+"up5": 0,
+"lead": "한국앤컴퍼니",
+"lead_ret": 1.06,
+"second": "한국타이어앤테크놀로지",
+"second_ret": -0.31
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -3.56,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 1.38,
+"second": "우리기술투자",
+"second_ret": 0.0
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.4,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -0.23,
+"second": "샘표",
+"second_ret": -2.56
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -2.9,
+"up5": 0,
+"lead": "동양에스텍",
+"lead_ret": 4.15,
+"second": "삼현철강",
+"second_ret": 2.84
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.88,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": -0.47,
+"second": "DB손해보험",
+"second_ret": -1.93
+}
+],
+"leaders": [
+{
+"name": "아미노로직스",
+"code": "074430",
+"ret": 24.74,
+"value": 5309,
+"theme": "mRNA(메신저 리보핵산)",
+"reason": "테마: mRNA(메신저 리보핵산)"
+},
+{
+"name": "아이진",
+"code": "185490",
+"ret": 13.91,
+"value": 3747,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "셀리드",
+"code": "299660",
+"ret": 13.53,
+"value": 2518,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "카스",
+"code": "016920",
+"ret": 18.55,
+"value": 1970,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 29.9,
+"value": 1555,
+"theme": "mRNA(메신저 리보핵산)",
+"reason": "테마: mRNA(메신저 리보핵산)"
+}
+],
+"backfilled": true
+}

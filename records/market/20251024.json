@@ -1,0 +1,254 @@
+{
+"date": "20251024",
+"kospi": 2.5,
+"kosdaq": 1.27,
+"adv": 1071,
+"dec": 1170,
+"flat": 140,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 261827,
+"hot": [
+{
+"name": "2차전지",
+"n": 16,
+"lead": "강원에너지",
+"lead_ret": 29.99,
+"second": "포스코퓨처엠",
+"second_ret": 18.92
+},
+{
+"name": "리튬",
+"n": 6,
+"lead": "강원에너지",
+"lead_ret": 29.99,
+"second": "중앙첨단소재",
+"second_ret": 29.98
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "로보스타",
+"lead_ret": 18.05,
+"second": "에프에스티",
+"second_ret": 14.37
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 10.71,
+"up5": 16,
+"lead": "강원에너지",
+"lead_ret": 29.99,
+"second": "중앙첨단소재",
+"second_ret": 29.98
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 7.97,
+"up5": 8,
+"lead": "삼성SDI",
+"lead_ret": 13.57,
+"second": "애경케미칼",
+"second_ret": 11.55
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 6.72,
+"up5": 20,
+"lead": "천보",
+"lead_ret": 16.92,
+"second": "엠플러스",
+"second_ret": 13.85
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 6.03,
+"up5": 40,
+"lead": "강원에너지",
+"lead_ret": 29.99,
+"second": "포스코퓨처엠",
+"second_ret": 18.92
+},
+{
+"name": "2차전지",
+"n": 141,
+"avg": 4.78,
+"up5": 62,
+"lead": "강원에너지",
+"lead_ret": 29.99,
+"second": "포스코퓨처엠",
+"second_ret": 18.92
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.49,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 16.64,
+"second": "DL이앤씨",
+"second_ret": 4.96
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 4.42,
+"up5": 5,
+"lead": "엘앤에프",
+"lead_ret": 17.61,
+"second": "LG에너지솔루션",
+"second_ret": 9.94
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.23,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 20.08,
+"second": "리튬포어스",
+"second_ret": 4.58
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 4.04,
+"up5": 5,
+"lead": "이수화학",
+"lead_ret": 26.4,
+"second": "애경케미칼",
+"second_ret": 11.55
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.97,
+"up5": 5,
+"lead": "현대건설",
+"lead_ret": 16.64,
+"second": "한텍",
+"second_ret": 8.45
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 3.93,
+"up5": 11,
+"lead": "엠플러스",
+"lead_ret": 13.85,
+"second": "삼성SDI",
+"second_ret": 13.57
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 3.85,
+"up5": 9,
+"lead": "LG에너지솔루션",
+"lead_ret": 9.94,
+"second": "에코프로",
+"second_ret": 8.34
+}
+],
+"themes_worst": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -2.04,
+"up5": 0,
+"lead": "한울소재과학",
+"lead_ret": 1.47,
+"second": "에이엘티",
+"second_ret": 1.0
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.42,
+"up5": 0,
+"lead": "풍산",
+"lead_ret": 0.67,
+"second": "푸른로보틱스",
+"second_ret": 0.11
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": -1.4,
+"up5": 0,
+"lead": "나노씨엠에스",
+"lead_ret": 3.72,
+"second": "SGA솔루션즈",
+"second_ret": 1.36
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -1.13,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": -0.34,
+"second": "코나아이",
+"second_ret": -0.59
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.07,
+"up5": 0,
+"lead": "국전",
+"lead_ret": 1.96,
+"second": "국제약품",
+"second_ret": -0.47
+}
+],
+"leaders": [
+{
+"name": "로보스타",
+"code": "090360",
+"ret": 18.05,
+"value": 6730,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 13.57,
+"value": 4808,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 18.92,
+"value": 3837,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "일진전기",
+"code": "103590",
+"ret": 15.03,
+"value": 3683,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 17.61,
+"value": 2672,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

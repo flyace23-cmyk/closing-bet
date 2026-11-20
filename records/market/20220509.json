@@ -1,0 +1,254 @@
+{
+"date": "20220509",
+"kospi": -1.27,
+"kosdaq": -2.64,
+"adv": 183,
+"dec": 1802,
+"flat": 93,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 144999,
+"hot": [
+{
+"name": "통신장비",
+"n": 6,
+"lead": "우리로",
+"lead_ret": 29.77,
+"second": "CS",
+"second_ret": 22.84
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "한일단조",
+"lead_ret": 20.72,
+"second": "기산텔레콤",
+"second_ret": 8.03
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "우진",
+"lead_ret": 14.45,
+"second": "태광",
+"second_ret": 6.02
+}
+],
+"themes": [
+{
+"name": "통신장비",
+"n": 41,
+"avg": 2.93,
+"up5": 7,
+"lead": "오늘이엔엠",
+"lead_ret": 29.97,
+"second": "우리로",
+"second_ret": 29.77
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 52,
+"avg": 1.78,
+"up5": 7,
+"lead": "오늘이엔엠",
+"lead_ret": 29.97,
+"second": "우리로",
+"second_ret": 29.77
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 1.66,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 18.85,
+"second": "이루온",
+"second_ret": 4.48
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 0.42,
+"up5": 1,
+"lead": "한국첨단소재",
+"lead_ret": 11.73,
+"second": "대한광통신",
+"second_ret": 4.29
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 22,
+"avg": 0.38,
+"up5": 1,
+"lead": "CS",
+"lead_ret": 22.84,
+"second": "한울소재과학",
+"second_ret": 2.28
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 0.35,
+"up5": 2,
+"lead": "우진",
+"lead_ret": 14.45,
+"second": "오르비텍",
+"second_ret": 5.91
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": 0.07,
+"up5": 2,
+"lead": "우리로",
+"lead_ret": 29.77,
+"second": "한국첨단소재",
+"second_ret": 11.73
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -0.2,
+"up5": 1,
+"lead": "태광",
+"lead_ret": 6.02,
+"second": "하이록코리아",
+"second_ret": 2.14
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -0.2,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": 2.66,
+"second": "TS인베스트먼트",
+"second_ret": 2.05
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -0.24,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 4.35,
+"second": "아주IB투자",
+"second_ret": 0.77
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.25,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 2.07,
+"second": "GS",
+"second_ret": 1.57
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -0.28,
+"up5": 2,
+"lead": "고려산업",
+"lead_ret": 8.56,
+"second": "사조동아원",
+"second_ret": 5.51
+}
+],
+"themes_worst": [
+{
+"name": "비료",
+"n": 10,
+"avg": -4.88,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 0.0,
+"second": "롯데정밀화학",
+"second_ret": -1.97
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -4.61,
+"up5": 0,
+"lead": "광무",
+"lead_ret": 0.0,
+"second": "에스넷",
+"second_ret": -0.68
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -4.44,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 0.44,
+"second": "현대에버다임",
+"second_ret": -0.11
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": -4.41,
+"up5": 0,
+"lead": "휴스틸",
+"lead_ret": 2.15,
+"second": "동일제강",
+"second_ret": 0.21
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -4.38,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 5.53,
+"second": "SUN&L",
+"second_ret": -2.34
+}
+],
+"leaders": [
+{
+"name": "우진",
+"code": "105840",
+"ret": 14.45,
+"value": 5356,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한일단조",
+"code": "024740",
+"ret": 20.72,
+"value": 1463,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 10.71,
+"value": 911,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "와이어블",
+"code": "065530",
+"ret": 13.29,
+"value": 716,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "CS",
+"code": "065770",
+"ret": 22.84,
+"value": 701,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20211102",
+"kospi": 1.16,
+"kosdaq": 1.09,
+"adv": 1446,
+"dec": 394,
+"flat": 207,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 714421,
+"hot": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 3,
+"lead": "초록뱀미디어",
+"lead_ret": 19.35,
+"second": "폴라리스오피스",
+"second_ret": 10.89
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "다보링크",
+"lead_ret": 11.19,
+"second": "iMBC",
+"second_ret": 9.36
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 4.31,
+"up5": 3,
+"lead": "한국전자인증",
+"lead_ret": 9.52,
+"second": "한화투자증권",
+"second_ret": 7.16
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 3.72,
+"up5": 2,
+"lead": "국보디자인",
+"lead_ret": 9.13,
+"second": "이월드",
+"second_ret": 6.86
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.19,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 12.95,
+"second": "TKG휴켐스",
+"second_ret": 4.74
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.04,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 12.95,
+"second": "롯데정밀화학",
+"second_ret": 3.57
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.99,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 7.16,
+"second": "SBI인베스트먼트",
+"second_ret": 5.16
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.97,
+"up5": 5,
+"lead": "매커스",
+"lead_ret": 17.43,
+"second": "한화투자증권",
+"second_ret": 7.16
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 2.91,
+"up5": 3,
+"lead": "진매트릭스",
+"lead_ret": 21.12,
+"second": "아리바이오랩",
+"second_ret": 6.61
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.68,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 7.16,
+"second": "우리기술투자",
+"second_ret": 4.82
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.53,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 10.89,
+"second": "다산네트웍스",
+"second_ret": 9.46
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 2.41,
+"up5": 2,
+"lead": "스틱인베스트먼트",
+"lead_ret": 5.8,
+"second": "SBI인베스트먼트",
+"second_ret": 5.16
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 2.4,
+"up5": 4,
+"lead": "네오이뮨텍",
+"lead_ret": 7.19,
+"second": "에이비엘바이오",
+"second_ret": 7.03
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.33,
+"up5": 4,
+"lead": "초록뱀미디어",
+"lead_ret": 19.35,
+"second": "폴라리스오피스",
+"second_ret": 10.89
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -2.12,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 9.69,
+"second": "라온시큐어",
+"second_ret": 0.99
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.71,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 0.75,
+"second": "한화오션",
+"second_ret": -0.58
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.54,
+"up5": 0,
+"lead": "동양고속",
+"lead_ret": 0.0,
+"second": "천일고속",
+"second_ret": -0.15
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -0.29,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 1.18,
+"second": "삼성SDI",
+"second_ret": 1.11
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": -0.26,
+"up5": 0,
+"lead": "STX엔진",
+"lead_ret": 2.59,
+"second": "엔케이",
+"second_ret": 1.36
+}
+],
+"leaders": [
+{
+"name": "초록뱀미디어",
+"code": "047820",
+"ret": 19.35,
+"value": 540551,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "KG케미칼",
+"code": "001390",
+"ret": 12.95,
+"value": 3419,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "경남스틸",
+"code": "039240",
+"ret": 12.75,
+"value": 2456,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+},
+{
+"name": "매커스",
+"code": "093520",
+"ret": 17.43,
+"value": 1227,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 21.12,
+"value": 966,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

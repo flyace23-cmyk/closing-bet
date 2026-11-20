@@ -1,0 +1,254 @@
+{
+"date": "20200624",
+"kospi": 1.42,
+"kosdaq": 0.83,
+"adv": 1100,
+"dec": 650,
+"flat": 168,
+"limit_up": 9,
+"limit_down": 3,
+"value_total": 256337,
+"hot": [
+{
+"name": "철도",
+"n": 4,
+"lead": "대아티아이",
+"lead_ret": 29.94,
+"second": "푸른로보틱스",
+"second_ret": 27.0
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "진매트릭스",
+"lead_ret": 30.0,
+"second": "메타케어",
+"second_ret": 29.96
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "한솔아이원스",
+"lead_ret": 20.74,
+"second": "타이거일렉",
+"second_ret": 14.96
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.64,
+"up5": 4,
+"lead": "부산산업",
+"lead_ret": 22.69,
+"second": "세명전기",
+"second_ret": 9.68
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 5.8,
+"up5": 2,
+"lead": "푸른로보틱스",
+"lead_ret": 27.0,
+"second": "로지시스",
+"second_ret": 12.48
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 5.6,
+"up5": 11,
+"lead": "진매트릭스",
+"lead_ret": 30.0,
+"second": "메타케어",
+"second_ret": 29.96
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 5.08,
+"up5": 7,
+"lead": "대아티아이",
+"lead_ret": 29.94,
+"second": "현대로템",
+"second_ret": 16.96
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 5.06,
+"up5": 13,
+"lead": "대아티아이",
+"lead_ret": 29.94,
+"second": "푸른로보틱스",
+"second_ret": 27.0
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 4.34,
+"up5": 4,
+"lead": "아난티",
+"lead_ret": 18.48,
+"second": "모나용평",
+"second_ret": 7.23
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.32,
+"up5": 4,
+"lead": "메타케어",
+"lead_ret": 29.96,
+"second": "코아스템켐온",
+"second_ret": 10.47
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": 4.29,
+"up5": 4,
+"lead": "랩지노믹스",
+"lead_ret": 29.9,
+"second": "제이에스링크",
+"second_ret": 7.05
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 8,
+"avg": 3.64,
+"up5": 2,
+"lead": "코리아써키트",
+"lead_ret": 16.67,
+"second": "오킨스전자",
+"second_ret": 9.11
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 7,
+"avg": 3.56,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 16.67,
+"second": "삼성전자",
+"second_ret": 2.92
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 3.48,
+"up5": 10,
+"lead": "아난티",
+"lead_ret": 18.48,
+"second": "일신석재",
+"second_ret": 14.53
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.28,
+"up5": 5,
+"lead": "진매트릭스",
+"lead_ret": 30.0,
+"second": "랩지노믹스",
+"second_ret": 29.9
+}
+],
+"themes_worst": [
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -3.73,
+"up5": 0,
+"lead": "오르비텍",
+"lead_ret": 4.37,
+"second": "현대위아",
+"second_ret": 1.67
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 50,
+"avg": -3.38,
+"up5": 2,
+"lead": "현대로템",
+"lead_ret": 16.96,
+"second": "RF머트리얼즈",
+"second_ret": 5.3
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": -2.68,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": 2.65,
+"second": "엠씨넥스",
+"second_ret": 2.16
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": -2.35,
+"up5": 1,
+"lead": "안국약품",
+"lead_ret": 9.58,
+"second": "더코디",
+"second_ret": 2.93
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.35,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 0.76,
+"second": "TKG휴켐스",
+"second_ret": 0.29
+}
+],
+"leaders": [
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 10.35,
+"value": 17137,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 16.96,
+"value": 5759,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "ES큐브",
+"code": "050120",
+"ret": 13.6,
+"value": 5557,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 18.48,
+"value": 4892,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "대아티아이",
+"code": "045390",
+"ret": 29.94,
+"value": 4150,
+"theme": "철도",
+"reason": "테마: 철도"
+}
+],
+"backfilled": true
+}

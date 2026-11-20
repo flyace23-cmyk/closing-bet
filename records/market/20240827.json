@@ -1,0 +1,254 @@
+{
+"date": "20240827",
+"kospi": -0.32,
+"kosdaq": -0.24,
+"adv": 1032,
+"dec": 1094,
+"flat": 154,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 144224,
+"hot": [
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"lead": "시선AI",
+"lead_ret": 29.99,
+"second": "한빛소프트",
+"second_ret": 29.97
+},
+{
+"name": "보안주(정보)",
+"n": 12,
+"lead": "디지캡",
+"lead_ret": 29.93,
+"second": "한싹",
+"second_ret": 29.93
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "시선AI",
+"lead_ret": 29.99,
+"second": "롯데이노베이트",
+"second_ret": 17.13
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 18.09,
+"up5": 12,
+"lead": "시선AI",
+"lead_ret": 29.99,
+"second": "한빛소프트",
+"second_ret": 29.97
+},
+{
+"name": "보안주(정보)",
+"n": 47,
+"avg": 7.34,
+"up5": 19,
+"lead": "디지캡",
+"lead_ret": 29.93,
+"second": "한싹",
+"second_ret": 29.93
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 4.06,
+"up5": 5,
+"lead": "시선AI",
+"lead_ret": 29.99,
+"second": "아이티센피엔에스",
+"second_ret": 20.77
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 3.42,
+"up5": 6,
+"lead": "라온시큐어",
+"lead_ret": 19.23,
+"second": "파수AI",
+"second_ret": 18.31
+},
+{
+"name": "보안주(물리)",
+"n": 19,
+"avg": 3.28,
+"up5": 3,
+"lead": "시선AI",
+"lead_ret": 29.99,
+"second": "싸이버원",
+"second_ret": 18.77
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 2.94,
+"up5": 5,
+"lead": "아이티센피엔에스",
+"lead_ret": 20.77,
+"second": "아이씨티케이",
+"second_ret": 19.88
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.86,
+"up5": 2,
+"lead": "오픈베이스",
+"lead_ret": 13.16,
+"second": "인성정보",
+"second_ret": 5.0
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 2.55,
+"up5": 4,
+"lead": "아이티센피엔에스",
+"lead_ret": 20.77,
+"second": "라온시큐어",
+"second_ret": 19.23
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 2.53,
+"up5": 3,
+"lead": "에스피소프트",
+"lead_ret": 15.34,
+"second": "폴라리스AI",
+"second_ret": 13.55
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 54,
+"avg": 2.48,
+"up5": 7,
+"lead": "시선AI",
+"lead_ret": 29.99,
+"second": "롯데이노베이트",
+"second_ret": 17.13
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.48,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 13.16,
+"second": "LG화학",
+"second_ret": 0.63
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.4,
+"up5": 4,
+"lead": "아이티센피엔에스",
+"lead_ret": 20.77,
+"second": "라온시큐어",
+"second_ret": 19.23
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.44,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 1.14,
+"second": "에스티팜",
+"second_ret": -0.87
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.41,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": 2.24,
+"second": "사조대림",
+"second_ret": 1.75
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -2.35,
+"up5": 1,
+"lead": "휴스틸",
+"lead_ret": 6.78,
+"second": "세아제강",
+"second_ret": 1.1
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.06,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 2.91,
+"second": "유비벨록스",
+"second_ret": 1.98
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.93,
+"up5": 0,
+"lead": "인벤티지랩",
+"lead_ret": 3.55,
+"second": "코미팜",
+"second_ret": 1.64
+}
+],
+"leaders": [
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 19.02,
+"value": 4920,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "넥스트바이오메디컬",
+"code": "389650",
+"ret": 28.11,
+"value": 3757,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 19.88,
+"value": 1561,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "폴라리스AI",
+"code": "039980",
+"ret": 13.55,
+"value": 1361,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "한싹",
+"code": "430690",
+"ret": 29.93,
+"value": 839,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+}
+],
+"backfilled": true
+}

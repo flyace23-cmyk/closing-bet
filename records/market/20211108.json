@@ -1,0 +1,254 @@
+{
+"date": "20211108",
+"kospi": -0.31,
+"kosdaq": 0.11,
+"adv": 1089,
+"dec": 794,
+"flat": 166,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 274153,
+"hot": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 5,
+"lead": "컴투스홀딩스",
+"lead_ret": 17.17,
+"second": "서울옥션",
+"second_ret": 12.26
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "액토즈소프트",
+"lead_ret": 25.31,
+"second": "컴투스홀딩스",
+"second_ret": 17.17
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "셀바스AI",
+"lead_ret": 15.17,
+"second": "자이언트스텝",
+"second_ret": 13.95
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 8.43,
+"up5": 6,
+"lead": "아이비김영",
+"lead_ret": 21.3,
+"second": "메가엠디",
+"second_ret": 12.2
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 5.03,
+"up5": 8,
+"lead": "컴투스홀딩스",
+"lead_ret": 17.17,
+"second": "위지트",
+"second_ret": 16.92
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.72,
+"up5": 3,
+"lead": "노루페인트",
+"lead_ret": 7.98,
+"second": "KCC",
+"second_ret": 7.29
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 4.61,
+"up5": 4,
+"lead": "웹스",
+"lead_ret": 30.0,
+"second": "자연과환경",
+"second_ret": 20.18
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.59,
+"up5": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 17.17,
+"second": "서울옥션",
+"second_ret": 12.26
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.11,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 20.18,
+"second": "한신공영",
+"second_ret": 5.72
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.93,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 5.93,
+"second": "파라다이스",
+"second_ret": 5.9
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.93,
+"up5": 2,
+"lead": "롯데관광개발",
+"lead_ret": 5.93,
+"second": "파라다이스",
+"second_ret": 5.9
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.9,
+"up5": 4,
+"lead": "노랑풍선",
+"lead_ret": 6.81,
+"second": "하나투어",
+"second_ret": 6.31
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 3.82,
+"up5": 3,
+"lead": "희림",
+"lead_ret": 20.69,
+"second": "조이웍스앤코",
+"second_ret": 17.8
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.66,
+"up5": 3,
+"lead": "진에어",
+"lead_ret": 10.26,
+"second": "에어부산",
+"second_ret": 5.24
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.4,
+"up5": 5,
+"lead": "신원종합개발",
+"lead_ret": 29.83,
+"second": "계룡건설",
+"second_ret": 9.24
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -4.38,
+"up5": 0,
+"lead": "케이바이오랩스",
+"lead_ret": 3.54,
+"second": "일동제약",
+"second_ret": 2.68
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.43,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.41,
+"second": "서린바이오",
+"second_ret": 0.24
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -3.22,
+"up5": 1,
+"lead": "디에스케이",
+"lead_ret": 6.0,
+"second": "파마리서치",
+"second_ret": 1.13
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 38,
+"avg": -2.93,
+"up5": 0,
+"lead": "이글벳",
+"lead_ret": 3.12,
+"second": "진바이오텍",
+"second_ret": 2.18
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": -2.91,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 6.76,
+"second": "얼라인드",
+"second_ret": 5.56
+}
+],
+"leaders": [
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 10.84,
+"value": 3196,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 10.42,
+"value": 2147,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "위지트",
+"code": "036090",
+"ret": 16.92,
+"value": 1730,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "자연과환경",
+"code": "043910",
+"ret": 20.18,
+"value": 1474,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "아이비김영",
+"code": "339950",
+"ret": 21.3,
+"value": 1442,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

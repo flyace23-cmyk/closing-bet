@@ -1,0 +1,229 @@
+{
+"date": "20220303",
+"kospi": 1.61,
+"kosdaq": 1.88,
+"adv": 1528,
+"dec": 388,
+"flat": 153,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 173353,
+"hot": [],
+"themes": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 4.61,
+"up5": 2,
+"lead": "덴티움",
+"lead_ret": 20.42,
+"second": "바텍",
+"second_ret": 5.9
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 4.54,
+"up5": 3,
+"lead": "한네트",
+"lead_ret": 17.55,
+"second": "케이씨에스",
+"second_ret": 17.38
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 3.81,
+"up5": 2,
+"lead": "이지트로닉스",
+"lead_ret": 29.83,
+"second": "LX인터내셔널",
+"second_ret": 6.24
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.67,
+"up5": 2,
+"lead": "자연과환경",
+"lead_ret": 8.38,
+"second": "금강공업",
+"second_ret": 6.98
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 3.57,
+"up5": 4,
+"lead": "삼목에스폼",
+"lead_ret": 16.81,
+"second": "벽산",
+"second_ret": 7.4
+},
+{
+"name": "폐배터리",
+"n": 17,
+"avg": 3.55,
+"up5": 1,
+"lead": "이지트로닉스",
+"lead_ret": 29.83,
+"second": "아이에스동서",
+"second_ret": 4.95
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.47,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 6.27,
+"second": "현대건설",
+"second_ret": 4.0
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.26,
+"up5": 3,
+"lead": "SOOP",
+"lead_ret": 11.69,
+"second": "NHN벅스",
+"second_ret": 5.84
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.08,
+"up5": 1,
+"lead": "한국선재",
+"lead_ret": 12.18,
+"second": "특수건설",
+"second_ret": 3.79
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 2.98,
+"up5": 2,
+"lead": "LG이노텍",
+"lead_ret": 7.64,
+"second": "한솔테크닉스",
+"second_ret": 5.43
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.98,
+"up5": 1,
+"lead": "벽산",
+"lead_ret": 7.4,
+"second": "노루홀딩스",
+"second_ret": 4.31
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 2.95,
+"up5": 3,
+"lead": "LG이노텍",
+"lead_ret": 7.64,
+"second": "인포뱅크",
+"second_ret": 5.67
+}
+],
+"themes_worst": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.72,
+"up5": 0,
+"lead": "서울가스",
+"lead_ret": 2.36,
+"second": "한국가스공사",
+"second_ret": 1.55
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.86,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 5.09,
+"second": "HD한국조선해양",
+"second_ret": -0.11
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -0.7,
+"up5": 0,
+"lead": "메디톡스",
+"lead_ret": 2.77,
+"second": "파마리서치",
+"second_ret": 2.32
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": -0.67,
+"up5": 0,
+"lead": "제일테크노스",
+"lead_ret": 2.72,
+"second": "대창솔루션",
+"second_ret": 1.74
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -0.61,
+"up5": 0,
+"lead": "대성미생물",
+"lead_ret": 1.95,
+"second": "동원산업",
+"second_ret": 1.2
+}
+],
+"leaders": [
+{
+"name": "한국선재",
+"code": "025550",
+"ret": 12.18,
+"value": 2822,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 12.13,
+"value": 2787,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 29.75,
+"value": 2574,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 18.31,
+"value": 1606,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한네트",
+"code": "052600",
+"ret": 17.55,
+"value": 1534,
+"theme": "화폐/금융자동화기기(디지털화폐 등)",
+"reason": "테마: 화폐/금융자동화기기(디지털화폐 등)"
+}
+],
+"backfilled": true
+}

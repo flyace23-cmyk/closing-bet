@@ -1,0 +1,254 @@
+{
+"date": "20250227",
+"kospi": -0.73,
+"kosdaq": -0.07,
+"adv": 716,
+"dec": 1495,
+"flat": 126,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 177084,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "제이투케이바이오",
+"lead_ret": 30.0,
+"second": "클래시스",
+"second_ret": 19.14
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 4,
+"lead": "평화홀딩스",
+"lead_ret": 28.52,
+"second": "엔케이",
+"second_ret": 9.45
+},
+{
+"name": "미용기기",
+"n": 4,
+"lead": "레이저옵텍",
+"lead_ret": 29.96,
+"second": "클래시스",
+"second_ret": 19.14
+}
+],
+"themes": [
+{
+"name": "미용기기",
+"n": 18,
+"avg": 4.62,
+"up5": 5,
+"lead": "레이저옵텍",
+"lead_ret": 29.96,
+"second": "클래시스",
+"second_ret": 19.14
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.57,
+"up5": 1,
+"lead": "토니모리",
+"lead_ret": 18.82,
+"second": "호텔신라",
+"second_ret": 1.1
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.85,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 6.0,
+"second": "카카오",
+"second_ret": 5.58
+},
+{
+"name": "화장품",
+"n": 89,
+"avg": 1.63,
+"up5": 10,
+"lead": "제이투케이바이오",
+"lead_ret": 30.0,
+"second": "클래시스",
+"second_ret": 19.14
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 1.61,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 11.23,
+"second": "DSC인베스트먼트",
+"second_ret": 5.59
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.34,
+"up5": 1,
+"lead": "티웨이홀딩스",
+"lead_ret": 10.44,
+"second": "대한항공",
+"second_ret": 1.04
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 1.24,
+"up5": 2,
+"lead": "GMI벤처",
+"lead_ret": 29.74,
+"second": "DSC인베스트먼트",
+"second_ret": 5.59
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.09,
+"up5": 1,
+"lead": "비엘팜텍",
+"lead_ret": 29.97,
+"second": "포스코인터내셔널",
+"second_ret": 2.57
+},
+{
+"name": "건강기능식품",
+"n": 41,
+"avg": 1.09,
+"up5": 4,
+"lead": "비엘팜텍",
+"lead_ret": 29.97,
+"second": "HLB제약",
+"second_ret": 17.29
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 0.96,
+"up5": 0,
+"lead": "애니플러스",
+"lead_ret": 3.79,
+"second": "한국경제TV",
+"second_ret": 2.99
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 0.9,
+"up5": 0,
+"lead": "넥센",
+"lead_ret": 4.55,
+"second": "효성티앤씨",
+"second_ret": 3.58
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 0.79,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 6.21,
+"second": "시공테크",
+"second_ret": 0.26
+}
+],
+"themes_worst": [
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -3.13,
+"up5": 1,
+"lead": "이노메트리",
+"lead_ret": 7.32,
+"second": "태성",
+"second_ret": 2.2
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.94,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 0.42,
+"second": "LG에너지솔루션",
+"second_ret": -0.94
+},
+{
+"name": "시스템반도체",
+"n": 54,
+"avg": -2.35,
+"up5": 0,
+"lead": "시지트로닉스",
+"lead_ret": 1.71,
+"second": "아이텍",
+"second_ret": 1.18
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.34,
+"up5": 1,
+"lead": "펨트론",
+"lead_ret": 6.6,
+"second": "삼성전자",
+"second_ret": -0.53
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.34,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": 0.94,
+"second": "코렌텍",
+"second_ret": -0.48
+}
+],
+"leaders": [
+{
+"name": "클래시스",
+"code": "214150",
+"ret": 19.14,
+"value": 4319,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "에이피알",
+"code": "278470",
+"ret": 11.09,
+"value": 2491,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "토니모리",
+"code": "214420",
+"ret": 18.82,
+"value": 2327,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "HLB제약",
+"code": "047920",
+"ret": 17.29,
+"value": 1521,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "레이저옵텍",
+"code": "199550",
+"ret": 29.96,
+"value": 984,
+"theme": "미용기기",
+"reason": "테마: 미용기기"
+}
+],
+"backfilled": true
+}

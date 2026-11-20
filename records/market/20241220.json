@@ -1,0 +1,254 @@
+{
+"date": "20241220",
+"kospi": -1.3,
+"kosdaq": -2.35,
+"adv": 375,
+"dec": 1868,
+"flat": 74,
+"limit_up": 4,
+"limit_down": 2,
+"value_total": 150563,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "디젠스",
+"lead_ret": 29.95,
+"second": "오리엔트정공",
+"second_ret": 22.49
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 3,
+"lead": "HJ중공업",
+"lead_ret": 12.72,
+"second": "일승",
+"second_ret": 8.51
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 3,
+"lead": "에코심플렉스",
+"lead_ret": 18.22,
+"second": "에코아이",
+"second_ret": 16.31
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 3.31,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 12.72,
+"second": "한화오션",
+"second_ret": 3.57
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 1.94,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 29.95,
+"second": "하이트진로홀딩스",
+"second_ret": 0.84
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.24,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 29.95,
+"second": "티비씨",
+"second_ret": 0.94
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.1,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 9.96,
+"second": "코오롱인더",
+"second_ret": 1.21
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 0.94,
+"up5": 3,
+"lead": "삼미금속",
+"lead_ret": 13.31,
+"second": "전진건설로봇",
+"second_ret": 8.07
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 0.74,
+"up5": 3,
+"lead": "에코심플렉스",
+"lead_ret": 18.22,
+"second": "에코아이",
+"second_ret": 16.31
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 0.59,
+"up5": 3,
+"lead": "HJ중공업",
+"lead_ret": 12.72,
+"second": "일승",
+"second_ret": 8.51
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 0.16,
+"up5": 4,
+"lead": "삼미금속",
+"lead_ret": 13.31,
+"second": "일승",
+"second_ret": 8.51
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 0.12,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 2.39,
+"second": "대한해운",
+"second_ret": 0.78
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 0.08,
+"up5": 1,
+"lead": "티케이케미칼",
+"lead_ret": 29.99,
+"second": "SK케미칼",
+"second_ret": 1.73
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.04,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 2.07,
+"second": "INVENI",
+"second_ret": 0.36
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -0.12,
+"up5": 1,
+"lead": "SK오션플랜트",
+"lead_ret": 7.29,
+"second": "부국철강",
+"second_ret": 3.53
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -5.93,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": -2.4,
+"second": "에스와이",
+"second_ret": -3.24
+},
+{
+"name": "의료AI",
+"n": 25,
+"avg": -4.94,
+"up5": 0,
+"lead": "제이에스링크",
+"lead_ret": 4.44,
+"second": "시선AI",
+"second_ret": -0.5
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -4.77,
+"up5": 1,
+"lead": "한국첨단소재",
+"lead_ret": 5.71,
+"second": "포톤",
+"second_ret": 4.47
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": -4.44,
+"up5": 0,
+"lead": "에이치브이엠",
+"lead_ret": 2.38,
+"second": "모델솔루션",
+"second_ret": -1.25
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -4.39,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": -1.66,
+"second": "DSC인베스트먼트",
+"second_ret": -1.68
+}
+],
+"leaders": [
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 23.7,
+"value": 4343,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "오리엔트정공",
+"code": "065500",
+"ret": 22.49,
+"value": 2587,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 19.72,
+"value": 1312,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "SBS",
+"code": "034120",
+"ret": 29.95,
+"value": 1110,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "티케이케미칼",
+"code": "104480",
+"ret": 29.99,
+"value": 539,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+}
+],
+"backfilled": true
+}

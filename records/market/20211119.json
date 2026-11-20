@@ -1,0 +1,254 @@
+{
+"date": "20211119",
+"kospi": 0.8,
+"kosdaq": 0.89,
+"adv": 1093,
+"dec": 767,
+"flat": 195,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 465228,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 6,
+"lead": "KEC",
+"lead_ret": 20.71,
+"second": "티씨케이",
+"second_ret": 14.38
+},
+{
+"name": "자율주행차",
+"n": 6,
+"lead": "라닉스",
+"lead_ret": 29.93,
+"second": "인포뱅크",
+"second_ret": 29.91
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "제노코",
+"lead_ret": 20.95,
+"second": "덕산하이메탈",
+"second_ret": 13.87
+}
+],
+"themes": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 7.74,
+"up5": 6,
+"lead": "인포뱅크",
+"lead_ret": 29.91,
+"second": "오비고",
+"second_ret": 18.38
+},
+{
+"name": "자율주행차",
+"n": 47,
+"avg": 4.98,
+"up5": 16,
+"lead": "라닉스",
+"lead_ret": 29.93,
+"second": "인포뱅크",
+"second_ret": 29.91
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 4.74,
+"up5": 4,
+"lead": "티씨케이",
+"lead_ret": 14.38,
+"second": "기가레인",
+"second_ret": 12.5
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.65,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 8.98,
+"second": "큐에스아이",
+"second_ret": 6.79
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": 3.63,
+"up5": 13,
+"lead": "LIG아큐버",
+"lead_ret": 14.8,
+"second": "에이스테크",
+"second_ret": 13.23
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.59,
+"up5": 2,
+"lead": "인포뱅크",
+"lead_ret": 29.91,
+"second": "다날",
+"second_ret": 9.85
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 3.54,
+"up5": 1,
+"lead": "인포뱅크",
+"lead_ret": 29.91,
+"second": "알서포트",
+"second_ret": 3.92
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 3.42,
+"up5": 4,
+"lead": "KEC",
+"lead_ret": 20.71,
+"second": "아이에이",
+"second_ret": 8.42
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 3.19,
+"up5": 10,
+"lead": "라닉스",
+"lead_ret": 29.93,
+"second": "리노공업",
+"second_ret": 9.77
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.17,
+"up5": 2,
+"lead": "삼성바이오로직스",
+"lead_ret": 6.06,
+"second": "드림씨아이에스",
+"second_ret": 5.65
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 3.11,
+"up5": 2,
+"lead": "포커스에이아이",
+"lead_ret": 11.25,
+"second": "앤씨앤",
+"second_ret": 7.09
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.09,
+"up5": 3,
+"lead": "LG전자",
+"lead_ret": 8.98,
+"second": "비에이치",
+"second_ret": 6.91
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 9,
+"avg": -4.1,
+"up5": 1,
+"lead": "CJ ENM",
+"lead_ret": 5.93,
+"second": "CJ CGV",
+"second_ret": 0.93
+},
+{
+"name": "엔터테인먼트",
+"n": 27,
+"avg": -2.72,
+"up5": 2,
+"lead": "아이오케이이엔엠",
+"lead_ret": 6.3,
+"second": "CJ ENM",
+"second_ret": 5.93
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -2.6,
+"up5": 1,
+"lead": "네오위즈홀딩스",
+"lead_ret": 9.27,
+"second": "위메이드",
+"second_ret": 4.64
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -2.35,
+"up5": 1,
+"lead": "네오위즈홀딩스",
+"lead_ret": 9.27,
+"second": "위메이드",
+"second_ret": 4.64
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": -2.34,
+"up5": 1,
+"lead": "CJ ENM",
+"lead_ret": 5.93,
+"second": "KX",
+"second_ret": 3.14
+}
+],
+"leaders": [
+{
+"name": "KEC",
+"code": "092220",
+"ret": 20.71,
+"value": 6887,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 12.07,
+"value": 1937,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "덕산테코피아",
+"code": "317330",
+"ret": 12.94,
+"value": 1738,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 15.21,
+"value": 1680,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "FSN",
+"code": "214270",
+"ret": 30.0,
+"value": 1670,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+}
+],
+"backfilled": true
+}

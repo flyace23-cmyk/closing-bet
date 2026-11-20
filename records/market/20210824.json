@@ -1,0 +1,254 @@
+{
+"date": "20210824",
+"kospi": 1.56,
+"kosdaq": 2.01,
+"adv": 1784,
+"dec": 148,
+"flat": 95,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 260945,
+"hot": [
+{
+"name": "치매",
+"n": 3,
+"lead": "국전",
+"lead_ret": 16.76,
+"second": "진양제약",
+"second_ret": 10.42
+},
+{
+"name": "영상콘텐츠",
+"n": 3,
+"lead": "SM C&C",
+"lead_ret": 19.5,
+"second": "에이스토리",
+"second_ret": 14.68
+},
+{
+"name": "미디어(방송/신문)",
+"n": 3,
+"lead": "티비씨",
+"lead_ret": 29.96,
+"second": "KNN",
+"second_ret": 25.25
+}
+],
+"themes": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 8.26,
+"up5": 5,
+"lead": "티비씨",
+"lead_ret": 29.96,
+"second": "KNN",
+"second_ret": 25.25
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 6.69,
+"up5": 2,
+"lead": "원티드랩",
+"lead_ret": 29.96,
+"second": "메가엠디",
+"second_ret": 5.11
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 6.58,
+"up5": 6,
+"lead": "SM C&C",
+"lead_ret": 19.5,
+"second": "하나투어",
+"second_ret": 7.63
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 5.55,
+"up5": 5,
+"lead": "아시아나항공",
+"lead_ret": 9.84,
+"second": "제주항공",
+"second_ret": 7.23
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.52,
+"up5": 5,
+"lead": "국전",
+"lead_ret": 16.76,
+"second": "엑세스바이오",
+"second_ret": 10.0
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 5.35,
+"up5": 10,
+"lead": "SM C&C",
+"lead_ret": 19.5,
+"second": "에이스토리",
+"second_ret": 14.68
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 5.16,
+"up5": 3,
+"lead": "대산F&B",
+"lead_ret": 19.64,
+"second": "SOOP",
+"second_ret": 8.95
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.8,
+"up5": 3,
+"lead": "세아베스틸지주",
+"lead_ret": 8.25,
+"second": "포스코스틸리온",
+"second_ret": 8.18
+},
+{
+"name": "의료AI",
+"n": 15,
+"avg": 4.59,
+"up5": 4,
+"lead": "랩지노믹스",
+"lead_ret": 19.85,
+"second": "폴라리스오피스",
+"second_ret": 10.61
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.53,
+"up5": 2,
+"lead": "HC홈센타",
+"lead_ret": 10.91,
+"second": "HC보광산업",
+"second_ret": 7.47
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 4.49,
+"up5": 11,
+"lead": "랩지노믹스",
+"lead_ret": 19.85,
+"second": "지구홀딩스",
+"second_ret": 14.42
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 4.24,
+"up5": 12,
+"lead": "TCC스틸",
+"lead_ret": 9.58,
+"second": "원일특강",
+"second_ret": 9.58
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.69,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 4.06,
+"second": "디아이씨",
+"second_ret": 2.43
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.1,
+"up5": 1,
+"lead": "글로벌에스엠",
+"lead_ret": 5.57,
+"second": "컬러레이",
+"second_ret": 2.07
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 0.02,
+"up5": 0,
+"lead": "휴온스글로벌",
+"lead_ret": 2.7,
+"second": "하이로닉",
+"second_ret": 2.32
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 0.13,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 3.14,
+"second": "한울반도체",
+"second_ret": 2.15
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 0.43,
+"up5": 0,
+"lead": "앱튼",
+"lead_ret": 4.42,
+"second": "포스코엠텍",
+"second_ret": 3.59
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 16.11,
+"value": 6581,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 19.5,
+"value": 4776,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "유니드",
+"code": "014830",
+"ret": 19.13,
+"value": 3202,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 19.85,
+"value": 2726,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 16.76,
+"value": 1885,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

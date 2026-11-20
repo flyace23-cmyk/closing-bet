@@ -1,0 +1,254 @@
+{
+"date": "20201118",
+"kospi": 0.26,
+"kosdaq": 1.46,
+"adv": 1134,
+"dec": 640,
+"flat": 179,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 259616,
+"hot": [
+{
+"name": "재택근무/스마트워크",
+"n": 3,
+"lead": "알서포트",
+"lead_ret": 12.75,
+"second": "이씨에스",
+"second_ret": 12.26
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "에스티팜",
+"lead_ret": 18.15,
+"second": "제이브이엠",
+"second_ret": 13.04
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "아이큐어",
+"lead_ret": 13.64,
+"second": "오스코텍",
+"second_ret": 11.65
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 5.63,
+"up5": 6,
+"lead": "에스티팜",
+"lead_ret": 18.15,
+"second": "서린바이오",
+"second_ret": 9.54
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 4.8,
+"up5": 4,
+"lead": "위지트",
+"lead_ret": 29.87,
+"second": "우리기술투자",
+"second_ret": 24.47
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 4.38,
+"up5": 6,
+"lead": "알서포트",
+"lead_ret": 12.75,
+"second": "이씨에스",
+"second_ret": 12.26
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.21,
+"up5": 3,
+"lead": "덕신이피씨",
+"lead_ret": 19.93,
+"second": "코오롱글로벌",
+"second_ret": 6.38
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 4.1,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 24.47,
+"second": "에이티넘인베스트",
+"second_ret": 6.15
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": 3.89,
+"up5": 6,
+"lead": "루트K",
+"lead_ret": 29.87,
+"second": "오스코텍",
+"second_ret": 11.65
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.8,
+"up5": 2,
+"lead": "한국선재",
+"lead_ret": 13.38,
+"second": "성광벤드",
+"second_ret": 11.18
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.71,
+"up5": 1,
+"lead": "루트K",
+"lead_ret": 29.87,
+"second": "화천기계",
+"second_ret": 4.75
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.7,
+"up5": 2,
+"lead": "콜마바이오텍",
+"lead_ret": 15.51,
+"second": "에스와이",
+"second_ret": 5.24
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.67,
+"up5": 1,
+"lead": "SP삼화",
+"lead_ret": 29.88,
+"second": "KCC",
+"second_ret": 1.8
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.49,
+"up5": 1,
+"lead": "메가엠디",
+"lead_ret": 11.49,
+"second": "DSC인베스트먼트",
+"second_ret": 3.61
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 3.48,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 24.47,
+"second": "에이티넘인베스트",
+"second_ret": 6.15
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.71,
+"up5": 0,
+"lead": "트리니티항공",
+"lead_ret": 2.06,
+"second": "티웨이홀딩스",
+"second_ret": 0.4
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.15,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": -0.3,
+"second": "GS리테일",
+"second_ret": -0.44
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": -1.1,
+"up5": 0,
+"lead": "네패스",
+"lead_ret": 1.31,
+"second": "어보브반도체",
+"second_ret": 0.93
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.09,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 2.06,
+"second": "컬러레이",
+"second_ret": 0.83
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -0.98,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.47,
+"second": "고려제강",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 24.47,
+"value": 7433,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "루트K",
+"code": "195990",
+"ret": 29.87,
+"value": 5637,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 26.91,
+"value": 4901,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "앤디포스",
+"code": "238090",
+"ret": 22.19,
+"value": 3095,
+"theme": "아이폰",
+"reason": "테마: 아이폰"
+},
+{
+"name": "한국팩키지",
+"code": "037230",
+"ret": 13.87,
+"value": 2455,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+}
+],
+"backfilled": true
+}

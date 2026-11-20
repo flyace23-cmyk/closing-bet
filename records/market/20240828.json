@@ -1,0 +1,254 @@
+{
+"date": "20240828",
+"kospi": 0.02,
+"kosdaq": -0.32,
+"adv": 691,
+"dec": 1466,
+"flat": 123,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 171129,
+"hot": [
+{
+"name": "비만치료제",
+"n": 8,
+"lead": "대봉엘에스",
+"lead_ret": 29.98,
+"second": "유한양행",
+"second_ret": 20.44
+},
+{
+"name": "치매",
+"n": 6,
+"lead": "유한양행",
+"lead_ret": 20.44,
+"second": "퀀타매트릭스",
+"second_ret": 8.79
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "현대바이오",
+"lead_ret": 15.23,
+"second": "퀀타매트릭스",
+"second_ret": 8.79
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 3.35,
+"up5": 5,
+"lead": "플랜티넷",
+"lead_ret": 29.9,
+"second": "M83",
+"second_ret": 17.21
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.21,
+"up5": 1,
+"lead": "유한양행",
+"lead_ret": 20.44,
+"second": "대한약품",
+"second_ret": 0.38
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 2.05,
+"up5": 3,
+"lead": "플랜티넷",
+"lead_ret": 29.9,
+"second": "스톤브릿지벤처스",
+"second_ret": 16.64
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 2.02,
+"up5": 2,
+"lead": "유한양행",
+"lead_ret": 20.44,
+"second": "대웅제약",
+"second_ret": 7.28
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.0,
+"up5": 8,
+"lead": "대봉엘에스",
+"lead_ret": 29.98,
+"second": "유한양행",
+"second_ret": 20.44
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.78,
+"up5": 4,
+"lead": "꿈비",
+"lead_ret": 13.34,
+"second": "아가방컴퍼니",
+"second_ret": 8.51
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 1.56,
+"up5": 3,
+"lead": "피에스케이홀딩스",
+"lead_ret": 11.11,
+"second": "한미반도체",
+"second_ret": 6.69
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.45,
+"up5": 0,
+"lead": "현대차",
+"lead_ret": 4.65,
+"second": "기아",
+"second_ret": 2.75
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.39,
+"up5": 0,
+"lead": "이오테크닉스",
+"lead_ret": 4.42,
+"second": "티에스이",
+"second_ret": 4.3
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 1.29,
+"up5": 1,
+"lead": "에스티아이",
+"lead_ret": 5.82,
+"second": "에이엘티",
+"second_ret": 4.81
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.28,
+"up5": 3,
+"lead": "JW중외제약",
+"lead_ret": 8.51,
+"second": "아가방컴퍼니",
+"second_ret": 8.51
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 1.24,
+"up5": 3,
+"lead": "꿈비",
+"lead_ret": 13.34,
+"second": "아가방컴퍼니",
+"second_ret": 8.51
+}
+],
+"themes_worst": [
+{
+"name": "종합상사",
+"n": 8,
+"avg": -3.21,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.46,
+"second": "현대코퍼레이션",
+"second_ret": -0.77
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.1,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.46,
+"second": "현대건설",
+"second_ret": -2.13
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.73,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -0.13,
+"second": "SK가스",
+"second_ret": -1.23
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -2.73,
+"up5": 0,
+"lead": "극동유화",
+"lead_ret": -0.13,
+"second": "SK가스",
+"second_ret": -1.23
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.69,
+"up5": 0,
+"lead": "오가닉티코스메틱",
+"lead_ret": 1.45,
+"second": "씨엑스아이",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 20.44,
+"value": 26590,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "M83",
+"code": "476080",
+"ret": 17.21,
+"value": 2830,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "티디에스팜",
+"code": "464280",
+"ret": 29.97,
+"value": 2796,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 15.23,
+"value": 875,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "대봉엘에스",
+"code": "078140",
+"ret": 29.98,
+"value": 815,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+}
+],
+"backfilled": true
+}

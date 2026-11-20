@@ -1,0 +1,254 @@
+{
+"date": "20230901",
+"kospi": 0.29,
+"kosdaq": -0.93,
+"adv": 797,
+"dec": 1269,
+"flat": 121,
+"limit_up": 6,
+"limit_down": 1,
+"value_total": 226129,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "하나마이크론",
+"lead_ret": 29.89,
+"second": "제이티",
+"second_ret": 22.71
+},
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "하나마이크론",
+"lead_ret": 29.89,
+"second": "마이크로컨텍솔",
+"second_ret": 13.75
+},
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "하나마이크론",
+"lead_ret": 29.89,
+"second": "넥스트칩",
+"second_ret": 25.69
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.15,
+"up5": 6,
+"lead": "티에프이",
+"lead_ret": 13.74,
+"second": "펨트론",
+"second_ret": 12.14
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": 5.13,
+"up5": 5,
+"lead": "앤씨앤",
+"lead_ret": 10.55,
+"second": "네패스아크",
+"second_ret": 7.32
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.72,
+"up5": 5,
+"lead": "티에스이",
+"lead_ret": 10.08,
+"second": "레이저쎌",
+"second_ret": 9.95
+},
+{
+"name": "시스템반도체",
+"n": 49,
+"avg": 4.38,
+"up5": 18,
+"lead": "하나마이크론",
+"lead_ret": 29.89,
+"second": "넥스트칩",
+"second_ret": 25.69
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.37,
+"up5": 6,
+"lead": "다원넥스뷰",
+"lead_ret": 15.0,
+"second": "티엘비",
+"second_ret": 8.05
+},
+{
+"name": "반도체 장비",
+"n": 85,
+"avg": 4.08,
+"up5": 31,
+"lead": "하나마이크론",
+"lead_ret": 29.89,
+"second": "제이티",
+"second_ret": 22.71
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 3.85,
+"up5": 10,
+"lead": "에이디테크놀로지",
+"lead_ret": 10.53,
+"second": "가온칩스",
+"second_ret": 7.63
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 3.75,
+"up5": 10,
+"lead": "미래반도체",
+"lead_ret": 15.14,
+"second": "펨트론",
+"second_ret": 12.14
+},
+{
+"name": "가상현실(VR)",
+"n": 22,
+"avg": 3.23,
+"up5": 7,
+"lead": "이노시뮬레이션",
+"lead_ret": 16.3,
+"second": "라온텍",
+"second_ret": 11.77
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 3.13,
+"up5": 2,
+"lead": "라온텍",
+"lead_ret": 11.77,
+"second": "삼성전자",
+"second_ret": 6.13
+},
+{
+"name": "증강현실(AR)",
+"n": 17,
+"avg": 3.13,
+"up5": 4,
+"lead": "이노시뮬레이션",
+"lead_ret": 16.3,
+"second": "라온텍",
+"second_ret": 11.77
+},
+{
+"name": "반도체 재료/부품",
+"n": 65,
+"avg": 3.08,
+"up5": 17,
+"lead": "하나마이크론",
+"lead_ret": 29.89,
+"second": "마이크로컨텍솔",
+"second_ret": 13.75
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -4.13,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -1.14,
+"second": "대원전선",
+"second_ret": -1.39
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -4.05,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.7,
+"second": "HD현대중공업",
+"second_ret": -2.14
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.93,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -3.29,
+"second": "샘표식품",
+"second_ret": -3.4
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": -3.67,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 1.19,
+"second": "애경케미칼",
+"second_ret": -2.22
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -3.01,
+"up5": 0,
+"lead": "나이벡",
+"lead_ret": 2.7,
+"second": "아이진",
+"second_ret": 1.99
+}
+],
+"leaders": [
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 29.89,
+"value": 5082,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "스마트레이더시스템",
+"code": "424960",
+"ret": 29.87,
+"value": 4147,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "이노시뮬레이션",
+"code": "274400",
+"ret": 16.3,
+"value": 1326,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "미래반도체",
+"code": "254490",
+"ret": 15.14,
+"value": 1287,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "희림",
+"code": "037440",
+"ret": 29.94,
+"value": 1251,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

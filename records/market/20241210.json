@@ -1,0 +1,238 @@
+{
+"date": "20241210",
+"kospi": 2.43,
+"kosdaq": 5.52,
+"adv": 2183,
+"dec": 89,
+"flat": 39,
+"limit_up": 14,
+"limit_down": 0,
+"value_total": 162755,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "파라텍",
+"lead_ret": 29.98,
+"second": "프리엠스",
+"second_ret": 29.07
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 10.75,
+"up5": 4,
+"lead": "유라클",
+"lead_ret": 18.43,
+"second": "갤럭시아머니트리",
+"second_ret": 17.78
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 9.6,
+"up5": 33,
+"lead": "파라텍",
+"lead_ret": 29.98,
+"second": "프리엠스",
+"second_ret": 29.07
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 8.73,
+"up5": 15,
+"lead": "CS",
+"lead_ret": 29.86,
+"second": "아이앤씨",
+"second_ret": 29.75
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 8.26,
+"up5": 7,
+"lead": "원티드랩",
+"lead_ret": 13.91,
+"second": "TS인베스트먼트",
+"second_ret": 10.12
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 8.15,
+"up5": 6,
+"lead": "KBI메탈",
+"lead_ret": 12.24,
+"second": "대한전선",
+"second_ret": 11.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 8.14,
+"up5": 5,
+"lead": "SG",
+"lead_ret": 23.81,
+"second": "HC보광산업",
+"second_ret": 19.58
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 8.09,
+"up5": 7,
+"lead": "프리엠스",
+"lead_ret": 29.07,
+"second": "케이씨에스",
+"second_ret": 8.95
+},
+{
+"name": "의료AI",
+"n": 24,
+"avg": 7.88,
+"up5": 20,
+"lead": "루닛",
+"lead_ret": 19.45,
+"second": "노을",
+"second_ret": 12.23
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 7.82,
+"up5": 8,
+"lead": "덕신이피씨",
+"lead_ret": 14.3,
+"second": "에스와이",
+"second_ret": 12.99
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 7.78,
+"up5": 12,
+"lead": "프리엠스",
+"lead_ret": 29.07,
+"second": "현대에버다임",
+"second_ret": 13.99
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 7.66,
+"up5": 13,
+"lead": "메디톡스",
+"lead_ret": 15.64,
+"second": "파마리서치",
+"second_ret": 13.48
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 7.5,
+"up5": 22,
+"lead": "금호에이치티",
+"lead_ret": 18.37,
+"second": "제이케이시냅스",
+"second_ret": 14.42
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.97,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 3.18,
+"second": "BGF리테일",
+"second_ret": 0.91
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.12,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 5.17,
+"second": "iM금융지주",
+"second_ret": 2.37
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 1.87,
+"up5": 0,
+"lead": "블루산업개발",
+"lead_ret": 4.93,
+"second": "리더스코스메틱",
+"second_ret": 4.55
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 2.21,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 5.19,
+"second": "이월드",
+"second_ret": 3.85
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 2.28,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 6.09,
+"second": "이지홀딩스",
+"second_ret": 4.7
+}
+],
+"leaders": [
+{
+"name": "루닛",
+"code": "328130",
+"ret": 19.45,
+"value": 4987,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 11.58,
+"value": 3977,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 15.03,
+"value": 2982,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "브이티",
+"code": "018290",
+"ret": 24.05,
+"value": 2505,
+"theme": "2차전지(LFP/리튬인산철)",
+"reason": "테마: 2차전지(LFP/리튬인산철)"
+},
+{
+"name": "대상홀딩스",
+"code": "084690",
+"ret": 18.61,
+"value": 2056,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

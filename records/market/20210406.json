@@ -1,0 +1,254 @@
+{
+"date": "20210406",
+"kospi": 0.2,
+"kosdaq": -0.12,
+"adv": 828,
+"dec": 996,
+"flat": 173,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 258008,
+"hot": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 7,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "TS인베스트먼트",
+"second_ret": 23.95
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 4,
+"lead": "네오위즈홀딩스",
+"lead_ret": 14.6,
+"second": "자이언트스텝",
+"second_ret": 10.15
+},
+{
+"name": "블록체인",
+"n": 3,
+"lead": "드림시큐리티",
+"lead_ret": 21.69,
+"second": "아이티센글로벌",
+"second_ret": 17.98
+}
+],
+"themes": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 9.58,
+"up5": 7,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "TS인베스트먼트",
+"second_ret": 23.95
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 8.6,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 23.95,
+"second": "아이티센글로벌",
+"second_ret": 17.98
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 8.57,
+"up5": 4,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "엔비티",
+"second_ret": 7.66
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 7.02,
+"up5": 1,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "한화생명",
+"second_ret": 2.44
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 6.12,
+"up5": 9,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "TS인베스트먼트",
+"second_ret": 23.95
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 5.39,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 23.95,
+"second": "대성창투",
+"second_ret": 7.73
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 5.26,
+"up5": 3,
+"lead": "노루페인트",
+"lead_ret": 14.72,
+"second": "노루홀딩스",
+"second_ret": 8.58
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.82,
+"up5": 6,
+"lead": "TS인베스트먼트",
+"lead_ret": 23.95,
+"second": "우리기술투자",
+"second_ret": 15.79
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 4.65,
+"up5": 9,
+"lead": "드림시큐리티",
+"lead_ret": 21.69,
+"second": "아이티센글로벌",
+"second_ret": 17.98
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.33,
+"up5": 5,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "한양증권",
+"second_ret": 8.71
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 21,
+"avg": 4.22,
+"up5": 6,
+"lead": "한화투자증권",
+"lead_ret": 30.0,
+"second": "아이티센글로벌",
+"second_ret": 17.98
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.34,
+"up5": 3,
+"lead": "손오공",
+"lead_ret": 7.56,
+"second": "대원미디어",
+"second_ret": 6.52
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 26,
+"avg": -1.79,
+"up5": 0,
+"lead": "셀리드",
+"lead_ret": 4.29,
+"second": "리가켐바이오",
+"second_ret": 4.08
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": -1.73,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": 1.19,
+"second": "세코닉스",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.61,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.53,
+"second": "파미셀",
+"second_ret": 0.0
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.51,
+"up5": 0,
+"lead": "에이프로젠",
+"lead_ret": 2.47,
+"second": "선바이오",
+"second_ret": 1.25
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.5,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "기아",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 15.79,
+"value": 5885,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "드림시큐리티",
+"code": "203650",
+"ret": 21.69,
+"value": 4601,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "TS인베스트먼트",
+"code": "246690",
+"ret": 23.95,
+"value": 3711,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 10.15,
+"value": 3324,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "NE능률",
+"code": "053290",
+"ret": 29.81,
+"value": 2836,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

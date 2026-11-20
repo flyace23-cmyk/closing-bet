@@ -1,0 +1,238 @@
+{
+"date": "20250903",
+"kospi": 0.38,
+"kosdaq": 0.35,
+"adv": 1224,
+"dec": 988,
+"flat": 166,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 139766,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "에프에스티",
+"lead_ret": 17.52,
+"second": "유니테스트",
+"second_ret": 10.73
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 3.69,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 19.83,
+"second": "아이티센글로벌",
+"second_ret": 17.2
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.59,
+"up5": 3,
+"lead": "토모큐브",
+"lead_ret": 6.15,
+"second": "오가노이드사이언스",
+"second_ret": 5.92
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.3,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 8.37,
+"second": "GKL",
+"second_ret": 5.57
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.3,
+"up5": 2,
+"lead": "파라다이스",
+"lead_ret": 8.37,
+"second": "GKL",
+"second_ret": 5.57
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.22,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 19.21,
+"second": "두산에너빌리티",
+"second_ret": 3.31
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.96,
+"up5": 2,
+"lead": "삼화콘덴서",
+"lead_ret": 19.21,
+"second": "아바텍",
+"second_ret": 5.47
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 2.41,
+"up5": 4,
+"lead": "파라다이스",
+"lead_ret": 8.37,
+"second": "제이에스코퍼레이션",
+"second_ret": 6.23
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.31,
+"up5": 2,
+"lead": "에프에스티",
+"lead_ret": 17.52,
+"second": "해성옵틱스",
+"second_ret": 6.95
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.05,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 4.6,
+"second": "강스템바이오텍",
+"second_ret": 2.38
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.86,
+"up5": 3,
+"lead": "아센디오",
+"lead_ret": 13.88,
+"second": "서남",
+"second_ret": 7.43
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 1.85,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 19.83,
+"second": "쓰리빌리언",
+"second_ret": 5.58
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 1.8,
+"up5": 1,
+"lead": "풍전약품",
+"lead_ret": 14.3,
+"second": "메디포스트",
+"second_ret": 4.6
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": -1.43,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": -0.54,
+"second": "흥국화재",
+"second_ret": -1.09
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": -1.14,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 1.86,
+"second": "티씨머티리얼즈",
+"second_ret": -0.21
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.12,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": 2.43,
+"second": "프리엠스",
+"second_ret": 1.57
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.05,
+"up5": 0,
+"lead": "핑거스토리",
+"lead_ret": 1.09,
+"second": "와이랩",
+"second_ret": 0.38
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -1.03,
+"up5": 0,
+"lead": "케이씨피드",
+"lead_ret": 0.88,
+"second": "흥국에프엔비",
+"second_ret": 0.3
+}
+],
+"leaders": [
+{
+"name": "HJ중공업",
+"code": "097230",
+"ret": 12.5,
+"value": 7591,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "파인엠텍",
+"code": "441270",
+"ret": 16.32,
+"value": 3097,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "오성첨단소재",
+"code": "052420",
+"ret": 29.98,
+"value": 1150,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "토마토시스템",
+"code": "393210",
+"ret": 19.83,
+"value": 991,
+"theme": "퓨리오사AI",
+"reason": "테마: 퓨리오사AI"
+},
+{
+"name": "프로티나",
+"code": "468530",
+"ret": 10.04,
+"value": 808,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

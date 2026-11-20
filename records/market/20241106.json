@@ -1,0 +1,254 @@
+{
+"date": "20241106",
+"kospi": -0.52,
+"kosdaq": -1.13,
+"adv": 722,
+"dec": 1458,
+"flat": 118,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 175766,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 10,
+"lead": "에스와이스틸텍",
+"lead_ret": 29.83,
+"second": "SG",
+"second_ret": 29.2
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 5,
+"lead": "SKAI",
+"lead_ret": 29.36,
+"second": "솔트룩스",
+"second_ret": 21.77
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "일신석재",
+"lead_ret": 25.58,
+"second": "아난티",
+"second_ret": 12.56
+}
+],
+"themes": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 6.31,
+"up5": 17,
+"lead": "에스와이스틸텍",
+"lead_ret": 29.83,
+"second": "SG",
+"second_ret": 29.2
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 6.15,
+"up5": 8,
+"lead": "현대에버다임",
+"lead_ret": 23.6,
+"second": "대모",
+"second_ret": 18.41
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 4.14,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 23.27,
+"second": "코나아이",
+"second_ret": 0.4
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 3.58,
+"up5": 6,
+"lead": "SKAI",
+"lead_ret": 29.36,
+"second": "솔트룩스",
+"second_ret": 21.77
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 3.43,
+"up5": 3,
+"lead": "와이제이링크",
+"lead_ret": 29.97,
+"second": "에이치브이엠",
+"second_ret": 20.53
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 3.41,
+"up5": 3,
+"lead": "SG",
+"lead_ret": 29.2,
+"second": "부산산업",
+"second_ret": 9.46
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.27,
+"up5": 3,
+"lead": "에스와이",
+"lead_ret": 14.06,
+"second": "덕신이피씨",
+"second_ret": 6.26
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 3.22,
+"up5": 8,
+"lead": "일신석재",
+"lead_ret": 25.58,
+"second": "남광토건",
+"second_ret": 12.62
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.8,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 23.27,
+"second": "갤럭시아에스엠",
+"second_ret": 12.89
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 2.69,
+"up5": 10,
+"lead": "에이치브이엠",
+"lead_ret": 20.53,
+"second": "쎄트렉아이",
+"second_ret": 10.53
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.61,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 29.2,
+"second": "스페코",
+"second_ret": 1.18
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.53,
+"up5": 1,
+"lead": "성광벤드",
+"lead_ret": 8.92,
+"second": "태광",
+"second_ret": 4.79
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -5.3,
+"up5": 0,
+"lead": "메가터치",
+"lead_ret": -2.09,
+"second": "나인테크",
+"second_ret": -3.17
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": -4.74,
+"up5": 0,
+"lead": "아이엘",
+"lead_ret": 0.32,
+"second": "삼성전기",
+"second_ret": -0.76
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -4.69,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 1.1,
+"second": "리튬포어스",
+"second_ret": 0.68
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.98,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": -0.76,
+"second": "아모텍",
+"second_ret": -1.01
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 72,
+"avg": -3.81,
+"up5": 0,
+"lead": "동국알앤에스",
+"lead_ret": 4.36,
+"second": "삼진엘앤디",
+"second_ret": 1.23
+}
+],
+"leaders": [
+{
+"name": "에스와이스틸텍",
+"code": "365330",
+"ret": 29.83,
+"value": 2472,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "산일전기",
+"code": "062040",
+"ret": 16.77,
+"value": 2068,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 25.58,
+"value": 1997,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "현대에버다임",
+"code": "041440",
+"ret": 23.6,
+"value": 1624,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "와이제이링크",
+"code": "209640",
+"ret": 29.97,
+"value": 1546,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+}
+],
+"backfilled": true
+}

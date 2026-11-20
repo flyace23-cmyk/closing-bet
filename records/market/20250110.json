@@ -1,0 +1,254 @@
+{
+"date": "20250110",
+"kospi": -0.24,
+"kosdaq": -0.78,
+"adv": 1040,
+"dec": 1136,
+"flat": 145,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 157800,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "에스피시스템스",
+"lead_ret": 11.08,
+"second": "삼현",
+"second_ret": 10.39
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "슈어소프트테크",
+"lead_ret": 24.37,
+"second": "텔레칩스",
+"second_ret": 10.62
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "삼현",
+"lead_ret": 10.39,
+"second": "휴림에이텍",
+"second_ret": 9.04
+}
+],
+"themes": [
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 3.74,
+"up5": 3,
+"lead": "파라텍",
+"lead_ret": 23.82,
+"second": "인콘",
+"second_ret": 13.45
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.53,
+"up5": 7,
+"lead": "파라텍",
+"lead_ret": 23.82,
+"second": "전진건설로봇",
+"second_ret": 21.71
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.42,
+"up5": 2,
+"lead": "한솔홈데코",
+"lead_ret": 18.78,
+"second": "이건산업",
+"second_ret": 7.14
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.42,
+"up5": 2,
+"lead": "한솔홈데코",
+"lead_ret": 18.78,
+"second": "이건산업",
+"second_ret": 7.14
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 3.41,
+"up5": 1,
+"lead": "위닉스",
+"lead_ret": 29.89,
+"second": "신일전자",
+"second_ret": 0.49
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.29,
+"up5": 2,
+"lead": "우원개발",
+"lead_ret": 6.16,
+"second": "세명전기",
+"second_ret": 5.58
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 3.25,
+"up5": 5,
+"lead": "오르비텍",
+"lead_ret": 13.28,
+"second": "비에이치아이",
+"second_ret": 10.45
+},
+{
+"name": "공기청정기",
+"n": 12,
+"avg": 3.19,
+"up5": 2,
+"lead": "위닉스",
+"lead_ret": 29.89,
+"second": "케이웨더",
+"second_ret": 7.78
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.97,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 5.34,
+"second": "IPARK현대산업개발",
+"second_ret": 4.82
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 2.96,
+"up5": 3,
+"lead": "전진건설로봇",
+"lead_ret": 21.71,
+"second": "현대에버다임",
+"second_ret": 8.24
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.73,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 8.07,
+"second": "성광벤드",
+"second_ret": 5.23
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.5,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 6.1,
+"second": "한온시스템",
+"second_ret": 3.57
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -2.69,
+"up5": 0,
+"lead": "옵티팜",
+"lead_ret": 1.58,
+"second": "한국파마",
+"second_ret": -0.19
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.6,
+"up5": 0,
+"lead": "코윈로보틱스",
+"lead_ret": 1.5,
+"second": "파워넷",
+"second_ret": 0.87
+},
+{
+"name": "유리 기판",
+"n": 20,
+"avg": -2.35,
+"up5": 0,
+"lead": "와이엠티",
+"lead_ret": 2.22,
+"second": "하스",
+"second_ret": 0.99
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.26,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -1.31,
+"second": "메디포스트",
+"second_ret": -1.77
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.16,
+"up5": 0,
+"lead": "국제약품",
+"lead_ret": -0.18,
+"second": "위더스제약",
+"second_ret": -0.7
+}
+],
+"leaders": [
+{
+"name": "현대힘스",
+"code": "460930",
+"ret": 22.59,
+"value": 3788,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "전진건설로봇",
+"code": "079900",
+"ret": 21.71,
+"value": 2887,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "슈어소프트테크",
+"code": "298830",
+"ret": 24.37,
+"value": 2226,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "삼현",
+"code": "437730",
+"ret": 10.39,
+"value": 1989,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "제일일렉트릭",
+"code": "199820",
+"ret": 26.93,
+"value": 1667,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+}
+],
+"backfilled": true
+}

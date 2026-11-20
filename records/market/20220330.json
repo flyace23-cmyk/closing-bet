@@ -1,0 +1,238 @@
+{
+"date": "20220330",
+"kospi": 0.21,
+"kosdaq": 0.13,
+"adv": 859,
+"dec": 993,
+"flat": 223,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 189009,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "유니크",
+"lead_ret": 29.97,
+"second": "남선알미늄",
+"second_ret": 18.21
+}
+],
+"themes": [
+{
+"name": "테마파크",
+"n": 5,
+"avg": 4.68,
+"up5": 1,
+"lead": "시공테크",
+"lead_ret": 23.38,
+"second": "이월드",
+"second_ret": 0.4
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 3.54,
+"up5": 4,
+"lead": "한솔로지스틱스",
+"lead_ret": 21.71,
+"second": "KCTC",
+"second_ret": 7.68
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 67,
+"avg": 2.96,
+"up5": 11,
+"lead": "유니크",
+"lead_ret": 29.97,
+"second": "제이엔케이글로벌",
+"second_ret": 21.61
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.5,
+"up5": 1,
+"lead": "SM C&C",
+"lead_ret": 8.02,
+"second": "그래디언트",
+"second_ret": 4.37
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.3,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 17.35,
+"second": "데브시스터즈",
+"second_ret": 0.95
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 2.16,
+"up5": 2,
+"lead": "큐캐피탈",
+"lead_ret": 23.83,
+"second": "대성창투",
+"second_ret": 7.44
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 1.92,
+"up5": 1,
+"lead": "흥아해운",
+"lead_ret": 5.28,
+"second": "대한해운",
+"second_ret": 2.05
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.86,
+"up5": 1,
+"lead": "JYP Ent.",
+"lead_ret": 5.74,
+"second": "에스엠",
+"second_ret": 4.74
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 1.73,
+"up5": 1,
+"lead": "폴라리스세원",
+"lead_ret": 14.72,
+"second": "대원화성",
+"second_ret": 4.8
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 1.66,
+"up5": 3,
+"lead": "SM C&C",
+"lead_ret": 8.02,
+"second": "JYP Ent.",
+"second_ret": 5.74
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 1.63,
+"up5": 3,
+"lead": "SM C&C",
+"lead_ret": 8.02,
+"second": "와이즈버즈",
+"second_ret": 7.62
+},
+{
+"name": "전기차",
+"n": 85,
+"avg": 1.41,
+"up5": 8,
+"lead": "지엠비코리아",
+"lead_ret": 14.73,
+"second": "폴라리스세원",
+"second_ret": 14.72
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.53,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 1.96,
+"second": "스맥",
+"second_ret": -0.48
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.2,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 0.0,
+"second": "옴니시스템",
+"second_ret": -1.09
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -2.02,
+"up5": 0,
+"lead": "NH농우바이오",
+"lead_ret": 1.23,
+"second": "롯데정밀화학",
+"second_ret": -0.13
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.96,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 1.34,
+"second": "인성정보",
+"second_ret": -0.99
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.86,
+"up5": 0,
+"lead": "삼일기업공사",
+"lead_ret": 2.55,
+"second": "동원개발",
+"second_ret": 2.5
+}
+],
+"leaders": [
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 18.21,
+"value": 11209,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "시공테크",
+"code": "020710",
+"ret": 23.38,
+"value": 1929,
+"theme": "가상현실(VR)",
+"reason": "테마: 가상현실(VR)"
+},
+{
+"name": "한솔로지스틱스",
+"code": "009180",
+"ret": 21.71,
+"value": 1875,
+"theme": "종합 물류",
+"reason": "테마: 종합 물류"
+},
+{
+"name": "큐캐피탈",
+"code": "016600",
+"ret": 23.83,
+"value": 1299,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "폴라리스세원",
+"code": "234100",
+"ret": 14.72,
+"value": 867,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

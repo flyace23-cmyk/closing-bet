@@ -1,0 +1,254 @@
+{
+"date": "20210402",
+"kospi": 0.82,
+"kosdaq": 0.45,
+"adv": 935,
+"dec": 841,
+"flat": 221,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 276872,
+"hot": [
+{
+"name": "창투사",
+"n": 6,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "에이티넘인베스트",
+"second_ret": 29.8
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "에이티넘인베스트",
+"second_ret": 29.8
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "제일테크노스",
+"lead_ret": 14.02,
+"second": "한전기술",
+"second_ret": 12.61
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 10.86,
+"up5": 3,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "DSC인베스트먼트",
+"second_ret": 19.19
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 10.48,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "DSC인베스트먼트",
+"second_ret": 19.19
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 10.45,
+"up5": 9,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "에이티넘인베스트",
+"second_ret": 29.8
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 9.33,
+"up5": 5,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "에이티넘인베스트",
+"second_ret": 29.8
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 4.07,
+"up5": 6,
+"lead": "TS인베스트먼트",
+"lead_ret": 29.87,
+"second": "에이티넘인베스트",
+"second_ret": 29.8
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.34,
+"up5": 2,
+"lead": "현대차",
+"lead_ret": 6.62,
+"second": "현대위아",
+"second_ret": 6.44
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 3.19,
+"up5": 1,
+"lead": "디지캡",
+"lead_ret": 19.37,
+"second": "파수AI",
+"second_ret": 3.66
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.17,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 19.19,
+"second": "미래에셋벤처투자",
+"second_ret": 6.83
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 18,
+"avg": 2.65,
+"up5": 3,
+"lead": "슈프리마에이치큐",
+"lead_ret": 15.38,
+"second": "포톤",
+"second_ret": 8.85
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 2.53,
+"up5": 3,
+"lead": "인포뱅크",
+"lead_ret": 8.9,
+"second": "아이에이",
+"second_ret": 6.8
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 2.48,
+"up5": 3,
+"lead": "인포뱅크",
+"lead_ret": 8.9,
+"second": "드림시큐리티",
+"second_ret": 6.68
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.45,
+"up5": 2,
+"lead": "디지틀조선",
+"lead_ret": 18.56,
+"second": "KNN",
+"second_ret": 5.79
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.23,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 1.68,
+"second": "오로라",
+"second_ret": 0.0
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.65,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": -0.48,
+"second": "롯데손해보험",
+"second_ret": -0.54
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.5,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": -0.48,
+"second": "우리금융지주",
+"second_ret": -0.5
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.46,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.4,
+"second": "엔투텍",
+"second_ret": -0.79
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.34,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.0,
+"second": "강원랜드",
+"second_ret": -0.2
+}
+],
+"leaders": [
+{
+"name": "대성창투",
+"code": "027830",
+"ret": 18.02,
+"value": 3757,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "에이티넘인베스트",
+"code": "021080",
+"ret": 29.8,
+"value": 3636,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "DSC인베스트먼트",
+"code": "241520",
+"ret": 19.19,
+"value": 3256,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "위지트",
+"code": "036090",
+"ret": 11.79,
+"value": 2858,
+"theme": "가상화폐(비트코인 등)",
+"reason": "테마: 가상화폐(비트코인 등)"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 29.86,
+"value": 2787,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+}
+],
+"backfilled": true
+}

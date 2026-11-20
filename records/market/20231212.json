@@ -1,0 +1,254 @@
+{
+"date": "20231212",
+"kospi": 0.39,
+"kosdaq": 0.51,
+"adv": 1021,
+"dec": 1034,
+"flat": 168,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 148918,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "SFA반도체",
+"lead_ret": 25.52,
+"second": "네패스",
+"second_ret": 19.22
+},
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "네패스",
+"lead_ret": 19.22,
+"second": "제이아이테크",
+"second_ret": 15.01
+},
+{
+"name": "온디바이스 AI",
+"n": 4,
+"lead": "태성",
+"lead_ret": 29.93,
+"second": "네패스",
+"second_ret": 19.22
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 4.25,
+"up5": 6,
+"lead": "태성",
+"lead_ret": 29.93,
+"second": "네패스",
+"second_ret": 19.22
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.34,
+"up5": 2,
+"lead": "네패스",
+"lead_ret": 19.22,
+"second": "네패스아크",
+"second_ret": 5.38
+},
+{
+"name": "시스템반도체",
+"n": 51,
+"avg": 3.23,
+"up5": 12,
+"lead": "SFA반도체",
+"lead_ret": 25.52,
+"second": "네패스",
+"second_ret": 19.22
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.19,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 29.93,
+"second": "덕산하이메탈",
+"second_ret": 8.91
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.92,
+"up5": 7,
+"lead": "고영",
+"lead_ret": 18.24,
+"second": "미래반도체",
+"second_ret": 16.24
+},
+{
+"name": "유리 기판",
+"n": 17,
+"avg": 2.75,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 29.93,
+"second": "와이씨켐",
+"second_ret": 6.29
+},
+{
+"name": "마이크로 LED",
+"n": 9,
+"avg": 2.66,
+"up5": 2,
+"lead": "광전자",
+"lead_ret": 8.11,
+"second": "라온텍",
+"second_ret": 6.28
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.63,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 5.57,
+"second": "에어부산",
+"second_ret": 4.84
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 2.26,
+"up5": 12,
+"lead": "SFA반도체",
+"lead_ret": 25.52,
+"second": "고영",
+"second_ret": 18.24
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": 2.19,
+"up5": 3,
+"lead": "어보브반도체",
+"lead_ret": 18.01,
+"second": "KEC",
+"second_ret": 7.48
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.11,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 14.13,
+"second": "가온전선",
+"second_ret": 4.31
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.03,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 14.13,
+"second": "LS",
+"second_ret": 1.41
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -2.41,
+"up5": 0,
+"lead": "판타지오",
+"lead_ret": -0.39,
+"second": "에프엔씨엔터",
+"second_ret": -0.4
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.28,
+"up5": 0,
+"lead": "경동제약",
+"lead_ret": 0.3,
+"second": "광동제약",
+"second_ret": 0.0
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -2.18,
+"up5": 0,
+"lead": "CJ CGV",
+"lead_ret": 0.88,
+"second": "롯데쇼핑",
+"second_ret": -0.26
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": -2.15,
+"up5": 0,
+"lead": "TJ미디어",
+"lead_ret": 1.33,
+"second": "큐로홀딩스",
+"second_ret": 0.27
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -2.03,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 1.11,
+"second": "메가엠디",
+"second_ret": 0.74
+}
+],
+"leaders": [
+{
+"name": "고영",
+"code": "098460",
+"ret": 18.24,
+"value": 4269,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "SFA반도체",
+"code": "036540",
+"ret": 25.52,
+"value": 3762,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 10.71,
+"value": 3686,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "어보브반도체",
+"code": "102120",
+"ret": 18.01,
+"value": 1499,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "씨에스윈드",
+"code": "112610",
+"ret": 11.9,
+"value": 1055,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

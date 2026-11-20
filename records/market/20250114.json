@@ -1,0 +1,254 @@
+{
+"date": "20250114",
+"kospi": 0.31,
+"kosdaq": 1.39,
+"adv": 1381,
+"dec": 784,
+"flat": 156,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 145330,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "대주전자재료",
+"lead_ret": 19.8,
+"second": "율촌화학",
+"second_ret": 13.96
+},
+{
+"name": "광고",
+"n": 5,
+"lead": "모비데이즈",
+"lead_ret": 29.83,
+"second": "와이즈버즈",
+"second_ret": 21.64
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "한국무브넥스",
+"lead_ret": 15.48,
+"second": "코리아에프티",
+"second_ret": 9.59
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 6.36,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 29.9,
+"second": "옴니시스템",
+"second_ret": 2.04
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.76,
+"up5": 4,
+"lead": "iMBC",
+"lead_ret": 25.15,
+"second": "YTN",
+"second_ret": 6.77
+},
+{
+"name": "광고",
+"n": 23,
+"avg": 4.69,
+"up5": 6,
+"lead": "모비데이즈",
+"lead_ret": 29.83,
+"second": "와이즈버즈",
+"second_ret": 21.64
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.62,
+"up5": 4,
+"lead": "에코프로비엠",
+"lead_ret": 7.79,
+"second": "디아이씨",
+"second_ret": 6.55
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 3.91,
+"up5": 4,
+"lead": "대주전자재료",
+"lead_ret": 19.8,
+"second": "아모텍",
+"second_ret": 6.96
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.99,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 19.8,
+"second": "야스",
+"second_ret": 4.77
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.85,
+"up5": 2,
+"lead": "대주전자재료",
+"lead_ret": 19.8,
+"second": "코윈로보틱스",
+"second_ret": 5.3
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.82,
+"up5": 11,
+"lead": "대주전자재료",
+"lead_ret": 19.8,
+"second": "율촌화학",
+"second_ret": 13.96
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.62,
+"up5": 4,
+"lead": "JYP Ent.",
+"lead_ret": 7.06,
+"second": "에스엠",
+"second_ret": 6.94
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.51,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 5.62,
+"second": "세방전지",
+"second_ret": 5.14
+},
+{
+"name": "2차전지",
+"n": 136,
+"avg": 2.48,
+"up5": 19,
+"lead": "대주전자재료",
+"lead_ret": 19.8,
+"second": "율촌화학",
+"second_ret": 13.96
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.36,
+"up5": 2,
+"lead": "이렘",
+"lead_ret": 14.63,
+"second": "SK오션플랜트",
+"second_ret": 5.88
+}
+],
+"themes_worst": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -2.5,
+"up5": 0,
+"lead": "쏠리드",
+"lead_ret": 3.25,
+"second": "사토시홀딩스",
+"second_ret": 1.76
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.17,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.38,
+"second": "서울제약",
+"second_ret": 0.14
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -1.79,
+"up5": 0,
+"lead": "동신건설",
+"lead_ret": 1.42,
+"second": "효성오앤비",
+"second_ret": 1.33
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -1.79,
+"up5": 0,
+"lead": "동신건설",
+"lead_ret": 1.42,
+"second": "효성오앤비",
+"second_ret": 1.33
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.7,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": -0.21,
+"second": "메디포스트",
+"second_ret": -1.43
+}
+],
+"leaders": [
+{
+"name": "대주전자재료",
+"code": "078600",
+"ret": 19.8,
+"value": 1110,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "iMBC",
+"code": "052220",
+"ret": 25.15,
+"value": 1099,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "차이커뮤니케이션",
+"code": "351870",
+"ret": 10.04,
+"value": 1067,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "큐렉소",
+"code": "060280",
+"ret": 20.17,
+"value": 921,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "오스테오닉",
+"code": "226400",
+"ret": 14.93,
+"value": 813,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240704",
+"kospi": 1.11,
+"kosdaq": 0.56,
+"adv": 1003,
+"dec": 1109,
+"flat": 154,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 217430,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "오로스테크놀로지",
+"lead_ret": 20.09,
+"second": "이오테크닉스",
+"second_ret": 15.01
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "원익IPS",
+"lead_ret": 12.96,
+"second": "티에스이",
+"second_ret": 9.4
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "디아이",
+"lead_ret": 11.35,
+"second": "어보브반도체",
+"second_ret": 10.37
+}
+],
+"themes": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 3.14,
+"up5": 7,
+"lead": "오로스테크놀로지",
+"lead_ret": 20.09,
+"second": "이오테크닉스",
+"second_ret": 15.01
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.85,
+"up5": 2,
+"lead": "이오테크닉스",
+"lead_ret": 15.01,
+"second": "티에스이",
+"second_ret": 9.4
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.69,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 13.87,
+"second": "코리아써키트",
+"second_ret": 4.91
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 2.65,
+"up5": 3,
+"lead": "어보브반도체",
+"lead_ret": 10.37,
+"second": "가온칩스",
+"second_ret": 6.3
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.41,
+"up5": 2,
+"lead": "조광페인트",
+"lead_ret": 8.88,
+"second": "SP삼화",
+"second_ret": 5.61
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.2,
+"up5": 1,
+"lead": "큐알티",
+"lead_ret": 5.18,
+"second": "코리아써키트",
+"second_ret": 4.91
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 2.19,
+"up5": 13,
+"lead": "오로스테크놀로지",
+"lead_ret": 20.09,
+"second": "이오테크닉스",
+"second_ret": 15.01
+},
+{
+"name": "시스템반도체",
+"n": 53,
+"avg": 2.17,
+"up5": 11,
+"lead": "디아이",
+"lead_ret": 11.35,
+"second": "어보브반도체",
+"second_ret": 10.37
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.17,
+"up5": 3,
+"lead": "시선AI",
+"lead_ret": 15.54,
+"second": "알체라",
+"second_ret": 12.21
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.02,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 4.91,
+"second": "삼성전자",
+"second_ret": 3.42
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.02,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 4.12,
+"second": "한온시스템",
+"second_ret": 3.85
+},
+{
+"name": "반도체 재료/부품",
+"n": 68,
+"avg": 1.96,
+"up5": 10,
+"lead": "한솔케미칼",
+"lead_ret": 7.99,
+"second": "이엔에프테크놀로지",
+"second_ret": 7.76
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.04,
+"up5": 0,
+"lead": "우양",
+"lead_ret": -0.66,
+"second": "한울앤제주",
+"second_ret": -0.82
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": -2.26,
+"up5": 0,
+"lead": "인포뱅크",
+"lead_ret": 2.07,
+"second": "네이블",
+"second_ret": 0.29
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.2,
+"up5": 0,
+"lead": "사조씨푸드",
+"lead_ret": 1.31,
+"second": "사조오양",
+"second_ret": 0.31
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.09,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.61,
+"second": "LS에코에너지",
+"second_ret": 0.17
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.92,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": 0.1,
+"second": "풀무원",
+"second_ret": -1.71
+}
+],
+"leaders": [
+{
+"name": "HLB제약",
+"code": "047920",
+"ret": 19.32,
+"value": 3675,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 13.5,
+"value": 3325,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 10.41,
+"value": 2583,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 11.35,
+"value": 2169,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "이오테크닉스",
+"code": "039030",
+"ret": 15.01,
+"value": 1819,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

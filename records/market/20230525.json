@@ -1,0 +1,254 @@
+{
+"date": "20230525",
+"kospi": -0.5,
+"kosdaq": -0.9,
+"adv": 507,
+"dec": 1503,
+"flat": 149,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 156693,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 5,
+"lead": "라이콤",
+"lead_ret": 30.0,
+"second": "이수페타시스",
+"second_ret": 17.11
+},
+{
+"name": "자율주행차",
+"n": 4,
+"lead": "라이콤",
+"lead_ret": 30.0,
+"second": "유니퀘스트",
+"second_ret": 12.55
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "애경케미칼",
+"lead_ret": 18.47,
+"second": "감성코퍼레이션",
+"second_ret": 10.94
+}
+],
+"themes": [
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 2.81,
+"up5": 1,
+"lead": "아이티아이즈",
+"lead_ret": 29.9,
+"second": "아톤",
+"second_ret": 1.48
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.55,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 17.11,
+"second": "티엘비",
+"second_ret": 7.53
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.96,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 7.53,
+"second": "ISC",
+"second_ret": 6.58
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 1.95,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 19.07,
+"second": "토마토시스템",
+"second_ret": 0.93
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 1.75,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 7.53,
+"second": "SK하이닉스",
+"second_ret": 5.94
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 1.75,
+"up5": 1,
+"lead": "누보",
+"lead_ret": 19.72,
+"second": "효성오앤비",
+"second_ret": 2.36
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 1.55,
+"up5": 2,
+"lead": "유니퀘스트",
+"lead_ret": 12.55,
+"second": "SK하이닉스",
+"second_ret": 5.94
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 53,
+"avg": 1.52,
+"up5": 6,
+"lead": "라이콤",
+"lead_ret": 30.0,
+"second": "이수페타시스",
+"second_ret": 17.11
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.32,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.94,
+"second": "SK스퀘어",
+"second_ret": 2.7
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 1.23,
+"up5": 2,
+"lead": "엑스페릭스",
+"lead_ret": 19.07,
+"second": "유니퀘스트",
+"second_ret": 12.55
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 1.18,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 18.47,
+"second": "디아이씨",
+"second_ret": -0.2
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 1.15,
+"up5": 1,
+"lead": "라이콤",
+"lead_ret": 30.0,
+"second": "성호전자",
+"second_ret": 2.78
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.54,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 2.07,
+"second": "LG에너지솔루션",
+"second_ret": -0.34
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": -2.36,
+"up5": 0,
+"lead": "피제이메탈",
+"lead_ret": 0.78,
+"second": "국일신동",
+"second_ret": 0.5
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -2.29,
+"up5": 0,
+"lead": "남성",
+"lead_ret": 0.23,
+"second": "디와이에이",
+"second_ret": -0.85
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -2.23,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.45,
+"second": "한성기업",
+"second_ret": -0.17
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.08,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.67,
+"second": "삼성중공업",
+"second_ret": -1.13
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 17.11,
+"value": 5773,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 18.47,
+"value": 4522,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "누보",
+"code": "332290",
+"ret": 19.72,
+"value": 2806,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 12.35,
+"value": 1580,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 14.97,
+"value": 1115,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

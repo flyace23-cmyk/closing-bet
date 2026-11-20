@@ -1,0 +1,254 @@
+{
+"date": "20241112",
+"kospi": -1.94,
+"kosdaq": -2.51,
+"adv": 254,
+"dec": 1989,
+"flat": 58,
+"limit_up": 7,
+"limit_down": 1,
+"value_total": 190737,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 6,
+"lead": "일성건설",
+"lead_ret": 29.97,
+"second": "남광토건",
+"second_ret": 29.89
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "지엔씨에너지",
+"lead_ret": 29.92,
+"second": "남광토건",
+"second_ret": 29.89
+},
+{
+"name": "철도",
+"n": 3,
+"lead": "남광토건",
+"lead_ret": 29.89,
+"second": "특수건설",
+"second_ret": 12.42
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 5.01,
+"up5": 9,
+"lead": "일성건설",
+"lead_ret": 29.97,
+"second": "남광토건",
+"second_ret": 29.89
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.89,
+"up5": 4,
+"lead": "코오롱글로벌",
+"lead_ret": 17.81,
+"second": "자연과환경",
+"second_ret": 7.07
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.03,
+"up5": 5,
+"lead": "남광토건",
+"lead_ret": 29.89,
+"second": "특수건설",
+"second_ret": 12.42
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.02,
+"up5": 5,
+"lead": "지엔씨에너지",
+"lead_ret": 29.92,
+"second": "남광토건",
+"second_ret": 29.89
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 1.12,
+"up5": 5,
+"lead": "TYM",
+"lead_ret": 29.89,
+"second": "희림",
+"second_ret": 25.48
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 0.64,
+"up5": 1,
+"lead": "비에이치아이",
+"lead_ret": 16.14,
+"second": "SNT에너지",
+"second_ret": 3.8
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 0.4,
+"up5": 2,
+"lead": "일승",
+"lead_ret": 29.96,
+"second": "비에이치아이",
+"second_ret": 16.14
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 0.35,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 17.81,
+"second": "SK네트웍스",
+"second_ret": -0.22
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 0.19,
+"up5": 3,
+"lead": "컴투스홀딩스",
+"lead_ret": 29.89,
+"second": "우리기술투자",
+"second_ret": 7.31
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 0.15,
+"up5": 4,
+"lead": "코오롱글로벌",
+"lead_ret": 17.81,
+"second": "자연과환경",
+"second_ret": 7.07
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 0.06,
+"up5": 1,
+"lead": "휴니드",
+"lead_ret": 17.5,
+"second": "켄코아에어로스페이스",
+"second_ret": 1.6
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.04,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 23.2,
+"second": "차바이오텍",
+"second_ret": -4.04
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -7.25,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": -4.22,
+"second": "LS마린솔루션",
+"second_ret": -4.68
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": -5.86,
+"up5": 0,
+"lead": "이지케어텍",
+"lead_ret": 0.56,
+"second": "토마토시스템",
+"second_ret": -0.88
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -5.48,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -1.68,
+"second": "SK하이닉스",
+"second_ret": -3.53
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -5.3,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": -3.42,
+"second": "앤씨앤",
+"second_ret": -3.42
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -5.0,
+"up5": 0,
+"lead": "이연제약",
+"lead_ret": 0.26,
+"second": "아이진",
+"second_ret": -3.17
+}
+],
+"leaders": [
+{
+"name": "더본코리아",
+"code": "475560",
+"ret": 15.34,
+"value": 3124,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 16.14,
+"value": 1782,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 19.39,
+"value": 1148,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "일승",
+"code": "333430",
+"ret": 29.96,
+"value": 839,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "휴니드",
+"code": "005870",
+"ret": 17.5,
+"value": 780,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

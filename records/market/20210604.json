@@ -1,0 +1,254 @@
+{
+"date": "20210604",
+"kospi": -0.23,
+"kosdaq": -0.26,
+"adv": 778,
+"dec": 1032,
+"flat": 201,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 256311,
+"hot": [
+{
+"name": "원자력발전",
+"n": 7,
+"lead": "대한전선",
+"lead_ret": 29.83,
+"second": "일진파워",
+"second_ret": 29.7
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "세동",
+"lead_ret": 29.97,
+"second": "웹스",
+"second_ret": 29.84
+},
+{
+"name": "블록체인",
+"n": 3,
+"lead": "라온시큐어",
+"lead_ret": 14.85,
+"second": "SGA솔루션즈",
+"second_ret": 14.0
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.27,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 29.83,
+"second": "일진전기",
+"second_ret": 8.67
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 5.11,
+"up5": 5,
+"lead": "우리기술",
+"lead_ret": 20.13,
+"second": "비에이치아이",
+"second_ret": 11.53
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.75,
+"up5": 2,
+"lead": "일진파워",
+"lead_ret": 29.7,
+"second": "두산에너빌리티",
+"second_ret": 10.33
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 4.22,
+"up5": 10,
+"lead": "대한전선",
+"lead_ret": 29.83,
+"second": "일진파워",
+"second_ret": 29.7
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": 3.5,
+"up5": 7,
+"lead": "대한전선",
+"lead_ret": 29.83,
+"second": "보성파워텍",
+"second_ret": 20.67
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 18,
+"avg": 3.0,
+"up5": 2,
+"lead": "해성옵틱스",
+"lead_ret": 29.92,
+"second": "라온시큐어",
+"second_ret": 14.85
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 2.91,
+"up5": 2,
+"lead": "라온시큐어",
+"lead_ret": 14.85,
+"second": "플랜티넷",
+"second_ret": 7.75
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.48,
+"up5": 3,
+"lead": "웹스",
+"lead_ret": 29.84,
+"second": "대창스틸",
+"second_ret": 6.99
+},
+{
+"name": "보안주(정보)",
+"n": 38,
+"avg": 2.33,
+"up5": 7,
+"lead": "라온시큐어",
+"lead_ret": 14.85,
+"second": "SGA솔루션즈",
+"second_ret": 14.0
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.25,
+"up5": 1,
+"lead": "HL만도",
+"lead_ret": 5.74,
+"second": "현대위아",
+"second_ret": 3.51
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.23,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 11.53,
+"second": "두산에너빌리티",
+"second_ret": 10.33
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 2.19,
+"up5": 1,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 6.47,
+"second": "아이티센글로벌",
+"second_ret": 4.37
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -2.24,
+"up5": 1,
+"lead": "세중",
+"lead_ret": 6.48,
+"second": "SM C&C",
+"second_ret": -1.37
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": -2.04,
+"up5": 0,
+"lead": "에이팩트",
+"lead_ret": -0.15,
+"second": "에이디테크놀로지",
+"second_ret": -0.21
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.98,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -1.06,
+"second": "GKL",
+"second_ret": -1.32
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.98,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -1.06,
+"second": "GKL",
+"second_ret": -1.32
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -1.93,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 0.0,
+"second": "DSC인베스트먼트",
+"second_ret": -0.66
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 10.33,
+"value": 12213,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 29.83,
+"value": 9578,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "라온시큐어",
+"code": "042510",
+"ret": 14.85,
+"value": 3995,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "이연제약",
+"code": "102460",
+"ret": 17.74,
+"value": 3813,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 20.67,
+"value": 3118,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

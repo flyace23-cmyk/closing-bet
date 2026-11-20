@@ -1,0 +1,246 @@
+{
+"date": "20220217",
+"kospi": 0.53,
+"kosdaq": -0.45,
+"adv": 882,
+"dec": 968,
+"flat": 214,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 195458,
+"hot": [
+{
+"name": "화장품",
+"n": 10,
+"lead": "선진뷰티사이언스",
+"lead_ret": 29.94,
+"second": "잇츠한불",
+"second_ret": 17.37
+},
+{
+"name": "드론(Drone)",
+"n": 3,
+"lead": "지아이에스",
+"lead_ret": 19.65,
+"second": "베셀",
+"second_ret": 10.07
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 8.58,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 29.86,
+"second": "HMM",
+"second_ret": 10.1
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.85,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 19.97,
+"second": "대성에너지",
+"second_ret": 13.7
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.31,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 12.11,
+"second": "흥구석유",
+"second_ret": 6.1
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.31,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 12.11,
+"second": "흥구석유",
+"second_ret": 6.1
+},
+{
+"name": "화장품",
+"n": 79,
+"avg": 2.69,
+"up5": 16,
+"lead": "선진뷰티사이언스",
+"lead_ret": 29.94,
+"second": "잇츠한불",
+"second_ret": 17.37
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.61,
+"up5": 1,
+"lead": "서울제약",
+"lead_ret": 13.7,
+"second": "대한약품",
+"second_ret": 1.47
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.5,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 8.33,
+"second": "SFA",
+"second_ret": 3.76
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.4,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 12.11,
+"second": "흥구석유",
+"second_ret": 6.1
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.29,
+"up5": 2,
+"lead": "한국석유",
+"lead_ret": 11.26,
+"second": "스페코",
+"second_ret": 7.25
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.26,
+"up5": 2,
+"lead": "케이씨에스",
+"lead_ret": 6.83,
+"second": "한네트",
+"second_ret": 6.27
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.25,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 6.1,
+"second": "SK이노베이션",
+"second_ret": 3.93
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 2.15,
+"up5": 3,
+"lead": "지아이에스",
+"lead_ret": 19.65,
+"second": "베셀",
+"second_ret": 10.07
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.02,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 1.1,
+"second": "강스템바이오텍",
+"second_ret": -0.47
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": -1.77,
+"up5": 0,
+"lead": "티움바이오",
+"lead_ret": 0.92,
+"second": "신라젠",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -1.66,
+"up5": 0,
+"lead": "케이바이오랩스",
+"lead_ret": 2.18,
+"second": "JW중외제약",
+"second_ret": 1.17
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": -1.58,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 3.76,
+"second": "비에이치아이",
+"second_ret": 2.67
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -1.42,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.69,
+"second": "나이스정보통신",
+"second_ret": 0.18
+}
+],
+"leaders": [
+{
+"name": "HMM",
+"code": "011200",
+"ret": 10.1,
+"value": 6401,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 19.97,
+"value": 4339,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "지아이에스",
+"code": "306620",
+"ret": 19.65,
+"value": 2238,
+"theme": "드론(Drone)",
+"reason": "테마: 드론(Drone)"
+},
+{
+"name": "오토앤",
+"code": "353590",
+"ret": 23.99,
+"value": 1748,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 13.7,
+"value": 1658,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+}
+],
+"backfilled": true
+}

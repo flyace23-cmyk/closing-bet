@@ -1,0 +1,246 @@
+{
+"date": "20250808",
+"kospi": -0.55,
+"kosdaq": 0.43,
+"adv": 1088,
+"dec": 1129,
+"flat": 156,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 159857,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "엔투텍",
+"lead_ret": 14.89,
+"second": "원익IPS",
+"second_ret": 13.09
+},
+{
+"name": "패션/의류",
+"n": 3,
+"lead": "좋은사람들",
+"lead_ret": 11.77,
+"second": "신원",
+"second_ret": 9.64
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.06,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 18.01,
+"second": "티엘비",
+"second_ret": 8.06
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.99,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 18.01,
+"second": "티엘비",
+"second_ret": 8.06
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 2.53,
+"up5": 3,
+"lead": "심텍",
+"lead_ret": 18.01,
+"second": "네패스아크",
+"second_ret": 5.52
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.52,
+"up5": 1,
+"lead": "스퀘어텍",
+"lead_ret": 24.06,
+"second": "삼화전기",
+"second_ret": 3.13
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.52,
+"up5": 1,
+"lead": "스퀘어텍",
+"lead_ret": 24.06,
+"second": "삼화전기",
+"second_ret": 3.13
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.48,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 11.03,
+"second": "GKL",
+"second_ret": 2.47
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.48,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 11.03,
+"second": "GKL",
+"second_ret": 2.47
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.38,
+"up5": 1,
+"lead": "누보",
+"lead_ret": 8.55,
+"second": "조비",
+"second_ret": 4.14
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 2.28,
+"up5": 4,
+"lead": "에스와이스틸텍",
+"lead_ret": 22.36,
+"second": "누보",
+"second_ret": 8.55
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 2.1,
+"up5": 1,
+"lead": "전진건설로봇",
+"lead_ret": 5.69,
+"second": "HD건설기계",
+"second_ret": 4.5
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.98,
+"up5": 1,
+"lead": "GH신소재",
+"lead_ret": 6.52,
+"second": "에스와이",
+"second_ret": 4.22
+},
+{
+"name": "반도체 장비",
+"n": 92,
+"avg": 1.9,
+"up5": 10,
+"lead": "엔투텍",
+"lead_ret": 14.89,
+"second": "원익IPS",
+"second_ret": 13.09
+}
+],
+"themes_worst": [
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -2.07,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": 1.53,
+"second": "신화프리텍",
+"second_ret": 1.2
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": -1.66,
+"up5": 0,
+"lead": "에스엠벡셀",
+"lead_ret": 2.93,
+"second": "스피어",
+"second_ret": 0.9
+},
+{
+"name": "드론(Drone)",
+"n": 27,
+"avg": -1.58,
+"up5": 0,
+"lead": "티쓰리",
+"lead_ret": 3.85,
+"second": "케이알엠",
+"second_ret": 3.51
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -1.56,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 1.31,
+"second": "삼양패키징",
+"second_ret": -0.07
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.52,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 0.14,
+"second": "한화갤러리아",
+"second_ret": -0.17
+}
+],
+"leaders": [
+{
+"name": "심텍",
+"code": "222800",
+"ret": 18.01,
+"value": 1504,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "좋은사람들",
+"code": "033340",
+"ret": 11.77,
+"value": 1380,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "파라다이스",
+"code": "034230",
+"ret": 11.03,
+"value": 1251,
+"theme": "카지노",
+"reason": "테마: 카지노"
+},
+{
+"name": "지에프씨생명과학",
+"code": "388610",
+"ret": 16.18,
+"value": 998,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "새빗켐",
+"code": "107600",
+"ret": 21.4,
+"value": 977,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

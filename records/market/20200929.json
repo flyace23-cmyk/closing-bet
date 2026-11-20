@@ -1,0 +1,254 @@
+{
+"date": "20200929",
+"kospi": 0.86,
+"kosdaq": 1.46,
+"adv": 1428,
+"dec": 381,
+"flat": 135,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 265901,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "스모트로닉",
+"lead_ret": 17.66,
+"second": "오리엔트정공",
+"second_ret": 10.28
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "진매트릭스",
+"lead_ret": 11.58,
+"second": "제이에스링크",
+"second_ret": 10.55
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "라닉스",
+"lead_ret": 29.89,
+"second": "유니트론텍",
+"second_ret": 11.92
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 6.81,
+"up5": 2,
+"lead": "성우전자",
+"lead_ret": 18.03,
+"second": "유비벨록스",
+"second_ret": 10.54
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": 5.15,
+"up5": 3,
+"lead": "신테카바이오",
+"lead_ret": 29.88,
+"second": "제이에스링크",
+"second_ret": 10.55
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.81,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 17.28,
+"second": "한화생명",
+"second_ret": 3.04
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": 3.81,
+"up5": 8,
+"lead": "신테카바이오",
+"lead_ret": 29.88,
+"second": "제이에스링크",
+"second_ret": 10.55
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 3.75,
+"up5": 2,
+"lead": "이스트소프트",
+"lead_ret": 7.4,
+"second": "한빛소프트",
+"second_ret": 5.26
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": 3.61,
+"up5": 3,
+"lead": "라닉스",
+"lead_ret": 29.89,
+"second": "MSDI",
+"second_ret": 10.95
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 3.58,
+"up5": 3,
+"lead": "유비벨록스",
+"lead_ret": 10.54,
+"second": "아톤",
+"second_ret": 8.41
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.49,
+"up5": 2,
+"lead": "오리엔트정공",
+"lead_ret": 10.28,
+"second": "에스엠국일",
+"second_ret": 9.19
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 3.24,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 17.28,
+"second": "세아베스틸지주",
+"second_ret": 2.41
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 3.22,
+"up5": 12,
+"lead": "라닉스",
+"lead_ret": 29.89,
+"second": "유니트론텍",
+"second_ret": 11.92
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.15,
+"up5": 3,
+"lead": "이연제약",
+"lead_ret": 18.92,
+"second": "한미사이언스",
+"second_ret": 6.71
+},
+{
+"name": "전기차",
+"n": 78,
+"avg": 2.98,
+"up5": 13,
+"lead": "엠투엔",
+"lead_ret": 29.76,
+"second": "스모트로닉",
+"second_ret": 17.66
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.22,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 4.09,
+"second": "인성정보",
+"second_ret": 2.97
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -0.3,
+"up5": 0,
+"lead": "레이",
+"lead_ret": 1.58,
+"second": "메타바이오메드",
+"second_ret": 1.42
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 22,
+"avg": -0.09,
+"up5": 0,
+"lead": "예스티",
+"lead_ret": 2.09,
+"second": "피에스케이홀딩스",
+"second_ret": 1.86
+},
+{
+"name": "SI(시스템통합)",
+"n": 29,
+"avg": -0.03,
+"up5": 0,
+"lead": "아시아나IDT",
+"lead_ret": 4.08,
+"second": "아이크래프트",
+"second_ret": 3.06
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 0.04,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 2.46,
+"second": "에코플라스틱",
+"second_ret": 2.32
+}
+],
+"leaders": [
+{
+"name": "명문제약",
+"code": "017180",
+"ret": 13.68,
+"value": 3400,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "아주IB투자",
+"code": "027360",
+"ret": 17.28,
+"value": 2731,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "라닉스",
+"code": "317120",
+"ret": 29.89,
+"value": 2127,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 10.41,
+"value": 1428,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "스모트로닉",
+"code": "066590",
+"ret": 17.66,
+"value": 1370,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

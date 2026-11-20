@@ -1,0 +1,254 @@
+{
+"date": "20250821",
+"kospi": 0.37,
+"kosdaq": -0.05,
+"adv": 1192,
+"dec": 1031,
+"flat": 153,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 145419,
+"hot": [
+{
+"name": "원자력발전",
+"n": 6,
+"lead": "보성파워텍",
+"lead_ret": 21.31,
+"second": "강원에너지",
+"second_ret": 16.68
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "씨어스",
+"lead_ret": 11.44,
+"second": "디알텍",
+"second_ret": 9.74
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "티에이치엔",
+"lead_ret": 14.0,
+"second": "에스엠국일",
+"second_ret": 12.02
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 6,
+"avg": 4.9,
+"up5": 2,
+"lead": "대한조선",
+"lead_ret": 10.79,
+"second": "한화오션",
+"second_ret": 5.89
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 4.66,
+"up5": 6,
+"lead": "한전기술",
+"lead_ret": 15.29,
+"second": "비에이치아이",
+"second_ret": 7.7
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 3.69,
+"up5": 14,
+"lead": "보성파워텍",
+"lead_ret": 21.31,
+"second": "강원에너지",
+"second_ret": 16.68
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.49,
+"up5": 1,
+"lead": "대우건설",
+"lead_ret": 13.06,
+"second": "현대건설",
+"second_ret": 3.91
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 2.73,
+"up5": 7,
+"lead": "보성파워텍",
+"lead_ret": 21.31,
+"second": "한전KPS",
+"second_ret": 7.69
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.43,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 7.7,
+"second": "두산에너빌리티",
+"second_ret": 7.14
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 2.22,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 7.7,
+"second": "한화엔진",
+"second_ret": 7.62
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 1.6,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 7.29,
+"second": "린드먼아시아",
+"second_ret": 5.74
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 1.59,
+"up5": 3,
+"lead": "한화엔진",
+"lead_ret": 7.62,
+"second": "KS인더스트리",
+"second_ret": 7.25
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.57,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 7.14,
+"second": "일진파워",
+"second_ret": 3.4
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 1.3,
+"up5": 2,
+"lead": "지투파워",
+"lead_ret": 6.55,
+"second": "피앤씨테크",
+"second_ret": 5.21
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.28,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 7.14,
+"second": "오르비텍",
+"second_ret": 5.03
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -1.94,
+"up5": 1,
+"lead": "NEW",
+"lead_ret": 9.36,
+"second": "포바이포",
+"second_ret": 2.2
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -1.67,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 2.02,
+"second": "LS ELECTRIC",
+"second_ret": 1.54
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -1.19,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 0.7,
+"second": "사조대림",
+"second_ret": -0.12
+},
+{
+"name": "마이크로바이옴",
+"n": 18,
+"avg": -1.13,
+"up5": 0,
+"lead": "쎌바이오텍",
+"lead_ret": 1.2,
+"second": "HEM파마",
+"second_ret": 0.65
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.1,
+"up5": 0,
+"lead": "국제약품",
+"lead_ret": 0.43,
+"second": "경동제약",
+"second_ret": 0.17
+}
+],
+"leaders": [
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 21.31,
+"value": 2385,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 15.29,
+"value": 2304,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "대한조선",
+"code": "439260",
+"ret": 10.79,
+"value": 2197,
+"theme": "조선",
+"reason": "테마: 조선"
+},
+{
+"name": "강원에너지",
+"code": "114190",
+"ret": 16.68,
+"value": 754,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "엔키AX",
+"code": "134580",
+"ret": 11.55,
+"value": 697,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+}
+],
+"backfilled": true
+}

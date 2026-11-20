@@ -1,0 +1,254 @@
+{
+"date": "20240712",
+"kospi": -1.19,
+"kosdaq": -0.24,
+"adv": 946,
+"dec": 1164,
+"flat": 157,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 205517,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "두산로보틱스",
+"lead_ret": 23.92,
+"second": "대동기어",
+"second_ret": 16.11
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "알체라",
+"lead_ret": 15.81,
+"second": "컴투스엔",
+"second_ret": 10.12
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "코오롱생명과학",
+"lead_ret": 22.62,
+"second": "한올바이오파마",
+"second_ret": 12.1
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.01,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 27.06,
+"second": "이루온",
+"second_ret": 0.14
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.23,
+"up5": 5,
+"lead": "큐리언트",
+"lead_ret": 19.01,
+"second": "에스티큐브",
+"second_ret": 8.5
+},
+{
+"name": "의료AI",
+"n": 23,
+"avg": 2.19,
+"up5": 3,
+"lead": "뷰노",
+"lead_ret": 12.7,
+"second": "코어라인소프트",
+"second_ret": 9.02
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.09,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 4.98,
+"second": "DL이앤씨",
+"second_ret": 3.89
+},
+{
+"name": "유전자 치료제/분석",
+"n": 34,
+"avg": 1.89,
+"up5": 3,
+"lead": "코오롱생명과학",
+"lead_ret": 22.62,
+"second": "아이엠비디엑스",
+"second_ret": 14.89
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 1.83,
+"up5": 4,
+"lead": "코오롱생명과학",
+"lead_ret": 22.62,
+"second": "코웨이",
+"second_ret": 7.44
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.81,
+"up5": 1,
+"lead": "유한양행",
+"lead_ret": 7.47,
+"second": "파미셀",
+"second_ret": 1.46
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.74,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 4.21,
+"second": "GS리테일",
+"second_ret": 2.68
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 1.65,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 3.55,
+"second": "우성머티리얼스",
+"second_ret": 2.98
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 1.59,
+"up5": 6,
+"lead": "라파스",
+"lead_ret": 25.04,
+"second": "보로노이",
+"second_ret": 12.17
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.31,
+"up5": 1,
+"lead": "코오롱",
+"lead_ret": 8.67,
+"second": "네오위즈",
+"second_ret": 3.47
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.26,
+"up5": 1,
+"lead": "레몬",
+"lead_ret": 19.97,
+"second": "톱텍",
+"second_ret": 1.85
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -3.85,
+"up5": 0,
+"lead": "대원전선",
+"lead_ret": 0.35,
+"second": "일진전기",
+"second_ret": -1.56
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.96,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 0.0,
+"second": "퀄리타스반도체",
+"second_ret": -1.35
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.85,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 0.0,
+"second": "KSS해운",
+"second_ret": -0.12
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": -2.78,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 0.93,
+"second": "SK",
+"second_ret": 0.71
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.53,
+"up5": 0,
+"lead": "아이엠티",
+"lead_ret": 3.09,
+"second": "윈팩",
+"second_ret": 1.99
+}
+],
+"leaders": [
+{
+"name": "두산로보틱스",
+"code": "454910",
+"ret": 23.92,
+"value": 16164,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "대한뉴팜",
+"code": "054670",
+"ret": 10.0,
+"value": 1466,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "중앙첨단소재",
+"code": "051980",
+"ret": 13.64,
+"value": 1462,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "코오롱티슈진",
+"code": "950160",
+"ret": 29.99,
+"value": 1177,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "한올바이오파마",
+"code": "009420",
+"ret": 12.1,
+"value": 1124,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

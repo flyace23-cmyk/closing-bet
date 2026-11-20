@@ -1,0 +1,254 @@
+{
+"date": "20250207",
+"kospi": -0.58,
+"kosdaq": 0.35,
+"adv": 798,
+"dec": 1404,
+"flat": 128,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 196963,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 9,
+"lead": "어보브반도체",
+"lead_ret": 29.95,
+"second": "에이엘티",
+"second_ret": 22.62
+},
+{
+"name": "온디바이스 AI",
+"n": 6,
+"lead": "어보브반도체",
+"lead_ret": 29.95,
+"second": "심텍",
+"second_ret": 24.01
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "피아이이",
+"lead_ret": 29.8,
+"second": "씨메스로보틱스",
+"second_ret": 27.8
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 7.21,
+"up5": 11,
+"lead": "어보브반도체",
+"lead_ret": 29.95,
+"second": "심텍",
+"second_ret": 24.01
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 6.03,
+"up5": 3,
+"lead": "네패스",
+"lead_ret": 16.91,
+"second": "네패스아크",
+"second_ret": 14.15
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 5.35,
+"up5": 7,
+"lead": "어보브반도체",
+"lead_ret": 29.95,
+"second": "에이엘티",
+"second_ret": 22.62
+},
+{
+"name": "시스템반도체",
+"n": 54,
+"avg": 5.25,
+"up5": 24,
+"lead": "어보브반도체",
+"lead_ret": 29.95,
+"second": "에이엘티",
+"second_ret": 22.62
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 4.47,
+"up5": 6,
+"lead": "피아이이",
+"lead_ret": 29.8,
+"second": "램테크놀러지",
+"second_ret": 16.05
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 4.05,
+"up5": 4,
+"lead": "전진건설로봇",
+"lead_ret": 29.85,
+"second": "현대에버다임",
+"second_ret": 11.59
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.97,
+"up5": 4,
+"lead": "심텍",
+"lead_ret": 24.01,
+"second": "심텍홀딩스",
+"second_ret": 8.72
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.43,
+"up5": 4,
+"lead": "DB하이텍",
+"lead_ret": 16.82,
+"second": "아이에이",
+"second_ret": 13.11
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.33,
+"up5": 5,
+"lead": "퀄리타스반도체",
+"lead_ret": 9.03,
+"second": "코리아써키트",
+"second_ret": 7.3
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 3.32,
+"up5": 7,
+"lead": "심텍",
+"lead_ret": 24.01,
+"second": "필옵틱스",
+"second_ret": 15.93
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 3.27,
+"up5": 6,
+"lead": "율촌화학",
+"lead_ret": 20.3,
+"second": "램테크놀러지",
+"second_ret": 16.05
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.17,
+"up5": 4,
+"lead": "심텍",
+"lead_ret": 24.01,
+"second": "펨트론",
+"second_ret": 8.5
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -6.06,
+"up5": 0,
+"lead": "케이에스피",
+"lead_ret": -1.61,
+"second": "한국선재",
+"second_ret": -2.08
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -4.85,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 0.16,
+"second": "삼현철강",
+"second_ret": -0.23
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -3.57,
+"up5": 0,
+"lead": "한국카본",
+"lead_ret": 0.0,
+"second": "E1",
+"second_ret": -0.3
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.02,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -0.3,
+"second": "GS",
+"second_ret": -0.65
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.02,
+"up5": 0,
+"lead": "E1",
+"lead_ret": -0.3,
+"second": "GS",
+"second_ret": -0.65
+}
+],
+"leaders": [
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 15.93,
+"value": 5952,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 15.97,
+"value": 5688,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 18.01,
+"value": 5400,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 11.33,
+"value": 5216,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "전진건설로봇",
+"code": "079900",
+"ret": 29.85,
+"value": 3552,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+}
+],
+"backfilled": true
+}

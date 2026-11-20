@@ -1,0 +1,254 @@
+{
+"date": "20230410",
+"kospi": 0.87,
+"kosdaq": 0.88,
+"adv": 443,
+"dec": 1628,
+"flat": 76,
+"limit_up": 5,
+"limit_down": 2,
+"value_total": 294598,
+"hot": [
+{
+"name": "2차전지",
+"n": 9,
+"lead": "애경케미칼",
+"lead_ret": 30.0,
+"second": "TCC스틸",
+"second_ret": 27.74
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "에코프로",
+"lead_ret": 24.7,
+"second": "이녹스",
+"second_ret": 11.19
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "에코프로",
+"lead_ret": 24.7,
+"second": "코스모화학",
+"second_ret": 19.04
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 9.12,
+"up5": 3,
+"lead": "애경케미칼",
+"lead_ret": 30.0,
+"second": "에코프로",
+"second_ret": 24.7
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 8.94,
+"up5": 5,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.5,
+"second": "크리스탈신소재",
+"second_ret": 25.6
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 4.7,
+"up5": 6,
+"lead": "노바텍",
+"lead_ret": 29.91,
+"second": "대원화성",
+"second_ret": 11.29
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.49,
+"up5": 4,
+"lead": "강남제비스코",
+"lead_ret": 13.14,
+"second": "노루페인트",
+"second_ret": 9.23
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.68,
+"up5": 5,
+"lead": "에코프로",
+"lead_ret": 24.7,
+"second": "코스모화학",
+"second_ret": 19.04
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.68,
+"up5": 6,
+"lead": "에코프로",
+"lead_ret": 24.7,
+"second": "코스모화학",
+"second_ret": 19.04
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 3.65,
+"up5": 5,
+"lead": "POSCO홀딩스",
+"lead_ret": 7.85,
+"second": "황금에스티",
+"second_ret": 6.98
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 65,
+"avg": 3.29,
+"up5": 18,
+"lead": "애경케미칼",
+"lead_ret": 30.0,
+"second": "TCC스틸",
+"second_ret": 27.74
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.94,
+"up5": 4,
+"lead": "애경케미칼",
+"lead_ret": 30.0,
+"second": "SK이노베이션",
+"second_ret": 7.74
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 2.82,
+"up5": 6,
+"lead": "삼아알미늄",
+"lead_ret": 12.01,
+"second": "포스코엠텍",
+"second_ret": 11.36
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.7,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 9.97,
+"second": "KG케미칼",
+"second_ret": 2.2
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.37,
+"up5": 1,
+"lead": "오스코텍",
+"lead_ret": 15.0,
+"second": "덴티움",
+"second_ret": 4.57
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 19,
+"avg": -4.24,
+"up5": 1,
+"lead": "폴라리스오피스",
+"lead_ret": 7.34,
+"second": "루닛",
+"second_ret": 3.8
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -4.23,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": 0.42,
+"second": "TS인베스트먼트",
+"second_ret": 0.06
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -3.7,
+"up5": 0,
+"lead": "바이오솔루션",
+"lead_ret": 2.26,
+"second": "풍전약품",
+"second_ret": 1.03
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -3.28,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.8,
+"second": "삼성전자",
+"second_ret": 1.08
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": -3.22,
+"up5": 1,
+"lead": "폴라리스오피스",
+"lead_ret": 7.34,
+"second": "이미지스",
+"second_ret": 2.42
+}
+],
+"leaders": [
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 13.59,
+"value": 26893,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 24.7,
+"value": 25565,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모화학",
+"code": "005420",
+"ret": 19.04,
+"value": 5884,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "DB",
+"code": "012030",
+"ret": 10.94,
+"value": 4458,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "동국산업",
+"code": "005160",
+"ret": 20.09,
+"value": 3036,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

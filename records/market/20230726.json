@@ -1,0 +1,254 @@
+{
+"date": "20230726",
+"kospi": -1.67,
+"kosdaq": -4.18,
+"adv": 107,
+"dec": 2034,
+"flat": 33,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 556070,
+"hot": [
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 5,
+"lead": "솔루스첨단소재",
+"lead_ret": 15.27,
+"second": "포스코인터내셔널",
+"second_ret": 14.38
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 27.97,
+"second": "솔루스첨단소재",
+"second_ret": 15.27
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "이미지스",
+"lead_ret": 10.62,
+"second": "나무가",
+"second_ret": 9.63
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 0.29,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 4.09,
+"second": "하나금융지주",
+"second_ret": 2.2
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -0.88,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 14.38,
+"second": "현대코퍼레이션",
+"second_ret": 3.04
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -1.27,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 20.39,
+"second": "심텍",
+"second_ret": 0.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.39,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.29,
+"second": "SK하이닉스",
+"second_ret": -0.35
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.4,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 14.38,
+"second": "SK가스",
+"second_ret": 2.57
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.44,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 5.95,
+"second": "대한해운",
+"second_ret": -2.12
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.53,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.29,
+"second": "SK하이닉스",
+"second_ret": -0.35
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -1.53,
+"up5": 1,
+"lead": "신일전자",
+"lead_ret": 5.77,
+"second": "파세코",
+"second_ret": 0.18
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.63,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 14.38,
+"second": "현대코퍼레이션",
+"second_ret": 3.04
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.72,
+"up5": 1,
+"lead": "블루산업개발",
+"lead_ret": 10.96,
+"second": "삼보판지",
+"second_ret": 0.78
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.91,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.73,
+"second": "HD한국조선해양",
+"second_ret": -1.02
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -1.92,
+"up5": 0,
+"lead": "코리아에셋투자증권",
+"lead_ret": 0.0,
+"second": "신영증권",
+"second_ret": -0.36
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -9.27,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": -5.76,
+"second": "LS",
+"second_ret": -5.91
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -9.15,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -1.58,
+"second": "차바이오텍",
+"second_ret": -3.49
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": -7.27,
+"up5": 0,
+"lead": "선도전기",
+"lead_ret": 0.0,
+"second": "비츠로시스",
+"second_ret": -0.18
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -7.23,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -1.58,
+"second": "풍전약품",
+"second_ret": -3.24
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": -6.84,
+"up5": 0,
+"lead": "인바디",
+"lead_ret": -1.11,
+"second": "뷰웍스",
+"second_ret": -1.88
+}
+],
+"leaders": [
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 14.38,
+"value": 20951,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "SK아이이테크놀로지",
+"code": "361610",
+"ret": 13.24,
+"value": 8095,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "대봉엘에스",
+"code": "078140",
+"ret": 29.95,
+"value": 1251,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "블루산업개발",
+"code": "006740",
+"ret": 10.96,
+"value": 1177,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 21.28,
+"value": 1177,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

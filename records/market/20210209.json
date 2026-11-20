@@ -1,0 +1,254 @@
+{
+"date": "20210209",
+"kospi": -0.21,
+"kosdaq": -0.3,
+"adv": 738,
+"dec": 1064,
+"flat": 180,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 279038,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "상신브레이크",
+"lead_ret": 13.12,
+"second": "엠에스오토텍",
+"second_ret": 12.62
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "위지트",
+"lead_ret": 29.9,
+"second": "디엔에프",
+"second_ret": 18.82
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "하이비젼시스템",
+"lead_ret": 10.6,
+"second": "노바텍",
+"second_ret": 9.72
+}
+],
+"themes": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 2.82,
+"up5": 3,
+"lead": "위지트",
+"lead_ret": 29.9,
+"second": "우리기술투자",
+"second_ret": 14.63
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.38,
+"up5": 3,
+"lead": "대덕전자",
+"lead_ret": 9.33,
+"second": "인텍플러스",
+"second_ret": 8.85
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.35,
+"up5": 2,
+"lead": "현대바이오랜드",
+"lead_ret": 15.88,
+"second": "나이벡",
+"second_ret": 6.31
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.3,
+"up5": 1,
+"lead": "대덕전자",
+"lead_ret": 9.33,
+"second": "엠케이전자",
+"second_ret": 2.84
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 2.23,
+"up5": 3,
+"lead": "아티스트컴퍼니",
+"lead_ret": 29.88,
+"second": "동방",
+"second_ret": 10.08
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.14,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 14.63,
+"second": "대성창투",
+"second_ret": 5.66
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.03,
+"up5": 2,
+"lead": "SOOP",
+"lead_ret": 14.29,
+"second": "갤럭시아머니트리",
+"second_ret": 6.17
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 1.96,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 6.8,
+"second": "리튬포어스",
+"second_ret": 4.56
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.89,
+"up5": 2,
+"lead": "동양에스텍",
+"lead_ret": 29.94,
+"second": "하이스틸",
+"second_ret": 5.94
+},
+{
+"name": "광고",
+"n": 19,
+"avg": 1.89,
+"up5": 1,
+"lead": "아티스트컴퍼니",
+"lead_ret": 29.88,
+"second": "지어소프트",
+"second_ret": 4.92
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 1.78,
+"up5": 2,
+"lead": "유비벨록스",
+"lead_ret": 8.26,
+"second": "아이에이",
+"second_ret": 5.61
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 1.61,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 5.66,
+"second": "DSC인베스트먼트",
+"second_ret": 3.08
+}
+],
+"themes_worst": [
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 17,
+"avg": -2.96,
+"up5": 0,
+"lead": "동양파일",
+"lead_ret": 3.53,
+"second": "대창스틸",
+"second_ret": 1.0
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.71,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 1.9,
+"second": "태광산업",
+"second_ret": 0.5
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -2.08,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": -0.21,
+"second": "LX인터내셔널",
+"second_ret": -0.37
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.81,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": -0.22,
+"second": "유니온",
+"second_ret": -1.31
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -1.77,
+"up5": 0,
+"lead": "성광벤드",
+"lead_ret": -0.26,
+"second": "하이록코리아",
+"second_ret": -0.33
+}
+],
+"leaders": [
+{
+"name": "프레스티지바이오파마",
+"code": "950210",
+"ret": 17.37,
+"value": 13520,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "현대바이오랜드",
+"code": "052260",
+"ret": 15.88,
+"value": 3740,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 14.63,
+"value": 2824,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "아티스트컴퍼니",
+"code": "321820",
+"ret": 29.88,
+"value": 2750,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "동방",
+"code": "004140",
+"ret": 10.08,
+"value": 2401,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241119",
+"kospi": 0.12,
+"kosdaq": -0.5,
+"adv": 1152,
+"dec": 994,
+"flat": 160,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 154855,
+"hot": [
+{
+"name": "자율주행차",
+"n": 4,
+"lead": "인포뱅크",
+"lead_ret": 14.88,
+"second": "포니링크",
+"second_ret": 14.12
+},
+{
+"name": "의료AI",
+"n": 4,
+"lead": "신테카바이오",
+"lead_ret": 22.31,
+"second": "딥노이드",
+"second_ret": 18.65
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 3,
+"lead": "비에이치아이",
+"lead_ret": 11.1,
+"second": "SNT에너지",
+"second_ret": 10.06
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.59,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 29.88,
+"second": "LS에코에너지",
+"second_ret": 5.08
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 4.23,
+"up5": 2,
+"lead": "아톤",
+"lead_ret": 29.85,
+"second": "유비벨록스",
+"second_ret": 5.07
+},
+{
+"name": "의료AI",
+"n": 24,
+"avg": 3.9,
+"up5": 7,
+"lead": "신테카바이오",
+"lead_ret": 22.31,
+"second": "딥노이드",
+"second_ret": 18.65
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.7,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 11.1,
+"second": "SNT에너지",
+"second_ret": 10.06
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.6,
+"up5": 2,
+"lead": "인포뱅크",
+"lead_ret": 14.88,
+"second": "포니링크",
+"second_ret": 14.12
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 3.46,
+"up5": 3,
+"lead": "인포뱅크",
+"lead_ret": 14.88,
+"second": "이니텍",
+"second_ret": 14.55
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 3.12,
+"up5": 4,
+"lead": "인포뱅크",
+"lead_ret": 14.88,
+"second": "엠씨넥스",
+"second_ret": 9.2
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.79,
+"up5": 2,
+"lead": "성광벤드",
+"lead_ret": 6.96,
+"second": "화성밸브",
+"second_ret": 6.18
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.69,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 7.51,
+"second": "로보스타",
+"second_ret": 7.02
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.65,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 10.3,
+"second": "S-Oil",
+"second_ret": 5.84
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.51,
+"up5": 3,
+"lead": "YG PLUS",
+"lead_ret": 7.81,
+"second": "JYP Ent.",
+"second_ret": 7.74
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.45,
+"up5": 3,
+"lead": "아톤",
+"lead_ret": 29.85,
+"second": "인포뱅크",
+"second_ret": 14.88
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 16,
+"avg": -2.22,
+"up5": 0,
+"lead": "대동금속",
+"lead_ret": 1.0,
+"second": "흥국",
+"second_ret": 0.43
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.73,
+"up5": 0,
+"lead": "GS건설",
+"lead_ret": 0.61,
+"second": "POSCO홀딩스",
+"second_ret": 0.34
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": -1.67,
+"up5": 0,
+"lead": "에스와이스틸텍",
+"lead_ret": 4.96,
+"second": "포스코인터내셔널",
+"second_ret": 2.4
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": -1.64,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 1.48,
+"second": "스페코",
+"second_ret": 1.13
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.54,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.64,
+"second": "삼성전자",
+"second_ret": -0.71
+}
+],
+"leaders": [
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 11.1,
+"value": 2588,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "하이젠알앤엠",
+"code": "160190",
+"ret": 26.74,
+"value": 1689,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "우리바이오",
+"code": "082850",
+"ret": 16.97,
+"value": 1533,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "아톤",
+"code": "158430",
+"ret": 29.85,
+"value": 1227,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 10.3,
+"value": 811,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+}
+],
+"backfilled": true
+}

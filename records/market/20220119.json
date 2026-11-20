@@ -1,0 +1,254 @@
+{
+"date": "20220119",
+"kospi": -0.77,
+"kosdaq": -1.06,
+"adv": 479,
+"dec": 1432,
+"flat": 147,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 168814,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "트윔",
+"lead_ret": 7.0,
+"second": "이노뎁",
+"second_ret": 6.41
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "링크드",
+"lead_ret": 15.58,
+"second": "SKAI",
+"second_ret": 7.25
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "이스트소프트",
+"lead_ret": 9.09,
+"second": "SKAI",
+"second_ret": 7.25
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.03,
+"up5": 2,
+"lead": "손오공",
+"lead_ret": 29.94,
+"second": "에피소드컴퍼니",
+"second_ret": 5.52
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.98,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 16.12,
+"second": "S-Oil",
+"second_ret": 3.82
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.98,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 16.12,
+"second": "S-Oil",
+"second_ret": 3.82
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 1.84,
+"up5": 2,
+"lead": "메타바이오메드",
+"lead_ret": 10.69,
+"second": "덴티스",
+"second_ret": 8.65
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 1.5,
+"up5": 1,
+"lead": "이스트소프트",
+"lead_ret": 9.09,
+"second": "한빛소프트",
+"second_ret": 2.71
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.38,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 3.22,
+"second": "코리안리",
+"second_ret": 3.0
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.23,
+"up5": 1,
+"lead": "BGF리테일",
+"lead_ret": 7.05,
+"second": "GS리테일",
+"second_ret": 0.7
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 1.14,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 11.67,
+"second": "하나금융지주",
+"second_ret": 3.3
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 0.92,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 10.62,
+"second": "케이씨피드",
+"second_ret": 3.27
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 0.86,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": 3.14,
+"second": "DL이앤씨",
+"second_ret": 1.63
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 0.69,
+"up5": 1,
+"lead": "조광페인트",
+"lead_ret": 10.22,
+"second": "KCC",
+"second_ret": 2.09
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 0.65,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 11.67,
+"second": "아시아경제",
+"second_ret": 4.1
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.89,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": 0.0,
+"second": "하이비젼시스템",
+"second_ret": -0.93
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -2.53,
+"up5": 0,
+"lead": "동아제약",
+"lead_ret": 0.0,
+"second": "대창솔루션",
+"second_ret": -0.43
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -2.43,
+"up5": 0,
+"lead": "휴메딕스",
+"lead_ret": 0.48,
+"second": "원텍",
+"second_ret": 0.0
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.4,
+"up5": 0,
+"lead": "LS",
+"lead_ret": -0.19,
+"second": "한국선재",
+"second_ret": -1.26
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.33,
+"up5": 0,
+"lead": "SUN&L",
+"lead_ret": -0.4,
+"second": "효성오앤비",
+"second_ret": -1.01
+}
+],
+"leaders": [
+{
+"name": "중앙에너비스",
+"code": "000440",
+"ret": 16.12,
+"value": 2546,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+},
+{
+"name": "링크드",
+"code": "193250",
+"ret": 15.58,
+"value": 1691,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "앱코",
+"code": "129890",
+"ret": 20.99,
+"value": 791,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "로스웰",
+"code": "900260",
+"ret": 11.58,
+"value": 778,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "솔디펜스",
+"code": "215090",
+"ret": 21.04,
+"value": 718,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

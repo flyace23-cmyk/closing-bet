@@ -1,0 +1,254 @@
+{
+"date": "20251107",
+"kospi": -1.81,
+"kosdaq": -2.38,
+"adv": 425,
+"dec": 1862,
+"flat": 96,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 268865,
+"hot": [
+{
+"name": "화장품",
+"n": 4,
+"lead": "잉글우드랩",
+"lead_ret": 19.89,
+"second": "코스메카코리아",
+"second_ret": 13.42
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "지역난방공사",
+"lead_ret": 10.48,
+"second": "아모레퍼시픽",
+"second_ret": 6.66
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "젬백스",
+"lead_ret": 16.2,
+"second": "펩트론",
+"second_ret": 13.49
+}
+],
+"themes": [
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.19,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 4.17,
+"second": "현대백화점",
+"second_ret": 3.51
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.06,
+"up5": 1,
+"lead": "GS리테일",
+"lead_ret": 8.98,
+"second": "BGF리테일",
+"second_ret": 1.23
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.04,
+"up5": 0,
+"lead": "HDC",
+"lead_ret": 3.88,
+"second": "현대백화점",
+"second_ret": 3.51
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 0.99,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 9.31,
+"second": "사조대림",
+"second_ret": 0.14
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 0.53,
+"up5": 1,
+"lead": "YTN",
+"lead_ret": 5.73,
+"second": "KNN",
+"second_ret": 3.34
+},
+{
+"name": "소매유통",
+"n": 19,
+"avg": 0.48,
+"up5": 2,
+"lead": "GS리테일",
+"lead_ret": 8.98,
+"second": "엑시온그룹",
+"second_ret": 5.65
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 0.25,
+"up5": 1,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 5.0,
+"second": "넥센타이어",
+"second_ret": 3.85
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 0.1,
+"up5": 1,
+"lead": "코아스",
+"lead_ret": 15.66,
+"second": "웰크론",
+"second_ret": 2.83
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.07,
+"up5": 0,
+"lead": "오가닉티코스메틱",
+"lead_ret": 4.52,
+"second": "로스웰",
+"second_ret": 3.53
+},
+{
+"name": "화장품",
+"n": 93,
+"avg": -0.13,
+"up5": 5,
+"lead": "잉글우드랩",
+"lead_ret": 19.89,
+"second": "코스메카코리아",
+"second_ret": 13.42
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -0.19,
+"up5": 1,
+"lead": "이지홀딩스",
+"lead_ret": 7.36,
+"second": "교촌에프앤비",
+"second_ret": 0.0
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -0.26,
+"up5": 1,
+"lead": "이지홀딩스",
+"lead_ret": 7.36,
+"second": "하림",
+"second_ret": 0.0
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -4.65,
+"up5": 0,
+"lead": "RFHIC",
+"lead_ret": 2.26,
+"second": "성호전자",
+"second_ret": 0.24
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.16,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.31,
+"second": "오픈엣지테크놀로지",
+"second_ret": -3.38
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -4.05,
+"up5": 0,
+"lead": "야스",
+"lead_ret": -1.69,
+"second": "석경에이티",
+"second_ret": -3.25
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": -4.0,
+"up5": 0,
+"lead": "후성",
+"lead_ret": 2.38,
+"second": "KPX케미칼",
+"second_ret": 1.56
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.95,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": -2.26,
+"second": "한켐",
+"second_ret": -2.69
+}
+],
+"leaders": [
+{
+"name": "노타",
+"code": "486990",
+"ret": 11.36,
+"value": 12477,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "싸이닉솔루션",
+"code": "234030",
+"ret": 29.94,
+"value": 2350,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 13.49,
+"value": 1486,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "케이쓰리아이",
+"code": "431190",
+"ret": 11.8,
+"value": 1260,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "잉글우드랩",
+"code": "950140",
+"ret": 19.89,
+"value": 927,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

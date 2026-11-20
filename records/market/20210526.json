@@ -1,0 +1,254 @@
+{
+"date": "20210526",
+"kospi": -0.09,
+"kosdaq": 0.41,
+"adv": 1143,
+"dec": 668,
+"flat": 195,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 227407,
+"hot": [
+{
+"name": "원자력발전",
+"n": 6,
+"lead": "한전기술",
+"lead_ret": 16.22,
+"second": "우진",
+"second_ret": 12.38
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "더라미",
+"lead_ret": 29.96,
+"second": "잉글우드랩",
+"second_ret": 13.67
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "옵티시스",
+"lead_ret": 29.95,
+"second": "씨이랩",
+"second_ret": 8.76
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.34,
+"up5": 4,
+"lead": "한전기술",
+"lead_ret": 16.22,
+"second": "우진",
+"second_ret": 12.38
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 3.7,
+"up5": 2,
+"lead": "아난티",
+"lead_ret": 14.5,
+"second": "소노스퀘어",
+"second_ret": 9.16
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 3.29,
+"up5": 7,
+"lead": "아난티",
+"lead_ret": 14.5,
+"second": "제이에스티나",
+"second_ret": 10.54
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.99,
+"up5": 1,
+"lead": "샘표식품",
+"lead_ret": 10.65,
+"second": "샘표",
+"second_ret": 4.12
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.93,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 8.03,
+"second": "리튬포어스",
+"second_ret": 4.32
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.82,
+"up5": 1,
+"lead": "광주신세계",
+"lead_ret": 5.28,
+"second": "대구백화점",
+"second_ret": 4.17
+},
+{
+"name": "화장품",
+"n": 76,
+"avg": 2.71,
+"up5": 15,
+"lead": "더라미",
+"lead_ret": 29.96,
+"second": "잉글우드랩",
+"second_ret": 13.67
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 2.58,
+"up5": 8,
+"lead": "한전기술",
+"lead_ret": 16.22,
+"second": "우진",
+"second_ret": 12.38
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.57,
+"up5": 1,
+"lead": "대한전선",
+"lead_ret": 9.0,
+"second": "LS마린솔루션",
+"second_ret": 2.36
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 2.5,
+"up5": 2,
+"lead": "이스트소프트",
+"lead_ret": 6.85,
+"second": "라온시큐어",
+"second_ret": 5.12
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 39,
+"avg": 2.49,
+"up5": 5,
+"lead": "옵티시스",
+"lead_ret": 29.95,
+"second": "씨이랩",
+"second_ret": 8.76
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.36,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 10.5,
+"second": "차바이오텍",
+"second_ret": 0.8
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -3.4,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": 0.8,
+"second": "세아제강",
+"second_ret": -2.25
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -2.97,
+"up5": 0,
+"lead": "선진",
+"lead_ret": 2.6,
+"second": "팜스코",
+"second_ret": 2.59
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.03,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 4.83,
+"second": "푸른로보틱스",
+"second_ret": 4.14
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.61,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": 1.3,
+"second": "한미약품",
+"second_ret": 0.75
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.16,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.72,
+"second": "에스티팜",
+"second_ret": -0.62
+}
+],
+"leaders": [
+{
+"name": "아난티",
+"code": "025980",
+"ret": 14.5,
+"value": 3018,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 16.22,
+"value": 1910,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "현우산업",
+"code": "092300",
+"ret": 11.41,
+"value": 1331,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "더라미",
+"code": "032860",
+"ret": 29.96,
+"value": 375,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "클리오",
+"code": "237880",
+"ret": 11.88,
+"value": 358,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

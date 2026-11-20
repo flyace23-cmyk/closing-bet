@@ -1,0 +1,254 @@
+{
+"date": "20201111",
+"kospi": 1.35,
+"kosdaq": -0.11,
+"adv": 972,
+"dec": 827,
+"flat": 152,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 300456,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "그린생명과학",
+"lead_ret": 29.79,
+"second": "신신제약",
+"second_ret": 29.63
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 4,
+"lead": "트리니티항공",
+"lead_ret": 29.92,
+"second": "티웨이홀딩스",
+"second_ret": 22.85
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 3,
+"lead": "대한과학",
+"lead_ret": 21.78,
+"second": "한익스프레스",
+"second_ret": 11.26
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 11.33,
+"up5": 8,
+"lead": "트리니티항공",
+"lead_ret": 29.92,
+"second": "티웨이홀딩스",
+"second_ret": 22.85
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 5.52,
+"up5": 3,
+"lead": "이마트",
+"lead_ret": 7.64,
+"second": "롯데지주",
+"second_ret": 7.32
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 5.43,
+"up5": 5,
+"lead": "노랑풍선",
+"lead_ret": 13.67,
+"second": "모두투어",
+"second_ret": 9.35
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.67,
+"up5": 3,
+"lead": "GKL",
+"lead_ret": 7.46,
+"second": "코텍",
+"second_ret": 7.11
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.67,
+"up5": 3,
+"lead": "GKL",
+"lead_ret": 7.46,
+"second": "코텍",
+"second_ret": 7.11
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.59,
+"up5": 3,
+"lead": "아주IB투자",
+"lead_ret": 9.26,
+"second": "한화투자증권",
+"second_ret": 6.23
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.12,
+"up5": 10,
+"lead": "다올투자증권",
+"lead_ret": 8.35,
+"second": "유진투자증권",
+"second_ret": 7.12
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 3.69,
+"up5": 2,
+"lead": "KB금융",
+"lead_ret": 5.7,
+"second": "JB금융지주",
+"second_ret": 5.38
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.64,
+"up5": 6,
+"lead": "대한과학",
+"lead_ret": 21.78,
+"second": "한익스프레스",
+"second_ret": 11.26
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 3.54,
+"up5": 1,
+"lead": "삼성물산",
+"lead_ret": 5.58,
+"second": "대우건설",
+"second_ret": 4.03
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.53,
+"up5": 3,
+"lead": "이지바이오",
+"lead_ret": 29.87,
+"second": "대주산업",
+"second_ret": 16.56
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.19,
+"up5": 4,
+"lead": "오르비텍",
+"lead_ret": 6.75,
+"second": "한국항공우주",
+"second_ret": 6.47
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 11,
+"avg": -5.37,
+"up5": 0,
+"lead": "이지케어텍",
+"lead_ret": -0.27,
+"second": "폴라리스오피스",
+"second_ret": -1.7
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": -4.76,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 3.11,
+"second": "지놈앤컴퍼니",
+"second_ret": 2.41
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -4.53,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 1.81,
+"second": "유한양행",
+"second_ret": -0.16
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": -4.33,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 3.11,
+"second": "씨티씨바이오",
+"second_ret": 2.7
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -4.16,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "경동제약",
+"second_ret": -0.49
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 15.15,
+"value": 5185,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 18.8,
+"value": 4347,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "대한과학",
+"code": "131220",
+"ret": 21.78,
+"value": 3553,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 30.0,
+"value": 3108,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 29.79,
+"value": 2753,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

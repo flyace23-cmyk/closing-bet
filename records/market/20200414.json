@@ -1,0 +1,254 @@
+{
+"date": "20200414",
+"kospi": 1.72,
+"kosdaq": 2.28,
+"adv": 1560,
+"dec": 224,
+"flat": 126,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 333699,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 5,
+"lead": "아이크래프트",
+"lead_ret": 29.93,
+"second": "한울소재과학",
+"second_ret": 17.74
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "코오롱",
+"lead_ret": 29.83,
+"second": "제일파마홀딩스",
+"second_ret": 29.71
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "코오롱생명과학",
+"lead_ret": 29.93,
+"second": "부광약품",
+"second_ret": 24.49
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 7.13,
+"up5": 6,
+"lead": "우원개발",
+"lead_ret": 14.97,
+"second": "특수건설",
+"second_ret": 8.36
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.94,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 8.26,
+"second": "KG케미칼",
+"second_ret": 6.03
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 4.92,
+"up5": 9,
+"lead": "아난티",
+"lead_ret": 16.76,
+"second": "남화토건",
+"second_ret": 13.93
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 4.48,
+"up5": 12,
+"lead": "아이크래프트",
+"lead_ret": 29.93,
+"second": "한울소재과학",
+"second_ret": 17.74
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 4.46,
+"up5": 10,
+"lead": "우원개발",
+"lead_ret": 14.97,
+"second": "특수건설",
+"second_ret": 8.36
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 4.43,
+"up5": 2,
+"lead": "IPARK현대산업개발",
+"lead_ret": 6.52,
+"second": "대우건설",
+"second_ret": 5.07
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 4.36,
+"up5": 6,
+"lead": "이수화학",
+"lead_ret": 29.93,
+"second": "대한유화",
+"second_ret": 14.8
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 4.19,
+"up5": 3,
+"lead": "화성밸브",
+"lead_ret": 8.4,
+"second": "한국선재",
+"second_ret": 6.13
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 3.94,
+"up5": 2,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 8.28,
+"second": "아주IB투자",
+"second_ret": 5.6
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.88,
+"up5": 4,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 8.28,
+"second": "솔디펜스",
+"second_ret": 8.06
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 3.87,
+"up5": 3,
+"lead": "아난티",
+"lead_ret": 16.76,
+"second": "IPARK현대산업개발",
+"second_ret": 6.52
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.81,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 7.49,
+"second": "에코프로",
+"second_ret": 4.77
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -2.46,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.56,
+"second": "엔투텍",
+"second_ret": 0.0
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.24,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": 4.3,
+"second": "옴니시스템",
+"second_ret": 3.45
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.47,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 3.69,
+"second": "강스템바이오텍",
+"second_ret": 3.27
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -0.71,
+"up5": 0,
+"lead": "이연제약",
+"lead_ret": 3.33,
+"second": "올릭스",
+"second_ret": 2.22
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.44,
+"up5": 0,
+"lead": "참좋은여행",
+"lead_ret": 4.35,
+"second": "레드캡투어",
+"second_ret": 1.24
+}
+],
+"leaders": [
+{
+"name": "판타지오",
+"code": "032800",
+"ret": 29.92,
+"value": 26592,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "부광약품",
+"code": "003000",
+"ret": 24.49,
+"value": 11055,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "아난티",
+"code": "025980",
+"ret": 16.76,
+"value": 5841,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 17.83,
+"value": 2023,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "솔루스첨단소재",
+"code": "336370",
+"ret": 13.65,
+"value": 1666,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

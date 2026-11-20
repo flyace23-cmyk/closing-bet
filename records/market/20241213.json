@@ -1,0 +1,254 @@
+{
+"date": "20241213",
+"kospi": 0.5,
+"kosdaq": 1.52,
+"adv": 1688,
+"dec": 497,
+"flat": 126,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 146856,
+"hot": [
+{
+"name": "남북경협",
+"n": 4,
+"lead": "일신석재",
+"lead_ret": 30.0,
+"second": "인디에프",
+"second_ret": 25.9
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "링크드",
+"lead_ret": 29.87,
+"second": "카카오게임즈",
+"second_ret": 18.28
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "비보존 제약",
+"lead_ret": 30.01,
+"second": "코오롱생명과학",
+"second_ret": 22.55
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 6.29,
+"up5": 2,
+"lead": "메디포스트",
+"lead_ret": 19.56,
+"second": "차바이오텍",
+"second_ret": 5.46
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 5.97,
+"up5": 3,
+"lead": "코나아이",
+"lead_ret": 12.25,
+"second": "웹케시",
+"second_ret": 9.58
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 5.44,
+"up5": 10,
+"lead": "일신석재",
+"lead_ret": 30.0,
+"second": "인디에프",
+"second_ret": 25.9
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 5.16,
+"up5": 5,
+"lead": "코아스템켐온",
+"lead_ret": 19.77,
+"second": "메디포스트",
+"second_ret": 19.56
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.78,
+"up5": 2,
+"lead": "부산산업",
+"lead_ret": 15.03,
+"second": "우원개발",
+"second_ret": 8.25
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 4.67,
+"up5": 3,
+"lead": "CJ씨푸드",
+"lead_ret": 8.45,
+"second": "한울앤제주",
+"second_ret": 5.77
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 4.08,
+"up5": 4,
+"lead": "넥써쓰",
+"lead_ret": 29.77,
+"second": "뱅크웨어글로벌",
+"second_ret": 15.29
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.07,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 16.4,
+"second": "에이직랜드",
+"second_ret": 8.06
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 4.01,
+"up5": 8,
+"lead": "링크드",
+"lead_ret": 29.87,
+"second": "넥써쓰",
+"second_ret": 29.77
+},
+{
+"name": "가상현실(VR)",
+"n": 24,
+"avg": 3.88,
+"up5": 4,
+"lead": "링크드",
+"lead_ret": 29.87,
+"second": "토탈소프트",
+"second_ret": 9.64
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 3.87,
+"up5": 2,
+"lead": "대성창투",
+"lead_ret": 16.54,
+"second": "오픈놀",
+"second_ret": 7.12
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.84,
+"up5": 5,
+"lead": "CJ ENM",
+"lead_ret": 7.68,
+"second": "드림어스컴퍼니",
+"second_ret": 7.61
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.24,
+"up5": 0,
+"lead": "세방전지",
+"lead_ret": 3.31,
+"second": "후성",
+"second_ret": 1.37
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -0.7,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 2.84,
+"second": "한국카본",
+"second_ret": 2.03
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -0.43,
+"up5": 0,
+"lead": "삼화콘덴서",
+"lead_ret": 1.68,
+"second": "비츠로테크",
+"second_ret": 0.6
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -0.33,
+"up5": 1,
+"lead": "아톤",
+"lead_ret": 10.72,
+"second": "아이티센피엔에스",
+"second_ret": 4.7
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -0.29,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 2.38,
+"second": "엘컴텍",
+"second_ret": 1.05
+}
+],
+"leaders": [
+{
+"name": "오리엔트정공",
+"code": "065500",
+"ret": 23.16,
+"value": 1964,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "아톤",
+"code": "158430",
+"ret": 10.72,
+"value": 1741,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 18.28,
+"value": 1716,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 30.0,
+"value": 1465,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 10.4,
+"value": 1216,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20250220",
+"kospi": -0.65,
+"kosdaq": -1.28,
+"adv": 903,
+"dec": 1297,
+"flat": 134,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 232545,
+"hot": [
+{
+"name": "엔터테인먼트",
+"n": 11,
+"lead": "아이오케이이엔엠",
+"lead_ret": 29.95,
+"second": "판타지오",
+"second_ret": 29.93
+},
+{
+"name": "영상콘텐츠",
+"n": 9,
+"lead": "에이스토리",
+"lead_ret": 30.0,
+"second": "스튜디오미르",
+"second_ret": 29.84
+},
+{
+"name": "음원/음반",
+"n": 5,
+"lead": "판타지오",
+"lead_ret": 29.93,
+"second": "YG PLUS",
+"second_ret": 29.86
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 9.05,
+"up5": 7,
+"lead": "판타지오",
+"lead_ret": 29.93,
+"second": "YG PLUS",
+"second_ret": 29.86
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 8.6,
+"up5": 13,
+"lead": "아이오케이이엔엠",
+"lead_ret": 29.95,
+"second": "판타지오",
+"second_ret": 29.93
+},
+{
+"name": "영상콘텐츠",
+"n": 28,
+"avg": 7.97,
+"up5": 12,
+"lead": "에이스토리",
+"lead_ret": 30.0,
+"second": "스튜디오미르",
+"second_ret": 29.84
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 5.37,
+"up5": 4,
+"lead": "콘텐트리중앙",
+"lead_ret": 24.72,
+"second": "NEW",
+"second_ret": 16.11
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 5.03,
+"up5": 5,
+"lead": "와이랩",
+"lead_ret": 24.86,
+"second": "핑거스토리",
+"second_ret": 9.66
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.95,
+"up5": 2,
+"lead": "KSS해운",
+"lead_ret": 6.38,
+"second": "STX그린로지스",
+"second_ret": 5.72
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.91,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 16.85,
+"second": "신세계",
+"second_ret": 5.01
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.3,
+"up5": 2,
+"lead": "SM C&C",
+"lead_ret": 11.36,
+"second": "참좋은여행",
+"second_ret": 6.56
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.58,
+"up5": 1,
+"lead": "비엘팜텍",
+"lead_ret": 29.82,
+"second": "한국가스공사",
+"second_ret": 1.73
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 2.49,
+"up5": 2,
+"lead": "SAMG엔터",
+"lead_ret": 7.89,
+"second": "데브시스터즈",
+"second_ret": 5.69
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.23,
+"up5": 1,
+"lead": "에이스토리",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 4.88
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.21,
+"up5": 2,
+"lead": "콘텐트리중앙",
+"lead_ret": 24.72,
+"second": "CJ ENM",
+"second_ret": 7.83
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 5,
+"avg": -9.22,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": -6.78,
+"second": "삼성중공업",
+"second_ret": -7.74
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -5.89,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 3.03,
+"second": "삼성전기",
+"second_ret": -0.55
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -4.47,
+"up5": 1,
+"lead": "에이텀",
+"lead_ret": 11.58,
+"second": "KS인더스트리",
+"second_ret": 0.93
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.03,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.51,
+"second": "에이직랜드",
+"second_ret": -2.74
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -3.69,
+"up5": 0,
+"lead": "비엠티",
+"lead_ret": 0.0,
+"second": "한국선재",
+"second_ret": -0.79
+}
+],
+"leaders": [
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 29.86,
+"value": 2090,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "동화기업",
+"code": "025900",
+"ret": 21.63,
+"value": 1724,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "와이지엔터테인먼트",
+"code": "122870",
+"ret": 13.16,
+"value": 1634,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 13.29,
+"value": 1538,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "스튜디오드래곤",
+"code": "253450",
+"ret": 18.32,
+"value": 1233,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220906",
+"kospi": 0.26,
+"kosdaq": 1.04,
+"adv": 1460,
+"dec": 466,
+"flat": 172,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 100689,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 5,
+"lead": "뉴프렉스",
+"lead_ret": 22.46,
+"second": "선익시스템",
+"second_ret": 16.4
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "코리아에프티",
+"lead_ret": 29.89,
+"second": "삼기",
+"second_ret": 25.39
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "성일하이텍",
+"lead_ret": 14.83,
+"second": "에코앤드림",
+"second_ret": 12.59
+}
+],
+"themes": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 5.31,
+"up5": 4,
+"lead": "선익시스템",
+"lead_ret": 16.4,
+"second": "석경에이티",
+"second_ret": 13.33
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 4.68,
+"up5": 4,
+"lead": "화성밸브",
+"lead_ret": 10.44,
+"second": "성광벤드",
+"second_ret": 6.71
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.03,
+"up5": 4,
+"lead": "스퀘어텍",
+"lead_ret": 29.47,
+"second": "미래나노텍",
+"second_ret": 8.87
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.03,
+"up5": 4,
+"lead": "스퀘어텍",
+"lead_ret": 29.47,
+"second": "미래나노텍",
+"second_ret": 8.87
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.99,
+"up5": 4,
+"lead": "넥센타이어",
+"lead_ret": 7.51,
+"second": "금호타이어",
+"second_ret": 6.68
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 3.88,
+"up5": 2,
+"lead": "TS인베스트먼트",
+"lead_ret": 15.91,
+"second": "포바이포",
+"second_ret": 8.67
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.67,
+"up5": 3,
+"lead": "TS인베스트먼트",
+"lead_ret": 15.91,
+"second": "신성이엔지",
+"second_ret": 6.94
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.47,
+"up5": 3,
+"lead": "화성밸브",
+"lead_ret": 10.44,
+"second": "하이스틸",
+"second_ret": 7.44
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.27,
+"up5": 1,
+"lead": "하나투어",
+"lead_ret": 7.18,
+"second": "그래디언트",
+"second_ret": 4.31
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 3.26,
+"up5": 1,
+"lead": "나노씨엠에스",
+"lead_ret": 29.83,
+"second": "파워넷",
+"second_ret": 4.32
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.99,
+"up5": 1,
+"lead": "노루홀딩스",
+"lead_ret": 13.38,
+"second": "조광페인트",
+"second_ret": 3.11
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 43,
+"avg": 2.98,
+"up5": 8,
+"lead": "뉴프렉스",
+"lead_ret": 22.46,
+"second": "선익시스템",
+"second_ret": 16.4
+}
+],
+"themes_worst": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -3.37,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 2.37,
+"second": "대동",
+"second_ret": 2.16
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.94,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 2.93,
+"second": "세명전기",
+"second_ret": 1.53
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": -1.19,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 2.07,
+"second": "IPARK현대산업개발",
+"second_ret": 1.65
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.11,
+"up5": 0,
+"lead": "웰크론한텍",
+"lead_ret": 4.41,
+"second": "코오롱글로벌",
+"second_ret": 3.84
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.99,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": 0.42,
+"second": "풀무원",
+"second_ret": 0.39
+}
+],
+"leaders": [
+{
+"name": "성일하이텍",
+"code": "365340",
+"ret": 14.83,
+"value": 2871,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "화성밸브",
+"code": "039610",
+"ret": 10.44,
+"value": 1431,
+"theme": "남-북-러 가스관사업",
+"reason": "테마: 남-북-러 가스관사업"
+},
+{
+"name": "뉴프렉스",
+"code": "085670",
+"ret": 22.46,
+"value": 1139,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "삼기",
+"code": "122350",
+"ret": 25.39,
+"value": 1052,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "노루홀딩스",
+"code": "000320",
+"ret": 13.38,
+"value": 1027,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

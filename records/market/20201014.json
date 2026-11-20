@@ -1,0 +1,254 @@
+{
+"date": "20201014",
+"kospi": -0.94,
+"kosdaq": -1.2,
+"adv": 472,
+"dec": 1351,
+"flat": 122,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 270113,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "더블유에스아이",
+"lead_ret": 29.93,
+"second": "미래컴퍼니",
+"second_ret": 12.48
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "지니언스",
+"lead_ret": 10.34,
+"second": "한컴위드",
+"second_ret": 9.85
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "더블유에스아이",
+"lead_ret": 29.93,
+"second": "미래컴퍼니",
+"second_ret": 12.48
+}
+],
+"themes": [
+{
+"name": "조림사업",
+"n": 11,
+"avg": 4.9,
+"up5": 4,
+"lead": "한솔홈데코",
+"lead_ret": 30.0,
+"second": "이건산업",
+"second_ret": 11.41
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 4.9,
+"up5": 4,
+"lead": "한솔홈데코",
+"lead_ret": 30.0,
+"second": "이건산업",
+"second_ret": 11.41
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.97,
+"up5": 1,
+"lead": "옴니시스템",
+"lead_ret": 12.43,
+"second": "성우전자",
+"second_ret": 2.18
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": 2.74,
+"up5": 3,
+"lead": "한솔홈데코",
+"lead_ret": 30.0,
+"second": "이건산업",
+"second_ret": 11.41
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 2.43,
+"up5": 4,
+"lead": "한솔홈데코",
+"lead_ret": 30.0,
+"second": "조이웍스앤코",
+"second_ret": 13.27
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.51,
+"up5": 4,
+"lead": "알서포트",
+"lead_ret": 7.14,
+"second": "이씨에스",
+"second_ret": 7.07
+},
+{
+"name": "쿠팡(coupang)",
+"n": 17,
+"avg": 1.45,
+"up5": 1,
+"lead": "한국전자홀딩스",
+"lead_ret": 25.17,
+"second": "다날",
+"second_ret": 4.26
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 38,
+"avg": 1.4,
+"up5": 8,
+"lead": "더블유에스아이",
+"lead_ret": 29.93,
+"second": "엠로",
+"second_ret": 14.58
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 1.37,
+"up5": 1,
+"lead": "케이피엠테크",
+"lead_ret": 24.76,
+"second": "모나리자",
+"second_ret": 4.2
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 1.35,
+"up5": 1,
+"lead": "KX",
+"lead_ret": 29.85,
+"second": "크리스에프앤씨",
+"second_ret": 2.86
+},
+{
+"name": "광고",
+"n": 17,
+"avg": 1.31,
+"up5": 3,
+"lead": "아시아경제",
+"lead_ret": 13.53,
+"second": "이노션",
+"second_ret": 6.33
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.24,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 5.15,
+"second": "롯데정밀화학",
+"second_ret": 1.93
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -3.98,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": -0.51,
+"second": "누리플렉스",
+"second_ret": -1.75
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -2.85,
+"up5": 0,
+"lead": "신흥",
+"lead_ret": 0.44,
+"second": "현대바이오랜드",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -2.77,
+"up5": 0,
+"lead": "에코프로비엠",
+"lead_ret": -0.53,
+"second": "삼성SDI",
+"second_ret": -1.57
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.71,
+"up5": 0,
+"lead": "세명전기",
+"lead_ret": 3.59,
+"second": "동아지질",
+"second_ret": -1.31
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -2.67,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": -0.57,
+"second": "삼성바이오로직스",
+"second_ret": -2.21
+}
+],
+"leaders": [
+{
+"name": "케이피엠테크",
+"code": "042040",
+"ret": 24.76,
+"value": 13687,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "국영지앤엠",
+"code": "006050",
+"ret": 11.3,
+"value": 3553,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 15.48,
+"value": 3029,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "옴니시스템",
+"code": "057540",
+"ret": 12.43,
+"value": 2618,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "한솔홈데코",
+"code": "025750",
+"ret": 30.0,
+"value": 2207,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+}
+],
+"backfilled": true
+}

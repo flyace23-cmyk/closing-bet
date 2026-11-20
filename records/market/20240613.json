@@ -1,0 +1,246 @@
+{
+"date": "20240613",
+"kospi": 0.98,
+"kosdaq": 0.08,
+"adv": 959,
+"dec": 1140,
+"flat": 159,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 289869,
+"hot": [
+{
+"name": "화장품",
+"n": 7,
+"lead": "마녀공장",
+"lead_ret": 20.37,
+"second": "청담글로벌",
+"second_ret": 16.84
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "와이씨",
+"lead_ret": 17.62,
+"second": "자비스",
+"second_ret": 17.1
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.95,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 7.09,
+"second": "사조대림",
+"second_ret": 5.69
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.88,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 20.11,
+"second": "한국가스공사",
+"second_ret": 13.1
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.82,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 20.11,
+"second": "한국가스공사",
+"second_ret": 13.1
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.67,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 20.11,
+"second": "현대코퍼레이션",
+"second_ret": 2.17
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 2.51,
+"up5": 1,
+"lead": "오픈놀",
+"lead_ret": 11.65,
+"second": "메가엠디",
+"second_ret": 2.56
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.43,
+"up5": 7,
+"lead": "와이씨",
+"lead_ret": 17.62,
+"second": "예스티",
+"second_ret": 9.18
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 2.35,
+"up5": 18,
+"lead": "마녀공장",
+"lead_ret": 20.37,
+"second": "청담글로벌",
+"second_ret": 16.84
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.19,
+"up5": 1,
+"lead": "한국가스공사",
+"lead_ret": 13.1,
+"second": "대성에너지",
+"second_ret": 3.45
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.13,
+"up5": 1,
+"lead": "코리아써키트",
+"lead_ret": 5.42,
+"second": "네오셈",
+"second_ret": 4.5
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 1.91,
+"up5": 1,
+"lead": "대원전선",
+"lead_ret": 9.0,
+"second": "가온전선",
+"second_ret": 4.11
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.81,
+"up5": 3,
+"lead": "꿈비",
+"lead_ret": 8.08,
+"second": "아가방컴퍼니",
+"second_ret": 7.09
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.76,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 6.19,
+"second": "코리아써키트",
+"second_ret": 5.42
+}
+],
+"themes_worst": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": -4.15,
+"up5": 0,
+"lead": "NHN KCP",
+"lead_ret": 0.6,
+"second": "NICE",
+"second_ret": 0.0
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.11,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 0.89,
+"second": "휴비스",
+"second_ret": -0.27
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.51,
+"up5": 0,
+"lead": "한국앤컴퍼니",
+"lead_ret": 1.01,
+"second": "넥센",
+"second_ret": 0.0
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -1.48,
+"up5": 0,
+"lead": "세코닉스",
+"lead_ret": 1.43,
+"second": "오비고",
+"second_ret": 0.28
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -1.35,
+"up5": 0,
+"lead": "넥스틸",
+"lead_ret": 2.21,
+"second": "유에스티",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한국가스공사",
+"code": "036460",
+"ret": 13.1,
+"value": 9766,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 20.11,
+"value": 9643,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 17.62,
+"value": 8717,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "마녀공장",
+"code": "439090",
+"ret": 20.37,
+"value": 3818,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "카티스",
+"code": "140430",
+"ret": 29.91,
+"value": 1678,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

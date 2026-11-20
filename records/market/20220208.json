@@ -1,0 +1,254 @@
+{
+"date": "20220208",
+"kospi": 0.05,
+"kosdaq": -0.46,
+"adv": 585,
+"dec": 1310,
+"flat": 168,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 192979,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "휴림로봇",
+"lead_ret": 21.06,
+"second": "미래컴퍼니",
+"second_ret": 7.33
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 3,
+"lead": "다날",
+"lead_ret": 10.1,
+"second": "위메이드",
+"second_ret": 5.87
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "광무",
+"lead_ret": 16.31,
+"second": "테이팩스",
+"second_ret": 8.96
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.32,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 12.07,
+"second": "한화생명",
+"second_ret": 0.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 2.02,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 5.17,
+"second": "팬오션",
+"second_ret": 3.54
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 1.94,
+"up5": 1,
+"lead": "아이진",
+"lead_ret": 6.38,
+"second": "서린바이오",
+"second_ret": 5.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.8,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 4.85,
+"second": "파미셀",
+"second_ret": 3.81
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 1.6,
+"up5": 2,
+"lead": "그래디언트",
+"lead_ret": 12.07,
+"second": "지어소프트",
+"second_ret": 5.0
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.58,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 16.31,
+"second": "에스넷",
+"second_ret": 7.11
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.52,
+"up5": 1,
+"lead": "휴림로봇",
+"lead_ret": 21.06,
+"second": "로보스타",
+"second_ret": 1.24
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 1.42,
+"up5": 2,
+"lead": "프레스티지바이오로직스",
+"lead_ret": 11.37,
+"second": "프레스티지바이오파마",
+"second_ret": 6.5
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 1.38,
+"up5": 2,
+"lead": "다날",
+"lead_ret": 10.1,
+"second": "위메이드",
+"second_ret": 5.87
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.29,
+"up5": 1,
+"lead": "제주항공",
+"lead_ret": 5.38,
+"second": "아시아나항공",
+"second_ret": 2.47
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.26,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 12.07,
+"second": "하나투어",
+"second_ret": 2.2
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 1.23,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 3.12,
+"second": "롯데쇼핑",
+"second_ret": 1.89
+}
+],
+"themes_worst": [
+{
+"name": "폐배터리",
+"n": 17,
+"avg": -2.75,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": -0.44,
+"second": "POSCO홀딩스",
+"second_ret": -0.56
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": -2.43,
+"up5": 0,
+"lead": "신테카바이오",
+"lead_ret": 0.0,
+"second": "토마토시스템",
+"second_ret": 0.0
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -2.17,
+"up5": 0,
+"lead": "씨티케이",
+"lead_ret": 1.0,
+"second": "삼륭물산",
+"second_ret": -1.42
+},
+{
+"name": "온디바이스 AI",
+"n": 17,
+"avg": -2.17,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 1.63,
+"second": "삼성전자",
+"second_ret": 0.68
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": -2.15,
+"up5": 0,
+"lead": "아이텍",
+"lead_ret": 1.83,
+"second": "SK하이닉스",
+"second_ret": 1.63
+}
+],
+"leaders": [
+{
+"name": "녹십자엠에스",
+"code": "142280",
+"ret": 16.32,
+"value": 3042,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "다날",
+"code": "064260",
+"ret": 10.1,
+"value": 2531,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 12.07,
+"value": 2202,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "제이엔케이글로벌",
+"code": "126880",
+"ret": 13.97,
+"value": 867,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 21.06,
+"value": 856,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

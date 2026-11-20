@@ -1,0 +1,254 @@
+{
+"date": "20240731",
+"kospi": 1.19,
+"kosdaq": -0.08,
+"adv": 1246,
+"dec": 892,
+"flat": 132,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 179289,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "와이씨",
+"lead_ret": 13.27,
+"second": "디아이",
+"second_ret": 11.52
+},
+{
+"name": "반도체 재료/부품",
+"n": 5,
+"lead": "샘씨엔에스",
+"lead_ret": 10.25,
+"second": "하나머티리얼즈",
+"second_ret": 8.17
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "퀀타매트릭스",
+"lead_ret": 29.99,
+"second": "수젠텍",
+"second_ret": 15.0
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 6.68,
+"up5": 2,
+"lead": "STX그린로지스",
+"lead_ret": 18.34,
+"second": "흥아해운",
+"second_ret": 11.55
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.02,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 15.47
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 6.02,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 15.47
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 5.87,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "미창석유",
+"second_ret": 3.51
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 4.59,
+"up5": 3,
+"lead": "한국석유",
+"lead_ret": 24.54,
+"second": "스페코",
+"second_ret": 8.94
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.53,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 29.95,
+"second": "중앙에너비스",
+"second_ret": 15.47
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 3.41,
+"up5": 11,
+"lead": "와이씨",
+"lead_ret": 13.27,
+"second": "디아이",
+"second_ret": 11.52
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.34,
+"up5": 0,
+"lead": "SK스퀘어",
+"lead_ret": 4.99,
+"second": "삼성전기",
+"second_ret": 3.64
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.32,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 10.98,
+"second": "삼성전자",
+"second_ret": 3.58
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.31,
+"up5": 2,
+"lead": "이오테크닉스",
+"lead_ret": 7.46,
+"second": "티에스이",
+"second_ret": 6.72
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.25,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 5.61,
+"second": "신송홀딩스",
+"second_ret": 4.38
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.18,
+"up5": 2,
+"lead": "인텍플러스",
+"lead_ret": 7.92,
+"second": "덕산하이메탈",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -2.28,
+"up5": 0,
+"lead": "포니링크",
+"lead_ret": 2.02,
+"second": "인포뱅크",
+"second_ret": 1.08
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.2,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.11,
+"second": "녹십자",
+"second_ret": -1.04
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": -2.19,
+"up5": 0,
+"lead": "아이큐어",
+"lead_ret": 3.55,
+"second": "나이벡",
+"second_ret": 3.04
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": -2.15,
+"up5": 0,
+"lead": "레이저옵텍",
+"lead_ret": 1.78,
+"second": "원텍",
+"second_ret": 0.62
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -2.08,
+"up5": 1,
+"lead": "헬릭스미스",
+"lead_ret": 5.62,
+"second": "HLB",
+"second_ret": 3.99
+}
+],
+"leaders": [
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 13.27,
+"value": 4830,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 29.95,
+"value": 3543,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 24.54,
+"value": 2312,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 12.33,
+"value": 837,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "STX그린로지스",
+"code": "465770",
+"ret": 18.34,
+"value": 738,
+"theme": "해운",
+"reason": "테마: 해운"
+}
+],
+"backfilled": true
+}

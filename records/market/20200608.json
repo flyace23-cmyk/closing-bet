@@ -1,0 +1,254 @@
+{
+"date": "20200608",
+"kospi": 0.11,
+"kosdaq": 0.5,
+"adv": 879,
+"dec": 866,
+"flat": 169,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 216796,
+"hot": [
+{
+"name": "제약업체",
+"n": 5,
+"lead": "일양약품",
+"lead_ret": 30.0,
+"second": "JW생명과학",
+"second_ret": 15.5
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "멕아이씨에스",
+"lead_ret": 29.93,
+"second": "씨유메디칼",
+"second_ret": 25.14
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "이지홀딩스",
+"lead_ret": 29.89,
+"second": "코스맥스비티아이",
+"second_ret": 17.82
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 5.9,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 29.92,
+"second": "CJ씨푸드",
+"second_ret": 1.68
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 5.26,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 29.92,
+"second": "사조씨푸드",
+"second_ret": 7.05
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 5.04,
+"up5": 6,
+"lead": "두산밥캣",
+"lead_ret": 17.74,
+"second": "디와이파워",
+"second_ret": 12.02
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 4.75,
+"up5": 3,
+"lead": "한국비엔씨",
+"lead_ret": 16.73,
+"second": "제테마",
+"second_ret": 16.38
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 4.41,
+"up5": 1,
+"lead": "멕아이씨에스",
+"lead_ret": 29.93,
+"second": "인트론바이오",
+"second_ret": 3.85
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 4.19,
+"up5": 3,
+"lead": "한국비엔씨",
+"lead_ret": 16.73,
+"second": "제테마",
+"second_ret": 16.38
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 3.98,
+"up5": 2,
+"lead": "테고사이언스",
+"lead_ret": 30.0,
+"second": "바이오솔루션",
+"second_ret": 6.87
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.65,
+"up5": 3,
+"lead": "이지바이오",
+"lead_ret": 29.89,
+"second": "이지홀딩스",
+"second_ret": 29.89
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.6,
+"up5": 2,
+"lead": "토비스",
+"lead_ret": 15.65,
+"second": "코텍",
+"second_ret": 6.63
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.6,
+"up5": 2,
+"lead": "토비스",
+"lead_ret": 15.65,
+"second": "코텍",
+"second_ret": 6.63
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 3.38,
+"up5": 4,
+"lead": "판타지오",
+"lead_ret": 9.44,
+"second": "YG PLUS",
+"second_ret": 9.02
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.3,
+"up5": 1,
+"lead": "KG모빌리티",
+"lead_ret": 18.98,
+"second": "HL만도",
+"second_ret": 2.51
+}
+],
+"themes_worst": [
+{
+"name": "비료",
+"n": 10,
+"avg": -1.65,
+"up5": 0,
+"lead": "누보",
+"lead_ret": 0.0,
+"second": "태경비케이",
+"second_ret": -0.26
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.47,
+"up5": 0,
+"lead": "링네트",
+"lead_ret": 0.81,
+"second": "오픈베이스",
+"second_ret": 0.15
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": -1.37,
+"up5": 0,
+"lead": "삼현철강",
+"lead_ret": 1.76,
+"second": "태영건설",
+"second_ret": 1.6
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -1.36,
+"up5": 0,
+"lead": "우원개발",
+"lead_ret": 0.15,
+"second": "동아지질",
+"second_ret": -0.3
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": -1.33,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": 0.98,
+"second": "비츠로테크",
+"second_ret": 0.59
+}
+],
+"leaders": [
+{
+"name": "ES큐브",
+"code": "050120",
+"ret": 23.94,
+"value": 8901,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 30.0,
+"value": 6349,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "서울바이오시스",
+"code": "092190",
+"ret": 12.36,
+"value": 3171,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "유한양행",
+"code": "000100",
+"ret": 10.04,
+"value": 3116,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "KG모빌리티",
+"code": "003620",
+"ret": 18.98,
+"value": 2842,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+}
+],
+"backfilled": true
+}

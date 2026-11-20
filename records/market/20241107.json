@@ -1,0 +1,254 @@
+{
+"date": "20241107",
+"kospi": 0.04,
+"kosdaq": -1.32,
+"adv": 771,
+"dec": 1364,
+"flat": 164,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 167014,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 9,
+"lead": "AP위성",
+"lead_ret": 30.0,
+"second": "제노코",
+"second_ret": 30.0
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 5,
+"lead": "제노코",
+"lead_ret": 30.0,
+"second": "웨이비스",
+"second_ret": 23.4
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "에스비비테크",
+"lead_ret": 19.31,
+"second": "하이젠알앤엠",
+"second_ret": 15.86
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 12.22,
+"up5": 5,
+"lead": "한화오션",
+"lead_ret": 21.76,
+"second": "HD현대중공업",
+"second_ret": 15.13
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 6.83,
+"up5": 12,
+"lead": "제노코",
+"lead_ret": 30.0,
+"second": "AP위성",
+"second_ret": 30.0
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 5.73,
+"up5": 19,
+"lead": "현대힘스",
+"lead_ret": 30.0,
+"second": "루미르",
+"second_ret": 21.12
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 5.67,
+"up5": 6,
+"lead": "에이치브이엠",
+"lead_ret": 26.49,
+"second": "세아베스틸지주",
+"second_ret": 21.27
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 4.08,
+"up5": 9,
+"lead": "일승",
+"lead_ret": 18.54,
+"second": "HD현대중공업",
+"second_ret": 15.13
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.4,
+"up5": 4,
+"lead": "케이에스피",
+"lead_ret": 7.8,
+"second": "태광",
+"second_ret": 5.77
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.78,
+"up5": 1,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 14.3,
+"second": "한화에어로스페이스",
+"second_ret": 4.52
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 2.61,
+"up5": 1,
+"lead": "세아베스틸지주",
+"lead_ret": 21.27,
+"second": "세아제강",
+"second_ret": 4.34
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 40,
+"avg": 2.1,
+"up5": 8,
+"lead": "에스비비테크",
+"lead_ret": 19.31,
+"second": "티로보틱스",
+"second_ret": 10.61
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 67,
+"avg": 2.07,
+"up5": 10,
+"lead": "에스비비테크",
+"lead_ret": 19.31,
+"second": "하이젠알앤엠",
+"second_ret": 15.86
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 2.03,
+"up5": 7,
+"lead": "AP위성",
+"lead_ret": 30.0,
+"second": "다보링크",
+"second_ret": 26.98
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.98,
+"up5": 2,
+"lead": "SK가스",
+"lead_ret": 5.1,
+"second": "한국가스공사",
+"second_ret": 5.0
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -6.01,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -1.96,
+"second": "차바이오텍",
+"second_ret": -2.03
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": -4.72,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": -0.56,
+"second": "일신바이오",
+"second_ret": -0.66
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -3.85,
+"up5": 0,
+"lead": "디에스케이",
+"lead_ret": -0.4,
+"second": "청담글로벌",
+"second_ret": -0.45
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.47,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 1.01,
+"second": "TKG휴켐스",
+"second_ret": -0.47
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -3.37,
+"up5": 0,
+"lead": "아이진",
+"lead_ret": 3.27,
+"second": "서린바이오",
+"second_ret": -0.55
+}
+],
+"leaders": [
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 21.76,
+"value": 4684,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "와이제이링크",
+"code": "209640",
+"ret": 13.95,
+"value": 2741,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "HD현대중공업",
+"code": "329180",
+"ret": 15.13,
+"value": 2481,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "루미르",
+"code": "474170",
+"ret": 21.12,
+"value": 2173,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "에이치브이엠",
+"code": "295310",
+"ret": 26.49,
+"value": 2104,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+}
+],
+"backfilled": true
+}

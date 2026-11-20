@@ -1,0 +1,254 @@
+{
+"date": "20240509",
+"kospi": -1.2,
+"kosdaq": -0.26,
+"adv": 780,
+"dec": 1339,
+"flat": 137,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 197449,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "실리콘투",
+"lead_ret": 29.82,
+"second": "클래시스",
+"second_ret": 19.31
+},
+{
+"name": "의료기기",
+"n": 5,
+"lead": "클래시스",
+"lead_ret": 19.31,
+"second": "딥노이드",
+"second_ret": 18.66
+},
+{
+"name": "의료AI",
+"n": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 22.74,
+"second": "딥노이드",
+"second_ret": 18.66
+}
+],
+"themes": [
+{
+"name": "미용기기",
+"n": 15,
+"avg": 3.28,
+"up5": 3,
+"lead": "클래시스",
+"lead_ret": 19.31,
+"second": "에이피알",
+"second_ret": 9.59
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 3.2,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 6.33,
+"second": "STX그린로지스",
+"second_ret": 5.26
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 2.88,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 22.74,
+"second": "딥노이드",
+"second_ret": 18.66
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.67,
+"up5": 2,
+"lead": "디앤씨미디어",
+"lead_ret": 29.76,
+"second": "NHN",
+"second_ret": 8.84
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.62,
+"up5": 1,
+"lead": "LB인베스트먼트",
+"lead_ret": 29.91,
+"second": "DSC인베스트먼트",
+"second_ret": 0.4
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.43,
+"up5": 1,
+"lead": "가온전선",
+"lead_ret": 12.01,
+"second": "대원전선",
+"second_ret": 3.83
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 2.25,
+"up5": 1,
+"lead": "하이스틸",
+"lead_ret": 18.32,
+"second": "율촌",
+"second_ret": 2.81
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 2.0,
+"up5": 14,
+"lead": "실리콘투",
+"lead_ret": 29.82,
+"second": "클래시스",
+"second_ret": 19.31
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.98,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 22.74,
+"second": "NHN",
+"second_ret": 8.84
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 1.93,
+"up5": 1,
+"lead": "LB인베스트먼트",
+"lead_ret": 29.91,
+"second": "컴퍼니케이",
+"second_ret": 4.92
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": 1.92,
+"up5": 2,
+"lead": "디앤씨미디어",
+"lead_ret": 29.76,
+"second": "폴라리스오피스",
+"second_ret": 22.74
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.75,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 12.37,
+"second": "신세계",
+"second_ret": 2.25
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.4,
+"up5": 0,
+"lead": "에이직랜드",
+"lead_ret": 0.69,
+"second": "삼성전자",
+"second_ret": -1.97
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.39,
+"up5": 0,
+"lead": "파두",
+"lead_ret": 2.39,
+"second": "대교",
+"second_ret": 0.19
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -2.01,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 8.06,
+"second": "제주반도체",
+"second_ret": 1.08
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": -1.92,
+"up5": 0,
+"lead": "시지트로닉스",
+"lead_ret": 4.55,
+"second": "파두",
+"second_ret": 2.39
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -1.86,
+"up5": 0,
+"lead": "와이씨",
+"lead_ret": 3.42,
+"second": "레이저쎌",
+"second_ret": 0.92
+}
+],
+"leaders": [
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 22.74,
+"value": 6180,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 15.08,
+"value": 3652,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "클래시스",
+"code": "214150",
+"ret": 19.31,
+"value": 2899,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 29.82,
+"value": 2733,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "디앤씨미디어",
+"code": "263720",
+"ret": 29.76,
+"value": 1156,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+}
+],
+"backfilled": true
+}

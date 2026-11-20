@@ -1,0 +1,254 @@
+{
+"date": "20240513",
+"kospi": -0.02,
+"kosdaq": -1.13,
+"adv": 761,
+"dec": 1348,
+"flat": 147,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 210463,
+"hot": [
+{
+"name": "전력설비",
+"n": 4,
+"lead": "지엔씨에너지",
+"lead_ret": 29.91,
+"second": "KBI메탈",
+"second_ret": 29.84
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "유아이엘",
+"lead_ret": 14.8,
+"second": "유티아이",
+"second_ret": 8.74
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 3,
+"lead": "브리지텍",
+"lead_ret": 24.1,
+"second": "플리토",
+"second_ret": 8.44
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 9.57,
+"up5": 4,
+"lead": "KBI메탈",
+"lead_ret": 29.84,
+"second": "대한전선",
+"second_ret": 24.04
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.42,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 5.28,
+"second": "HD한국조선해양",
+"second_ret": 4.93
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.97,
+"up5": 1,
+"lead": "케이에스피",
+"lead_ret": 15.67,
+"second": "태광",
+"second_ret": 4.27
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 2.95,
+"up5": 6,
+"lead": "지엔씨에너지",
+"lead_ret": 29.91,
+"second": "KBI메탈",
+"second_ret": 29.84
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.87,
+"up5": 2,
+"lead": "SFA",
+"lead_ret": 9.42,
+"second": "비츠로테크",
+"second_ret": 5.12
+},
+{
+"name": "조선기자재",
+"n": 34,
+"avg": 2.86,
+"up5": 7,
+"lead": "케이에스피",
+"lead_ret": 15.67,
+"second": "씨피시스템",
+"second_ret": 8.3
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 2.79,
+"up5": 2,
+"lead": "브리지텍",
+"lead_ret": 24.1,
+"second": "미디어젠",
+"second_ret": 7.69
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 2.55,
+"up5": 2,
+"lead": "우리기술",
+"lead_ret": 21.45,
+"second": "비츠로테크",
+"second_ret": 5.12
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 2.04,
+"up5": 3,
+"lead": "대한전선",
+"lead_ret": 24.04,
+"second": "우리기술",
+"second_ret": 21.45
+},
+{
+"name": "스마트홈(홈네트워크)",
+"n": 22,
+"avg": 1.76,
+"up5": 2,
+"lead": "HDC랩스",
+"lead_ret": 21.25,
+"second": "현대리바트",
+"second_ret": 21.03
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 1.54,
+"up5": 2,
+"lead": "이구산업",
+"lead_ret": 13.76,
+"second": "피제이메탈",
+"second_ret": 5.41
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 1.52,
+"up5": 5,
+"lead": "브리지텍",
+"lead_ret": 24.1,
+"second": "플리토",
+"second_ret": 8.44
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -3.11,
+"up5": 0,
+"lead": "알비더블유",
+"lead_ret": 1.91,
+"second": "드림어스컴퍼니",
+"second_ret": -0.17
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -3.06,
+"up5": 0,
+"lead": "엔키AX",
+"lead_ret": 2.29,
+"second": "NHN",
+"second_ret": 0.0
+},
+{
+"name": "미용기기",
+"n": 15,
+"avg": -2.96,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 0.0,
+"second": "한국비티비",
+"second_ret": 0.0
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.47,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": -0.17,
+"second": "지씨셀",
+"second_ret": -0.69
+},
+{
+"name": "유전자 치료제/분석",
+"n": 34,
+"avg": -2.22,
+"up5": 0,
+"lead": "코오롱생명과학",
+"lead_ret": 0.22,
+"second": "바이오니아",
+"second_ret": 0.16
+}
+],
+"leaders": [
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 24.04,
+"value": 15461,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "이구산업",
+"code": "025820",
+"ret": 13.76,
+"value": 2306,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "KBI메탈",
+"code": "024840",
+"ret": 29.84,
+"value": 1972,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "우리기술",
+"code": "032820",
+"ret": 21.45,
+"value": 1766,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "본느",
+"code": "226340",
+"ret": 12.88,
+"value": 1718,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

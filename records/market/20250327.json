@@ -1,0 +1,246 @@
+{
+"date": "20250327",
+"kospi": -1.39,
+"kosdaq": -1.25,
+"adv": 619,
+"dec": 1618,
+"flat": 109,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 125866,
+"hot": [
+{
+"name": "조림사업",
+"n": 4,
+"lead": "자연과환경",
+"lead_ret": 29.87,
+"second": "효성오앤비",
+"second_ret": 10.54
+},
+{
+"name": "모듈러주택",
+"n": 4,
+"lead": "자연과환경",
+"lead_ret": 29.87,
+"second": "에스와이",
+"second_ret": 25.1
+}
+],
+"themes": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 9.14,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.87,
+"second": "에스와이",
+"second_ret": 25.1
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 5.69,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.87,
+"second": "효성오앤비",
+"second_ret": 10.54
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 5.69,
+"up5": 4,
+"lead": "자연과환경",
+"lead_ret": 29.87,
+"second": "효성오앤비",
+"second_ret": 10.54
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.01,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 25.1,
+"second": "오텍",
+"second_ret": 1.51
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.48,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 10.54,
+"second": "누보",
+"second_ret": 5.81
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 1.65,
+"up5": 1,
+"lead": "인선이엔티",
+"lead_ret": 8.08,
+"second": "와이엔텍",
+"second_ret": 1.75
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 1.59,
+"up5": 3,
+"lead": "아시아종묘",
+"lead_ret": 25.88,
+"second": "효성오앤비",
+"second_ret": 10.54
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.58,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 6.47,
+"second": "GS건설",
+"second_ret": 1.28
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 1.31,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 13.97,
+"second": "DSC인베스트먼트",
+"second_ret": 3.38
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 1.25,
+"up5": 4,
+"lead": "큐브엔터",
+"lead_ret": 11.37,
+"second": "에프엔씨엔터",
+"second_ret": 6.31
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.22,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 4.77,
+"second": "HDC",
+"second_ret": 4.31
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 1.19,
+"up5": 1,
+"lead": "자연과환경",
+"lead_ret": 29.87,
+"second": "모헨즈",
+"second_ret": 2.56
+}
+],
+"themes_worst": [
+{
+"name": "전선",
+"n": 8,
+"avg": -5.11,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -2.69,
+"second": "LS",
+"second_ret": -3.97
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -4.25,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -2.13,
+"second": "HD현대중공업",
+"second_ret": -3.99
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -4.07,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": 3.36,
+"second": "쿠콘",
+"second_ret": -3.17
+},
+{
+"name": "전력설비",
+"n": 33,
+"avg": -3.55,
+"up5": 0,
+"lead": "에이루트",
+"lead_ret": 1.23,
+"second": "금화피에스시",
+"second_ret": 0.2
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.45,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": -1.04,
+"second": "현대위아",
+"second_ret": -1.96
+}
+],
+"leaders": [
+{
+"name": "티엑스알로보틱스",
+"code": "484810",
+"ret": 19.67,
+"value": 3085,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "오리엔트정공",
+"code": "065500",
+"ret": 20.78,
+"value": 2868,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "에어레인",
+"code": "163280",
+"ret": 15.69,
+"value": 2661,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 25.1,
+"value": 2229,
+"theme": "모듈러주택",
+"reason": "테마: 모듈러주택"
+},
+{
+"name": "대상홀딩스",
+"code": "084690",
+"ret": 16.22,
+"value": 1086,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20201110",
+"kospi": 0.23,
+"kosdaq": -1.22,
+"adv": 970,
+"dec": 820,
+"flat": 161,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 280345,
+"hot": [
+{
+"name": "콜드체인(저온 유통)",
+"n": 6,
+"lead": "일신바이오",
+"lead_ret": 29.89,
+"second": "대한과학",
+"second_ret": 29.88
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 3,
+"lead": "진에어",
+"lead_ret": 11.54,
+"second": "대한항공",
+"second_ret": 11.23
+}
+],
+"themes": [
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 10.2,
+"up5": 7,
+"lead": "일신바이오",
+"lead_ret": 29.89,
+"second": "대한과학",
+"second_ret": 29.88
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 7.04,
+"up5": 2,
+"lead": "일신바이오",
+"lead_ret": 29.89,
+"second": "드림씨아이에스",
+"second_ret": 15.39
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 6.34,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 28.35,
+"second": "파미셀",
+"second_ret": 5.22
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.29,
+"up5": 4,
+"lead": "진에어",
+"lead_ret": 11.54,
+"second": "대한항공",
+"second_ret": 11.23
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.54,
+"up5": 2,
+"lead": "GKL",
+"lead_ret": 7.63,
+"second": "파라다이스",
+"second_ret": 6.9
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 4.54,
+"up5": 2,
+"lead": "GKL",
+"lead_ret": 7.63,
+"second": "파라다이스",
+"second_ret": 6.9
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 4.51,
+"up5": 5,
+"lead": "하나투어",
+"lead_ret": 9.17,
+"second": "모두투어",
+"second_ret": 6.9
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.9,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 14.68,
+"second": "GS",
+"second_ret": 6.81
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.88,
+"up5": 3,
+"lead": "JTC",
+"lead_ret": 6.33,
+"second": "호텔신라",
+"second_ret": 5.81
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 3.75,
+"up5": 4,
+"lead": "S-Oil",
+"lead_ret": 14.68,
+"second": "GST",
+"second_ret": 8.51
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.41,
+"up5": 2,
+"lead": "루트K",
+"lead_ret": 29.65,
+"second": "와이지-원",
+"second_ret": 7.2
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.31,
+"up5": 2,
+"lead": "엔투텍",
+"lead_ret": 24.05,
+"second": "파미셀",
+"second_ret": 5.22
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": -5.49,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 5.22,
+"second": "진매트릭스",
+"second_ret": 3.03
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": -5.26,
+"up5": 1,
+"lead": "툴젠",
+"lead_ret": 6.63,
+"second": "CG인바이츠",
+"second_ret": 3.72
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -4.86,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "경동제약",
+"second_ret": -0.98
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 58,
+"avg": -4.16,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 28.35,
+"second": "파미셀",
+"second_ret": 5.22
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -2.93,
+"up5": 0,
+"lead": "큐캐피탈",
+"lead_ret": 1.04,
+"second": "GMI벤처",
+"second_ret": 0.72
+}
+],
+"leaders": [
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 29.89,
+"value": 5287,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "아리바이오홀딩스",
+"code": "290690",
+"ret": 14.2,
+"value": 4755,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "엔투텍",
+"code": "227950",
+"ret": 24.05,
+"value": 4566,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제일약품",
+"code": "271980",
+"ret": 28.35,
+"value": 4466,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "대한항공",
+"code": "003490",
+"ret": 11.23,
+"value": 3536,
+"theme": "항공/저가 항공사(LCC)",
+"reason": "테마: 항공/저가 항공사(LCC)"
+}
+],
+"backfilled": true
+}

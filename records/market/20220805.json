@@ -1,0 +1,254 @@
+{
+"date": "20220805",
+"kospi": 0.72,
+"kosdaq": 0.79,
+"adv": 1200,
+"dec": 665,
+"flat": 230,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 131421,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "에코프로",
+"lead_ret": 12.21,
+"second": "에이프로",
+"second_ret": 8.61
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "파미셀",
+"lead_ret": 11.51,
+"second": "셀리드",
+"second_ret": 9.31
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 3,
+"lead": "파미셀",
+"lead_ret": 11.51,
+"second": "올릭스",
+"second_ret": 11.5
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 5.19,
+"up5": 3,
+"lead": "파미셀",
+"lead_ret": 11.51,
+"second": "올릭스",
+"second_ret": 11.5
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.53,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 11.51,
+"second": "에스티팜",
+"second_ret": 7.26
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.36,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 8.19,
+"second": "강스템바이오텍",
+"second_ret": 4.72
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 3.53,
+"up5": 7,
+"lead": "대림바스",
+"lead_ret": 11.53,
+"second": "하츠",
+"second_ret": 7.32
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.94,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 11.51,
+"second": "제일약품",
+"second_ret": 1.72
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.81,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 8.35,
+"second": "강스템바이오텍",
+"second_ret": 4.72
+},
+{
+"name": "면역항암제",
+"n": 29,
+"avg": 2.77,
+"up5": 7,
+"lead": "셀리드",
+"lead_ret": 9.31,
+"second": "에이프릴바이오",
+"second_ret": 8.95
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 2.57,
+"up5": 2,
+"lead": "셀리드",
+"lead_ret": 9.31,
+"second": "리가켐바이오",
+"second_ret": 7.12
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.57,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 11.51,
+"second": "안트로젠",
+"second_ret": 9.11
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.48,
+"up5": 1,
+"lead": "한신공영",
+"lead_ret": 5.76,
+"second": "자연과환경",
+"second_ret": 4.05
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.45,
+"up5": 1,
+"lead": "벽산",
+"lead_ret": 7.31,
+"second": "SP삼화",
+"second_ret": 4.97
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.4,
+"up5": 2,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 6.78,
+"second": "쎌바이오텍",
+"second_ret": 5.47
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -2.64,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.81,
+"second": "아이티센글로벌",
+"second_ret": 0.12
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.23,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 0.65,
+"second": "퀀텀레일",
+"second_ret": 0.16
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -1.22,
+"up5": 0,
+"lead": "모비릭스",
+"lead_ret": 2.05,
+"second": "위메이드맥스",
+"second_ret": 1.57
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -1.18,
+"up5": 0,
+"lead": "대원미디어",
+"lead_ret": 1.01,
+"second": "엔키AX",
+"second_ret": 0.78
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.12,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 0.47,
+"second": "KG모빌리티",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "캠시스",
+"code": "050110",
+"ret": 22.44,
+"value": 5388,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 12.21,
+"value": 4072,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 11.51,
+"value": 1278,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "피엔케이피부임상연구센타",
+"code": "347740",
+"ret": 12.73,
+"value": 594,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "기산텔레콤",
+"code": "035460",
+"ret": 14.93,
+"value": 540,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

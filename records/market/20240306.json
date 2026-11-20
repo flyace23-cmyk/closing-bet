@@ -1,0 +1,254 @@
+{
+"date": "20240306",
+"kospi": -0.3,
+"kosdaq": 0.5,
+"adv": 864,
+"dec": 1252,
+"flat": 127,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 206497,
+"hot": [
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "리가켐바이오",
+"lead_ret": 29.33,
+"second": "와이바이오로직스",
+"second_ret": 23.76
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "에프엔에스테크",
+"lead_ret": 29.97,
+"second": "제이엠티",
+"second_ret": 18.42
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "에프엔에스테크",
+"lead_ret": 29.97,
+"second": "케이씨텍",
+"second_ret": 22.52
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.68,
+"up5": 2,
+"lead": "강스템바이오텍",
+"lead_ret": 8.89,
+"second": "차바이오텍",
+"second_ret": 5.97
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.03,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 21.38,
+"second": "오픈엣지테크놀로지",
+"second_ret": 6.6
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.72,
+"up5": 9,
+"lead": "리가켐바이오",
+"lead_ret": 29.33,
+"second": "와이바이오로직스",
+"second_ret": 23.76
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.06,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 12.12,
+"second": "티에프이",
+"second_ret": 11.11
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.99,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 29.95,
+"second": "신성델타테크",
+"second_ret": 5.23
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.67,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 12.12,
+"second": "네오셈",
+"second_ret": 8.02
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.3,
+"up5": 2,
+"lead": "에프엔에스테크",
+"lead_ret": 29.97,
+"second": "제이앤티씨",
+"second_ret": 19.67
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 2.27,
+"up5": 3,
+"lead": "토마토시스템",
+"lead_ret": 16.88,
+"second": "파로스아이바이오",
+"second_ret": 14.19
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.26,
+"up5": 3,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 10.64,
+"second": "한화에어로스페이스",
+"second_ret": 10.09
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 31,
+"avg": 2.25,
+"up5": 6,
+"lead": "LIG디펜스앤에어로스페이스",
+"lead_ret": 10.64,
+"second": "한화에어로스페이스",
+"second_ret": 10.09
+},
+{
+"name": "탈모 치료",
+"n": 24,
+"avg": 2.2,
+"up5": 3,
+"lead": "바이오니아",
+"lead_ret": 17.13,
+"second": "강스템바이오텍",
+"second_ret": 8.89
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 2.18,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 29.95,
+"second": "NEW",
+"second_ret": 0.68
+}
+],
+"themes_worst": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.72,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": -0.84,
+"second": "대신정보통신",
+"second_ret": -1.44
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": -2.33,
+"up5": 0,
+"lead": "감성코퍼레이션",
+"lead_ret": 0.52,
+"second": "매커스",
+"second_ret": 0.46
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -2.26,
+"up5": 0,
+"lead": "KG이니시스",
+"lead_ret": 0.0,
+"second": "인포바인",
+"second_ret": -0.22
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": -2.19,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": 3.52,
+"second": "KB금융",
+"second_ret": 0.43
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": -1.94,
+"up5": 0,
+"lead": "아이티센피엔에스",
+"lead_ret": 0.92,
+"second": "NAVER",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 29.33,
+"value": 10276,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "한화에어로스페이스",
+"code": "012450",
+"ret": 10.09,
+"value": 4685,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "제룡전기",
+"code": "033100",
+"ret": 12.45,
+"value": 2410,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 13.99,
+"value": 2221,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "LIG디펜스앤에어로스페이스",
+"code": "079550",
+"ret": 10.64,
+"value": 2084,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

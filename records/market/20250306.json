@@ -1,0 +1,254 @@
+{
+"date": "20250306",
+"kospi": 0.7,
+"kosdaq": -1.61,
+"adv": 905,
+"dec": 1291,
+"flat": 142,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 174950,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "유라테크",
+"lead_ret": 15.34,
+"second": "오리엔트정공",
+"second_ret": 10.79
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "LS티라유텍",
+"lead_ret": 12.15,
+"second": "퍼스텍",
+"second_ret": 11.85
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "퍼스텍",
+"lead_ret": 11.85,
+"second": "한국항공우주",
+"second_ret": 9.93
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 10,
+"avg": 80.49,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 797.83,
+"second": "콘텐트리중앙",
+"second_ret": 2.32
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 51.57,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 797.83,
+"second": "아모텍",
+"second_ret": 6.34
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 27.44,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 797.83,
+"second": "카카오",
+"second_ret": 4.64
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 3.74,
+"up5": 3,
+"lead": "현대제철",
+"lead_ret": 9.94,
+"second": "세아제강",
+"second_ret": 9.57
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 3.13,
+"up5": 4,
+"lead": "M83",
+"lead_ret": 29.97,
+"second": "아이씨티케이",
+"second_ret": 14.25
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.33,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 7.56,
+"second": "신세계",
+"second_ret": 2.56
+},
+{
+"name": "영상콘텐츠",
+"n": 28,
+"avg": 2.3,
+"up5": 3,
+"lead": "M83",
+"lead_ret": 29.97,
+"second": "스튜디오미르",
+"second_ret": 14.78
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 2.14,
+"up5": 4,
+"lead": "농심",
+"lead_ret": 10.65,
+"second": "현대제철",
+"second_ret": 9.94
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.96,
+"up5": 1,
+"lead": "HL만도",
+"lead_ret": 5.5,
+"second": "KG모빌리티",
+"second_ret": 4.1
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.92,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": 3.61,
+"second": "롯데지주",
+"second_ret": 3.31
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 1.77,
+"up5": 3,
+"lead": "퍼스텍",
+"lead_ret": 11.85,
+"second": "한국항공우주",
+"second_ret": 9.93
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 1.73,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 3.69,
+"second": "웹케시",
+"second_ret": 2.7
+}
+],
+"themes_worst": [
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -3.69,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.56,
+"second": "삼성전기",
+"second_ret": 0.15
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.4,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": 0.97,
+"second": "가온전선",
+"second_ret": -1.55
+},
+{
+"name": "전력설비",
+"n": 33,
+"avg": -2.93,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 1.59,
+"second": "대한전선",
+"second_ret": 0.97
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -2.87,
+"up5": 1,
+"lead": "LG이노텍",
+"lead_ret": 9.57,
+"second": "삼성전기",
+"second_ret": 0.15
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": -2.75,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": 1.59,
+"second": "HD현대에너지솔루션",
+"second_ret": -0.55
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 11.71,
+"value": 3141,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 14.25,
+"value": 2757,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "KBI동양철관",
+"code": "008970",
+"ret": 14.53,
+"value": 2109,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "M83",
+"code": "476080",
+"ret": 29.97,
+"value": 1915,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "스튜디오미르",
+"code": "408900",
+"ret": 14.78,
+"value": 1165,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240627",
+"kospi": -0.29,
+"kosdaq": -0.41,
+"adv": 626,
+"dec": 1502,
+"flat": 134,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 166822,
+"hot": [
+{
+"name": "전력설비",
+"n": 4,
+"lead": "세명전기",
+"lead_ret": 23.59,
+"second": "가온전선",
+"second_ret": 15.04
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "KBI메탈",
+"lead_ret": 13.92,
+"second": "에코캡",
+"second_ret": 11.52
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "에코글로우",
+"lead_ret": 14.41,
+"second": "한국화장품제조",
+"second_ret": 11.72
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.88,
+"up5": 4,
+"lead": "가온전선",
+"lead_ret": 15.04,
+"second": "KBI메탈",
+"second_ret": 13.92
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.59,
+"up5": 10,
+"lead": "세명전기",
+"lead_ret": 23.59,
+"second": "가온전선",
+"second_ret": 15.04
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.87,
+"up5": 1,
+"lead": "세명전기",
+"lead_ret": 23.59,
+"second": "LS",
+"second_ret": 3.04
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 1.58,
+"up5": 4,
+"lead": "펩트론",
+"lead_ret": 22.53,
+"second": "셀리드",
+"second_ret": 10.75
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.55,
+"up5": 2,
+"lead": "아스트",
+"lead_ret": 29.91,
+"second": "대한항공",
+"second_ret": 5.36
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 1.26,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 7.15,
+"second": "아이티센글로벌",
+"second_ret": 3.56
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.02,
+"up5": 2,
+"lead": "기가레인",
+"lead_ret": 24.02,
+"second": "이오테크닉스",
+"second_ret": 5.26
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 0.81,
+"up5": 3,
+"lead": "세명전기",
+"lead_ret": 23.59,
+"second": "제룡전기",
+"second_ret": 13.34
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 0.79,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 4.65,
+"second": "HD현대중공업",
+"second_ret": 2.62
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 0.77,
+"up5": 7,
+"lead": "펩트론",
+"lead_ret": 22.53,
+"second": "셀리드",
+"second_ret": 10.75
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 0.68,
+"up5": 3,
+"lead": "지노믹트리",
+"lead_ret": 10.18,
+"second": "나노실리칸첨단소재",
+"second_ret": 8.25
+},
+{
+"name": "황사/미세먼지",
+"n": 25,
+"avg": 0.66,
+"up5": 1,
+"lead": "옵투스제약",
+"lead_ret": 18.59,
+"second": "위닉스",
+"second_ret": 3.22
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -5.68,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -0.45,
+"second": "대원미디어",
+"second_ret": -0.77
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": -3.76,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": -0.37,
+"second": "현대모비스",
+"second_ret": -0.79
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -2.71,
+"up5": 0,
+"lead": "디앤씨미디어",
+"lead_ret": 0.0,
+"second": "조이시티",
+"second_ret": 0.0
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 12,
+"avg": -2.61,
+"up5": 0,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 1.49,
+"second": "미래에셋증권",
+"second_ret": -0.42
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": -2.29,
+"up5": 0,
+"lead": "엠게임",
+"lead_ret": 1.17,
+"second": "넵튠",
+"second_ret": 1.01
+}
+],
+"leaders": [
+{
+"name": "세명전기",
+"code": "017510",
+"ret": 23.59,
+"value": 3327,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "제룡전기",
+"code": "033100",
+"ret": 13.34,
+"value": 2494,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 22.53,
+"value": 1806,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 15.04,
+"value": 1426,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "KBI메탈",
+"code": "024840",
+"ret": 13.92,
+"value": 1186,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

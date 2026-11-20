@@ -1,0 +1,254 @@
+{
+"date": "20251104",
+"kospi": -2.37,
+"kosdaq": 1.31,
+"adv": 973,
+"dec": 1298,
+"flat": 112,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 315235,
+"hot": [
+{
+"name": "의료기기",
+"n": 6,
+"lead": "HLB생명과학",
+"lead_ret": 19.1,
+"second": "한국비엔씨",
+"second_ret": 18.16
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "SK바이오사이언스",
+"lead_ret": 18.31,
+"second": "한국비엔씨",
+"second_ret": 18.16
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "HLB제약",
+"lead_ret": 16.33,
+"second": "인벤티지랩",
+"second_ret": 12.95
+}
+],
+"themes": [
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 3.61,
+"up5": 11,
+"lead": "티움바이오",
+"lead_ret": 15.63,
+"second": "HLB",
+"second_ret": 13.68
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 3.17,
+"up5": 8,
+"lead": "SK바이오사이언스",
+"lead_ret": 18.31,
+"second": "한국비엔씨",
+"second_ret": 18.16
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.03,
+"up5": 4,
+"lead": "인벤티지랩",
+"lead_ret": 12.95,
+"second": "올릭스",
+"second_ret": 7.02
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.94,
+"up5": 1,
+"lead": "이오테크닉스",
+"lead_ret": 20.53,
+"second": "티씨케이",
+"second_ret": 3.03
+},
+{
+"name": "비만치료제",
+"n": 37,
+"avg": 2.91,
+"up5": 7,
+"lead": "한국비엔씨",
+"lead_ret": 18.16,
+"second": "HLB제약",
+"second_ret": 16.33
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.51,
+"up5": 4,
+"lead": "팬젠",
+"lead_ret": 7.09,
+"second": "이수앱지스",
+"second_ret": 7.05
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.44,
+"up5": 2,
+"lead": "국전",
+"lead_ret": 6.15,
+"second": "수젠텍",
+"second_ret": 5.61
+},
+{
+"name": "치매",
+"n": 50,
+"avg": 2.43,
+"up5": 10,
+"lead": "HLB제약",
+"lead_ret": 16.33,
+"second": "인벤티지랩",
+"second_ret": 12.95
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 2.38,
+"up5": 8,
+"lead": "SK바이오사이언스",
+"lead_ret": 18.31,
+"second": "프로티아",
+"second_ret": 13.93
+},
+{
+"name": "유전자 치료제/분석",
+"n": 38,
+"avg": 2.32,
+"up5": 6,
+"lead": "지노믹트리",
+"lead_ret": 17.16,
+"second": "티움바이오",
+"second_ret": 15.63
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 2.29,
+"up5": 11,
+"lead": "SK바이오사이언스",
+"lead_ret": 18.31,
+"second": "한국비엔씨",
+"second_ret": 18.16
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 2.28,
+"up5": 1,
+"lead": "HLB생명과학",
+"lead_ret": 19.1,
+"second": "안트로젠",
+"second_ret": 4.28
+}
+],
+"themes_worst": [
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -3.36,
+"up5": 0,
+"lead": "범한퓨얼셀",
+"lead_ret": 4.9,
+"second": "HD현대마린솔루션",
+"second_ret": 1.45
+},
+{
+"name": "증권",
+"n": 21,
+"avg": -3.25,
+"up5": 0,
+"lead": "코리아에셋투자증권",
+"lead_ret": 2.75,
+"second": "유화증권",
+"second_ret": -0.74
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -3.23,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -0.86,
+"second": "한화오션",
+"second_ret": -1.59
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -3.13,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -0.66,
+"second": "삼성전기",
+"second_ret": -1.65
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -3.11,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": -0.12,
+"second": "한국선재",
+"second_ret": -2.07
+}
+],
+"leaders": [
+{
+"name": "노타",
+"code": "486990",
+"ret": 30.0,
+"value": 8548,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "강원에너지",
+"code": "114190",
+"ret": 18.02,
+"value": 3518,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 12.05,
+"value": 2563,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 13.68,
+"value": 2417,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "이오테크닉스",
+"code": "039030",
+"ret": 20.53,
+"value": 1919,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

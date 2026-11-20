@@ -1,0 +1,254 @@
+{
+"date": "20210927",
+"kospi": 0.27,
+"kosdaq": -0.21,
+"adv": 1018,
+"dec": 837,
+"flat": 177,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 215318,
+"hot": [
+{
+"name": "남북경협",
+"n": 5,
+"lead": "제이에스티나",
+"lead_ret": 29.94,
+"second": "신원",
+"second_ret": 16.23
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "후성",
+"lead_ret": 15.21,
+"second": "국전",
+"second_ret": 14.88
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "상신이디피",
+"lead_ret": 19.1,
+"second": "후성",
+"second_ret": 15.21
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.26,
+"up5": 3,
+"lead": "데브시스터즈",
+"lead_ret": 14.32,
+"second": "에피소드컴퍼니",
+"second_ret": 11.3
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 5.9,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 29.9,
+"second": "한국팩키지",
+"second_ret": 5.63
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 4.53,
+"up5": 6,
+"lead": "삼륭물산",
+"lead_ret": 29.9,
+"second": "코아스",
+"second_ret": 8.79
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 4.25,
+"up5": 9,
+"lead": "제이에스티나",
+"lead_ret": 29.94,
+"second": "신원",
+"second_ret": 16.23
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.87,
+"up5": 2,
+"lead": "이건홀딩스",
+"lead_ret": 19.7,
+"second": "자연과환경",
+"second_ret": 7.53
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 3.87,
+"up5": 2,
+"lead": "이건홀딩스",
+"lead_ret": 19.7,
+"second": "자연과환경",
+"second_ret": 7.53
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.6,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 13.47,
+"second": "흥구석유",
+"second_ret": 5.8
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.6,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 13.47,
+"second": "흥구석유",
+"second_ret": 5.8
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.97,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 9.69,
+"second": "콜마바이오텍",
+"second_ret": 4.18
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.89,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 13.47,
+"second": "흥구석유",
+"second_ret": 5.8
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.86,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.8,
+"second": "극동유화",
+"second_ret": 4.55
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.86,
+"up5": 2,
+"lead": "EG",
+"lead_ret": 8.43,
+"second": "팬스타엔터프라이즈",
+"second_ret": 6.15
+}
+],
+"themes_worst": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.21,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 2.96,
+"second": "하나금융지주",
+"second_ret": -0.45
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.28,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 0.49,
+"second": "삼성중공업",
+"second_ret": 0.16
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -1.28,
+"up5": 0,
+"lead": "컴투스홀딩스",
+"lead_ret": 3.96,
+"second": "SGA솔루션즈",
+"second_ret": 1.55
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -1.22,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 5.45,
+"second": "대한해운",
+"second_ret": 3.09
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.2,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 2.61,
+"second": "보령",
+"second_ret": 2.14
+}
+],
+"leaders": [
+{
+"name": "신원",
+"code": "009270",
+"ret": 16.23,
+"value": 5001,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 15.21,
+"value": 4788,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "롯데에너지머티리얼즈",
+"code": "020150",
+"ret": 14.07,
+"value": 3121,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "일성건설",
+"code": "013360",
+"ret": 29.96,
+"value": 1985,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 14.88,
+"value": 1883,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

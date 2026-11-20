@@ -1,0 +1,254 @@
+{
+"date": "20241127",
+"kospi": -0.69,
+"kosdaq": -0.17,
+"adv": 881,
+"dec": 1307,
+"flat": 122,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 152480,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 6,
+"lead": "폴라리스AI",
+"lead_ret": 30.0,
+"second": "SKAI",
+"second_ret": 29.84
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "좋은사람들",
+"lead_ret": 29.88,
+"second": "일신석재",
+"second_ret": 14.94
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "이스트에이드",
+"lead_ret": 29.96,
+"second": "씨메스로보틱스",
+"second_ret": 16.38
+}
+],
+"themes": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 29,
+"avg": 6.43,
+"up5": 11,
+"lead": "폴라리스AI",
+"lead_ret": 30.0,
+"second": "SKAI",
+"second_ret": 29.84
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 6.05,
+"up5": 4,
+"lead": "이스트소프트",
+"lead_ret": 28.02,
+"second": "M83",
+"second_ret": 24.76
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 5.09,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 19.18,
+"second": "유라클",
+"second_ret": 4.43
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 4.18,
+"up5": 8,
+"lead": "인디에프",
+"lead_ret": 29.95,
+"second": "좋은사람들",
+"second_ret": 29.88
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 3.85,
+"up5": 3,
+"lead": "쿠콘",
+"lead_ret": 19.18,
+"second": "파수AI",
+"second_ret": 7.62
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 57,
+"avg": 3.55,
+"up5": 14,
+"lead": "이스트에이드",
+"lead_ret": 29.96,
+"second": "위세아이텍",
+"second_ret": 18.85
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.5,
+"up5": 1,
+"lead": "부산산업",
+"lead_ret": 29.93,
+"second": "특수건설",
+"second_ret": 0.95
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.09,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 14.62,
+"second": "한화오션",
+"second_ret": 1.11
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.06,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 18.71,
+"second": "지씨셀",
+"second_ret": 1.18
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.68,
+"up5": 1,
+"lead": "이스트에이드",
+"lead_ret": 29.96,
+"second": "NAVER",
+"second_ret": 3.78
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 23,
+"avg": 2.41,
+"up5": 5,
+"lead": "위세아이텍",
+"lead_ret": 18.85,
+"second": "폴라리스오피스",
+"second_ret": 17.78
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.35,
+"up5": 3,
+"lead": "폴라리스AI",
+"lead_ret": 30.0,
+"second": "HJ중공업",
+"second_ret": 14.62
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -4.19,
+"up5": 0,
+"lead": "국전",
+"lead_ret": 0.26,
+"second": "레이언스",
+"second_ret": -0.61
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.3,
+"up5": 0,
+"lead": "로스웰",
+"lead_ret": 0.31,
+"second": "오가닉티코스메틱",
+"second_ret": 0.0
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -3.28,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 0.4,
+"second": "탑엔지니어링",
+"second_ret": -0.72
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -2.98,
+"up5": 0,
+"lead": "엘티씨",
+"lead_ret": 0.54,
+"second": "SFA",
+"second_ret": 0.0
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.97,
+"up5": 0,
+"lead": "티에프이",
+"lead_ret": 2.95,
+"second": "LB인베스트먼트",
+"second_ret": 0.27
+}
+],
+"leaders": [
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 17.78,
+"value": 2601,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "이스트소프트",
+"code": "047560",
+"ret": 28.02,
+"value": 1692,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "폴라리스AI",
+"code": "039980",
+"ret": 30.0,
+"value": 1295,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "일신석재",
+"code": "007110",
+"ret": 14.94,
+"value": 1222,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "M83",
+"code": "476080",
+"ret": 24.76,
+"value": 963,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230427",
+"kospi": 0.44,
+"kosdaq": 2.38,
+"adv": 1092,
+"dec": 927,
+"flat": 131,
+"limit_up": 3,
+"limit_down": 4,
+"value_total": 198067,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 5,
+"lead": "삼화전자",
+"lead_ret": 29.84,
+"second": "아진산업",
+"second_ret": 13.8
+},
+{
+"name": "전기차",
+"n": 5,
+"lead": "삼화전자",
+"lead_ret": 29.84,
+"second": "아진산업",
+"second_ret": 13.8
+},
+{
+"name": "화장품",
+"n": 5,
+"lead": "휴엠앤씨",
+"lead_ret": 30.0,
+"second": "오상자이엘",
+"second_ret": 20.49
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 6.05,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 18.36,
+"second": "에코프로비엠",
+"second_ret": 11.13
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 5.29,
+"up5": 5,
+"lead": "HD건설기계",
+"lead_ret": 14.7,
+"second": "대창단조",
+"second_ret": 10.98
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.51,
+"up5": 8,
+"lead": "이브이첨단소재",
+"lead_ret": 29.98,
+"second": "석경에이티",
+"second_ret": 7.55
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.4,
+"up5": 5,
+"lead": "삼화전자",
+"lead_ret": 29.84,
+"second": "삼화전기",
+"second_ret": 10.45
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 4.4,
+"up5": 5,
+"lead": "삼화전자",
+"lead_ret": 29.84,
+"second": "삼화전기",
+"second_ret": 10.45
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.36,
+"up5": 7,
+"lead": "에코프로",
+"lead_ret": 18.36,
+"second": "미래산업",
+"second_ret": 9.82
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 3.38,
+"up5": 1,
+"lead": "삼화전자",
+"lead_ret": 29.84,
+"second": "POSCO홀딩스",
+"second_ret": 4.17
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 3.27,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 18.36,
+"second": "SJG세종",
+"second_ret": 9.48
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.22,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 18.36,
+"second": "원익피앤이",
+"second_ret": 7.65
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 3.16,
+"up5": 9,
+"lead": "한울반도체",
+"lead_ret": 14.57,
+"second": "윤성에프앤씨",
+"second_ret": 10.41
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.09,
+"up5": 1,
+"lead": "제이오",
+"lead_ret": 8.76,
+"second": "상보",
+"second_ret": 3.9
+},
+{
+"name": "2차전지",
+"n": 120,
+"avg": 2.68,
+"up5": 21,
+"lead": "에코프로",
+"lead_ret": 18.36,
+"second": "한울반도체",
+"second_ret": 14.57
+}
+],
+"themes_worst": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": -11.68,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 0.75,
+"second": "경동도시가스",
+"second_ret": -0.23
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -9.85,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.7,
+"second": "포바이포",
+"second_ret": 0.88
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -4.64,
+"up5": 0,
+"lead": "경동나비엔",
+"lead_ret": 3.25,
+"second": "광동제약",
+"second_ret": 1.05
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": -4.55,
+"up5": 0,
+"lead": "제이에스링크",
+"lead_ret": 3.24,
+"second": "폴라리스오피스",
+"second_ret": 1.82
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": -4.22,
+"up5": 0,
+"lead": "뷰웍스",
+"lead_ret": 2.58,
+"second": "나노엔텍",
+"second_ret": 1.81
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 18.36,
+"value": 18867,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 11.13,
+"value": 8013,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이브이첨단소재",
+"code": "131400",
+"ret": 29.98,
+"value": 3396,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "아진산업",
+"code": "013310",
+"ret": 13.8,
+"value": 2152,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 18.38,
+"value": 1604,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

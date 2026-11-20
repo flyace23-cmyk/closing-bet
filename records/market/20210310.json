@@ -1,0 +1,238 @@
+{
+"date": "20210310",
+"kospi": -0.6,
+"kosdaq": -0.7,
+"adv": 509,
+"dec": 1338,
+"flat": 140,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 262750,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "티에스아이",
+"lead_ret": 25.29,
+"second": "TCC스틸",
+"second_ret": 9.38
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 9,
+"avg": 4.78,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 29.8,
+"second": "푸드나무",
+"second_ret": 4.0
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.69,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 9.97,
+"second": "HMM",
+"second_ret": 8.68
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.71,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 29.8,
+"second": "이지홀딩스",
+"second_ret": 3.12
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.92,
+"up5": 4,
+"lead": "팜스토리",
+"lead_ret": 29.8,
+"second": "이지바이오",
+"second_ret": 10.39
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.7,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.85,
+"second": "카카오",
+"second_ret": 4.31
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.33,
+"up5": 2,
+"lead": "한일화학",
+"lead_ret": 29.73,
+"second": "삼화전기",
+"second_ret": 9.65
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.33,
+"up5": 2,
+"lead": "한일화학",
+"lead_ret": 29.73,
+"second": "삼화전기",
+"second_ret": 9.65
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.15,
+"up5": 2,
+"lead": "팜스토리",
+"lead_ret": 29.8,
+"second": "우성",
+"second_ret": 5.65
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 1.84,
+"up5": 3,
+"lead": "팜스토리",
+"lead_ret": 29.8,
+"second": "이지바이오",
+"second_ret": 10.39
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 1.67,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.85,
+"second": "인포바인",
+"second_ret": 1.26
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.31,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 29.85,
+"second": "빌리언스",
+"second_ret": 10.94
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.22,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": 4.42,
+"second": "신세계",
+"second_ret": 1.2
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -3.88,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": -1.69,
+"second": "NICE인프라",
+"second_ret": -2.69
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -3.47,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": -0.37,
+"second": "한화투자증권",
+"second_ret": -0.38
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -3.4,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": 0.3,
+"second": "한국철강",
+"second_ret": 0.0
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.22,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": -0.19,
+"second": "TKG휴켐스",
+"second_ret": -1.83
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -3.1,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": 0.4,
+"second": "GRT",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 29.8,
+"value": 4223,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 29.85,
+"value": 2473,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 19.83,
+"value": 1834,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "신원종합개발",
+"code": "017000",
+"ret": 19.85,
+"value": 1514,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "모베이스",
+"code": "101330",
+"ret": 14.0,
+"value": 1327,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

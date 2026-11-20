@@ -1,0 +1,254 @@
+{
+"date": "20230217",
+"kospi": -0.98,
+"kosdaq": -1.16,
+"adv": 728,
+"dec": 1287,
+"flat": 122,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 162630,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "유니온머티리얼",
+"lead_ret": 16.51,
+"second": "성우하이텍",
+"second_ret": 11.72
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 4,
+"lead": "유니온",
+"lead_ret": 29.89,
+"second": "유니온머티리얼",
+"second_ret": 16.51
+},
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "현대비앤지스틸",
+"lead_ret": 10.74,
+"second": "NI스틸",
+"second_ret": 6.69
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 9.59,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 29.89,
+"second": "유니온머티리얼",
+"second_ret": 16.51
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 5.21,
+"up5": 6,
+"lead": "유니온",
+"lead_ret": 29.89,
+"second": "유니온머티리얼",
+"second_ret": 16.51
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.24,
+"up5": 2,
+"lead": "세아베스틸지주",
+"lead_ret": 7.72,
+"second": "KG스틸",
+"second_ret": 7.31
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.2,
+"up5": 3,
+"lead": "진성티이씨",
+"lead_ret": 7.17,
+"second": "동일금속",
+"second_ret": 5.9
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 2.89,
+"up5": 5,
+"lead": "아이에스동서",
+"lead_ret": 23.9,
+"second": "영화테크",
+"second_ret": 6.9
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.57,
+"up5": 2,
+"lead": "하이스틸",
+"lead_ret": 6.55,
+"second": "휴스틸",
+"second_ret": 6.5
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 2.53,
+"up5": 4,
+"lead": "아이에스동서",
+"lead_ret": 23.9,
+"second": "BYC",
+"second_ret": 20.23
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.51,
+"up5": 2,
+"lead": "웰크론한텍",
+"lead_ret": 5.46,
+"second": "인선이엔티",
+"second_ret": 5.15
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.23,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 16.51,
+"second": "미래나노텍",
+"second_ret": 13.57
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.23,
+"up5": 3,
+"lead": "유니온머티리얼",
+"lead_ret": 16.51,
+"second": "미래나노텍",
+"second_ret": 13.57
+},
+{
+"name": "철강 중소형",
+"n": 32,
+"avg": 2.16,
+"up5": 5,
+"lead": "현대비앤지스틸",
+"lead_ret": 10.74,
+"second": "NI스틸",
+"second_ret": 6.69
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.06,
+"up5": 2,
+"lead": "하이스틸",
+"lead_ret": 6.55,
+"second": "휴스틸",
+"second_ret": 6.5
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": -4.37,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.73,
+"second": "오픈엣지테크놀로지",
+"second_ret": -3.03
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -3.0,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": -0.21,
+"second": "데브시스터즈",
+"second_ret": -1.29
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -2.77,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.74,
+"second": "아이티센글로벌",
+"second_ret": -0.72
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": -2.59,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": -0.91,
+"second": "SK하이닉스",
+"second_ret": -0.97
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 9,
+"avg": -2.38,
+"up5": 0,
+"lead": "이스트소프트",
+"lead_ret": 1.63,
+"second": "스톤브릿지벤처스",
+"second_ret": 0.18
+}
+],
+"leaders": [
+{
+"name": "셀바스AI",
+"code": "108860",
+"ret": 14.93,
+"value": 4547,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 13.57,
+"value": 4434,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "아이에스동서",
+"code": "010780",
+"ret": 23.9,
+"value": 2281,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+},
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 11.72,
+"value": 2185,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "유니온머티리얼",
+"code": "047400",
+"ret": 16.51,
+"value": 2046,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20251118",
+"kospi": -3.32,
+"kosdaq": -2.66,
+"adv": 248,
+"dec": 2081,
+"flat": 58,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 211261,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 20.0,
+"second": "셀바스헬스케어",
+"second_ret": 8.46
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "육일씨엔에쓰",
+"lead_ret": 8.49,
+"second": "티에이치엔",
+"second_ret": 4.75
+},
+{
+"name": "탈모 치료",
+"n": 3,
+"lead": "삼익제약",
+"lead_ret": 29.77,
+"second": "인벤티지랩",
+"second_ret": 9.68
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 1.79,
+"up5": 1,
+"lead": "노랑풍선",
+"lead_ret": 19.92,
+"second": "참좋은여행",
+"second_ret": 4.88
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 0.61,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 20.0,
+"second": "드림씨아이에스",
+"second_ret": 2.16
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.44,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 2.88,
+"second": "롯데관광개발",
+"second_ret": 1.7
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 0.44,
+"up5": 0,
+"lead": "파라다이스",
+"lead_ret": 2.88,
+"second": "롯데관광개발",
+"second_ret": 1.7
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 0.1,
+"up5": 1,
+"lead": "GS피앤엘",
+"lead_ret": 10.65,
+"second": "서부T&D",
+"second_ret": 4.76
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.09,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": 2.02,
+"second": "신세계",
+"second_ret": 0.0
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -0.2,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 10.02,
+"second": "비츠로시스",
+"second_ret": 0.0
+},
+{
+"name": "탈모 치료",
+"n": 27,
+"avg": -0.46,
+"up5": 4,
+"lead": "삼익제약",
+"lead_ret": 29.77,
+"second": "인벤티지랩",
+"second_ret": 9.68
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -0.6,
+"up5": 0,
+"lead": "아센디오",
+"lead_ret": 1.64,
+"second": "콘텐트리중앙",
+"second_ret": 0.54
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -0.72,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 0.64,
+"second": "신세계",
+"second_ret": 0.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.73,
+"up5": 1,
+"lead": "엔피케이",
+"lead_ret": 7.11,
+"second": "극동유화",
+"second_ret": -0.91
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -0.83,
+"up5": 1,
+"lead": "인벤티지랩",
+"lead_ret": 9.68,
+"second": "아이진",
+"second_ret": 1.36
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -5.63,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 2.01,
+"second": "데브시스터즈",
+"second_ret": -3.39
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -5.07,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 1.78,
+"second": "에스앤더블류",
+"second_ret": -2.46
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -4.98,
+"up5": 0,
+"lead": "웹케시",
+"lead_ret": -2.36,
+"second": "갤럭시아머니트리",
+"second_ret": -3.91
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.93,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -3.24,
+"second": "KBI메탈",
+"second_ret": -3.62
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.71,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 1.82,
+"second": "나인테크",
+"second_ret": -4.11
+}
+],
+"leaders": [
+{
+"name": "재영솔루텍",
+"code": "049630",
+"ret": 11.9,
+"value": 1617,
+"theme": "카메라모듈/부품",
+"reason": "테마: 카메라모듈/부품"
+},
+{
+"name": "노랑풍선",
+"code": "104620",
+"ret": 19.92,
+"value": 1395,
+"theme": "여행",
+"reason": "테마: 여행"
+},
+{
+"name": "쎄크",
+"code": "081180",
+"ret": 15.07,
+"value": 1058,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼익제약",
+"code": "014950",
+"ret": 29.77,
+"value": 872,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "지구홀딩스",
+"code": "221800",
+"ret": 30.0,
+"value": 555,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

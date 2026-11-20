@@ -1,0 +1,254 @@
+{
+"date": "20231102",
+"kospi": 1.81,
+"kosdaq": 4.55,
+"adv": 1817,
+"dec": 304,
+"flat": 80,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 140131,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "에프에스티",
+"lead_ret": 19.67,
+"second": "지아이에스",
+"second_ret": 18.12
+},
+{
+"name": "의료기기",
+"n": 5,
+"lead": "뷰노",
+"lead_ret": 19.55,
+"second": "엘앤케이바이오",
+"second_ret": 18.38
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에코프로비엠",
+"lead_ret": 15.06,
+"second": "인텍플러스",
+"second_ret": 14.18
+}
+],
+"themes": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": 8.02,
+"up5": 6,
+"lead": "지아이에스",
+"lead_ret": 18.12,
+"second": "프로텍",
+"second_ret": 13.43
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 7.72,
+"up5": 17,
+"lead": "제주반도체",
+"lead_ret": 22.39,
+"second": "유니퀘스트",
+"second_ret": 12.9
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 7.19,
+"up5": 8,
+"lead": "ISC",
+"lead_ret": 16.16,
+"second": "티에프이",
+"second_ret": 12.2
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 6.67,
+"up5": 21,
+"lead": "ISC",
+"lead_ret": 16.16,
+"second": "디아이티",
+"second_ret": 12.27
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 6.49,
+"up5": 9,
+"lead": "인텍플러스",
+"lead_ret": 14.18,
+"second": "기가비스",
+"second_ret": 11.02
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 6.48,
+"up5": 11,
+"lead": "뷰노",
+"lead_ret": 19.55,
+"second": "루닛",
+"second_ret": 17.45
+},
+{
+"name": "반도체 장비",
+"n": 87,
+"avg": 6.39,
+"up5": 52,
+"lead": "에프에스티",
+"lead_ret": 19.67,
+"second": "지아이에스",
+"second_ret": 18.12
+},
+{
+"name": "시스템반도체",
+"n": 50,
+"avg": 6.06,
+"up5": 28,
+"lead": "하나마이크론",
+"lead_ret": 16.83,
+"second": "동운아나텍",
+"second_ret": 16.28
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": 6.05,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 9.99,
+"second": "네패스아크",
+"second_ret": 9.15
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 5.79,
+"up5": 3,
+"lead": "지아이에스",
+"lead_ret": 18.12,
+"second": "코스모신소재",
+"second_ret": 9.68
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 5.74,
+"up5": 3,
+"lead": "에코프로비엠",
+"lead_ret": 15.06,
+"second": "에코프로",
+"second_ret": 8.71
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 5.42,
+"up5": 3,
+"lead": "프로텍",
+"lead_ret": 13.43,
+"second": "아이씨에이치",
+"second_ret": 11.66
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.77,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 1.25,
+"second": "흥국화재",
+"second_ret": 0.66
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -2.37,
+"up5": 0,
+"lead": "대영포장",
+"lead_ret": 2.12,
+"second": "한국수출포장",
+"second_ret": 1.49
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.58,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 2.5,
+"second": "진에어",
+"second_ret": 0.36
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.46,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 1.81,
+"second": "코텍",
+"second_ret": 0.44
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.46,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": 1.81,
+"second": "코텍",
+"second_ret": 0.44
+}
+],
+"leaders": [
+{
+"name": "지구홀딩스",
+"code": "221800",
+"ret": 25.92,
+"value": 3392,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 15.06,
+"value": 3075,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 11.13,
+"value": 2909,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 16.83,
+"value": 2411,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "루닛",
+"code": "328130",
+"ret": 17.45,
+"value": 2053,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

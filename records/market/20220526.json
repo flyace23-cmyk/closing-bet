@@ -1,0 +1,254 @@
+{
+"date": "20220526",
+"kospi": -0.18,
+"kosdaq": -0.14,
+"adv": 853,
+"dec": 997,
+"flat": 230,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 145826,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 9,
+"lead": "SDN",
+"lead_ret": 29.85,
+"second": "신성이엔지",
+"second_ret": 19.68
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "OCI홀딩스",
+"lead_ret": 14.88,
+"second": "컴투스홀딩스",
+"second_ret": 12.01
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "썸에이지",
+"lead_ret": 29.67,
+"second": "컴투스홀딩스",
+"second_ret": 12.01
+}
+],
+"themes": [
+{
+"name": "태양광에너지",
+"n": 38,
+"avg": 3.45,
+"up5": 10,
+"lead": "SDN",
+"lead_ret": 29.85,
+"second": "신성이엔지",
+"second_ret": 19.68
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.38,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 19.68,
+"second": "케이엔솔",
+"second_ret": 3.64
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.08,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 5.85,
+"second": "HD현대중공업",
+"second_ret": 5.31
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.92,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 13.07,
+"second": "한화솔루션",
+"second_ret": 9.97
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.89,
+"up5": 1,
+"lead": "지에스이",
+"lead_ret": 6.55,
+"second": "한국가스공사",
+"second_ret": 4.83
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.49,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 19.68,
+"second": "네오위즈",
+"second_ret": 4.29
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 2.44,
+"up5": 1,
+"lead": "태웅로직스",
+"lead_ret": 29.87,
+"second": "인터지스",
+"second_ret": 2.29
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 1.99,
+"up5": 1,
+"lead": "키다리스튜디오",
+"lead_ret": 12.33,
+"second": "디앤씨미디어",
+"second_ret": 4.22
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 1.91,
+"up5": 4,
+"lead": "썸에이지",
+"lead_ret": 29.67,
+"second": "컴투스홀딩스",
+"second_ret": 12.01
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.66,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.0,
+"second": "파라다이스",
+"second_ret": 3.65
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.66,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 4.0,
+"second": "파라다이스",
+"second_ret": 3.65
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 1.6,
+"up5": 2,
+"lead": "컴투스홀딩스",
+"lead_ret": 12.01,
+"second": "네오위즈홀딩스",
+"second_ret": 5.09
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -2.98,
+"up5": 0,
+"lead": "광전자",
+"lead_ret": 2.42,
+"second": "루멘스바이오스",
+"second_ret": 0.0
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -2.32,
+"up5": 1,
+"lead": "대한제당",
+"lead_ret": 7.03,
+"second": "애드바이오텍",
+"second_ret": 0.4
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -1.93,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 1.17,
+"second": "대동금속",
+"second_ret": 0.0
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": -1.79,
+"up5": 0,
+"lead": "대교",
+"lead_ret": -0.57,
+"second": "삼성전자",
+"second_ret": -0.75
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -1.77,
+"up5": 0,
+"lead": "쿠쿠홈시스",
+"lead_ret": 0.64,
+"second": "신일전자",
+"second_ret": 0.21
+}
+],
+"leaders": [
+{
+"name": "OCI홀딩스",
+"code": "010060",
+"ret": 14.88,
+"value": 3200,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 19.68,
+"value": 2365,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "SDN",
+"code": "099220",
+"ret": 29.85,
+"value": 2008,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 13.62,
+"value": 1809,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 12.01,
+"value": 1611,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

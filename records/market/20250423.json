@@ -1,0 +1,254 @@
+{
+"date": "20250423",
+"kospi": 1.57,
+"kosdaq": 1.39,
+"adv": 1526,
+"dec": 680,
+"flat": 142,
+"limit_up": 8,
+"limit_down": 1,
+"value_total": 138002,
+"hot": [
+{
+"name": "전기차",
+"n": 4,
+"lead": "엘앤에프",
+"lead_ret": 12.29,
+"second": "모티브링크",
+"second_ret": 10.43
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "한미반도체",
+"lead_ret": 14.29,
+"second": "테크윙",
+"second_ret": 11.8
+},
+{
+"name": "태양광에너지",
+"n": 3,
+"lead": "에이전트AI",
+"lead_ret": 15.29,
+"second": "SK이터닉스",
+"second_ret": 10.28
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.69,
+"up5": 4,
+"lead": "가온전선",
+"lead_ret": 15.04,
+"second": "대원전선",
+"second_ret": 8.1
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.95,
+"up5": 8,
+"lead": "엔켐",
+"lead_ret": 10.01,
+"second": "성일하이텍",
+"second_ret": 9.61
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 4.75,
+"up5": 5,
+"lead": "더블유씨피",
+"lead_ret": 8.56,
+"second": "메가터치",
+"second_ret": 7.49
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.42,
+"up5": 5,
+"lead": "범한퓨얼셀",
+"lead_ret": 10.74,
+"second": "SK이터닉스",
+"second_ret": 10.28
+},
+{
+"name": "전력설비",
+"n": 33,
+"avg": 4.13,
+"up5": 7,
+"lead": "바이오스마트",
+"lead_ret": 29.87,
+"second": "위너스일렉",
+"second_ret": 24.43
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 4.07,
+"up5": 3,
+"lead": "한미반도체",
+"lead_ret": 14.29,
+"second": "와이제이링크",
+"second_ret": 11.49
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 3.92,
+"up5": 3,
+"lead": "삼륭물산",
+"lead_ret": 29.95,
+"second": "율촌화학",
+"second_ret": 8.66
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 3.92,
+"up5": 23,
+"lead": "엘앤에프",
+"lead_ret": 12.29,
+"second": "대주전자재료",
+"second_ret": 10.04
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 3.91,
+"up5": 7,
+"lead": "대주전자재료",
+"lead_ret": 10.04,
+"second": "덕산테코피아",
+"second_ret": 8.78
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.81,
+"up5": 9,
+"lead": "한미반도체",
+"lead_ret": 14.29,
+"second": "테크윙",
+"second_ret": 11.8
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 3.77,
+"up5": 5,
+"lead": "대주전자재료",
+"lead_ret": 10.04,
+"second": "유니테스트",
+"second_ret": 7.84
+},
+{
+"name": "증강현실(AR)",
+"n": 19,
+"avg": 3.73,
+"up5": 4,
+"lead": "버넥트",
+"lead_ret": 29.99,
+"second": "사피엔반도체",
+"second_ret": 7.43
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -11.69,
+"up5": 0,
+"lead": "아이티센글로벌",
+"lead_ret": -2.98,
+"second": "와이즈넛",
+"second_ret": -3.35
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -6.2,
+"up5": 0,
+"lead": "메가엠디",
+"lead_ret": -0.58,
+"second": "사람인",
+"second_ret": -2.72
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -5.69,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 0.12,
+"second": "쿠콘",
+"second_ret": -4.72
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -3.26,
+"up5": 0,
+"lead": "CJ CGV",
+"lead_ret": 2.25,
+"second": "쎄니트",
+"second_ret": 0.5
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": -2.75,
+"up5": 0,
+"lead": "GMI벤처",
+"lead_ret": 4.75,
+"second": "우리기술투자",
+"second_ret": 3.9
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 14.29,
+"value": 3880,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "심플랫폼",
+"code": "444530",
+"ret": 18.1,
+"value": 2301,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "위너스일렉",
+"code": "479960",
+"ret": 24.43,
+"value": 1936,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+},
+{
+"name": "신라젠",
+"code": "215600",
+"ret": 29.97,
+"value": 1159,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "모티브링크",
+"code": "463480",
+"ret": 10.43,
+"value": 1076,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

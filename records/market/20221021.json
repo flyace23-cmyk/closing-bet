@@ -1,0 +1,246 @@
+{
+"date": "20221021",
+"kospi": -0.22,
+"kosdaq": -0.88,
+"adv": 364,
+"dec": 1611,
+"flat": 134,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 100996,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "글로벌에스엠",
+"lead_ret": 18.39,
+"second": "신흥에스이씨",
+"second_ret": 15.41
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "샤페론",
+"lead_ret": 29.92,
+"second": "대화제약",
+"second_ret": 12.62
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 4.97,
+"up5": 2,
+"lead": "삼륭물산",
+"lead_ret": 29.99,
+"second": "한국팩키지",
+"second_ret": 19.21
+},
+{
+"name": "비만치료제",
+"n": 32,
+"avg": 1.04,
+"up5": 3,
+"lead": "샤페론",
+"lead_ret": 29.92,
+"second": "대화제약",
+"second_ret": 12.62
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 0.87,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 6.45,
+"second": "삼성전자",
+"second_ret": 0.72
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 0.77,
+"up5": 2,
+"lead": "더블유씨피",
+"lead_ret": 8.76,
+"second": "삼성SDI",
+"second_ret": 6.45
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 0.38,
+"up5": 1,
+"lead": "삼륭물산",
+"lead_ret": 29.99,
+"second": "후성",
+"second_ret": 0.42
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 0.37,
+"up5": 2,
+"lead": "와이즈버즈",
+"lead_ret": 20.94,
+"second": "FSN",
+"second_ret": 14.24
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 0.18,
+"up5": 1,
+"lead": "무림페이퍼",
+"lead_ret": 6.85,
+"second": "신풍",
+"second_ret": 2.34
+},
+{
+"name": "소매유통",
+"n": 16,
+"avg": 0.15,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 9.36,
+"second": "BGF리테일",
+"second_ret": 3.98
+},
+{
+"name": "보안주(물리)",
+"n": 15,
+"avg": 0.07,
+"up5": 1,
+"lead": "픽셀플러스",
+"lead_ret": 5.9,
+"second": "에스원",
+"second_ret": 1.34
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 0.02,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": 1.14,
+"second": "토마토시스템",
+"second_ret": 0.91
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.01,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.72,
+"second": "삼성전기",
+"second_ret": 0.43
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 25,
+"avg": -0.01,
+"up5": 3,
+"lead": "샤페론",
+"lead_ret": 29.92,
+"second": "국전",
+"second_ret": 8.67
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -5.05,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 0.0,
+"second": "위드텍",
+"second_ret": -0.84
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -4.67,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 0.54,
+"second": "트리니티항공",
+"second_ret": -0.6
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -4.31,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.9,
+"second": "IPARK현대산업개발",
+"second_ret": -2.88
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.79,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": -0.48,
+"second": "롯데정밀화학",
+"second_ret": -1.53
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": -3.64,
+"up5": 0,
+"lead": "삼현철강",
+"lead_ret": -0.11,
+"second": "특수건설",
+"second_ret": -1.13
+}
+],
+"leaders": [
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 29.92,
+"value": 1851,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "대화제약",
+"code": "067080",
+"ret": 12.62,
+"value": 719,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "FSN",
+"code": "214270",
+"ret": 14.24,
+"value": 647,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 19.15,
+"value": 630,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "경동인베스트",
+"code": "012320",
+"ret": 29.96,
+"value": 460,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

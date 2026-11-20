@@ -1,0 +1,254 @@
+{
+"date": "20211005",
+"kospi": -1.89,
+"kosdaq": -2.83,
+"adv": 339,
+"dec": 1611,
+"flat": 85,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 273508,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 6,
+"lead": "컴투스홀딩스",
+"lead_ret": 18.82,
+"second": "위메이드",
+"second_ret": 17.36
+},
+{
+"name": "자원개발",
+"n": 4,
+"lead": "비엘팜텍",
+"lead_ret": 19.19,
+"second": "대성산업",
+"second_ret": 9.77
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "우리산업홀딩스",
+"lead_ret": 29.93,
+"second": "컴투스홀딩스",
+"second_ret": 18.82
+}
+],
+"themes": [
+{
+"name": "자원개발",
+"n": 13,
+"avg": 4.11,
+"up5": 4,
+"lead": "비엘팜텍",
+"lead_ret": 19.19,
+"second": "대성산업",
+"second_ret": 9.77
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.14,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.87,
+"second": "강원랜드",
+"second_ret": 3.52
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 3.14,
+"up5": 1,
+"lead": "롯데관광개발",
+"lead_ret": 5.87,
+"second": "강원랜드",
+"second_ret": 3.52
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.01,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 14.58,
+"second": "대성산업",
+"second_ret": 9.77
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.01,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 14.58,
+"second": "대성산업",
+"second_ret": 9.77
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.65,
+"up5": 2,
+"lead": "JTC",
+"lead_ret": 8.32,
+"second": "글로벌텍스프리",
+"second_ret": 7.08
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.36,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 4.87,
+"second": "신세계",
+"second_ret": 3.54
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.35,
+"up5": 4,
+"lead": "우신시스템",
+"lead_ret": 29.87,
+"second": "우리산업",
+"second_ret": 9.87
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.31,
+"up5": 1,
+"lead": "진에어",
+"lead_ret": 6.62,
+"second": "티웨이홀딩스",
+"second_ret": 3.2
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.3,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 12.03,
+"second": "유니온",
+"second_ret": 4.76
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.26,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 14.58,
+"second": "대성산업",
+"second_ret": 9.77
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.23,
+"up5": 0,
+"lead": "대성에너지",
+"lead_ret": 4.25,
+"second": "삼천리",
+"second_ret": 3.8
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -8.71,
+"up5": 0,
+"lead": "한미약품",
+"lead_ret": -2.82,
+"second": "한미사이언스",
+"second_ret": -3.36
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -7.8,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": -2.2,
+"second": "휴온스",
+"second_ret": -3.73
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": -7.76,
+"up5": 2,
+"lead": "신풍제약",
+"lead_ret": 7.64,
+"second": "코미팜",
+"second_ret": 5.26
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -7.38,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": -4.46,
+"second": "엔투텍",
+"second_ret": -4.7
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -6.41,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": -1.77,
+"second": "대한해운",
+"second_ret": -4.5
+}
+],
+"leaders": [
+{
+"name": "HK이노엔",
+"code": "195940",
+"ret": 29.9,
+"value": 5991,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 17.36,
+"value": 3910,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "대주전자재료",
+"code": "078600",
+"ret": 13.63,
+"value": 2580,
+"theme": "MLCC(적층세라믹콘덴서)",
+"reason": "테마: MLCC(적층세라믹콘덴서)"
+},
+{
+"name": "디티씨",
+"code": "066670",
+"ret": 15.09,
+"value": 2308,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "에스엠",
+"code": "041510",
+"ret": 11.27,
+"value": 2037,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

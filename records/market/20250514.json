@@ -1,0 +1,254 @@
+{
+"date": "20250514",
+"kospi": 1.23,
+"kosdaq": 0.98,
+"adv": 1461,
+"dec": 750,
+"flat": 143,
+"limit_up": 10,
+"limit_down": 0,
+"value_total": 158158,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 7,
+"lead": "디에스엠",
+"lead_ret": 29.97,
+"second": "HD현대에너지솔루션",
+"second_ret": 29.94
+},
+{
+"name": "풍력에너지",
+"n": 6,
+"lead": "씨엔플러스",
+"lead_ret": 29.8,
+"second": "SK오션플랜트",
+"second_ret": 24.78
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "유진로봇",
+"lead_ret": 29.98,
+"second": "로보티즈",
+"second_ret": 29.97
+}
+],
+"themes": [
+{
+"name": "태양광에너지",
+"n": 43,
+"avg": 6.32,
+"up5": 17,
+"lead": "디에스엠",
+"lead_ret": 29.97,
+"second": "HD현대에너지솔루션",
+"second_ret": 29.94
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 5.29,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 29.94,
+"second": "한화솔루션",
+"second_ret": 10.83
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 4.94,
+"up5": 12,
+"lead": "씨엔플러스",
+"lead_ret": 29.8,
+"second": "SK오션플랜트",
+"second_ret": 24.78
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.19,
+"up5": 1,
+"lead": "SAMG엔터",
+"lead_ret": 29.92,
+"second": "리튬포어스",
+"second_ret": 1.13
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.05,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 29.94,
+"second": "아시아나항공",
+"second_ret": 1.66
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 3.79,
+"up5": 4,
+"lead": "금양그린파워",
+"lead_ret": 11.96,
+"second": "SK이터닉스",
+"second_ret": 11.35
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.57,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 29.88,
+"second": "뉴보텍",
+"second_ret": 1.06
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 41,
+"avg": 3.55,
+"up5": 10,
+"lead": "유진로봇",
+"lead_ret": 29.98,
+"second": "로보티즈",
+"second_ret": 29.97
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.54,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 9.72,
+"second": "한화오션",
+"second_ret": 2.32
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 69,
+"avg": 3.53,
+"up5": 17,
+"lead": "유진로봇",
+"lead_ret": 29.98,
+"second": "로보티즈",
+"second_ret": 29.97
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.48,
+"up5": 3,
+"lead": "LS마린솔루션",
+"lead_ret": 11.11,
+"second": "한국선재",
+"second_ret": 6.35
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.43,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 11.11,
+"second": "LS",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -3.19,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.88,
+"second": "와이즈넛",
+"second_ret": 0.0
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.18,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 0.96,
+"second": "코나아이",
+"second_ret": -1.37
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": -0.98,
+"up5": 0,
+"lead": "데이원컴퍼니",
+"lead_ret": 3.46,
+"second": "대성창투",
+"second_ret": 0.74
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -0.88,
+"up5": 0,
+"lead": "우원개발",
+"lead_ret": 4.38,
+"second": "동원개발",
+"second_ret": 1.94
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -0.8,
+"up5": 0,
+"lead": "에스피소프트",
+"lead_ret": 3.63,
+"second": "스톤브릿지벤처스",
+"second_ret": 1.15
+}
+],
+"leaders": [
+{
+"name": "나우로보틱스",
+"code": "459510",
+"ret": 21.9,
+"value": 5448,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 10.83,
+"value": 2792,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 10.91,
+"value": 1736,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 29.97,
+"value": 1662,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "프롬바이오",
+"code": "377220",
+"ret": 18.15,
+"value": 1634,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

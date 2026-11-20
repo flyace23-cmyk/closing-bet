@@ -1,0 +1,254 @@
+{
+"date": "20230308",
+"kospi": -1.28,
+"kosdaq": -0.22,
+"adv": 480,
+"dec": 1579,
+"flat": 82,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 203253,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "레몬",
+"lead_ret": 29.93,
+"second": "에코프로",
+"second_ret": 14.38
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "고바이오랩",
+"lead_ret": 12.95,
+"second": "올릭스",
+"second_ret": 9.17
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "경동인베스트",
+"lead_ret": 29.92,
+"second": "에코프로",
+"second_ret": 14.38
+}
+],
+"themes": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.58,
+"up5": 3,
+"lead": "YTN",
+"lead_ret": 16.21,
+"second": "한국경제TV",
+"second_ret": 12.29
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.21,
+"up5": 4,
+"lead": "미래나노텍",
+"lead_ret": 23.31,
+"second": "에코프로",
+"second_ret": 14.38
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 1.58,
+"up5": 3,
+"lead": "꿈비",
+"lead_ret": 20.29,
+"second": "에피소드컴퍼니",
+"second_ret": 10.64
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 1.52,
+"up5": 3,
+"lead": "한전KPS",
+"lead_ret": 7.49,
+"second": "한전기술",
+"second_ret": 6.37
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 1.48,
+"up5": 1,
+"lead": "레몬",
+"lead_ret": 29.93,
+"second": "상신전자",
+"second_ret": 1.98
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 1.4,
+"up5": 3,
+"lead": "꿈비",
+"lead_ret": 20.29,
+"second": "에피소드컴퍼니",
+"second_ret": 10.64
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 0.88,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 14.38,
+"second": "코스모화학",
+"second_ret": 7.95
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 0.86,
+"up5": 2,
+"lead": "DB하이텍",
+"lead_ret": 17.26,
+"second": "MDS테크",
+"second_ret": 5.23
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 0.83,
+"up5": 3,
+"lead": "지투파워",
+"lead_ret": 12.44,
+"second": "한전KPS",
+"second_ret": 7.49
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 0.83,
+"up5": 2,
+"lead": "레몬",
+"lead_ret": 29.93,
+"second": "메디앙스",
+"second_ret": 7.96
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 0.68,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": 4.09,
+"second": "유니온머티리얼",
+"second_ret": 2.41
+},
+{
+"name": "원자력발전",
+"n": 45,
+"avg": 0.61,
+"up5": 5,
+"lead": "지투파워",
+"lead_ret": 12.44,
+"second": "한전KPS",
+"second_ret": 7.49
+}
+],
+"themes_worst": [
+{
+"name": "그래핀",
+"n": 13,
+"avg": -3.94,
+"up5": 0,
+"lead": "아이텍",
+"lead_ret": 0.8,
+"second": "오리엔트정공",
+"second_ret": 0.26
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": -3.21,
+"up5": 0,
+"lead": "한컴",
+"lead_ret": 0.68,
+"second": "미디어젠",
+"second_ret": -0.46
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.87,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -1.54,
+"second": "HD한국조선해양",
+"second_ret": -2.26
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -2.76,
+"up5": 0,
+"lead": "한국수출포장",
+"lead_ret": 0.44,
+"second": "깨끗한나라",
+"second_ret": 0.0
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -2.62,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": 3.61,
+"second": "원준",
+"second_ret": 2.65
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 14.38,
+"value": 7624,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "미래나노텍",
+"code": "095500",
+"ret": 23.31,
+"value": 7007,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "DB하이텍",
+"code": "000990",
+"ret": 17.26,
+"value": 4822,
+"theme": "반도체 대표주(생산)",
+"reason": "테마: 반도체 대표주(생산)"
+},
+{
+"name": "꿈비",
+"code": "407400",
+"ret": 20.29,
+"value": 2951,
+"theme": "엔젤산업",
+"reason": "테마: 엔젤산업"
+},
+{
+"name": "제이케이시냅스",
+"code": "060230",
+"ret": 22.79,
+"value": 2881,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+}
+],
+"backfilled": true
+}

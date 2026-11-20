@@ -1,0 +1,254 @@
+{
+"date": "20200203",
+"kospi": -0.01,
+"kosdaq": 0.68,
+"adv": 791,
+"dec": 975,
+"flat": 137,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 130132,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "에코프로비엠",
+"lead_ret": 20.99,
+"second": "에코프로",
+"second_ret": 11.22
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "아모그린텍",
+"lead_ret": 13.46,
+"second": "모베이스전자",
+"second_ret": 10.83
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "모베이스전자",
+"lead_ret": 10.83,
+"second": "티에이치엔",
+"second_ret": 8.95
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 8,
+"avg": 9.41,
+"up5": 6,
+"lead": "마니커에프앤지",
+"lead_ret": 29.91,
+"second": "체리부로",
+"second_ret": 13.08
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 5.77,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 20.99,
+"second": "에코프로",
+"second_ret": 11.22
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 5.25,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 11.34,
+"second": "우양",
+"second_ret": 7.84
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 4.55,
+"up5": 5,
+"lead": "마니커",
+"lead_ret": 10.63,
+"second": "SOOP",
+"second_ret": 10.19
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.54,
+"up5": 1,
+"lead": "휴비스",
+"lead_ret": 28.3,
+"second": "효성티앤씨",
+"second_ret": 2.11
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 3.65,
+"up5": 8,
+"lead": "CJ씨푸드",
+"lead_ret": 11.34,
+"second": "마니커",
+"second_ret": 10.63
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.26,
+"up5": 3,
+"lead": "CJ씨푸드",
+"lead_ret": 11.34,
+"second": "동원수산",
+"second_ret": 9.18
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 3.17,
+"up5": 2,
+"lead": "휴비스",
+"lead_ret": 28.3,
+"second": "에스엠국일",
+"second_ret": 5.77
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.12,
+"up5": 3,
+"lead": "대림제지",
+"lead_ret": 18.01,
+"second": "태림포장",
+"second_ret": 13.82
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 2.62,
+"up5": 5,
+"lead": "아모그린텍",
+"lead_ret": 13.46,
+"second": "모베이스전자",
+"second_ret": 10.83
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 2.37,
+"up5": 1,
+"lead": "심텍",
+"lead_ret": 5.93,
+"second": "코리아써키트",
+"second_ret": 3.73
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 2.29,
+"up5": 7,
+"lead": "에스앤에스텍",
+"lead_ret": 16.67,
+"second": "테크윙",
+"second_ret": 8.83
+}
+],
+"themes_worst": [
+{
+"name": "마스크",
+"n": 19,
+"avg": -9.19,
+"up5": 1,
+"lead": "휴비스",
+"lead_ret": 28.3,
+"second": "톱텍",
+"second_ret": 0.96
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -7.35,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "국전",
+"second_ret": 0.0
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": -5.59,
+"up5": 0,
+"lead": "하츠",
+"lead_ret": 3.39,
+"second": "상아프론테크",
+"second_ret": 2.26
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": -4.62,
+"up5": 0,
+"lead": "삼성출판사",
+"lead_ret": 4.35,
+"second": "유엔젤",
+"second_ret": 3.47
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -4.43,
+"up5": 1,
+"lead": "이글벳",
+"lead_ret": 7.58,
+"second": "진바이오텍",
+"second_ret": 2.24
+}
+],
+"leaders": [
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 24.79,
+"value": 3843,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "마니커",
+"code": "027740",
+"ret": 10.63,
+"value": 1190,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "휴비스",
+"code": "079980",
+"ret": 28.3,
+"value": 765,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "대림제지",
+"code": "017650",
+"ret": 18.01,
+"value": 659,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 11.22,
+"value": 654,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

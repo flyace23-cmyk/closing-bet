@@ -1,0 +1,254 @@
+{
+"date": "20250109",
+"kospi": 0.03,
+"kosdaq": 0.54,
+"adv": 920,
+"dec": 1236,
+"flat": 165,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 186241,
+"hot": [
+{
+"name": "유리 기판",
+"n": 7,
+"lead": "아이씨디",
+"lead_ret": 30.0,
+"second": "한빛레이저",
+"second_ret": 23.8
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "하이젠알앤엠",
+"lead_ret": 30.0,
+"second": "케이엔알시스템",
+"second_ret": 24.97
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "소프트센",
+"lead_ret": 29.97,
+"second": "한빛레이저",
+"second_ret": 23.8
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 20,
+"avg": 7.86,
+"up5": 11,
+"lead": "아이씨디",
+"lead_ret": 30.0,
+"second": "한빛레이저",
+"second_ret": 23.8
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.16,
+"up5": 2,
+"lead": "LS에코에너지",
+"lead_ret": 13.41,
+"second": "가온전선",
+"second_ret": 7.08
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": 3.23,
+"up5": 2,
+"lead": "토모큐브",
+"lead_ret": 14.91,
+"second": "강스템바이오텍",
+"second_ret": 8.66
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.66,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 10.53,
+"second": "에스티팜",
+"second_ret": 6.08
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 67,
+"avg": 2.62,
+"up5": 13,
+"lead": "하이젠알앤엠",
+"lead_ret": 30.0,
+"second": "케이엔알시스템",
+"second_ret": 24.97
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.59,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 15.1,
+"second": "신세계",
+"second_ret": 1.37
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 2.56,
+"up5": 5,
+"lead": "테고사이언스",
+"lead_ret": 15.15,
+"second": "파미셀",
+"second_ret": 10.53
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 40,
+"avg": 2.55,
+"up5": 7,
+"lead": "케이엔알시스템",
+"lead_ret": 24.97,
+"second": "로보티즈",
+"second_ret": 18.99
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.52,
+"up5": 1,
+"lead": "소프트센",
+"lead_ret": 29.97,
+"second": "SK이노베이션",
+"second_ret": 2.99
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 2.34,
+"up5": 3,
+"lead": "한울반도체",
+"lead_ret": 15.3,
+"second": "코칩",
+"second_ret": 12.84
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 2.33,
+"up5": 3,
+"lead": "LS에코에너지",
+"lead_ret": 13.41,
+"second": "동국알앤에스",
+"second_ret": 8.36
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.22,
+"up5": 1,
+"lead": "우원개발",
+"lead_ret": 7.58,
+"second": "LS마린솔루션",
+"second_ret": 4.53
+}
+],
+"themes_worst": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": -8.75,
+"up5": 0,
+"lead": "KT",
+"lead_ret": 2.74,
+"second": "LG유플러스",
+"second_ret": -0.47
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": -3.21,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 0.52,
+"second": "미투온",
+"second_ret": 0.0
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": -2.69,
+"up5": 1,
+"lead": "유니퀘스트",
+"lead_ret": 9.22,
+"second": "동운아나텍",
+"second_ret": 3.16
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -2.54,
+"up5": 0,
+"lead": "시선AI",
+"lead_ret": 0.0,
+"second": "크라우드웍스",
+"second_ret": 0.0
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -2.33,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 2.23,
+"second": "라이콤",
+"second_ret": 1.82
+}
+],
+"leaders": [
+{
+"name": "SKC",
+"code": "011790",
+"ret": 19.35,
+"value": 7114,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 18.99,
+"value": 2392,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "와이씨켐",
+"code": "112290",
+"ret": 19.27,
+"value": 1116,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "케이엔알시스템",
+"code": "199430",
+"ret": 24.97,
+"value": 1019,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "하이젠알앤엠",
+"code": "160190",
+"ret": 30.0,
+"value": 971,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

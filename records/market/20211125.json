@@ -1,0 +1,254 @@
+{
+"date": "20211125",
+"kospi": -0.47,
+"kosdaq": -0.44,
+"adv": 570,
+"dec": 1324,
+"flat": 163,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 333910,
+"hot": [
+{
+"name": "핀테크(FinTech)",
+"n": 4,
+"lead": "카카오페이",
+"lead_ret": 18.31,
+"second": "갤럭시아머니트리",
+"second_ret": 13.76
+},
+{
+"name": "쿠팡(coupang)",
+"n": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.76,
+"second": "엔비티",
+"second_ret": 13.46
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.76,
+"second": "미투온",
+"second_ret": 13.38
+}
+],
+"themes": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.42,
+"up5": 5,
+"lead": "카카오페이",
+"lead_ret": 18.31,
+"second": "갤럭시아머니트리",
+"second_ret": 13.76
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.91,
+"up5": 2,
+"lead": "엔비티",
+"lead_ret": 13.46,
+"second": "미투온",
+"second_ret": 13.38
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.73,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.76,
+"second": "미투온",
+"second_ret": 13.38
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 2.62,
+"up5": 4,
+"lead": "제이에스링크",
+"lead_ret": 17.02,
+"second": "셀바스AI",
+"second_ret": 14.01
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.62,
+"up5": 1,
+"lead": "에스티팜",
+"lead_ret": 16.75,
+"second": "파미셀",
+"second_ret": 2.82
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 2.36,
+"up5": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.76,
+"second": "엔비티",
+"second_ret": 13.46
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.29,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.76,
+"second": "인포뱅크",
+"second_ret": 7.58
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.16,
+"up5": 1,
+"lead": "카카오페이",
+"lead_ret": 18.31,
+"second": "한네트",
+"second_ret": 3.31
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.13,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 7.86,
+"second": "성우전자",
+"second_ret": 1.83
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.11,
+"up5": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 13.76,
+"second": "티사이언티픽",
+"second_ret": 13.49
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": 2.09,
+"up5": 4,
+"lead": "셀바스AI",
+"lead_ret": 14.01,
+"second": "티사이언티픽",
+"second_ret": 13.49
+},
+{
+"name": "공기청정기",
+"n": 11,
+"avg": 2.0,
+"up5": 1,
+"lead": "씨앤투스",
+"lead_ret": 29.91,
+"second": "신일전자",
+"second_ret": 1.21
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -3.98,
+"up5": 1,
+"lead": "알체라",
+"lead_ret": 6.76,
+"second": "한빛소프트",
+"second_ret": -0.17
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.15,
+"up5": 0,
+"lead": "엔브이에이치코리아",
+"lead_ret": -0.22,
+"second": "에스와이",
+"second_ret": -0.62
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.96,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": -0.65,
+"second": "삼성전자",
+"second_ret": -1.47
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.86,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.59,
+"second": "샘표",
+"second_ret": -1.08
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -1.73,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 3.49,
+"second": "상신이디피",
+"second_ret": 0.92
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 10.71,
+"value": 9076,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "카카오페이",
+"code": "377300",
+"ret": 18.31,
+"value": 4687,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 13.76,
+"value": 2314,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "애니플러스",
+"code": "310200",
+"ret": 12.04,
+"value": 1912,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "엔비티",
+"code": "236810",
+"ret": 13.46,
+"value": 1772,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

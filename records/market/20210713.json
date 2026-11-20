@@ -1,0 +1,238 @@
+{
+"date": "20210713",
+"kospi": 0.77,
+"kosdaq": 0.84,
+"adv": 1355,
+"dec": 483,
+"flat": 175,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 241511,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "엘앤에프",
+"lead_ret": 18.84,
+"second": "새로닉스",
+"second_ret": 10.14
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.45,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 22.83,
+"second": "한화투자증권",
+"second_ret": 1.71
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.58,
+"up5": 1,
+"lead": "부국철강",
+"lead_ret": 29.89,
+"second": "SK오션플랜트",
+"second_ret": 4.06
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.24,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 22.83,
+"second": "하나투어",
+"second_ret": 1.54
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.13,
+"up5": 3,
+"lead": "하이비젼시스템",
+"lead_ret": 7.84,
+"second": "휴림로봇",
+"second_ret": 7.0
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 3.01,
+"up5": 14,
+"lead": "엘앤에프",
+"lead_ret": 18.84,
+"second": "신성델타테크",
+"second_ret": 9.45
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.99,
+"up5": 3,
+"lead": "서원",
+"lead_ret": 15.15,
+"second": "남선알미늄",
+"second_ret": 11.9
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 2.68,
+"up5": 2,
+"lead": "한세엠케이",
+"lead_ret": 23.38,
+"second": "남화산업",
+"second_ret": 5.86
+},
+{
+"name": "소매유통",
+"n": 15,
+"avg": 2.58,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 22.83,
+"second": "롯데하이마트",
+"second_ret": 2.65
+},
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": 2.46,
+"up5": 2,
+"lead": "부국철강",
+"lead_ret": 29.89,
+"second": "한국주철관",
+"second_ret": 5.47
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.46,
+"up5": 1,
+"lead": "에코프로",
+"lead_ret": 7.02,
+"second": "삼성SDI",
+"second_ret": 2.74
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.32,
+"up5": 1,
+"lead": "엘앤에프",
+"lead_ret": 18.84,
+"second": "팬스타엔터프라이즈",
+"second_ret": 2.02
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.3,
+"up5": 3,
+"lead": "이씨에스",
+"lead_ret": 6.57,
+"second": "흥국에프엔비",
+"second_ret": 6.29
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -3.57,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 0.72,
+"second": "콜마바이오텍",
+"second_ret": 0.11
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -2.52,
+"up5": 0,
+"lead": "에스티팜",
+"lead_ret": 0.29,
+"second": "한미약품",
+"second_ret": -0.44
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.24,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 2.03,
+"second": "멕아이씨에스",
+"second_ret": 1.32
+},
+{
+"name": "코로나19(진단키트)",
+"n": 36,
+"avg": -2.02,
+"up5": 1,
+"lead": "CJ 바이오사이언스",
+"lead_ret": 5.84,
+"second": "인바이오젠",
+"second_ret": 4.82
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": -1.49,
+"up5": 0,
+"lead": "인바이오젠",
+"lead_ret": 4.82,
+"second": "현대바이오",
+"second_ret": 4.66
+}
+],
+"leaders": [
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 22.83,
+"value": 5202,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 18.84,
+"value": 4613,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 11.9,
+"value": 3873,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "시너지이노베이션",
+"code": "048870",
+"ret": 23.2,
+"value": 3089,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "키네마스터",
+"code": "139670",
+"ret": 14.39,
+"value": 2769,
+"theme": "모바일솔루션(스마트폰)",
+"reason": "테마: 모바일솔루션(스마트폰)"
+}
+],
+"backfilled": true
+}

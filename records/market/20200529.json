@@ -1,0 +1,246 @@
+{
+"date": "20200529",
+"kospi": 0.05,
+"kosdaq": 0.7,
+"adv": 713,
+"dec": 1043,
+"flat": 157,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 215860,
+"hot": [
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 3,
+"lead": "옵티팜",
+"lead_ret": 20.39,
+"second": "일양약품",
+"second_ret": 12.15
+},
+{
+"name": "사료",
+"n": 3,
+"lead": "고려산업",
+"lead_ret": 29.94,
+"second": "팜스토리",
+"second_ret": 14.78
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 16,
+"avg": 5.21,
+"up5": 5,
+"lead": "고려산업",
+"lead_ret": 29.94,
+"second": "팜스토리",
+"second_ret": 14.78
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 4.21,
+"up5": 3,
+"lead": "엔투텍",
+"lead_ret": 7.43,
+"second": "파미셀",
+"second_ret": 7.11
+},
+{
+"name": "육계",
+"n": 8,
+"avg": 4.01,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 14.78,
+"second": "푸드나무",
+"second_ret": 4.04
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.39,
+"up5": 2,
+"lead": "KNN",
+"lead_ret": 29.69,
+"second": "디지틀조선",
+"second_ret": 14.7
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.61,
+"up5": 1,
+"lead": "KG스틸",
+"lead_ret": 20.77,
+"second": "현대제철",
+"second_ret": 2.58
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 2.58,
+"up5": 4,
+"lead": "옵티팜",
+"lead_ret": 20.39,
+"second": "팜스토리",
+"second_ret": 14.78
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.46,
+"up5": 2,
+"lead": "한온시스템",
+"lead_ret": 6.91,
+"second": "기아",
+"second_ret": 6.7
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.13,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 5.43,
+"second": "샘표식품",
+"second_ret": 3.79
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 2.11,
+"up5": 3,
+"lead": "옵티팜",
+"lead_ret": 20.39,
+"second": "앱클론",
+"second_ret": 8.09
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 2.1,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 14.78,
+"second": "동우팜투테이블",
+"second_ret": 3.74
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.03,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 14.43,
+"second": "삼륭물산",
+"second_ret": 3.16
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 1.72,
+"up5": 1,
+"lead": "금강공업",
+"lead_ret": 6.01,
+"second": "코오롱글로벌",
+"second_ret": 3.88
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -3.25,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 1.89,
+"second": "흥국화재",
+"second_ret": -1.83
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.62,
+"up5": 0,
+"lead": "씨엑스아이",
+"lead_ret": 1.24,
+"second": "딥커머스",
+"second_ret": 0.0
+},
+{
+"name": "인터넷은행",
+"n": 26,
+"avg": -2.52,
+"up5": 0,
+"lead": "한국금융지주",
+"lead_ret": 2.93,
+"second": "NICE평가정보",
+"second_ret": 1.11
+},
+{
+"name": "핀테크(FinTech)",
+"n": 30,
+"avg": -2.33,
+"up5": 0,
+"lead": "헥토파이낸셜",
+"lead_ret": 4.78,
+"second": "NHN KCP",
+"second_ret": 4.35
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.19,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": -1.06,
+"second": "에스넷",
+"second_ret": -1.74
+}
+],
+"leaders": [
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 12.15,
+"value": 4696,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "서울바이오시스",
+"code": "092190",
+"ret": 12.66,
+"value": 2265,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "KNN",
+"code": "058400",
+"ret": 29.69,
+"value": 2215,
+"theme": "미디어(방송/신문)",
+"reason": "테마: 미디어(방송/신문)"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 29.94,
+"value": 1720,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "쎄노텍",
+"code": "222420",
+"ret": 14.43,
+"value": 985,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

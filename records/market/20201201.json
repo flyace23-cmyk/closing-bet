@@ -1,0 +1,254 @@
+{
+"date": "20201201",
+"kospi": 1.66,
+"kosdaq": 0.58,
+"adv": 1014,
+"dec": 746,
+"flat": 198,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 278181,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "자비스",
+"lead_ret": 29.84,
+"second": "더코디",
+"second_ret": 15.57
+},
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "문배철강",
+"lead_ret": 30.0,
+"second": "NI스틸",
+"second_ret": 8.82
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "한온시스템",
+"lead_ret": 9.31,
+"second": "서연탑메탈",
+"second_ret": 8.05
+}
+],
+"themes": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.19,
+"up5": 2,
+"lead": "KG스틸",
+"lead_ret": 29.71,
+"second": "현대제철",
+"second_ret": 5.82
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.81,
+"up5": 1,
+"lead": "문배철강",
+"lead_ret": 30.0,
+"second": "부국철강",
+"second_ret": 4.76
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.59,
+"up5": 2,
+"lead": "아시아나항공",
+"lead_ret": 11.07,
+"second": "에어부산",
+"second_ret": 5.56
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.48,
+"up5": 1,
+"lead": "모아텍",
+"lead_ret": 29.47,
+"second": "휴림로봇",
+"second_ret": 2.7
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.42,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 14.63,
+"second": "소마젠",
+"second_ret": 2.95
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.31,
+"up5": 1,
+"lead": "씨엑스아이",
+"lead_ret": 29.41,
+"second": "크리스탈신소재",
+"second_ret": 1.95
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.28,
+"up5": 2,
+"lead": "한온시스템",
+"lead_ret": 9.31,
+"second": "HL만도",
+"second_ret": 7.01
+},
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": 3.05,
+"up5": 4,
+"lead": "문배철강",
+"lead_ret": 30.0,
+"second": "NI스틸",
+"second_ret": 8.82
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.7,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 6.08,
+"second": "GKL",
+"second_ret": 4.93
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.7,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 6.08,
+"second": "GKL",
+"second_ret": 4.93
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 2.6,
+"up5": 1,
+"lead": "한국전자인증",
+"lead_ret": 5.82,
+"second": "한화투자증권",
+"second_ret": 4.0
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.5,
+"up5": 1,
+"lead": "미래에셋증권",
+"lead_ret": 6.54,
+"second": "NH투자증권",
+"second_ret": 4.65
+}
+],
+"themes_worst": [
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -3.72,
+"up5": 0,
+"lead": "아세아제지",
+"lead_ret": -1.1,
+"second": "신대양제지",
+"second_ret": -1.23
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -2.74,
+"up5": 0,
+"lead": "해성산업",
+"lead_ret": 0.0,
+"second": "신풍",
+"second_ret": 0.0
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -1.93,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.0,
+"second": "씨티케이",
+"second_ret": 0.0
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.73,
+"up5": 0,
+"lead": "콜마바이오텍",
+"lead_ret": 4.38,
+"second": "케이엔솔",
+"second_ret": -0.34
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.5,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.84,
+"second": "강스템바이오텍",
+"second_ret": -0.26
+}
+],
+"leaders": [
+{
+"name": "엔투텍",
+"code": "227950",
+"ret": 14.63,
+"value": 4686,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "아시아나IDT",
+"code": "267850",
+"ret": 18.03,
+"value": 4483,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 19.59,
+"value": 3926,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "아시아나항공",
+"code": "020560",
+"ret": 11.07,
+"value": 3788,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+},
+{
+"name": "대웅",
+"code": "003090",
+"ret": 16.76,
+"value": 3688,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

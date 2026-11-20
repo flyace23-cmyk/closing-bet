@@ -1,0 +1,254 @@
+{
+"date": "20210513",
+"kospi": -1.25,
+"kosdaq": -1.59,
+"adv": 418,
+"dec": 1450,
+"flat": 133,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 316376,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "HLB글로벌",
+"lead_ret": 13.45,
+"second": "코웨이",
+"second_ret": 9.59
+},
+{
+"name": "음식료업종",
+"n": 5,
+"lead": "미래생명자원",
+"lead_ret": 12.39,
+"second": "샘표식품",
+"second_ret": 9.62
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 3,
+"lead": "서린바이오",
+"lead_ret": 29.71,
+"second": "일신바이오",
+"second_ret": 15.1
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.66,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 12.39,
+"second": "샘표식품",
+"second_ret": 9.62
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.44,
+"up5": 2,
+"lead": "롯데손해보험",
+"lead_ret": 6.6,
+"second": "한화손해보험",
+"second_ret": 5.78
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 2.97,
+"up5": 1,
+"lead": "풀무원",
+"lead_ret": 8.75,
+"second": "CJ씨푸드",
+"second_ret": 3.18
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 2.9,
+"up5": 3,
+"lead": "서린바이오",
+"lead_ret": 29.71,
+"second": "일신바이오",
+"second_ret": 15.1
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.3,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 15.1,
+"second": "티앤알바이오팹",
+"second_ret": 2.86
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.23,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 24.36,
+"second": "데브시스터즈",
+"second_ret": -0.75
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 1.79,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 4.04,
+"second": "기업은행",
+"second_ret": 3.9
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.64,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 10.95,
+"second": "대성산업",
+"second_ret": 7.12
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.64,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 10.95,
+"second": "대성산업",
+"second_ret": 7.12
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.58,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 10.95,
+"second": "한국쉘석유",
+"second_ret": 3.27
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.56,
+"up5": 1,
+"lead": "트리니티항공",
+"lead_ret": 6.88,
+"second": "진에어",
+"second_ret": 2.77
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 1.48,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 29.71,
+"second": "한미사이언스",
+"second_ret": 5.67
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -6.09,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": 1.15,
+"second": "DSC인베스트먼트",
+"second_ret": -5.87
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -6.02,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": -3.88,
+"second": "세아베스틸지주",
+"second_ret": -3.97
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -5.2,
+"up5": 0,
+"lead": "디케이락",
+"lead_ret": 0.75,
+"second": "엔케이",
+"second_ret": -1.79
+},
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": -4.89,
+"up5": 0,
+"lead": "동일산업",
+"lead_ret": 0.7,
+"second": "금강공업",
+"second_ret": -1.17
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -4.86,
+"up5": 1,
+"lead": "네오위즈",
+"lead_ret": 6.03,
+"second": "코오롱",
+"second_ret": -1.53
+}
+],
+"leaders": [
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 15.1,
+"value": 3107,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "서린바이오",
+"code": "038070",
+"ret": 29.71,
+"value": 2891,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 10.95,
+"value": 2485,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "푸른저축은행",
+"code": "007330",
+"ret": 12.92,
+"value": 1503,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에너토크",
+"code": "019990",
+"ret": 14.06,
+"value": 1224,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

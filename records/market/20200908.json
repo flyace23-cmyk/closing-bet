@@ -1,0 +1,254 @@
+{
+"date": "20200908",
+"kospi": 0.74,
+"kosdaq": -0.07,
+"adv": 725,
+"dec": 1050,
+"flat": 160,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 925927,
+"hot": [
+{
+"name": "SI(시스템통합)",
+"n": 3,
+"lead": "포스코DX",
+"lead_ret": 29.88,
+"second": "데이타솔루션",
+"second_ret": 14.4
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "모다이노칩",
+"lead_ret": 29.96,
+"second": "파트론",
+"second_ret": 13.37
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "대한광통신",
+"lead_ret": 18.72,
+"second": "한일단조",
+"second_ret": 17.42
+}
+],
+"themes": [
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 4.03,
+"up5": 4,
+"lead": "파이오링크",
+"lead_ret": 8.51,
+"second": "NICE평가정보",
+"second_ret": 7.84
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.9,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 14.12,
+"second": "지씨셀",
+"second_ret": 5.5
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 3.82,
+"up5": 7,
+"lead": "옵트론텍",
+"lead_ret": 14.73,
+"second": "파트론",
+"second_ret": 13.37
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.94,
+"up5": 2,
+"lead": "앤디포스",
+"lead_ret": 29.89,
+"second": "덕우전자",
+"second_ret": 8.19
+},
+{
+"name": "클라우드 컴퓨팅",
+"n": 33,
+"avg": 2.86,
+"up5": 7,
+"lead": "포스코DX",
+"lead_ret": 29.88,
+"second": "다우기술",
+"second_ret": 13.22
+},
+{
+"name": "엔터테인먼트",
+"n": 25,
+"avg": 2.82,
+"up5": 5,
+"lead": "초록뱀미디어",
+"lead_ret": 29.92,
+"second": "티엔엔터테인먼트",
+"second_ret": 13.93
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.75,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": 4.73,
+"second": "삼성전자",
+"second_ret": 3.89
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 2.53,
+"up5": 3,
+"lead": "파트론",
+"lead_ret": 13.37,
+"second": "해성옵틱스",
+"second_ret": 9.89
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 38,
+"avg": 2.51,
+"up5": 6,
+"lead": "에브리봇",
+"lead_ret": 14.75,
+"second": "데이타솔루션",
+"second_ret": 14.4
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 2.47,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 3.89,
+"second": "삼성전기",
+"second_ret": 3.62
+},
+{
+"name": "음원/음반",
+"n": 12,
+"avg": 2.42,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 15.29,
+"second": "와이지엔터테인먼트",
+"second_ret": 5.3
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 2.29,
+"up5": 4,
+"lead": "초록뱀미디어",
+"lead_ret": 29.92,
+"second": "삼화네트웍스",
+"second_ret": 6.8
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -5.24,
+"up5": 0,
+"lead": "콜마바이오텍",
+"lead_ret": -0.48,
+"second": "오텍",
+"second_ret": -4.32
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.38,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": -0.65,
+"second": "대한전선",
+"second_ret": -1.93
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.66,
+"up5": 0,
+"lead": "세명전기",
+"lead_ret": 0.13,
+"second": "특수건설",
+"second_ret": -1.23
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.54,
+"up5": 1,
+"lead": "국전",
+"lead_ret": 16.5,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -2.51,
+"up5": 0,
+"lead": "대창단조",
+"lead_ret": 0.0,
+"second": "동일금속",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "초록뱀미디어",
+"code": "047820",
+"ret": 29.92,
+"value": 602709,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "앤디포스",
+"code": "238090",
+"ret": 29.89,
+"value": 8427,
+"theme": "아이폰",
+"reason": "테마: 아이폰"
+},
+{
+"name": "대한광통신",
+"code": "010170",
+"ret": 18.72,
+"value": 5699,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "알루코",
+"code": "001780",
+"ret": 14.37,
+"value": 4720,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "유니슨",
+"code": "018000",
+"ret": 19.58,
+"value": 4565,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

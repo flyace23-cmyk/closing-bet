@@ -1,0 +1,254 @@
+{
+"date": "20250908",
+"kospi": 0.45,
+"kosdaq": 0.89,
+"adv": 1332,
+"dec": 890,
+"flat": 156,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 136798,
+"hot": [
+{
+"name": "조선기자재",
+"n": 8,
+"lead": "씨피시스템",
+"lead_ret": 29.92,
+"second": "오리엔탈정공",
+"second_ret": 23.86
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "메타바이오메드",
+"lead_ret": 21.21,
+"second": "엘앤케이바이오",
+"second_ret": 17.6
+},
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "동일스틸럭스",
+"lead_ret": 29.93,
+"second": "금강공업",
+"second_ret": 14.86
+}
+],
+"themes": [
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 6.33,
+"up5": 15,
+"lead": "씨피시스템",
+"lead_ret": 29.92,
+"second": "오리엔탈정공",
+"second_ret": 23.86
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 4.19,
+"up5": 3,
+"lead": "금강공업",
+"lead_ret": 14.86,
+"second": "엔알비",
+"second_ret": 7.78
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 3.22,
+"up5": 2,
+"lead": "벽산",
+"lead_ret": 7.48,
+"second": "조광페인트",
+"second_ret": 7.47
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.13,
+"up5": 6,
+"lead": "동신건설",
+"lead_ret": 15.16,
+"second": "동부건설",
+"second_ret": 10.74
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 2.9,
+"up5": 2,
+"lead": "메타바이오메드",
+"lead_ret": 21.21,
+"second": "한국피아이엠",
+"second_ret": 10.43
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.89,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 6.07,
+"second": "차바이오텍",
+"second_ret": 3.3
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.87,
+"up5": 3,
+"lead": "교보증권",
+"lead_ret": 7.89,
+"second": "부국증권",
+"second_ret": 7.22
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.8,
+"up5": 2,
+"lead": "유니테스트",
+"lead_ret": 11.04,
+"second": "HD현대에너지솔루션",
+"second_ret": 10.32
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": 2.35,
+"up5": 5,
+"lead": "에스바이오메딕스",
+"lead_ret": 8.11,
+"second": "테고사이언스",
+"second_ret": 7.14
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.33,
+"up5": 2,
+"lead": "글로벌텍스프리",
+"lead_ret": 7.14,
+"second": "HDC",
+"second_ret": 5.41
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.21,
+"up5": 3,
+"lead": "파마리서치",
+"lead_ret": 7.14,
+"second": "유바이오로직스",
+"second_ret": 6.36
+},
+{
+"name": "철강 중소형",
+"n": 35,
+"avg": 2.21,
+"up5": 4,
+"lead": "동일스틸럭스",
+"lead_ret": 29.93,
+"second": "금강공업",
+"second_ret": 14.86
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -1.87,
+"up5": 0,
+"lead": "콘텐트리중앙",
+"lead_ret": 1.34,
+"second": "아센디오",
+"second_ret": 1.13
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.22,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 0.0,
+"second": "현대차",
+"second_ret": -0.68
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": -1.16,
+"up5": 0,
+"lead": "온코크로스",
+"lead_ret": 1.79,
+"second": "메디아나",
+"second_ret": 1.73
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -1.03,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 7.59,
+"second": "LB인베스트먼트",
+"second_ret": 1.76
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.94,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": 0.77,
+"second": "사조씨푸드",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "엘앤씨바이오",
+"code": "290650",
+"ret": 16.13,
+"value": 3151,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "세진중공업",
+"code": "075580",
+"ret": 21.76,
+"value": 2526,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "오리엔탈정공",
+"code": "014940",
+"ret": 23.86,
+"value": 1889,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "한라IMS",
+"code": "092460",
+"ret": 22.95,
+"value": 1211,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "PS일렉트로닉스",
+"code": "332570",
+"ret": 12.65,
+"value": 1128,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

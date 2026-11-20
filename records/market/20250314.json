@@ -1,0 +1,254 @@
+{
+"date": "20250314",
+"kospi": -0.28,
+"kosdaq": 1.59,
+"adv": 1467,
+"dec": 709,
+"flat": 164,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 154318,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "한화비전",
+"lead_ret": 12.75,
+"second": "코미코",
+"second_ret": 12.7
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "에스비비테크",
+"lead_ret": 16.95,
+"second": "티로보틱스",
+"second_ret": 11.99
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "CJ",
+"lead_ret": 16.93,
+"second": "코오롱",
+"second_ret": 16.05
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.28,
+"up5": 5,
+"lead": "가온전선",
+"lead_ret": 8.13,
+"second": "LS",
+"second_ret": 7.43
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 4.42,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.76,
+"second": "코오롱",
+"second_ret": 16.05
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 4.12,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.76,
+"second": "TS인베스트먼트",
+"second_ret": 7.03
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 3.9,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.76,
+"second": "TS인베스트먼트",
+"second_ret": 7.03
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.6,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 9.85,
+"second": "차바이오텍",
+"second_ret": 2.27
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.38,
+"up5": 8,
+"lead": "한화비전",
+"lead_ret": 12.75,
+"second": "넥스틴",
+"second_ret": 12.16
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.21,
+"up5": 2,
+"lead": "펨트론",
+"lead_ret": 6.95,
+"second": "티에프이",
+"second_ret": 5.33
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 3.17,
+"up5": 3,
+"lead": "칩스앤미디어",
+"lead_ret": 9.07,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.62
+},
+{
+"name": "2차전지(장비)",
+"n": 44,
+"avg": 3.13,
+"up5": 8,
+"lead": "엠오티",
+"lead_ret": 23.45,
+"second": "필에너지",
+"second_ret": 20.46
+},
+{
+"name": "반도체 장비",
+"n": 91,
+"avg": 2.95,
+"up5": 18,
+"lead": "한화비전",
+"lead_ret": 12.75,
+"second": "코미코",
+"second_ret": 12.7
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 2.9,
+"up5": 18,
+"lead": "한솔아이원스",
+"lead_ret": 10.9,
+"second": "메가터치",
+"second_ret": 10.82
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.84,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 18.76,
+"second": "지어소프트",
+"second_ret": 4.01
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 6,
+"avg": -3.73,
+"up5": 0,
+"lead": "한화갤러리아",
+"lead_ret": -0.16,
+"second": "현대백화점",
+"second_ret": -0.34
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -3.57,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 3.88,
+"second": "손오공",
+"second_ret": -0.55
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.44,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": -0.7,
+"second": "코리안리",
+"second_ret": -0.74
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.4,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 4.18,
+"second": "광무",
+"second_ret": 2.24
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.32,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 0.45,
+"second": "GS",
+"second_ret": 0.41
+}
+],
+"leaders": [
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 12.75,
+"value": 6385,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "필에너지",
+"code": "378340",
+"ret": 20.46,
+"value": 1822,
+"theme": "2차전지(장비)",
+"reason": "테마: 2차전지(장비)"
+},
+{
+"name": "엠오티",
+"code": "413390",
+"ret": 23.45,
+"value": 1703,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+},
+{
+"name": "티로보틱스",
+"code": "117730",
+"ret": 11.99,
+"value": 1256,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "팬엔터테인먼트",
+"code": "068050",
+"ret": 14.58,
+"value": 1089,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

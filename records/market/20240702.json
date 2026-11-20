@@ -1,0 +1,254 @@
+{
+"date": "20240702",
+"kospi": -0.84,
+"kosdaq": -2.04,
+"adv": 430,
+"dec": 1732,
+"flat": 102,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 185377,
+"hot": [
+{
+"name": "비만치료제",
+"n": 6,
+"lead": "큐라티스",
+"lead_ret": 18.89,
+"second": "블루엠텍",
+"second_ret": 16.75
+},
+{
+"name": "치매",
+"n": 4,
+"lead": "인벤티지랩",
+"lead_ret": 11.43,
+"second": "타임X AI",
+"second_ret": 8.12
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "오늘이엔엠",
+"lead_ret": 29.99,
+"second": "씨피시스템",
+"second_ret": 14.02
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 2.14,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 5.21,
+"second": "KB금융",
+"second_ret": 4.52
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.03,
+"up5": 2,
+"lead": "큐라티스",
+"lead_ret": 18.89,
+"second": "인벤티지랩",
+"second_ret": 11.43
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.53,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 4.95,
+"second": "한화손해보험",
+"second_ret": 3.7
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.37,
+"up5": 2,
+"lead": "SG",
+"lead_ret": 9.47,
+"second": "한국석유",
+"second_ret": 8.65
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 1.35,
+"up5": 6,
+"lead": "큐라티스",
+"lead_ret": 18.89,
+"second": "블루엠텍",
+"second_ret": 16.75
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.17,
+"up5": 1,
+"lead": "삼성바이오로직스",
+"lead_ret": 6.72,
+"second": "소마젠",
+"second_ret": 2.79
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.16,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 9.84,
+"second": "성우전자",
+"second_ret": 4.55
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 0.98,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 4.68,
+"second": "대원전선",
+"second_ret": 4.54
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 0.78,
+"up5": 4,
+"lead": "큐라티스",
+"lead_ret": 18.89,
+"second": "압타바이오",
+"second_ret": 17.07
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": 0.51,
+"up5": 4,
+"lead": "오늘이엔엠",
+"lead_ret": 29.99,
+"second": "에스와이스틸텍",
+"second_ret": 29.9
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 0.45,
+"up5": 0,
+"lead": "하나금융지주",
+"lead_ret": 4.49,
+"second": "이월드",
+"second_ret": 3.3
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 0.24,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 1.9,
+"second": "강스템바이오텍",
+"second_ret": 1.0
+}
+],
+"themes_worst": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -3.72,
+"up5": 0,
+"lead": "서진시스템",
+"lead_ret": 0.69,
+"second": "아모센스",
+"second_ret": -0.58
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -3.65,
+"up5": 0,
+"lead": "SNT에너지",
+"lead_ret": 0.78,
+"second": "SH에너지화학",
+"second_ret": -0.68
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -3.58,
+"up5": 0,
+"lead": "대창솔루션",
+"lead_ret": -0.96,
+"second": "한전KPS",
+"second_ret": -1.22
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.54,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": -2.23,
+"second": "KG모빌리티",
+"second_ret": -2.3
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 32,
+"avg": -3.4,
+"up5": 0,
+"lead": "이수페타시스",
+"lead_ret": 1.59,
+"second": "한양이엔지",
+"second_ret": 0.41
+}
+],
+"leaders": [
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 16.75,
+"value": 2498,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "대봉엘에스",
+"code": "078140",
+"ret": 14.41,
+"value": 2474,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "인벤티지랩",
+"code": "389470",
+"ret": 11.43,
+"value": 1598,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "유진테크놀로지",
+"code": "240600",
+"ret": 23.16,
+"value": 622,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "에스와이스틸텍",
+"code": "365330",
+"ret": 29.9,
+"value": 601,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

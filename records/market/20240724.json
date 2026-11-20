@@ -1,0 +1,254 @@
+{
+"date": "20240724",
+"kospi": -0.56,
+"kosdaq": 0.26,
+"adv": 945,
+"dec": 1161,
+"flat": 162,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 169649,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "셀리드",
+"lead_ret": 29.97,
+"second": "마크로젠",
+"second_ret": 24.74
+},
+{
+"name": "치매",
+"n": 4,
+"lead": "동구바이오제약",
+"lead_ret": 21.08,
+"second": "화일약품",
+"second_ret": 19.21
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "파크시스템스",
+"lead_ret": 10.33,
+"second": "테크윙",
+"second_ret": 8.78
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.17,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 13.18,
+"second": "삼성바이오로직스",
+"second_ret": 4.13
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.37,
+"up5": 3,
+"lead": "휴젤",
+"lead_ret": 13.07,
+"second": "대웅제약",
+"second_ret": 9.06
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 3.35,
+"up5": 3,
+"lead": "마크로젠",
+"lead_ret": 24.74,
+"second": "소마젠",
+"second_ret": 13.18
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 2.72,
+"up5": 3,
+"lead": "휴젤",
+"lead_ret": 13.07,
+"second": "대웅제약",
+"second_ret": 9.06
+},
+{
+"name": "유전자 치료제/분석",
+"n": 35,
+"avg": 2.69,
+"up5": 8,
+"lead": "마크로젠",
+"lead_ret": 24.74,
+"second": "소마젠",
+"second_ret": 13.18
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 2.63,
+"up5": 15,
+"lead": "셀리드",
+"lead_ret": 29.97,
+"second": "마크로젠",
+"second_ret": 24.74
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 2.47,
+"up5": 9,
+"lead": "소마젠",
+"lead_ret": 13.18,
+"second": "대웅제약",
+"second_ret": 9.06
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 2.46,
+"up5": 3,
+"lead": "마크로젠",
+"lead_ret": 24.74,
+"second": "스피어",
+"second_ret": 8.47
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.28,
+"up5": 2,
+"lead": "엑세스바이오",
+"lead_ret": 5.32,
+"second": "수젠텍",
+"second_ret": 5.3
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.18,
+"up5": 4,
+"lead": "셀리드",
+"lead_ret": 29.97,
+"second": "압타바이오",
+"second_ret": 8.11
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.1,
+"up5": 3,
+"lead": "대웅제약",
+"lead_ret": 9.06,
+"second": "알테오젠",
+"second_ret": 6.84
+},
+{
+"name": "줄기세포",
+"n": 17,
+"avg": 2.03,
+"up5": 2,
+"lead": "마크로젠",
+"lead_ret": 24.74,
+"second": "동구바이오제약",
+"second_ret": 21.08
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -3.36,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": 0.0,
+"second": "비엠티",
+"second_ret": -1.06
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.55,
+"up5": 0,
+"lead": "한신공영",
+"lead_ret": 0.59,
+"second": "GS건설",
+"second_ret": 0.17
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -2.37,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": 2.04,
+"second": "아세아시멘트",
+"second_ret": 0.09
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": -2.35,
+"up5": 0,
+"lead": "대양전기공업",
+"lead_ret": 1.96,
+"second": "수산세보틱스",
+"second_ret": 1.64
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -2.29,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 1.1,
+"second": "율촌",
+"second_ret": 0.47
+}
+],
+"leaders": [
+{
+"name": "동구바이오제약",
+"code": "006620",
+"ret": 21.08,
+"value": 2045,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 19.21,
+"value": 1596,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "갤럭시아에스엠",
+"code": "011420",
+"ret": 18.29,
+"value": 1308,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "한중엔시에스",
+"code": "107640",
+"ret": 13.98,
+"value": 1220,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "마크로젠",
+"code": "038290",
+"ret": 24.74,
+"value": 1180,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

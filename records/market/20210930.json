@@ -1,0 +1,254 @@
+{
+"date": "20210930",
+"kospi": 0.28,
+"kosdaq": 0.18,
+"adv": 1036,
+"dec": 810,
+"flat": 189,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 349354,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "동국알앤에스",
+"lead_ret": 30.0,
+"second": "한농화성",
+"second_ret": 29.76
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "디와이에이",
+"lead_ret": 29.67,
+"second": "인팩",
+"second_ret": 23.02
+},
+{
+"name": "영상콘텐츠",
+"n": 3,
+"lead": "대원미디어",
+"lead_ret": 13.21,
+"second": "쇼박스",
+"second_ret": 12.6
+}
+],
+"themes": [
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 9.88,
+"up5": 9,
+"lead": "동국알앤에스",
+"lead_ret": 30.0,
+"second": "대원화성",
+"second_ret": 29.93
+},
+{
+"name": "2차전지(전고체)",
+"n": 25,
+"avg": 4.35,
+"up5": 7,
+"lead": "한농화성",
+"lead_ret": 29.76,
+"second": "SFA넥셀",
+"second_ret": 25.51
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 4.23,
+"up5": 2,
+"lead": "동국알앤에스",
+"lead_ret": 30.0,
+"second": "대원화성",
+"second_ret": 29.93
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 3.6,
+"up5": 9,
+"lead": "대원미디어",
+"lead_ret": 13.21,
+"second": "쇼박스",
+"second_ret": 12.6
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 3.47,
+"up5": 4,
+"lead": "에스엠",
+"lead_ret": 9.84,
+"second": "YG PLUS",
+"second_ret": 8.02
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 3.41,
+"up5": 1,
+"lead": "SFA넥셀",
+"lead_ret": 25.51,
+"second": "아모그린텍",
+"second_ret": 3.98
+},
+{
+"name": "2차전지(장비)",
+"n": 32,
+"avg": 3.34,
+"up5": 6,
+"lead": "SFA넥셀",
+"lead_ret": 25.51,
+"second": "자비스",
+"second_ret": 21.42
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 3.17,
+"up5": 1,
+"lead": "나노씨엠에스",
+"lead_ret": 29.83,
+"second": "KEC",
+"second_ret": 4.6
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.15,
+"up5": 2,
+"lead": "HD현대중공업",
+"lead_ret": 7.44,
+"second": "HJ중공업",
+"second_ret": 5.26
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 3.05,
+"up5": 2,
+"lead": "쇼박스",
+"lead_ret": 12.6,
+"second": "NEW",
+"second_ret": 5.6
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 2.76,
+"up5": 8,
+"lead": "에스엠",
+"lead_ret": 9.84,
+"second": "키이스트",
+"second_ret": 9.09
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.38,
+"up5": 2,
+"lead": "SK오션플랜트",
+"lead_ret": 7.04,
+"second": "세아제강",
+"second_ret": 5.02
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -2.89,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 1.89,
+"second": "KSS해운",
+"second_ret": 0.88
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.62,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 1.08,
+"second": "우성머티리얼스",
+"second_ret": 0.0
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.52,
+"up5": 0,
+"lead": "경동제약",
+"lead_ret": 2.65,
+"second": "국제약품",
+"second_ret": 2.37
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.36,
+"up5": 0,
+"lead": "넥센타이어",
+"lead_ret": 1.83,
+"second": "한국앤컴퍼니",
+"second_ret": 0.95
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": -2.23,
+"up5": 2,
+"lead": "유바이오로직스",
+"lead_ret": 12.31,
+"second": "리가켐바이오",
+"second_ret": 6.56
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 25.51,
+"value": 10634,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "쇼박스",
+"code": "086980",
+"ret": 12.6,
+"value": 3175,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 29.76,
+"value": 2914,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "티에스아이",
+"code": "277880",
+"ret": 12.5,
+"value": 2567,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 12.31,
+"value": 1636,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

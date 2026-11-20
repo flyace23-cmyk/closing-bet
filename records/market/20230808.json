@@ -1,0 +1,254 @@
+{
+"date": "20230808",
+"kospi": -0.26,
+"kosdaq": -0.65,
+"adv": 507,
+"dec": 1590,
+"flat": 84,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 230295,
+"hot": [
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "포스코인터내셔널",
+"lead_ret": 13.87,
+"second": "제룡전기",
+"second_ret": 11.32
+},
+{
+"name": "원자력발전",
+"n": 4,
+"lead": "성광벤드",
+"lead_ret": 10.68,
+"second": "효성중공업",
+"second_ret": 8.13
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "광무",
+"lead_ret": 14.05,
+"second": "APS이노베이션",
+"second_ret": 9.68
+}
+],
+"themes": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 4.86,
+"up5": 5,
+"lead": "성광벤드",
+"lead_ret": 10.68,
+"second": "하이록코리아",
+"second_ret": 6.8
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.91,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 13.87,
+"second": "현대코퍼레이션",
+"second_ret": 6.19
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.42,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 3.58,
+"second": "삼성중공업",
+"second_ret": 3.04
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.09,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 13.87,
+"second": "SNT에너지",
+"second_ret": 4.06
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": 2.02,
+"up5": 5,
+"lead": "성광벤드",
+"lead_ret": 10.68,
+"second": "하이록코리아",
+"second_ret": 6.8
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.7,
+"up5": 3,
+"lead": "미래산업",
+"lead_ret": 17.48,
+"second": "광무",
+"second_ret": 14.05
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.5,
+"up5": 1,
+"lead": "POSCO홀딩스",
+"lead_ret": 6.42,
+"second": "SNT에너지",
+"second_ret": 4.06
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.48,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.63,
+"second": "현대해상",
+"second_ret": 2.3
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.32,
+"up5": 2,
+"lead": "휴온스",
+"lead_ret": 20.0,
+"second": "휴온스글로벌",
+"second_ret": 10.48
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 1.13,
+"up5": 2,
+"lead": "포스코인터내셔널",
+"lead_ret": 13.87,
+"second": "POSCO홀딩스",
+"second_ret": 6.42
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.08,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 3.9,
+"second": "넥센",
+"second_ret": 1.96
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 1.02,
+"up5": 2,
+"lead": "우리로",
+"lead_ret": 29.98,
+"second": "APS이노베이션",
+"second_ret": 9.68
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -11.58,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 6.23,
+"second": "LS ELECTRIC",
+"second_ret": 2.71
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -5.48,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": -0.99,
+"second": "TS인베스트먼트",
+"second_ret": -1.18
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -5.04,
+"up5": 1,
+"lead": "비츠로테크",
+"lead_ret": 6.23,
+"second": "삼화콘덴서",
+"second_ret": 2.67
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -4.11,
+"up5": 0,
+"lead": "에스엠국일",
+"lead_ret": 0.0,
+"second": "엑사이엔씨",
+"second_ret": -0.84
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.96,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.38,
+"second": "샘표식품",
+"second_ret": -3.17
+}
+],
+"leaders": [
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 13.87,
+"value": 8711,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 24.73,
+"value": 5546,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "광무",
+"code": "029480",
+"ret": 14.05,
+"value": 978,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "프로이천",
+"code": "321260",
+"ret": 13.31,
+"value": 959,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "미래산업",
+"code": "025560",
+"ret": 17.48,
+"value": 818,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

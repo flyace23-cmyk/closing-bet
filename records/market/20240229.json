@@ -1,0 +1,254 @@
+{
+"date": "20240229",
+"kospi": -0.37,
+"kosdaq": -0.05,
+"adv": 719,
+"dec": 1412,
+"flat": 112,
+"limit_up": 3,
+"limit_down": 2,
+"value_total": 216923,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "SG글로벌",
+"lead_ret": 12.81,
+"second": "코리아에프티",
+"second_ret": 11.18
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 4,
+"lead": "에스피소프트",
+"lead_ret": 29.98,
+"second": "폴라리스오피스",
+"second_ret": 21.78
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "레이저옵텍",
+"lead_ret": 18.32,
+"second": "한스바이오메드",
+"second_ret": 15.59
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": 5.13,
+"up5": 3,
+"lead": "에스피소프트",
+"lead_ret": 29.98,
+"second": "스톤브릿지벤처스",
+"second_ret": 29.86
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 4.87,
+"up5": 3,
+"lead": "컴퍼니케이",
+"lead_ret": 29.89,
+"second": "스톤브릿지벤처스",
+"second_ret": 29.86
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.06,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 4.92,
+"second": "그래디언트",
+"second_ret": 3.58
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.93,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 10.74,
+"second": "스페코",
+"second_ret": 1.92
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 1.64,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 17.76,
+"second": "에피소드컴퍼니",
+"second_ret": -0.19
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.61,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 9.77,
+"second": "글로벌텍스프리",
+"second_ret": 9.02
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 1.47,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 6.04,
+"second": "팬오션",
+"second_ret": 5.76
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.45,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": 4.74,
+"second": "성광벤드",
+"second_ret": 3.96
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.44,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.13,
+"second": "삼성화재",
+"second_ret": 2.41
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.4,
+"up5": 2,
+"lead": "컴퍼니케이",
+"lead_ret": 29.89,
+"second": "폴라리스오피스",
+"second_ret": 21.78
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.3,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 21.78,
+"second": "알서포트",
+"second_ret": 7.7
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.25,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 15.61,
+"second": "삼성물산",
+"second_ret": 0.64
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -3.62,
+"up5": 0,
+"lead": "코렌텍",
+"lead_ret": 0.09,
+"second": "티앤알바이오팹",
+"second_ret": -1.2
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -3.02,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": -0.13,
+"second": "갤럭시아머니트리",
+"second_ret": -0.72
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.86,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": -0.51,
+"second": "링네트",
+"second_ret": -0.78
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.78,
+"up5": 0,
+"lead": "비츠로시스",
+"lead_ret": 0.18,
+"second": "DGI",
+"second_ret": 0.0
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.74,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.27,
+"second": "네패스",
+"second_ret": -0.55
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 11.51,
+"value": 4549,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 21.78,
+"value": 3106,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "코셈",
+"code": "360350",
+"ret": 16.6,
+"value": 2283,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에스피소프트",
+"code": "443670",
+"ret": 29.98,
+"value": 1558,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "레이저옵텍",
+"code": "199550",
+"ret": 18.32,
+"value": 1557,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

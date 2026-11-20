@@ -1,0 +1,246 @@
+{
+"date": "20210810",
+"kospi": -0.53,
+"kosdaq": -0.75,
+"adv": 456,
+"dec": 1414,
+"flat": 149,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 309538,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 7,
+"lead": "SK바이오사이언스",
+"lead_ret": 29.68,
+"second": "바이오니아",
+"second_ret": 13.12
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "SK케미칼",
+"lead_ret": 14.79,
+"second": "씨티씨바이오",
+"second_ret": 9.36
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 9,
+"avg": 1.97,
+"up5": 1,
+"lead": "푸드나무",
+"lead_ret": 29.88,
+"second": "체리부로",
+"second_ret": 0.0
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 37,
+"avg": 1.87,
+"up5": 5,
+"lead": "SK바이오사이언스",
+"lead_ret": 29.68,
+"second": "SK케미칼",
+"second_ret": 14.79
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.36,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 4.18,
+"second": "파미셀",
+"second_ret": 3.1
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 1.22,
+"up5": 5,
+"lead": "바이오니아",
+"lead_ret": 13.12,
+"second": "씨티씨바이오",
+"second_ret": 9.36
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.15,
+"up5": 1,
+"lead": "GH신소재",
+"lead_ret": 11.61,
+"second": "콜마바이오텍",
+"second_ret": 3.16
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 64,
+"avg": 1.02,
+"up5": 8,
+"lead": "SK바이오사이언스",
+"lead_ret": 29.68,
+"second": "바이오니아",
+"second_ret": 13.12
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 0.95,
+"up5": 1,
+"lead": "서린바이오",
+"lead_ret": 8.3,
+"second": "파미셀",
+"second_ret": 3.1
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 23,
+"avg": 0.91,
+"up5": 3,
+"lead": "SK바이오사이언스",
+"lead_ret": 29.68,
+"second": "유바이오로직스",
+"second_ret": 6.65
+},
+{
+"name": "유전자 치료제/분석",
+"n": 30,
+"avg": 0.64,
+"up5": 2,
+"lead": "바이오니아",
+"lead_ret": 13.12,
+"second": "에스디바이오센서",
+"second_ret": 6.0
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 18,
+"avg": 0.62,
+"up5": 2,
+"lead": "이지케어텍",
+"lead_ret": 12.19,
+"second": "나노엔텍",
+"second_ret": 9.21
+},
+{
+"name": "마스크",
+"n": 21,
+"avg": 0.61,
+"up5": 1,
+"lead": "코데즈컴바인",
+"lead_ret": 19.59,
+"second": "디케이앤디",
+"second_ret": 3.03
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 0.59,
+"up5": 1,
+"lead": "솔디펜스",
+"lead_ret": 5.86,
+"second": "아스트",
+"second_ret": 4.8
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -3.09,
+"up5": 0,
+"lead": "세중",
+"lead_ret": -0.32,
+"second": "롯데관광개발",
+"second_ret": -1.01
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": -2.88,
+"up5": 0,
+"lead": "팅크웨어",
+"lead_ret": 0.88,
+"second": "이랜텍",
+"second_ret": 0.0
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -2.87,
+"up5": 0,
+"lead": "대창",
+"lead_ret": 0.39,
+"second": "경인양행",
+"second_ret": -0.58
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.68,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 0.0,
+"second": "손오공",
+"second_ret": -0.19
+},
+{
+"name": "농업",
+"n": 22,
+"avg": -2.63,
+"up5": 0,
+"lead": "그린생명과학",
+"lead_ret": 0.1,
+"second": "누보",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "SK바이오사이언스",
+"code": "302440",
+"ret": 29.68,
+"value": 44309,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 14.79,
+"value": 12191,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 13.12,
+"value": 4683,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "코데즈컴바인",
+"code": "047770",
+"ret": 19.59,
+"value": 2398,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "대정화금",
+"code": "120240",
+"ret": 20.85,
+"value": 1932,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

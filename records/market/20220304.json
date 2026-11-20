@@ -1,0 +1,246 @@
+{
+"date": "20220304",
+"kospi": -1.22,
+"kosdaq": -1.25,
+"adv": 666,
+"dec": 1203,
+"flat": 202,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 189998,
+"hot": [
+{
+"name": "농업",
+"n": 5,
+"lead": "누보",
+"lead_ret": 21.39,
+"second": "효성오앤비",
+"second_ret": 15.5
+},
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "경남스틸",
+"lead_ret": 9.21,
+"second": "NI스틸",
+"second_ret": 6.2
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 5.81,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 14.19,
+"second": "대한해운",
+"second_ret": 5.64
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 5.27,
+"up5": 3,
+"lead": "누보",
+"lead_ret": 21.39,
+"second": "효성오앤비",
+"second_ret": 15.5
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 3.72,
+"up5": 5,
+"lead": "누보",
+"lead_ret": 21.39,
+"second": "효성오앤비",
+"second_ret": 15.5
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.38,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 15.5,
+"second": "제이씨케미칼",
+"second_ret": 12.64
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.38,
+"up5": 2,
+"lead": "효성오앤비",
+"lead_ret": 15.5,
+"second": "제이씨케미칼",
+"second_ret": 12.64
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.23,
+"up5": 2,
+"lead": "대창",
+"lead_ret": 13.69,
+"second": "피제이메탈",
+"second_ret": 11.21
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 2.13,
+"up5": 3,
+"lead": "한탑",
+"lead_ret": 29.91,
+"second": "한국가스공사",
+"second_ret": 7.4
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.09,
+"up5": 1,
+"lead": "조비",
+"lead_ret": 8.37,
+"second": "남해화학",
+"second_ret": 3.45
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.08,
+"up5": 1,
+"lead": "세아제강",
+"lead_ret": 5.29,
+"second": "세아베스틸지주",
+"second_ret": 4.05
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 1.96,
+"up5": 2,
+"lead": "금강공업",
+"lead_ret": 5.72,
+"second": "세아제강",
+"second_ret": 5.29
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 1.91,
+"up5": 2,
+"lead": "한탑",
+"lead_ret": 29.91,
+"second": "사조동아원",
+"second_ret": 5.14
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 1.7,
+"up5": 4,
+"lead": "포메탈",
+"lead_ret": 12.96,
+"second": "삼일씨엔에스",
+"second_ret": 9.45
+}
+],
+"themes_worst": [
+{
+"name": "게임",
+"n": 28,
+"avg": -3.13,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": 2.06,
+"second": "넥써쓰",
+"second_ret": 0.53
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -3.08,
+"up5": 0,
+"lead": "조이시티",
+"lead_ret": 2.06,
+"second": "넥써쓰",
+"second_ret": 0.53
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -2.75,
+"up5": 0,
+"lead": "삼성에스디에스",
+"lead_ret": -1.41,
+"second": "삼성전자",
+"second_ret": -1.92
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.58,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -1.14,
+"second": "삼성전자",
+"second_ret": -1.92
+},
+{
+"name": "의료AI",
+"n": 17,
+"avg": -2.39,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": 0.0,
+"second": "엔젠바이오",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "HMM",
+"code": "011200",
+"ret": 14.19,
+"value": 19264,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 23.93,
+"value": 3558,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "효성오앤비",
+"code": "097870",
+"ret": 15.5,
+"value": 1651,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "피제이메탈",
+"code": "128660",
+"ret": 11.21,
+"value": 1426,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "대창",
+"code": "012800",
+"ret": 13.69,
+"value": 1317,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

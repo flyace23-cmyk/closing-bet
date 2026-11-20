@@ -1,0 +1,254 @@
+{
+"date": "20230406",
+"kospi": -1.44,
+"kosdaq": -0.78,
+"adv": 394,
+"dec": 1675,
+"flat": 78,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 218888,
+"hot": [
+{
+"name": "희귀금속(희토류 등)",
+"n": 5,
+"lead": "유니온",
+"lead_ret": 30.0,
+"second": "현대비앤지스틸",
+"second_ret": 30.0
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "피노",
+"lead_ret": 29.95,
+"second": "아바코",
+"second_ret": 24.47
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 13.59,
+"second": "퓨쳐켐",
+"second_ret": 10.38
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 10.82,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 30.0,
+"second": "유니온머티리얼",
+"second_ret": 24.79
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 8.24,
+"up5": 9,
+"lead": "현대비앤지스틸",
+"lead_ret": 30.0,
+"second": "유니온",
+"second_ret": 30.0
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 2.03,
+"up5": 2,
+"lead": "현대비앤지스틸",
+"lead_ret": 30.0,
+"second": "티플랙스",
+"second_ret": 5.19
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.6,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 24.79,
+"second": "EG",
+"second_ret": 6.93
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.6,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 24.79,
+"second": "EG",
+"second_ret": 6.93
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 0.92,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 30.0,
+"second": "한일시멘트",
+"second_ret": 1.54
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 0.6,
+"up5": 2,
+"lead": "티엔엔터테인먼트",
+"lead_ret": 15.42,
+"second": "하이브",
+"second_ret": 7.5
+},
+{
+"name": "철강 중소형",
+"n": 32,
+"avg": 0.59,
+"up5": 2,
+"lead": "현대비앤지스틸",
+"lead_ret": 30.0,
+"second": "동국산업",
+"second_ret": 11.21
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": 0.55,
+"up5": 0,
+"lead": "인벤티지랩",
+"lead_ret": 3.37,
+"second": "서린바이오",
+"second_ret": 2.74
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 0.28,
+"up5": 1,
+"lead": "네이처셀",
+"lead_ret": 13.59,
+"second": "메타케어",
+"second_ret": 2.88
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 0.24,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": 1.52,
+"second": "강스템바이오텍",
+"second_ret": 1.44
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": 0.2,
+"up5": 1,
+"lead": "금양그린파워",
+"lead_ret": 16.86,
+"second": "비에이치아이",
+"second_ret": 3.41
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -3.46,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": 0.0,
+"second": "에스티아이",
+"second_ret": -1.98
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -3.35,
+"up5": 0,
+"lead": "와이엠티",
+"lead_ret": -0.46,
+"second": "SK하이닉스",
+"second_ret": -0.95
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 11,
+"avg": -3.27,
+"up5": 0,
+"lead": "한미반도체",
+"lead_ret": 0.77,
+"second": "세아베스틸지주",
+"second_ret": -0.22
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.26,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.95,
+"second": "ISC",
+"second_ret": -1.71
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": -3.23,
+"up5": 1,
+"lead": "플리토",
+"lead_ret": 8.71,
+"second": "글로벌텍스프리",
+"second_ret": 2.13
+}
+],
+"leaders": [
+{
+"name": "피엔티",
+"code": "137400",
+"ret": 17.78,
+"value": 5321,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 11.8,
+"value": 3234,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "유니온머티리얼",
+"code": "047400",
+"ret": 24.79,
+"value": 2254,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+},
+{
+"name": "아바코",
+"code": "083930",
+"ret": 24.47,
+"value": 2236,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 30.0,
+"value": 1833,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+}
+],
+"backfilled": true
+}

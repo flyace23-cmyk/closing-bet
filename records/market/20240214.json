@@ -1,0 +1,254 @@
+{
+"date": "20240214",
+"kospi": -1.1,
+"kosdaq": 0.96,
+"adv": 1238,
+"dec": 863,
+"flat": 136,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 205777,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "에코앤드림",
+"lead_ret": 17.78,
+"second": "솔브레인홀딩스",
+"second_ret": 17.27
+},
+{
+"name": "반도체 재료/부품",
+"n": 4,
+"lead": "오킨스전자",
+"lead_ret": 14.47,
+"second": "덕산테코피아",
+"second_ret": 14.11
+},
+{
+"name": "초전도체",
+"n": 4,
+"lead": "덕성",
+"lead_ret": 29.94,
+"second": "서남",
+"second_ret": 29.88
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 6.13,
+"up5": 5,
+"lead": "네오셈",
+"lead_ret": 29.43,
+"second": "오킨스전자",
+"second_ret": 14.47
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 6.09,
+"up5": 4,
+"lead": "덕성",
+"lead_ret": 29.94,
+"second": "서남",
+"second_ret": 29.88
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.56,
+"up5": 2,
+"lead": "에스넷",
+"lead_ret": 11.54,
+"second": "광무",
+"second_ret": 10.61
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 3.3,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 16.4,
+"second": "고려제강",
+"second_ret": 4.03
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.86,
+"up5": 1,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 12.72,
+"second": "자람테크놀로지",
+"second_ret": 3.63
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.68,
+"up5": 3,
+"lead": "에스넷",
+"lead_ret": 11.54,
+"second": "NHN",
+"second_ret": 8.17
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 31,
+"avg": 2.68,
+"up5": 4,
+"lead": "서남",
+"lead_ret": 29.88,
+"second": "컨텍",
+"second_ret": 7.67
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.61,
+"up5": 1,
+"lead": "NHN",
+"lead_ret": 8.17,
+"second": "디앤씨미디어",
+"second_ret": 4.79
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 2.58,
+"up5": 5,
+"lead": "미래나노텍",
+"lead_ret": 13.96,
+"second": "광무",
+"second_ret": 10.61
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 2.54,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 12.72,
+"second": "제주반도체",
+"second_ret": 8.03
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 2.34,
+"up5": 4,
+"lead": "제너셈",
+"lead_ret": 18.83,
+"second": "오픈엣지테크놀로지",
+"second_ret": 12.72
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 2.33,
+"up5": 2,
+"lead": "제너셈",
+"lead_ret": 18.83,
+"second": "아이씨에이치",
+"second_ret": 5.48
+}
+],
+"themes_worst": [
+{
+"name": "종합상사",
+"n": 8,
+"avg": -2.64,
+"up5": 0,
+"lead": "현대코퍼레이션",
+"lead_ret": -0.16,
+"second": "GS글로벌",
+"second_ret": -0.38
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.15,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.34,
+"second": "신한지주",
+"second_ret": -1.57
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.15,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.72,
+"second": "한화오션",
+"second_ret": -1.7
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.08,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.87,
+"second": "삼성전기",
+"second_ret": -1.22
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.92,
+"up5": 0,
+"lead": "트리니티항공",
+"lead_ret": 2.2,
+"second": "진에어",
+"second_ret": 0.93
+}
+],
+"leaders": [
+{
+"name": "네오셈",
+"code": "253590",
+"ret": 29.43,
+"value": 3926,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "이랜시스",
+"code": "264850",
+"ret": 13.2,
+"value": 2917,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "오픈엣지테크놀로지",
+"code": "394280",
+"ret": 12.72,
+"value": 2286,
+"theme": "CXL(컴퓨트익스프레스링크)",
+"reason": "테마: CXL(컴퓨트익스프레스링크)"
+},
+{
+"name": "코리아에프티",
+"code": "123410",
+"ret": 15.64,
+"value": 1947,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "솔브레인홀딩스",
+"code": "036830",
+"ret": 17.27,
+"value": 1888,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

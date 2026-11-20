@@ -1,0 +1,254 @@
+{
+"date": "20250602",
+"kospi": 0.05,
+"kosdaq": 0.81,
+"adv": 1076,
+"dec": 1161,
+"flat": 123,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 130121,
+"hot": [
+{
+"name": "화장품",
+"n": 4,
+"lead": "내츄럴엔도텍",
+"lead_ret": 19.91,
+"second": "바이오비쥬",
+"second_ret": 16.78
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "바이오비쥬",
+"lead_ret": 16.78,
+"second": "아이쓰리시스템",
+"second_ret": 12.77
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "솔루스첨단소재",
+"lead_ret": 13.29,
+"second": "원텍",
+"second_ret": 10.43
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 12.87,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 29.95,
+"second": "웹케시",
+"second_ret": 21.72
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 6.63,
+"up5": 4,
+"lead": "유라클",
+"lead_ret": 29.95,
+"second": "DSC인베스트먼트",
+"second_ret": 11.13
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 3.6,
+"up5": 3,
+"lead": "아모센스",
+"lead_ret": 29.93,
+"second": "두산퓨얼셀",
+"second_ret": 6.24
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.24,
+"up5": 5,
+"lead": "미스터블루",
+"lead_ret": 18.84,
+"second": "핑거스토리",
+"second_ret": 6.18
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.0,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.93,
+"second": "유니온머티리얼",
+"second_ret": 4.48
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.0,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.93,
+"second": "유니온머티리얼",
+"second_ret": 4.48
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 2.7,
+"up5": 2,
+"lead": "크라우드웍스",
+"lead_ret": 17.07,
+"second": "이스트소프트",
+"second_ret": 7.55
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 2.69,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 11.13,
+"second": "원티드랩",
+"second_ret": 3.36
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 23,
+"avg": 2.51,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 29.95,
+"second": "핑거",
+"second_ret": 6.94
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 2.39,
+"up5": 8,
+"lead": "솔트룩스",
+"lead_ret": 11.88,
+"second": "플리토",
+"second_ret": 9.9
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 2.05,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.93,
+"second": "삼성전자",
+"second_ret": 1.07
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 2.01,
+"up5": 2,
+"lead": "세종텔레콤",
+"lead_ret": 12.87,
+"second": "핑거",
+"second_ret": 6.94
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": -3.7,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": -0.57,
+"second": "대한제강",
+"second_ret": -1.71
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -3.1,
+"up5": 0,
+"lead": "엔케이",
+"lead_ret": 0.24,
+"second": "SK오션플랜트",
+"second_ret": -0.05
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": -2.85,
+"up5": 0,
+"lead": "이렘",
+"lead_ret": 1.52,
+"second": "율촌",
+"second_ret": 0.3
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.38,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -1.05,
+"second": "한화갤러리아",
+"second_ret": -1.61
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -2.27,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 2.34,
+"second": "iM금융지주",
+"second_ret": -0.98
+}
+],
+"leaders": [
+{
+"name": "태웅",
+"code": "044490",
+"ret": 20.09,
+"value": 3369,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "바이오비쥬",
+"code": "489460",
+"ret": 16.78,
+"value": 2523,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "웹케시",
+"code": "053580",
+"ret": 21.72,
+"value": 1680,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "미스터블루",
+"code": "207760",
+"ret": 18.84,
+"value": 1050,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "유라클",
+"code": "088340",
+"ret": 29.95,
+"value": 925,
+"theme": "지역화폐",
+"reason": "테마: 지역화폐"
+}
+],
+"backfilled": true
+}

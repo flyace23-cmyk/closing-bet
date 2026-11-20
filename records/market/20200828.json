@@ -1,0 +1,254 @@
+{
+"date": "20200828",
+"kospi": 0.4,
+"kosdaq": 0.59,
+"adv": 1185,
+"dec": 579,
+"flat": 171,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 287642,
+"hot": [
+{
+"name": "풍력에너지",
+"n": 3,
+"lead": "코오롱글로벌",
+"lead_ret": 29.91,
+"second": "두산에너빌리티",
+"second_ret": 26.2
+},
+{
+"name": "종합 물류",
+"n": 3,
+"lead": "태웅로직스",
+"lead_ret": 30.04,
+"second": "한익스프레스",
+"second_ret": 29.91
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "HLB제넥스",
+"lead_ret": 29.88,
+"second": "메타케어",
+"second_ret": 20.62
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 10.39,
+"up5": 3,
+"lead": "삼륭물산",
+"lead_ret": 30.0,
+"second": "한국팩키지",
+"second_ret": 29.88
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 7.14,
+"up5": 5,
+"lead": "태웅로직스",
+"lead_ret": 30.04,
+"second": "한익스프레스",
+"second_ret": 29.91
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 6.12,
+"up5": 5,
+"lead": "태림포장",
+"lead_ret": 17.67,
+"second": "대영포장",
+"second_ret": 10.04
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.96,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 26.2,
+"second": "모비스",
+"second_ret": 3.48
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 4.91,
+"up5": 9,
+"lead": "코오롱글로벌",
+"lead_ret": 29.91,
+"second": "두산에너빌리티",
+"second_ret": 26.2
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 4.75,
+"up5": 7,
+"lead": "신풍",
+"lead_ret": 12.69,
+"second": "한창제지",
+"second_ret": 6.07
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 4.5,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 29.91,
+"second": "LX인터내셔널",
+"second_ret": 2.42
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 4.16,
+"up5": 1,
+"lead": "CJ씨푸드",
+"lead_ret": 12.68,
+"second": "우양",
+"second_ret": 3.83
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 4.02,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 16.61,
+"second": "갤럭시아머니트리",
+"second_ret": 7.91
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 3.97,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 12.68,
+"second": "사조씨푸드",
+"second_ret": 8.53
+},
+{
+"name": "쿠팡(coupang)",
+"n": 17,
+"avg": 3.78,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 16.61,
+"second": "동방",
+"second_ret": 13.51
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.75,
+"up5": 2,
+"lead": "코오롱글로벌",
+"lead_ret": 29.91,
+"second": "한신공영",
+"second_ret": 6.3
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -4.57,
+"up5": 0,
+"lead": "엔브이에이치코리아",
+"lead_ret": 0.98,
+"second": "콜마바이오텍",
+"second_ret": -1.86
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.99,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.25,
+"second": "녹십자",
+"second_ret": -1.12
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": -1.59,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 4.02,
+"second": "한빛소프트",
+"second_ret": 3.35
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.46,
+"up5": 0,
+"lead": "국제약품",
+"lead_ret": 3.86,
+"second": "위더스제약",
+"second_ret": 1.19
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -1.34,
+"up5": 1,
+"lead": "링네트",
+"lead_ret": 20.76,
+"second": "알서포트",
+"second_ret": 2.05
+}
+],
+"leaders": [
+{
+"name": "두산에너빌리티",
+"code": "034020",
+"ret": 26.2,
+"value": 9440,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "링네트",
+"code": "042500",
+"ret": 20.76,
+"value": 4418,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "CJ씨푸드",
+"code": "011150",
+"ret": 12.68,
+"value": 4323,
+"theme": "구제역/광우병 수혜",
+"reason": "테마: 구제역/광우병 수혜"
+},
+{
+"name": "쏠리드",
+"code": "050890",
+"ret": 13.48,
+"value": 3567,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "메타케어",
+"code": "118000",
+"ret": 20.62,
+"value": 2541,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

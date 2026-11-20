@@ -1,0 +1,254 @@
+{
+"date": "20240619",
+"kospi": 1.21,
+"kosdaq": 0.26,
+"adv": 818,
+"dec": 1311,
+"flat": 131,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 225385,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "자람테크놀로지",
+"lead_ret": 15.38,
+"second": "윈팩",
+"second_ret": 13.56
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "이엠텍",
+"lead_ret": 23.97,
+"second": "제이앤티씨",
+"second_ret": 12.99
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "태웅로직스",
+"lead_ret": 11.19,
+"second": "넥스트칩",
+"second_ret": 9.45
+}
+],
+"themes": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 4.25,
+"up5": 3,
+"lead": "넥스틸",
+"lead_ret": 30.0,
+"second": "하이스틸",
+"second_ret": 6.93
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.32,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 15.38,
+"second": "오픈엣지테크놀로지",
+"second_ret": 6.73
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.04,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 6.09,
+"second": "LG디스플레이",
+"second_ret": 4.84
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 2.97,
+"up5": 4,
+"lead": "한선엔지니어링",
+"lead_ret": 7.73,
+"second": "SK이터닉스",
+"second_ret": 6.63
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.97,
+"up5": 2,
+"lead": "한선엔지니어링",
+"lead_ret": 7.73,
+"second": "태광",
+"second_ret": 6.93
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.95,
+"up5": 3,
+"lead": "대동스틸",
+"lead_ret": 12.99,
+"second": "하이스틸",
+"second_ret": 6.93
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.84,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 6.35,
+"second": "SBI인베스트먼트",
+"second_ret": 4.48
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.51,
+"up5": 1,
+"lead": "HD한국조선해양",
+"lead_ret": 5.12,
+"second": "한화오션",
+"second_ret": 3.92
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.48,
+"up5": 1,
+"lead": "케이씨에스",
+"lead_ret": 20.34,
+"second": "로지시스",
+"second_ret": 2.37
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.43,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 7.25,
+"second": "고려제강",
+"second_ret": 3.57
+},
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 2.4,
+"up5": 3,
+"lead": "태성",
+"lead_ret": 13.92,
+"second": "제이앤티씨",
+"second_ret": 12.99
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 2.36,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 5.46,
+"second": "삼성생명",
+"second_ret": 4.05
+}
+],
+"themes_worst": [
+{
+"name": "수산",
+"n": 9,
+"avg": -5.91,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": -2.49,
+"second": "사조오양",
+"second_ret": -2.81
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -4.84,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 0.54,
+"second": "오로라",
+"second_ret": -1.32
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.05,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": -2.99,
+"second": "미래생명자원",
+"second_ret": -3.06
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -3.41,
+"up5": 0,
+"lead": "우진비앤지",
+"lead_ret": 0.78,
+"second": "정다운",
+"second_ret": -0.17
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": -3.38,
+"up5": 0,
+"lead": "토박스코리아",
+"lead_ret": 0.73,
+"second": "예림당",
+"second_ret": 0.53
+}
+],
+"leaders": [
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 15.76,
+"value": 8396,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 11.01,
+"value": 3411,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "카페24",
+"code": "042000",
+"ret": 29.91,
+"value": 3217,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "노브랜드",
+"code": "145170",
+"ret": 11.23,
+"value": 2541,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "제이앤티씨",
+"code": "204270",
+"ret": 12.99,
+"value": 2241,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

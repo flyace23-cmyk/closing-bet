@@ -1,0 +1,238 @@
+{
+"date": "20200108",
+"kospi": -1.11,
+"kosdaq": -3.39,
+"adv": 121,
+"dec": 1712,
+"flat": 69,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 141547,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 10,
+"lead": "스페코",
+"lead_ret": 29.97,
+"second": "빅텍",
+"second_ret": 29.92
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 4.03,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 22.69,
+"second": "신세계",
+"second_ret": 0.49
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 2.08,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.96,
+"second": "나이스정보통신",
+"second_ret": 0.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.01,
+"up5": 2,
+"lead": "스페코",
+"lead_ret": 29.97,
+"second": "한국석유",
+"second_ret": 11.88
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 49,
+"avg": 1.9,
+"up5": 10,
+"lead": "스페코",
+"lead_ret": 29.97,
+"second": "빅텍",
+"second_ret": 29.92
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.39,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.96,
+"second": "신세계",
+"second_ret": 0.49
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.97,
+"up5": 2,
+"lead": "대성에너지",
+"lead_ret": 11.95,
+"second": "지에스이",
+"second_ret": 7.65
+},
+{
+"name": "드론(Drone)",
+"n": 23,
+"avg": 0.52,
+"up5": 4,
+"lead": "퍼스텍",
+"lead_ret": 29.91,
+"second": "휴니드",
+"second_ret": 16.83
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.06,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 22.69,
+"second": "극동유화",
+"second_ret": 0.17
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.06,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 22.69,
+"second": "극동유화",
+"second_ret": 0.17
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -0.27,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 3.62,
+"second": "삼성전자",
+"second_ret": 1.79
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": -0.33,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 29.96,
+"second": "인포바인",
+"second_ret": 0.24
+},
+{
+"name": "항공기부품",
+"n": 13,
+"avg": -0.51,
+"up5": 2,
+"lead": "휴니드",
+"lead_ret": 16.83,
+"second": "솔디펜스",
+"second_ret": 10.98
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 10,
+"avg": -6.33,
+"up5": 0,
+"lead": "셀바스AI",
+"lead_ret": 0.0,
+"second": "제이에스링크",
+"second_ret": -2.23
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": -5.46,
+"up5": 0,
+"lead": "현대약품",
+"lead_ret": -2.95,
+"second": "대웅제약",
+"second_ret": -3.36
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -5.36,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": -2.27,
+"second": "아이텍",
+"second_ret": -2.89
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": -5.26,
+"up5": 0,
+"lead": "에스앤에스텍",
+"lead_ret": 1.08,
+"second": "이녹스첨단소재",
+"second_ret": -1.75
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": -5.23,
+"up5": 0,
+"lead": "마크로젠",
+"lead_ret": -1.8,
+"second": "제일약품",
+"second_ret": -3.04
+}
+],
+"leaders": [
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 29.92,
+"value": 3542,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "SH에너지화학",
+"code": "002360",
+"ret": 16.97,
+"value": 3491,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "스페코",
+"code": "013810",
+"ret": 29.97,
+"value": 1322,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "한일단조",
+"code": "024740",
+"ret": 25.07,
+"value": 1283,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "대성산업",
+"code": "128820",
+"ret": 22.69,
+"value": 915,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+}
+],
+"backfilled": true
+}

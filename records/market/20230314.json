@@ -1,0 +1,254 @@
+{
+"date": "20230314",
+"kospi": -2.56,
+"kosdaq": -3.91,
+"adv": 102,
+"dec": 1996,
+"flat": 45,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 170380,
+"hot": [
+{
+"name": "LED",
+"n": 3,
+"lead": "엘컴텍",
+"lead_ret": 25.89,
+"second": "코아시아",
+"second_ret": 7.92
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "진매트릭스",
+"lead_ret": 10.52,
+"second": "압타바이오",
+"second_ret": 7.16
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "자람테크놀로지",
+"lead_ret": 15.65,
+"second": "코아시아",
+"second_ret": 7.92
+}
+],
+"themes": [
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -0.59,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 17.22,
+"second": "코스모신소재",
+"second_ret": 0.74
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.8,
+"up5": 0,
+"lead": "동양고속",
+"lead_ret": 2.08,
+"second": "동원산업",
+"second_ret": 0.63
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.93,
+"up5": 2,
+"lead": "딥커머스",
+"lead_ret": 6.25,
+"second": "로스웰",
+"second_ret": 5.71
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": -1.0,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 15.65,
+"second": "삼성전자",
+"second_ret": -1.67
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": -1.08,
+"up5": 1,
+"lead": "금양그린파워",
+"lead_ret": 29.94,
+"second": "엘티씨",
+"second_ret": 1.52
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.09,
+"up5": 1,
+"lead": "엘컴텍",
+"lead_ret": 25.89,
+"second": "서울가스",
+"second_ret": -0.31
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -1.66,
+"up5": 1,
+"lead": "아이티센글로벌",
+"lead_ret": 12.38,
+"second": "토마토시스템",
+"second_ret": -0.74
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.7,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 5.44,
+"second": "가온전선",
+"second_ret": -0.07
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.15,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 0.23,
+"second": "삼천리",
+"second_ret": 0.0
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.16,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": -0.86,
+"second": "현대백화점",
+"second_ret": -2.05
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.22,
+"up5": 0,
+"lead": "KG케미칼",
+"lead_ret": 2.27,
+"second": "TKG휴켐스",
+"second_ret": -1.45
+},
+{
+"name": "게임",
+"n": 29,
+"avg": -2.4,
+"up5": 0,
+"lead": "넷마블",
+"lead_ret": 1.79,
+"second": "액토즈소프트",
+"second_ret": 0.5
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 19,
+"avg": -6.06,
+"up5": 0,
+"lead": "토마토시스템",
+"lead_ret": -0.74,
+"second": "제이에스링크",
+"second_ret": -4.03
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 49,
+"avg": -6.05,
+"up5": 1,
+"lead": "퍼스텍",
+"lead_ret": 7.46,
+"second": "큐렉소",
+"second_ret": 1.22
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": -5.86,
+"up5": 1,
+"lead": "모델솔루션",
+"lead_ret": 10.34,
+"second": "브리지텍",
+"second_ret": -0.73
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -5.77,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": -1.81,
+"second": "금호석유화학",
+"second_ret": -3.5
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -5.62,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -1.76,
+"second": "우리산업",
+"second_ret": -3.12
+}
+],
+"leaders": [
+{
+"name": "금양그린파워",
+"code": "282720",
+"ret": 29.94,
+"value": 3165,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "KBG",
+"code": "318000",
+"ret": 23.8,
+"value": 2401,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 25.89,
+"value": 2016,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "EG",
+"code": "037370",
+"ret": 18.39,
+"value": 1136,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "한울반도체",
+"code": "320000",
+"ret": 17.22,
+"value": 785,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

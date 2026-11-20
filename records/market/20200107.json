@@ -1,0 +1,254 @@
+{
+"date": "20200107",
+"kospi": 0.95,
+"kosdaq": 1.24,
+"adv": 1157,
+"dec": 552,
+"flat": 193,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 92141,
+"hot": [
+{
+"name": "화장품",
+"n": 7,
+"lead": "디와이디",
+"lead_ret": 15.65,
+"second": "코리아나",
+"second_ret": 9.5
+},
+{
+"name": "보안주(정보)",
+"n": 5,
+"lead": "에스에스알",
+"lead_ret": 29.95,
+"second": "지란지교시큐리티",
+"second_ret": 12.41
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "데이타솔루션",
+"lead_ret": 23.94,
+"second": "오픈베이스",
+"second_ret": 9.48
+}
+],
+"themes": [
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.95,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 24.52,
+"second": "흥구석유",
+"second_ret": 6.16
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.6,
+"up5": 4,
+"lead": "토니모리",
+"lead_ret": 6.87,
+"second": "글로벌텍스프리",
+"second_ret": 5.85
+},
+{
+"name": "보안주(정보)",
+"n": 36,
+"avg": 3.31,
+"up5": 8,
+"lead": "에스에스알",
+"lead_ret": 29.95,
+"second": "지란지교시큐리티",
+"second_ret": 12.41
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 18,
+"avg": 3.23,
+"up5": 3,
+"lead": "데이타솔루션",
+"lead_ret": 23.94,
+"second": "엑셈",
+"second_ret": 8.84
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.06,
+"up5": 2,
+"lead": "현대백화점",
+"lead_ret": 5.83,
+"second": "신세계",
+"second_ret": 5.17
+},
+{
+"name": "화장품",
+"n": 70,
+"avg": 2.92,
+"up5": 15,
+"lead": "디와이디",
+"lead_ret": 15.65,
+"second": "코리아나",
+"second_ret": 9.5
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.87,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 24.52,
+"second": "아이티센씨티에스",
+"second_ret": 5.31
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.8,
+"up5": 2,
+"lead": "오픈베이스",
+"lead_ret": 9.48,
+"second": "아이티센씨티에스",
+"second_ret": 5.31
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 2.77,
+"up5": 5,
+"lead": "SGA솔루션즈",
+"lead_ret": 8.85,
+"second": "한국전자인증",
+"second_ret": 8.09
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 2.61,
+"up5": 1,
+"lead": "NICE평가정보",
+"lead_ret": 8.21,
+"second": "파수AI",
+"second_ret": 3.72
+},
+{
+"name": "인터넷은행",
+"n": 26,
+"avg": 2.59,
+"up5": 6,
+"lead": "엑셈",
+"lead_ret": 8.84,
+"second": "NICE평가정보",
+"second_ret": 8.21
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 2.59,
+"up5": 2,
+"lead": "엑셈",
+"lead_ret": 8.84,
+"second": "드림시큐리티",
+"second_ret": 5.54
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 10,
+"avg": -1.95,
+"up5": 0,
+"lead": "랩지노믹스",
+"lead_ret": 3.3,
+"second": "제이엘케이",
+"second_ret": 0.63
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.63,
+"up5": 0,
+"lead": "경동도시가스",
+"lead_ret": 0.24,
+"second": "한국가스공사",
+"second_ret": 0.14
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 10,
+"avg": -1.51,
+"up5": 0,
+"lead": "대한광통신",
+"lead_ret": 2.44,
+"second": "우리넷",
+"second_ret": 1.92
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.32,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 5.17,
+"second": "천일고속",
+"second_ret": -0.14
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -1.07,
+"up5": 0,
+"lead": "광전자",
+"lead_ret": 0.71,
+"second": "LG전자",
+"second_ret": 0.57
+}
+],
+"leaders": [
+{
+"name": "극동유화",
+"code": "014530",
+"ret": 24.52,
+"value": 3034,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "신라젠",
+"code": "215600",
+"ret": 29.84,
+"value": 2018,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 10.01,
+"value": 1389,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "엔바이오니아",
+"code": "317870",
+"ret": 19.55,
+"value": 817,
+"theme": "전기차 화재 방지(배터리 열폭주 등)",
+"reason": "테마: 전기차 화재 방지(배터리 열폭주 등)"
+},
+{
+"name": "데이타솔루션",
+"code": "263800",
+"ret": 23.94,
+"value": 816,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

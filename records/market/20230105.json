@@ -1,0 +1,254 @@
+{
+"date": "20230105",
+"kospi": 0.38,
+"kosdaq": -0.55,
+"adv": 973,
+"dec": 966,
+"flat": 189,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 117543,
+"hot": [
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 5,
+"lead": "금호건설",
+"lead_ret": 29.91,
+"second": "남광토건",
+"second_ret": 15.52
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "희림",
+"lead_ret": 29.7,
+"second": "인디에프",
+"second_ret": 17.39
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "라온시큐어",
+"lead_ret": 10.85,
+"second": "한컴위드",
+"second_ret": 10.63
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 5.36,
+"up5": 5,
+"lead": "제주은행",
+"lead_ret": 8.68,
+"second": "신한지주",
+"second_ret": 8.38
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 5.02,
+"up5": 9,
+"lead": "금호건설",
+"lead_ret": 29.91,
+"second": "아이에스동서",
+"second_ret": 20.63
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 4.2,
+"up5": 2,
+"lead": "태영건설",
+"lead_ret": 9.12,
+"second": "웰크론한텍",
+"second_ret": 5.38
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 4.01,
+"up5": 7,
+"lead": "금호건설",
+"lead_ret": 29.91,
+"second": "남광토건",
+"second_ret": 15.52
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.61,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 6.24,
+"second": "호텔신라",
+"second_ret": 5.33
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.48,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 6.24,
+"second": "광주신세계",
+"second_ret": 5.61
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 3.16,
+"up5": 7,
+"lead": "금호건설",
+"lead_ret": 29.91,
+"second": "유신",
+"second_ret": 14.42
+},
+{
+"name": "리모델링/인테리어",
+"n": 23,
+"avg": 2.93,
+"up5": 3,
+"lead": "희림",
+"lead_ret": 29.7,
+"second": "현대리바트",
+"second_ret": 7.95
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.81,
+"up5": 2,
+"lead": "한화생명",
+"lead_ret": 6.25,
+"second": "한화투자증권",
+"second_ret": 5.85
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.79,
+"up5": 4,
+"lead": "희림",
+"lead_ret": 29.7,
+"second": "인디에프",
+"second_ret": 17.39
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 2.72,
+"up5": 2,
+"lead": "카카오뱅크",
+"lead_ret": 7.48,
+"second": "KB금융",
+"second_ret": 6.73
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.65,
+"up5": 2,
+"lead": "한신공영",
+"lead_ret": 6.77,
+"second": "금강공업",
+"second_ret": 5.23
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.26,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 1.46,
+"second": "미래산업",
+"second_ret": 0.39
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -1.75,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.05,
+"second": "삼성전자",
+"second_ret": 0.69
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": -1.68,
+"up5": 0,
+"lead": "엘티씨",
+"lead_ret": 0.97,
+"second": "비에이치아이",
+"second_ret": 0.32
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.65,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": -0.78,
+"second": "한화오션",
+"second_ret": -1.11
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -1.43,
+"up5": 0,
+"lead": "메카로",
+"lead_ret": 2.22,
+"second": "한국전력",
+"second_ret": 1.28
+}
+],
+"leaders": [
+{
+"name": "SAMG엔터",
+"code": "419530",
+"ret": 15.51,
+"value": 2577,
+"theme": "캐릭터상품",
+"reason": "테마: 캐릭터상품"
+},
+{
+"name": "한미글로벌",
+"code": "053690",
+"ret": 22.79,
+"value": 2000,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한컴위드",
+"code": "054920",
+"ret": 10.63,
+"value": 1386,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "희림",
+"code": "037440",
+"ret": 29.7,
+"value": 1097,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "아이에스동서",
+"code": "010780",
+"ret": 20.63,
+"value": 924,
+"theme": "부동산 보유 자산주",
+"reason": "테마: 부동산 보유 자산주"
+}
+],
+"backfilled": true
+}

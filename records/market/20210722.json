@@ -1,0 +1,254 @@
+{
+"date": "20210722",
+"kospi": 1.07,
+"kosdaq": 0.79,
+"adv": 1113,
+"dec": 686,
+"flat": 216,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 558515,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "인텍플러스",
+"lead_ret": 13.75,
+"second": "테크윙",
+"second_ret": 9.08
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "하나머티리얼즈",
+"lead_ret": 11.21,
+"second": "국전",
+"second_ret": 10.84
+},
+{
+"name": "엔터테인먼트",
+"n": 3,
+"lead": "SM C&C",
+"lead_ret": 29.91,
+"second": "큐브엔터",
+"second_ret": 13.98
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 10.89,
+"up5": 5,
+"lead": "SM C&C",
+"lead_ret": 29.91,
+"second": "노랑풍선",
+"second_ret": 29.74
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.92,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 21.16,
+"second": "메가엠디",
+"second_ret": 3.51
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 3.65,
+"up5": 3,
+"lead": "기가레인",
+"lead_ret": 8.99,
+"second": "티씨케이",
+"second_ret": 7.91
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 3.53,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 8.66,
+"second": "ISC",
+"second_ret": 6.5
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.35,
+"up5": 1,
+"lead": "포스코스틸리온",
+"lead_ret": 6.57,
+"second": "POSCO홀딩스",
+"second_ret": 4.69
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 3.22,
+"up5": 7,
+"lead": "국전",
+"lead_ret": 10.84,
+"second": "테크윙",
+"second_ret": 9.08
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.17,
+"up5": 2,
+"lead": "인텍플러스",
+"lead_ret": 13.75,
+"second": "심텍",
+"second_ret": 8.66
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.16,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 12.26,
+"second": "한화생명",
+"second_ret": 2.64
+},
+{
+"name": "반도체 장비",
+"n": 75,
+"avg": 3.0,
+"up5": 16,
+"lead": "인텍플러스",
+"lead_ret": 13.75,
+"second": "테크윙",
+"second_ret": 9.08
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.87,
+"up5": 5,
+"lead": "카카오게임즈",
+"lead_ret": 13.35,
+"second": "초록뱀미디어",
+"second_ret": 9.45
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 2.76,
+"up5": 2,
+"lead": "심텍",
+"lead_ret": 8.66,
+"second": "에이팩트",
+"second_ret": 8.59
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.5,
+"up5": 1,
+"lead": "엔피케이",
+"lead_ret": 10.98,
+"second": "HC홈센타",
+"second_ret": 2.75
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.69,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 1.08,
+"second": "케이엔솔",
+"second_ret": -0.87
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -2.23,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.53,
+"second": "에스피지",
+"second_ret": 0.85
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.03,
+"up5": 0,
+"lead": "한전KPS",
+"lead_ret": 2.1,
+"second": "현대건설",
+"second_ret": 0.88
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.99,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 2.0,
+"second": "인성정보",
+"second_ret": 0.18
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -1.53,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 4.14,
+"second": "휴온스글로벌",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 13.35,
+"value": 15595,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 12.26,
+"value": 5077,
+"theme": "야놀자(Yanolja)",
+"reason": "테마: 야놀자(Yanolja)"
+},
+{
+"name": "이노뎁",
+"code": "303530",
+"ret": 14.48,
+"value": 2954,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 10.84,
+"value": 2474,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "SM C&C",
+"code": "048550",
+"ret": 29.91,
+"value": 2180,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+}
+],
+"backfilled": true
+}

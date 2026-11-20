@@ -1,0 +1,254 @@
+{
+"date": "20210429",
+"kospi": -0.23,
+"kosdaq": -0.76,
+"adv": 674,
+"dec": 1150,
+"flat": 176,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 281821,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 7,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.81,
+"second": "휴스틸",
+"second_ret": 16.56
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "엑세스바이오",
+"lead_ret": 30.0,
+"second": "팜젠사이언스",
+"second_ret": 29.72
+},
+{
+"name": "종합 물류",
+"n": 3,
+"lead": "KCTC",
+"lead_ret": 30.0,
+"second": "동방",
+"second_ret": 12.5
+}
+],
+"themes": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 5.48,
+"up5": 4,
+"lead": "휴스틸",
+"lead_ret": 16.56,
+"second": "KBI동양철관",
+"second_ret": 15.0
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 5.43,
+"up5": 6,
+"lead": "휴스틸",
+"lead_ret": 16.56,
+"second": "KBI동양철관",
+"second_ret": 15.0
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.26,
+"up5": 2,
+"lead": "엑세스바이오",
+"lead_ret": 30.0,
+"second": "팜젠사이언스",
+"second_ret": 29.72
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 4.78,
+"up5": 4,
+"lead": "KCTC",
+"lead_ret": 30.0,
+"second": "동방",
+"second_ret": 12.5
+},
+{
+"name": "철강 중소형",
+"n": 30,
+"avg": 4.55,
+"up5": 9,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.81,
+"second": "휴스틸",
+"second_ret": 16.56
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 4.55,
+"up5": 2,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.81,
+"second": "LG화학",
+"second_ret": 6.85
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.83,
+"up5": 6,
+"lead": "KCTC",
+"lead_ret": 30.0,
+"second": "동방",
+"second_ret": 12.5
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 3.26,
+"up5": 4,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.81,
+"second": "피제이메탈",
+"second_ret": 10.81
+},
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": 2.82,
+"up5": 8,
+"lead": "엑세스바이오",
+"lead_ret": 30.0,
+"second": "팜젠사이언스",
+"second_ret": 29.72
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.73,
+"up5": 2,
+"lead": "대우건설",
+"lead_ret": 6.95,
+"second": "삼성물산",
+"second_ret": 5.26
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 2.5,
+"up5": 3,
+"lead": "현대비앤지스틸",
+"lead_ret": 29.81,
+"second": "제이에스링크",
+"second_ret": 10.58
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.49,
+"up5": 2,
+"lead": "포스코스틸리온",
+"lead_ret": 8.99,
+"second": "세아제강",
+"second_ret": 7.76
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.21,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -0.14,
+"second": "차바이오텍",
+"second_ret": -0.52
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.07,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.33,
+"second": "아주IB투자",
+"second_ret": -2.35
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.64,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": -1.31,
+"second": "유한양행",
+"second_ret": -1.98
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -2.54,
+"up5": 0,
+"lead": "린드먼아시아",
+"lead_ret": -0.46,
+"second": "TS인베스트먼트",
+"second_ret": -0.47
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.52,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 1.91,
+"second": "삼성바이오로직스",
+"second_ret": 1.14
+}
+],
+"leaders": [
+{
+"name": "앤디포스",
+"code": "238090",
+"ret": 12.63,
+"value": 4352,
+"theme": "아이폰",
+"reason": "테마: 아이폰"
+},
+{
+"name": "KCTC",
+"code": "009070",
+"ret": 30.0,
+"value": 4010,
+"theme": "종합 물류",
+"reason": "테마: 종합 물류"
+},
+{
+"name": "동방",
+"code": "004140",
+"ret": 12.5,
+"value": 3994,
+"theme": "종합 물류",
+"reason": "테마: 종합 물류"
+},
+{
+"name": "팜젠사이언스",
+"code": "004720",
+"ret": 29.72,
+"value": 2990,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "현대비앤지스틸",
+"code": "004560",
+"ret": 29.81,
+"value": 2938,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

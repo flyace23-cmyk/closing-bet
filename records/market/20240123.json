@@ -1,0 +1,254 @@
+{
+"date": "20240123",
+"kospi": 0.58,
+"kosdaq": 0.05,
+"adv": 1139,
+"dec": 926,
+"flat": 163,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 190726,
+"hot": [
+{
+"name": "온디바이스 AI",
+"n": 4,
+"lead": "유니퀘스트",
+"lead_ret": 30.0,
+"second": "어보브반도체",
+"second_ret": 23.18
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "아티스트컴퍼니",
+"lead_ret": 19.73,
+"second": "이스트에이드",
+"second_ret": 12.29
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "이미지스",
+"lead_ret": 30.01,
+"second": "어보브반도체",
+"second_ret": 23.18
+}
+],
+"themes": [
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 4.0,
+"up5": 5,
+"lead": "유니퀘스트",
+"lead_ret": 30.0,
+"second": "어보브반도체",
+"second_ret": 23.18
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.5,
+"up5": 4,
+"lead": "상신전자",
+"lead_ret": 15.4,
+"second": "삼화전자",
+"second_ret": 11.41
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.5,
+"up5": 4,
+"lead": "상신전자",
+"lead_ret": 15.4,
+"second": "삼화전자",
+"second_ret": 11.41
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.33,
+"up5": 4,
+"lead": "이스트에이드",
+"lead_ret": 12.29,
+"second": "핑거스토리",
+"second_ret": 6.87
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 3.24,
+"up5": 2,
+"lead": "샌즈랩",
+"lead_ret": 29.95,
+"second": "플랜티넷",
+"second_ret": 6.89
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 19,
+"avg": 2.58,
+"up5": 3,
+"lead": "유니퀘스트",
+"lead_ret": 30.0,
+"second": "엑스페릭스",
+"second_ret": 11.74
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 2.56,
+"up5": 1,
+"lead": "진영",
+"lead_ret": 11.54,
+"second": "씨티케이",
+"second_ret": 2.82
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 2.48,
+"up5": 1,
+"lead": "카카오뱅크",
+"lead_ret": 5.21,
+"second": "신한지주",
+"second_ret": 4.98
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.25,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 3.86,
+"second": "HL만도",
+"second_ret": 3.68
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 2.22,
+"up5": 4,
+"lead": "노을",
+"lead_ret": 9.08,
+"second": "루닛",
+"second_ret": 8.21
+},
+{
+"name": "광고",
+"n": 21,
+"avg": 2.11,
+"up5": 3,
+"lead": "아티스트컴퍼니",
+"lead_ret": 19.73,
+"second": "이엠넷",
+"second_ret": 5.92
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 2.04,
+"up5": 2,
+"lead": "데브시스터즈",
+"lead_ret": 8.65,
+"second": "액토즈소프트",
+"second_ret": 7.18
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.3,
+"up5": 0,
+"lead": "심텍",
+"lead_ret": 0.9,
+"second": "삼성전자",
+"second_ret": 0.13
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -2.18,
+"up5": 0,
+"lead": "흥국에프엔비",
+"lead_ret": 2.9,
+"second": "이씨에스",
+"second_ret": 2.62
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 34,
+"avg": -2.1,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 3.02,
+"second": "LG전자",
+"second_ret": 2.85
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.0,
+"up5": 0,
+"lead": "티앤알바이오팹",
+"lead_ret": 1.33,
+"second": "모아텍",
+"second_ret": 1.07
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -1.67,
+"up5": 0,
+"lead": "예스티",
+"lead_ret": 1.48,
+"second": "지아이에스",
+"second_ret": -0.36
+}
+],
+"leaders": [
+{
+"name": "어보브반도체",
+"code": "102120",
+"ret": 23.18,
+"value": 5112,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 15.47,
+"value": 3140,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "LS네트웍스",
+"code": "000680",
+"ret": 16.15,
+"value": 2695,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "HB솔루션",
+"code": "297890",
+"ret": 14.56,
+"value": 2088,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "브리지텍",
+"code": "064480",
+"ret": 13.02,
+"value": 2042,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+}
+],
+"backfilled": true
+}

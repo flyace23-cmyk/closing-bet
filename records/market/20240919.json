@@ -1,0 +1,254 @@
+{
+"date": "20240919",
+"kospi": 0.21,
+"kosdaq": 0.86,
+"adv": 1071,
+"dec": 1065,
+"flat": 146,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 182362,
+"hot": [
+{
+"name": "치매",
+"n": 5,
+"lead": "샤페론",
+"lead_ret": 29.98,
+"second": "젬백스",
+"second_ret": 29.96
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "샤페론",
+"lead_ret": 29.98,
+"second": "퀀타매트릭스",
+"second_ret": 29.95
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "이지트로닉스",
+"lead_ret": 16.49,
+"second": "효성중공업",
+"second_ret": 10.88
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 6.97,
+"up5": 5,
+"lead": "한네트",
+"lead_ret": 29.88,
+"second": "로지시스",
+"second_ret": 13.63
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.94,
+"up5": 4,
+"lead": "바이넥스",
+"lead_ret": 25.0,
+"second": "알테오젠",
+"second_ret": 9.55
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.89,
+"up5": 10,
+"lead": "샤페론",
+"lead_ret": 29.98,
+"second": "셀리드",
+"second_ret": 11.77
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.78,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 7.34,
+"second": "지씨셀",
+"second_ret": 3.99
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.77,
+"up5": 3,
+"lead": "에스티팜",
+"lead_ret": 7.56,
+"second": "삼성바이오로직스",
+"second_ret": 5.96
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 3.43,
+"up5": 10,
+"lead": "샤페론",
+"lead_ret": 29.98,
+"second": "젬백스",
+"second_ret": 29.96
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.94,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 18.48,
+"second": "비츠로시스",
+"second_ret": 3.03
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.65,
+"up5": 4,
+"lead": "샤페론",
+"lead_ret": 29.98,
+"second": "셀리드",
+"second_ret": 11.77
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.57,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 6.35,
+"second": "LS",
+"second_ret": 5.85
+},
+{
+"name": "탈모 치료",
+"n": 25,
+"avg": 2.5,
+"up5": 4,
+"lead": "샤페론",
+"lead_ret": 29.98,
+"second": "명문제약",
+"second_ret": 11.85
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 2.47,
+"up5": 7,
+"lead": "HD현대일렉트릭",
+"lead_ret": 11.82,
+"second": "효성중공업",
+"second_ret": 10.88
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.3,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 4.37,
+"second": "한화오션",
+"second_ret": 3.27
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -2.24,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -0.26,
+"second": "삼성전자",
+"second_ret": -2.02
+},
+{
+"name": "전력반도체",
+"n": 18,
+"avg": -2.16,
+"up5": 0,
+"lead": "나노씨엠에스",
+"lead_ret": 0.79,
+"second": "케이엔에스",
+"second_ret": -0.21
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -2.09,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 1.17,
+"second": "현대백화점",
+"second_ret": -1.33
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -2.09,
+"up5": 0,
+"lead": "와이씨켐",
+"lead_ret": 4.51,
+"second": "국전",
+"second_ret": 2.8
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -2.02,
+"up5": 0,
+"lead": "HPSP",
+"lead_ret": 2.03,
+"second": "리노공업",
+"second_ret": 1.23
+}
+],
+"leaders": [
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 25.0,
+"value": 4816,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "HD현대일렉트릭",
+"code": "267260",
+"ret": 11.82,
+"value": 2518,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 29.98,
+"value": 1231,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "퀀타매트릭스",
+"code": "317690",
+"ret": 29.95,
+"value": 1123,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "아이엠비디엑스",
+"code": "461030",
+"ret": 13.93,
+"value": 709,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+}
+],
+"backfilled": true
+}

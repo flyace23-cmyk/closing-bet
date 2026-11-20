@@ -1,0 +1,254 @@
+{
+"date": "20200330",
+"kospi": -0.04,
+"kosdaq": 3.69,
+"adv": 1420,
+"dec": 374,
+"flat": 116,
+"limit_up": 32,
+"limit_down": 0,
+"value_total": 172754,
+"hot": [
+{
+"name": "교육/온라인 교육",
+"n": 5,
+"lead": "대교",
+"lead_ret": 29.99,
+"second": "NE능률",
+"second_ret": 29.96
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "텔콘RF제약",
+"lead_ret": 29.99,
+"second": "경남제약",
+"second_ret": 29.93
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "씨유메디칼",
+"lead_ret": 29.94,
+"second": "아이쓰리시스템",
+"second_ret": 29.72
+}
+],
+"themes": [
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 16.69,
+"up5": 17,
+"lead": "대교",
+"lead_ret": 29.99,
+"second": "NE능률",
+"second_ret": 29.96
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 11.51,
+"up5": 3,
+"lead": "지씨셀",
+"lead_ret": 29.94,
+"second": "강스템바이오텍",
+"second_ret": 10.63
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 11.42,
+"up5": 6,
+"lead": "인성정보",
+"lead_ret": 29.91,
+"second": "신테카바이오",
+"second_ret": 29.87
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 11.13,
+"up5": 4,
+"lead": "링네트",
+"lead_ret": 29.93,
+"second": "인성정보",
+"second_ret": 29.91
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 10.26,
+"up5": 6,
+"lead": "인포뱅크",
+"lead_ret": 28.46,
+"second": "가비아",
+"second_ret": 25.62
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 10.08,
+"up5": 8,
+"lead": "올릭스",
+"lead_ret": 29.86,
+"second": "아이진",
+"second_ret": 20.46
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": 9.7,
+"up5": 9,
+"lead": "인성정보",
+"lead_ret": 29.91,
+"second": "알서포트",
+"second_ret": 29.9
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 9.63,
+"up5": 4,
+"lead": "알서포트",
+"lead_ret": 29.9,
+"second": "인포뱅크",
+"second_ret": 28.46
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 8.97,
+"up5": 6,
+"lead": "링네트",
+"lead_ret": 29.93,
+"second": "알서포트",
+"second_ret": 29.9
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 8.95,
+"up5": 4,
+"lead": "오텍",
+"lead_ret": 13.43,
+"second": "GH신소재",
+"second_ret": 12.37
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 8.82,
+"up5": 14,
+"lead": "지노믹트리",
+"lead_ret": 29.88,
+"second": "신테카바이오",
+"second_ret": 29.87
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 8.63,
+"up5": 13,
+"lead": "지씨셀",
+"lead_ret": 29.94,
+"second": "더코디",
+"second_ret": 20.34
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.02,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.61,
+"second": "파라다이스",
+"second_ret": -0.38
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.02,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.61,
+"second": "파라다이스",
+"second_ret": -0.38
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.69,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 0.2,
+"second": "KG모빌리티",
+"second_ret": 0.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -1.08,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.48,
+"second": "삼성전기",
+"second_ret": -0.91
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.04,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 2.12,
+"second": "iM금융지주",
+"second_ret": 1.65
+}
+],
+"leaders": [
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 29.9,
+"value": 5003,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 13.46,
+"value": 4142,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "파미셀",
+"code": "005690",
+"ret": 12.37,
+"value": 3766,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 17.22,
+"value": 3094,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 28.09,
+"value": 2327,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+}
+],
+"backfilled": true
+}

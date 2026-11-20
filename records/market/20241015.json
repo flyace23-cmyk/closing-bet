@@ -1,0 +1,254 @@
+{
+"date": "20241015",
+"kospi": 0.39,
+"kosdaq": 0.46,
+"adv": 1049,
+"dec": 1063,
+"flat": 174,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 165363,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "서플러스글로벌",
+"lead_ret": 13.1,
+"second": "파크시스템스",
+"second_ret": 10.72
+},
+{
+"name": "사료",
+"n": 5,
+"lead": "한탑",
+"lead_ret": 29.93,
+"second": "고려산업",
+"second_ret": 29.88
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "나노엔텍",
+"lead_ret": 29.88,
+"second": "메디포스트",
+"second_ret": 14.36
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 18,
+"avg": 6.84,
+"up5": 7,
+"lead": "한탑",
+"lead_ret": 29.93,
+"second": "고려산업",
+"second_ret": 29.88
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.7,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 20.65,
+"second": "신송홀딩스",
+"second_ret": 6.01
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 4.14,
+"up5": 5,
+"lead": "케이씨에스",
+"lead_ret": 29.88,
+"second": "엑스게이트",
+"second_ret": 21.6
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.83,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 14.36,
+"second": "지씨셀",
+"second_ret": 2.0
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 3.66,
+"up5": 4,
+"lead": "나노엔텍",
+"lead_ret": 29.88,
+"second": "블루엠텍",
+"second_ret": 25.0
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 3.26,
+"up5": 1,
+"lead": "케이씨에스",
+"lead_ret": 29.88,
+"second": "한네트",
+"second_ret": 2.46
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.87,
+"up5": 7,
+"lead": "블루엠텍",
+"lead_ret": 25.0,
+"second": "HLB펩",
+"second_ret": 14.88
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.49,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 3.89,
+"second": "HD현대중공업",
+"second_ret": 3.77
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 35,
+"avg": 2.42,
+"up5": 6,
+"lead": "나노엔텍",
+"lead_ret": 29.88,
+"second": "메디포스트",
+"second_ret": 14.36
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.34,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 11.61,
+"second": "이루온",
+"second_ret": 0.54
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 2.3,
+"up5": 0,
+"lead": "휴젤",
+"lead_ret": 4.76,
+"second": "제테마",
+"second_ret": 4.74
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.16,
+"up5": 3,
+"lead": "압타바이오",
+"lead_ret": 11.84,
+"second": "샤페론",
+"second_ret": 11.48
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.32,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 0.26,
+"second": "대성산업",
+"second_ret": 0.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.32,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 0.26,
+"second": "대성산업",
+"second_ret": 0.0
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.66,
+"up5": 0,
+"lead": "SG",
+"lead_ret": 2.76,
+"second": "스페코",
+"second_ret": 1.59
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": -2.42,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 1.0,
+"second": "지아이에스",
+"second_ret": 0.0
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.26,
+"up5": 0,
+"lead": "오가닉티코스메틱",
+"lead_ret": 1.27,
+"second": "GRT",
+"second_ret": 0.7
+}
+],
+"leaders": [
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 25.0,
+"value": 4004,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 20.65,
+"value": 1493,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 21.6,
+"value": 1006,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 11.4,
+"value": 822,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 14.47,
+"value": 730,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+}
+],
+"backfilled": true
+}

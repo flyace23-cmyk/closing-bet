@@ -1,0 +1,238 @@
+{
+"date": "20221128",
+"kospi": -1.21,
+"kosdaq": -2.13,
+"adv": 305,
+"dec": 1698,
+"flat": 119,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 103945,
+"hot": [
+{
+"name": "지주사",
+"n": 3,
+"lead": "경동인베스트",
+"lead_ret": 29.65,
+"second": "F&F홀딩스",
+"second_ret": 14.62
+}
+],
+"themes": [
+{
+"name": "웹툰",
+"n": 12,
+"avg": 1.17,
+"up5": 1,
+"lead": "미스터블루",
+"lead_ret": 14.58,
+"second": "디앤씨미디어",
+"second_ret": 4.42
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 0.77,
+"up5": 1,
+"lead": "졸스",
+"lead_ret": 5.23,
+"second": "NEW",
+"second_ret": 4.15
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": 0.74,
+"up5": 3,
+"lead": "키이스트",
+"lead_ret": 13.69,
+"second": "애니플러스",
+"second_ret": 6.72
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 0.34,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 1.36,
+"second": "현대차",
+"second_ret": 0.9
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 0.19,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 7.48,
+"second": "오파스넷",
+"second_ret": 6.3
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 0.17,
+"up5": 2,
+"lead": "포스코엠텍",
+"lead_ret": 23.07,
+"second": "광무",
+"second_ret": 7.48
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 0.06,
+"up5": 0,
+"lead": "유니온머티리얼",
+"lead_ret": 4.28,
+"second": "유니온",
+"second_ret": 0.39
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -0.01,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 6.14,
+"second": "가온전선",
+"second_ret": 2.16
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -0.21,
+"up5": 1,
+"lead": "블루산업개발",
+"lead_ret": 5.71,
+"second": "대림제지",
+"second_ret": 0.9
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.27,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 3.9,
+"second": "삼성SDI",
+"second_ret": 0.28
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 20,
+"avg": -0.29,
+"up5": 2,
+"lead": "와이투솔루션",
+"lead_ret": 8.18,
+"second": "모트렉스",
+"second_ret": 6.21
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -0.37,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 3.9,
+"second": "쿠쿠홈시스",
+"second_ret": 2.44
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -4.13,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": -1.06,
+"second": "디케이락",
+"second_ret": -1.09
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.95,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": -1.79,
+"second": "유비벨록스",
+"second_ret": -3.49
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.68,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 0.0,
+"second": "NHN",
+"second_ret": -0.41
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.51,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": -2.67,
+"second": "우양",
+"second_ret": -2.93
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.49,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "경동제약",
+"second_ret": -1.44
+}
+],
+"leaders": [
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 23.07,
+"value": 4177,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "F&F홀딩스",
+"code": "007700",
+"ret": 14.62,
+"value": 1165,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "경동인베스트",
+"code": "012320",
+"ret": 29.65,
+"value": 1081,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "비피도",
+"code": "238200",
+"ret": 26.4,
+"value": 523,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "컴퍼니케이",
+"code": "307930",
+"ret": 10.77,
+"value": 473,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+}
+],
+"backfilled": true
+}

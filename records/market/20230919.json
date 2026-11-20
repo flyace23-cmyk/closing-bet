@@ -1,0 +1,254 @@
+{
+"date": "20230919",
+"kospi": -0.6,
+"kosdaq": -0.83,
+"adv": 557,
+"dec": 1512,
+"flat": 121,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 156335,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 10,
+"lead": "케이엠더블유",
+"lead_ret": 29.97,
+"second": "에이스테크",
+"second_ret": 29.92
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 6,
+"lead": "에이스테크",
+"lead_ret": 29.92,
+"second": "비츠로테크",
+"second_ret": 18.96
+},
+{
+"name": "철도",
+"n": 5,
+"lead": "유신",
+"lead_ret": 29.97,
+"second": "비츠로테크",
+"second_ret": 18.96
+}
+],
+"themes": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 8.16,
+"up5": 3,
+"lead": "모비스",
+"lead_ret": 29.87,
+"second": "비츠로테크",
+"second_ret": 18.96
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 5.63,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 29.92,
+"second": "삼성화재",
+"second_ret": 2.28
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.77,
+"up5": 4,
+"lead": "비츠로테크",
+"lead_ret": 18.96,
+"second": "우리기술",
+"second_ret": 15.93
+},
+{
+"name": "통신장비",
+"n": 43,
+"avg": 4.14,
+"up5": 14,
+"lead": "케이엠더블유",
+"lead_ret": 29.97,
+"second": "에이스테크",
+"second_ret": 29.92
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 54,
+"avg": 3.4,
+"up5": 15,
+"lead": "케이엠더블유",
+"lead_ret": 29.97,
+"second": "에이스테크",
+"second_ret": 29.92
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 2.47,
+"up5": 1,
+"lead": "아이디스",
+"lead_ret": 16.57,
+"second": "코콤",
+"second_ret": 3.69
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.24,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 11.13,
+"second": "SK가스",
+"second_ret": 9.43
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 2.18,
+"up5": 3,
+"lead": "모비스",
+"lead_ret": 29.87,
+"second": "비츠로테크",
+"second_ret": 18.96
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.04,
+"up5": 6,
+"lead": "유신",
+"lead_ret": 29.97,
+"second": "비츠로테크",
+"second_ret": 18.96
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.02,
+"up5": 4,
+"lead": "유신",
+"lead_ret": 29.97,
+"second": "우리기술",
+"second_ret": 15.93
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 1.43,
+"up5": 1,
+"lead": "덕신이피씨",
+"lead_ret": 5.96,
+"second": "코오롱글로벌",
+"second_ret": 4.33
+},
+{
+"name": "원자력발전",
+"n": 47,
+"avg": 1.35,
+"up5": 5,
+"lead": "우리기술",
+"lead_ret": 15.93,
+"second": "비에이치아이",
+"second_ret": 11.13
+}
+],
+"themes_worst": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.79,
+"up5": 1,
+"lead": "기가레인",
+"lead_ret": 5.95,
+"second": "티에스이",
+"second_ret": 0.35
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -2.61,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 0.07,
+"second": "삼화콘덴서",
+"second_ret": -0.27
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.51,
+"up5": 0,
+"lead": "후성",
+"lead_ret": -0.27,
+"second": "세방전지",
+"second_ret": -0.31
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -2.4,
+"up5": 0,
+"lead": "NH농우바이오",
+"lead_ret": 0.49,
+"second": "유니드",
+"second_ret": -0.63
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": -2.36,
+"up5": 0,
+"lead": "SFA넥셀",
+"lead_ret": 0.49,
+"second": "티에스아이",
+"second_ret": 0.25
+}
+],
+"leaders": [
+{
+"name": "코어라인소프트",
+"code": "384470",
+"ret": 12.57,
+"value": 2644,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "롯데손해보험",
+"code": "000400",
+"ret": 29.92,
+"value": 2425,
+"theme": "손해보험",
+"reason": "테마: 손해보험"
+},
+{
+"name": "센서뷰",
+"code": "321370",
+"ret": 11.98,
+"value": 2286,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "유신",
+"code": "054930",
+"ret": 29.97,
+"value": 2099,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "엔텔스",
+"code": "069410",
+"ret": 22.07,
+"value": 2033,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+}
+],
+"backfilled": true
+}

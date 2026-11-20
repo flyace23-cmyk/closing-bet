@@ -1,0 +1,246 @@
+{
+"date": "20230119",
+"kospi": 0.51,
+"kosdaq": 0.16,
+"adv": 955,
+"dec": 952,
+"flat": 221,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 105752,
+"hot": [
+{
+"name": "화장품",
+"n": 8,
+"lead": "차AI헬스케어",
+"lead_ret": 30.0,
+"second": "실리콘투",
+"second_ret": 13.09
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "고영",
+"lead_ret": 13.57,
+"second": "덴티움",
+"second_ret": 8.5
+}
+],
+"themes": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 3.31,
+"up5": 3,
+"lead": "덴티움",
+"lead_ret": 8.5,
+"second": "디오",
+"second_ret": 7.04
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.89,
+"up5": 3,
+"lead": "대웅제약",
+"lead_ret": 7.14,
+"second": "제테마",
+"second_ret": 6.74
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.87,
+"up5": 3,
+"lead": "청담글로벌",
+"lead_ret": 11.97,
+"second": "대웅제약",
+"second_ret": 7.14
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.45,
+"up5": 3,
+"lead": "YG PLUS",
+"lead_ret": 9.04,
+"second": "와이지엔터테인먼트",
+"second_ret": 5.94
+},
+{
+"name": "화장품",
+"n": 81,
+"avg": 2.17,
+"up5": 10,
+"lead": "차AI헬스케어",
+"lead_ret": 30.0,
+"second": "실리콘투",
+"second_ret": 13.09
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 2.04,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 20.42,
+"second": "갤럭시아에스엠",
+"second_ret": 9.84
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 1.99,
+"up5": 5,
+"lead": "큐브엔터",
+"lead_ret": 7.94,
+"second": "팬엔터테인먼트",
+"second_ret": 6.16
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.93,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 20.42,
+"second": "가비아",
+"second_ret": 1.77
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.93,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 6.54,
+"second": "토니모리",
+"second_ret": 2.75
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.81,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 20.42,
+"second": "갤럭시아에스엠",
+"second_ret": 9.84
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.67,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 9.43,
+"second": "우양",
+"second_ret": 0.91
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 1.59,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 20.42,
+"second": "NHN",
+"second_ret": 1.38
+}
+],
+"themes_worst": [
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": -2.34,
+"up5": 0,
+"lead": "가온그룹",
+"lead_ret": -0.5,
+"second": "세코닉스",
+"second_ret": -0.5
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.02,
+"up5": 0,
+"lead": "인텍플러스",
+"lead_ret": 4.1,
+"second": "심텍홀딩스",
+"second_ret": 2.84
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -1.77,
+"up5": 1,
+"lead": "중앙첨단소재",
+"lead_ret": 6.52,
+"second": "LG화학",
+"second_ret": 1.31
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 10,
+"avg": -1.66,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.82,
+"second": "SK하이닉스",
+"second_ret": 0.47
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": -1.56,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.82,
+"second": "LG전자",
+"second_ret": 1.16
+}
+],
+"leaders": [
+{
+"name": "SAMG엔터",
+"code": "419530",
+"ret": 18.61,
+"value": 2674,
+"theme": "캐릭터상품",
+"reason": "테마: 캐릭터상품"
+},
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 11.97,
+"value": 2124,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "실리콘투",
+"code": "257720",
+"ret": 13.09,
+"value": 1439,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 20.42,
+"value": 1318,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 10.24,
+"value": 734,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

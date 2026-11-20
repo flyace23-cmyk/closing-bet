@@ -1,0 +1,254 @@
+{
+"date": "20250721",
+"kospi": 0.71,
+"kosdaq": 0.12,
+"adv": 1094,
+"dec": 1147,
+"flat": 127,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 154543,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "케이지에이",
+"lead_ret": 15.11,
+"second": "삼아알미늄",
+"second_ret": 13.94
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "이녹스첨단소재",
+"lead_ret": 18.47,
+"second": "천보",
+"second_ret": 12.35
+},
+{
+"name": "리튬",
+"n": 3,
+"lead": "리튬포어스",
+"lead_ret": 29.92,
+"second": "중앙첨단소재",
+"second_ret": 22.71
+}
+],
+"themes": [
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.28,
+"up5": 7,
+"lead": "리튬포어스",
+"lead_ret": 29.92,
+"second": "중앙첨단소재",
+"second_ret": 22.71
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.67,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 4.98,
+"second": "HD현대중공업",
+"second_ret": 4.81
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.27,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 29.92,
+"second": "오로라",
+"second_ret": 4.08
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 3.1,
+"up5": 4,
+"lead": "이녹스첨단소재",
+"lead_ret": 18.47,
+"second": "풍원정밀",
+"second_ret": 9.01
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 2.6,
+"up5": 5,
+"lead": "태웅",
+"lead_ret": 28.04,
+"second": "SK오션플랜트",
+"second_ret": 7.77
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 2.57,
+"up5": 4,
+"lead": "우리기술",
+"lead_ret": 6.23,
+"second": "우진",
+"second_ret": 5.62
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 2.55,
+"up5": 12,
+"lead": "삼아알미늄",
+"lead_ret": 13.94,
+"second": "이닉스",
+"second_ret": 12.42
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 2.5,
+"up5": 5,
+"lead": "천보",
+"lead_ret": 12.35,
+"second": "롯데에너지머티리얼즈",
+"second_ret": 12.08
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.45,
+"up5": 3,
+"lead": "YG PLUS",
+"lead_ret": 13.64,
+"second": "와이지엔터테인먼트",
+"second_ret": 7.42
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 2.45,
+"up5": 7,
+"lead": "태웅",
+"lead_ret": 28.04,
+"second": "씨에스윈드",
+"second_ret": 10.02
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": 2.35,
+"up5": 5,
+"lead": "SK오션플랜트",
+"lead_ret": 7.77,
+"second": "한화엔진",
+"second_ret": 7.22
+},
+{
+"name": "2차전지",
+"n": 141,
+"avg": 2.22,
+"up5": 19,
+"lead": "케이지에이",
+"lead_ret": 15.11,
+"second": "삼아알미늄",
+"second_ret": 13.94
+}
+],
+"themes_worst": [
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -3.48,
+"up5": 0,
+"lead": "드림씨아이에스",
+"lead_ret": 0.14,
+"second": "강스템바이오텍",
+"second_ret": -0.47
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.46,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": -0.33,
+"second": "유라클",
+"second_ret": -1.36
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.94,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.46,
+"second": "서린바이오",
+"second_ret": -0.12
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": -1.85,
+"up5": 1,
+"lead": "네오이뮨텍",
+"lead_ret": 14.58,
+"second": "신라젠",
+"second_ret": 1.31
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.81,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 3.54,
+"second": "케어젠",
+"second_ret": 2.59
+}
+],
+"leaders": [
+{
+"name": "태웅",
+"code": "044490",
+"ret": 28.04,
+"value": 1682,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "중앙첨단소재",
+"code": "051980",
+"ret": 22.71,
+"value": 1230,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "세경하이테크",
+"code": "148150",
+"ret": 29.92,
+"value": 1125,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "비트플래닛",
+"code": "049470",
+"ret": 10.0,
+"value": 1115,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "씨에스윈드",
+"code": "112610",
+"ret": 10.02,
+"value": 1106,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241118",
+"kospi": 2.16,
+"kosdaq": 0.6,
+"adv": 1429,
+"dec": 770,
+"flat": 105,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 172484,
+"hot": [
+{
+"name": "자율주행차",
+"n": 6,
+"lead": "에스오에스랩",
+"lead_ret": 29.88,
+"second": "퓨런티어",
+"second_ret": 24.64
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 5,
+"lead": "SKAI",
+"lead_ret": 30.0,
+"second": "솔트룩스",
+"second_ret": 15.08
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "HLB생명과학",
+"lead_ret": 29.96,
+"second": "루닛",
+"second_ret": 27.18
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 6.12,
+"up5": 4,
+"lead": "HL만도",
+"lead_ret": 13.8,
+"second": "현대위아",
+"second_ret": 6.52
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 28,
+"avg": 4.78,
+"up5": 9,
+"lead": "SKAI",
+"lead_ret": 30.0,
+"second": "솔트룩스",
+"second_ret": 15.08
+},
+{
+"name": "자율주행차",
+"n": 56,
+"avg": 4.55,
+"up5": 17,
+"lead": "에스오에스랩",
+"lead_ret": 29.88,
+"second": "퓨런티어",
+"second_ret": 24.64
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 4.31,
+"up5": 2,
+"lead": "한선엔지니어링",
+"lead_ret": 21.11,
+"second": "태광",
+"second_ret": 6.74
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.27,
+"up5": 6,
+"lead": "한선엔지니어링",
+"lead_ret": 21.11,
+"second": "SK이터닉스",
+"second_ret": 10.84
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 4.16,
+"up5": 3,
+"lead": "HL만도",
+"lead_ret": 13.8,
+"second": "인포뱅크",
+"second_ret": 11.21
+},
+{
+"name": "의료AI",
+"n": 24,
+"avg": 4.09,
+"up5": 8,
+"lead": "루닛",
+"lead_ret": 27.18,
+"second": "스피어",
+"second_ret": 12.27
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 4.01,
+"up5": 4,
+"lead": "SNT에너지",
+"lead_ret": 10.01,
+"second": "비에이치아이",
+"second_ret": 8.84
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 3.87,
+"up5": 3,
+"lead": "삼성생명",
+"lead_ret": 11.48,
+"second": "삼성전자",
+"second_ret": 5.98
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 21,
+"avg": 3.61,
+"up5": 7,
+"lead": "HL만도",
+"lead_ret": 13.8,
+"second": "알멕",
+"second_ret": 10.66
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.4,
+"up5": 2,
+"lead": "셀바스AI",
+"lead_ret": 11.69,
+"second": "코콤",
+"second_ret": 9.4
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 40,
+"avg": 3.32,
+"up5": 11,
+"lead": "에스오에스랩",
+"lead_ret": 29.88,
+"second": "슈어소프트테크",
+"second_ret": 10.5
+}
+],
+"themes_worst": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": -2.69,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 2.91,
+"second": "탑엔지니어링",
+"second_ret": 2.16
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.02,
+"up5": 0,
+"lead": "대원전선",
+"lead_ret": 1.87,
+"second": "대한전선",
+"second_ret": 0.81
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -1.95,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 1.44,
+"second": "세명전기",
+"second_ret": 0.1
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.82,
+"up5": 1,
+"lead": "인벤티지랩",
+"lead_ret": 9.56,
+"second": "서린바이오",
+"second_ret": 2.57
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.69,
+"up5": 0,
+"lead": "셀트리온",
+"lead_ret": 4.35,
+"second": "LG화학",
+"second_ret": 4.14
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 25.36,
+"value": 6210,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "루닛",
+"code": "328130",
+"ret": 27.18,
+"value": 5426,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "와이제이링크",
+"code": "209640",
+"ret": 12.9,
+"value": 1412,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "HLB테라퓨틱스",
+"code": "115450",
+"ret": 17.98,
+"value": 1318,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "SG글로벌",
+"code": "001380",
+"ret": 16.67,
+"value": 1003,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

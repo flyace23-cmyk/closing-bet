@@ -1,0 +1,238 @@
+{
+"date": "20220429",
+"kospi": 1.03,
+"kosdaq": 1.4,
+"adv": 1397,
+"dec": 497,
+"flat": 184,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 194175,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "차AI헬스케어",
+"lead_ret": 29.91,
+"second": "오가닉티코스메틱",
+"second_ret": 15.76
+}
+],
+"themes": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 5.58,
+"up5": 3,
+"lead": "HC홈센타",
+"lead_ret": 18.69,
+"second": "한국석유",
+"second_ret": 15.67
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.92,
+"up5": 4,
+"lead": "대모",
+"lead_ret": 29.93,
+"second": "현대에버다임",
+"second_ret": 18.77
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.69,
+"up5": 1,
+"lead": "SH에너지화학",
+"lead_ret": 29.91,
+"second": "E1",
+"second_ret": 4.05
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.19,
+"up5": 3,
+"lead": "TPC로보틱스",
+"lead_ret": 11.14,
+"second": "모아텍",
+"second_ret": 7.02
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.0,
+"up5": 1,
+"lead": "대성에너지",
+"lead_ret": 15.36,
+"second": "지에스이",
+"second_ret": 3.06
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.95,
+"up5": 2,
+"lead": "유바이오로직스",
+"lead_ret": 9.43,
+"second": "한국비엔씨",
+"second_ret": 5.37
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.73,
+"up5": 2,
+"lead": "HC홈센타",
+"lead_ret": 18.69,
+"second": "HC보광산업",
+"second_ret": 5.12
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.52,
+"up5": 3,
+"lead": "서전기전",
+"lead_ret": 10.45,
+"second": "아모그린텍",
+"second_ret": 9.46
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 2.52,
+"up5": 3,
+"lead": "네이처셀",
+"lead_ret": 7.17,
+"second": "풍전약품",
+"second_ret": 5.32
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.5,
+"up5": 4,
+"lead": "오가닉티코스메틱",
+"lead_ret": 15.76,
+"second": "에피소드컴퍼니",
+"second_ret": 8.03
+},
+{
+"name": "화장품",
+"n": 79,
+"avg": 2.44,
+"up5": 10,
+"lead": "차AI헬스케어",
+"lead_ret": 29.91,
+"second": "오가닉티코스메틱",
+"second_ret": 15.76
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.43,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 3.1,
+"second": "지씨셀",
+"second_ret": 3.09
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.11,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -0.85,
+"second": "풀무원",
+"second_ret": -0.88
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -2.07,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 4.25,
+"second": "마니커",
+"second_ret": 0.25
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -2.05,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 4.25,
+"second": "마니커",
+"second_ret": 0.25
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -2.0,
+"up5": 0,
+"lead": "한탑",
+"lead_ret": 4.76,
+"second": "이지홀딩스",
+"second_ret": 4.25
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -1.99,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 4.25,
+"second": "대성미생물",
+"second_ret": 0.67
+}
+],
+"leaders": [
+{
+"name": "KG스틸",
+"code": "016380",
+"ret": 10.79,
+"value": 6912,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 13.02,
+"value": 5596,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 15.36,
+"value": 4920,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "현대에버다임",
+"code": "041440",
+"ret": 18.77,
+"value": 2115,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 15.67,
+"value": 2098,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

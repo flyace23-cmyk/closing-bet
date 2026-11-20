@@ -1,0 +1,254 @@
+{
+"date": "20221108",
+"kospi": 1.15,
+"kosdaq": 1.83,
+"adv": 1628,
+"dec": 358,
+"flat": 129,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 132656,
+"hot": [
+{
+"name": "게임",
+"n": 3,
+"lead": "네오위즈홀딩스",
+"lead_ret": 16.1,
+"second": "엠게임",
+"second_ret": 9.18
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "SKAI",
+"lead_ret": 15.36,
+"second": "엠게임",
+"second_ret": 9.18
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "인바이오젠",
+"lead_ret": 29.96,
+"second": "네오위즈홀딩스",
+"second_ret": 16.1
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 5.85,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 30.0,
+"second": "이월드",
+"second_ret": 2.48
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 5.37,
+"up5": 4,
+"lead": "엔비티",
+"lead_ret": 30.0,
+"second": "대원미디어",
+"second_ret": 7.92
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.11,
+"up5": 2,
+"lead": "크리스탈신소재",
+"lead_ret": 16.37,
+"second": "오가닉티코스메틱",
+"second_ret": 7.02
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 3.93,
+"up5": 4,
+"lead": "인바이오젠",
+"lead_ret": 29.96,
+"second": "네오위즈홀딩스",
+"second_ret": 16.1
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 3.78,
+"up5": 5,
+"lead": "엠게임",
+"lead_ret": 9.18,
+"second": "폴라리스오피스",
+"second_ret": 8.08
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 3.45,
+"up5": 2,
+"lead": "엔비티",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 5.04
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.35,
+"up5": 3,
+"lead": "청담글로벌",
+"lead_ret": 13.63,
+"second": "한국비엔씨",
+"second_ret": 8.64
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 25,
+"avg": 3.33,
+"up5": 4,
+"lead": "인바이오젠",
+"lead_ret": 29.96,
+"second": "한국비엔씨",
+"second_ret": 8.64
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 3.2,
+"up5": 0,
+"lead": "네패스아크",
+"lead_ret": 3.98,
+"second": "네패스",
+"second_ret": 3.58
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": 3.1,
+"up5": 5,
+"lead": "대원미디어",
+"lead_ret": 7.92,
+"second": "콘텐트리중앙",
+"second_ret": 7.17
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.08,
+"up5": 3,
+"lead": "레이저쎌",
+"lead_ret": 7.71,
+"second": "지아이에스",
+"second_ret": 6.55
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 3.01,
+"up5": 1,
+"lead": "엠게임",
+"lead_ret": 9.18,
+"second": "신도기연",
+"second_ret": 4.32
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.82,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 0.71,
+"second": "코리안리",
+"second_ret": 0.66
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -0.72,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 2.82,
+"second": "성일하이텍",
+"second_ret": 1.31
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -0.51,
+"up5": 0,
+"lead": "넥센",
+"lead_ret": 2.0,
+"second": "한국앤컴퍼니",
+"second_ret": 0.81
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -0.45,
+"up5": 0,
+"lead": "원티드랩",
+"lead_ret": 3.05,
+"second": "사람인",
+"second_ret": 1.55
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -0.27,
+"up5": 0,
+"lead": "휴비스",
+"lead_ret": 4.29,
+"second": "태광산업",
+"second_ret": 1.39
+}
+],
+"leaders": [
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 13.63,
+"value": 1578,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 13.58,
+"value": 1166,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "경동인베스트",
+"code": "012320",
+"ret": 14.65,
+"value": 742,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "넥스트칩",
+"code": "396270",
+"ret": 12.66,
+"value": 680,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "엔비티",
+"code": "236810",
+"ret": 30.0,
+"value": 559,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+}
+],
+"backfilled": true
+}

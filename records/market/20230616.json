@@ -1,0 +1,254 @@
+{
+"date": "20230616",
+"kospi": 0.66,
+"kosdaq": 1.13,
+"adv": 1319,
+"dec": 711,
+"flat": 135,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 193758,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 4,
+"lead": "다산네트웍스",
+"lead_ret": 29.85,
+"second": "이노인스트루먼트",
+"second_ret": 15.84
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "아이센스",
+"lead_ret": 10.56,
+"second": "제이엘케이",
+"second_ret": 10.27
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "청보",
+"lead_ret": 29.87,
+"second": "동원모빌리티",
+"second_ret": 12.89
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.41,
+"up5": 3,
+"lead": "샘표식품",
+"lead_ret": 26.62,
+"second": "풀무원",
+"second_ret": 8.04
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.77,
+"up5": 1,
+"lead": "한화오션",
+"lead_ret": 11.99,
+"second": "HD한국조선해양",
+"second_ret": 4.88
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.52,
+"up5": 3,
+"lead": "에어부산",
+"lead_ret": 7.78,
+"second": "제주항공",
+"second_ret": 6.48
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.38,
+"up5": 2,
+"lead": "LS",
+"lead_ret": 9.88,
+"second": "부산산업",
+"second_ret": 8.93
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 3.65,
+"up5": 8,
+"lead": "다산네트웍스",
+"lead_ret": 29.85,
+"second": "이노인스트루먼트",
+"second_ret": 15.84
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 3.42,
+"up5": 6,
+"lead": "디와이파워",
+"lead_ret": 8.72,
+"second": "진성티이씨",
+"second_ret": 6.91
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.0,
+"up5": 1,
+"lead": "성광벤드",
+"lead_ret": 6.78,
+"second": "화성밸브",
+"second_ret": 4.52
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": 2.83,
+"up5": 5,
+"lead": "조선선재",
+"lead_ret": 7.89,
+"second": "케이프",
+"second_ret": 7.89
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.83,
+"up5": 2,
+"lead": "에스와이",
+"lead_ret": 11.6,
+"second": "금강공업",
+"second_ret": 5.47
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.83,
+"up5": 2,
+"lead": "LX인터내셔널",
+"lead_ret": 7.94,
+"second": "현대코퍼레이션",
+"second_ret": 6.64
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.78,
+"up5": 2,
+"lead": "모헨즈",
+"lead_ret": 29.8,
+"second": "부산산업",
+"second_ret": 8.93
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.75,
+"up5": 1,
+"lead": "오르비텍",
+"lead_ret": 10.99,
+"second": "한화에어로스페이스",
+"second_ret": 4.85
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.09,
+"up5": 0,
+"lead": "한미사이언스",
+"lead_ret": 2.06,
+"second": "한미약품",
+"second_ret": 1.28
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -1.07,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": 0.88,
+"second": "이씨에스",
+"second_ret": 0.83
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.04,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 0.68,
+"second": "삼성바이오로직스",
+"second_ret": -0.39
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.8,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.9,
+"second": "서울제약",
+"second_ret": 0.12
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.52,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.0,
+"second": "흥국화재",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 13.73,
+"value": 6328,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "레이크머티리얼즈",
+"code": "281740",
+"ret": 12.98,
+"value": 5601,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 21.88,
+"value": 3722,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "KG케미칼",
+"code": "001390",
+"ret": 11.19,
+"value": 1968,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "한화오션",
+"code": "042660",
+"ret": 11.99,
+"value": 1917,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

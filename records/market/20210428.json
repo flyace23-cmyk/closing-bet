@@ -1,0 +1,254 @@
+{
+"date": "20210428",
+"kospi": -1.06,
+"kosdaq": -2.23,
+"adv": 339,
+"dec": 1560,
+"flat": 100,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 283581,
+"hot": [
+{
+"name": "조선기자재",
+"n": 5,
+"lead": "STX엔진",
+"lead_ret": 14.4,
+"second": "HD현대마린엔진",
+"second_ret": 14.29
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "진매트릭스",
+"lead_ret": 18.09,
+"second": "HLB제넥스",
+"second_ret": 14.61
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 4,
+"lead": "휴온스글로벌",
+"lead_ret": 29.91,
+"second": "휴메딕스",
+"second_ret": 14.71
+}
+],
+"themes": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 4.92,
+"up5": 4,
+"lead": "휴온스글로벌",
+"lead_ret": 29.91,
+"second": "휴메딕스",
+"second_ret": 14.71
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 2.27,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 17.79,
+"second": "손오공",
+"second_ret": 2.24
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.97,
+"up5": 3,
+"lead": "종근당바이오",
+"lead_ret": 29.87,
+"second": "HLB제넥스",
+"second_ret": 14.61
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 1.92,
+"up5": 5,
+"lead": "STX엔진",
+"lead_ret": 14.4,
+"second": "HD현대마린엔진",
+"second_ret": 14.29
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 1.79,
+"up5": 2,
+"lead": "휴온스글로벌",
+"lead_ret": 29.91,
+"second": "휴메딕스",
+"second_ret": 14.71
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 1.44,
+"up5": 1,
+"lead": "HMM",
+"lead_ret": 6.79,
+"second": "대한해운",
+"second_ret": 2.54
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.42,
+"up5": 1,
+"lead": "극동유화",
+"lead_ret": 5.52,
+"second": "S-Oil",
+"second_ret": 4.61
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 1.39,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 2.23,
+"second": "JB금융지주",
+"second_ret": 1.84
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 1.27,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 7.45,
+"second": "한국팩키지",
+"second_ret": 2.43
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 1.05,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": 2.18,
+"second": "메가엠디",
+"second_ret": 2.17
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.02,
+"up5": 3,
+"lead": "에피소드컴퍼니",
+"lead_ret": 17.79,
+"second": "유비온",
+"second_ret": 14.95
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.01,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 4.94,
+"second": "한화생명",
+"second_ret": 1.26
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": -4.3,
+"up5": 0,
+"lead": "디아이",
+"lead_ret": 0.38,
+"second": "와이씨",
+"second_ret": -0.83
+},
+{
+"name": "반도체 장비",
+"n": 75,
+"avg": -4.07,
+"up5": 0,
+"lead": "디아이",
+"lead_ret": 0.38,
+"second": "미래산업",
+"second_ret": 0.0
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": -4.0,
+"up5": 0,
+"lead": "이미지스",
+"lead_ret": 1.75,
+"second": "디아이",
+"second_ret": 0.38
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -3.91,
+"up5": 0,
+"lead": "세아제강",
+"lead_ret": 1.31,
+"second": "이렘",
+"second_ret": 0.0
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -3.89,
+"up5": 0,
+"lead": "동아제약",
+"lead_ret": -0.41,
+"second": "한익스프레스",
+"second_ret": -1.82
+}
+],
+"leaders": [
+{
+"name": "종근당바이오",
+"code": "063160",
+"ret": 29.87,
+"value": 3811,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 18.09,
+"value": 3117,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "휴온스",
+"code": "243070",
+"ret": 11.49,
+"value": 2837,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "휴메딕스",
+"code": "200670",
+"ret": 14.71,
+"value": 2467,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "휴온스글로벌",
+"code": "084110",
+"ret": 29.91,
+"value": 2065,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+}
+],
+"backfilled": true
+}

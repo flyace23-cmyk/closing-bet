@@ -1,0 +1,238 @@
+{
+"date": "20201123",
+"kospi": 1.92,
+"kosdaq": 0.36,
+"adv": 871,
+"dec": 892,
+"flat": 193,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 317792,
+"hot": [
+{
+"name": "LNG(액화천연가스)",
+"n": 3,
+"lead": "한화엔진",
+"lead_ret": 22.38,
+"second": "대한해운",
+"second_ret": 19.86
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 6.97,
+"up5": 3,
+"lead": "대한해운",
+"lead_ret": 19.86,
+"second": "팬오션",
+"second_ret": 6.05
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 4.64,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 19.44,
+"second": "서울제약",
+"second_ret": 4.5
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 4.54,
+"up5": 10,
+"lead": "한화엔진",
+"lead_ret": 22.38,
+"second": "STX엔진",
+"second_ret": 12.28
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 7,
+"avg": 4.45,
+"up5": 2,
+"lead": "미래에셋벤처투자",
+"lead_ret": 14.01,
+"second": "세아베스틸지주",
+"second_ret": 7.32
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 4.33,
+"up5": 8,
+"lead": "한화엔진",
+"lead_ret": 22.38,
+"second": "대한해운",
+"second_ret": 19.86
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.23,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 29.9,
+"second": "삼성바이오로직스",
+"second_ret": 0.63
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 4.02,
+"up5": 2,
+"lead": "한화투자증권",
+"lead_ret": 6.87,
+"second": "한화생명",
+"second_ret": 6.67
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.85,
+"up5": 1,
+"lead": "참좋은여행",
+"lead_ret": 12.38,
+"second": "모두투어",
+"second_ret": 4.53
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.56,
+"up5": 2,
+"lead": "세아베스틸지주",
+"lead_ret": 7.32,
+"second": "대한제강",
+"second_ret": 6.24
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.92,
+"up5": 1,
+"lead": "페이퍼코리아",
+"lead_ret": 29.88,
+"second": "한국제지",
+"second_ret": 3.29
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.78,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 13.15,
+"second": "신세계",
+"second_ret": 0.65
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 2.68,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 19.86,
+"second": "한탑",
+"second_ret": 15.39
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -1.8,
+"up5": 0,
+"lead": "광무",
+"lead_ret": 0.88,
+"second": "오픈베이스",
+"second_ret": -0.14
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": -1.77,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 4.87,
+"second": "대웅제약",
+"second_ret": 1.25
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": -1.33,
+"up5": 0,
+"lead": "윙입푸드",
+"lead_ret": 0.66,
+"second": "하림",
+"second_ret": 0.38
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.25,
+"up5": 0,
+"lead": "위더스제약",
+"lead_ret": 3.12,
+"second": "국제약품",
+"second_ret": 0.93
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": -1.16,
+"up5": 0,
+"lead": "한솔홈데코",
+"lead_ret": 1.36,
+"second": "유니드",
+"second_ret": 0.99
+}
+],
+"leaders": [
+{
+"name": "앱토크롬",
+"code": "109960",
+"ret": 29.97,
+"value": 29064,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "삼성중공업",
+"code": "010140",
+"ret": 15.69,
+"value": 11420,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "고바이오랩",
+"code": "348150",
+"ret": 18.42,
+"value": 7813,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "제일약품",
+"code": "271980",
+"ret": 19.44,
+"value": 7222,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "루트K",
+"code": "195990",
+"ret": 14.71,
+"value": 6029,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+}
+],
+"backfilled": true
+}

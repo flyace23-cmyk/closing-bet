@@ -1,0 +1,254 @@
+{
+"date": "20240912",
+"kospi": 2.34,
+"kosdaq": 3.05,
+"adv": 1969,
+"dec": 221,
+"flat": 92,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 168848,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "엔젤로보틱스",
+"lead_ret": 29.69,
+"second": "에브리봇",
+"second_ret": 15.12
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "와이씨",
+"lead_ret": 21.32,
+"second": "네오셈",
+"second_ret": 13.92
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 4,
+"lead": "오킨스전자",
+"lead_ret": 14.09,
+"second": "네오셈",
+"second_ret": 13.92
+}
+],
+"themes": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 7.85,
+"up5": 10,
+"lead": "오킨스전자",
+"lead_ret": 14.09,
+"second": "네오셈",
+"second_ret": 13.92
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 6.74,
+"up5": 20,
+"lead": "미래반도체",
+"lead_ret": 29.98,
+"second": "와이씨",
+"second_ret": 21.32
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 5.81,
+"up5": 17,
+"lead": "퀄리타스반도체",
+"lead_ret": 10.25,
+"second": "제주반도체",
+"second_ret": 9.93
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": 5.55,
+"up5": 7,
+"lead": "우리기술",
+"lead_ret": 13.63,
+"second": "케이엔알시스템",
+"second_ret": 8.85
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 5.46,
+"up5": 7,
+"lead": "SK하이닉스",
+"lead_ret": 7.38,
+"second": "펨트론",
+"second_ret": 6.86
+},
+{
+"name": "전력설비",
+"n": 32,
+"avg": 5.18,
+"up5": 10,
+"lead": "보성파워텍",
+"lead_ret": 29.95,
+"second": "산일전기",
+"second_ret": 13.17
+},
+{
+"name": "시스템반도체",
+"n": 53,
+"avg": 5.17,
+"up5": 27,
+"lead": "미래반도체",
+"lead_ret": 29.98,
+"second": "파두",
+"second_ret": 11.9
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 38,
+"avg": 5.16,
+"up5": 16,
+"lead": "엔젤로보틱스",
+"lead_ret": 29.69,
+"second": "MDS테크",
+"second_ret": 16.85
+},
+{
+"name": "원자력발전",
+"n": 48,
+"avg": 5.1,
+"up5": 17,
+"lead": "보성파워텍",
+"lead_ret": 29.95,
+"second": "에너토크",
+"second_ret": 21.65
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 66,
+"avg": 5.06,
+"up5": 25,
+"lead": "엔젤로보틱스",
+"lead_ret": 29.69,
+"second": "에브리봇",
+"second_ret": 15.12
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 4.92,
+"up5": 43,
+"lead": "와이씨",
+"lead_ret": 21.32,
+"second": "네오셈",
+"second_ret": 13.92
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 54,
+"avg": 4.81,
+"up5": 17,
+"lead": "씨이랩",
+"lead_ret": 29.97,
+"second": "엔젤로보틱스",
+"second_ret": 29.69
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.76,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 0.42,
+"second": "GS리테일",
+"second_ret": 0.0
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 0.04,
+"up5": 0,
+"lead": "HS효성첨단소재",
+"lead_ret": 3.2,
+"second": "코오롱인더",
+"second_ret": 2.9
+},
+{
+"name": "골프",
+"n": 14,
+"avg": 0.27,
+"up5": 0,
+"lead": "라온피플",
+"lead_ret": 5.0,
+"second": "골프존",
+"second_ret": 2.95
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 0.6,
+"up5": 0,
+"lead": "해성산업",
+"lead_ret": 2.72,
+"second": "페이퍼코리아",
+"second_ret": 1.81
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.67,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 3.78,
+"second": "성우전자",
+"second_ret": 2.62
+}
+],
+"leaders": [
+{
+"name": "블루엠텍",
+"code": "439580",
+"ret": 10.94,
+"value": 3194,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 21.32,
+"value": 2665,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "넥스트바이오메디컬",
+"code": "389650",
+"ret": 23.7,
+"value": 2609,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "엔젤로보틱스",
+"code": "455900",
+"ret": 29.69,
+"value": 1053,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "퀀타매트릭스",
+"code": "317690",
+"ret": 15.18,
+"value": 693,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

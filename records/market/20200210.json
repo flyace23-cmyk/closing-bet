@@ -1,0 +1,254 @@
+{
+"date": "20200210",
+"kospi": -0.49,
+"kosdaq": 0.51,
+"adv": 902,
+"dec": 798,
+"flat": 203,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 90167,
+"hot": [
+{
+"name": "전기차",
+"n": 5,
+"lead": "아모그린텍",
+"lead_ret": 9.87,
+"second": "성문전자",
+"second_ret": 8.29
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "디젠스",
+"lead_ret": 30.0,
+"second": "아진전자부품",
+"second_ret": 8.23
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 3,
+"lead": "아모그린텍",
+"lead_ret": 9.87,
+"second": "SFA넥셀",
+"second_ret": 7.62
+}
+],
+"themes": [
+{
+"name": "육계",
+"n": 8,
+"avg": 6.29,
+"up5": 3,
+"lead": "마니커에프앤지",
+"lead_ret": 22.41,
+"second": "체리부로",
+"second_ret": 10.55
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 5.04,
+"up5": 2,
+"lead": "졸스",
+"lead_ret": 29.89,
+"second": "쇼박스",
+"second_ret": 6.43
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 3.06,
+"up5": 4,
+"lead": "대동스틸",
+"lead_ret": 15.31,
+"second": "화성밸브",
+"second_ret": 8.62
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 2.79,
+"up5": 3,
+"lead": "아모그린텍",
+"lead_ret": 9.87,
+"second": "SFA넥셀",
+"second_ret": 7.62
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.77,
+"up5": 1,
+"lead": "특수건설",
+"lead_ret": 7.52,
+"second": "우원개발",
+"second_ret": 4.44
+},
+{
+"name": "영상콘텐츠",
+"n": 21,
+"avg": 2.62,
+"up5": 3,
+"lead": "졸스",
+"lead_ret": 29.89,
+"second": "쇼박스",
+"second_ret": 6.43
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.54,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 6.19,
+"second": "옴니시스템",
+"second_ret": 2.41
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": 2.38,
+"up5": 2,
+"lead": "폴라리스AI",
+"lead_ret": 23.2,
+"second": "특수건설",
+"second_ret": 7.52
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 2.37,
+"up5": 2,
+"lead": "킵스파마",
+"lead_ret": 24.15,
+"second": "원익피앤이",
+"second_ret": 5.04
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.2,
+"up5": 3,
+"lead": "폴라리스AI",
+"lead_ret": 23.2,
+"second": "국영지앤엠",
+"second_ret": 9.38
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.11,
+"up5": 1,
+"lead": "화성밸브",
+"lead_ret": 8.62,
+"second": "케이에스피",
+"second_ret": 3.22
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.02,
+"up5": 1,
+"lead": "팜스토리",
+"lead_ret": 5.24,
+"second": "CJ씨푸드",
+"second_ret": 4.55
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -2.52,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 0.78,
+"second": "경동제약",
+"second_ret": 0.0
+},
+{
+"name": "마스크",
+"n": 19,
+"avg": -1.8,
+"up5": 0,
+"lead": "크린앤사이언스",
+"lead_ret": 2.4,
+"second": "아가방컴퍼니",
+"second_ret": 1.6
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.75,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 0.0,
+"second": "BNK금융지주",
+"second_ret": -1.16
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.59,
+"up5": 0,
+"lead": "한솔홀딩스",
+"lead_ret": 0.84,
+"second": "삼보판지",
+"second_ret": 0.47
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -1.55,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 1.76,
+"second": "이월드",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 23.0,
+"value": 1853,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "한창제지",
+"code": "009460",
+"ret": 12.28,
+"value": 1181,
+"theme": "제지",
+"reason": "테마: 제지"
+},
+{
+"name": "마니커에프앤지",
+"code": "195500",
+"ret": 22.41,
+"value": 1035,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "국일신동",
+"code": "060480",
+"ret": 17.13,
+"value": 610,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "한올바이오파마",
+"code": "009420",
+"ret": 15.77,
+"value": 458,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

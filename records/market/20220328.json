@@ -1,0 +1,246 @@
+{
+"date": "20220328",
+"kospi": -0.02,
+"kosdaq": -0.81,
+"adv": 870,
+"dec": 1010,
+"flat": 195,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 188550,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "휴림로봇",
+"lead_ret": 22.29,
+"second": "해성에어로보틱스",
+"second_ret": 17.07
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "남선알미늄",
+"lead_ret": 29.91,
+"second": "DH오토리드",
+"second_ret": 15.48
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.6,
+"up5": 1,
+"lead": "휴림로봇",
+"lead_ret": 22.29,
+"second": "TPC로보틱스",
+"second_ret": 3.55
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 2.5,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 12.32,
+"second": "메가엠디",
+"second_ret": 4.46
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.35,
+"up5": 3,
+"lead": "남선알미늄",
+"lead_ret": 29.91,
+"second": "조일알미늄",
+"second_ret": 11.7
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.18,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 10.31,
+"second": "성창기업지주",
+"second_ret": 2.91
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.18,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 10.31,
+"second": "성창기업지주",
+"second_ret": 2.91
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.15,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 3.48,
+"second": "DB손해보험",
+"second_ret": 3.41
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 2.15,
+"up5": 3,
+"lead": "애드바이오텍",
+"lead_ret": 29.96,
+"second": "미래생명자원",
+"second_ret": 6.83
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 1.95,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 6.49,
+"second": "동원산업",
+"second_ret": 4.97
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.88,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 6.83,
+"second": "풀무원",
+"second_ret": 1.8
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 1.77,
+"up5": 0,
+"lead": "노루페인트",
+"lead_ret": 4.72,
+"second": "조광페인트",
+"second_ret": 2.51
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 56,
+"avg": 1.53,
+"up5": 6,
+"lead": "휴림로봇",
+"lead_ret": 22.29,
+"second": "해성에어로보틱스",
+"second_ret": 17.07
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 1.47,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 4.33,
+"second": "주성엔지니어링",
+"second_ret": 4.21
+}
+],
+"themes_worst": [
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": -2.16,
+"up5": 0,
+"lead": "에프엔씨엔터",
+"lead_ret": 0.66,
+"second": "KX",
+"second_ret": 0.38
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -2.06,
+"up5": 0,
+"lead": "디에스케이",
+"lead_ret": 1.88,
+"second": "제테마",
+"second_ret": -0.25
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.0,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 0.2,
+"second": "하나금융지주",
+"second_ret": -0.2
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -1.98,
+"up5": 0,
+"lead": "태경케미컬",
+"lead_ret": 1.42,
+"second": "대한과학",
+"second_ret": 0.49
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -1.88,
+"up5": 2,
+"lead": "앱클론",
+"lead_ret": 10.76,
+"second": "케어젠",
+"second_ret": 5.07
+}
+],
+"leaders": [
+{
+"name": "오토앤",
+"code": "353590",
+"ret": 27.44,
+"value": 5121,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 22.29,
+"value": 4467,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 29.91,
+"value": 3650,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 11.7,
+"value": 1646,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "나무가",
+"code": "190510",
+"ret": 16.96,
+"value": 1456,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

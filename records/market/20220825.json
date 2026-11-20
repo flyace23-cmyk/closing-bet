@@ -1,0 +1,254 @@
+{
+"date": "20220825",
+"kospi": 1.22,
+"kosdaq": 1.79,
+"adv": 1661,
+"dec": 280,
+"flat": 157,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 119812,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "화승알앤에이",
+"lead_ret": 20.44,
+"second": "케이엔더블유",
+"second_ret": 14.22
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "하나기술",
+"lead_ret": 29.86,
+"second": "에이프로",
+"second_ret": 9.79
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 3,
+"lead": "한전산업",
+"lead_ret": 8.41,
+"second": "상아프론테크",
+"second_ret": 8.29
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 3.49,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 6.12,
+"second": "대한해운",
+"second_ret": 5.3
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 3.44,
+"up5": 3,
+"lead": "하나기술",
+"lead_ret": 29.86,
+"second": "엠플러스",
+"second_ret": 6.61
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 3.37,
+"up5": 3,
+"lead": "RF머트리얼즈",
+"lead_ret": 20.9,
+"second": "RFHIC",
+"second_ret": 11.84
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.34,
+"up5": 2,
+"lead": "하나기술",
+"lead_ret": 29.86,
+"second": "영화테크",
+"second_ret": 5.04
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.25,
+"up5": 2,
+"lead": "레이저쎌",
+"lead_ret": 7.31,
+"second": "예스티",
+"second_ret": 6.41
+},
+{
+"name": "2차전지(장비)",
+"n": 36,
+"avg": 3.17,
+"up5": 7,
+"lead": "하나기술",
+"lead_ret": 29.86,
+"second": "에이프로",
+"second_ret": 9.79
+},
+{
+"name": "카메라모듈/부품",
+"n": 25,
+"avg": 3.1,
+"up5": 2,
+"lead": "라온피플",
+"lead_ret": 15.13,
+"second": "동운아나텍",
+"second_ret": 6.64
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 3.03,
+"up5": 3,
+"lead": "타이거일렉",
+"lead_ret": 19.03,
+"second": "상아프론테크",
+"second_ret": 8.29
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.02,
+"up5": 2,
+"lead": "한전기술",
+"lead_ret": 11.27,
+"second": "비에이치아이",
+"second_ret": 8.14
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 18,
+"avg": 3.02,
+"up5": 1,
+"lead": "동운아나텍",
+"lead_ret": 6.64,
+"second": "파워로직스",
+"second_ret": 4.62
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.98,
+"up5": 1,
+"lead": "SK네트웍스",
+"lead_ret": 9.89,
+"second": "아난티",
+"second_ret": 4.03
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.98,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 9.01,
+"second": "신세계",
+"second_ret": 3.99
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -0.91,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 3.47,
+"second": "한국선재",
+"second_ret": 1.83
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.88,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 0.3,
+"second": "삼성중공업",
+"second_ret": -0.81
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.67,
+"up5": 0,
+"lead": "한국가스공사",
+"lead_ret": 1.23,
+"second": "삼천리",
+"second_ret": 0.71
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -0.55,
+"up5": 0,
+"lead": "KBI동양철관",
+"lead_ret": 1.72,
+"second": "유에스티",
+"second_ret": 1.63
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": -0.5,
+"up5": 0,
+"lead": "STX엔진",
+"lead_ret": 4.75,
+"second": "삼영엠텍",
+"second_ret": 2.62
+}
+],
+"leaders": [
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 15.25,
+"value": 1119,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 10.54,
+"value": 942,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 11.27,
+"value": 886,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "하나기술",
+"code": "299030",
+"ret": 29.86,
+"value": 719,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "유신",
+"code": "054930",
+"ret": 16.03,
+"value": 607,
+"theme": "철도",
+"reason": "테마: 철도"
+}
+],
+"backfilled": true
+}

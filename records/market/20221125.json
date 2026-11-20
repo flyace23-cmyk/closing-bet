@@ -1,0 +1,254 @@
+{
+"date": "20221125",
+"kospi": -0.14,
+"kosdaq": -0.63,
+"adv": 826,
+"dec": 1094,
+"flat": 202,
+"limit_up": 1,
+"limit_down": 3,
+"value_total": 99533,
+"hot": [
+{
+"name": "건설기계",
+"n": 4,
+"lead": "대창단조",
+"lead_ret": 10.29,
+"second": "디와이파워",
+"second_ret": 10.08
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "다우데이타",
+"lead_ret": 8.78,
+"second": "두산밥캣",
+"second_ret": 6.96
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "엔젠바이오",
+"lead_ret": 15.73,
+"second": "인벤티지랩",
+"second_ret": 8.49
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.22,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 29.85,
+"second": "오로라",
+"second_ret": 1.26
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 4.21,
+"up5": 6,
+"lead": "대창단조",
+"lead_ret": 10.29,
+"second": "디와이파워",
+"second_ret": 10.08
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 4.16,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 25.33,
+"second": "덕신이피씨",
+"second_ret": 4.71
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.77,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 25.33,
+"second": "LX인터내셔널",
+"second_ret": 1.74
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.53,
+"up5": 2,
+"lead": "한국정보통신",
+"lead_ret": 7.82,
+"second": "NHN KCP",
+"second_ret": 5.05
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.17,
+"up5": 1,
+"lead": "삼천리",
+"lead_ret": 7.3,
+"second": "서울가스",
+"second_ret": 3.2
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.88,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 4.95,
+"second": "이루온",
+"second_ret": 3.08
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 1.75,
+"up5": 5,
+"lead": "대동",
+"lead_ret": 14.03,
+"second": "디와이파워",
+"second_ret": 10.08
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 1.74,
+"up5": 2,
+"lead": "디케이락",
+"lead_ret": 8.66,
+"second": "하이록코리아",
+"second_ret": 5.62
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 1.69,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 25.33,
+"second": "SGC E&C",
+"second_ret": 4.98
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 1.54,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 25.33,
+"second": "웰크론한텍",
+"second_ret": 4.41
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.5,
+"up5": 2,
+"lead": "대동",
+"lead_ret": 14.03,
+"second": "TYM",
+"second_ret": 5.91
+}
+],
+"themes_worst": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": -4.91,
+"up5": 0,
+"lead": "넥써쓰",
+"lead_ret": 2.37,
+"second": "더블유게임즈",
+"second_ret": 0.82
+},
+{
+"name": "게임",
+"n": 29,
+"avg": -3.94,
+"up5": 0,
+"lead": "넥써쓰",
+"lead_ret": 2.37,
+"second": "손오공",
+"second_ret": 0.95
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -3.66,
+"up5": 0,
+"lead": "컴퍼니케이",
+"lead_ret": 0.68,
+"second": "엠게임",
+"second_ret": -0.52
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -2.48,
+"up5": 0,
+"lead": "NHN",
+"lead_ret": 0.41,
+"second": "키다리스튜디오",
+"second_ret": -0.11
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -2.47,
+"up5": 0,
+"lead": "세림B&G",
+"lead_ret": -0.97,
+"second": "에코플라스틱",
+"second_ret": -1.35
+}
+],
+"leaders": [
+{
+"name": "코오롱글로벌",
+"code": "003070",
+"ret": 25.33,
+"value": 2643,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "KZ정밀",
+"code": "036560",
+"ret": 20.08,
+"value": 1119,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "나무가",
+"code": "190510",
+"ret": 13.59,
+"value": 984,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "세우글로벌",
+"code": "013000",
+"ret": 18.3,
+"value": 846,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "대동",
+"code": "000490",
+"ret": 14.03,
+"value": 806,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

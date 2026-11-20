@@ -1,0 +1,254 @@
+{
+"date": "20240621",
+"kospi": -0.83,
+"kosdaq": -0.56,
+"adv": 554,
+"dec": 1589,
+"flat": 118,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 222377,
+"hot": [
+{
+"name": "화장품",
+"n": 6,
+"lead": "메타랩스",
+"lead_ret": 29.74,
+"second": "콜마비앤에이치",
+"second_ret": 18.5
+},
+{
+"name": "전력설비",
+"n": 6,
+"lead": "제룡산업",
+"lead_ret": 27.17,
+"second": "제룡전기",
+"second_ret": 17.2
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 5,
+"lead": "제룡전기",
+"lead_ret": 17.2,
+"second": "LS ELECTRIC",
+"second_ret": 10.35
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 4.67,
+"up5": 4,
+"lead": "대원전선",
+"lead_ret": 8.68,
+"second": "LS에코에너지",
+"second_ret": 6.23
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 3.86,
+"up5": 3,
+"lead": "GS글로벌",
+"lead_ret": 29.96,
+"second": "GS",
+"second_ret": 20.85
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 3.73,
+"up5": 11,
+"lead": "제룡산업",
+"lead_ret": 27.17,
+"second": "제룡전기",
+"second_ret": 17.2
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.7,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 29.96,
+"second": "LX인터내셔널",
+"second_ret": 2.53
+},
+{
+"name": "미용기기",
+"n": 16,
+"avg": 2.25,
+"up5": 3,
+"lead": "에이피알",
+"lead_ret": 9.47,
+"second": "메디톡스",
+"second_ret": 6.37
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.7,
+"up5": 2,
+"lead": "메디톡스",
+"lead_ret": 6.37,
+"second": "휴젤",
+"second_ret": 6.21
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.67,
+"up5": 1,
+"lead": "GS",
+"lead_ret": 20.85,
+"second": "한국쉘석유",
+"second_ret": 0.84
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.27,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 5.13,
+"second": "사조대림",
+"second_ret": 2.37
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.24,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.99,
+"second": "GKL",
+"second_ret": 2.12
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.24,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.99,
+"second": "GKL",
+"second_ret": 2.12
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 1.19,
+"up5": 2,
+"lead": "세명전기",
+"lead_ret": 11.39,
+"second": "LS",
+"second_ret": 5.83
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 0.94,
+"up5": 9,
+"lead": "메타랩스",
+"lead_ret": 29.74,
+"second": "콜마비앤에이치",
+"second_ret": 18.5
+}
+],
+"themes_worst": [
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": -3.17,
+"up5": 0,
+"lead": "남양유업",
+"lead_ret": 4.0,
+"second": "네오팜",
+"second_ret": 0.5
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.99,
+"up5": 0,
+"lead": "대교",
+"lead_ret": -0.8,
+"second": "큐알티",
+"second_ret": -0.92
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.91,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -1.25,
+"second": "미래생명자원",
+"second_ret": -1.62
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 37,
+"avg": -2.42,
+"up5": 0,
+"lead": "현대오토에버",
+"lead_ret": 0.84,
+"second": "현대글로비스",
+"second_ret": 0.46
+},
+{
+"name": "보안주(물리)",
+"n": 19,
+"avg": -2.41,
+"up5": 0,
+"lead": "포커스에이아이",
+"lead_ret": 0.2,
+"second": "DGI",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "제룡산업",
+"code": "147830",
+"ret": 27.17,
+"value": 4682,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "제룡전기",
+"code": "033100",
+"ret": 17.2,
+"value": 4401,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+},
+{
+"name": "그리드위즈",
+"code": "453450",
+"ret": 16.63,
+"value": 4330,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 10.21,
+"value": 2878,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "GS",
+"code": "078930",
+"ret": 20.85,
+"value": 2367,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+}
+],
+"backfilled": true
+}

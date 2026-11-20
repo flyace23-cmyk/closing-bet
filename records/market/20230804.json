@@ -1,0 +1,254 @@
+{
+"date": "20230804",
+"kospi": -0.1,
+"kosdaq": -0.21,
+"adv": 1222,
+"dec": 841,
+"flat": 116,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 201671,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "실리콘투",
+"lead_ret": 15.98,
+"second": "마녀공장",
+"second_ret": 12.39
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "레인보우로보틱스",
+"lead_ret": 20.4,
+"second": "스맥",
+"second_ret": 12.72
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "디아이티",
+"lead_ret": 21.78,
+"second": "광무",
+"second_ret": 14.69
+}
+],
+"themes": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.77,
+"up5": 2,
+"lead": "오파스넷",
+"lead_ret": 19.47,
+"second": "광무",
+"second_ret": 14.69
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.51,
+"up5": 3,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.58,
+"second": "딥커머스",
+"second_ret": 5.26
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 4.38,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 20.6,
+"second": "대원미디어",
+"second_ret": 3.61
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 4.16,
+"up5": 5,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.58,
+"second": "손오공",
+"second_ret": 20.6
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.07,
+"up5": 2,
+"lead": "대구백화점",
+"lead_ret": 13.19,
+"second": "현대백화점",
+"second_ret": 5.47
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 4.04,
+"up5": 1,
+"lead": "진영",
+"lead_ret": 29.83,
+"second": "씨티케이",
+"second_ret": 2.08
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 3.75,
+"up5": 2,
+"lead": "와이랩",
+"lead_ret": 29.96,
+"second": "엔비티",
+"second_ret": 5.41
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.57,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 12.72,
+"second": "로보스타",
+"second_ret": 10.23
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.53,
+"up5": 9,
+"lead": "폴라리스오피스",
+"lead_ret": 21.1,
+"second": "플리토",
+"second_ret": 9.13
+},
+{
+"name": "영상콘텐츠",
+"n": 27,
+"avg": 3.31,
+"up5": 5,
+"lead": "와이랩",
+"lead_ret": 29.96,
+"second": "스튜디오미르",
+"second_ret": 7.18
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.17,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 21.1,
+"second": "오파스넷",
+"second_ret": 19.47
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 3.05,
+"up5": 3,
+"lead": "폴라리스오피스",
+"lead_ret": 21.1,
+"second": "이미지스",
+"second_ret": 15.85
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -11.27,
+"up5": 0,
+"lead": "서남",
+"lead_ret": 0.0,
+"second": "아센디오",
+"second_ret": -0.72
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -8.67,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": -0.29,
+"second": "일진파워",
+"second_ret": -1.23
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -3.91,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 2.98,
+"second": "대한전선",
+"second_ret": -0.3
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": -3.25,
+"up5": 2,
+"lead": "알멕",
+"lead_ret": 13.28,
+"second": "남선알미늄",
+"second_ret": 6.21
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": -3.12,
+"up5": 0,
+"lead": "엑사이엔씨",
+"lead_ret": 2.25,
+"second": "오리엔트정공",
+"second_ret": 1.87
+}
+],
+"leaders": [
+{
+"name": "에코프로에이치엔",
+"code": "383310",
+"ret": 29.89,
+"value": 9165,
+"theme": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"reason": "테마: 온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 20.4,
+"value": 6685,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 21.1,
+"value": 2757,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "와이랩",
+"code": "432430",
+"ret": 29.96,
+"value": 1619,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "티로보틱스",
+"code": "117730",
+"ret": 12.38,
+"value": 1370,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

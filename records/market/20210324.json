@@ -1,0 +1,246 @@
+{
+"date": "20210324",
+"kospi": -0.28,
+"kosdaq": 0.79,
+"adv": 997,
+"dec": 823,
+"flat": 174,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 230173,
+"hot": [
+{
+"name": "지주사",
+"n": 3,
+"lead": "웅진",
+"lead_ret": 29.89,
+"second": "서연",
+"second_ret": 23.11
+},
+{
+"name": "영상콘텐츠",
+"n": 3,
+"lead": "팬엔터테인먼트",
+"lead_ret": 19.49,
+"second": "NEW",
+"second_ret": 13.14
+}
+],
+"themes": [
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 3.28,
+"up5": 7,
+"lead": "팬엔터테인먼트",
+"lead_ret": 19.49,
+"second": "NEW",
+"second_ret": 13.14
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 17,
+"avg": 3.25,
+"up5": 4,
+"lead": "삼일씨엔에스",
+"lead_ret": 17.9,
+"second": "동양파일",
+"second_ret": 12.6
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 3.13,
+"up5": 3,
+"lead": "서연탑메탈",
+"lead_ret": 14.41,
+"second": "디와이파워",
+"second_ret": 6.32
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.69,
+"up5": 3,
+"lead": "NEW",
+"lead_ret": 13.14,
+"second": "콘텐트리중앙",
+"second_ret": 6.52
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.67,
+"up5": 3,
+"lead": "한국석유",
+"lead_ret": 7.92,
+"second": "HC보광산업",
+"second_ret": 5.46
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.34,
+"up5": 2,
+"lead": "동아지질",
+"lead_ret": 6.46,
+"second": "특수건설",
+"second_ret": 5.28
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.24,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 6.25,
+"second": "국보디자인",
+"second_ret": 4.31
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.02,
+"up5": 5,
+"lead": "에스트래픽",
+"lead_ret": 29.99,
+"second": "삼일씨엔에스",
+"second_ret": 17.9
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 2.01,
+"up5": 1,
+"lead": "서진시스템",
+"lead_ret": 8.46,
+"second": "비에이치아이",
+"second_ret": 3.38
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 1.94,
+"up5": 5,
+"lead": "삼일씨엔에스",
+"lead_ret": 17.9,
+"second": "유니슨",
+"second_ret": 6.85
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.92,
+"up5": 2,
+"lead": "HS효성첨단소재",
+"lead_ret": 8.88,
+"second": "코오롱인더",
+"second_ret": 5.72
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 1.82,
+"up5": 2,
+"lead": "신대양제지",
+"lead_ret": 7.24,
+"second": "대림제지",
+"second_ret": 5.26
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -3.09,
+"up5": 0,
+"lead": "큐에스아이",
+"lead_ret": 2.15,
+"second": "광전자",
+"second_ret": 1.32
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.03,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "현대모비스",
+"second_ret": -1.22
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.66,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 0.0,
+"second": "하나금융지주",
+"second_ret": -0.24
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": -1.51,
+"up5": 1,
+"lead": "루트K",
+"lead_ret": 5.61,
+"second": "서암기계공업",
+"second_ret": 1.03
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.22,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 0.69,
+"second": "한진칼",
+"second_ret": -0.85
+}
+],
+"leaders": [
+{
+"name": "서연",
+"code": "007860",
+"ret": 23.11,
+"value": 4692,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "팬엔터테인먼트",
+"code": "068050",
+"ret": 19.49,
+"value": 2845,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 15.09,
+"value": 2128,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "솔루엠",
+"code": "248070",
+"ret": 13.59,
+"value": 1586,
+"theme": "전기차(충전소/충전기)",
+"reason": "테마: 전기차(충전소/충전기)"
+},
+{
+"name": "서연탑메탈",
+"code": "019770",
+"ret": 14.41,
+"value": 1541,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241227",
+"kospi": -1.02,
+"kosdaq": -1.43,
+"adv": 369,
+"dec": 1861,
+"flat": 91,
+"limit_up": 3,
+"limit_down": 2,
+"value_total": 120384,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 12,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "케이씨에스",
+"second_ret": 30.0
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "디아이",
+"lead_ret": 14.03,
+"second": "피에스케이홀딩스",
+"second_ret": 9.57
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "삼현",
+"lead_ret": 18.55,
+"second": "스마트레이더시스템",
+"second_ret": 15.26
+}
+],
+"themes": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 7.58,
+"up5": 15,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "케이씨에스",
+"second_ret": 30.0
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.21,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "우리넷",
+"second_ret": 18.87
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.03,
+"up5": 1,
+"lead": "케이씨에스",
+"lead_ret": 30.0,
+"second": "카카오페이",
+"second_ret": 2.31
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 1.47,
+"up5": 1,
+"lead": "웹케시",
+"lead_ret": 5.04,
+"second": "유라클",
+"second_ret": 2.44
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 0.92,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 5.27,
+"second": "ISC",
+"second_ret": 3.51
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 0.79,
+"up5": 4,
+"lead": "디아이",
+"lead_ret": 14.03,
+"second": "피에스케이홀딩스",
+"second_ret": 9.57
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 0.79,
+"up5": 6,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "코위버",
+"second_ret": 21.09
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 0.71,
+"up5": 1,
+"lead": "이오테크닉스",
+"lead_ret": 5.53,
+"second": "예스티",
+"second_ret": 4.67
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 0.5,
+"up5": 6,
+"lead": "한국첨단소재",
+"lead_ret": 30.02,
+"second": "코위버",
+"second_ret": 21.09
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 0.46,
+"up5": 0,
+"lead": "퀄리타스반도체",
+"lead_ret": 3.81,
+"second": "엑시콘",
+"second_ret": 3.58
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": 0.42,
+"up5": 2,
+"lead": "에이엘티",
+"lead_ret": 15.84,
+"second": "시지트로닉스",
+"second_ret": 6.92
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.28,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 4.0,
+"second": "이루온",
+"second_ret": 0.77
+}
+],
+"themes_worst": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -8.24,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -0.28,
+"second": "한성기업",
+"second_ret": -1.57
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -4.93,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": -0.42,
+"second": "포바이포",
+"second_ret": -0.63
+},
+{
+"name": "영상콘텐츠",
+"n": 28,
+"avg": -4.7,
+"up5": 0,
+"lead": "큐로홀딩스",
+"lead_ret": 4.44,
+"second": "초록뱀미디어",
+"second_ret": 0.0
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": -4.44,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 2.42,
+"second": "한국정보통신",
+"second_ret": 0.26
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -4.12,
+"up5": 0,
+"lead": "케이씨피드",
+"lead_ret": -0.55,
+"second": "지어소프트",
+"second_ret": -0.88
+}
+],
+"leaders": [
+{
+"name": "삼현",
+"code": "437730",
+"ret": 18.55,
+"value": 2228,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 12.63,
+"value": 1412,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "스마트레이더시스템",
+"code": "424960",
+"ret": 15.26,
+"value": 1281,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "케이씨에스",
+"code": "115500",
+"ret": 30.0,
+"value": 1192,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "우리넷",
+"code": "115440",
+"ret": 18.87,
+"value": 900,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+}
+],
+"backfilled": true
+}

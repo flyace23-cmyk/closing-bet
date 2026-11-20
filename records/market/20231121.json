@@ -1,0 +1,246 @@
+{
+"date": "20231121",
+"kospi": 0.77,
+"kosdaq": 0.48,
+"adv": 1360,
+"dec": 688,
+"flat": 166,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 136860,
+"hot": [
+{
+"name": "교육/온라인 교육",
+"n": 3,
+"lead": "유비온",
+"lead_ret": 20.44,
+"second": "비상교육",
+"second_ret": 14.87
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "지엘팜텍",
+"lead_ret": 13.33,
+"second": "삼천당제약",
+"second_ret": 13.29
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 4.82,
+"up5": 2,
+"lead": "오픈놀",
+"lead_ret": 20.45,
+"second": "메가엠디",
+"second_ret": 11.86
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.78,
+"up5": 5,
+"lead": "유비온",
+"lead_ret": 20.44,
+"second": "비상교육",
+"second_ret": 14.87
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.76,
+"up5": 1,
+"lead": "체리부로",
+"lead_ret": 22.04,
+"second": "마니커에프앤지",
+"second_ret": 3.1
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 2.83,
+"up5": 3,
+"lead": "삼천당제약",
+"lead_ret": 13.29,
+"second": "에이프로젠",
+"second_ret": 5.72
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.77,
+"up5": 1,
+"lead": "포바이포",
+"lead_ret": 8.57,
+"second": "엑스페릭스",
+"second_ret": 4.94
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.7,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 5.59,
+"second": "GS건설",
+"second_ret": 4.56
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.64,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 5.7,
+"second": "녹십자",
+"second_ret": 3.11
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.54,
+"up5": 2,
+"lead": "인트론바이오",
+"lead_ret": 24.29,
+"second": "랩지노믹스",
+"second_ret": 5.61
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": 2.38,
+"up5": 1,
+"lead": "에코프로머티",
+"lead_ret": 29.88,
+"second": "현대비앤지스틸",
+"second_ret": 1.98
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.37,
+"up5": 1,
+"lead": "인트론바이오",
+"lead_ret": 24.29,
+"second": "위더스제약",
+"second_ret": 1.51
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.3,
+"up5": 2,
+"lead": "로지시스",
+"lead_ret": 6.87,
+"second": "한네트",
+"second_ret": 5.68
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.26,
+"up5": 2,
+"lead": "사조대림",
+"lead_ret": 6.44,
+"second": "CJ씨푸드",
+"second_ret": 6.09
+}
+],
+"themes_worst": [
+{
+"name": "페인트",
+"n": 8,
+"avg": -0.66,
+"up5": 0,
+"lead": "노루페인트",
+"lead_ret": 1.52,
+"second": "노루홀딩스",
+"second_ret": 0.91
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -0.6,
+"up5": 0,
+"lead": "태경비케이",
+"lead_ret": 0.45,
+"second": "KG케미칼",
+"second_ret": 0.15
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -0.51,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 1.19,
+"second": "LG에너지솔루션",
+"second_ret": 0.68
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.38,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.41,
+"second": "흥국화재",
+"second_ret": 0.33
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -0.33,
+"up5": 0,
+"lead": "다산솔루에타",
+"lead_ret": 1.68,
+"second": "아이씨에이치",
+"second_ret": 1.52
+}
+],
+"leaders": [
+{
+"name": "에코프로머티",
+"code": "450080",
+"ret": 29.88,
+"value": 15801,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "부방",
+"code": "014470",
+"ret": 10.97,
+"value": 2489,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "삼천당제약",
+"code": "000250",
+"ret": 13.29,
+"value": 1785,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "인트론바이오",
+"code": "048530",
+"ret": 24.29,
+"value": 1736,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 25.42,
+"value": 1655,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

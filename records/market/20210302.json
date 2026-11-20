@@ -1,0 +1,254 @@
+{
+"date": "20210302",
+"kospi": 1.03,
+"kosdaq": 1.01,
+"adv": 1038,
+"dec": 774,
+"flat": 174,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 282106,
+"hot": [
+{
+"name": "자동차부품",
+"n": 7,
+"lead": "두올",
+"lead_ret": 29.9,
+"second": "대원산업",
+"second_ret": 24.87
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "한빛소프트",
+"lead_ret": 29.89,
+"second": "엠게임",
+"second_ret": 15.89
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "비트플래닛",
+"lead_ret": 29.75,
+"second": "엠게임",
+"second_ret": 15.89
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 4.87,
+"up5": 1,
+"lead": "한빛소프트",
+"lead_ret": 29.89,
+"second": "이스트소프트",
+"second_ret": 3.58
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.09,
+"up5": 2,
+"lead": "GMI벤처",
+"lead_ret": 29.88,
+"second": "대성창투",
+"second_ret": 5.08
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 3.6,
+"up5": 3,
+"lead": "비트플래닛",
+"lead_ret": 29.75,
+"second": "엠게임",
+"second_ret": 15.89
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.32,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 5.08,
+"second": "TS인베스트먼트",
+"second_ret": 4.85
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": 3.26,
+"up5": 8,
+"lead": "이수앱지스",
+"lead_ret": 17.59,
+"second": "지씨셀",
+"second_ret": 8.02
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.19,
+"up5": 1,
+"lead": "한온시스템",
+"lead_ret": 11.98,
+"second": "현대위아",
+"second_ret": 3.63
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 3.09,
+"up5": 4,
+"lead": "인트론바이오",
+"lead_ret": 15.31,
+"second": "고바이오랩",
+"second_ret": 8.42
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 3.03,
+"up5": 1,
+"lead": "삼성전기",
+"lead_ret": 6.33,
+"second": "삼성생명",
+"second_ret": 4.53
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.93,
+"up5": 2,
+"lead": "신성이엔지",
+"lead_ret": 7.49,
+"second": "에스와이",
+"second_ret": 5.41
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 2.91,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 29.89,
+"second": "SOOP",
+"second_ret": 6.72
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 2.81,
+"up5": 2,
+"lead": "서울식품",
+"lead_ret": 27.42,
+"second": "아티스트컴퍼니",
+"second_ret": 5.11
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 22,
+"avg": 2.78,
+"up5": 6,
+"lead": "네이처셀",
+"lead_ret": 8.86,
+"second": "신풍제약",
+"second_ret": 8.47
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.86,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": -1.02,
+"second": "대한항공",
+"second_ret": -2.13
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.24,
+"up5": 0,
+"lead": "케이씨에스",
+"lead_ret": 4.65,
+"second": "NICE인프라",
+"second_ret": 1.79
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.22,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": -0.3,
+"second": "하나투어",
+"second_ret": -1.04
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -2.18,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 1.73,
+"second": "한국쉘석유",
+"second_ret": -0.4
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -1.61,
+"up5": 0,
+"lead": "특수건설",
+"lead_ret": 1.54,
+"second": "세명전기",
+"second_ret": 1.19
+}
+],
+"leaders": [
+{
+"name": "서울식품",
+"code": "004410",
+"ret": 27.42,
+"value": 2948,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 22.09,
+"value": 2505,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "두올",
+"code": "016740",
+"ret": 29.9,
+"value": 2142,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "구영테크",
+"code": "053270",
+"ret": 15.1,
+"value": 1599,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한온시스템",
+"code": "018880",
+"ret": 11.98,
+"value": 1368,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

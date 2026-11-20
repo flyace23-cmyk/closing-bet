@@ -1,0 +1,254 @@
+{
+"date": "20210603",
+"kospi": 0.72,
+"kosdaq": 0.93,
+"adv": 1059,
+"dec": 733,
+"flat": 218,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 255184,
+"hot": [
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에이치엠넥스",
+"lead_ret": 30.0,
+"second": "웹스",
+"second_ret": 26.84
+},
+{
+"name": "남북경협",
+"n": 3,
+"lead": "제이에스티나",
+"lead_ret": 13.93,
+"second": "한국석유",
+"second_ret": 13.66
+},
+{
+"name": "DMZ 평화공원",
+"n": 3,
+"lead": "웹스",
+"lead_ret": 26.84,
+"second": "코아스",
+"second_ret": 18.73
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 5.05,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 18.42,
+"second": "가온전선",
+"second_ret": 13.34
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 4.3,
+"up5": 2,
+"lead": "GMI벤처",
+"lead_ret": 29.66,
+"second": "린드먼아시아",
+"second_ret": 6.29
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 4.18,
+"up5": 1,
+"lead": "코콤",
+"lead_ret": 20.49,
+"second": "아이디스",
+"second_ret": 3.59
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": 3.77,
+"up5": 2,
+"lead": "태성",
+"lead_ret": 27.07,
+"second": "어보브반도체",
+"second_ret": 5.92
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 3.66,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 27.07,
+"second": "인텍플러스",
+"second_ret": 4.37
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 2.93,
+"up5": 1,
+"lead": "에이치엠넥스",
+"lead_ret": 30.0,
+"second": "한솔홈데코",
+"second_ret": 3.91
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 2.91,
+"up5": 2,
+"lead": "코콤",
+"lead_ret": 20.49,
+"second": "가온그룹",
+"second_ret": 7.3
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.88,
+"up5": 3,
+"lead": "웹스",
+"lead_ret": 26.84,
+"second": "코아스",
+"second_ret": 18.73
+},
+{
+"name": "전력반도체",
+"n": 14,
+"avg": 2.84,
+"up5": 2,
+"lead": "어보브반도체",
+"lead_ret": 5.92,
+"second": "DB하이텍",
+"second_ret": 5.2
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 2.61,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 27.07,
+"second": "삼성전기",
+"second_ret": 3.15
+},
+{
+"name": "반도체 장비",
+"n": 75,
+"avg": 2.53,
+"up5": 6,
+"lead": "에이치엠넥스",
+"lead_ret": 30.0,
+"second": "라온로보틱스",
+"second_ret": 6.29
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 2.51,
+"up5": 1,
+"lead": "한미반도체",
+"lead_ret": 5.76,
+"second": "유니테스트",
+"second_ret": 4.66
+}
+],
+"themes_worst": [
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": -1.31,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 2.68,
+"second": "에피소드컴퍼니",
+"second_ret": 0.25
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -1.29,
+"up5": 0,
+"lead": "한국종합기술",
+"lead_ret": 0.85,
+"second": "국보디자인",
+"second_ret": -1.02
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": -1.11,
+"up5": 0,
+"lead": "오가닉티코스메틱",
+"lead_ret": 3.75,
+"second": "대교",
+"second_ret": 2.68
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": -1.09,
+"up5": 0,
+"lead": "비엠티",
+"lead_ret": 2.97,
+"second": "KS인더스트리",
+"second_ret": 2.68
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.06,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": 0.98,
+"second": "고려제강",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 18.42,
+"value": 6337,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "에이치엠넥스",
+"code": "036170",
+"ret": 30.0,
+"value": 2694,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "진흥기업",
+"code": "002780",
+"ret": 19.43,
+"value": 2573,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "우진",
+"code": "105840",
+"ret": 20.97,
+"value": 1905,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "코콤",
+"code": "015710",
+"ret": 20.49,
+"value": 1574,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

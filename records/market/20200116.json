@@ -1,0 +1,254 @@
+{
+"date": "20200116",
+"kospi": 0.77,
+"kosdaq": 1.08,
+"adv": 936,
+"dec": 767,
+"flat": 199,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 107059,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 11,
+"lead": "포인트엔지니어링",
+"lead_ret": 15.18,
+"second": "제이티",
+"second_ret": 13.33
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "슈프리마",
+"lead_ret": 13.08,
+"second": "피에스케이",
+"second_ret": 10.95
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "포인트엔지니어링",
+"lead_ret": 15.18,
+"second": "덕산네오룩스",
+"second_ret": 8.46
+}
+],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 3.57,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 14.09,
+"second": "심텍",
+"second_ret": 3.21
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.51,
+"up5": 1,
+"lead": "메가엠디",
+"lead_ret": 11.35,
+"second": "대성창투",
+"second_ret": 4.84
+},
+{
+"name": "반도체 장비",
+"n": 70,
+"avg": 3.44,
+"up5": 19,
+"lead": "포인트엔지니어링",
+"lead_ret": 15.18,
+"second": "라온로보틱스",
+"second_ret": 14.46
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 22,
+"avg": 3.06,
+"up5": 5,
+"lead": "ISC",
+"lead_ret": 14.09,
+"second": "테크윙",
+"second_ret": 8.2
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 2.95,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 12.16,
+"second": "에스티팜",
+"second_ret": 3.85
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.78,
+"up5": 2,
+"lead": "KG모빌리티",
+"lead_ret": 6.77,
+"second": "현대위아",
+"second_ret": 6.08
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 2.69,
+"up5": 4,
+"lead": "에이팩트",
+"lead_ret": 7.61,
+"second": "에이디테크놀로지",
+"second_ret": 6.07
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 2.33,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 8.72,
+"second": "엘티씨",
+"second_ret": 3.1
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 2.02,
+"up5": 8,
+"lead": "피에스케이",
+"lead_ret": 10.95,
+"second": "아이텍",
+"second_ret": 9.79
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.02,
+"up5": 1,
+"lead": "체시스",
+"lead_ret": 19.59,
+"second": "롯데정밀화학",
+"second_ret": 1.68
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 27,
+"avg": 1.97,
+"up5": 4,
+"lead": "라온로보틱스",
+"lead_ret": 14.46,
+"second": "TPC로보틱스",
+"second_ret": 7.25
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 52,
+"avg": 1.94,
+"up5": 9,
+"lead": "에브리봇",
+"lead_ret": 14.75,
+"second": "라온로보틱스",
+"second_ret": 14.46
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.85,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.1,
+"second": "E1",
+"second_ret": -0.32
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.85,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 0.1,
+"second": "E1",
+"second_ret": -0.32
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.59,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": 0.27,
+"second": "딥커머스",
+"second_ret": 0.0
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.52,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.93,
+"second": "비엘팜텍",
+"second_ret": 0.7
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.49,
+"up5": 0,
+"lead": "인콘",
+"lead_ret": 1.01,
+"second": "코콤",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 19.31,
+"value": 3498,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "까뮤이앤씨",
+"code": "013700",
+"ret": 19.14,
+"value": 2033,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "메가엠디",
+"code": "133750",
+"ret": 11.35,
+"value": 1049,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "체시스",
+"code": "033250",
+"ret": 19.59,
+"value": 855,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 16.92,
+"value": 433,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

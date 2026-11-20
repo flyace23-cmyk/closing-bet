@@ -1,0 +1,238 @@
+{
+"date": "20221024",
+"kospi": 1.04,
+"kosdaq": 2.08,
+"adv": 1497,
+"dec": 460,
+"flat": 153,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 109668,
+"hot": [
+{
+"name": "시멘트/레미콘",
+"n": 3,
+"lead": "성신양회",
+"lead_ret": 25.65,
+"second": "강동씨앤엘",
+"second_ret": 9.86
+}
+],
+"themes": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 5.9,
+"up5": 5,
+"lead": "성신양회",
+"lead_ret": 25.65,
+"second": "강동씨앤엘",
+"second_ret": 9.86
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 3.17,
+"up5": 2,
+"lead": "웰크론한텍",
+"lead_ret": 6.74,
+"second": "태영건설",
+"second_ret": 6.44
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.13,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 14.04,
+"second": "NEW",
+"second_ret": 4.05
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 2.98,
+"up5": 2,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 6.21,
+"second": "네패스",
+"second_ret": 6.05
+},
+{
+"name": "시스템반도체",
+"n": 43,
+"avg": 2.95,
+"up5": 8,
+"lead": "오디텍",
+"lead_ret": 24.29,
+"second": "디아이",
+"second_ret": 6.88
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.94,
+"up5": 2,
+"lead": "이오테크닉스",
+"lead_ret": 5.69,
+"second": "주성엔지니어링",
+"second_ret": 5.19
+},
+{
+"name": "온디바이스 AI",
+"n": 20,
+"avg": 2.93,
+"up5": 4,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 6.21,
+"second": "네패스",
+"second_ret": 6.05
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 2.91,
+"up5": 1,
+"lead": "DL이앤씨",
+"lead_ret": 5.5,
+"second": "대우건설",
+"second_ret": 4.78
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 2.73,
+"up5": 3,
+"lead": "유신",
+"lead_ret": 15.38,
+"second": "현대에버다임",
+"second_ret": 10.41
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.72,
+"up5": 2,
+"lead": "화천기계",
+"lead_ret": 8.37,
+"second": "SNT다이내믹스",
+"second_ret": 5.18
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.7,
+"up5": 1,
+"lead": "GH신소재",
+"lead_ret": 6.02,
+"second": "신성이엔지",
+"second_ret": 4.02
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.67,
+"up5": 4,
+"lead": "유신",
+"lead_ret": 15.38,
+"second": "태영건설",
+"second_ret": 6.44
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.43,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "HL만도",
+"second_ret": -0.67
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.41,
+"up5": 0,
+"lead": "씨엑스아이",
+"lead_ret": 2.18,
+"second": "크리스탈신소재",
+"second_ret": 1.39
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.17,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": 1.76,
+"second": "한화손해보험",
+"second_ret": 0.0
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.12,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 1.72,
+"second": "카카오뱅크",
+"second_ret": 0.0
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -1.1,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 4.17,
+"second": "토비스",
+"second_ret": 1.21
+}
+],
+"leaders": [
+{
+"name": "HLB바이오스텝",
+"code": "278650",
+"ret": 29.95,
+"value": 2038,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "나인앤컴퍼니",
+"code": "366030",
+"ret": 17.18,
+"value": 1682,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "유신",
+"code": "054930",
+"ret": 15.38,
+"value": 1068,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "현대에버다임",
+"code": "041440",
+"ret": 10.41,
+"value": 636,
+"theme": "건설기계",
+"reason": "테마: 건설기계"
+},
+{
+"name": "오디텍",
+"code": "080520",
+"ret": 24.29,
+"value": 602,
+"theme": "LED",
+"reason": "테마: LED"
+}
+],
+"backfilled": true
+}

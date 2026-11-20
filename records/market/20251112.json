@@ -1,0 +1,254 @@
+{
+"date": "20251112",
+"kospi": 1.07,
+"kosdaq": 2.52,
+"adv": 1937,
+"dec": 378,
+"flat": 69,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 242753,
+"hot": [
+{
+"name": "면역항암제",
+"n": 6,
+"lead": "에이비엘바이오",
+"lead_ret": 29.95,
+"second": "루트K",
+"second_ret": 29.72
+},
+{
+"name": "치매",
+"n": 4,
+"lead": "에이비엘바이오",
+"lead_ret": 29.95,
+"second": "퓨쳐켐",
+"second_ret": 15.67
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 3,
+"lead": "핑거",
+"lead_ret": 19.59,
+"second": "갤럭시아머니트리",
+"second_ret": 17.04
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 7.52,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 17.04,
+"second": "유라클",
+"second_ret": 11.38
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": 7.02,
+"up5": 15,
+"lead": "에이비엘바이오",
+"lead_ret": 29.95,
+"second": "루트K",
+"second_ret": 29.72
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 5.71,
+"up5": 10,
+"lead": "핑거",
+"lead_ret": 19.59,
+"second": "갤럭시아머니트리",
+"second_ret": 17.04
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 5.68,
+"up5": 2,
+"lead": "세종텔레콤",
+"lead_ret": 30.0,
+"second": "핑거",
+"second_ret": 19.59
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 5.11,
+"up5": 2,
+"lead": "코오롱인더",
+"lead_ret": 13.99,
+"second": "효성티앤씨",
+"second_ret": 5.21
+},
+{
+"name": "유전자 치료제/분석",
+"n": 38,
+"avg": 4.98,
+"up5": 12,
+"lead": "신테카바이오",
+"lead_ret": 29.77,
+"second": "지니너스",
+"second_ret": 18.78
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.71,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 17.04,
+"second": "헥토파이낸셜",
+"second_ret": 6.89
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.67,
+"up5": 6,
+"lead": "핑거",
+"lead_ret": 19.59,
+"second": "갤럭시아머니트리",
+"second_ret": 17.04
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 4.64,
+"up5": 4,
+"lead": "대한유화",
+"lead_ret": 15.84,
+"second": "롯데케미칼",
+"second_ret": 14.91
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.47,
+"up5": 3,
+"lead": "코오롱인더",
+"lead_ret": 13.99,
+"second": "금호석유화학",
+"second_ret": 6.81
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 4.34,
+"up5": 7,
+"lead": "신테카바이오",
+"lead_ret": 29.77,
+"second": "노을",
+"second_ret": 18.37
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 4.26,
+"up5": 4,
+"lead": "올릭스",
+"lead_ret": 15.16,
+"second": "인벤티지랩",
+"second_ret": 13.26
+}
+],
+"themes_worst": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": -0.26,
+"up5": 0,
+"lead": "성호전자",
+"lead_ret": 2.16,
+"second": "라이콤",
+"second_ret": 2.12
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": -0.23,
+"up5": 0,
+"lead": "지투파워",
+"lead_ret": 1.85,
+"second": "대한전선",
+"second_ret": 1.79
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -0.19,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": 3.23,
+"second": "LS머트리얼즈",
+"second_ret": 2.91
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -0.17,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": 1.34,
+"second": "케이에스피",
+"second_ret": 0.97
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -0.02,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 2.7,
+"second": "데브시스터즈",
+"second_ret": 2.47
+}
+],
+"leaders": [
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 17.56,
+"value": 4528,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "올릭스",
+"code": "226950",
+"ret": 15.16,
+"value": 3745,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "재영솔루텍",
+"code": "049630",
+"ret": 23.15,
+"value": 2699,
+"theme": "카메라모듈/부품",
+"reason": "테마: 카메라모듈/부품"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 10.53,
+"value": 1738,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "롯데에너지머티리얼즈",
+"code": "020150",
+"ret": 14.37,
+"value": 1644,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+}
+],
+"backfilled": true
+}

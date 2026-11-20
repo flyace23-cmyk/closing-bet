@@ -1,0 +1,254 @@
+{
+"date": "20240528",
+"kospi": -0.01,
+"kosdaq": 0.36,
+"adv": 1061,
+"dec": 1055,
+"flat": 142,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 211226,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "3S",
+"lead_ret": 12.45,
+"second": "에프에스티",
+"second_ret": 12.36
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "칩스앤미디어",
+"lead_ret": 12.33,
+"second": "가온칩스",
+"second_ret": 10.96
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 3,
+"lead": "서전기전",
+"lead_ret": 29.92,
+"second": "한전산업",
+"second_ret": 12.78
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 9.35,
+"up5": 4,
+"lead": "헝셩그룹",
+"lead_ret": 29.73,
+"second": "오가닉티코스메틱",
+"second_ret": 29.63
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 3.27,
+"up5": 4,
+"lead": "LG전자",
+"lead_ret": 13.38,
+"second": "3S",
+"second_ret": 12.45
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 2.97,
+"up5": 1,
+"lead": "진영",
+"lead_ret": 26.14,
+"second": "삼양패키징",
+"second_ret": 1.07
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.95,
+"up5": 1,
+"lead": "일진전기",
+"lead_ret": 12.22,
+"second": "LS",
+"second_ret": 4.87
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 2.95,
+"up5": 5,
+"lead": "서전기전",
+"lead_ret": 29.92,
+"second": "한전산업",
+"second_ret": 12.78
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 2.93,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 29.73,
+"second": "오가닉티코스메틱",
+"second_ret": 29.63
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 2.9,
+"up5": 4,
+"lead": "서전기전",
+"lead_ret": 29.92,
+"second": "한전산업",
+"second_ret": 12.78
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 2.8,
+"up5": 2,
+"lead": "LG전자",
+"lead_ret": 13.38,
+"second": "루멘스바이오스",
+"second_ret": 5.86
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": 2.65,
+"up5": 4,
+"lead": "칩스앤미디어",
+"lead_ret": 12.33,
+"second": "가온칩스",
+"second_ret": 10.96
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 2.64,
+"up5": 4,
+"lead": "에너토크",
+"lead_ret": 21.18,
+"second": "코오롱글로벌",
+"second_ret": 13.86
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 2.47,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 29.73,
+"second": "모나리자",
+"second_ret": 7.41
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.46,
+"up5": 1,
+"lead": "서전기전",
+"lead_ret": 29.92,
+"second": "LS마린솔루션",
+"second_ret": 3.9
+}
+],
+"themes_worst": [
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.94,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 0.2,
+"second": "LG화학",
+"second_ret": -1.39
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 10,
+"avg": -1.8,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 0.58,
+"second": "코스모신소재",
+"second_ret": 0.46
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -1.76,
+"up5": 0,
+"lead": "사조산업",
+"lead_ret": 0.67,
+"second": "CJ씨푸드",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.71,
+"up5": 0,
+"lead": "더블유씨피",
+"lead_ret": 0.0,
+"second": "메가터치",
+"second_ret": 0.0
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.67,
+"up5": 0,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 0.79,
+"second": "금호타이어",
+"second_ret": 0.69
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 15.12,
+"value": 11361,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "LG전자",
+"code": "066570",
+"ret": 13.38,
+"value": 7490,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 12.78,
+"value": 2679,
+"theme": "스마트그리드(지능형전력망)",
+"reason": "테마: 스마트그리드(지능형전력망)"
+},
+{
+"name": "에프에스티",
+"code": "036810",
+"ret": 12.36,
+"value": 2416,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "삐아",
+"code": "451250",
+"ret": 29.94,
+"value": 2304,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

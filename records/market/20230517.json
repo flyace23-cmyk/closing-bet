@@ -1,0 +1,254 @@
+{
+"date": "20230517",
+"kospi": 0.58,
+"kosdaq": 2.14,
+"adv": 1570,
+"dec": 468,
+"flat": 115,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 150113,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "일지테크",
+"lead_ret": 20.06,
+"second": "아진산업",
+"second_ret": 15.91
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "인베니아",
+"lead_ret": 30.0,
+"second": "프로이천",
+"second_ret": 29.88
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "디알텍",
+"lead_ret": 29.94,
+"second": "제이엘케이",
+"second_ret": 24.4
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 7.02,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 29.74,
+"second": "SBI인베스트먼트",
+"second_ret": 2.26
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 6.65,
+"up5": 3,
+"lead": "그래디언트",
+"lead_ret": 29.74,
+"second": "롯데관광개발",
+"second_ret": 10.1
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 5.95,
+"up5": 6,
+"lead": "KT지니뮤직",
+"lead_ret": 26.4,
+"second": "YG PLUS",
+"second_ret": 9.33
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 4.2,
+"up5": 4,
+"lead": "대원화성",
+"lead_ret": 29.98,
+"second": "모베이스전자",
+"second_ret": 8.46
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": 4.11,
+"up5": 5,
+"lead": "루트K",
+"lead_ret": 29.94,
+"second": "HLB",
+"second_ret": 14.12
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 4.06,
+"up5": 7,
+"lead": "제이엘케이",
+"lead_ret": 24.4,
+"second": "토마토시스템",
+"second_ret": 10.1
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 4.01,
+"up5": 7,
+"lead": "KT지니뮤직",
+"lead_ret": 26.4,
+"second": "와이지엔터테인먼트",
+"second_ret": 7.41
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.94,
+"up5": 7,
+"lead": "제이엘케이",
+"lead_ret": 24.4,
+"second": "토마토시스템",
+"second_ret": 10.1
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 3.84,
+"up5": 3,
+"lead": "대원화성",
+"lead_ret": 29.98,
+"second": "제이에스링크",
+"second_ret": 7.02
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 3.72,
+"up5": 3,
+"lead": "일지테크",
+"lead_ret": 20.06,
+"second": "아진산업",
+"second_ret": 15.91
+},
+{
+"name": "영상콘텐츠",
+"n": 26,
+"avg": 3.72,
+"up5": 7,
+"lead": "대원미디어",
+"lead_ret": 10.44,
+"second": "포바이포",
+"second_ret": 6.41
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.52,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 10.44,
+"second": "SAMG엔터",
+"second_ret": 4.85
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 18,
+"avg": -1.98,
+"up5": 0,
+"lead": "오에스피",
+"lead_ret": 3.2,
+"second": "애드바이오텍",
+"second_ret": 1.88
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.48,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": 1.02,
+"second": "샘표식품",
+"second_ret": -1.38
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.05,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 2.45,
+"second": "헝셩그룹",
+"second_ret": 1.74
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -0.98,
+"up5": 0,
+"lead": "삼화콘덴서",
+"lead_ret": 0.47,
+"second": "SFA",
+"second_ret": 0.4
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -0.92,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.0,
+"second": "대우건설",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 14.12,
+"value": 3241,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 12.17,
+"value": 2979,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 18.94,
+"value": 2705,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "아진산업",
+"code": "013310",
+"ret": 15.91,
+"value": 2552,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "디알텍",
+"code": "214680",
+"ret": 29.94,
+"value": 1986,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

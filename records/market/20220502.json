@@ -1,0 +1,254 @@
+{
+"date": "20220502",
+"kospi": -0.28,
+"kosdaq": -0.32,
+"adv": 900,
+"dec": 963,
+"flat": 215,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 162274,
+"hot": [
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 5,
+"lead": "베셀",
+"lead_ret": 25.65,
+"second": "파이버프로",
+"second_ret": 13.84
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "샘표",
+"lead_ret": 11.97,
+"second": "이지홀딩스",
+"second_ret": 10.29
+},
+{
+"name": "여름",
+"n": 4,
+"lead": "동우팜투테이블",
+"lead_ret": 11.14,
+"second": "이지홀딩스",
+"second_ret": 10.29
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 7.35,
+"up5": 7,
+"lead": "대주산업",
+"lead_ret": 29.91,
+"second": "대한제당",
+"second_ret": 29.78
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 5.22,
+"up5": 4,
+"lead": "동우팜투테이블",
+"lead_ret": 11.14,
+"second": "이지홀딩스",
+"second_ret": 10.29
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.14,
+"up5": 2,
+"lead": "샘표",
+"lead_ret": 11.97,
+"second": "신송홀딩스",
+"second_ret": 7.49
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 3.87,
+"up5": 8,
+"lead": "베셀",
+"lead_ret": 25.65,
+"second": "파이버프로",
+"second_ret": 13.84
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 3.77,
+"up5": 9,
+"lead": "베셀",
+"lead_ret": 25.65,
+"second": "켄코아에어로스페이스",
+"second_ret": 9.82
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.57,
+"up5": 3,
+"lead": "동우팜투테이블",
+"lead_ret": 11.14,
+"second": "이지홀딩스",
+"second_ret": 10.29
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 3.34,
+"up5": 4,
+"lead": "동우팜투테이블",
+"lead_ret": 11.14,
+"second": "이지홀딩스",
+"second_ret": 10.29
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 2.91,
+"up5": 4,
+"lead": "아세아텍",
+"lead_ret": 20.63,
+"second": "대동금속",
+"second_ret": 5.62
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 2.81,
+"up5": 4,
+"lead": "하이즈항공",
+"lead_ret": 11.2,
+"second": "켄코아에어로스페이스",
+"second_ret": 9.82
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 2.81,
+"up5": 5,
+"lead": "동우팜투테이블",
+"lead_ret": 11.14,
+"second": "이지홀딩스",
+"second_ret": 10.29
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.54,
+"up5": 2,
+"lead": "모아텍",
+"lead_ret": 12.67,
+"second": "휴림로봇",
+"second_ret": 8.26
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.36,
+"up5": 2,
+"lead": "SNT에너지",
+"lead_ret": 19.93,
+"second": "SK가스",
+"second_ret": 6.72
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -1.86,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.0,
+"second": "한화투자증권",
+"second_ret": -1.04
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -1.67,
+"up5": 0,
+"lead": "디에스케이",
+"lead_ret": 0.7,
+"second": "대웅제약",
+"second_ret": 0.27
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -1.4,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 0.27,
+"second": "제테마",
+"second_ret": 0.0
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": -1.31,
+"up5": 0,
+"lead": "LG생활건강",
+"lead_ret": 0.22,
+"second": "랩지노믹스",
+"second_ret": 0.14
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.2,
+"up5": 0,
+"lead": "NHN",
+"lead_ret": 1.28,
+"second": "갤럭시아머니트리",
+"second_ret": 0.23
+}
+],
+"leaders": [
+{
+"name": "제이케이시냅스",
+"code": "060230",
+"ret": 23.46,
+"value": 16005,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "대한제당",
+"code": "001790",
+"ret": 29.78,
+"value": 2352,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+},
+{
+"name": "베셀",
+"code": "177350",
+"ret": 25.65,
+"value": 2242,
+"theme": "UAM(도심항공모빌리티)",
+"reason": "테마: UAM(도심항공모빌리티)"
+},
+{
+"name": "사조동아원",
+"code": "008040",
+"ret": 12.11,
+"value": 2186,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "파이버프로",
+"code": "368770",
+"ret": 13.84,
+"value": 1750,
+"theme": "UAM(도심항공모빌리티)",
+"reason": "테마: UAM(도심항공모빌리티)"
+}
+],
+"backfilled": true
+}

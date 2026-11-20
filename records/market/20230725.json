@@ -1,0 +1,254 @@
+{
+"date": "20230725",
+"kospi": 0.3,
+"kosdaq": 1.08,
+"adv": 432,
+"dec": 1672,
+"flat": 70,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 321791,
+"hot": [
+{
+"name": "전력설비",
+"n": 8,
+"lead": "LS",
+"lead_ret": 29.98,
+"second": "LS ELECTRIC",
+"second_ret": 25.14
+},
+{
+"name": "2차전지",
+"n": 6,
+"lead": "광무",
+"lead_ret": 19.59,
+"second": "조일알미늄",
+"second_ret": 15.68
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 5,
+"lead": "고려아연",
+"lead_ret": 14.59,
+"second": "포스코인터내셔널",
+"second_ret": 12.73
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 12.26,
+"up5": 6,
+"lead": "LS",
+"lead_ret": 29.98,
+"second": "LS에코에너지",
+"second_ret": 21.36
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 4.99,
+"up5": 12,
+"lead": "LS",
+"lead_ret": 29.98,
+"second": "LS ELECTRIC",
+"second_ret": 25.14
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.8,
+"up5": 2,
+"lead": "LS",
+"lead_ret": 29.98,
+"second": "LS마린솔루션",
+"second_ret": 14.15
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 3.12,
+"up5": 4,
+"lead": "HD건설기계",
+"lead_ret": 10.44,
+"second": "두산밥캣",
+"second_ret": 9.33
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.69,
+"up5": 2,
+"lead": "태광",
+"lead_ret": 5.64,
+"second": "디케이락",
+"second_ret": 5.14
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 2.48,
+"up5": 6,
+"lead": "조일알미늄",
+"lead_ret": 15.68,
+"second": "고려아연",
+"second_ret": 14.59
+},
+{
+"name": "풍력에너지",
+"n": 34,
+"avg": 2.37,
+"up5": 6,
+"lead": "LS",
+"lead_ret": 29.98,
+"second": "LS에코에너지",
+"second_ret": 21.36
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.27,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 14.22,
+"second": "에코프로",
+"second_ret": 11.37
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.2,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 12.73,
+"second": "SK네트웍스",
+"second_ret": 4.4
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 1.79,
+"up5": 3,
+"lead": "LS에코에너지",
+"lead_ret": 21.36,
+"second": "EG",
+"second_ret": 15.71
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.58,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 29.98,
+"second": "아모센스",
+"second_ret": 3.09
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 1.36,
+"up5": 5,
+"lead": "광무",
+"lead_ret": 19.59,
+"second": "미래산업",
+"second_ret": 12.58
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -5.12,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": -1.78,
+"second": "한진칼",
+"second_ret": -2.41
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -5.07,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": -0.51,
+"second": "글로벌에스엠",
+"second_ret": -1.33
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": -4.53,
+"up5": 0,
+"lead": "폴라리스AI",
+"lead_ret": -0.12,
+"second": "NAVER",
+"second_ret": -0.99
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 50,
+"avg": -4.34,
+"up5": 0,
+"lead": "한화에어로스페이스",
+"lead_ret": 3.02,
+"second": "트윔",
+"second_ret": 0.52
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -4.27,
+"up5": 0,
+"lead": "초록뱀미디어",
+"lead_ret": 0.0,
+"second": "삼성전자",
+"second_ret": -0.57
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 11.37,
+"value": 26823,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 14.22,
+"value": 25146,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 10.33,
+"value": 16529,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 12.73,
+"value": 11577,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 25.14,
+"value": 4426,
+"theme": "전력설비",
+"reason": "테마: 전력설비"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210820",
+"kospi": -1.2,
+"kosdaq": -2.35,
+"adv": 194,
+"dec": 1740,
+"flat": 92,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 269085,
+"hot": [
+{
+"name": "치매",
+"n": 6,
+"lead": "이수앱지스",
+"lead_ret": 22.95,
+"second": "라파스",
+"second_ret": 14.03
+},
+{
+"name": "전기차",
+"n": 4,
+"lead": "신흥에스이씨",
+"lead_ret": 7.3,
+"second": "삼기",
+"second_ret": 5.74
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "동원시스템즈",
+"lead_ret": 8.85,
+"second": "신흥에스이씨",
+"second_ret": 7.3
+}
+],
+"themes": [
+{
+"name": "소매유통",
+"n": 15,
+"avg": -0.44,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 6.14,
+"second": "대구백화점",
+"second_ret": 4.23
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.44,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 4.23,
+"second": "롯데쇼핑",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -0.56,
+"up5": 0,
+"lead": "에코프로",
+"lead_ret": 4.67,
+"second": "애경케미칼",
+"second_ret": 2.16
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -0.65,
+"up5": 1,
+"lead": "대신정보통신",
+"lead_ret": 10.37,
+"second": "한국전자인증",
+"second_ret": 1.3
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": -0.68,
+"up5": 0,
+"lead": "신흥",
+"lead_ret": 3.45,
+"second": "오스코텍",
+"second_ret": 2.6
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -0.95,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 9.5,
+"second": "샘표식품",
+"second_ret": -1.69
+},
+{
+"name": "치매",
+"n": 45,
+"avg": -0.98,
+"up5": 5,
+"lead": "이수앱지스",
+"lead_ret": 22.95,
+"second": "라파스",
+"second_ret": 14.03
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": -1.05,
+"up5": 1,
+"lead": "한국비엔씨",
+"lead_ret": 6.68,
+"second": "한국비티비",
+"second_ret": 2.72
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.07,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": 1.4,
+"second": "심텍",
+"second_ret": 1.31
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -1.1,
+"up5": 2,
+"lead": "서린바이오",
+"lead_ret": 12.17,
+"second": "아이진",
+"second_ret": 9.28
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.1,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 2.15,
+"second": "포커스에이아이",
+"second_ret": 0.34
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -1.13,
+"up5": 0,
+"lead": "한전기술",
+"lead_ret": 1.83,
+"second": "대창솔루션",
+"second_ret": 1.52
+}
+],
+"themes_worst": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -5.96,
+"up5": 0,
+"lead": "광무",
+"lead_ret": -2.84,
+"second": "오픈베이스",
+"second_ret": -3.41
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -5.74,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": -1.14,
+"second": "신성이엔지",
+"second_ret": -3.81
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -5.32,
+"up5": 0,
+"lead": "디지캡",
+"lead_ret": -2.28,
+"second": "알체라",
+"second_ret": -4.07
+},
+{
+"name": "의료AI",
+"n": 15,
+"avg": -5.19,
+"up5": 0,
+"lead": "이지케어텍",
+"lead_ret": 2.14,
+"second": "셀바스AI",
+"second_ret": -3.03
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -5.19,
+"up5": 0,
+"lead": "효성ITX",
+"lead_ret": -1.66,
+"second": "NHN",
+"second_ret": -2.9
+}
+],
+"leaders": [
+{
+"name": "서린바이오",
+"code": "038070",
+"ret": 12.17,
+"value": 10002,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "F&F홀딩스",
+"code": "007700",
+"ret": 29.87,
+"value": 1713,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "HLB제약",
+"code": "047920",
+"ret": 11.45,
+"value": 1424,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 15.56,
+"value": 1307,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "대신정보통신",
+"code": "020180",
+"ret": 10.37,
+"value": 912,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

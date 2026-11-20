@@ -1,0 +1,254 @@
+{
+"date": "20240307",
+"kospi": 0.23,
+"kosdaq": -0.84,
+"adv": 641,
+"dec": 1501,
+"flat": 101,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 210281,
+"hot": [
+{
+"name": "2차전지",
+"n": 10,
+"lead": "필에너지",
+"lead_ret": 29.98,
+"second": "동원시스템즈",
+"second_ret": 17.85
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "동아엘텍",
+"lead_ret": 27.23,
+"second": "미래컴퍼니",
+"second_ret": 16.55
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "미래컴퍼니",
+"lead_ret": 16.55,
+"second": "티앤알바이오팹",
+"second_ret": 16.09
+}
+],
+"themes": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.18,
+"up5": 2,
+"lead": "윙입푸드",
+"lead_ret": 29.99,
+"second": "로스웰",
+"second_ret": 8.29
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 3.49,
+"up5": 7,
+"lead": "한농화성",
+"lead_ret": 17.38,
+"second": "미래컴퍼니",
+"second_ret": 16.55
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.9,
+"up5": 2,
+"lead": "삼성SDI",
+"lead_ret": 13.03,
+"second": "더블유씨피",
+"second_ret": 6.68
+},
+{
+"name": "2차전지(장비)",
+"n": 41,
+"avg": 2.86,
+"up5": 8,
+"lead": "필에너지",
+"lead_ret": 29.98,
+"second": "소프트센",
+"second_ret": 13.82
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 2.57,
+"up5": 1,
+"lead": "사피엔반도체",
+"lead_ret": 30.0,
+"second": "서울반도체",
+"second_ret": 1.83
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.3,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 13.03,
+"second": "SK하이닉스",
+"second_ret": 1.23
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.13,
+"up5": 1,
+"lead": "소프트센",
+"lead_ret": 13.82,
+"second": "LG에너지솔루션",
+"second_ret": 3.23
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.73,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 16.09,
+"second": "JW중외제약",
+"second_ret": 2.17
+},
+{
+"name": "2차전지",
+"n": 130,
+"avg": 1.64,
+"up5": 21,
+"lead": "필에너지",
+"lead_ret": 29.98,
+"second": "동원시스템즈",
+"second_ret": 17.85
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 26,
+"avg": 1.58,
+"up5": 3,
+"lead": "케이엔에스",
+"lead_ret": 12.99,
+"second": "나노팀",
+"second_ret": 12.49
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.39,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 3.8,
+"second": "JB금융지주",
+"second_ret": 3.09
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.21,
+"up5": 1,
+"lead": "파라다이스",
+"lead_ret": 5.04,
+"second": "코텍",
+"second_ret": 1.54
+}
+],
+"themes_worst": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": -3.35,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 0.11,
+"second": "나이스정보통신",
+"second_ret": 0.0
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.06,
+"up5": 0,
+"lead": "카카오페이",
+"lead_ret": 0.37,
+"second": "인포바인",
+"second_ret": -0.23
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -2.81,
+"up5": 0,
+"lead": "아센디오",
+"lead_ret": 0.48,
+"second": "아모텍",
+"second_ret": -0.75
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.62,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.1,
+"second": "LS마린솔루션",
+"second_ret": -0.76
+},
+{
+"name": "미용기기",
+"n": 15,
+"avg": -2.46,
+"up5": 0,
+"lead": "클래시스",
+"lead_ret": 2.66,
+"second": "한국비티비",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 13.03,
+"value": 7300,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 17.38,
+"value": 3927,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 16.07,
+"value": 3099,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "필에너지",
+"code": "378340",
+"ret": 29.98,
+"value": 2943,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "폴라리스AI",
+"code": "039980",
+"ret": 14.82,
+"value": 2026,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

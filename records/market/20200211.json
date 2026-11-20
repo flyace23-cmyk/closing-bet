@@ -1,0 +1,254 @@
+{
+"date": "20200211",
+"kospi": 1.0,
+"kosdaq": 0.93,
+"adv": 1114,
+"dec": 613,
+"flat": 176,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 104025,
+"hot": [
+{
+"name": "전기차",
+"n": 8,
+"lead": "로스웰",
+"lead_ret": 29.84,
+"second": "스모트로닉",
+"second_ret": 22.75
+},
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "모트렉스",
+"lead_ret": 23.28,
+"second": "스모트로닉",
+"second_ret": 22.75
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "코윈로보틱스",
+"lead_ret": 13.31,
+"second": "에코프로비엠",
+"second_ret": 12.31
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 5.4,
+"up5": 4,
+"lead": "에코프로비엠",
+"lead_ret": 12.31,
+"second": "에코프로",
+"second_ret": 7.76
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 4.29,
+"up5": 2,
+"lead": "졸스",
+"lead_ret": 29.85,
+"second": "쎄니트",
+"second_ret": 5.88
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 4.2,
+"up5": 1,
+"lead": "로스웰",
+"lead_ret": 29.84,
+"second": "크리스탈신소재",
+"second_ret": 3.63
+},
+{
+"name": "전기차",
+"n": 77,
+"avg": 3.46,
+"up5": 21,
+"lead": "로스웰",
+"lead_ret": 29.84,
+"second": "스모트로닉",
+"second_ret": 22.75
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 10,
+"avg": 3.24,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 10.85,
+"second": "RF머트리얼즈",
+"second_ret": 9.6
+},
+{
+"name": "초전도체",
+"n": 14,
+"avg": 3.01,
+"up5": 4,
+"lead": "덕성",
+"lead_ret": 12.72,
+"second": "원익피앤이",
+"second_ret": 9.45
+},
+{
+"name": "2차전지(전고체)",
+"n": 21,
+"avg": 3.01,
+"up5": 5,
+"lead": "코윈로보틱스",
+"lead_ret": 13.31,
+"second": "SFA넥셀",
+"second_ret": 6.94
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 2.9,
+"up5": 1,
+"lead": "모트렉스",
+"lead_ret": 23.28,
+"second": "현대모비스",
+"second_ret": 3.94
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 2.89,
+"up5": 6,
+"lead": "이노인스트루먼트",
+"lead_ret": 29.98,
+"second": "에치에프알",
+"second_ret": 11.56
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 2.82,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 7.25,
+"second": "롯데정밀화학",
+"second_ret": 5.15
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 18,
+"avg": 2.8,
+"up5": 2,
+"lead": "모트렉스",
+"lead_ret": 23.28,
+"second": "원익피앤이",
+"second_ret": 9.45
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 2.75,
+"up5": 2,
+"lead": "나이스정보통신",
+"lead_ret": 5.5,
+"second": "한국정보통신",
+"second_ret": 5.35
+}
+],
+"themes_worst": [
+{
+"name": "줄기세포",
+"n": 14,
+"avg": -2.36,
+"up5": 0,
+"lead": "테고사이언스",
+"lead_ret": 2.34,
+"second": "안트로젠",
+"second_ret": 1.05
+},
+{
+"name": "탈모 치료",
+"n": 18,
+"avg": -2.01,
+"up5": 0,
+"lead": "메타랩스",
+"lead_ret": 2.13,
+"second": "올릭스",
+"second_ret": 1.09
+},
+{
+"name": "육계",
+"n": 8,
+"avg": -1.77,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 0.3,
+"second": "동우팜투테이블",
+"second_ret": -0.43
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": -1.73,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 0.78,
+"second": "경동제약",
+"second_ret": 0.25
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": -1.6,
+"up5": 0,
+"lead": "메디아나",
+"lead_ret": 1.76,
+"second": "셀바스AI",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "스모트로닉",
+"code": "066590",
+"ret": 22.75,
+"value": 2239,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "OCI홀딩스",
+"code": "010060",
+"ret": 11.89,
+"value": 881,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 12.72,
+"value": 819,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "한창제지",
+"code": "009460",
+"ret": 14.06,
+"value": 807,
+"theme": "제지",
+"reason": "테마: 제지"
+},
+{
+"name": "컴퍼니케이",
+"code": "307930",
+"ret": 10.82,
+"value": 719,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+}
+],
+"backfilled": true
+}

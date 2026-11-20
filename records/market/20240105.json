@@ -1,0 +1,254 @@
+{
+"date": "20240105",
+"kospi": -0.35,
+"kosdaq": 1.39,
+"adv": 989,
+"dec": 1070,
+"flat": 169,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 178741,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 10,
+"lead": "비아이매트릭스",
+"lead_ret": 24.76,
+"second": "티로보틱스",
+"second_ret": 21.87
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "이스트소프트",
+"second_ret": 29.95
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "필에너지",
+"lead_ret": 20.06,
+"second": "한빛레이저",
+"second_ret": 16.75
+}
+],
+"themes": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 27,
+"avg": 6.91,
+"up5": 14,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "이스트소프트",
+"second_ret": 29.95
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 11,
+"avg": 5.71,
+"up5": 5,
+"lead": "이스트소프트",
+"lead_ret": 29.95,
+"second": "크라우드웍스",
+"second_ret": 10.04
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 52,
+"avg": 4.4,
+"up5": 14,
+"lead": "비아이매트릭스",
+"lead_ret": 24.76,
+"second": "티로보틱스",
+"second_ret": 21.87
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 3.13,
+"up5": 5,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "카페24",
+"second_ret": 8.19
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": 2.85,
+"up5": 6,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "KT밀리의서재",
+"second_ret": 21.83
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.77,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 12.9,
+"second": "더블유씨피",
+"second_ret": 5.95
+},
+{
+"name": "창투사",
+"n": 18,
+"avg": 2.71,
+"up5": 3,
+"lead": "캡스톤파트너스",
+"lead_ret": 24.06,
+"second": "SV인베스트먼트",
+"second_ret": 7.64
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 2.66,
+"up5": 4,
+"lead": "네오셈",
+"lead_ret": 15.09,
+"second": "오킨스전자",
+"second_ret": 7.53
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 2.64,
+"up5": 4,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "셀바스AI",
+"second_ret": 7.25
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.62,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 30.0,
+"second": "포시에스",
+"second_ret": 5.53
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.42,
+"up5": 2,
+"lead": "프리엠스",
+"lead_ret": 11.88,
+"second": "NICE인프라",
+"second_ret": 7.34
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.18,
+"up5": 2,
+"lead": "한진칼",
+"lead_ret": 6.97,
+"second": "제주항공",
+"second_ret": 5.52
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -4.43,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.24,
+"second": "팬오션",
+"second_ret": -0.82
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.4,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 0.76,
+"second": "SK이노베이션",
+"second_ret": -0.15
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -3.4,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 0.76,
+"second": "SK이노베이션",
+"second_ret": -0.15
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -2.58,
+"up5": 0,
+"lead": "인천도시가스",
+"lead_ret": 0.2,
+"second": "INVENI",
+"second_ret": 0.15
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -2.58,
+"up5": 0,
+"lead": "태경산업",
+"lead_ret": 0.63,
+"second": "리드코프",
+"second_ret": 0.17
+}
+],
+"leaders": [
+{
+"name": "에코프로비엠",
+"code": "247540",
+"ret": 12.9,
+"value": 9838,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한빛레이저",
+"code": "452190",
+"ret": 16.75,
+"value": 4227,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "캡스톤파트너스",
+"code": "452300",
+"ret": 24.06,
+"value": 2579,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 10.94,
+"value": 1833,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "필에너지",
+"code": "378340",
+"ret": 20.06,
+"value": 1826,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

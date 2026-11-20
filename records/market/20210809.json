@@ -1,0 +1,254 @@
+{
+"date": "20210809",
+"kospi": -0.3,
+"kosdaq": 0.02,
+"adv": 573,
+"dec": 1274,
+"flat": 171,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 268343,
+"hot": [
+{
+"name": "2차전지",
+"n": 8,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "신성델타테크",
+"second_ret": 23.08
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "HB테크놀러지",
+"lead_ret": 10.14,
+"second": "에프엔에스테크",
+"second_ret": 9.93
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "네오위즈",
+"lead_ret": 26.79,
+"second": "데브시스터즈",
+"second_ret": 11.93
+}
+],
+"themes": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 6.08,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "에코프로비엠",
+"second_ret": 7.07
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 15,
+"avg": 4.8,
+"up5": 4,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "에코프로에이치엔",
+"second_ret": 26.16
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 3.35,
+"up5": 4,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "코스모화학",
+"second_ret": 13.71
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 3.24,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "코스모화학",
+"second_ret": 13.71
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.94,
+"up5": 2,
+"lead": "네오위즈",
+"lead_ret": 26.79,
+"second": "에이티넘인베스트",
+"second_ret": 5.34
+},
+{
+"name": "유리 기판",
+"n": 15,
+"avg": 2.7,
+"up5": 2,
+"lead": "HB테크놀러지",
+"lead_ret": 10.14,
+"second": "에프엔에스테크",
+"second_ret": 9.93
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 2.67,
+"up5": 11,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "신성델타테크",
+"second_ret": 23.08
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 17,
+"avg": 2.41,
+"up5": 5,
+"lead": "켐트로스",
+"lead_ret": 11.81,
+"second": "APS이노베이션",
+"second_ret": 9.06
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 2.25,
+"up5": 1,
+"lead": "코스모신소재",
+"lead_ret": 16.57,
+"second": "대주전자재료",
+"second_ret": 2.93
+},
+{
+"name": "2차전지",
+"n": 104,
+"avg": 2.14,
+"up5": 15,
+"lead": "에코프로",
+"lead_ret": 29.95,
+"second": "신성델타테크",
+"second_ret": 23.08
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.87,
+"up5": 1,
+"lead": "카카오뱅크",
+"lead_ret": 12.46,
+"second": "하나금융지주",
+"second_ret": 2.43
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 1.76,
+"up5": 3,
+"lead": "APS이노베이션",
+"lead_ret": 9.06,
+"second": "PI첨단소재",
+"second_ret": 7.12
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -3.47,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": -1.84,
+"second": "메디포스트",
+"second_ret": -1.98
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.17,
+"up5": 0,
+"lead": "이연제약",
+"lead_ret": 2.53,
+"second": "파미셀",
+"second_ret": -1.39
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": -3.02,
+"up5": 0,
+"lead": "HD현대일렉트릭",
+"lead_ret": 4.79,
+"second": "서남",
+"second_ret": 1.68
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -2.89,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 2.55,
+"second": "삼성전자",
+"second_ret": 0.0
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.85,
+"up5": 0,
+"lead": "가온전선",
+"lead_ret": -0.31,
+"second": "LS",
+"second_ret": -1.68
+}
+],
+"leaders": [
+{
+"name": "카카오뱅크",
+"code": "323410",
+"ret": 12.46,
+"value": 35194,
+"theme": "인터넷은행",
+"reason": "테마: 인터넷은행"
+},
+{
+"name": "큐라클",
+"code": "365270",
+"ret": 20.98,
+"value": 4552,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "카페24",
+"code": "042000",
+"ret": 10.94,
+"value": 4155,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 29.95,
+"value": 3864,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 16.57,
+"value": 3772,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

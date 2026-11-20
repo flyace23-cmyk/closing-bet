@@ -1,0 +1,254 @@
+{
+"date": "20241010",
+"kospi": 0.19,
+"kosdaq": -0.35,
+"adv": 868,
+"dec": 1261,
+"flat": 157,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 188939,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "나노엔텍",
+"lead_ret": 20.74,
+"second": "펩트론",
+"second_ret": 20.0
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "티플랙스",
+"lead_ret": 17.78,
+"second": "한빛레이저",
+"second_ret": 10.6
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "펩트론",
+"lead_ret": 20.0,
+"second": "라파스",
+"second_ret": 10.6
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 7.19,
+"up5": 3,
+"lead": "티웨이홀딩스",
+"lead_ret": 29.98,
+"second": "트리니티항공",
+"second_ret": 17.81
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 4.86,
+"up5": 8,
+"lead": "티플랙스",
+"lead_ret": 17.78,
+"second": "우성머티리얼스",
+"second_ret": 11.21
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.23,
+"up5": 3,
+"lead": "스퀘어텍",
+"lead_ret": 29.82,
+"second": "유니온머티리얼",
+"second_ret": 8.37
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 3.23,
+"up5": 3,
+"lead": "스퀘어텍",
+"lead_ret": 29.82,
+"second": "유니온머티리얼",
+"second_ret": 8.37
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.97,
+"up5": 1,
+"lead": "소노스퀘어",
+"lead_ret": 30.01,
+"second": "모나용평",
+"second_ret": 3.98
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.33,
+"up5": 1,
+"lead": "HD현대중공업",
+"lead_ret": 5.12,
+"second": "삼성중공업",
+"second_ret": 3.25
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.31,
+"up5": 2,
+"lead": "포니링크",
+"lead_ret": 15.26,
+"second": "유엔젤",
+"second_ret": 8.6
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.2,
+"up5": 8,
+"lead": "펩트론",
+"lead_ret": 20.0,
+"second": "라파스",
+"second_ret": 10.6
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.11,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 11.21,
+"second": "휴비스",
+"second_ret": 1.53
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 1.95,
+"up5": 7,
+"lead": "펩트론",
+"lead_ret": 20.0,
+"second": "라파스",
+"second_ret": 10.6
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.94,
+"up5": 2,
+"lead": "유니온머티리얼",
+"lead_ret": 8.37,
+"second": "유니온",
+"second_ret": 5.19
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 1.71,
+"up5": 3,
+"lead": "펩트론",
+"lead_ret": 20.0,
+"second": "리가켐바이오",
+"second_ret": 9.5
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.39,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 0.13,
+"second": "삼성SDI",
+"second_ret": -0.4
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.83,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 3.89,
+"second": "SK가스",
+"second_ret": 1.61
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.83,
+"up5": 0,
+"lead": "SK이노베이션",
+"lead_ret": 3.89,
+"second": "SK가스",
+"second_ret": 1.61
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -1.81,
+"up5": 0,
+"lead": "에이직랜드",
+"lead_ret": 0.74,
+"second": "앤씨앤",
+"second_ret": -0.33
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.72,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.57,
+"second": "소마젠",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "트리니티항공",
+"code": "091810",
+"ret": 17.81,
+"value": 6058,
+"theme": "항공/저가 항공사(LCC)",
+"reason": "테마: 항공/저가 항공사(LCC)"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 20.0,
+"value": 3880,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "한올바이오파마",
+"code": "009420",
+"ret": 10.05,
+"value": 1810,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "중앙첨단소재",
+"code": "051980",
+"ret": 18.91,
+"value": 1659,
+"theme": "리튬",
+"reason": "테마: 리튬"
+},
+{
+"name": "보락",
+"code": "002760",
+"ret": 22.95,
+"value": 1381,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

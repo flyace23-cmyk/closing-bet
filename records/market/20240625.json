@@ -1,0 +1,254 @@
+{
+"date": "20240625",
+"kospi": 0.35,
+"kosdaq": 0.06,
+"adv": 1142,
+"dec": 978,
+"flat": 141,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 178602,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "한중엔시에스",
+"lead_ret": 30.0,
+"second": "삼성공조",
+"second_ret": 15.56
+},
+{
+"name": "면역항암제",
+"n": 4,
+"lead": "압타바이오",
+"lead_ret": 14.31,
+"second": "와이바이오로직스",
+"second_ret": 11.86
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "에코글로우",
+"lead_ret": 14.01,
+"second": "피엔케이피부임상연구센타",
+"second_ret": 10.07
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 6,
+"avg": 7.35,
+"up5": 3,
+"lead": "STX그린로지스",
+"lead_ret": 23.84,
+"second": "대한해운",
+"second_ret": 8.15
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 4.44,
+"up5": 2,
+"lead": "한중엔시에스",
+"lead_ret": 30.0,
+"second": "워트",
+"second_ret": 24.42
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 12,
+"avg": 4.25,
+"up5": 2,
+"lead": "스피어",
+"lead_ret": 29.99,
+"second": "나노팀",
+"second_ret": 15.74
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.18,
+"up5": 1,
+"lead": "세명전기",
+"lead_ret": 27.57,
+"second": "LS",
+"second_ret": 0.49
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.96,
+"up5": 2,
+"lead": "KCC",
+"lead_ret": 10.83,
+"second": "벽산",
+"second_ret": 8.0
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 2.77,
+"up5": 1,
+"lead": "STX그린로지스",
+"lead_ret": 23.84,
+"second": "로젠",
+"second_ret": 4.1
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.41,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 8.23,
+"second": "유비벨록스",
+"second_ret": 2.35
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 2.27,
+"up5": 5,
+"lead": "한중엔시에스",
+"lead_ret": 30.0,
+"second": "나노팀",
+"second_ret": 15.74
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.09,
+"up5": 1,
+"lead": "현대모비스",
+"lead_ret": 5.25,
+"second": "HL만도",
+"second_ret": 3.47
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 1.96,
+"up5": 6,
+"lead": "압타바이오",
+"lead_ret": 14.31,
+"second": "와이바이오로직스",
+"second_ret": 11.86
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 1.95,
+"up5": 2,
+"lead": "세명전기",
+"lead_ret": 27.57,
+"second": "HL D&I",
+"second_ret": 8.64
+},
+{
+"name": "자동차부품",
+"n": 140,
+"avg": 1.59,
+"up5": 15,
+"lead": "한중엔시에스",
+"lead_ret": 30.0,
+"second": "삼성공조",
+"second_ret": 15.56
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -3.88,
+"up5": 0,
+"lead": "SAMG엔터",
+"lead_ret": 3.15,
+"second": "데브시스터즈",
+"second_ret": 2.44
+},
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -1.53,
+"up5": 0,
+"lead": "HLB생명과학",
+"lead_ret": 4.16,
+"second": "메디포스트",
+"second_ret": 2.01
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -1.49,
+"up5": 0,
+"lead": "대주전자재료",
+"lead_ret": 1.54,
+"second": "한국전력",
+"second_ret": 0.0
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.43,
+"up5": 0,
+"lead": "대성홀딩스",
+"lead_ret": 0.0,
+"second": "인천도시가스",
+"second_ret": -0.2
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -1.42,
+"up5": 0,
+"lead": "엔키AX",
+"lead_ret": 3.32,
+"second": "디앤씨미디어",
+"second_ret": 0.82
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 10.3,
+"value": 4480,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "워트",
+"code": "396470",
+"ret": 24.42,
+"value": 2812,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "삼성공조",
+"code": "006660",
+"ret": 15.56,
+"value": 2794,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한중엔시에스",
+"code": "107640",
+"ret": 30.0,
+"value": 2510,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "세명전기",
+"code": "017510",
+"ret": 27.57,
+"value": 2187,
+"theme": "해저터널(지하화/지하도로 등)",
+"reason": "테마: 해저터널(지하화/지하도로 등)"
+}
+],
+"backfilled": true
+}

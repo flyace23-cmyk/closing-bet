@@ -1,0 +1,246 @@
+{
+"date": "20210609",
+"kospi": -0.97,
+"kosdaq": -0.74,
+"adv": 630,
+"dec": 1228,
+"flat": 153,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 259299,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "KBI메탈",
+"lead_ret": 20.62,
+"second": "인팩",
+"second_ret": 11.6
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "티플랙스",
+"lead_ret": 12.67,
+"second": "인팩",
+"second_ret": 11.6
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 5.99,
+"up5": 4,
+"lead": "트리니티항공",
+"lead_ret": 19.24,
+"second": "티웨이홀딩스",
+"second_ret": 12.83
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 4.1,
+"up5": 2,
+"lead": "KBI메탈",
+"lead_ret": 20.62,
+"second": "대원전선",
+"second_ret": 18.42
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.37,
+"up5": 2,
+"lead": "하림",
+"lead_ret": 22.34,
+"second": "SBS",
+"second_ret": 6.67
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 3.27,
+"up5": 1,
+"lead": "하림",
+"lead_ret": 22.34,
+"second": "동우팜투테이블",
+"second_ret": 2.65
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 2.12,
+"up5": 2,
+"lead": "제이에스링크",
+"lead_ret": 14.29,
+"second": "티플랙스",
+"second_ret": 12.67
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 1.84,
+"up5": 1,
+"lead": "세중",
+"lead_ret": 11.11,
+"second": "하나투어",
+"second_ret": 3.68
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.81,
+"up5": 1,
+"lead": "아스트",
+"lead_ret": 8.36,
+"second": "하이즈항공",
+"second_ret": 4.59
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.75,
+"up5": 2,
+"lead": "글로벌텍스프리",
+"lead_ret": 10.98,
+"second": "JTC",
+"second_ret": 8.81
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 19,
+"avg": 1.7,
+"up5": 3,
+"lead": "디와이덕양",
+"lead_ret": 11.26,
+"second": "태성",
+"second_ret": 8.46
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.32,
+"up5": 0,
+"lead": "S-Oil",
+"lead_ret": 2.48,
+"second": "극동유화",
+"second_ret": 1.88
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 1.28,
+"up5": 2,
+"lead": "휴젤",
+"lead_ret": 10.3,
+"second": "클래시스",
+"second_ret": 5.59
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.13,
+"up5": 1,
+"lead": "디와이덕양",
+"lead_ret": 11.26,
+"second": "다산솔루에타",
+"second_ret": 2.69
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.89,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": -1.16,
+"second": "녹십자",
+"second_ret": -1.52
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.62,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": 0.0,
+"second": "한성기업",
+"second_ret": -0.11
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.54,
+"up5": 0,
+"lead": "그래디언트",
+"lead_ret": 0.49,
+"second": "한화생명",
+"second_ret": -1.31
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.51,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": 1.55,
+"second": "하나금융지주",
+"second_ret": -1.81
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": -2.22,
+"up5": 0,
+"lead": "누리플렉스",
+"lead_ret": 0.47,
+"second": "NICE인프라",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "셀리드",
+"code": "299660",
+"ret": 15.2,
+"value": 7496,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "하림",
+"code": "136480",
+"ret": 22.34,
+"value": 4236,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 18.42,
+"value": 3213,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "티플랙스",
+"code": "081150",
+"ret": 12.67,
+"value": 3014,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "진흥기업",
+"code": "002780",
+"ret": 11.72,
+"value": 2454,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+}
+],
+"backfilled": true
+}

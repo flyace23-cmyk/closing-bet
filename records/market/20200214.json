@@ -1,0 +1,254 @@
+{
+"date": "20200214",
+"kospi": 0.48,
+"kosdaq": 0.19,
+"adv": 828,
+"dec": 891,
+"flat": 184,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 147284,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "영화테크",
+"lead_ret": 29.61,
+"second": "필옵틱스",
+"second_ret": 8.5
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "기산텔레콤",
+"lead_ret": 29.91,
+"second": "이노인스트루먼트",
+"second_ret": 8.46
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "ISC",
+"lead_ret": 9.29,
+"second": "덕산테코피아",
+"second_ret": 7.07
+}
+],
+"themes": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 4.23,
+"up5": 2,
+"lead": "모트렉스",
+"lead_ret": 28.6,
+"second": "엠씨넥스",
+"second_ret": 13.13
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.6,
+"up5": 2,
+"lead": "큐에스아이",
+"lead_ret": 10.71,
+"second": "서울반도체",
+"second_ret": 7.43
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 2.69,
+"up5": 1,
+"lead": "CJ씨푸드",
+"lead_ret": 12.52,
+"second": "사조대림",
+"second_ret": 1.95
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.38,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 7.84,
+"second": "유비벨록스",
+"second_ret": 2.17
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 2.31,
+"up5": 8,
+"lead": "기산텔레콤",
+"lead_ret": 29.91,
+"second": "이노인스트루먼트",
+"second_ret": 8.46
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 2.28,
+"up5": 1,
+"lead": "영화테크",
+"lead_ret": 29.61,
+"second": "코스모화학",
+"second_ret": 3.5
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": 2.23,
+"up5": 2,
+"lead": "엠씨넥스",
+"lead_ret": 13.13,
+"second": "슈프리마",
+"second_ret": 6.28
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 2.22,
+"up5": 10,
+"lead": "기산텔레콤",
+"lead_ret": 29.91,
+"second": "이노인스트루먼트",
+"second_ret": 8.46
+},
+{
+"name": "카메라모듈/부품",
+"n": 24,
+"avg": 2.21,
+"up5": 3,
+"lead": "엠씨넥스",
+"lead_ret": 13.13,
+"second": "옵트론텍",
+"second_ret": 8.14
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 2.19,
+"up5": 2,
+"lead": "LB세미콘",
+"lead_ret": 7.45,
+"second": "에스티아이",
+"second_ret": 5.77
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": 2.17,
+"up5": 1,
+"lead": "알에프텍",
+"lead_ret": 5.61,
+"second": "켐트로닉스",
+"second_ret": 4.83
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": 2.06,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 9.29,
+"second": "SK하이닉스",
+"second_ret": 2.45
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -1.67,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": -0.31,
+"second": "오텍",
+"second_ret": -0.83
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.39,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.84,
+"second": "코오롱글로벌",
+"second_ret": 0.58
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.38,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 2.19,
+"second": "서울가스",
+"second_ret": 1.15
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -1.36,
+"up5": 0,
+"lead": "졸스",
+"lead_ret": 4.69,
+"second": "콘텐트리중앙",
+"second_ret": 0.59
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": -1.35,
+"up5": 0,
+"lead": "리가켐바이오",
+"lead_ret": 2.7,
+"second": "메드팩토",
+"second_ret": 2.08
+}
+],
+"leaders": [
+{
+"name": "키이스트",
+"code": "054780",
+"ret": 18.27,
+"value": 11467,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 29.49,
+"value": 4952,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 12.96,
+"value": 1483,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "CJ씨푸드",
+"code": "011150",
+"ret": 12.52,
+"value": 1221,
+"theme": "구제역/광우병 수혜",
+"reason": "테마: 구제역/광우병 수혜"
+},
+{
+"name": "엠씨넥스",
+"code": "097520",
+"ret": 13.13,
+"value": 1118,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

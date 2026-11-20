@@ -1,0 +1,254 @@
+{
+"date": "20251128",
+"kospi": -1.51,
+"kosdaq": 3.71,
+"adv": 1817,
+"dec": 465,
+"flat": 108,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 219434,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 7,
+"lead": "우림피티에스",
+"lead_ret": 29.87,
+"second": "에스피지",
+"second_ret": 26.13
+},
+{
+"name": "의료기기",
+"n": 6,
+"lead": "티앤알바이오팹",
+"lead_ret": 29.87,
+"second": "고영",
+"second_ret": 21.6
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "고영",
+"lead_ret": 21.6,
+"second": "큐렉소",
+"second_ret": 17.29
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 8.01,
+"up5": 7,
+"lead": "티앤알바이오팹",
+"lead_ret": 29.87,
+"second": "TPC로보틱스",
+"second_ret": 11.16
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 7.94,
+"up5": 3,
+"lead": "티앤알바이오팹",
+"lead_ret": 29.87,
+"second": "토모큐브",
+"second_ret": 12.62
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": 6.47,
+"up5": 39,
+"lead": "우림피티에스",
+"lead_ret": 29.87,
+"second": "에스피지",
+"second_ret": 26.13
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": 5.74,
+"up5": 21,
+"lead": "우림피티에스",
+"lead_ret": 29.87,
+"second": "에스비비테크",
+"second_ret": 22.7
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 5.24,
+"up5": 1,
+"lead": "천일고속",
+"lead_ret": 29.8,
+"second": "동원산업",
+"second_ret": 0.66
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 4.95,
+"up5": 4,
+"lead": "한국피아이엠",
+"lead_ret": 20.72,
+"second": "레이",
+"second_ret": 10.98
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 4.95,
+"up5": 11,
+"lead": "파로스아이바이오",
+"lead_ret": 18.2,
+"second": "뉴로핏",
+"second_ret": 15.37
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 4.85,
+"up5": 8,
+"lead": "케어젠",
+"lead_ret": 23.13,
+"second": "옵티팜",
+"second_ret": 17.65
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 4.72,
+"up5": 14,
+"lead": "고영",
+"lead_ret": 21.6,
+"second": "에스피시스템스",
+"second_ret": 14.18
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.61,
+"up5": 2,
+"lead": "차바이오텍",
+"lead_ret": 7.34,
+"second": "지씨셀",
+"second_ret": 6.91
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 64,
+"avg": 4.5,
+"up5": 25,
+"lead": "고영",
+"lead_ret": 21.6,
+"second": "큐렉소",
+"second_ret": 17.29
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 4.34,
+"up5": 1,
+"lead": "디아이씨",
+"lead_ret": 24.35,
+"second": "씨티케이",
+"second_ret": 3.19
+}
+],
+"themes_worst": [
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -1.86,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": -0.33,
+"second": "SK스퀘어",
+"second_ret": -1.0
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -1.73,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": 1.78,
+"second": "HJ중공업",
+"second_ret": 0.48
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.35,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 0.23,
+"second": "삼성에스디에스",
+"second_ret": -0.47
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.0,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 1.17,
+"second": "중앙에너비스",
+"second_ret": 0.64
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.0,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 1.17,
+"second": "중앙에너비스",
+"second_ret": 0.64
+}
+],
+"leaders": [
+{
+"name": "고영",
+"code": "098460",
+"ret": 21.6,
+"value": 10243,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "한라캐스트",
+"code": "125490",
+"ret": 11.58,
+"value": 4151,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 26.13,
+"value": 3648,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "지투지바이오",
+"code": "456160",
+"ret": 13.63,
+"value": 3142,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "코오롱티슈진",
+"code": "950160",
+"ret": 23.95,
+"value": 2881,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+}
+],
+"backfilled": true
+}

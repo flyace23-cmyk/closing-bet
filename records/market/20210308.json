@@ -1,0 +1,238 @@
+{
+"date": "20210308",
+"kospi": -1.0,
+"kosdaq": -2.03,
+"adv": 535,
+"dec": 1318,
+"flat": 133,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 292884,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "케이비아이동국실업",
+"lead_ret": 18.98,
+"second": "에코캡",
+"second_ret": 13.87
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 4.05,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 15.38,
+"second": "디지캡",
+"second_ret": 7.17
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 3.73,
+"up5": 2,
+"lead": "KB금융",
+"lead_ret": 6.28,
+"second": "BNK금융지주",
+"second_ret": 5.27
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 2.77,
+"up5": 2,
+"lead": "극동유화",
+"lead_ret": 9.64,
+"second": "흥구석유",
+"second_ret": 7.07
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.64,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 9.64,
+"second": "중앙에너비스",
+"second_ret": 8.04
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.64,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 9.64,
+"second": "중앙에너비스",
+"second_ret": 8.04
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 2.45,
+"up5": 3,
+"lead": "극동유화",
+"lead_ret": 9.64,
+"second": "중앙에너비스",
+"second_ret": 8.04
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 2.18,
+"up5": 4,
+"lead": "동국알앤에스",
+"lead_ret": 29.95,
+"second": "티플랙스",
+"second_ret": 14.68
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.02,
+"up5": 3,
+"lead": "NE능률",
+"lead_ret": 29.93,
+"second": "웅진씽크빅",
+"second_ret": 23.39
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 1.9,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 16.27,
+"second": "코세스",
+"second_ret": 13.15
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.87,
+"up5": 1,
+"lead": "비에이치아이",
+"lead_ret": 16.27,
+"second": "SNT에너지",
+"second_ret": 3.11
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.85,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 8.89,
+"second": "한화생명",
+"second_ret": 2.6
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 1.53,
+"up5": 0,
+"lead": "사조대림",
+"lead_ret": 3.55,
+"second": "우양",
+"second_ret": 2.65
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -4.47,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -2.16,
+"second": "메디포스트",
+"second_ret": -3.11
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -4.09,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": -2.84,
+"second": "디아이씨",
+"second_ret": -3.01
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.94,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": -0.79,
+"second": "삼성바이오로직스",
+"second_ret": -3.2
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.91,
+"up5": 0,
+"lead": "아미노로직스",
+"lead_ret": -1.6,
+"second": "한미사이언스",
+"second_ret": -1.69
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 19,
+"avg": -3.55,
+"up5": 1,
+"lead": "이수앱지스",
+"lead_ret": 12.08,
+"second": "팬젠",
+"second_ret": 1.96
+}
+],
+"leaders": [
+{
+"name": "티플랙스",
+"code": "081150",
+"ret": 14.68,
+"value": 3028,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "서연탑메탈",
+"code": "019770",
+"ret": 10.76,
+"value": 2925,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 23.86,
+"value": 2873,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "웅진씽크빅",
+"code": "095720",
+"ret": 23.39,
+"value": 2169,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "한빛소프트",
+"code": "047080",
+"ret": 15.38,
+"value": 2023,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+}
+],
+"backfilled": true
+}

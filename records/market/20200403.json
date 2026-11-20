@@ -1,0 +1,254 @@
+{
+"date": "20200403",
+"kospi": 0.03,
+"kosdaq": 0.94,
+"adv": 1149,
+"dec": 599,
+"flat": 162,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 178650,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 29.96,
+"second": "랩지노믹스",
+"second_ret": 14.27
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 29.96,
+"second": "명문제약",
+"second_ret": 20.62
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "랩지노믹스",
+"lead_ret": 14.27,
+"second": "씨유메디칼",
+"second_ret": 12.89
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 4.4,
+"up5": 3,
+"lead": "서울바이오시스",
+"lead_ret": 29.74,
+"second": "대한광통신",
+"second_ret": 12.62
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.86,
+"up5": 2,
+"lead": "오가닉티코스메틱",
+"lead_ret": 9.64,
+"second": "씨엑스아이",
+"second_ret": 8.42
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 3.7,
+"up5": 3,
+"lead": "파이오링크",
+"lead_ret": 11.17,
+"second": "아톤",
+"second_ret": 5.74
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 3.54,
+"up5": 3,
+"lead": "파미셀",
+"lead_ret": 8.8,
+"second": "엔투텍",
+"second_ret": 5.43
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.27,
+"up5": 2,
+"lead": "루멘스바이오스",
+"lead_ret": 10.53,
+"second": "광전자",
+"second_ret": 6.53
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 3.24,
+"up5": 2,
+"lead": "이월드",
+"lead_ret": 10.1,
+"second": "대신정보통신",
+"second_ret": 5.3
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 3.18,
+"up5": 2,
+"lead": "이씨에스",
+"lead_ret": 18.07,
+"second": "링네트",
+"second_ret": 10.0
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.08,
+"up5": 2,
+"lead": "링네트",
+"lead_ret": 10.0,
+"second": "아이티센씨티에스",
+"second_ret": 6.39
+},
+{
+"name": "마스크",
+"n": 20,
+"avg": 2.97,
+"up5": 4,
+"lead": "동양",
+"lead_ret": 19.13,
+"second": "케이엠",
+"second_ret": 16.24
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 2.96,
+"up5": 2,
+"lead": "켐트로닉스",
+"lead_ret": 7.25,
+"second": "제너셈",
+"second_ret": 6.88
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": 2.86,
+"up5": 5,
+"lead": "케이엠",
+"lead_ret": 16.24,
+"second": "모나리자",
+"second_ret": 12.62
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 2.83,
+"up5": 3,
+"lead": "랩지노믹스",
+"lead_ret": 14.27,
+"second": "메디아나",
+"second_ret": 9.59
+}
+],
+"themes_worst": [
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -1.8,
+"up5": 0,
+"lead": "알서포트",
+"lead_ret": 2.58,
+"second": "제이엘케이",
+"second_ret": 1.37
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.66,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 0.77,
+"second": "롯데지주",
+"second_ret": -0.21
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.54,
+"up5": 0,
+"lead": "미창석유",
+"lead_ret": 3.21,
+"second": "흥구석유",
+"second_ret": 3.04
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.53,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 3.78,
+"second": "흥구석유",
+"second_ret": 3.04
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.53,
+"up5": 0,
+"lead": "E1",
+"lead_ret": 3.78,
+"second": "흥구석유",
+"second_ret": 3.04
+}
+],
+"leaders": [
+{
+"name": "남선알미늄",
+"code": "008350",
+"ret": 23.79,
+"value": 10503,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 29.96,
+"value": 3297,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 14.27,
+"value": 3189,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "비씨월드제약",
+"code": "200780",
+"ret": 14.22,
+"value": 2101,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "명문제약",
+"code": "017180",
+"ret": 20.62,
+"value": 1781,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

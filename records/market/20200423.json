@@ -1,0 +1,254 @@
+{
+"date": "20200423",
+"kospi": 0.98,
+"kosdaq": 1.36,
+"adv": 1372,
+"dec": 393,
+"flat": 145,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 206880,
+"hot": [
+{
+"name": "지주사",
+"n": 4,
+"lead": "DRB동일",
+"lead_ret": 21.7,
+"second": "웅진",
+"second_ret": 13.94
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "데이타솔루션",
+"lead_ret": 29.94,
+"second": "로보스타",
+"second_ret": 15.2
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 3,
+"lead": "KG파이낸셜",
+"lead_ret": 21.56,
+"second": "카페24",
+"second_ret": 21.55
+}
+],
+"themes": [
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 8.32,
+"up5": 8,
+"lead": "KG파이낸셜",
+"lead_ret": 21.56,
+"second": "카페24",
+"second_ret": 21.55
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 7.47,
+"up5": 5,
+"lead": "KG파이낸셜",
+"lead_ret": 21.56,
+"second": "KG이니시스",
+"second_ret": 10.41
+},
+{
+"name": "육계",
+"n": 8,
+"avg": 7.19,
+"up5": 6,
+"lead": "이지홀딩스",
+"lead_ret": 12.95,
+"second": "푸드나무",
+"second_ret": 9.18
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.86,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 18.43,
+"second": "풀무원",
+"second_ret": 6.82
+},
+{
+"name": "사료",
+"n": 16,
+"avg": 6.32,
+"up5": 7,
+"lead": "미래생명자원",
+"lead_ret": 18.43,
+"second": "팜스코",
+"second_ret": 14.32
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 6.06,
+"up5": 7,
+"lead": "알서포트",
+"lead_ret": 20.88,
+"second": "링네트",
+"second_ret": 9.9
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 18,
+"avg": 5.61,
+"up5": 5,
+"lead": "데이타솔루션",
+"lead_ret": 29.94,
+"second": "플리토",
+"second_ret": 22.28
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 5.49,
+"up5": 4,
+"lead": "로보스타",
+"lead_ret": 15.2,
+"second": "에스티아이",
+"second_ret": 13.57
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 5.49,
+"up5": 3,
+"lead": "알서포트",
+"lead_ret": 20.88,
+"second": "예스24",
+"second_ret": 9.26
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 5.28,
+"up5": 9,
+"lead": "미래생명자원",
+"lead_ret": 18.43,
+"second": "우리손에프앤지",
+"second_ret": 14.66
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 5.26,
+"up5": 7,
+"lead": "KG파이낸셜",
+"lead_ret": 21.56,
+"second": "KG이니시스",
+"second_ret": 10.41
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 5.24,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 9.61,
+"second": "풀무원",
+"second_ret": 6.82
+}
+],
+"themes_worst": [
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -4.28,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": 0.56,
+"second": "부산산업",
+"second_ret": 0.32
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -3.19,
+"up5": 0,
+"lead": "부산산업",
+"lead_ret": 0.32,
+"second": "LS",
+"second_ret": -0.42
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 23,
+"avg": -2.11,
+"up5": 0,
+"lead": "금호건설",
+"lead_ret": 2.24,
+"second": "태영건설",
+"second_ret": 1.38
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.98,
+"up5": 0,
+"lead": "아이에스동서",
+"lead_ret": 3.48,
+"second": "금호건설",
+"second_ret": 2.24
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -1.14,
+"up5": 0,
+"lead": "스페코",
+"lead_ret": 4.23,
+"second": "극동유화",
+"second_ret": 4.01
+}
+],
+"leaders": [
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 20.88,
+"value": 3903,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "톱텍",
+"code": "108230",
+"ret": 12.4,
+"value": 3401,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "메드팩토",
+"code": "235980",
+"ret": 17.65,
+"value": 1209,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "소프트센",
+"code": "032680",
+"ret": 14.19,
+"value": 1115,
+"theme": "2차전지(LFP/리튬인산철)",
+"reason": "테마: 2차전지(LFP/리튬인산철)"
+},
+{
+"name": "KG이니시스",
+"code": "035600",
+"ret": 10.41,
+"value": 981,
+"theme": "전자결제(전자화폐)",
+"reason": "테마: 전자결제(전자화폐)"
+}
+],
+"backfilled": true
+}

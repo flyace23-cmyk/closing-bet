@@ -1,0 +1,254 @@
+{
+"date": "20200228",
+"kospi": -3.3,
+"kosdaq": -4.3,
+"adv": 89,
+"dec": 1757,
+"flat": 58,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 203167,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "SV인베스트먼트",
+"lead_ret": 29.83,
+"second": "코미팜",
+"second_ret": 13.11
+},
+{
+"name": "마스크",
+"n": 4,
+"lead": "동양",
+"lead_ret": 29.77,
+"second": "웰크론",
+"second_ret": 14.33
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 3,
+"lead": "코미팜",
+"lead_ret": 13.11,
+"second": "일성아이에스",
+"second_ret": 7.59
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 0.23,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 22.15,
+"second": "콜마바이오텍",
+"second_ret": 4.3
+},
+{
+"name": "마스크",
+"n": 19,
+"avg": -0.54,
+"up5": 3,
+"lead": "동양",
+"lead_ret": 29.77,
+"second": "웰크론",
+"second_ret": 14.33
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -1.01,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 22.15,
+"second": "POSCO홀딩스",
+"second_ret": -1.76
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -1.59,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 3.14,
+"second": "GS건설",
+"second_ret": -2.42
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -1.84,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 2.62,
+"second": "동양고속",
+"second_ret": 0.38
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.86,
+"up5": 0,
+"lead": "서울가스",
+"lead_ret": -0.14,
+"second": "인천도시가스",
+"second_ret": -0.95
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -1.93,
+"up5": 3,
+"lead": "코미팜",
+"lead_ret": 13.11,
+"second": "일성아이에스",
+"second_ret": 7.59
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.08,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": -0.61,
+"second": "DB손해보험",
+"second_ret": -1.03
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -2.08,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": -0.51,
+"second": "GS리테일",
+"second_ret": -1.4
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -2.2,
+"up5": 1,
+"lead": "동양",
+"lead_ret": 29.77,
+"second": "삼표시멘트",
+"second_ret": -0.16
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -2.31,
+"up5": 1,
+"lead": "우양",
+"lead_ret": 9.11,
+"second": "한성기업",
+"second_ret": -3.79
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.36,
+"up5": 1,
+"lead": "사조오양",
+"lead_ret": 5.94,
+"second": "동원산업",
+"second_ret": 2.62
+}
+],
+"themes_worst": [
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": -7.61,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": -4.11,
+"second": "유비벨록스",
+"second_ret": -5.5
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": -6.87,
+"up5": 0,
+"lead": "NC",
+"lead_ret": -0.76,
+"second": "엠게임",
+"second_ret": -3.61
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -6.68,
+"up5": 0,
+"lead": "한솔홀딩스",
+"lead_ret": -3.49,
+"second": "한국수출포장",
+"second_ret": -3.98
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": -6.49,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": -4.05,
+"second": "비에이치아이",
+"second_ret": -5.3
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -6.47,
+"up5": 0,
+"lead": "광무",
+"lead_ret": -3.17,
+"second": "오파스넷",
+"second_ret": -5.01
+}
+],
+"leaders": [
+{
+"name": "코미팜",
+"code": "041960",
+"ret": 13.11,
+"value": 4843,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 14.33,
+"value": 3257,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "SV인베스트먼트",
+"code": "289080",
+"ret": 29.83,
+"value": 1404,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 10.53,
+"value": 439,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 22.15,
+"value": 430,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+}
+],
+"backfilled": true
+}

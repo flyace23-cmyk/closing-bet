@@ -1,0 +1,254 @@
+{
+"date": "20230828",
+"kospi": 0.96,
+"kosdaq": 1.11,
+"adv": 1561,
+"dec": 504,
+"flat": 120,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 165668,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "오르비텍",
+"second_ret": 28.23
+},
+{
+"name": "비철금속",
+"n": 3,
+"lead": "포스코엠텍",
+"lead_ret": 13.19,
+"second": "서원",
+"second_ret": 12.42
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "엑스게이트",
+"lead_ret": 29.9,
+"second": "우리로",
+"second_ret": 20.09
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 7.89,
+"up5": 7,
+"lead": "오르비텍",
+"lead_ret": 28.23,
+"second": "위드텍",
+"second_ret": 13.06
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 5.63,
+"up5": 3,
+"lead": "HD현대중공업",
+"lead_ret": 9.16,
+"second": "HD한국조선해양",
+"second_ret": 7.69
+},
+{
+"name": "원자력발전",
+"n": 47,
+"avg": 5.49,
+"up5": 18,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "오르비텍",
+"second_ret": 28.23
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 4.94,
+"up5": 3,
+"lead": "YTN",
+"lead_ret": 27.33,
+"second": "iMBC",
+"second_ret": 14.74
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": 4.44,
+"up5": 4,
+"lead": "서전기전",
+"lead_ret": 29.97,
+"second": "지투파워",
+"second_ret": 12.03
+},
+{
+"name": "조선기자재",
+"n": 31,
+"avg": 4.26,
+"up5": 12,
+"lead": "태웅",
+"lead_ret": 12.17,
+"second": "에스앤더블류",
+"second_ret": 9.43
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 25,
+"avg": 4.08,
+"up5": 4,
+"lead": "엑스게이트",
+"lead_ret": 29.9,
+"second": "우리로",
+"second_ret": 20.09
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 4.02,
+"up5": 3,
+"lead": "탑머티리얼",
+"lead_ret": 12.22,
+"second": "코윈로보틱스",
+"second_ret": 9.66
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 3.99,
+"up5": 7,
+"lead": "레몬",
+"lead_ret": 29.86,
+"second": "코윈로보틱스",
+"second_ret": 9.66
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.96,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 28.23,
+"second": "하이즈항공",
+"second_ret": 9.92
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.96,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 10.89,
+"second": "GS글로벌",
+"second_ret": 4.45
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.74,
+"up5": 1,
+"lead": "현대건설",
+"lead_ret": 7.91,
+"second": "DL이앤씨",
+"second_ret": 4.22
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 9,
+"avg": -3.04,
+"up5": 0,
+"lead": "푸드나무",
+"lead_ret": 1.67,
+"second": "팜스토리",
+"second_ret": 0.25
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -1.95,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": 0.0,
+"second": "사조산업",
+"second_ret": 0.0
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -1.67,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 3.88,
+"second": "사조대림",
+"second_ret": -0.17
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": -1.4,
+"up5": 0,
+"lead": "더코디",
+"lead_ret": 1.28,
+"second": "루트K",
+"second_ret": 1.26
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": -1.11,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 4.01,
+"second": "케이바이오랩스",
+"second_ret": 2.15
+}
+],
+"leaders": [
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 10.89,
+"value": 6163,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "우리로",
+"code": "046970",
+"ret": 20.09,
+"value": 2589,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+},
+{
+"name": "오르비텍",
+"code": "046120",
+"ret": 28.23,
+"value": 1920,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "YTN",
+"code": "040300",
+"ret": 27.33,
+"value": 1608,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "엑스게이트",
+"code": "356680",
+"ret": 29.9,
+"value": 1332,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+}
+],
+"backfilled": true
+}

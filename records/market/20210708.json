@@ -1,0 +1,254 @@
+{
+"date": "20210708",
+"kospi": -0.99,
+"kosdaq": -1.23,
+"adv": 282,
+"dec": 1621,
+"flat": 110,
+"limit_up": 0,
+"limit_down": 1,
+"value_total": 290092,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 10,
+"lead": "랩지노믹스",
+"lead_ret": 22.6,
+"second": "바이오니아",
+"second_ret": 21.93
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "조이시티",
+"lead_ret": 6.78,
+"second": "넥써쓰",
+"second_ret": 6.73
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "아이윈",
+"lead_ret": 21.35,
+"second": "DYP",
+"second_ret": 13.92
+}
+],
+"themes": [
+{
+"name": "코로나19(진단키트)",
+"n": 36,
+"avg": 3.09,
+"up5": 9,
+"lead": "랩지노믹스",
+"lead_ret": 22.6,
+"second": "바이오니아",
+"second_ret": 21.93
+},
+{
+"name": "유전자 치료제/분석",
+"n": 29,
+"avg": 1.89,
+"up5": 5,
+"lead": "랩지노믹스",
+"lead_ret": 22.6,
+"second": "바이오니아",
+"second_ret": 21.93
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 63,
+"avg": 1.32,
+"up5": 12,
+"lead": "랩지노믹스",
+"lead_ret": 22.6,
+"second": "바이오니아",
+"second_ret": 21.93
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 1.24,
+"up5": 1,
+"lead": "GH신소재",
+"lead_ret": 8.18,
+"second": "콜마바이오텍",
+"second_ret": 3.8
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 0.88,
+"up5": 1,
+"lead": "한국정보통신",
+"lead_ret": 14.42,
+"second": "이루온",
+"second_ret": 2.38
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 0.65,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": 3.99,
+"second": "아이비김영",
+"second_ret": 1.41
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 0.61,
+"up5": 2,
+"lead": "파미셀",
+"lead_ret": 6.47,
+"second": "아이진",
+"second_ret": 6.4
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 0.45,
+"up5": 1,
+"lead": "랩지노믹스",
+"lead_ret": 22.6,
+"second": "인트론바이오",
+"second_ret": 3.76
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 0.4,
+"up5": 2,
+"lead": "한국정보통신",
+"lead_ret": 14.42,
+"second": "서울식품",
+"second_ret": 6.93
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 0.37,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 7.56,
+"second": "한화투자증권",
+"second_ret": 0.44
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 0.37,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": 4.01,
+"second": "갤럭시아머니트리",
+"second_ret": 3.38
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.33,
+"up5": 1,
+"lead": "파미셀",
+"lead_ret": 6.47,
+"second": "삼성바이오로직스",
+"second_ret": 2.13
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -6.46,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": 1.01,
+"second": "데브시스터즈",
+"second_ret": -0.92
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -3.97,
+"up5": 0,
+"lead": "두산에너빌리티",
+"lead_ret": -0.4,
+"second": "대한항공",
+"second_ret": -1.59
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": -3.52,
+"up5": 0,
+"lead": "메디앙스",
+"lead_ret": 0.0,
+"second": "매일유업",
+"second_ret": -0.26
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -3.43,
+"up5": 0,
+"lead": "SP삼화",
+"lead_ret": -1.98,
+"second": "강남제비스코",
+"second_ret": -2.14
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": -3.38,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": 4.01,
+"second": "메디앙스",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 22.6,
+"value": 6934,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "케이엘넷",
+"code": "039420",
+"ret": 17.93,
+"value": 3310,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 10.0,
+"value": 2189,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "에프엔에스테크",
+"code": "083500",
+"ret": 19.57,
+"value": 2131,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "진시스템",
+"code": "363250",
+"ret": 18.48,
+"value": 1043,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

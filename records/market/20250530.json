@@ -1,0 +1,254 @@
+{
+"date": "20250530",
+"kospi": -0.84,
+"kosdaq": -0.26,
+"adv": 902,
+"dec": 1330,
+"flat": 128,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 193031,
+"hot": [
+{
+"name": "5G(5세대 이동통신)",
+"n": 7,
+"lead": "케이엠더블유",
+"lead_ret": 29.92,
+"second": "오이솔루션",
+"second_ret": 13.2
+},
+{
+"name": "비만치료제",
+"n": 5,
+"lead": "한국비엔씨",
+"lead_ret": 30.0,
+"second": "나이벡",
+"second_ret": 22.11
+},
+{
+"name": "2차전지(장비)",
+"n": 3,
+"lead": "대보마그네틱",
+"lead_ret": 24.86,
+"second": "나인테크",
+"second_ret": 10.11
+}
+],
+"themes": [
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 3.98,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 30.0,
+"second": "대웅제약",
+"second_ret": 9.52
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 3.6,
+"up5": 2,
+"lead": "손오공",
+"lead_ret": 18.45,
+"second": "SAMG엔터",
+"second_ret": 7.43
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": 3.0,
+"up5": 4,
+"lead": "한국비엔씨",
+"lead_ret": 30.0,
+"second": "달바글로벌",
+"second_ret": 9.97
+},
+{
+"name": "통신장비",
+"n": 45,
+"avg": 2.61,
+"up5": 9,
+"lead": "케이엠더블유",
+"lead_ret": 29.92,
+"second": "에이스테크",
+"second_ret": 29.8
+},
+{
+"name": "비만치료제",
+"n": 36,
+"avg": 2.61,
+"up5": 5,
+"lead": "한국비엔씨",
+"lead_ret": 30.0,
+"second": "나이벡",
+"second_ret": 22.11
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.54,
+"up5": 2,
+"lead": "나이벡",
+"lead_ret": 22.11,
+"second": "올릭스",
+"second_ret": 8.38
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.43,
+"up5": 4,
+"lead": "한국비엔씨",
+"lead_ret": 30.0,
+"second": "샤페론",
+"second_ret": 17.12
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.25,
+"up5": 1,
+"lead": "메디포스트",
+"lead_ret": 6.43,
+"second": "강스템바이오텍",
+"second_ret": 3.84
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 56,
+"avg": 2.1,
+"up5": 10,
+"lead": "케이엠더블유",
+"lead_ret": 29.92,
+"second": "에이스테크",
+"second_ret": 29.8
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.04,
+"up5": 1,
+"lead": "파루",
+"lead_ret": 14.7,
+"second": "조비",
+"second_ret": 1.94
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 1.92,
+"up5": 0,
+"lead": "서울가스",
+"lead_ret": 4.34,
+"second": "대성홀딩스",
+"second_ret": 4.17
+},
+{
+"name": "소매유통",
+"n": 18,
+"avg": 1.8,
+"up5": 1,
+"lead": "엑시온그룹",
+"lead_ret": 18.44,
+"second": "대구백화점",
+"second_ret": 4.29
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -3.23,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": -2.14,
+"second": "현대위아",
+"second_ret": -2.29
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.07,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": -1.06,
+"second": "GS건설",
+"second_ret": -2.58
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.54,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.18,
+"second": "국순당",
+"second_ret": -0.87
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -2.4,
+"up5": 1,
+"lead": "나인테크",
+"lead_ret": 10.11,
+"second": "아이씨디",
+"second_ret": -1.32
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -2.4,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": 1.37,
+"second": "네오티스",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "대보마그네틱",
+"code": "290670",
+"ret": 24.86,
+"value": 2182,
+"theme": "2차전지(장비)",
+"reason": "테마: 2차전지(장비)"
+},
+{
+"name": "LK삼양",
+"code": "225190",
+"ret": 20.67,
+"value": 1633,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "HD현대에너지솔루션",
+"code": "322000",
+"ret": 18.55,
+"value": 1440,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "나이벡",
+"code": "138610",
+"ret": 22.11,
+"value": 1109,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 17.12,
+"value": 974,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20250331",
+"kospi": -3.0,
+"kosdaq": -3.01,
+"adv": 243,
+"dec": 2038,
+"flat": 66,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 125337,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "유일로보틱스",
+"lead_ret": 6.79,
+"second": "클로봇",
+"second_ret": 6.31
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "SNT에너지",
+"lead_ret": 5.05,
+"second": "태광",
+"second_ret": 4.5
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.84,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 18.45,
+"second": "대한약품",
+"second_ret": -0.59
+},
+{
+"name": "광고",
+"n": 23,
+"avg": 0.47,
+"up5": 3,
+"lead": "와이즈버즈",
+"lead_ret": 24.77,
+"second": "모비데이즈",
+"second_ret": 12.32
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 0.39,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 7.7,
+"second": "성우전자",
+"second_ret": -0.62
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -0.08,
+"up5": 0,
+"lead": "지에스이",
+"lead_ret": 2.57,
+"second": "한국가스공사",
+"second_ret": 1.13
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -0.49,
+"up5": 1,
+"lead": "SNT에너지",
+"lead_ret": 5.05,
+"second": "SK가스",
+"second_ret": 3.35
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -0.97,
+"up5": 0,
+"lead": "삼립",
+"lead_ret": 2.57,
+"second": "지에스이",
+"second_ret": 2.57
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": -0.98,
+"up5": 1,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 7.87,
+"second": "루트K",
+"second_ret": 2.98
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.0,
+"up5": 1,
+"lead": "엘컴텍",
+"lead_ret": 14.43,
+"second": "한국가스공사",
+"second_ret": 1.13
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": -1.0,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 18.45,
+"second": "바이오솔루션",
+"second_ret": 8.26
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.05,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": 1.6,
+"second": "보해양조",
+"second_ret": 0.0
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -1.08,
+"up5": 1,
+"lead": "메디톡스",
+"lead_ret": 5.18,
+"second": "제테마",
+"second_ret": 1.57
+},
+{
+"name": "제지",
+"n": 14,
+"avg": -1.14,
+"up5": 0,
+"lead": "페이퍼코리아",
+"lead_ret": 0.57,
+"second": "무림P&P",
+"second_ret": 0.17
+}
+],
+"themes_worst": [
+{
+"name": "비료",
+"n": 10,
+"avg": -6.13,
+"up5": 0,
+"lead": "유니드",
+"lead_ret": -3.53,
+"second": "누보",
+"second_ret": -3.95
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -6.05,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": -0.54,
+"second": "메가터치",
+"second_ret": -1.33
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -5.73,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": -1.41,
+"second": "리튬포어스",
+"second_ret": -1.78
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -5.1,
+"up5": 0,
+"lead": "자연과환경",
+"lead_ret": 0.12,
+"second": "GS건설",
+"second_ret": -0.93
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": -5.06,
+"up5": 0,
+"lead": "아이언디바이스",
+"lead_ret": -0.44,
+"second": "칩스앤미디어",
+"second_ret": -2.9
+}
+],
+"leaders": [
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 29.87,
+"value": 2500,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "엘컴텍",
+"code": "037950",
+"ret": 14.43,
+"value": 983,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "모비데이즈",
+"code": "363260",
+"ret": 12.32,
+"value": 744,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "제일약품",
+"code": "271980",
+"ret": 18.45,
+"value": 458,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "와이즈버즈",
+"code": "273060",
+"ret": 24.77,
+"value": 238,
+"theme": "광고",
+"reason": "테마: 광고"
+}
+],
+"backfilled": true
+}

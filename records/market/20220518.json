@@ -1,0 +1,254 @@
+{
+"date": "20220518",
+"kospi": 0.21,
+"kosdaq": 0.65,
+"adv": 806,
+"dec": 1044,
+"flat": 229,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 162272,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "HLB제약",
+"lead_ret": 29.79,
+"second": "프레스티지바이오파마",
+"second_ret": 10.76
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "나래나노텍",
+"lead_ret": 17.06,
+"second": "나노신소재",
+"second_ret": 10.18
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "서연이화",
+"lead_ret": 13.46,
+"second": "세동",
+"second_ret": 12.83
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 4.34,
+"up5": 5,
+"lead": "한탑",
+"lead_ret": 29.87,
+"second": "사조동아원",
+"second_ret": 13.95
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.68,
+"up5": 2,
+"lead": "로지시스",
+"lead_ret": 12.09,
+"second": "한네트",
+"second_ret": 7.42
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.66,
+"up5": 2,
+"lead": "동원수산",
+"lead_ret": 8.77,
+"second": "사조씨푸드",
+"second_ret": 6.16
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.37,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 29.86,
+"second": "나이스정보통신",
+"second_ret": 0.17
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 24,
+"avg": 2.04,
+"up5": 4,
+"lead": "마음AI",
+"lead_ret": 12.08,
+"second": "셀바스AI",
+"second_ret": 9.15
+},
+{
+"name": "의료AI",
+"n": 17,
+"avg": 1.89,
+"up5": 4,
+"lead": "토마토시스템",
+"lead_ret": 14.8,
+"second": "셀바스AI",
+"second_ret": 9.15
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 1.87,
+"up5": 3,
+"lead": "앱클론",
+"lead_ret": 16.99,
+"second": "HLB",
+"second_ret": 14.44
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 46,
+"avg": 1.72,
+"up5": 6,
+"lead": "마음AI",
+"lead_ret": 12.08,
+"second": "셀바스AI",
+"second_ret": 9.15
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 1.71,
+"up5": 4,
+"lead": "HLB제약",
+"lead_ret": 29.79,
+"second": "앱클론",
+"second_ret": 16.99
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.58,
+"up5": 2,
+"lead": "한탑",
+"lead_ret": 29.87,
+"second": "혜인",
+"second_ret": 13.38
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 1.56,
+"up5": 1,
+"lead": "태웅로직스",
+"lead_ret": 15.75,
+"second": "한솔로지스틱스",
+"second_ret": 2.93
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 1.53,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 4.19,
+"second": "나인테크",
+"second_ret": 3.45
+}
+],
+"themes_worst": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.4,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 0.0,
+"second": "오르비텍",
+"second_ret": 0.0
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.35,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 0.17,
+"second": "현대제철",
+"second_ret": -0.5
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -2.34,
+"up5": 0,
+"lead": "SK가스",
+"lead_ret": 1.53,
+"second": "E1",
+"second_ret": 0.8
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.3,
+"up5": 0,
+"lead": "손오공",
+"lead_ret": 1.44,
+"second": "에피소드컴퍼니",
+"second_ret": 0.59
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.08,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -1.07,
+"second": "HJ중공업",
+"second_ret": -1.55
+}
+],
+"leaders": [
+{
+"name": "사조동아원",
+"code": "008040",
+"ret": 13.95,
+"value": 6065,
+"theme": "음식료업종",
+"reason": "테마: 음식료업종"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 14.44,
+"value": 4257,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "한탑",
+"code": "002680",
+"ret": 29.87,
+"value": 2754,
+"theme": "환율하락 수혜",
+"reason": "테마: 환율하락 수혜"
+},
+{
+"name": "HLB제약",
+"code": "047920",
+"ret": 29.79,
+"value": 1429,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "와이어블",
+"code": "065530",
+"ret": 14.53,
+"value": 1100,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+}
+],
+"backfilled": true
+}

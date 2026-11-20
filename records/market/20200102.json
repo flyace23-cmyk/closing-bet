@@ -1,0 +1,246 @@
+{
+"date": "20200102",
+"kospi": -1.02,
+"kosdaq": 0.63,
+"adv": 1097,
+"dec": 644,
+"flat": 161,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 84169,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "케이알엠",
+"lead_ret": 29.97,
+"second": "코아시아",
+"second_ret": 10.79
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "서연",
+"lead_ret": 11.3,
+"second": "코아시아",
+"second_ret": 10.79
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 10,
+"avg": 4.91,
+"up5": 2,
+"lead": "한국첨단소재",
+"lead_ret": 29.76,
+"second": "RFHIC",
+"second_ret": 6.24
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.59,
+"up5": 2,
+"lead": "링네트",
+"lead_ret": 13.09,
+"second": "오픈베이스",
+"second_ret": 7.25
+},
+{
+"name": "통신장비",
+"n": 40,
+"avg": 4.02,
+"up5": 11,
+"lead": "한국첨단소재",
+"lead_ret": 29.76,
+"second": "피노",
+"second_ret": 15.19
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.44,
+"up5": 2,
+"lead": "아세아제지",
+"lead_ret": 8.33,
+"second": "신대양제지",
+"second_ret": 6.05
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.8,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 29.79,
+"second": "흥구석유",
+"second_ret": 4.1
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.8,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 29.79,
+"second": "흥구석유",
+"second_ret": 4.1
+},
+{
+"name": "드론(Drone)",
+"n": 23,
+"avg": 2.8,
+"up5": 4,
+"lead": "케이알엠",
+"lead_ret": 29.97,
+"second": "에스코넥",
+"second_ret": 12.36
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 23,
+"avg": 2.74,
+"up5": 2,
+"lead": "한국첨단소재",
+"lead_ret": 29.76,
+"second": "아이티센피엔에스",
+"second_ret": 9.03
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 2.58,
+"up5": 2,
+"lead": "링네트",
+"lead_ret": 13.09,
+"second": "소프트캠프",
+"second_ret": 7.06
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 47,
+"avg": 2.58,
+"up5": 7,
+"lead": "한국첨단소재",
+"lead_ret": 29.76,
+"second": "케이엠더블유",
+"second_ret": 12.13
+},
+{
+"name": "시스템반도체",
+"n": 39,
+"avg": 2.53,
+"up5": 5,
+"lead": "케이알엠",
+"lead_ret": 29.97,
+"second": "코아시아",
+"second_ret": 10.79
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.44,
+"up5": 0,
+"lead": "토니모리",
+"lead_ret": 4.3,
+"second": "JTC",
+"second_ret": 3.84
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -2.25,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.22,
+"second": "HL만도",
+"second_ret": -0.85
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -1.84,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 0.49,
+"second": "롯데손해보험",
+"second_ret": -0.48
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.82,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": -0.12,
+"second": "iM금융지주",
+"second_ret": -1.12
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 6,
+"avg": -1.63,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": -0.4,
+"second": "미래에셋증권",
+"second_ret": -1.33
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -1.59,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.92,
+"second": "IPARK현대산업개발",
+"second_ret": -0.98
+}
+],
+"leaders": [
+{
+"name": "안랩",
+"code": "053800",
+"ret": 23.66,
+"value": 3169,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "케이엠더블유",
+"code": "032500",
+"ret": 12.13,
+"value": 1729,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "국영지앤엠",
+"code": "006050",
+"ret": 21.17,
+"value": 1360,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 29.87,
+"value": 1349,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "씨티알모빌리티",
+"code": "308170",
+"ret": 20.63,
+"value": 1130,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240717",
+"kospi": -0.8,
+"kosdaq": -1.21,
+"adv": 827,
+"dec": 1305,
+"flat": 136,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 205950,
+"hot": [
+{
+"name": "화장품",
+"n": 6,
+"lead": "넥스트아이",
+"lead_ret": 21.22,
+"second": "지놈앤컴퍼니",
+"second_ret": 15.73
+},
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "HD현대마린엔진",
+"lead_ret": 12.57,
+"second": "HD현대마린솔루션",
+"second_ret": 11.53
+},
+{
+"name": "마이크로바이옴",
+"n": 3,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 15.73,
+"second": "고바이오랩",
+"second_ret": 13.88
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 6.58,
+"up5": 1,
+"lead": "서울제약",
+"lead_ret": 30.0,
+"second": "제일약품",
+"second_ret": 1.73
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.63,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 29.84,
+"second": "옴니시스템",
+"second_ret": 1.33
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 3.35,
+"up5": 3,
+"lead": "태광",
+"lead_ret": 9.22,
+"second": "한선엔지니어링",
+"second_ret": 5.73
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 3.06,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 4.87,
+"second": "IPARK현대산업개발",
+"second_ret": 4.83
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 2.93,
+"up5": 3,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 15.73,
+"second": "고바이오랩",
+"second_ret": 13.88
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.93,
+"up5": 1,
+"lead": "삼성중공업",
+"lead_ret": 6.32,
+"second": "한화오션",
+"second_ret": 2.95
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 1.78,
+"up5": 1,
+"lead": "세아제강",
+"lead_ret": 6.84,
+"second": "휴스틸",
+"second_ret": 4.46
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.71,
+"up5": 1,
+"lead": "세아제강",
+"lead_ret": 6.84,
+"second": "휴스틸",
+"second_ret": 4.46
+},
+{
+"name": "조선기자재",
+"n": 34,
+"avg": 1.71,
+"up5": 6,
+"lead": "HD현대마린엔진",
+"lead_ret": 12.57,
+"second": "HD현대마린솔루션",
+"second_ret": 11.53
+},
+{
+"name": "리모델링/인테리어",
+"n": 24,
+"avg": 1.6,
+"up5": 2,
+"lead": "현대리바트",
+"lead_ret": 7.5,
+"second": "LX하우시스",
+"second_ret": 5.09
+},
+{
+"name": "화장품",
+"n": 88,
+"avg": 1.58,
+"up5": 10,
+"lead": "넥스트아이",
+"lead_ret": 21.22,
+"second": "지놈앤컴퍼니",
+"second_ret": 15.73
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.51,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 3.28,
+"second": "녹십자",
+"second_ret": 2.75
+}
+],
+"themes_worst": [
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": -4.99,
+"up5": 0,
+"lead": "국전",
+"lead_ret": 3.1,
+"second": "레이언스",
+"second_ret": -0.12
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.06,
+"up5": 0,
+"lead": "대한전선",
+"lead_ret": -0.28,
+"second": "KBI메탈",
+"second_ret": -2.73
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.98,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -1.08,
+"second": "삼성전자",
+"second_ret": -1.14
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -3.82,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 0.41,
+"second": "큐알티",
+"second_ret": -0.72
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": -3.73,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": 4.35,
+"second": "프로이천",
+"second_ret": 3.4
+}
+],
+"leaders": [
+{
+"name": "F&F",
+"code": "383220",
+"ret": 25.85,
+"value": 2519,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "브이티",
+"code": "018290",
+"ret": 14.38,
+"value": 1939,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "HD현대마린엔진",
+"code": "071970",
+"ret": 12.57,
+"value": 1820,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "HD현대마린솔루션",
+"code": "443060",
+"ret": 11.53,
+"value": 1701,
+"theme": "조선기자재",
+"reason": "테마: 조선기자재"
+},
+{
+"name": "라파스",
+"code": "214260",
+"ret": 13.89,
+"value": 1539,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

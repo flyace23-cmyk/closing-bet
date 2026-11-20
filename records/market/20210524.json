@@ -1,0 +1,254 @@
+{
+"date": "20210524",
+"kospi": -0.38,
+"kosdaq": -1.79,
+"adv": 401,
+"dec": 1495,
+"flat": 110,
+"limit_up": 3,
+"limit_down": 2,
+"value_total": 202942,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "선익시스템",
+"lead_ret": 29.97,
+"second": "컴투스엔",
+"second_ret": 25.33
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "넥스트아이",
+"lead_ret": 16.0,
+"second": "아우딘퓨쳐스",
+"second_ret": 9.85
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "솔디펜스",
+"lead_ret": 19.62,
+"second": "한일단조",
+"second_ret": 11.11
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 3.91,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 9.46,
+"second": "그래디언트",
+"second_ret": 3.54
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 3.31,
+"up5": 2,
+"lead": "솔디펜스",
+"lead_ret": 19.62,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 9.75
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 3.05,
+"up5": 4,
+"lead": "이엠넷",
+"lead_ret": 29.9,
+"second": "컴투스엔",
+"second_ret": 25.33
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.47,
+"up5": 2,
+"lead": "선익시스템",
+"lead_ret": 29.97,
+"second": "한국전력",
+"second_ret": 5.29
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.29,
+"up5": 2,
+"lead": "레드캡투어",
+"lead_ret": 8.29,
+"second": "세중",
+"second_ret": 5.77
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 39,
+"avg": 1.92,
+"up5": 4,
+"lead": "선익시스템",
+"lead_ret": 29.97,
+"second": "컴투스엔",
+"second_ret": 25.33
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 1.4,
+"up5": 1,
+"lead": "한빛소프트",
+"lead_ret": 14.22,
+"second": "알체라",
+"second_ret": 4.58
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 1.29,
+"up5": 1,
+"lead": "광주신세계",
+"lead_ret": 6.38,
+"second": "현대백화점",
+"second_ret": 0.56
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 1.27,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 2.33,
+"second": "JB금융지주",
+"second_ret": 1.99
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 1.08,
+"up5": 2,
+"lead": "한빛소프트",
+"lead_ret": 14.22,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 9.75
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 1.04,
+"up5": 2,
+"lead": "애니플러스",
+"lead_ret": 29.94,
+"second": "자이언트스텝",
+"second_ret": 9.8
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 0.95,
+"up5": 1,
+"lead": "사조대림",
+"lead_ret": 5.91,
+"second": "풀무원",
+"second_ret": 0.51
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -6.88,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": -1.79,
+"second": "나이벡",
+"second_ret": -2.31
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -5.78,
+"up5": 0,
+"lead": "부산산업",
+"lead_ret": -2.83,
+"second": "LS",
+"second_ret": -2.88
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.61,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.35,
+"second": "파미셀",
+"second_ret": -2.52
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -4.21,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "광동제약",
+"second_ret": -1.21
+},
+{
+"name": "유전자 치료제/분석",
+"n": 28,
+"avg": -4.14,
+"up5": 0,
+"lead": "HLB파나진",
+"lead_ret": 1.16,
+"second": "신라젠",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "케이사인",
+"code": "192250",
+"ret": 20.79,
+"value": 4320,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "선익시스템",
+"code": "171090",
+"ret": 29.97,
+"value": 3075,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "애니플러스",
+"code": "310200",
+"ret": 29.94,
+"value": 2644,
+"theme": "영상콘텐츠",
+"reason": "테마: 영상콘텐츠"
+},
+{
+"name": "한빛소프트",
+"code": "047080",
+"ret": 14.22,
+"value": 2413,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "PN풍년",
+"code": "024940",
+"ret": 11.69,
+"value": 2086,
+"theme": "日제품 불매운동(수혜)",
+"reason": "테마: 日제품 불매운동(수혜)"
+}
+],
+"backfilled": true
+}

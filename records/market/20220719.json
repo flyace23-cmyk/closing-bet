@@ -1,0 +1,246 @@
+{
+"date": "20220719",
+"kospi": -0.18,
+"kosdaq": 0.72,
+"adv": 1314,
+"dec": 564,
+"flat": 210,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 113860,
+"hot": [
+{
+"name": "전기차",
+"n": 3,
+"lead": "엠투엔",
+"lead_ret": 9.37,
+"second": "이지트로닉스",
+"second_ret": 8.76
+},
+{
+"name": "폐배터리",
+"n": 3,
+"lead": "코스모화학",
+"lead_ret": 15.73,
+"second": "에코프로",
+"second_ret": 12.02
+}
+],
+"themes": [
+{
+"name": "폐배터리",
+"n": 17,
+"avg": 3.6,
+"up5": 4,
+"lead": "코스모화학",
+"lead_ret": 15.73,
+"second": "에코프로",
+"second_ret": 12.02
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 3.41,
+"up5": 1,
+"lead": "유니온머티리얼",
+"lead_ret": 11.83,
+"second": "유니온",
+"second_ret": 4.49
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 3.35,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 14.52,
+"second": "포스코인터내셔널",
+"second_ret": 4.31
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.27,
+"up5": 1,
+"lead": "모아텍",
+"lead_ret": 30.0,
+"second": "TPC로보틱스",
+"second_ret": 2.14
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.93,
+"up5": 1,
+"lead": "서울제약",
+"lead_ret": 7.26,
+"second": "제일약품",
+"second_ret": 3.75
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 2.78,
+"up5": 3,
+"lead": "GC메디아이",
+"lead_ret": 9.01,
+"second": "인피니트헬스케어",
+"second_ret": 7.16
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 2.51,
+"up5": 2,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 7.33,
+"second": "유니테스트",
+"second_ret": 6.59
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.46,
+"up5": 1,
+"lead": "쎄니트",
+"lead_ret": 17.28,
+"second": "유니온",
+"second_ret": 4.49
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 2.32,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 14.52,
+"second": "한국가스공사",
+"second_ret": 4.33
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.26,
+"up5": 3,
+"lead": "양지사",
+"lead_ret": 29.77,
+"second": "코데즈컴바인",
+"second_ret": 6.72
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.06,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": 4.0,
+"second": "오텍",
+"second_ret": 3.39
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.03,
+"up5": 1,
+"lead": "아이진",
+"lead_ret": 6.74,
+"second": "이연제약",
+"second_ret": 3.35
+}
+],
+"themes_worst": [
+{
+"name": "제습기",
+"n": 8,
+"avg": -0.93,
+"up5": 0,
+"lead": "쿠쿠홈시스",
+"lead_ret": 4.09,
+"second": "위닉스",
+"second_ret": 0.85
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.77,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 0.87,
+"second": "삼성전기",
+"second_ret": -0.71
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.72,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": 0.34,
+"second": "AK홀딩스",
+"second_ret": 0.31
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.56,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 0.36,
+"second": "토비스",
+"second_ret": 0.11
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -0.56,
+"up5": 0,
+"lead": "GKL",
+"lead_ret": 0.36,
+"second": "토비스",
+"second_ret": 0.11
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 16.24,
+"value": 1994,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 14.52,
+"value": 1979,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+},
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 12.02,
+"value": 1533,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 13.56,
+"value": 1362,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "와이씨켐",
+"code": "112290",
+"ret": 13.29,
+"value": 1000,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

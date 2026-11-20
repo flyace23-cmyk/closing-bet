@@ -1,0 +1,254 @@
+{
+"date": "20240226",
+"kospi": -0.77,
+"kosdaq": -0.13,
+"adv": 649,
+"dec": 1473,
+"flat": 120,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 204746,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 22.3,
+"second": "성우하이텍",
+"second_ret": 17.26
+},
+{
+"name": "시스템반도체",
+"n": 4,
+"lead": "지니틱스",
+"lead_ret": 12.81,
+"second": "사피엔반도체",
+"second_ret": 12.14
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "메타바이오메드",
+"lead_ret": 14.53,
+"second": "앱클론",
+"second_ret": 14.22
+}
+],
+"themes": [
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 3.03,
+"up5": 2,
+"lead": "모헨즈",
+"lead_ret": 29.93,
+"second": "씨아이테크",
+"second_ret": 7.92
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 2.21,
+"up5": 4,
+"lead": "앱클론",
+"lead_ret": 14.22,
+"second": "와이바이오로직스",
+"second_ret": 11.61
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": 2.04,
+"up5": 2,
+"lead": "메타바이오메드",
+"lead_ret": 14.53,
+"second": "오스테오닉",
+"second_ret": 6.81
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 1.96,
+"up5": 2,
+"lead": "포바이포",
+"lead_ret": 14.36,
+"second": "아이티센글로벌",
+"second_ret": 5.99
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.8,
+"up5": 4,
+"lead": "포바이포",
+"lead_ret": 14.36,
+"second": "CJ CGV",
+"second_ret": 5.71
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.61,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 5.3,
+"second": "풀무원",
+"second_ret": 1.91
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.32,
+"up5": 1,
+"lead": "모헨즈",
+"lead_ret": 29.93,
+"second": "HC보광산업",
+"second_ret": 3.38
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": 1.22,
+"up5": 0,
+"lead": "삼륭물산",
+"lead_ret": 4.59,
+"second": "진영",
+"second_ret": 3.79
+},
+{
+"name": "영상콘텐츠",
+"n": 27,
+"avg": 1.18,
+"up5": 3,
+"lead": "포바이포",
+"lead_ret": 14.36,
+"second": "NEW",
+"second_ret": 5.67
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 0.9,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 8.19,
+"second": "LG에너지솔루션",
+"second_ret": 1.87
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 0.78,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 4.62,
+"second": "메디포스트",
+"second_ret": 0.99
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 0.77,
+"up5": 2,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 22.3,
+"second": "레몬",
+"second_ret": 5.34
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -5.76,
+"up5": 0,
+"lead": "코리안리",
+"lead_ret": -1.12,
+"second": "삼성화재",
+"second_ret": -2.76
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -3.57,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": -0.41,
+"second": "광주신세계",
+"second_ret": -1.28
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -3.01,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.17,
+"second": "JB금융지주",
+"second_ret": -0.22
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.81,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": -0.56,
+"second": "SBI인베스트먼트",
+"second_ret": -0.78
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -2.68,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 0.34,
+"second": "비츠로테크",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 19.36,
+"value": 12979,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 22.3,
+"value": 5290,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "성우하이텍",
+"code": "015750",
+"ret": 17.26,
+"value": 3941,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엔켐",
+"code": "348370",
+"ret": 11.68,
+"value": 3319,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "코셈",
+"code": "360350",
+"ret": 29.94,
+"value": 2566,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

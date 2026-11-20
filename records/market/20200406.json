@@ -1,0 +1,254 @@
+{
+"date": "20200406",
+"kospi": 3.85,
+"kosdaq": 4.22,
+"adv": 1738,
+"dec": 90,
+"flat": 82,
+"limit_up": 17,
+"limit_down": 0,
+"value_total": 198718,
+"hot": [
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 8,
+"lead": "씨티씨바이오",
+"lead_ret": 30.0,
+"second": "체시스",
+"second_ret": 29.91
+},
+{
+"name": "사료",
+"n": 4,
+"lead": "씨티씨바이오",
+"lead_ret": 30.0,
+"second": "우성",
+"second_ret": 29.88
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 29.87,
+"second": "알리코제약",
+"second_ret": 29.63
+}
+],
+"themes": [
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 13.69,
+"up5": 19,
+"lead": "씨티씨바이오",
+"lead_ret": 30.0,
+"second": "전진바이오팜",
+"second_ret": 29.98
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 10.55,
+"up5": 20,
+"lead": "씨티씨바이오",
+"lead_ret": 30.0,
+"second": "체시스",
+"second_ret": 29.91
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 10.52,
+"up5": 4,
+"lead": "이월드",
+"lead_ret": 22.77,
+"second": "대신정보통신",
+"second_ret": 12.94
+},
+{
+"name": "사료",
+"n": 16,
+"avg": 10.14,
+"up5": 9,
+"lead": "씨티씨바이오",
+"lead_ret": 30.0,
+"second": "우성",
+"second_ret": 29.88
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 9.89,
+"up5": 6,
+"lead": "흥구석유",
+"lead_ret": 29.99,
+"second": "중앙에너비스",
+"second_ret": 23.44
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 9.89,
+"up5": 6,
+"lead": "흥구석유",
+"lead_ret": 29.99,
+"second": "중앙에너비스",
+"second_ret": 23.44
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 9.16,
+"up5": 12,
+"lead": "우성",
+"lead_ret": 29.88,
+"second": "대성미생물",
+"second_ret": 29.65
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 8.26,
+"up5": 5,
+"lead": "흥구석유",
+"lead_ret": 29.99,
+"second": "S-Oil",
+"second_ret": 8.12
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 8.21,
+"up5": 3,
+"lead": "LX인터내셔널",
+"lead_ret": 29.67,
+"second": "포스코인터내셔널",
+"second_ret": 12.55
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 7.98,
+"up5": 7,
+"lead": "흥구석유",
+"lead_ret": 29.99,
+"second": "중앙에너비스",
+"second_ret": 23.44
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 7.24,
+"up5": 3,
+"lead": "LX인터내셔널",
+"lead_ret": 29.67,
+"second": "포스코인터내셔널",
+"second_ret": 12.55
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 7.12,
+"up5": 5,
+"lead": "체시스",
+"lead_ret": 29.91,
+"second": "효성오앤비",
+"second_ret": 11.52
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.66,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 2.35,
+"second": "한화손해보험",
+"second_ret": 1.48
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 1.17,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 3.08,
+"second": "한진칼",
+"second_ret": 2.19
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 1.49,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 3.08,
+"second": "KCC",
+"second_ret": 2.3
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.5,
+"up5": 0,
+"lead": "휴스틸",
+"lead_ret": 3.33,
+"second": "디케이락",
+"second_ret": 3.28
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 1.6,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 6.71,
+"second": "코콤",
+"second_ret": 4.38
+}
+],
+"leaders": [
+{
+"name": "우성",
+"code": "006980",
+"ret": 29.88,
+"value": 3717,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 19.51,
+"value": 3585,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "이월드",
+"code": "084680",
+"ret": 22.77,
+"value": 2633,
+"theme": "토스(toss)",
+"reason": "테마: 토스(toss)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 29.99,
+"value": 2357,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 18.38,
+"value": 2078,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+}
+],
+"backfilled": true
+}

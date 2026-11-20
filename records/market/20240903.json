@@ -1,0 +1,246 @@
+{
+"date": "20240903",
+"kospi": -0.61,
+"kosdaq": -1.15,
+"adv": 876,
+"dec": 1265,
+"flat": 140,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 147005,
+"hot": [
+{
+"name": "STO(토큰증권 발행)",
+"n": 8,
+"lead": "핑거",
+"lead_ret": 30.0,
+"second": "갤럭시아에스엠",
+"second_ret": 30.0
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 26.98,
+"second": "FSN",
+"second_ret": 20.82
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 10.45,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 27.23,
+"second": "갤럭시아머니트리",
+"second_ret": 26.98
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 9.03,
+"up5": 11,
+"lead": "핑거",
+"lead_ret": 30.0,
+"second": "갤럭시아에스엠",
+"second_ret": 30.0
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 6.55,
+"up5": 7,
+"lead": "갤럭시아에스엠",
+"lead_ret": 30.0,
+"second": "핑거",
+"second_ret": 30.0
+},
+{
+"name": "스테이블코인",
+"n": 22,
+"avg": 4.09,
+"up5": 5,
+"lead": "핑거",
+"lead_ret": 30.0,
+"second": "한국정보인증",
+"second_ret": 18.94
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 3.98,
+"up5": 2,
+"lead": "핑거",
+"lead_ret": 30.0,
+"second": "아이티아이즈",
+"second_ret": 7.99
+},
+{
+"name": "퓨리오사AI",
+"n": 9,
+"avg": 3.65,
+"up5": 2,
+"lead": "유라클",
+"lead_ret": 27.23,
+"second": "아이티센글로벌",
+"second_ret": 5.93
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 2.95,
+"up5": 2,
+"lead": "갤럭시아머니트리",
+"lead_ret": 26.98,
+"second": "KCTC",
+"second_ret": 10.28
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.91,
+"up5": 4,
+"lead": "핑거",
+"lead_ret": 30.0,
+"second": "갤럭시아머니트리",
+"second_ret": 26.98
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 23,
+"avg": 2.87,
+"up5": 3,
+"lead": "핑거",
+"lead_ret": 30.0,
+"second": "유라클",
+"second_ret": 27.23
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 2.62,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 26.98,
+"second": "다날",
+"second_ret": 3.41
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 2.41,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 26.98,
+"second": "FSN",
+"second_ret": 20.82
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.37,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": 4.72,
+"second": "흥국화재",
+"second_ret": 4.18
+}
+],
+"themes_worst": [
+{
+"name": "아이폰",
+"n": 20,
+"avg": -2.6,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": 0.54,
+"second": "슈피겐코리아",
+"second_ret": 0.0
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.37,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -0.41,
+"second": "파미셀",
+"second_ret": -0.7
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.35,
+"up5": 0,
+"lead": "메디포스트",
+"lead_ret": -0.33,
+"second": "강스템바이오텍",
+"second_ret": -1.46
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.22,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": 0.09,
+"second": "엑시콘",
+"second_ret": -1.32
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.19,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 0.62,
+"second": "코리아써키트",
+"second_ret": 0.09
+}
+],
+"leaders": [
+{
+"name": "라메디텍",
+"code": "462510",
+"ret": 12.29,
+"value": 3046,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 26.98,
+"value": 2150,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "뱅크웨어글로벌",
+"code": "199480",
+"ret": 13.27,
+"value": 2085,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "유라클",
+"code": "088340",
+"ret": 27.23,
+"value": 1858,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "갤럭시아에스엠",
+"code": "011420",
+"ret": 30.0,
+"value": 745,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+}
+],
+"backfilled": true
+}

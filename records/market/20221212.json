@@ -1,0 +1,254 @@
+{
+"date": "20221212",
+"kospi": -0.67,
+"kosdaq": -0.59,
+"adv": 787,
+"dec": 1148,
+"flat": 190,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 93853,
+"hot": [
+{
+"name": "영상콘텐츠",
+"n": 4,
+"lead": "에이스토리",
+"lead_ret": 7.21,
+"second": "스튜디오드래곤",
+"second_ret": 6.98
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "국제약품",
+"lead_ret": 29.77,
+"second": "녹십자웰빙",
+"second_ret": 16.27
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "솔본",
+"lead_ret": 13.06,
+"second": "제일파마홀딩스",
+"second_ret": 8.46
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 4.75,
+"up5": 2,
+"lead": "국제약품",
+"lead_ret": 29.77,
+"second": "멕아이씨에스",
+"second_ret": 18.08
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 1.95,
+"up5": 9,
+"lead": "국제약품",
+"lead_ret": 29.77,
+"second": "녹십자웰빙",
+"second_ret": 16.27
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.62,
+"up5": 2,
+"lead": "모비스",
+"lead_ret": 13.1,
+"second": "서남",
+"second_ret": 11.63
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.58,
+"up5": 2,
+"lead": "CJ ENM",
+"lead_ret": 6.95,
+"second": "콘텐트리중앙",
+"second_ret": 6.19
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.56,
+"up5": 1,
+"lead": "모비스",
+"lead_ret": 13.1,
+"second": "비츠로테크",
+"second_ret": 4.65
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": 1.55,
+"up5": 2,
+"lead": "핑거스토리",
+"lead_ret": 21.88,
+"second": "디앤씨미디어",
+"second_ret": 5.56
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 1.51,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 5.47,
+"second": "코콤",
+"second_ret": 3.23
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 1.48,
+"up5": 2,
+"lead": "밸로프",
+"lead_ret": 12.5,
+"second": "위메이드",
+"second_ret": 10.12
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.43,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 10.12,
+"second": "에이스토리",
+"second_ret": 7.21
+},
+{
+"name": "게임",
+"n": 29,
+"avg": 1.32,
+"up5": 2,
+"lead": "밸로프",
+"lead_ret": 12.5,
+"second": "위메이드",
+"second_ret": 10.12
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.31,
+"up5": 2,
+"lead": "CJ ENM",
+"lead_ret": 6.95,
+"second": "YG PLUS",
+"second_ret": 6.16
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 1.31,
+"up5": 2,
+"lead": "토마토시스템",
+"lead_ret": 5.83,
+"second": "인피니트헬스케어",
+"second_ret": 5.15
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -4.11,
+"up5": 0,
+"lead": "데브시스터즈",
+"lead_ret": 3.84,
+"second": "대원미디어",
+"second_ret": 0.0
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.94,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": -0.35,
+"second": "삼성물산",
+"second_ret": -0.84
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.82,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -0.84,
+"second": "IPARK현대산업개발",
+"second_ret": -1.4
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -2.09,
+"up5": 0,
+"lead": "대한화섬",
+"lead_ret": 0.0,
+"second": "태광산업",
+"second_ret": -0.55
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -2.06,
+"up5": 0,
+"lead": "SGC E&C",
+"lead_ret": 0.0,
+"second": "대원",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "핑거스토리",
+"code": "417180",
+"ret": 21.88,
+"value": 2833,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 24.42,
+"value": 2629,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 10.12,
+"value": 1449,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 29.77,
+"value": 667,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "녹십자웰빙",
+"code": "234690",
+"ret": 16.27,
+"value": 580,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

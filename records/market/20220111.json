@@ -1,0 +1,254 @@
+{
+"date": "20220111",
+"kospi": 0.02,
+"kosdaq": -1.07,
+"adv": 352,
+"dec": 1588,
+"flat": 118,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 191864,
+"hot": [
+{
+"name": "전기차",
+"n": 6,
+"lead": "삼화콘덴서",
+"lead_ret": 21.47,
+"second": "나라엠앤디",
+"second_ret": 14.08
+},
+{
+"name": "2차전지",
+"n": 5,
+"lead": "나라엠앤디",
+"lead_ret": 14.08,
+"second": "티에스아이",
+"second_ret": 11.28
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "옵티팜",
+"lead_ret": 29.61,
+"second": "일동제약",
+"second_ret": 10.18
+}
+],
+"themes": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.96,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 21.47,
+"second": "비츠로테크",
+"second_ret": 0.32
+},
+{
+"name": "온디바이스 AI",
+"n": 17,
+"avg": 1.55,
+"up5": 1,
+"lead": "텔레칩스",
+"lead_ret": 22.29,
+"second": "어보브반도체",
+"second_ret": 4.1
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 1.48,
+"up5": 0,
+"lead": "제일약품",
+"lead_ret": 3.83,
+"second": "파미셀",
+"second_ret": 1.56
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.14,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.81,
+"second": "LG디스플레이",
+"second_ret": 2.31
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 0.95,
+"up5": 1,
+"lead": "삼화콘덴서",
+"lead_ret": 21.47,
+"second": "아모텍",
+"second_ret": 1.12
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 0.87,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 4.3,
+"second": "KB금융",
+"second_ret": 3.81
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 0.64,
+"up5": 3,
+"lead": "옵티팜",
+"lead_ret": 29.61,
+"second": "일동제약",
+"second_ret": 10.18
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 0.62,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 3.38,
+"second": "삼화전자",
+"second_ret": 2.32
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.37,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 2.81,
+"second": "삼성전자",
+"second_ret": 1.15
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 0.34,
+"up5": 1,
+"lead": "솔디펜스",
+"lead_ret": 23.08,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 1.06
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 0.33,
+"up5": 1,
+"lead": "성호전자",
+"lead_ret": 11.61,
+"second": "한국첨단소재",
+"second_ret": 2.31
+},
+{
+"name": "보안주(물리)",
+"n": 14,
+"avg": 0.28,
+"up5": 1,
+"lead": "피제이전자",
+"lead_ret": 29.61,
+"second": "앤씨앤",
+"second_ret": 2.75
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.74,
+"up5": 0,
+"lead": "유비벨록스",
+"lead_ret": -0.26,
+"second": "퀀텀레일",
+"second_ret": -2.44
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -4.34,
+"up5": 0,
+"lead": "광무",
+"lead_ret": -0.4,
+"second": "오파스넷",
+"second_ret": -1.56
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -4.17,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.15,
+"second": "NAVER",
+"second_ret": 0.0
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": -3.94,
+"up5": 0,
+"lead": "에이티넘인베스트",
+"lead_ret": 1.54,
+"second": "비트플래닛",
+"second_ret": 0.0
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -3.92,
+"up5": 0,
+"lead": "밸로프",
+"lead_ret": 0.75,
+"second": "썸에이지",
+"second_ret": 0.46
+}
+],
+"leaders": [
+{
+"name": "텔레칩스",
+"code": "054450",
+"ret": 22.29,
+"value": 4168,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "삼화콘덴서",
+"code": "001820",
+"ret": 21.47,
+"value": 3656,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 10.18,
+"value": 1715,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "솔디펜스",
+"code": "215090",
+"ret": 23.08,
+"value": 1117,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "모다이노칩",
+"code": "080420",
+"ret": 29.97,
+"value": 1041,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+}
+],
+"backfilled": true
+}

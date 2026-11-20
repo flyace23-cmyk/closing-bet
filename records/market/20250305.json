@@ -1,0 +1,254 @@
+{
+"date": "20250305",
+"kospi": 1.16,
+"kosdaq": 1.23,
+"adv": 1712,
+"dec": 524,
+"flat": 102,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 190962,
+"hot": [
+{
+"name": "남-북-러 가스관사업",
+"n": 7,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "KBI동양철관",
+"second_ret": 29.95
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 4,
+"lead": "HJ중공업",
+"lead_ret": 14.38,
+"second": "SNT에너지",
+"second_ret": 14.2
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "클로봇",
+"lead_ret": 17.93,
+"second": "원익홀딩스",
+"second_ret": 17.22
+}
+],
+"themes": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 14.77,
+"up5": 10,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "KBI동양철관",
+"second_ret": 29.95
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 10.45,
+"up5": 5,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "KBI동양철관",
+"second_ret": 29.95
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 9.49,
+"up5": 5,
+"lead": "화성밸브",
+"lead_ret": 29.89,
+"second": "한선엔지니어링",
+"second_ret": 19.5
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 7.79,
+"up5": 7,
+"lead": "포스코인터내셔널",
+"lead_ret": 15.31,
+"second": "SNT에너지",
+"second_ret": 14.2
+},
+{
+"name": "철강 중소형",
+"n": 34,
+"avg": 6.53,
+"up5": 14,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "KBI동양철관",
+"second_ret": 29.95
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 5.91,
+"up5": 9,
+"lead": "전진건설로봇",
+"lead_ret": 13.54,
+"second": "진성티이씨",
+"second_ret": 9.82
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 5.62,
+"up5": 4,
+"lead": "STX그린로지스",
+"lead_ret": 9.17,
+"second": "팬오션",
+"second_ret": 6.3
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 5.21,
+"up5": 11,
+"lead": "HJ중공업",
+"lead_ret": 14.38,
+"second": "SNT에너지",
+"second_ret": 14.2
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 5.1,
+"up5": 21,
+"lead": "포스코인터내셔널",
+"lead_ret": 15.31,
+"second": "전진건설로봇",
+"second_ret": 13.54
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 5.08,
+"up5": 3,
+"lead": "포스코인터내셔널",
+"lead_ret": 15.31,
+"second": "현대코퍼레이션",
+"second_ret": 8.49
+},
+{
+"name": "수자원(양적/질적 개선)",
+"n": 26,
+"avg": 4.99,
+"up5": 6,
+"lead": "하이스틸",
+"lead_ret": 29.97,
+"second": "KBI동양철관",
+"second_ret": 29.95
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.9,
+"up5": 4,
+"lead": "IPARK현대산업개발",
+"lead_ret": 8.68,
+"second": "현대건설",
+"second_ret": 6.02
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 10,
+"avg": -1.6,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.66,
+"second": "제주은행",
+"second_ret": 0.26
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -0.64,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": 2.96,
+"second": "기가비스",
+"second_ret": 2.92
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -0.5,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 2.6,
+"second": "케이씨피드",
+"second_ret": 2.23
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -0.46,
+"up5": 1,
+"lead": "에프엔씨엔터",
+"lead_ret": 6.67,
+"second": "카카오",
+"second_ret": 2.86
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": -0.37,
+"up5": 1,
+"lead": "에프엔씨엔터",
+"lead_ret": 6.67,
+"second": "팬엔터테인먼트",
+"second_ret": 4.16
+}
+],
+"leaders": [
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 17.93,
+"value": 5152,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "넥스틸",
+"code": "092790",
+"ret": 12.8,
+"value": 4550,
+"theme": "강관업체(Steel pipe)",
+"reason": "테마: 강관업체(Steel pipe)"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 15.31,
+"value": 4452,
+"theme": "셰일가스(Shale Gas)",
+"reason": "테마: 셰일가스(Shale Gas)"
+},
+{
+"name": "휴스틸",
+"code": "005010",
+"ret": 15.89,
+"value": 3130,
+"theme": "남-북-러 가스관사업",
+"reason": "테마: 남-북-러 가스관사업"
+},
+{
+"name": "한국가스공사",
+"code": "036460",
+"ret": 12.8,
+"value": 2767,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+}
+],
+"backfilled": true
+}

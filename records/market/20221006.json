@@ -1,0 +1,246 @@
+{
+"date": "20221006",
+"kospi": 1.02,
+"kosdaq": 3.02,
+"adv": 1835,
+"dec": 175,
+"flat": 91,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 111671,
+"hot": [
+{
+"name": "2차전지",
+"n": 3,
+"lead": "미코",
+"lead_ret": 21.8,
+"second": "아바코",
+"second_ret": 10.04
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "에코글로우",
+"lead_ret": 29.66,
+"second": "에이블씨엔씨",
+"second_ret": 13.84
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 7.28,
+"up5": 2,
+"lead": "흥아해운",
+"lead_ret": 22.27,
+"second": "대한해운",
+"second_ret": 6.3
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 6.31,
+"up5": 5,
+"lead": "무림페이퍼",
+"lead_ret": 27.8,
+"second": "무림SP",
+"second_ret": 16.2
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 6.08,
+"up5": 9,
+"lead": "중앙첨단소재",
+"lead_ret": 29.85,
+"second": "미래산업",
+"second_ret": 12.95
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 10,
+"avg": 5.78,
+"up5": 4,
+"lead": "미코",
+"lead_ret": 21.8,
+"second": "비에이치아이",
+"second_ret": 9.62
+},
+{
+"name": "의료AI",
+"n": 18,
+"avg": 4.92,
+"up5": 7,
+"lead": "신테카바이오",
+"lead_ret": 13.34,
+"second": "인성정보",
+"second_ret": 9.21
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.83,
+"up5": 2,
+"lead": "성우전자",
+"lead_ret": 7.35,
+"second": "이루온",
+"second_ret": 5.84
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 4.74,
+"up5": 8,
+"lead": "아모텍",
+"lead_ret": 7.9,
+"second": "성우전자",
+"second_ret": 7.35
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 4.73,
+"up5": 8,
+"lead": "미코",
+"lead_ret": 21.8,
+"second": "아바코",
+"second_ret": 10.04
+},
+{
+"name": "반도체 장비",
+"n": 80,
+"avg": 4.64,
+"up5": 23,
+"lead": "더코디",
+"lead_ret": 29.99,
+"second": "라온로보틱스",
+"second_ret": 14.63
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.56,
+"up5": 1,
+"lead": "리튬포어스",
+"lead_ret": 11.84,
+"second": "데브시스터즈",
+"second_ret": 4.8
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 4.53,
+"up5": 4,
+"lead": "더블유씨피",
+"lead_ret": 8.88,
+"second": "에코프로",
+"second_ret": 7.31
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 4.51,
+"up5": 2,
+"lead": "한화오션",
+"lead_ret": 8.53,
+"second": "HD한국조선해양",
+"second_ret": 6.28
+}
+],
+"themes_worst": [
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.32,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 3.36,
+"second": "이마트",
+"second_ret": 0.48
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.23,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.29,
+"second": "한화손해보험",
+"second_ret": 0.65
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 0.11,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 2.49,
+"second": "JB금융지주",
+"second_ret": 1.83
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 0.22,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.35,
+"second": "IPARK현대산업개발",
+"second_ret": 1.88
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 0.63,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 2.96,
+"second": "HL만도",
+"second_ret": 1.55
+}
+],
+"leaders": [
+{
+"name": "미코",
+"code": "059090",
+"ret": 21.8,
+"value": 2312,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "리튬포어스",
+"code": "073570",
+"ret": 11.84,
+"value": 1328,
+"theme": "캐릭터상품",
+"reason": "테마: 캐릭터상품"
+},
+{
+"name": "오토앤",
+"code": "353590",
+"ret": 12.65,
+"value": 888,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 14.46,
+"value": 732,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 21.88,
+"value": 677,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

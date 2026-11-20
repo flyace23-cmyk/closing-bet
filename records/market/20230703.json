@@ -1,0 +1,254 @@
+{
+"date": "20230703",
+"kospi": 1.49,
+"kosdaq": 2.42,
+"adv": 1497,
+"dec": 552,
+"flat": 120,
+"limit_up": 1,
+"limit_down": 4,
+"value_total": 186489,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 7,
+"lead": "신성이엔지",
+"lead_ret": 26.55,
+"second": "티에프이",
+"second_ret": 21.31
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 4,
+"lead": "아고스",
+"lead_ret": 22.51,
+"second": "이노인스트루먼트",
+"second_ret": 11.76
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "에코프로",
+"lead_ret": 20.42,
+"second": "케이엔솔",
+"second_ret": 14.08
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 7.19,
+"up5": 2,
+"lead": "신성이엔지",
+"lead_ret": 26.55,
+"second": "케이엔솔",
+"second_ret": 14.08
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 5.36,
+"up5": 3,
+"lead": "에코프로",
+"lead_ret": 20.42,
+"second": "삼성SDI",
+"second_ret": 7.17
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 4.28,
+"up5": 6,
+"lead": "에코프로",
+"lead_ret": 20.42,
+"second": "중앙첨단소재",
+"second_ret": 10.83
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.18,
+"up5": 5,
+"lead": "이수페타시스",
+"lead_ret": 11.35,
+"second": "티엘비",
+"second_ret": 10.22
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 4.17,
+"up5": 3,
+"lead": "프로텍",
+"lead_ret": 19.3,
+"second": "제너셈",
+"second_ret": 8.22
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 3.94,
+"up5": 10,
+"lead": "피에스케이홀딩스",
+"lead_ret": 14.35,
+"second": "오로스테크놀로지",
+"second_ret": 14.29
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 3.92,
+"up5": 5,
+"lead": "칩스앤미디어",
+"lead_ret": 22.1,
+"second": "에이디테크놀로지",
+"second_ret": 13.83
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.87,
+"up5": 3,
+"lead": "티에프이",
+"lead_ret": 21.31,
+"second": "티엘비",
+"second_ret": 10.22
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.69,
+"up5": 1,
+"lead": "신성이엔지",
+"lead_ret": 26.55,
+"second": "코오롱인더",
+"second_ret": 4.7
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 3.62,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 20.42,
+"second": "킵스파마",
+"second_ret": 5.59
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.53,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 19.3,
+"second": "레이저쎌",
+"second_ret": 4.73
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 3.53,
+"up5": 6,
+"lead": "한농화성",
+"lead_ret": 10.96,
+"second": "삼성SDI",
+"second_ret": 7.17
+}
+],
+"themes_worst": [
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": -1.24,
+"up5": 0,
+"lead": "DI동일",
+"lead_ret": 1.42,
+"second": "IPARK현대산업개발",
+"second_ret": 1.32
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": -1.21,
+"up5": 1,
+"lead": "대창단조",
+"lead_ret": 5.37,
+"second": "디와이파워",
+"second_ret": 2.2
+},
+{
+"name": "탈모 치료",
+"n": 24,
+"avg": -0.79,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 3.01,
+"second": "바이오니아",
+"second_ret": 2.77
+},
+{
+"name": "비만치료제",
+"n": 34,
+"avg": -0.46,
+"up5": 0,
+"lead": "한국비엔씨",
+"lead_ret": 4.27,
+"second": "LG화학",
+"second_ret": 3.6
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.41,
+"up5": 0,
+"lead": "크리스탈신소재",
+"lead_ret": 1.52,
+"second": "헝셩그룹",
+"second_ret": 0.96
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 20.42,
+"value": 26815,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 11.35,
+"value": 4777,
+"theme": "5G(5세대 이동통신)",
+"reason": "테마: 5G(5세대 이동통신)"
+},
+{
+"name": "신성이엔지",
+"code": "011930",
+"ret": 26.55,
+"value": 4230,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 12.39,
+"value": 2806,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 22.1,
+"value": 2367,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+}
+],
+"backfilled": true
+}

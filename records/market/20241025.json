@@ -1,0 +1,254 @@
+{
+"date": "20241025",
+"kospi": 0.09,
+"kosdaq": -0.98,
+"adv": 595,
+"dec": 1579,
+"flat": 118,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 149209,
+"hot": [
+{
+"name": "PCB(FPCB 등)",
+"n": 4,
+"lead": "와이제이링크",
+"lead_ret": 11.55,
+"second": "아모그린텍",
+"second_ret": 11.38
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "에이직랜드",
+"lead_ret": 20.42,
+"second": "디아이",
+"second_ret": 14.82
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "아모그린텍",
+"lead_ret": 11.38,
+"second": "삼화전기",
+"second_ret": 10.94
+}
+],
+"themes": [
+{
+"name": "은행",
+"n": 10,
+"avg": 3.0,
+"up5": 1,
+"lead": "KB금융",
+"lead_ret": 8.37,
+"second": "하나금융지주",
+"second_ret": 4.07
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.87,
+"up5": 1,
+"lead": "에이직랜드",
+"lead_ret": 20.42,
+"second": "자람테크놀로지",
+"second_ret": 2.23
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.69,
+"up5": 2,
+"lead": "티웨이홀딩스",
+"lead_ret": 24.65,
+"second": "트리니티항공",
+"second_ret": 7.79
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 1.74,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 3.27,
+"second": "삼성화재",
+"second_ret": 2.89
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.34,
+"up5": 3,
+"lead": "오파스넷",
+"lead_ret": 10.65,
+"second": "폴라리스오피스",
+"second_ret": 6.64
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 1.18,
+"up5": 1,
+"lead": "넥스턴앤롤코리아",
+"lead_ret": 29.89,
+"second": "화천기계",
+"second_ret": 1.28
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 1.12,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 8.84,
+"second": "샘표식품",
+"second_ret": -0.18
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 1.05,
+"up5": 1,
+"lead": "케이씨에스",
+"lead_ret": 11.18,
+"second": "풍산",
+"second_ret": 1.87
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 0.97,
+"up5": 4,
+"lead": "현대에버다임",
+"lead_ret": 7.89,
+"second": "대모",
+"second_ret": 6.98
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 0.82,
+"up5": 1,
+"lead": "오파스넷",
+"lead_ret": 10.65,
+"second": "인성정보",
+"second_ret": 2.19
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.76,
+"up5": 1,
+"lead": "SK스퀘어",
+"lead_ret": 6.11,
+"second": "SK하이닉스",
+"second_ret": 1.41
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": 0.72,
+"up5": 2,
+"lead": "KB금융",
+"lead_ret": 8.37,
+"second": "한세예스24홀딩스",
+"second_ret": 5.27
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 6,
+"avg": -2.95,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": -0.95,
+"second": "HMM",
+"second_ret": -1.29
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": -2.66,
+"up5": 0,
+"lead": "아모센스",
+"lead_ret": 0.85,
+"second": "LS",
+"second_ret": -0.55
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 13,
+"avg": -2.64,
+"up5": 0,
+"lead": "신흥",
+"lead_ret": 0.21,
+"second": "한국피아이엠",
+"second_ret": 0.0
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": -2.48,
+"up5": 0,
+"lead": "에스피지",
+"lead_ret": 0.73,
+"second": "코웨이",
+"second_ret": -0.46
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.43,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": 0.31,
+"second": "윙입푸드",
+"second_ret": 0.25
+}
+],
+"leaders": [
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 10.11,
+"value": 4318,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "와이제이링크",
+"code": "209640",
+"ret": 11.55,
+"value": 4167,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "에이직랜드",
+"code": "445090",
+"ret": 20.42,
+"value": 2402,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 14.82,
+"value": 634,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "넥스턴앤롤코리아",
+"code": "089140",
+"ret": 29.89,
+"value": 506,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+}
+],
+"backfilled": true
+}

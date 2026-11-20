@@ -1,0 +1,254 @@
+{
+"date": "20230526",
+"kospi": 0.16,
+"kosdaq": -0.53,
+"adv": 535,
+"dec": 1504,
+"flat": 120,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 159253,
+"hot": [
+{
+"name": "페라이트",
+"n": 4,
+"lead": "상신전자",
+"lead_ret": 30.0,
+"second": "삼화전자",
+"second_ret": 18.58
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "레이저쎌",
+"lead_ret": 18.35,
+"second": "서플러스글로벌",
+"second_ret": 10.69
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "3S",
+"lead_ret": 29.62,
+"second": "케이엔제이",
+"second_ret": 8.98
+}
+],
+"themes": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": 5.75,
+"up5": 6,
+"lead": "상신전자",
+"lead_ret": 30.0,
+"second": "삼화전자",
+"second_ret": 18.58
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 5.75,
+"up5": 6,
+"lead": "상신전자",
+"lead_ret": 30.0,
+"second": "삼화전자",
+"second_ret": 18.58
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.44,
+"up5": 1,
+"lead": "3S",
+"lead_ret": 29.62,
+"second": "유니셈",
+"second_ret": 3.61
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 1.66,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 9.18,
+"second": "덕산하이메탈",
+"second_ret": 5.8
+},
+{
+"name": "전력반도체",
+"n": 15,
+"avg": 1.52,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.51,
+"second": "DB하이텍",
+"second_ret": 4.06
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 1.52,
+"up5": 3,
+"lead": "HPSP",
+"lead_ret": 7.25,
+"second": "에이팩트",
+"second_ret": 6.07
+},
+{
+"name": "시스템반도체",
+"n": 46,
+"avg": 1.48,
+"up5": 6,
+"lead": "이미지스",
+"lead_ret": 18.57,
+"second": "매커스",
+"second_ret": 9.66
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 11,
+"avg": 1.46,
+"up5": 2,
+"lead": "엑시콘",
+"lead_ret": 6.27,
+"second": "SK하이닉스",
+"second_ret": 5.51
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 1.44,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.51,
+"second": "삼성전자",
+"second_ret": 2.18
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 1.4,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.51,
+"second": "코리아써키트",
+"second_ret": 4.28
+},
+{
+"name": "반도체 재료/부품",
+"n": 64,
+"avg": 1.24,
+"up5": 6,
+"lead": "3S",
+"lead_ret": 29.62,
+"second": "케이엔제이",
+"second_ret": 8.98
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.06,
+"up5": 1,
+"lead": "SK하이닉스",
+"lead_ret": 5.51,
+"second": "삼성전자",
+"second_ret": 2.18
+}
+],
+"themes_worst": [
+{
+"name": "해운",
+"n": 5,
+"avg": -3.37,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": -0.66,
+"second": "KSS해운",
+"second_ret": -1.21
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -3.12,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": -2.09,
+"second": "우양",
+"second_ret": -2.18
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.54,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": -0.9,
+"second": "손오공",
+"second_ret": -1.21
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -2.4,
+"up5": 0,
+"lead": "교촌에프앤비",
+"lead_ret": -0.22,
+"second": "이지홀딩스",
+"second_ret": -1.51
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -2.29,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": 2.56,
+"second": "미래생명자원",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "라이콤",
+"code": "388790",
+"ret": 18.08,
+"value": 2696,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 10.83,
+"value": 1992,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "삼화전자",
+"code": "011230",
+"ret": 18.58,
+"value": 1825,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 11.16,
+"value": 1779,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "씨큐브",
+"code": "101240",
+"ret": 11.02,
+"value": 1637,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+}
+],
+"backfilled": true
+}

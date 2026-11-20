@@ -1,0 +1,254 @@
+{
+"date": "20240722",
+"kospi": -1.14,
+"kosdaq": -2.26,
+"adv": 488,
+"dec": 1686,
+"flat": 94,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 164775,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 8,
+"lead": "현대에버다임",
+"lead_ret": 29.96,
+"second": "대모",
+"second_ret": 29.93
+},
+{
+"name": "비만치료제",
+"n": 4,
+"lead": "올릭스",
+"lead_ret": 20.65,
+"second": "시너지이노베이션",
+"second_ret": 16.73
+},
+{
+"name": "보안주(정보)",
+"n": 3,
+"lead": "SGA솔루션즈",
+"lead_ret": 19.88,
+"second": "모니터랩",
+"second_ret": 8.71
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 15,
+"avg": 7.56,
+"up5": 6,
+"lead": "현대에버다임",
+"lead_ret": 29.96,
+"second": "대모",
+"second_ret": 29.93
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": 5.1,
+"up5": 14,
+"lead": "현대에버다임",
+"lead_ret": 29.96,
+"second": "대모",
+"second_ret": 29.93
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.51,
+"up5": 2,
+"lead": "HD한국조선해양",
+"lead_ret": 7.18,
+"second": "HJ중공업",
+"second_ret": 5.19
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.22,
+"up5": 2,
+"lead": "현대에버다임",
+"lead_ret": 29.96,
+"second": "희림",
+"second_ret": 17.6
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 2.21,
+"up5": 3,
+"lead": "성광벤드",
+"lead_ret": 7.57,
+"second": "태광",
+"second_ret": 6.97
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.55,
+"up5": 3,
+"lead": "DXVX",
+"lead_ret": 14.91,
+"second": "아모레퍼시픽",
+"second_ret": 8.88
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 1.53,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 13.23,
+"second": "스페코",
+"second_ret": 2.43
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 1.48,
+"up5": 3,
+"lead": "덕신이피씨",
+"lead_ret": 5.67,
+"second": "금강공업",
+"second_ret": 5.37
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 1.46,
+"up5": 3,
+"lead": "SGA솔루션즈",
+"lead_ret": 19.88,
+"second": "갤럭시아머니트리",
+"second_ret": 12.11
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 1.2,
+"up5": 1,
+"lead": "DXVX",
+"lead_ret": 14.91,
+"second": "수젠텍",
+"second_ret": 2.01
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 1.01,
+"up5": 3,
+"lead": "남광토건",
+"lead_ret": 8.17,
+"second": "유신",
+"second_ret": 7.12
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 0.99,
+"up5": 1,
+"lead": "포커스에이아이",
+"lead_ret": 18.61,
+"second": "DGI",
+"second_ret": 0.0
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -4.84,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": -3.82,
+"second": "애경케미칼",
+"second_ret": -3.82
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": -4.68,
+"up5": 0,
+"lead": "아이엘",
+"lead_ret": -0.65,
+"second": "레몬",
+"second_ret": -0.73
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -4.17,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": -1.01,
+"second": "유니테스트",
+"second_ret": -1.02
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -4.08,
+"up5": 0,
+"lead": "금양그린파워",
+"lead_ret": 0.32,
+"second": "한선엔지니어링",
+"second_ret": 0.19
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -4.03,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.66,
+"second": "네패스",
+"second_ret": -2.92
+}
+],
+"leaders": [
+{
+"name": "현대에버다임",
+"code": "041440",
+"ret": 29.96,
+"value": 2107,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 12.11,
+"value": 2094,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "HD건설기계",
+"code": "267270",
+"ret": 15.91,
+"value": 1082,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "대모",
+"code": "317850",
+"ret": 29.93,
+"value": 1082,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "DXVX",
+"code": "180400",
+"ret": 14.91,
+"value": 923,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+}
+],
+"backfilled": true
+}

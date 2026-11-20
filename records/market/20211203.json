@@ -1,0 +1,254 @@
+{
+"date": "20211203",
+"kospi": 0.78,
+"kosdaq": 2.15,
+"adv": 1688,
+"dec": 249,
+"flat": 121,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 234562,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "넥써쓰",
+"lead_ret": 29.87,
+"second": "네오리진",
+"second_ret": 29.61
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "덴티움",
+"lead_ret": 12.68,
+"second": "엘앤씨바이오",
+"second_ret": 9.72
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "링크드",
+"lead_ret": 14.37,
+"second": "웹스",
+"second_ret": 11.28
+}
+],
+"themes": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 5.43,
+"up5": 13,
+"lead": "넥써쓰",
+"lead_ret": 29.87,
+"second": "네오리진",
+"second_ret": 29.61
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 5.42,
+"up5": 10,
+"lead": "넥써쓰",
+"lead_ret": 29.87,
+"second": "네오리진",
+"second_ret": 29.61
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 4.52,
+"up5": 9,
+"lead": "에스엠",
+"lead_ret": 11.32,
+"second": "다날",
+"second_ret": 9.48
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 4.35,
+"up5": 4,
+"lead": "덴티움",
+"lead_ret": 12.68,
+"second": "디오",
+"second_ret": 9.45
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 4.21,
+"up5": 2,
+"lead": "씨아이테크",
+"lead_ret": 29.69,
+"second": "웹스",
+"second_ret": 11.28
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 4.06,
+"up5": 6,
+"lead": "갤럭시아에스엠",
+"lead_ret": 12.4,
+"second": "다날",
+"second_ret": 9.48
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 3.93,
+"up5": 1,
+"lead": "세중",
+"lead_ret": 7.26,
+"second": "SM C&C",
+"second_ret": 4.99
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 3.86,
+"up5": 6,
+"lead": "위지트",
+"lead_ret": 21.39,
+"second": "다날",
+"second_ret": 9.48
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 3.81,
+"up5": 10,
+"lead": "에스엠",
+"lead_ret": 11.32,
+"second": "티엔엔터테인먼트",
+"second_ret": 8.35
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 3.68,
+"up5": 4,
+"lead": "링크드",
+"lead_ret": 14.37,
+"second": "나무가",
+"second_ret": 11.53
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.35,
+"up5": 2,
+"lead": "에이티넘인베스트",
+"lead_ret": 6.76,
+"second": "네오위즈",
+"second_ret": 5.86
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.31,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 4.86,
+"second": "한울앤제주",
+"second_ret": 4.12
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.99,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 1.38,
+"second": "엔브이에이치코리아",
+"second_ret": -0.87
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.67,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.19,
+"second": "한화오션",
+"second_ret": 0.0
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -0.65,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 2.05,
+"second": "에코플라스틱",
+"second_ret": 1.29
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.39,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 3.18,
+"second": "삼성생명",
+"second_ret": 0.76
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": -0.12,
+"up5": 0,
+"lead": "대교",
+"lead_ret": 1.05,
+"second": "네오셈",
+"second_ret": 0.71
+}
+],
+"leaders": [
+{
+"name": "위지트",
+"code": "036090",
+"ret": 21.39,
+"value": 2452,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "링크드",
+"code": "193250",
+"ret": 14.37,
+"value": 1738,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "네오리진",
+"code": "094860",
+"ret": 29.61,
+"value": 1479,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "넥써쓰",
+"code": "205500",
+"ret": 29.87,
+"value": 1122,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "유유제약",
+"code": "000220",
+"ret": 18.49,
+"value": 837,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

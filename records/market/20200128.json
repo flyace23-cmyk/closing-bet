@@ -1,0 +1,246 @@
+{
+"date": "20200128",
+"kospi": -3.09,
+"kosdaq": -3.04,
+"adv": 218,
+"dec": 1620,
+"flat": 65,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 148968,
+"hot": [
+{
+"name": "마스크",
+"n": 9,
+"lead": "깨끗한나라",
+"lead_ret": 29.95,
+"second": "국제약품",
+"second_ret": 29.91
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 7,
+"lead": "바디텍메드",
+"lead_ret": 30.0,
+"second": "파루",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "마스크",
+"n": 19,
+"avg": 13.98,
+"up5": 13,
+"lead": "깨끗한나라",
+"lead_ret": 29.95,
+"second": "국제약품",
+"second_ret": 29.91
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 11.64,
+"up5": 6,
+"lead": "멕아이씨에스",
+"lead_ret": 29.99,
+"second": "국제약품",
+"second_ret": 29.91
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 8.89,
+"up5": 20,
+"lead": "바디텍메드",
+"lead_ret": 30.0,
+"second": "파루",
+"second_ret": 29.89
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": 7.65,
+"up5": 9,
+"lead": "국제약품",
+"lead_ret": 29.91,
+"second": "모나리자",
+"second_ret": 29.86
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 5.24,
+"up5": 10,
+"lead": "녹십자엠에스",
+"lead_ret": 30.0,
+"second": "바디텍메드",
+"second_ret": 30.0
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": 3.83,
+"up5": 9,
+"lead": "파루",
+"lead_ret": 29.89,
+"second": "진바이오텍",
+"second_ret": 15.27
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 3.06,
+"up5": 3,
+"lead": "랩지노믹스",
+"lead_ret": 24.17,
+"second": "메디아나",
+"second_ret": 10.0
+},
+{
+"name": "제약업체",
+"n": 76,
+"avg": 2.97,
+"up5": 19,
+"lead": "국제약품",
+"lead_ret": 29.91,
+"second": "조아제약",
+"second_ret": 18.53
+},
+{
+"name": "치매",
+"n": 40,
+"avg": 2.76,
+"up5": 9,
+"lead": "수젠텍",
+"lead_ret": 29.87,
+"second": "모나리자",
+"second_ret": 29.86
+},
+{
+"name": "출산장려정책",
+"n": 17,
+"avg": 2.52,
+"up5": 4,
+"lead": "깨끗한나라",
+"lead_ret": 29.95,
+"second": "모나리자",
+"second_ret": 29.86
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": 2.37,
+"up5": 11,
+"lead": "녹십자엠에스",
+"lead_ret": 30.0,
+"second": "바디텍메드",
+"second_ret": 30.0
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 2.18,
+"up5": 2,
+"lead": "JW중외제약",
+"lead_ret": 14.01,
+"second": "일신바이오",
+"second_ret": 5.44
+}
+],
+"themes_worst": [
+{
+"name": "면세점",
+"n": 8,
+"avg": -9.67,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": -2.2,
+"second": "HDC",
+"second_ret": -5.88
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -7.1,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": -2.54,
+"second": "광주신세계",
+"second_ret": -2.95
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -7.09,
+"up5": 0,
+"lead": "레드캡투어",
+"lead_ret": -3.86,
+"second": "그래디언트",
+"second_ret": -4.74
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -6.87,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -3.04,
+"second": "코텍",
+"second_ret": -3.1
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -6.87,
+"up5": 0,
+"lead": "토비스",
+"lead_ret": -3.04,
+"second": "코텍",
+"second_ret": -3.1
+}
+],
+"leaders": [
+{
+"name": "크린앤사이언스",
+"code": "045520",
+"ret": 17.57,
+"value": 1526,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 25.41,
+"value": 1267,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "파루",
+"code": "043200",
+"ret": 29.89,
+"value": 1211,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "이글벳",
+"code": "044960",
+"ret": 11.74,
+"value": 1116,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+},
+{
+"name": "진양제약",
+"code": "007370",
+"ret": 13.37,
+"value": 1104,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

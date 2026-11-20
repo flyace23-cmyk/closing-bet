@@ -1,0 +1,254 @@
+{
+"date": "20201204",
+"kospi": 1.31,
+"kosdaq": 0.68,
+"adv": 633,
+"dec": 1193,
+"flat": 135,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 331058,
+"hot": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 4,
+"lead": "에스티팜",
+"lead_ret": 29.93,
+"second": "아미노로직스",
+"second_ret": 17.09
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "더라미",
+"lead_ret": 22.25,
+"second": "아이큐어",
+"second_ret": 16.93
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "프리엠스",
+"lead_ret": 29.7,
+"second": "에쓰씨엔지니어링",
+"second_ret": 14.03
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 7.25,
+"up5": 5,
+"lead": "에스티팜",
+"lead_ret": 29.93,
+"second": "아미노로직스",
+"second_ret": 17.09
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 5.32,
+"up5": 3,
+"lead": "IPARK현대산업개발",
+"lead_ret": 7.02,
+"second": "대우건설",
+"second_ret": 6.96
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.83,
+"up5": 3,
+"lead": "DSC인베스트먼트",
+"lead_ret": 13.15,
+"second": "이씨에스",
+"second_ret": 10.14
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.65,
+"up5": 3,
+"lead": "아이큐어",
+"lead_ret": 16.93,
+"second": "대한과학",
+"second_ret": 9.51
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.64,
+"up5": 1,
+"lead": "에스티팜",
+"lead_ret": 29.93,
+"second": "삼성바이오로직스",
+"second_ret": 2.48
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.54,
+"up5": 2,
+"lead": "대영포장",
+"lead_ret": 16.38,
+"second": "블루산업개발",
+"second_ret": 8.85
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 3.47,
+"up5": 2,
+"lead": "신풍",
+"lead_ret": 29.95,
+"second": "한국제지",
+"second_ret": 6.04
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.34,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 29.7,
+"second": "풍산",
+"second_ret": 3.97
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 3.17,
+"up5": 3,
+"lead": "현대제철",
+"lead_ret": 7.69,
+"second": "KG스틸",
+"second_ret": 7.49
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.12,
+"up5": 3,
+"lead": "에스와이",
+"lead_ret": 11.24,
+"second": "GS건설",
+"second_ret": 6.68
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 3.1,
+"up5": 2,
+"lead": "DSC인베스트먼트",
+"lead_ret": 13.15,
+"second": "메가엠디",
+"second_ret": 5.0
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 2.27,
+"up5": 1,
+"lead": "DSC인베스트먼트",
+"lead_ret": 13.15,
+"second": "TS인베스트먼트",
+"second_ret": 1.36
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -4.01,
+"up5": 0,
+"lead": "롯데관광개발",
+"lead_ret": 0.29,
+"second": "세중",
+"second_ret": -1.82
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -2.6,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 0.07,
+"second": "쎄니트",
+"second_ret": 0.0
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": -2.01,
+"up5": 0,
+"lead": "동방",
+"lead_ret": 2.57,
+"second": "에코프로",
+"second_ret": 1.35
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -1.92,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": -0.8,
+"second": "신세계",
+"second_ret": -1.05
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.81,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 0.76,
+"second": "KBI메탈",
+"second_ret": -0.26
+}
+],
+"leaders": [
+{
+"name": "에스티팜",
+"code": "237690",
+"ret": 29.93,
+"value": 5684,
+"theme": "mRNA(메신저 리보핵산)",
+"reason": "테마: mRNA(메신저 리보핵산)"
+},
+{
+"name": "대영포장",
+"code": "014160",
+"ret": 16.38,
+"value": 5391,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+},
+{
+"name": "신풍",
+"code": "002870",
+"ret": 29.95,
+"value": 2662,
+"theme": "제지",
+"reason": "테마: 제지"
+},
+{
+"name": "이씨에스",
+"code": "067010",
+"ret": 10.14,
+"value": 2268,
+"theme": "마켓컬리(kurly)",
+"reason": "테마: 마켓컬리(kurly)"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 11.24,
+"value": 1513,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

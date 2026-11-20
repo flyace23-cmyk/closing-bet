@@ -1,0 +1,254 @@
+{
+"date": "20200806",
+"kospi": 1.33,
+"kosdaq": 0.81,
+"adv": 898,
+"dec": 860,
+"flat": 170,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 273869,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "솔브레인홀딩스",
+"lead_ret": 30.0,
+"second": "켐트로스",
+"second_ret": 20.21
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "하나마이크론",
+"lead_ret": 25.67,
+"second": "켐트로스",
+"second_ret": 20.21
+},
+{
+"name": "원자력발전",
+"n": 3,
+"lead": "오르비텍",
+"lead_ret": 15.75,
+"second": "제일테크노스",
+"second_ret": 15.59
+}
+],
+"themes": [
+{
+"name": "비료",
+"n": 10,
+"avg": 4.76,
+"up5": 4,
+"lead": "효성오앤비",
+"lead_ret": 29.06,
+"second": "조비",
+"second_ret": 8.67
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 4.21,
+"up5": 3,
+"lead": "경농",
+"lead_ret": 14.79,
+"second": "조비",
+"second_ret": 8.67
+},
+{
+"name": "농업",
+"n": 21,
+"avg": 4.13,
+"up5": 7,
+"lead": "효성오앤비",
+"lead_ret": 29.06,
+"second": "경농",
+"second_ret": 14.79
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.99,
+"up5": 1,
+"lead": "현대차",
+"lead_ret": 7.84,
+"second": "HL만도",
+"second_ret": 4.88
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 59,
+"avg": 3.26,
+"up5": 16,
+"lead": "솔브레인홀딩스",
+"lead_ret": 30.0,
+"second": "켐트로스",
+"second_ret": 20.21
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.06,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 8.05,
+"second": "에코프로",
+"second_ret": 4.88
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 3.03,
+"up5": 2,
+"lead": "코스모화학",
+"lead_ret": 11.43,
+"second": "현대차",
+"second_ret": 7.84
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 2.53,
+"up5": 5,
+"lead": "켐트로스",
+"lead_ret": 20.21,
+"second": "후성",
+"second_ret": 9.87
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 2.39,
+"up5": 2,
+"lead": "쿠쿠홈시스",
+"lead_ret": 9.92,
+"second": "코웨이",
+"second_ret": 7.14
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 2.36,
+"up5": 3,
+"lead": "멕아이씨에스",
+"lead_ret": 12.1,
+"second": "인트론바이오",
+"second_ret": 9.37
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.33,
+"up5": 2,
+"lead": "애경케미칼",
+"lead_ret": 8.05,
+"second": "효성화학",
+"second_ret": 5.8
+},
+{
+"name": "스테이블코인",
+"n": 18,
+"avg": 2.27,
+"up5": 1,
+"lead": "한국정보인증",
+"lead_ret": 24.05,
+"second": "드림시큐리티",
+"second_ret": 3.88
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -1.69,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.93,
+"second": "루멘스바이오스",
+"second_ret": 1.07
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": -1.59,
+"up5": 0,
+"lead": "라온시큐어",
+"lead_ret": 1.58,
+"second": "이스트소프트",
+"second_ret": 0.31
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -1.14,
+"up5": 0,
+"lead": "태영건설",
+"lead_ret": 2.41,
+"second": "HL D&I",
+"second_ret": 1.97
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -1.02,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 2.71,
+"second": "SOOP",
+"second_ret": 0.16
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": -0.94,
+"up5": 0,
+"lead": "비나텍",
+"lead_ret": 3.9,
+"second": "두산퓨얼셀",
+"second_ret": 1.14
+}
+],
+"leaders": [
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 11.73,
+"value": 6845,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "대웅제약",
+"code": "069620",
+"ret": 19.47,
+"value": 4637,
+"theme": "보톡스(보툴리눔톡신)",
+"reason": "테마: 보톡스(보툴리눔톡신)"
+},
+{
+"name": "켐트로스",
+"code": "220260",
+"ret": 20.21,
+"value": 4051,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "대웅",
+"code": "003090",
+"ret": 29.93,
+"value": 3852,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "서연",
+"code": "007860",
+"ret": 24.42,
+"value": 3066,
+"theme": "지주사",
+"reason": "테마: 지주사"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20200911",
+"kospi": 0.01,
+"kosdaq": 0.47,
+"adv": 893,
+"dec": 874,
+"flat": 170,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 1001918,
+"hot": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 4,
+"lead": "카카오게임즈",
+"lead_ret": 29.97,
+"second": "서울옥션",
+"second_ret": 13.47
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "테이팩스",
+"lead_ret": 17.56,
+"second": "상신이디피",
+"second_ret": 14.57
+},
+{
+"name": "영상콘텐츠",
+"n": 4,
+"lead": "팬엔터테인먼트",
+"lead_ret": 11.08,
+"second": "초록뱀미디어",
+"second_ret": 11.07
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 4.27,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 12.86,
+"second": "엔브이에이치코리아",
+"second_ret": 7.96
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 19,
+"avg": 4.19,
+"up5": 5,
+"lead": "카카오게임즈",
+"lead_ret": 29.97,
+"second": "서울옥션",
+"second_ret": 13.47
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.5,
+"up5": 2,
+"lead": "화성밸브",
+"lead_ret": 13.85,
+"second": "대동스틸",
+"second_ret": 6.31
+},
+{
+"name": "코로나19(진단키트)",
+"n": 32,
+"avg": 2.18,
+"up5": 5,
+"lead": "나노실리칸첨단소재",
+"lead_ret": 16.81,
+"second": "수젠텍",
+"second_ret": 13.05
+},
+{
+"name": "치매",
+"n": 41,
+"avg": 2.12,
+"up5": 7,
+"lead": "수젠텍",
+"lead_ret": 13.05,
+"second": "에이비엘바이오",
+"second_ret": 9.47
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 2.09,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": 4.87,
+"second": "삼성물산",
+"second_ret": 4.15
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.03,
+"up5": 1,
+"lead": "NEW",
+"lead_ret": 9.63,
+"second": "쇼박스",
+"second_ret": 2.74
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 1.99,
+"up5": 4,
+"lead": "팬엔터테인먼트",
+"lead_ret": 11.08,
+"second": "초록뱀미디어",
+"second_ret": 11.07
+},
+{
+"name": "블록체인",
+"n": 23,
+"avg": 1.96,
+"up5": 3,
+"lead": "케이사인",
+"lead_ret": 9.25,
+"second": "위메이드",
+"second_ret": 7.8
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": 1.91,
+"up5": 2,
+"lead": "이랜텍",
+"lead_ret": 12.92,
+"second": "알에프텍",
+"second_ret": 7.23
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.89,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 13.87,
+"second": "코텍",
+"second_ret": 1.99
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 1.89,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 13.87,
+"second": "코텍",
+"second_ret": 1.99
+}
+],
+"themes_worst": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -1.86,
+"up5": 0,
+"lead": "콘텐트리중앙",
+"lead_ret": 2.63,
+"second": "스카이라이프",
+"second_ret": 1.0
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": -1.76,
+"up5": 0,
+"lead": "야스",
+"lead_ret": 2.22,
+"second": "메카로",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -1.72,
+"up5": 0,
+"lead": "삼성SDI",
+"lead_ret": -0.12,
+"second": "애경케미칼",
+"second_ret": -0.14
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.7,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 0.0,
+"second": "유비벨록스",
+"second_ret": -0.5
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": -1.55,
+"up5": 0,
+"lead": "KG이니시스",
+"lead_ret": -0.45,
+"second": "한국정보통신",
+"second_ret": -0.75
+}
+],
+"leaders": [
+{
+"name": "초록뱀미디어",
+"code": "047820",
+"ret": 11.07,
+"value": 766103,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "앤디포스",
+"code": "238090",
+"ret": 11.43,
+"value": 5704,
+"theme": "아이폰",
+"reason": "테마: 아이폰"
+},
+{
+"name": "카카오게임즈",
+"code": "293490",
+"ret": 29.97,
+"value": 4066,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "수젠텍",
+"code": "253840",
+"ret": 13.05,
+"value": 3111,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "보락",
+"code": "002760",
+"ret": 29.78,
+"value": 3022,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

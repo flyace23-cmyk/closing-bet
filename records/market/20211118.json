@@ -1,0 +1,254 @@
+{
+"date": "20211118",
+"kospi": -0.51,
+"kosdaq": 0.15,
+"adv": 669,
+"dec": 1225,
+"flat": 161,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 582443,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "조이시티",
+"lead_ret": 17.22,
+"second": "넥슨게임즈",
+"second_ret": 16.11
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "PI첨단소재",
+"lead_ret": 16.26,
+"second": "롯데에너지머티리얼즈",
+"second_ret": 13.1
+},
+{
+"name": "음원/음반",
+"n": 3,
+"lead": "다날",
+"lead_ret": 22.22,
+"second": "NHN벅스",
+"second_ret": 17.7
+}
+],
+"themes": [
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 4.18,
+"up5": 11,
+"lead": "다날",
+"lead_ret": 22.22,
+"second": "티사이언티픽",
+"second_ret": 14.31
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.26,
+"up5": 9,
+"lead": "조이시티",
+"lead_ret": 17.22,
+"second": "넥슨게임즈",
+"second_ret": 16.11
+},
+{
+"name": "음원/음반",
+"n": 13,
+"avg": 3.24,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 22.22,
+"second": "NHN벅스",
+"second_ret": 17.7
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 3.17,
+"up5": 7,
+"lead": "조이시티",
+"lead_ret": 17.22,
+"second": "넥슨게임즈",
+"second_ret": 16.11
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 2.95,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 22.22,
+"second": "미투온",
+"second_ret": 15.55
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 2.88,
+"up5": 2,
+"lead": "큐캐피탈",
+"lead_ret": 29.83,
+"second": "우리기술투자",
+"second_ret": 6.57
+},
+{
+"name": "엔터테인먼트",
+"n": 27,
+"avg": 2.8,
+"up5": 6,
+"lead": "아센디오",
+"lead_ret": 19.59,
+"second": "에프엔씨엔터",
+"second_ret": 12.33
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 29,
+"avg": 2.71,
+"up5": 5,
+"lead": "다날",
+"lead_ret": 22.22,
+"second": "NHN벅스",
+"second_ret": 17.7
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.48,
+"up5": 2,
+"lead": "엔비티",
+"lead_ret": 9.42,
+"second": "한화투자증권",
+"second_ret": 5.24
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 2.29,
+"up5": 3,
+"lead": "조이시티",
+"lead_ret": 17.22,
+"second": "미투온",
+"second_ret": 15.55
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.2,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 22.22,
+"second": "미투온",
+"second_ret": 15.55
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.2,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 19.59,
+"second": "콘텐트리중앙",
+"second_ret": 3.45
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.16,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.0,
+"second": "글로벌에스엠",
+"second_ret": -0.4
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.08,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -0.95,
+"second": "GKL",
+"second_ret": -1.75
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.08,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": -0.95,
+"second": "GKL",
+"second_ret": -1.75
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -2.05,
+"up5": 0,
+"lead": "상신이디피",
+"lead_ret": 4.04,
+"second": "남성",
+"second_ret": 0.93
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -2.03,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.0,
+"second": "팬오션",
+"second_ret": -1.09
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 22.22,
+"value": 10537,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "조이시티",
+"code": "067000",
+"ret": 17.22,
+"value": 2627,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "넥슨게임즈",
+"code": "225570",
+"ret": 16.11,
+"value": 2301,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "미투온",
+"code": "201490",
+"ret": 15.55,
+"value": 2301,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "NHN벅스",
+"code": "104200",
+"ret": 17.7,
+"value": 2237,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+}
+],
+"backfilled": true
+}

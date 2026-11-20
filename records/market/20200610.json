@@ -1,0 +1,254 @@
+{
+"date": "20200610",
+"kospi": 0.31,
+"kosdaq": 0.64,
+"adv": 686,
+"dec": 1089,
+"flat": 139,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 224732,
+"hot": [
+{
+"name": "의료기기",
+"n": 6,
+"lead": "리가켐바이오",
+"lead_ret": 29.96,
+"second": "대원제약",
+"second_ret": 24.46
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "리가켐바이오",
+"lead_ret": 29.96,
+"second": "아이진",
+"second_ret": 11.46
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "지엘팜텍",
+"lead_ret": 29.86,
+"second": "대원제약",
+"second_ret": 24.46
+}
+],
+"themes": [
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 4.95,
+"up5": 8,
+"lead": "에이비엘바이오",
+"lead_ret": 29.98,
+"second": "리가켐바이오",
+"second_ret": 29.96
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 4.05,
+"up5": 9,
+"lead": "리가켐바이오",
+"lead_ret": 29.96,
+"second": "아이진",
+"second_ret": 11.46
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 3.85,
+"up5": 1,
+"lead": "NHN KCP",
+"lead_ret": 6.16,
+"second": "KG이니시스",
+"second_ret": 4.98
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.69,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 5.61,
+"second": "강스템바이오텍",
+"second_ret": 5.39
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.57,
+"up5": 2,
+"lead": "오스테오닉",
+"lead_ret": 16.28,
+"second": "덴티스",
+"second_ret": 8.9
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.43,
+"up5": 3,
+"lead": "아이진",
+"lead_ret": 11.46,
+"second": "올릭스",
+"second_ret": 10.01
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 2.38,
+"up5": 1,
+"lead": "NHN KCP",
+"lead_ret": 6.16,
+"second": "KG이니시스",
+"second_ret": 4.98
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 2.21,
+"up5": 5,
+"lead": "대원제약",
+"lead_ret": 24.46,
+"second": "앱클론",
+"second_ret": 10.28
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 55,
+"avg": 2.21,
+"up5": 14,
+"lead": "리가켐바이오",
+"lead_ret": 29.96,
+"second": "아이진",
+"second_ret": 11.46
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 2.11,
+"up5": 4,
+"lead": "신테카바이오",
+"lead_ret": 12.32,
+"second": "앱클론",
+"second_ret": 10.28
+},
+{
+"name": "2차전지(전고체)",
+"n": 22,
+"avg": 2.01,
+"up5": 1,
+"lead": "아이엘",
+"lead_ret": 29.87,
+"second": "삼성전기",
+"second_ret": 4.28
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 1.98,
+"up5": 1,
+"lead": "두산퓨얼셀",
+"lead_ret": 18.95,
+"second": "비나텍",
+"second_ret": 0.71
+}
+],
+"themes_worst": [
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -2.34,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 0.8,
+"second": "하이스틸",
+"second_ret": -0.57
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.29,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 0.75,
+"second": "AK홀딩스",
+"second_ret": -1.35
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": -2.2,
+"up5": 0,
+"lead": "LG화학",
+"lead_ret": 1.73,
+"second": "이상네트웍스",
+"second_ret": 0.43
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -2.13,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": -0.2,
+"second": "BNK금융지주",
+"second_ret": -0.36
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -2.11,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": 0.56,
+"second": "시공테크",
+"second_ret": -1.16
+}
+],
+"leaders": [
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 29.98,
+"value": 10536,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "신테카바이오",
+"code": "226330",
+"ret": 12.32,
+"value": 2362,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "리가켐바이오",
+"code": "141080",
+"ret": 29.96,
+"value": 1849,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "티움바이오",
+"code": "321550",
+"ret": 10.03,
+"value": 1740,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "압타바이오",
+"code": "293780",
+"ret": 10.63,
+"value": 1358,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

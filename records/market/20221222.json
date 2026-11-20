@@ -1,0 +1,246 @@
+{
+"date": "20221222",
+"kospi": 1.19,
+"kosdaq": 1.32,
+"adv": 1393,
+"dec": 542,
+"flat": 190,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 125311,
+"hot": [
+{
+"name": "화장품",
+"n": 5,
+"lead": "헝셩그룹",
+"lead_ret": 16.13,
+"second": "코스메카코리아",
+"second_ret": 7.71
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "디에스엠",
+"lead_ret": 8.9,
+"second": "남선알미늄",
+"second_ret": 7.1
+}
+],
+"themes": [
+{
+"name": "해운",
+"n": 5,
+"avg": 4.47,
+"up5": 2,
+"lead": "대한해운",
+"lead_ret": 7.49,
+"second": "팬오션",
+"second_ret": 6.38
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.76,
+"up5": 2,
+"lead": "트리니티항공",
+"lead_ret": 9.84,
+"second": "진에어",
+"second_ret": 5.1
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.48,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 16.13,
+"second": "오가닉티코스메틱",
+"second_ret": 7.08
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.55,
+"up5": 1,
+"lead": "디오",
+"lead_ret": 9.16,
+"second": "덴티움",
+"second_ret": 3.92
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.5,
+"up5": 1,
+"lead": "효성티앤씨",
+"lead_ret": 6.52,
+"second": "넥센타이어",
+"second_ret": 4.08
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 2.3,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 5.12,
+"second": "삼성에스디에스",
+"second_ret": 2.38
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.11,
+"up5": 0,
+"lead": "아난티",
+"lead_ret": 4.63,
+"second": "이마트",
+"second_ret": 4.0
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.0,
+"up5": 1,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 7.06,
+"second": "YG PLUS",
+"second_ret": 3.6
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": 1.95,
+"up5": 2,
+"lead": "대원화성",
+"lead_ret": 13.48,
+"second": "에코캡",
+"second_ret": 6.87
+},
+{
+"name": "출산장려정책",
+"n": 18,
+"avg": 1.82,
+"up5": 1,
+"lead": "헝셩그룹",
+"lead_ret": 16.13,
+"second": "삼성출판사",
+"second_ret": 2.93
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 28,
+"avg": 1.8,
+"up5": 1,
+"lead": "현우산업",
+"lead_ret": 17.12,
+"second": "이녹스첨단소재",
+"second_ret": 4.3
+},
+{
+"name": "엔젤산업",
+"n": 21,
+"avg": 1.78,
+"up5": 2,
+"lead": "헝셩그룹",
+"lead_ret": 16.13,
+"second": "오가닉티코스메틱",
+"second_ret": 7.08
+}
+],
+"themes_worst": [
+{
+"name": "은행",
+"n": 10,
+"avg": -2.33,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 0.57,
+"second": "JB금융지주",
+"second_ret": 0.24
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": -1.64,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 3.62,
+"second": "대동금속",
+"second_ret": 2.5
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": -0.88,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": 1.75,
+"second": "대창스틸",
+"second_ret": 0.48
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -0.85,
+"up5": 0,
+"lead": "경동제약",
+"lead_ret": 1.33,
+"second": "광동제약",
+"second_ret": 0.97
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -0.72,
+"up5": 0,
+"lead": "원티드랩",
+"lead_ret": 1.55,
+"second": "아이비김영",
+"second_ret": 0.77
+}
+],
+"leaders": [
+{
+"name": "현우산업",
+"code": "092300",
+"ret": 17.12,
+"value": 718,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "유니드비티플러스",
+"code": "446070",
+"ret": 15.44,
+"value": 682,
+"theme": "리모델링/인테리어",
+"reason": "테마: 리모델링/인테리어"
+},
+{
+"name": "대원화성",
+"code": "024890",
+"ret": 13.48,
+"value": 523,
+"theme": "리비안(RIVIAN)",
+"reason": "테마: 리비안(RIVIAN)"
+},
+{
+"name": "금비",
+"code": "008870",
+"ret": 29.88,
+"value": 413,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "헝셩그룹",
+"code": "900270",
+"ret": 16.13,
+"value": 330,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20201125",
+"kospi": -0.62,
+"kosdaq": -0.8,
+"adv": 377,
+"dec": 1465,
+"flat": 114,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 364594,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "셀트리온제약",
+"lead_ret": 25.27,
+"second": "보령",
+"second_ret": 23.59
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "국전",
+"lead_ret": 17.93,
+"second": "진매트릭스",
+"second_ret": 12.81
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "성호전자",
+"lead_ret": 29.69,
+"second": "엠에스오토텍",
+"second_ret": 10.53
+}
+],
+"themes": [
+{
+"name": "여행",
+"n": 9,
+"avg": 2.22,
+"up5": 2,
+"lead": "세중",
+"lead_ret": 7.16,
+"second": "하나투어",
+"second_ret": 5.69
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.1,
+"up5": 2,
+"lead": "서연탑메탈",
+"lead_ret": 29.86,
+"second": "HD건설기계",
+"second_ret": 9.25
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 1.96,
+"up5": 4,
+"lead": "셀트리온제약",
+"lead_ret": 25.27,
+"second": "보령",
+"second_ret": 23.59
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.73,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 9.18,
+"second": "흥구석유",
+"second_ret": 5.21
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.73,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 9.18,
+"second": "흥구석유",
+"second_ret": 5.21
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 11,
+"avg": 1.57,
+"up5": 1,
+"lead": "성호전자",
+"lead_ret": 29.69,
+"second": "서울바이오시스",
+"second_ret": 1.51
+},
+{
+"name": "공기청정기",
+"n": 10,
+"avg": 1.49,
+"up5": 1,
+"lead": "성호전자",
+"lead_ret": 29.69,
+"second": "위닉스",
+"second_ret": 0.73
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 1.42,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 9.18,
+"second": "파이오링크",
+"second_ret": 4.18
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 1.38,
+"up5": 0,
+"lead": "TS인베스트먼트",
+"lead_ret": 4.33,
+"second": "메가엠디",
+"second_ret": 2.7
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.37,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 5.21,
+"second": "극동유화",
+"second_ret": 3.23
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 0.97,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 4.09,
+"second": "신한지주",
+"second_ret": 2.21
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 0.95,
+"up5": 2,
+"lead": "비엠티",
+"lead_ret": 7.43,
+"second": "화성밸브",
+"second_ret": 5.5
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -4.22,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.12,
+"second": "에스티팜",
+"second_ret": -2.52
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 17,
+"avg": -3.67,
+"up5": 0,
+"lead": "뷰웍스",
+"lead_ret": 1.7,
+"second": "인바디",
+"second_ret": 0.56
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -3.4,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": -1.76,
+"second": "유한양행",
+"second_ret": -2.28
+},
+{
+"name": "유전자 치료제/분석",
+"n": 27,
+"avg": -3.09,
+"up5": 0,
+"lead": "제넥신",
+"lead_ret": 2.69,
+"second": "툴젠",
+"second_ret": 0.0
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 19,
+"avg": -2.88,
+"up5": 0,
+"lead": "빌리언스",
+"lead_ret": 0.46,
+"second": "아톤",
+"second_ret": -0.37
+}
+],
+"leaders": [
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 25.27,
+"value": 17953,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "바이오톡스텍",
+"code": "086040",
+"ret": 11.93,
+"value": 4569,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "보령",
+"code": "003850",
+"ret": 23.59,
+"value": 3659,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 12.53,
+"value": 3613,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "엠에스오토텍",
+"code": "123040",
+"ret": 10.53,
+"value": 2497,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

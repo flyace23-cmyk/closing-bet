@@ -1,0 +1,229 @@
+{
+"date": "20250321",
+"kospi": 0.23,
+"kosdaq": -0.79,
+"adv": 771,
+"dec": 1447,
+"flat": 126,
+"limit_up": 1,
+"limit_down": 4,
+"value_total": 207399,
+"hot": [],
+"themes": [
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.32,
+"up5": 1,
+"lead": "티엘비",
+"lead_ret": 19.35,
+"second": "ISC",
+"second_ret": 3.55
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 2.51,
+"up5": 1,
+"lead": "이마트",
+"lead_ret": 6.08,
+"second": "GS리테일",
+"second_ret": 3.34
+},
+{
+"name": "원자력발전소 해체",
+"n": 14,
+"avg": 2.4,
+"up5": 2,
+"lead": "한텍",
+"lead_ret": 15.34,
+"second": "두산에너빌리티",
+"second_ret": 5.88
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.32,
+"up5": 2,
+"lead": "GS글로벌",
+"lead_ret": 13.54,
+"second": "포스코인터내셔널",
+"second_ret": 5.73
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.24,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 19.35,
+"second": "태성",
+"second_ret": 9.65
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": 1.99,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 14.29,
+"second": "삼성바이오로직스",
+"second_ret": 2.15
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.91,
+"up5": 1,
+"lead": "글로벌텍스프리",
+"lead_ret": 5.63,
+"second": "호텔신라",
+"second_ret": 3.08
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 1.87,
+"up5": 1,
+"lead": "티엘비",
+"lead_ret": 19.35,
+"second": "SK하이닉스",
+"second_ret": 2.62
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.8,
+"up5": 2,
+"lead": "두산에너빌리티",
+"lead_ret": 5.88,
+"second": "포스코인터내셔널",
+"second_ret": 5.73
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.73,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 15.68,
+"second": "콘텐트리중앙",
+"second_ret": 3.37
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 1.5,
+"up5": 1,
+"lead": "두산에너빌리티",
+"lead_ret": 5.88,
+"second": "삼화콘덴서",
+"second_ret": 3.06
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 1.44,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 4.29,
+"second": "디케이락",
+"second_ret": 2.74
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -3.1,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": -1.53,
+"second": "유라클",
+"second_ret": -2.29
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": -2.73,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": -0.39,
+"second": "TS인베스트먼트",
+"second_ret": -0.74
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.46,
+"up5": 0,
+"lead": "LS에코에너지",
+"lead_ret": 0.0,
+"second": "LS마린솔루션",
+"second_ret": -1.04
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -2.37,
+"up5": 2,
+"lead": "큐리언트",
+"lead_ret": 16.0,
+"second": "티움바이오",
+"second_ret": 15.22
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -2.28,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": 0.0,
+"second": "서울제약",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한텍",
+"code": "098070",
+"ret": 15.34,
+"value": 5522,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "레이저옵텍",
+"code": "199550",
+"ret": 12.26,
+"value": 1586,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "티엘비",
+"code": "356860",
+"ret": 19.35,
+"value": 1560,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "쓰리에이로직스",
+"code": "177900",
+"ret": 11.2,
+"value": 1297,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "GS글로벌",
+"code": "001250",
+"ret": 13.54,
+"value": 990,
+"theme": "자원개발",
+"reason": "테마: 자원개발"
+}
+],
+"backfilled": true
+}

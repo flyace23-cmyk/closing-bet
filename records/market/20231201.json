@@ -1,0 +1,254 @@
+{
+"date": "20231201",
+"kospi": -1.19,
+"kosdaq": -0.53,
+"adv": 874,
+"dec": 1208,
+"flat": 138,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 152170,
+"hot": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 16.94,
+"second": "위메이드",
+"second_ret": 11.75
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "멕아이씨에스",
+"lead_ret": 22.68,
+"second": "수젠텍",
+"second_ret": 11.75
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "DH오토리드",
+"lead_ret": 29.99,
+"second": "시노펙스",
+"second_ret": 22.66
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.34,
+"up5": 4,
+"lead": "멕아이씨에스",
+"lead_ret": 22.68,
+"second": "수젠텍",
+"second_ret": 11.75
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.71,
+"up5": 6,
+"lead": "인성정보",
+"lead_ret": 21.2,
+"second": "케어랩스",
+"second_ret": 14.01
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 3.43,
+"up5": 2,
+"lead": "엑스플러스",
+"lead_ret": 15.66,
+"second": "KG이니시스",
+"second_ret": 6.67
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 3.05,
+"up5": 3,
+"lead": "갤럭시아머니트리",
+"lead_ret": 16.94,
+"second": "KG이니시스",
+"second_ret": 6.67
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.72,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 22.09,
+"second": "GS글로벌",
+"second_ret": 1.94
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.66,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 21.2,
+"second": "링네트",
+"second_ret": 1.66
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.54,
+"up5": 2,
+"lead": "우양",
+"lead_ret": 8.93,
+"second": "풀무원",
+"second_ret": 5.6
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 2.39,
+"up5": 1,
+"lead": "코오롱글로벌",
+"lead_ret": 22.09,
+"second": "에스와이",
+"second_ret": 3.34
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.28,
+"up5": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 16.94,
+"second": "위메이드",
+"second_ret": 11.75
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 2.26,
+"up5": 4,
+"lead": "위메이드",
+"lead_ret": 11.75,
+"second": "아이티센글로벌",
+"second_ret": 8.02
+},
+{
+"name": "해운",
+"n": 6,
+"avg": 2.22,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 7.07,
+"second": "대한해운",
+"second_ret": 3.48
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 23,
+"avg": 2.17,
+"up5": 5,
+"lead": "갤럭시아머니트리",
+"lead_ret": 16.94,
+"second": "서울옥션",
+"second_ret": 8.58
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -3.63,
+"up5": 0,
+"lead": "에코프로비엠",
+"lead_ret": 2.19,
+"second": "더블유씨피",
+"second_ret": -2.05
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.57,
+"up5": 0,
+"lead": "중앙첨단소재",
+"lead_ret": 2.69,
+"second": "엔켐",
+"second_ret": 0.98
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.55,
+"up5": 0,
+"lead": "소프트센",
+"lead_ret": 2.6,
+"second": "아모그린텍",
+"second_ret": 2.54
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 33,
+"avg": -2.37,
+"up5": 0,
+"lead": "유니테크노",
+"lead_ret": 3.35,
+"second": "현대글로비스",
+"second_ret": 0.4
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": -2.3,
+"up5": 0,
+"lead": "영화테크",
+"lead_ret": 0.78,
+"second": "인선이엔티",
+"second_ret": 0.27
+}
+],
+"leaders": [
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 16.94,
+"value": 2896,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 22.66,
+"value": 2608,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "태양금속",
+"code": "004100",
+"ret": 13.67,
+"value": 1870,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 11.75,
+"value": 1766,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "한농화성",
+"code": "011500",
+"ret": 10.49,
+"value": 1588,
+"theme": "2차전지(전고체)",
+"reason": "테마: 2차전지(전고체)"
+}
+],
+"backfilled": true
+}

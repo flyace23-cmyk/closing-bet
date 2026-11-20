@@ -1,0 +1,246 @@
+{
+"date": "20230220",
+"kospi": 0.16,
+"kosdaq": 1.71,
+"adv": 1427,
+"dec": 587,
+"flat": 124,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 153729,
+"hot": [
+{
+"name": "의료기기",
+"n": 5,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.86,
+"second": "HLB생명과학",
+"second_ret": 17.64
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 3,
+"lead": "HLB제약",
+"lead_ret": 17.17,
+"second": "나노엔텍",
+"second_ret": 9.58
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 5.92,
+"up5": 2,
+"lead": "성우전자",
+"lead_ret": 14.55,
+"second": "퀀텀레일",
+"second_ret": 9.51
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 4.56,
+"up5": 3,
+"lead": "KG스틸",
+"lead_ret": 9.18,
+"second": "한국철강",
+"second_ret": 8.37
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 4.27,
+"up5": 3,
+"lead": "셀바스헬스케어",
+"lead_ret": 29.86,
+"second": "제이엘케이",
+"second_ret": 14.39
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.18,
+"up5": 3,
+"lead": "HLB생명과학",
+"lead_ret": 17.64,
+"second": "풍전약품",
+"second_ret": 14.38
+},
+{
+"name": "면역항암제",
+"n": 30,
+"avg": 4.12,
+"up5": 11,
+"lead": "HLB",
+"lead_ret": 29.88,
+"second": "오스코텍",
+"second_ret": 7.73
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.51,
+"up5": 1,
+"lead": "브리지텍",
+"lead_ret": 25.31,
+"second": "셀바스AI",
+"second_ret": 3.92
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 26,
+"avg": 3.38,
+"up5": 5,
+"lead": "브리지텍",
+"lead_ret": 25.31,
+"second": "솔트룩스",
+"second_ret": 13.68
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 3.32,
+"up5": 4,
+"lead": "제이엘케이",
+"lead_ret": 14.39,
+"second": "나노엔텍",
+"second_ret": 9.58
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": 3.3,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 8.49,
+"second": "MH에탄올",
+"second_ret": 4.96
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": 3.15,
+"up5": 5,
+"lead": "압타바이오",
+"lead_ret": 6.7,
+"second": "샤페론",
+"second_ret": 6.55
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 3.12,
+"up5": 4,
+"lead": "브리지텍",
+"lead_ret": 25.31,
+"second": "아이티센피엔에스",
+"second_ret": 14.9
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": 2.89,
+"up5": 2,
+"lead": "한미사이언스",
+"lead_ret": 8.11,
+"second": "서린바이오",
+"second_ret": 5.54
+}
+],
+"themes_worst": [
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": -1.53,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 3.59,
+"second": "고려아연",
+"second_ret": 3.21
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -1.43,
+"up5": 0,
+"lead": "모두투어",
+"lead_ret": 0.72,
+"second": "하나투어",
+"second_ret": -0.32
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": -0.96,
+"up5": 0,
+"lead": "대창솔루션",
+"lead_ret": 1.99,
+"second": "대양전기공업",
+"second_ret": 1.4
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.85,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": 0.65,
+"second": "HJ중공업",
+"second_ret": 0.37
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.84,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 0.29,
+"second": "롯데손해보험",
+"second_ret": -0.06
+}
+],
+"leaders": [
+{
+"name": "HLB",
+"code": "028300",
+"ret": 29.88,
+"value": 4265,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 10.66,
+"value": 1785,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 13.68,
+"value": 1752,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "제주은행",
+"code": "006220",
+"ret": 13.64,
+"value": 1714,
+"theme": "은행",
+"reason": "테마: 은행"
+},
+{
+"name": "브리지텍",
+"code": "064480",
+"ret": 25.31,
+"value": 1267,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+}
+],
+"backfilled": true
+}

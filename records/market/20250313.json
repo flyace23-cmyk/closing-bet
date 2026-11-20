@@ -1,0 +1,254 @@
+{
+"date": "20250313",
+"kospi": -0.05,
+"kosdaq": -0.92,
+"adv": 754,
+"dec": 1463,
+"flat": 123,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 198619,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 4,
+"lead": "파이버프로",
+"lead_ret": 19.48,
+"second": "현대로템",
+"second_ret": 10.29
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 3,
+"lead": "한국첨단소재",
+"lead_ret": 29.91,
+"second": "파이버프로",
+"second_ret": 19.48
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 3,
+"lead": "한국첨단소재",
+"lead_ret": 29.91,
+"second": "케이씨에스",
+"second_ret": 17.12
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 4.6,
+"up5": 2,
+"lead": "LS",
+"lead_ret": 18.96,
+"second": "가온전선",
+"second_ret": 5.95
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.79,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 29.91,
+"second": "파이버프로",
+"second_ret": 19.48
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 3.37,
+"up5": 4,
+"lead": "한국첨단소재",
+"lead_ret": 29.91,
+"second": "케이씨에스",
+"second_ret": 17.12
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.71,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 18.96,
+"second": "LS마린솔루션",
+"second_ret": 3.63
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 2.49,
+"up5": 1,
+"lead": "케이씨에스",
+"lead_ret": 17.12,
+"second": "푸른로보틱스",
+"second_ret": 4.42
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 2.37,
+"up5": 1,
+"lead": "엘케이켐",
+"lead_ret": 18.68,
+"second": "메카로",
+"second_ret": 2.89
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 2.01,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": 4.73,
+"second": "한화오션",
+"second_ret": 3.52
+},
+{
+"name": "전력설비",
+"n": 33,
+"avg": 1.83,
+"up5": 5,
+"lead": "LS",
+"lead_ret": 18.96,
+"second": "위너스일렉",
+"second_ret": 14.02
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 1.63,
+"up5": 2,
+"lead": "LS",
+"lead_ret": 18.96,
+"second": "켐트로닉스",
+"second_ret": 14.1
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 1.52,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 4.09,
+"second": "현대모비스",
+"second_ret": 3.23
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.5,
+"up5": 1,
+"lead": "미창석유",
+"lead_ret": 13.21,
+"second": "SK이노베이션",
+"second_ret": 0.43
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 34,
+"avg": 1.28,
+"up5": 3,
+"lead": "파이버프로",
+"lead_ret": 19.48,
+"second": "현대로템",
+"second_ret": 10.29
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.46,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.8,
+"second": "토비스",
+"second_ret": -1.39
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.46,
+"up5": 0,
+"lead": "코텍",
+"lead_ret": 0.8,
+"second": "토비스",
+"second_ret": -1.39
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -2.25,
+"up5": 0,
+"lead": "태경케미컬",
+"lead_ret": -0.51,
+"second": "SK네트웍스",
+"second_ret": -0.7
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.06,
+"up5": 0,
+"lead": "모아텍",
+"lead_ret": 0.37,
+"second": "에스티아이",
+"second_ret": 0.2
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -2.01,
+"up5": 0,
+"lead": "아이티엠반도체",
+"lead_ret": 3.1,
+"second": "삼성전기",
+"second_ret": 0.58
+}
+],
+"leaders": [
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 10.29,
+"value": 4976,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "LS",
+"code": "006260",
+"ret": 18.96,
+"value": 3916,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "켐트로닉스",
+"code": "089010",
+"ret": 14.1,
+"value": 3844,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+},
+{
+"name": "파이버프로",
+"code": "368770",
+"ret": 19.48,
+"value": 1995,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "위너스일렉",
+"code": "479960",
+"ret": 14.02,
+"value": 1877,
+"theme": "스마트홈(홈네트워크)",
+"reason": "테마: 스마트홈(홈네트워크)"
+}
+],
+"backfilled": true
+}

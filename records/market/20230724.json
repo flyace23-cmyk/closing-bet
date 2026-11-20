@@ -1,0 +1,254 @@
+{
+"date": "20230724",
+"kospi": 0.72,
+"kosdaq": -0.5,
+"adv": 275,
+"dec": 1836,
+"flat": 62,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 321904,
+"hot": [
+{
+"name": "2차전지",
+"n": 12,
+"lead": "자비스",
+"lead_ret": 30.0,
+"second": "APS이노베이션",
+"second_ret": 23.55
+},
+{
+"name": "밸류업(24년 기업가치 제고계획 발표)",
+"n": 5,
+"lead": "포스코인터내셔널",
+"lead_ret": 29.92,
+"second": "POSCO홀딩스",
+"second_ret": 16.52
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 4,
+"lead": "나노신소재",
+"lead_ret": 17.68,
+"second": "예스티",
+"second_ret": 13.86
+}
+],
+"themes": [
+{
+"name": "종합상사",
+"n": 8,
+"avg": 5.53,
+"up5": 3,
+"lead": "포스코인터내셔널",
+"lead_ret": 29.92,
+"second": "LX인터내셔널",
+"second_ret": 13.06
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 5.16,
+"up5": 3,
+"lead": "포스코인터내셔널",
+"lead_ret": 29.92,
+"second": "POSCO홀딩스",
+"second_ret": 16.52
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 3.35,
+"up5": 4,
+"lead": "포스코인터내셔널",
+"lead_ret": 29.92,
+"second": "LX인터내셔널",
+"second_ret": 13.06
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 2.96,
+"up5": 2,
+"lead": "더블유씨피",
+"lead_ret": 11.03,
+"second": "에코프로비엠",
+"second_ret": 6.03
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": 2.62,
+"up5": 2,
+"lead": "한중엔시에스",
+"lead_ret": 15.0,
+"second": "SK이노베이션",
+"second_ret": 11.21
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.43,
+"up5": 4,
+"lead": "예스티",
+"lead_ret": 13.86,
+"second": "레이저쎌",
+"second_ret": 11.12
+},
+{
+"name": "2차전지(장비)",
+"n": 39,
+"avg": 2.2,
+"up5": 8,
+"lead": "자비스",
+"lead_ret": 30.0,
+"second": "APS이노베이션",
+"second_ret": 23.55
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 2.07,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 11.21,
+"second": "코윈로보틱스",
+"second_ret": 8.48
+},
+{
+"name": "폐배터리",
+"n": 19,
+"avg": 1.93,
+"up5": 4,
+"lead": "POSCO홀딩스",
+"lead_ret": 16.52,
+"second": "SK이노베이션",
+"second_ret": 11.21
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 1.87,
+"up5": 2,
+"lead": "포스코스틸리온",
+"lead_ret": 23.71,
+"second": "POSCO홀딩스",
+"second_ret": 16.52
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 20,
+"avg": 1.87,
+"up5": 3,
+"lead": "포스코인터내셔널",
+"lead_ret": 29.92,
+"second": "TCC스틸",
+"second_ret": 15.96
+},
+{
+"name": "2차전지",
+"n": 123,
+"avg": 1.62,
+"up5": 19,
+"lead": "자비스",
+"lead_ret": 30.0,
+"second": "APS이노베이션",
+"second_ret": 23.55
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -5.44,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -1.39,
+"second": "풀무원",
+"second_ret": -1.97
+},
+{
+"name": "증강현실(AR)",
+"n": 16,
+"avg": -5.21,
+"up5": 0,
+"lead": "팅크웨어",
+"lead_ret": -2.0,
+"second": "이랜텍",
+"second_ret": -2.34
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": -5.03,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": -1.46,
+"second": "카카오",
+"second_ret": -1.48
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -4.48,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": -0.49,
+"second": "롯데쇼핑",
+"second_ret": -0.99
+},
+{
+"name": "광고",
+"n": 20,
+"avg": -4.47,
+"up5": 0,
+"lead": "지어소프트",
+"lead_ret": 3.77,
+"second": "이노션",
+"second_ret": -1.26
+}
+],
+"leaders": [
+{
+"name": "POSCO홀딩스",
+"code": "005490",
+"ret": 16.52,
+"value": 47007,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 10.5,
+"value": 16718,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "이수페타시스",
+"code": "007660",
+"ret": 14.66,
+"value": 9095,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "포스코인터내셔널",
+"code": "047050",
+"ret": 29.92,
+"value": 7795,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 11.21,
+"value": 6885,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

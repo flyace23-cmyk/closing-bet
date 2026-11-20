@@ -1,0 +1,254 @@
+{
+"date": "20251002",
+"kospi": 2.7,
+"kosdaq": 1.05,
+"adv": 1491,
+"dec": 759,
+"flat": 131,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 254846,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 7,
+"lead": "덕산하이메탈",
+"lead_ret": 17.33,
+"second": "마이크로컨텍솔",
+"second_ret": 13.6
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "원익IPS",
+"lead_ret": 15.24,
+"second": "네오셈",
+"second_ret": 13.13
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 4,
+"lead": "티엘비",
+"lead_ret": 13.29,
+"second": "네오셈",
+"second_ret": 13.13
+}
+],
+"themes": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 7.62,
+"up5": 3,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "오픈엣지테크놀로지",
+"second_ret": 6.49
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 6.51,
+"up5": 8,
+"lead": "티엘비",
+"lead_ret": 13.29,
+"second": "네오셈",
+"second_ret": 13.13
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 6.33,
+"up5": 2,
+"lead": "SK스퀘어",
+"lead_ret": 15.82,
+"second": "SK하이닉스",
+"second_ret": 9.86
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.75,
+"up5": 6,
+"lead": "덕산하이메탈",
+"lead_ret": 17.33,
+"second": "심텍홀딩스",
+"second_ret": 16.87
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.76,
+"up5": 5,
+"lead": "티엘비",
+"lead_ret": 13.29,
+"second": "SK하이닉스",
+"second_ret": 9.86
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 4.29,
+"up5": 7,
+"lead": "제주반도체",
+"lead_ret": 14.75,
+"second": "SK하이닉스",
+"second_ret": 9.86
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 4.22,
+"up5": 1,
+"lead": "앤씨앤",
+"lead_ret": 29.85,
+"second": "비츠로시스",
+"second_ret": 2.27
+},
+{
+"name": "시스템반도체",
+"n": 56,
+"avg": 3.9,
+"up5": 16,
+"lead": "시그네틱스",
+"lead_ret": 29.97,
+"second": "앤씨앤",
+"second_ret": 29.85
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.81,
+"up5": 11,
+"lead": "윈팩",
+"lead_ret": 11.82,
+"second": "SK하이닉스",
+"second_ret": 9.86
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 3.57,
+"up5": 17,
+"lead": "덕산하이메탈",
+"lead_ret": 17.33,
+"second": "마이크로컨텍솔",
+"second_ret": 13.6
+},
+{
+"name": "반도체 장비",
+"n": 92,
+"avg": 3.32,
+"up5": 20,
+"lead": "원익IPS",
+"lead_ret": 15.24,
+"second": "네오셈",
+"second_ret": 13.13
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.13,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 8.89,
+"second": "대원전선",
+"second_ret": 3.79
+}
+],
+"themes_worst": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -0.96,
+"up5": 0,
+"lead": "천일고속",
+"lead_ret": -0.37,
+"second": "신세계",
+"second_ret": -0.6
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": -0.93,
+"up5": 0,
+"lead": "레이저옵텍",
+"lead_ret": 1.98,
+"second": "달바글로벌",
+"second_ret": 1.68
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -0.91,
+"up5": 0,
+"lead": "iMBC",
+"lead_ret": 0.74,
+"second": "디지틀조선",
+"second_ret": 0.53
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -0.69,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 1.0,
+"second": "HD현대중공업",
+"second_ret": 0.0
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 26,
+"avg": -0.67,
+"up5": 1,
+"lead": "SK",
+"lead_ret": 6.22,
+"second": "SK가스",
+"second_ret": 1.91
+}
+],
+"leaders": [
+{
+"name": "SK스퀘어",
+"code": "402340",
+"ret": 15.82,
+"value": 3413,
+"theme": "S7(삼성전자/SK하이닉스 등)",
+"reason": "테마: S7(삼성전자/SK하이닉스 등)"
+},
+{
+"name": "LG에너지솔루션",
+"code": "373220",
+"ret": 14.82,
+"value": 2572,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "원익IPS",
+"code": "240810",
+"ret": 15.24,
+"value": 2118,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 14.75,
+"value": 1983,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+},
+{
+"name": "덕산하이메탈",
+"code": "077360",
+"ret": 17.33,
+"value": 1145,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

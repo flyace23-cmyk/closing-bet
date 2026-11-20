@@ -1,0 +1,254 @@
+{
+"date": "20250919",
+"kospi": -0.46,
+"kosdaq": 0.7,
+"adv": 773,
+"dec": 1474,
+"flat": 132,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 247840,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 5,
+"lead": "다날",
+"lead_ret": 21.6,
+"second": "뱅크웨어글로벌",
+"second_ret": 15.97
+},
+{
+"name": "비만치료제",
+"n": 5,
+"lead": "올릭스",
+"lead_ret": 18.46,
+"second": "지투지바이오",
+"second_ret": 9.86
+},
+{
+"name": "보안주(정보)",
+"n": 4,
+"lead": "싸이버원",
+"lead_ret": 18.49,
+"second": "지니언스",
+"second_ret": 13.97
+}
+],
+"themes": [
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.83,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 21.6,
+"second": "NHN KCP",
+"second_ret": 14.82
+},
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 4.39,
+"up5": 7,
+"lead": "다날",
+"lead_ret": 21.6,
+"second": "뱅크웨어글로벌",
+"second_ret": 15.97
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 3.3,
+"up5": 4,
+"lead": "올릭스",
+"lead_ret": 18.46,
+"second": "한미약품",
+"second_ret": 8.42
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.73,
+"up5": 2,
+"lead": "NHN KCP",
+"lead_ret": 14.82,
+"second": "엑스플러스",
+"second_ret": 5.45
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.58,
+"up5": 2,
+"lead": "소프트캠프",
+"lead_ret": 30.0,
+"second": "휴네시온",
+"second_ret": 6.53
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.45,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 21.6,
+"second": "NHN KCP",
+"second_ret": 14.82
+},
+{
+"name": "보안주(정보)",
+"n": 49,
+"avg": 2.27,
+"up5": 7,
+"lead": "소프트캠프",
+"lead_ret": 30.0,
+"second": "싸이버원",
+"second_ret": 18.49
+},
+{
+"name": "삼성페이",
+"n": 26,
+"avg": 2.05,
+"up5": 3,
+"lead": "다날",
+"lead_ret": 21.6,
+"second": "NHN KCP",
+"second_ret": 14.82
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 1.93,
+"up5": 4,
+"lead": "다날",
+"lead_ret": 21.6,
+"second": "뱅크웨어글로벌",
+"second_ret": 15.97
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.92,
+"up5": 1,
+"lead": "신세계",
+"lead_ret": 5.44,
+"second": "글로벌텍스프리",
+"second_ret": 3.45
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.82,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 15.05,
+"second": "코리안리",
+"second_ret": 3.86
+},
+{
+"name": "보안주(물리)",
+"n": 20,
+"avg": 1.82,
+"up5": 3,
+"lead": "싸이버원",
+"lead_ret": 18.49,
+"second": "포커스에이아이",
+"second_ret": 7.11
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -3.63,
+"up5": 0,
+"lead": "코세스",
+"lead_ret": 2.1,
+"second": "루멘스바이오스",
+"second_ret": 0.51
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -2.06,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 0.0,
+"second": "비엠티",
+"second_ret": -1.17
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": -1.79,
+"up5": 0,
+"lead": "SK오션플랜트",
+"lead_ret": 0.0,
+"second": "세아제강",
+"second_ret": -0.15
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -1.7,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": 0.5,
+"second": "나인테크",
+"second_ret": -0.9
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.61,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.0,
+"second": "LG디스플레이",
+"second_ret": -0.38
+}
+],
+"leaders": [
+{
+"name": "다날",
+"code": "064260",
+"ret": 21.6,
+"value": 9816,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 21.5,
+"value": 9786,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "올릭스",
+"code": "226950",
+"ret": 18.46,
+"value": 5100,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 10.68,
+"value": 1729,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "NHN KCP",
+"code": "060250",
+"ret": 14.82,
+"value": 1077,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

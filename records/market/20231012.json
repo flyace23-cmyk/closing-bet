@@ -1,0 +1,254 @@
+{
+"date": "20231012",
+"kospi": 1.21,
+"kosdaq": 2.25,
+"adv": 1678,
+"dec": 419,
+"flat": 100,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 153378,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "삼아알미늄",
+"lead_ret": 29.04,
+"second": "TCC스틸",
+"second_ret": 16.58
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "폴라리스세원",
+"lead_ret": 29.81,
+"second": "체시스",
+"second_ret": 22.64
+},
+{
+"name": "화장품",
+"n": 4,
+"lead": "아우딘퓨쳐스",
+"lead_ret": 15.67,
+"second": "잉글우드랩",
+"second_ret": 12.77
+}
+],
+"themes": [
+{
+"name": "리비안(RIVIAN)",
+"n": 20,
+"avg": 4.81,
+"up5": 4,
+"lead": "폴라리스세원",
+"lead_ret": 29.81,
+"second": "TCC스틸",
+"second_ret": 16.58
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 3.84,
+"up5": 6,
+"lead": "동화기업",
+"lead_ret": 13.05,
+"second": "이브이첨단소재",
+"second_ret": 8.64
+},
+{
+"name": "의료AI",
+"n": 22,
+"avg": 3.82,
+"up5": 9,
+"lead": "노을",
+"lead_ret": 14.87,
+"second": "폴라리스오피스",
+"second_ret": 14.5
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.67,
+"up5": 3,
+"lead": "포시에스",
+"lead_ret": 18.04,
+"second": "폴라리스오피스",
+"second_ret": 14.5
+},
+{
+"name": "비철금속",
+"n": 24,
+"avg": 3.62,
+"up5": 3,
+"lead": "삼아알미늄",
+"lead_ret": 29.04,
+"second": "조일알미늄",
+"second_ret": 11.63
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.59,
+"up5": 2,
+"lead": "LS에코에너지",
+"lead_ret": 10.05,
+"second": "일진전기",
+"second_ret": 6.64
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 3.41,
+"up5": 2,
+"lead": "코스모화학",
+"lead_ret": 10.57,
+"second": "앱튼",
+"second_ret": 6.9
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 32,
+"avg": 3.23,
+"up5": 7,
+"lead": "ISC",
+"lead_ret": 10.89,
+"second": "피에스케이홀딩스",
+"second_ret": 10.42
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 66,
+"avg": 3.21,
+"up5": 12,
+"lead": "삼아알미늄",
+"lead_ret": 29.04,
+"second": "TCC스틸",
+"second_ret": 16.58
+},
+{
+"name": "2차전지",
+"n": 123,
+"avg": 3.17,
+"up5": 21,
+"lead": "삼아알미늄",
+"lead_ret": 29.04,
+"second": "TCC스틸",
+"second_ret": 16.58
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.15,
+"up5": 1,
+"lead": "체시스",
+"lead_ret": 22.64,
+"second": "태경비케이",
+"second_ret": 3.22
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 3.06,
+"up5": 2,
+"lead": "APS이노베이션",
+"lead_ret": 10.87,
+"second": "아진산업",
+"second_ret": 6.4
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.08,
+"up5": 0,
+"lead": "SG",
+"lead_ret": 1.51,
+"second": "HC홈센타",
+"second_ret": 0.87
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -2.05,
+"up5": 0,
+"lead": "모비스",
+"lead_ret": 1.69,
+"second": "인지컨트롤스",
+"second_ret": 1.54
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -1.22,
+"up5": 0,
+"lead": "서울가스",
+"lead_ret": 1.25,
+"second": "삼천리",
+"second_ret": 0.31
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -0.84,
+"up5": 0,
+"lead": "현대위아",
+"lead_ret": 1.45,
+"second": "한화에어로스페이스",
+"second_ret": 1.35
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -0.79,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 4.97,
+"second": "SK이노베이션",
+"second_ret": 2.8
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 12.75,
+"value": 2815,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "폴라리스오피스",
+"code": "041020",
+"ret": 14.5,
+"value": 2289,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "큐라티스",
+"code": "348080",
+"ret": 16.98,
+"value": 1402,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "TCC스틸",
+"code": "002710",
+"ret": 16.58,
+"value": 1358,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "삼아알미늄",
+"code": "006110",
+"ret": 29.04,
+"value": 1317,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

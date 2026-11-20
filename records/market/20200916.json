@@ -1,0 +1,238 @@
+{
+"date": "20200916",
+"kospi": -0.31,
+"kosdaq": -0.35,
+"adv": 626,
+"dec": 1156,
+"flat": 155,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 328644,
+"hot": [
+{
+"name": "자동차부품",
+"n": 6,
+"lead": "영화테크",
+"lead_ret": 29.85,
+"second": "서진오토모티브",
+"second_ret": 29.83
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 3.19,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 29.8,
+"second": "경동도시가스",
+"second_ret": 8.38
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.05,
+"up5": 3,
+"lead": "YTN",
+"lead_ret": 13.54,
+"second": "CJ ENM",
+"second_ret": 7.23
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 2.98,
+"up5": 2,
+"lead": "한국정밀기계",
+"lead_ret": 30.0,
+"second": "스맥",
+"second_ret": 7.41
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.72,
+"up5": 2,
+"lead": "덴티스",
+"lead_ret": 17.75,
+"second": "나이벡",
+"second_ret": 14.0
+},
+{
+"name": "폐배터리",
+"n": 14,
+"avg": 2.42,
+"up5": 2,
+"lead": "영화테크",
+"lead_ret": 29.85,
+"second": "킵스파마",
+"second_ret": 7.74
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 2.33,
+"up5": 1,
+"lead": "에코플라스틱",
+"lead_ret": 12.18,
+"second": "삼륭물산",
+"second_ret": 4.54
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 2.31,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 16.93,
+"second": "나이벡",
+"second_ret": 14.0
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": 1.83,
+"up5": 1,
+"lead": "CJ대한통운",
+"lead_ret": 9.23,
+"second": "한익스프레스",
+"second_ret": 3.33
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 1.77,
+"up5": 1,
+"lead": "누리플렉스",
+"lead_ret": 9.92,
+"second": "NICE인프라",
+"second_ret": 2.79
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 19,
+"avg": 1.66,
+"up5": 5,
+"lead": "누리플렉스",
+"lead_ret": 9.92,
+"second": "포스코DX",
+"second_ret": 9.39
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 1.57,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 6.74,
+"second": "신세계",
+"second_ret": 0.69
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.5,
+"up5": 3,
+"lead": "지에스이",
+"lead_ret": 29.8,
+"second": "부스타",
+"second_ret": 9.29
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.0,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": -1.34,
+"second": "유니온머티리얼",
+"second_ret": -3.04
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": -2.8,
+"up5": 0,
+"lead": "동일기연",
+"lead_ret": -0.94,
+"second": "프로텍",
+"second_ret": -1.12
+},
+{
+"name": "무선충전기술",
+"n": 10,
+"avg": -2.69,
+"up5": 0,
+"lead": "웰킵스하이텍",
+"lead_ret": 0.0,
+"second": "삼성전자",
+"second_ret": 0.0
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": -2.31,
+"up5": 0,
+"lead": "비에이치아이",
+"lead_ret": 0.46,
+"second": "미코",
+"second_ret": 0.27
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 22,
+"avg": -2.25,
+"up5": 0,
+"lead": "고영",
+"lead_ret": 1.51,
+"second": "엠케이전자",
+"second_ret": 0.91
+}
+],
+"leaders": [
+{
+"name": "덴티스",
+"code": "261200",
+"ret": 17.75,
+"value": 8215,
+"theme": "치아 치료(임플란트 등)",
+"reason": "테마: 치아 치료(임플란트 등)"
+},
+{
+"name": "텔콘RF제약",
+"code": "200230",
+"ret": 21.99,
+"value": 7850,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "케이피엠테크",
+"code": "042040",
+"ret": 29.82,
+"value": 6467,
+"theme": "마스크",
+"reason": "테마: 마스크"
+},
+{
+"name": "한국정보인증",
+"code": "053300",
+"ret": 25.67,
+"value": 5715,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "에스티팜",
+"code": "237690",
+"ret": 16.93,
+"value": 3953,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+}
+],
+"backfilled": true
+}

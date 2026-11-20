@@ -1,0 +1,254 @@
+{
+"date": "20251203",
+"kospi": 1.04,
+"kosdaq": 0.39,
+"adv": 1523,
+"dec": 729,
+"flat": 138,
+"limit_up": 8,
+"limit_down": 0,
+"value_total": 206321,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "링크솔루션",
+"lead_ret": 29.92,
+"second": "스맥",
+"second_ret": 21.2
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "한신공영",
+"lead_ret": 30.0,
+"second": "상지건설",
+"second_ret": 29.85
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "미래컴퍼니",
+"lead_ret": 23.13,
+"second": "엘앤케이바이오",
+"second_ret": 17.29
+}
+],
+"themes": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 19.74,
+"up5": 3,
+"lead": "천일고속",
+"lead_ret": 29.97,
+"second": "대성산업",
+"second_ret": 29.93
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 6.96,
+"up5": 6,
+"lead": "천일고속",
+"lead_ret": 29.97,
+"second": "대성산업",
+"second_ret": 29.93
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 6.71,
+"up5": 3,
+"lead": "링크솔루션",
+"lead_ret": 29.92,
+"second": "스맥",
+"second_ret": 21.2
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 5.62,
+"up5": 6,
+"lead": "한신공영",
+"lead_ret": 30.0,
+"second": "상지건설",
+"second_ret": 29.85
+},
+{
+"name": "핵융합에너지",
+"n": 8,
+"avg": 5.55,
+"up5": 2,
+"lead": "비츠로넥스텍",
+"lead_ret": 20.66,
+"second": "일진파워",
+"second_ret": 9.27
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 5.2,
+"up5": 2,
+"lead": "오텍",
+"lead_ret": 29.74,
+"second": "GH신소재",
+"second_ret": 5.71
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": 5.08,
+"up5": 2,
+"lead": "코칩",
+"lead_ret": 29.98,
+"second": "아모텍",
+"second_ret": 9.16
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 5.07,
+"up5": 7,
+"lead": "심텍홀딩스",
+"lead_ret": 10.27,
+"second": "심텍",
+"second_ret": 9.79
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.3,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 29.93,
+"second": "E1",
+"second_ret": 3.8
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 4.3,
+"up5": 1,
+"lead": "대성산업",
+"lead_ret": 29.93,
+"second": "E1",
+"second_ret": 3.8
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 4.22,
+"up5": 3,
+"lead": "대성산업",
+"lead_ret": 29.93,
+"second": "우양피앤엘",
+"second_ret": 14.55
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 4.12,
+"up5": 5,
+"lead": "우진",
+"lead_ret": 8.84,
+"second": "현대건설",
+"second_ret": 6.98
+}
+],
+"themes_worst": [
+{
+"name": "영화",
+"n": 10,
+"avg": -1.47,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 1.61,
+"second": "포바이포",
+"second_ret": 1.57
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.07,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.0,
+"second": "BNK금융지주",
+"second_ret": -0.13
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.93,
+"up5": 0,
+"lead": "아이티센씨티에스",
+"lead_ret": 0.68,
+"second": "극동유화",
+"second_ret": 0.6
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": -0.62,
+"up5": 0,
+"lead": "에피소드컴퍼니",
+"lead_ret": 4.43,
+"second": "오로라",
+"second_ret": 2.73
+},
+{
+"name": "면역항암제",
+"n": 33,
+"avg": -0.58,
+"up5": 2,
+"lead": "바이젠셀",
+"lead_ret": 10.72,
+"second": "셀리드",
+"second_ret": 6.35
+}
+],
+"leaders": [
+{
+"name": "인벤티지랩",
+"code": "389470",
+"ret": 11.06,
+"value": 5207,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "스맥",
+"code": "099440",
+"ret": 21.2,
+"value": 2837,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "비츠로넥스텍",
+"code": "488900",
+"ret": 20.66,
+"value": 1900,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 11.05,
+"value": 1472,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "큐리오시스",
+"code": "494120",
+"ret": 10.25,
+"value": 1100,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

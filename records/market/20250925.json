@@ -1,0 +1,254 @@
+{
+"date": "20250925",
+"kospi": -0.03,
+"kosdaq": -0.98,
+"adv": 825,
+"dec": 1404,
+"flat": 151,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 207442,
+"hot": [
+{
+"name": "스테이블코인",
+"n": 5,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 29.94,
+"second": "NHN KCP",
+"second_ret": 27.17
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "에이아이코리아",
+"lead_ret": 30.0,
+"second": "에스엠벡셀",
+"second_ret": 29.98
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "NAVER",
+"lead_ret": 11.4,
+"second": "버넥트",
+"second_ret": 10.89
+}
+],
+"themes": [
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": 5.17,
+"up5": 8,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 29.94,
+"second": "NHN KCP",
+"second_ret": 27.17
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 4.67,
+"up5": 3,
+"lead": "NHN KCP",
+"lead_ret": 27.17,
+"second": "쿠콘",
+"second_ret": 11.06
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 4.18,
+"up5": 1,
+"lead": "NHN KCP",
+"lead_ret": 27.17,
+"second": "KG이니시스",
+"second_ret": 2.04
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.57,
+"up5": 1,
+"lead": "쿠콘",
+"lead_ret": 11.06,
+"second": "갤럭시아머니트리",
+"second_ret": 2.06
+},
+{
+"name": "마이데이터",
+"n": 12,
+"avg": 3.05,
+"up5": 4,
+"lead": "NAVER",
+"lead_ret": 11.4,
+"second": "쿠콘",
+"second_ret": 11.06
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 2.59,
+"up5": 3,
+"lead": "엔비티",
+"lead_ret": 17.34,
+"second": "NAVER",
+"second_ret": 11.4
+},
+{
+"name": "핀테크(FinTech)",
+"n": 32,
+"avg": 2.35,
+"up5": 4,
+"lead": "NHN KCP",
+"lead_ret": 27.17,
+"second": "NAVER",
+"second_ret": 11.4
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.14,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 17.34,
+"second": "한국전자인증",
+"second_ret": 0.37
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.01,
+"up5": 5,
+"lead": "뱅크웨어글로벌",
+"lead_ret": 29.94,
+"second": "아이티아이즈",
+"second_ret": 9.03
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": 1.96,
+"up5": 1,
+"lead": "큐로홀딩스",
+"lead_ret": 30.0,
+"second": "포스코인터내셔널",
+"second_ret": 3.9
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 1.9,
+"up5": 0,
+"lead": "에코프로비엠",
+"lead_ret": 4.51,
+"second": "LG에너지솔루션",
+"second_ret": 3.88
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 1.8,
+"up5": 2,
+"lead": "토모큐브",
+"lead_ret": 12.1,
+"second": "오가노이드사이언스",
+"second_ret": 6.67
+}
+],
+"themes_worst": [
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.54,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.82,
+"second": "국순당",
+"second_ret": 0.68
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": -2.34,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": -0.11,
+"second": "케이엔알시스템",
+"second_ret": -0.31
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -2.23,
+"up5": 0,
+"lead": "청담글로벌",
+"lead_ret": 1.42,
+"second": "메디톡스",
+"second_ret": -0.32
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -2.14,
+"up5": 0,
+"lead": "씨피시스템",
+"lead_ret": 4.36,
+"second": "범한퓨얼셀",
+"second_ret": 3.68
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -1.94,
+"up5": 1,
+"lead": "코세스",
+"lead_ret": 8.46,
+"second": "범한퓨얼셀",
+"second_ret": 3.68
+}
+],
+"leaders": [
+{
+"name": "NAVER",
+"code": "035420",
+"ret": 11.4,
+"value": 21119,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "NHN KCP",
+"code": "060250",
+"ret": 27.17,
+"value": 3940,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+},
+{
+"name": "에이아이코리아",
+"code": "364950",
+"ret": 30.0,
+"value": 984,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "아이언디바이스",
+"code": "464500",
+"ret": 11.52,
+"value": 931,
+"theme": "전력반도체",
+"reason": "테마: 전력반도체"
+},
+{
+"name": "뱅크웨어글로벌",
+"code": "199480",
+"ret": 29.94,
+"value": 890,
+"theme": "스테이블코인",
+"reason": "테마: 스테이블코인"
+}
+],
+"backfilled": true
+}

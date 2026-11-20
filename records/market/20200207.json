@@ -1,0 +1,254 @@
+{
+"date": "20200207",
+"kospi": -0.72,
+"kosdaq": -0.01,
+"adv": 742,
+"dec": 961,
+"flat": 200,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 137542,
+"hot": [
+{
+"name": "의료기기",
+"n": 6,
+"lead": "한스바이오메드",
+"lead_ret": 12.23,
+"second": "엘앤씨바이오",
+"second_ret": 10.9
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "미코",
+"lead_ret": 12.21,
+"second": "자비스",
+"second_ret": 8.26
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "네이처셀",
+"lead_ret": 29.87,
+"second": "진매트릭스",
+"second_ret": 8.37
+}
+],
+"themes": [
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 10,
+"avg": 2.91,
+"up5": 1,
+"lead": "RF머트리얼즈",
+"lead_ret": 29.92,
+"second": "빛샘전자",
+"second_ret": 1.21
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 2.77,
+"up5": 2,
+"lead": "네이처셀",
+"lead_ret": 29.87,
+"second": "코아스템켐온",
+"second_ret": 9.78
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 2.29,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 10.31,
+"second": "강스템바이오텍",
+"second_ret": 1.72
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 21,
+"avg": 2.01,
+"up5": 4,
+"lead": "네이처셀",
+"lead_ret": 29.87,
+"second": "진매트릭스",
+"second_ret": 8.37
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 1.96,
+"up5": 1,
+"lead": "미코",
+"lead_ret": 12.21,
+"second": "코세스",
+"second_ret": 2.67
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": 1.88,
+"up5": 2,
+"lead": "미코",
+"lead_ret": 12.21,
+"second": "동방",
+"second_ret": 6.34
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 1.86,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 8.0,
+"second": "에코프로",
+"second_ret": 3.65
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": 1.56,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 4.01,
+"second": "팬스타엔터프라이즈",
+"second_ret": 3.38
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.44,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 10.31,
+"second": "하이비젼시스템",
+"second_ret": 4.03
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 1.42,
+"up5": 0,
+"lead": "가비아",
+"lead_ret": 4.62,
+"second": "이루온",
+"second_ret": 4.3
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 25,
+"avg": 1.34,
+"up5": 2,
+"lead": "자비스",
+"lead_ret": 8.26,
+"second": "타이거일렉",
+"second_ret": 7.31
+},
+{
+"name": "2차전지(장비)",
+"n": 29,
+"avg": 1.34,
+"up5": 2,
+"lead": "자비스",
+"lead_ret": 8.26,
+"second": "피엔티",
+"second_ret": 5.64
+}
+],
+"themes_worst": [
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -2.35,
+"up5": 0,
+"lead": "티비씨",
+"lead_ret": 1.29,
+"second": "YTN",
+"second_ret": 0.72
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -1.65,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 0.0,
+"second": "녹십자",
+"second_ret": -0.81
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -1.42,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 0.25,
+"second": "토니모리",
+"second_ret": 0.0
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -1.33,
+"up5": 0,
+"lead": "iM금융지주",
+"lead_ret": 0.15,
+"second": "기업은행",
+"second_ret": -0.46
+},
+{
+"name": "초전도체",
+"n": 14,
+"avg": -1.32,
+"up5": 0,
+"lead": "원익피앤이",
+"lead_ret": 2.42,
+"second": "모비스",
+"second_ret": 0.5
+}
+],
+"leaders": [
+{
+"name": "미코",
+"code": "059090",
+"ret": 12.21,
+"value": 3147,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 10.32,
+"value": 2341,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "태양금속",
+"code": "004100",
+"ret": 29.81,
+"value": 630,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "네이처셀",
+"code": "007390",
+"ret": 29.87,
+"value": 482,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "RF머트리얼즈",
+"code": "327260",
+"ret": 29.92,
+"value": 363,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+}
+],
+"backfilled": true
+}

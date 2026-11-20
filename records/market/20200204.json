@@ -1,0 +1,254 @@
+{
+"date": "20200204",
+"kospi": 1.84,
+"kosdaq": 2.22,
+"adv": 1507,
+"dec": 278,
+"flat": 118,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 118972,
+"hot": [
+{
+"name": "전기차",
+"n": 6,
+"lead": "유에스티",
+"lead_ret": 29.97,
+"second": "삼화전자",
+"second_ret": 22.49
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "성도이엔지",
+"lead_ret": 12.33,
+"second": "러셀",
+"second_ret": 10.26
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "유에스티",
+"lead_ret": 29.97,
+"second": "피엔티",
+"second_ret": 14.52
+}
+],
+"themes": [
+{
+"name": "니켈",
+"n": 10,
+"avg": 7.82,
+"up5": 4,
+"lead": "유에스티",
+"lead_ret": 29.97,
+"second": "삼화전자",
+"second_ret": 22.49
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 4.62,
+"up5": 6,
+"lead": "덕우전자",
+"lead_ret": 13.68,
+"second": "삼성SDI",
+"second_ret": 8.45
+},
+{
+"name": "온디바이스 AI",
+"n": 14,
+"avg": 4.36,
+"up5": 4,
+"lead": "어보브반도체",
+"lead_ret": 13.54,
+"second": "에이팩트",
+"second_ret": 9.28
+},
+{
+"name": "유리 기판",
+"n": 14,
+"avg": 4.28,
+"up5": 4,
+"lead": "에프엔에스테크",
+"lead_ret": 16.51,
+"second": "SKC",
+"second_ret": 7.61
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 3.97,
+"up5": 3,
+"lead": "어보브반도체",
+"lead_ret": 13.54,
+"second": "디아이티",
+"second_ret": 6.22
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 3.92,
+"up5": 5,
+"lead": "한익스프레스",
+"lead_ret": 7.64,
+"second": "아이텍",
+"second_ret": 7.26
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 3.89,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 22.49,
+"second": "삼화전기",
+"second_ret": 13.18
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 3.89,
+"up5": 3,
+"lead": "삼화전자",
+"lead_ret": 22.49,
+"second": "삼화전기",
+"second_ret": 13.18
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 3.89,
+"up5": 6,
+"lead": "티움바이오",
+"lead_ret": 11.37,
+"second": "에스티큐브",
+"second_ret": 7.07
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 3.88,
+"up5": 1,
+"lead": "유에스티",
+"lead_ret": 29.97,
+"second": "KBI동양철관",
+"second_ret": 2.53
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 3.79,
+"up5": 2,
+"lead": "메타케어",
+"lead_ret": 8.38,
+"second": "바이오솔루션",
+"second_ret": 5.22
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 15,
+"avg": 3.78,
+"up5": 2,
+"lead": "삼화전자",
+"lead_ret": 22.49,
+"second": "유니온머티리얼",
+"second_ret": 5.01
+}
+],
+"themes_worst": [
+{
+"name": "육계",
+"n": 8,
+"avg": -1.85,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 3.14,
+"second": "팜스토리",
+"second_ret": 0.98
+},
+{
+"name": "마스크",
+"n": 19,
+"avg": -1.72,
+"up5": 0,
+"lead": "코데즈컴바인",
+"lead_ret": 2.59,
+"second": "애경산업",
+"second_ret": 2.52
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -0.7,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 3.14,
+"second": "동원산업",
+"second_ret": 2.25
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -0.66,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 2.25,
+"second": "사조산업",
+"second_ret": 1.23
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 27,
+"avg": -0.47,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 3.14,
+"second": "코미팜",
+"second_ret": 2.34
+}
+],
+"leaders": [
+{
+"name": "모베이스전자",
+"code": "012860",
+"ret": 11.49,
+"value": 604,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "삼화전기",
+"code": "009470",
+"ret": 13.18,
+"value": 556,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "아이크래프트",
+"code": "052460",
+"ret": 19.97,
+"value": 550,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "피엔티",
+"code": "137400",
+"ret": 14.52,
+"value": 504,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 22.11,
+"value": 461,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+}
+],
+"backfilled": true
+}

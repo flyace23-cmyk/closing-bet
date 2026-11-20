@@ -1,0 +1,254 @@
+{
+"date": "20250206",
+"kospi": 1.1,
+"kosdaq": 1.28,
+"adv": 1356,
+"dec": 817,
+"flat": 157,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 197209,
+"hot": [
+{
+"name": "유리 기판",
+"n": 8,
+"lead": "램테크놀러지",
+"lead_ret": 29.95,
+"second": "와이씨켐",
+"second_ret": 29.8
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 5,
+"lead": "램테크놀러지",
+"lead_ret": 29.95,
+"second": "필옵틱스",
+"second_ret": 24.96
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 5,
+"lead": "현대로템",
+"lead_ret": 17.02,
+"second": "삼양식품",
+"second_ret": 14.91
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 10.35,
+"up5": 14,
+"lead": "램테크놀러지",
+"lead_ret": 29.95,
+"second": "와이씨켐",
+"second_ret": 29.8
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.45,
+"up5": 5,
+"lead": "티씨케이",
+"lead_ret": 12.76,
+"second": "예스티",
+"second_ret": 8.43
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 4.3,
+"up5": 10,
+"lead": "와이씨켐",
+"lead_ret": 29.8,
+"second": "한화비전",
+"second_ret": 21.21
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.01,
+"up5": 1,
+"lead": "DL이앤씨",
+"lead_ret": 13.75,
+"second": "대우건설",
+"second_ret": 4.19
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.89,
+"up5": 12,
+"lead": "DL이앤씨",
+"lead_ret": 13.75,
+"second": "전진건설로봇",
+"second_ret": 12.43
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": 3.58,
+"up5": 4,
+"lead": "램테크놀러지",
+"lead_ret": 29.95,
+"second": "PI첨단소재",
+"second_ret": 12.26
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 3.53,
+"up5": 5,
+"lead": "필옵틱스",
+"lead_ret": 24.96,
+"second": "PI첨단소재",
+"second_ret": 12.26
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": 3.53,
+"up5": 4,
+"lead": "전진건설로봇",
+"lead_ret": 12.43,
+"second": "HD건설기계",
+"second_ret": 11.13
+},
+{
+"name": "반도체 재료/부품",
+"n": 69,
+"avg": 3.36,
+"up5": 15,
+"lead": "램테크놀러지",
+"lead_ret": 29.95,
+"second": "와이씨켐",
+"second_ret": 29.8
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 3.24,
+"up5": 3,
+"lead": "켐트로닉스",
+"lead_ret": 17.18,
+"second": "LS",
+"second_ret": 7.42
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 3.2,
+"up5": 3,
+"lead": "삼일씨엔에스",
+"lead_ret": 29.97,
+"second": "유엔젤",
+"second_ret": 7.6
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.18,
+"up5": 2,
+"lead": "ISC",
+"lead_ret": 9.38,
+"second": "LB인베스트먼트",
+"second_ret": 6.09
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.82,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 1.46,
+"second": "KG케미칼",
+"second_ret": 0.0
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -1.21,
+"up5": 0,
+"lead": "제이오",
+"lead_ret": 1.0,
+"second": "LG화학",
+"second_ret": 0.23
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -1.2,
+"up5": 0,
+"lead": "에스티아이",
+"lead_ret": 3.28,
+"second": "하이비젼시스템",
+"second_ret": 1.74
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -1.19,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 1.93,
+"second": "한선엔지니어링",
+"second_ret": 0.51
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": -1.14,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 0.85,
+"second": "한국전력",
+"second_ret": 0.71
+}
+],
+"leaders": [
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 12.96,
+"value": 6418,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "현대로템",
+"code": "064350",
+"ret": 17.02,
+"value": 6319,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "삼양식품",
+"code": "003230",
+"ret": 14.91,
+"value": 3112,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 24.96,
+"value": 3023,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "SK바이오팜",
+"code": "326030",
+"ret": 17.16,
+"value": 2987,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

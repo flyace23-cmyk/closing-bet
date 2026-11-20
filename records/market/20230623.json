@@ -1,0 +1,254 @@
+{
+"date": "20230623",
+"kospi": -0.91,
+"kosdaq": -0.18,
+"adv": 583,
+"dec": 1485,
+"flat": 99,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 158784,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "기가비스",
+"lead_ret": 29.94,
+"second": "미래산업",
+"second_ret": 17.91
+},
+{
+"name": "의료기기",
+"n": 4,
+"lead": "다이나믹솔루션",
+"lead_ret": 19.52,
+"second": "제이엘케이",
+"second_ret": 14.04
+},
+{
+"name": "유전자 치료제/분석",
+"n": 3,
+"lead": "지노믹트리",
+"lead_ret": 16.54,
+"second": "신테카바이오",
+"second_ret": 15.06
+}
+],
+"themes": [
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 3.54,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 29.93,
+"second": "토마토시스템",
+"second_ret": 2.17
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 3.28,
+"up5": 2,
+"lead": "상보",
+"lead_ret": 16.99,
+"second": "제이오",
+"second_ret": 5.35
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.87,
+"up5": 2,
+"lead": "기가비스",
+"lead_ret": 29.94,
+"second": "티엘비",
+"second_ret": 7.18
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.52,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 29.95,
+"second": "엔피케이",
+"second_ret": 0.48
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 2.09,
+"up5": 7,
+"lead": "테크윙",
+"lead_ret": 10.31,
+"second": "와이씨켐",
+"second_ret": 8.72
+},
+{
+"name": "유리 기판",
+"n": 17,
+"avg": 1.87,
+"up5": 2,
+"lead": "기가비스",
+"lead_ret": 29.94,
+"second": "와이씨켐",
+"second_ret": 8.72
+},
+{
+"name": "반도체 장비",
+"n": 85,
+"avg": 1.84,
+"up5": 13,
+"lead": "기가비스",
+"lead_ret": 29.94,
+"second": "미래산업",
+"second_ret": 17.91
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 1.72,
+"up5": 2,
+"lead": "프로텍",
+"lead_ret": 13.46,
+"second": "레이저쎌",
+"second_ret": 7.11
+},
+{
+"name": "의료AI",
+"n": 20,
+"avg": 1.65,
+"up5": 3,
+"lead": "신테카바이오",
+"lead_ret": 15.06,
+"second": "제이엘케이",
+"second_ret": 14.04
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 1.53,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 29.95,
+"second": "부산산업",
+"second_ret": 1.41
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 1.51,
+"up5": 2,
+"lead": "다이나믹솔루션",
+"lead_ret": 19.52,
+"second": "제이엘케이",
+"second_ret": 14.04
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 6,
+"avg": 1.35,
+"up5": 1,
+"lead": "네패스아크",
+"lead_ret": 10.79,
+"second": "네패스",
+"second_ret": 0.81
+}
+],
+"themes_worst": [
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -2.89,
+"up5": 0,
+"lead": "비트컴퓨터",
+"lead_ret": 1.55,
+"second": "에피소드컴퍼니",
+"second_ret": 1.53
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.79,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -1.27,
+"second": "삼성물산",
+"second_ret": -2.44
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -2.53,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": -1.37,
+"second": "이마트",
+"second_ret": -1.75
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -2.52,
+"up5": 0,
+"lead": "애드바이오텍",
+"lead_ret": 2.02,
+"second": "팜스토리",
+"second_ret": 0.2
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -2.51,
+"up5": 0,
+"lead": "금호타이어",
+"lead_ret": -0.31,
+"second": "HS효성첨단소재",
+"second_ret": -1.21
+}
+],
+"leaders": [
+{
+"name": "상보",
+"code": "027580",
+"ret": 16.99,
+"value": 4245,
+"theme": "탄소나노튜브(CNT)",
+"reason": "테마: 탄소나노튜브(CNT)"
+},
+{
+"name": "기가비스",
+"code": "420770",
+"ret": 29.94,
+"value": 2388,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "유라테크",
+"code": "048430",
+"ret": 14.05,
+"value": 1758,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "티로보틱스",
+"code": "117730",
+"ret": 11.29,
+"value": 1395,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "솔트웨어",
+"code": "328380",
+"ret": 24.69,
+"value": 1267,
+"theme": "클라우드 컴퓨팅",
+"reason": "테마: 클라우드 컴퓨팅"
+}
+],
+"backfilled": true
+}

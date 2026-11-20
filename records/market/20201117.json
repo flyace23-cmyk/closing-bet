@@ -1,0 +1,229 @@
+{
+"date": "20201117",
+"kospi": -0.15,
+"kosdaq": -0.93,
+"adv": 591,
+"dec": 1209,
+"flat": 152,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 296360,
+"hot": [],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 5.71,
+"up5": 3,
+"lead": "소마젠",
+"lead_ret": 13.42,
+"second": "녹십자",
+"second_ret": 7.57
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 5.07,
+"up5": 1,
+"lead": "SP삼화",
+"lead_ret": 29.82,
+"second": "노루페인트",
+"second_ret": 4.97
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.73,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 10.38,
+"second": "GKL",
+"second_ret": 2.85
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.73,
+"up5": 1,
+"lead": "토비스",
+"lead_ret": 10.38,
+"second": "GKL",
+"second_ret": 2.85
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.21,
+"up5": 3,
+"lead": "SBS",
+"lead_ret": 16.62,
+"second": "아시아경제",
+"second_ret": 10.53
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.8,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 7.57,
+"second": "지씨셀",
+"second_ret": 5.24
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.64,
+"up5": 1,
+"lead": "아주IB투자",
+"lead_ret": 6.45,
+"second": "한화생명",
+"second_ret": 3.43
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 1.6,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 3.13,
+"second": "대구백화점",
+"second_ret": 2.99
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 1.52,
+"up5": 1,
+"lead": "티앤알바이오팹",
+"lead_ret": 9.75,
+"second": "휴림로봇",
+"second_ret": 3.94
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 17,
+"avg": 1.48,
+"up5": 1,
+"lead": "파라텍",
+"lead_ret": 16.78,
+"second": "오텍",
+"second_ret": 3.58
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.46,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 9.39,
+"second": "현대백화점",
+"second_ret": 3.13
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 1.4,
+"up5": 1,
+"lead": "씨엑스아이",
+"lead_ret": 18.81,
+"second": "크리스탈신소재",
+"second_ret": 2.48
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -4.13,
+"up5": 0,
+"lead": "아시아나항공",
+"lead_ret": 4.13,
+"second": "AK홀딩스",
+"second_ret": -0.48
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -4.04,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 0.13,
+"second": "에스넷",
+"second_ret": -1.27
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.94,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.0,
+"second": "광동제약",
+"second_ret": -1.47
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": -3.71,
+"up5": 0,
+"lead": "현대글로비스",
+"lead_ret": 3.21,
+"second": "삼일",
+"second_ret": 0.26
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -3.43,
+"up5": 0,
+"lead": "흥아해운",
+"lead_ret": 0.0,
+"second": "팬오션",
+"second_ret": -2.25
+}
+],
+"leaders": [
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 15.63,
+"value": 7807,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 29.92,
+"value": 6291,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "소마젠",
+"code": "950200",
+"ret": 13.42,
+"value": 5062,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+},
+{
+"name": "대한과학",
+"code": "131220",
+"ret": 17.07,
+"value": 4585,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "대정화금",
+"code": "120240",
+"ret": 19.67,
+"value": 4536,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

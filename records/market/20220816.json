@@ -1,0 +1,254 @@
+{
+"date": "20220816",
+"kospi": 0.22,
+"kosdaq": 0.37,
+"adv": 915,
+"dec": 979,
+"flat": 202,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 147354,
+"hot": [
+{
+"name": "교육/온라인 교육",
+"n": 4,
+"lead": "메가엠디",
+"lead_ret": 29.87,
+"second": "YBM넷",
+"second_ret": 14.5
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "프로이천",
+"lead_ret": 19.87,
+"second": "레이저쎌",
+"second_ret": 6.59
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "국전",
+"lead_ret": 17.04,
+"second": "켐트로스",
+"second_ret": 8.51
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 6.15,
+"up5": 2,
+"lead": "메가엠디",
+"lead_ret": 29.87,
+"second": "아이비김영",
+"second_ret": 7.1
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.32,
+"up5": 4,
+"lead": "메가엠디",
+"lead_ret": 29.87,
+"second": "YBM넷",
+"second_ret": 14.5
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.03,
+"up5": 2,
+"lead": "이씨에스",
+"lead_ret": 10.55,
+"second": "흥국에프엔비",
+"second_ret": 6.57
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.44,
+"up5": 1,
+"lead": "진에어",
+"lead_ret": 8.28,
+"second": "에어부산",
+"second_ret": 3.9
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.41,
+"up5": 3,
+"lead": "소프트캠프",
+"lead_ret": 14.86,
+"second": "이씨에스",
+"second_ret": 10.55
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 26,
+"avg": 2.1,
+"up5": 4,
+"lead": "국전",
+"lead_ret": 17.04,
+"second": "켐트로스",
+"second_ret": 8.51
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 1.98,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 5.89,
+"second": "SK하이닉스",
+"second_ret": 3.64
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 9,
+"avg": 1.91,
+"up5": 1,
+"lead": "켄코아에어로스페이스",
+"lead_ret": 10.17,
+"second": "세아베스틸지주",
+"second_ret": 2.66
+},
+{
+"name": "반도체 재료/부품",
+"n": 61,
+"avg": 1.91,
+"up5": 8,
+"lead": "국전",
+"lead_ret": 17.04,
+"second": "켐트로스",
+"second_ret": 8.51
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 1.82,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 7.08,
+"second": "티앤알바이오팹",
+"second_ret": 2.76
+},
+{
+"name": "시스템반도체",
+"n": 42,
+"avg": 1.81,
+"up5": 6,
+"lead": "켐트로스",
+"lead_ret": 8.51,
+"second": "네패스",
+"second_ret": 7.09
+},
+{
+"name": "온디바이스 AI",
+"n": 19,
+"avg": 1.68,
+"up5": 2,
+"lead": "네패스",
+"lead_ret": 7.09,
+"second": "리노공업",
+"second_ret": 5.77
+}
+],
+"themes_worst": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -2.28,
+"up5": 0,
+"lead": "에스와이",
+"lead_ret": -0.13,
+"second": "코오롱글로벌",
+"second_ret": -0.53
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -2.27,
+"up5": 0,
+"lead": "세아베스틸지주",
+"lead_ret": 2.66,
+"second": "KG스틸",
+"second_ret": 1.18
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -2.19,
+"up5": 0,
+"lead": "금호건설",
+"lead_ret": 0.45,
+"second": "까뮤이앤씨",
+"second_ret": 0.42
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": -2.01,
+"up5": 0,
+"lead": "KCC",
+"lead_ret": 2.6,
+"second": "한샘",
+"second_ret": 2.15
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.0,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 2.98,
+"second": "세명전기",
+"second_ret": 0.9
+}
+],
+"leaders": [
+{
+"name": "박셀바이오",
+"code": "323990",
+"ret": 21.44,
+"value": 7658,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "국전",
+"code": "307750",
+"ret": 17.04,
+"value": 2687,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "피코그램",
+"code": "376180",
+"ret": 19.37,
+"value": 2179,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "메가엠디",
+"code": "133750",
+"ret": 29.87,
+"value": 999,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "에스티큐브",
+"code": "052020",
+"ret": 19.8,
+"value": 839,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

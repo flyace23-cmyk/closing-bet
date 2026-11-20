@@ -1,0 +1,254 @@
+{
+"date": "20251204",
+"kospi": -0.19,
+"kosdaq": -0.23,
+"adv": 721,
+"dec": 1537,
+"flat": 132,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 241703,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "한라캐스트",
+"lead_ret": 17.73,
+"second": "원익홀딩스",
+"second_ret": 16.11
+},
+{
+"name": "건설 중소형",
+"n": 4,
+"lead": "상지건설",
+"lead_ret": 30.0,
+"second": "일성건설",
+"second_ret": 29.95
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 3,
+"lead": "현대오토에버",
+"lead_ret": 27.19,
+"second": "한라캐스트",
+"second_ret": 17.73
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 4.27,
+"up5": 4,
+"lead": "상지건설",
+"lead_ret": 30.0,
+"second": "일성건설",
+"second_ret": 29.95
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 3.38,
+"up5": 2,
+"lead": "토모큐브",
+"lead_ret": 17.42,
+"second": "오가노이드사이언스",
+"second_ret": 6.53
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.33,
+"up5": 3,
+"lead": "현대모비스",
+"lead_ret": 8.76,
+"second": "현대차",
+"second_ret": 6.38
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 44,
+"avg": 3.08,
+"up5": 14,
+"lead": "현대오토에버",
+"lead_ret": 27.19,
+"second": "한라캐스트",
+"second_ret": 17.73
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 2.68,
+"up5": 3,
+"lead": "인벤티지랩",
+"lead_ret": 24.14,
+"second": "큐라티스",
+"second_ret": 8.43
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 71,
+"avg": 2.3,
+"up5": 14,
+"lead": "한라캐스트",
+"lead_ret": 17.73,
+"second": "원익홀딩스",
+"second_ret": 16.11
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.79,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 29.82,
+"second": "무림P&P",
+"second_ret": 0.19
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 1.79,
+"up5": 1,
+"lead": "동신건설",
+"lead_ret": 29.82,
+"second": "무림P&P",
+"second_ret": 0.19
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.64,
+"up5": 1,
+"lead": "현대모비스",
+"lead_ret": 8.76,
+"second": "LG이노텍",
+"second_ret": 4.43
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 1.48,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 14.29,
+"second": "화천기공",
+"second_ret": 9.36
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 1.45,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 7.2,
+"second": "메디포스트",
+"second_ret": 1.01
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 38,
+"avg": 1.44,
+"up5": 4,
+"lead": "스맥",
+"lead_ret": 14.29,
+"second": "LG씨엔에스",
+"second_ret": 6.97
+}
+],
+"themes_worst": [
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -4.18,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 0.22,
+"second": "동양고속",
+"second_ret": 0.0
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -3.57,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.57,
+"second": "펨트론",
+"second_ret": -1.68
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -2.99,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": 4.43,
+"second": "네오티스",
+"second_ret": 2.75
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": -2.68,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.53,
+"second": "에프엔에스테크",
+"second_ret": 1.25
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -2.58,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -0.66,
+"second": "코텍",
+"second_ret": -0.89
+}
+],
+"leaders": [
+{
+"name": "로보티즈",
+"code": "108490",
+"ret": 12.72,
+"value": 8810,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 16.11,
+"value": 5731,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "한라캐스트",
+"code": "125490",
+"ret": 17.73,
+"value": 4939,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "뉴로핏",
+"code": "380550",
+"ret": 11.84,
+"value": 4562,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "현대오토에버",
+"code": "307950",
+"ret": 27.19,
+"value": 4086,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

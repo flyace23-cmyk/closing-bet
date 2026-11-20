@@ -1,0 +1,254 @@
+{
+"date": "20231206",
+"kospi": 0.04,
+"kosdaq": 0.76,
+"adv": 1334,
+"dec": 747,
+"flat": 141,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 146252,
+"hot": [
+{
+"name": "광고",
+"n": 5,
+"lead": "YG PLUS",
+"lead_ret": 23.81,
+"second": "레뷰코퍼레이션",
+"second_ret": 19.9
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 4,
+"lead": "컴투스홀딩스",
+"lead_ret": 29.89,
+"second": "네오위즈홀딩스",
+"second_ret": 18.89
+},
+{
+"name": "지주사",
+"n": 4,
+"lead": "대상홀딩스",
+"lead_ret": 29.98,
+"second": "컴투스홀딩스",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 6.59,
+"up5": 7,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 25.63,
+"second": "YG PLUS",
+"second_ret": 23.81
+},
+{
+"name": "광고",
+"n": 21,
+"avg": 5.05,
+"up5": 9,
+"lead": "YG PLUS",
+"lead_ret": 23.81,
+"second": "레뷰코퍼레이션",
+"second_ret": 19.9
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": 5.04,
+"up5": 6,
+"lead": "카페24",
+"lead_ret": 29.91,
+"second": "KG이니시스",
+"second_ret": 9.25
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.7,
+"up5": 3,
+"lead": "SOOP",
+"lead_ret": 29.91,
+"second": "유엔젤",
+"second_ret": 9.1
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 3.86,
+"up5": 7,
+"lead": "컴투스홀딩스",
+"lead_ret": 29.89,
+"second": "네오위즈홀딩스",
+"second_ret": 18.89
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 35,
+"avg": 3.6,
+"up5": 8,
+"lead": "컴투스홀딩스",
+"lead_ret": 29.89,
+"second": "네오위즈홀딩스",
+"second_ret": 18.89
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 3.59,
+"up5": 7,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 25.63,
+"second": "SM C&C",
+"second_ret": 9.64
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 32,
+"avg": 3.26,
+"up5": 7,
+"lead": "컴투스홀딩스",
+"lead_ret": 29.89,
+"second": "네오위즈홀딩스",
+"second_ret": 18.89
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 3.16,
+"up5": 1,
+"lead": "SOOP",
+"lead_ret": 29.91,
+"second": "팜스토리",
+"second_ret": 1.13
+},
+{
+"name": "스테이블코인",
+"n": 21,
+"avg": 2.87,
+"up5": 8,
+"lead": "KG이니시스",
+"lead_ret": 9.25,
+"second": "아이티센글로벌",
+"second_ret": 7.09
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.76,
+"up5": 3,
+"lead": "컴투스홀딩스",
+"lead_ret": 29.89,
+"second": "위메이드",
+"second_ret": 5.31
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 22,
+"avg": 2.74,
+"up5": 4,
+"lead": "카페24",
+"lead_ret": 29.91,
+"second": "유엔젤",
+"second_ret": 9.1
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -3.3,
+"up5": 0,
+"lead": "DXVX",
+"lead_ret": 0.66,
+"second": "인트론바이오",
+"second_ret": 0.1
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -2.33,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.37,
+"second": "STX그린로지스",
+"second_ret": -0.99
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.55,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 0.12,
+"second": "금호타이어",
+"second_ret": 0.0
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.44,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 3.11,
+"second": "HJ중공업",
+"second_ret": -0.65
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": -0.89,
+"up5": 0,
+"lead": "한화엔진",
+"lead_ret": 2.45,
+"second": "한국가스공사",
+"second_ret": 1.85
+}
+],
+"leaders": [
+{
+"name": "SOOP",
+"code": "067160",
+"ret": 29.91,
+"value": 4141,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "와이지엔터테인먼트",
+"code": "122870",
+"ret": 25.63,
+"value": 3382,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "LS에코에너지",
+"code": "229640",
+"ret": 14.5,
+"value": 3166,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "대상홀딩스",
+"code": "084690",
+"ret": 29.98,
+"value": 2339,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "제주반도체",
+"code": "080220",
+"ret": 14.04,
+"value": 2120,
+"theme": "온디바이스 AI",
+"reason": "테마: 온디바이스 AI"
+}
+],
+"backfilled": true
+}

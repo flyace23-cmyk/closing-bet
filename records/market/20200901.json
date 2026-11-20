@@ -1,0 +1,254 @@
+{
+"date": "20200901",
+"kospi": 1.01,
+"kosdaq": 0.6,
+"adv": 1110,
+"dec": 642,
+"flat": 183,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 401039,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "HLB제약",
+"lead_ret": 29.63,
+"second": "유나이티드제약",
+"second_ret": 23.97
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "후성",
+"lead_ret": 19.51,
+"second": "드림텍",
+"second_ret": 18.01
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "모토닉",
+"lead_ret": 29.96,
+"second": "세동",
+"second_ret": 29.87
+}
+],
+"themes": [
+{
+"name": "아이폰",
+"n": 20,
+"avg": 4.49,
+"up5": 3,
+"lead": "앤디포스",
+"lead_ret": 29.87,
+"second": "프로텍",
+"second_ret": 29.86
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 4.22,
+"up5": 1,
+"lead": "IPARK현대산업개발",
+"lead_ret": 11.09,
+"second": "GS건설",
+"second_ret": 4.25
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.08,
+"up5": 1,
+"lead": "유니온",
+"lead_ret": 13.9,
+"second": "KG케미칼",
+"second_ret": 4.47
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 3.6,
+"up5": 6,
+"lead": "HD현대마린엔진",
+"lead_ret": 29.89,
+"second": "오리엔탈정공",
+"second_ret": 17.15
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 3.59,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 29.86,
+"second": "탑엔지니어링",
+"second_ret": 3.62
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 3.37,
+"up5": 1,
+"lead": "KEC",
+"lead_ret": 29.63,
+"second": "어보브반도체",
+"second_ret": 4.67
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 3.31,
+"up5": 1,
+"lead": "서울반도체",
+"lead_ret": 11.04,
+"second": "코세스",
+"second_ret": 4.37
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 3.3,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 29.86,
+"second": "다산솔루에타",
+"second_ret": 3.32
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 63,
+"avg": 3.13,
+"up5": 13,
+"lead": "모토닉",
+"lead_ret": 29.96,
+"second": "인지컨트롤스",
+"second_ret": 16.47
+},
+{
+"name": "골프",
+"n": 13,
+"avg": 3.07,
+"up5": 2,
+"lead": "KX",
+"lead_ret": 20.34,
+"second": "미스토홀딩스",
+"second_ret": 6.63
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 12,
+"avg": 2.74,
+"up5": 2,
+"lead": "다원넥스뷰",
+"lead_ret": 14.46,
+"second": "LG이노텍",
+"second_ret": 5.86
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.71,
+"up5": 2,
+"lead": "금호타이어",
+"lead_ret": 8.77,
+"second": "HS효성첨단소재",
+"second_ret": 5.51
+}
+],
+"themes_worst": [
+{
+"name": "수산",
+"n": 9,
+"avg": -5.42,
+"up5": 0,
+"lead": "신라교역",
+"lead_ret": -0.2,
+"second": "동원산업",
+"second_ret": -0.22
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -4.78,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.27,
+"second": "한성기업",
+"second_ret": -2.68
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": -2.03,
+"up5": 0,
+"lead": "정다운",
+"lead_ret": 1.35,
+"second": "이지홀딩스",
+"second_ret": 0.69
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": -1.82,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 0.0,
+"second": "NICE",
+"second_ret": -0.8
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.61,
+"up5": 0,
+"lead": "씨엑스아이",
+"lead_ret": 3.13,
+"second": "GRT",
+"second_ret": 0.38
+}
+],
+"leaders": [
+{
+"name": "영진약품",
+"code": "003520",
+"ret": 11.88,
+"value": 8135,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 19.51,
+"value": 5393,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "드림텍",
+"code": "192650",
+"ret": 18.01,
+"value": 4122,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "녹십자엠에스",
+"code": "142280",
+"ret": 29.74,
+"value": 3783,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "유나이티드제약",
+"code": "033270",
+"ret": 23.97,
+"value": 3474,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

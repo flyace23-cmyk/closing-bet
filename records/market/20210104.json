@@ -1,0 +1,254 @@
+{
+"date": "20210104",
+"kospi": 2.47,
+"kosdaq": 0.95,
+"adv": 1161,
+"dec": 685,
+"flat": 124,
+"limit_up": 13,
+"limit_down": 0,
+"value_total": 398804,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "풍강",
+"lead_ret": 30.0,
+"second": "현대위아",
+"second_ret": 29.91
+},
+{
+"name": "면역항암제",
+"n": 5,
+"lead": "지씨셀",
+"lead_ret": 29.97,
+"second": "박셀바이오",
+"second_ret": 29.95
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "인포뱅크",
+"lead_ret": 29.6,
+"second": "에이테크솔루션",
+"second_ret": 26.03
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 8.95,
+"up5": 2,
+"lead": "지씨셀",
+"lead_ret": 29.97,
+"second": "녹십자",
+"second_ret": 17.0
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 8.72,
+"up5": 4,
+"lead": "현대위아",
+"lead_ret": 29.91,
+"second": "현대모비스",
+"second_ret": 12.33
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 7.71,
+"up5": 6,
+"lead": "인포뱅크",
+"lead_ret": 29.6,
+"second": "현대모비스",
+"second_ret": 12.33
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 6.3,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 18.64,
+"second": "팬오션",
+"second_ret": 6.97
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 6.27,
+"up5": 4,
+"lead": "나인테크",
+"lead_ret": 12.37,
+"second": "에코프로비엠",
+"second_ret": 10.05
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 6.27,
+"up5": 7,
+"lead": "SK이노베이션",
+"lead_ret": 21.58,
+"second": "웰크론한텍",
+"second_ret": 13.95
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 5.81,
+"up5": 23,
+"lead": "인포뱅크",
+"lead_ret": 29.6,
+"second": "에이테크솔루션",
+"second_ret": 26.03
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": 5.81,
+"up5": 8,
+"lead": "지씨셀",
+"lead_ret": 29.97,
+"second": "박셀바이오",
+"second_ret": 29.95
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 5.57,
+"up5": 3,
+"lead": "오킨스전자",
+"lead_ret": 29.85,
+"second": "네오셈",
+"second_ret": 7.88
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 26,
+"avg": 5.21,
+"up5": 10,
+"lead": "현대위아",
+"lead_ret": 29.91,
+"second": "나인테크",
+"second_ret": 12.37
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 5.07,
+"up5": 4,
+"lead": "현대위아",
+"lead_ret": 29.91,
+"second": "오르비텍",
+"second_ret": 7.59
+},
+{
+"name": "전기차",
+"n": 79,
+"avg": 5.0,
+"up5": 32,
+"lead": "현대위아",
+"lead_ret": 29.91,
+"second": "SK이노베이션",
+"second_ret": 21.58
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.45,
+"up5": 0,
+"lead": "롯데손해보험",
+"lead_ret": 0.86,
+"second": "흥국화재",
+"second_ret": -1.41
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -2.15,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": -0.91,
+"second": "신한지주",
+"second_ret": -1.56
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -2.02,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": 1.13,
+"second": "휴네시온",
+"second_ret": 0.72
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.89,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 1.02,
+"second": "엔브이에이치코리아",
+"second_ret": -0.25
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": -1.29,
+"up5": 0,
+"lead": "한화투자증권",
+"lead_ret": 1.59,
+"second": "한국전자인증",
+"second_ret": 0.31
+}
+],
+"leaders": [
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 21.58,
+"value": 9862,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "녹십자",
+"code": "006280",
+"ret": 17.0,
+"value": 9364,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "녹십자홀딩스",
+"code": "005250",
+"ret": 29.16,
+"value": 9216,
+"theme": "고령화 사회(노인복지)",
+"reason": "테마: 고령화 사회(노인복지)"
+},
+{
+"name": "HMM",
+"code": "011200",
+"ret": 18.64,
+"value": 6391,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "고바이오랩",
+"code": "348150",
+"ret": 23.41,
+"value": 5577,
+"theme": "마이크로바이옴",
+"reason": "테마: 마이크로바이옴"
+}
+],
+"backfilled": true
+}

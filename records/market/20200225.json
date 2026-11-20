@@ -1,0 +1,254 @@
+{
+"date": "20200225",
+"kospi": 1.18,
+"kosdaq": 2.76,
+"adv": 1498,
+"dec": 297,
+"flat": 109,
+"limit_up": 1,
+"limit_down": 1,
+"value_total": 223529,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "씨티씨바이오",
+"lead_ret": 16.58,
+"second": "오상자이엘",
+"second_ret": 13.97
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "오상자이엘",
+"lead_ret": 13.97,
+"second": "동성제약",
+"second_ret": 8.97
+},
+{
+"name": "제약업체",
+"n": 3,
+"lead": "에스티팜",
+"lead_ret": 9.44,
+"second": "동성제약",
+"second_ret": 8.97
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 5.53,
+"up5": 4,
+"lead": "특수건설",
+"lead_ret": 9.99,
+"second": "우원개발",
+"second_ret": 8.65
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.13,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 29.93,
+"second": "오로라",
+"second_ret": 3.91
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.88,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 7.56,
+"second": "미래생명자원",
+"second_ret": 4.55
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.82,
+"up5": 2,
+"lead": "한국팩키지",
+"lead_ret": 14.19,
+"second": "삼륭물산",
+"second_ret": 5.67
+},
+{
+"name": "사료",
+"n": 16,
+"avg": 3.76,
+"up5": 1,
+"lead": "씨티씨바이오",
+"lead_ret": 16.58,
+"second": "고려산업",
+"second_ret": 4.87
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 3.64,
+"up5": 7,
+"lead": "헬릭스미스",
+"lead_ret": 9.67,
+"second": "제넥신",
+"second_ret": 8.12
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 3.63,
+"up5": 3,
+"lead": "이루온",
+"lead_ret": 9.28,
+"second": "인포뱅크",
+"second_ret": 8.06
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 3.52,
+"up5": 4,
+"lead": "바이오솔루션",
+"lead_ret": 9.59,
+"second": "강스템바이오텍",
+"second_ret": 7.31
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 3.5,
+"up5": 1,
+"lead": "이렘",
+"lead_ret": 8.94,
+"second": "하이스틸",
+"second_ret": 4.62
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.49,
+"up5": 4,
+"lead": "루트K",
+"lead_ret": 6.98,
+"second": "유니온머티리얼",
+"second_ret": 5.87
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.49,
+"up5": 2,
+"lead": "토니모리",
+"lead_ret": 7.47,
+"second": "JTC",
+"second_ret": 6.26
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 3.47,
+"up5": 3,
+"lead": "손오공",
+"lead_ret": 29.93,
+"second": "제로투세븐",
+"second_ret": 6.57
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -7.65,
+"up5": 0,
+"lead": "신성이엔지",
+"lead_ret": 0.55,
+"second": "오텍",
+"second_ret": -2.01
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -4.45,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 2.15,
+"second": "풀무원",
+"second_ret": 1.27
+},
+{
+"name": "종합 물류",
+"n": 15,
+"avg": -4.05,
+"up5": 0,
+"lead": "로젠",
+"lead_ret": 3.77,
+"second": "인터지스",
+"second_ret": 2.72
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -3.67,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 4.52,
+"second": "CJ씨푸드",
+"second_ret": 2.15
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": -2.72,
+"up5": 0,
+"lead": "풍국주정",
+"lead_ret": 2.13,
+"second": "하이트진로",
+"second_ret": 1.24
+}
+],
+"leaders": [
+{
+"name": "손오공",
+"code": "066910",
+"ret": 29.93,
+"value": 1819,
+"theme": "게임",
+"reason": "테마: 게임"
+},
+{
+"name": "한창제지",
+"code": "009460",
+"ret": 11.99,
+"value": 930,
+"theme": "제지",
+"reason": "테마: 제지"
+},
+{
+"name": "한국팩키지",
+"code": "037230",
+"ret": 14.19,
+"value": 644,
+"theme": "탈 플라스틱(친환경/생분해성 등)",
+"reason": "테마: 탈 플라스틱(친환경/생분해성 등)"
+},
+{
+"name": "오상자이엘",
+"code": "053980",
+"ret": 13.97,
+"value": 574,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "케어랩스",
+"code": "263700",
+"ret": 12.5,
+"value": 470,
+"theme": "원격진료/비대면진료(U-Healthcare)",
+"reason": "테마: 원격진료/비대면진료(U-Healthcare)"
+}
+],
+"backfilled": true
+}

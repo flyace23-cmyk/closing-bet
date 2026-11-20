@@ -1,0 +1,246 @@
+{
+"date": "20210108",
+"kospi": 3.97,
+"kosdaq": -0.11,
+"adv": 693,
+"dec": 1118,
+"flat": 159,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 569855,
+"hot": [
+{
+"name": "자동차부품",
+"n": 12,
+"lead": "티에이치엔",
+"lead_ret": 30.0,
+"second": "현대위아",
+"second_ret": 21.33
+},
+{
+"name": "자율주행차",
+"n": 7,
+"lead": "라닉스",
+"lead_ret": 29.96,
+"second": "팅크웨어",
+"second_ret": 20.23
+}
+],
+"themes": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 13.48,
+"up5": 6,
+"lead": "현대위아",
+"lead_ret": 21.33,
+"second": "현대차",
+"second_ret": 19.42
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": 6.95,
+"up5": 6,
+"lead": "현대모비스",
+"lead_ret": 18.06,
+"second": "HL만도",
+"second_ret": 14.33
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": 6.13,
+"up5": 22,
+"lead": "라닉스",
+"lead_ret": 29.96,
+"second": "팅크웨어",
+"second_ret": 20.23
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": 4.01,
+"up5": 2,
+"lead": "삼성전자",
+"lead_ret": 7.12,
+"second": "삼성전기",
+"second_ret": 6.04
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 26,
+"avg": 3.62,
+"up5": 7,
+"lead": "현대위아",
+"lead_ret": 21.33,
+"second": "현대차",
+"second_ret": 19.42
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 3.58,
+"up5": 3,
+"lead": "삼성전자",
+"lead_ret": 7.12,
+"second": "삼성에스디에스",
+"second_ret": 7.07
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.55,
+"up5": 2,
+"lead": "롯데쇼핑",
+"lead_ret": 6.57,
+"second": "현대백화점",
+"second_ret": 5.76
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 3.49,
+"up5": 4,
+"lead": "현대모비스",
+"lead_ret": 18.06,
+"second": "파인디지털",
+"second_ret": 9.76
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.11,
+"up5": 3,
+"lead": "우리기술투자",
+"lead_ret": 11.13,
+"second": "카카오",
+"second_ret": 7.83
+},
+{
+"name": "전력반도체",
+"n": 13,
+"avg": 3.03,
+"up5": 4,
+"lead": "아이에이",
+"lead_ret": 11.66,
+"second": "파워넷",
+"second_ret": 8.64
+},
+{
+"name": "전기차",
+"n": 79,
+"avg": 2.89,
+"up5": 18,
+"lead": "현대위아",
+"lead_ret": 21.33,
+"second": "현대차",
+"second_ret": 19.42
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.73,
+"up5": 3,
+"lead": "삼성SDI",
+"lead_ret": 5.87,
+"second": "디아이씨",
+"second_ret": 5.59
+}
+],
+"themes_worst": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -4.33,
+"up5": 0,
+"lead": "올릭스",
+"lead_ret": -0.86,
+"second": "에스티팜",
+"second_ret": -1.64
+},
+{
+"name": "코로나19(진단키트)",
+"n": 35,
+"avg": -3.49,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 4.41,
+"second": "드림텍",
+"second_ret": 3.83
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": -3.4,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 2.4,
+"second": "HLB",
+"second_ret": 0.93
+},
+{
+"name": "치매",
+"n": 44,
+"avg": -3.28,
+"up5": 0,
+"lead": "한국파마",
+"lead_ret": 3.03,
+"second": "유한양행",
+"second_ret": 2.4
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 61,
+"avg": -3.13,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 4.41,
+"second": "드림텍",
+"second_ret": 3.83
+}
+],
+"leaders": [
+{
+"name": "현대차",
+"code": "005380",
+"ret": 19.42,
+"value": 49037,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "현대모비스",
+"code": "012330",
+"ret": 18.06,
+"value": 19148,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "현대위아",
+"code": "011210",
+"ret": 21.33,
+"value": 7597,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 11.13,
+"value": 7481,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 16.07,
+"value": 6480,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+}
+],
+"backfilled": true
+}

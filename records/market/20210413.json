@@ -1,0 +1,254 @@
+{
+"date": "20210413",
+"kospi": 1.07,
+"kosdaq": 0.97,
+"adv": 995,
+"dec": 813,
+"flat": 189,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 354789,
+"hot": [
+{
+"name": "의료기기",
+"n": 4,
+"lead": "나노엔텍",
+"lead_ret": 29.95,
+"second": "고영",
+"second_ret": 16.46
+},
+{
+"name": "모바일콘텐츠(스마트폰/태블릿PC)",
+"n": 4,
+"lead": "디앤씨미디어",
+"lead_ret": 29.9,
+"second": "키다리스튜디오",
+"second_ret": 29.75
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "나노엔텍",
+"lead_ret": 29.95,
+"second": "한국파마",
+"second_ret": 18.79
+}
+],
+"themes": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 6.86,
+"up5": 3,
+"lead": "엔투텍",
+"lead_ret": 23.45,
+"second": "녹십자",
+"second_ret": 8.68
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 6.61,
+"up5": 3,
+"lead": "디앤씨미디어",
+"lead_ret": 29.9,
+"second": "키다리스튜디오",
+"second_ret": 29.75
+},
+{
+"name": "면역항암제",
+"n": 26,
+"avg": 3.69,
+"up5": 6,
+"lead": "루트K",
+"lead_ret": 22.35,
+"second": "셀리드",
+"second_ret": 17.91
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.43,
+"up5": 2,
+"lead": "대한약품",
+"lead_ret": 5.87,
+"second": "파미셀",
+"second_ret": 5.56
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.41,
+"up5": 1,
+"lead": "SG",
+"lead_ret": 29.83,
+"second": "엔피케이",
+"second_ret": 3.24
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 3.33,
+"up5": 3,
+"lead": "유바이오로직스",
+"lead_ret": 13.01,
+"second": "휴젤",
+"second_ret": 6.66
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 3.29,
+"up5": 2,
+"lead": "녹십자",
+"lead_ret": 8.68,
+"second": "메디포스트",
+"second_ret": 5.73
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 21,
+"avg": 3.28,
+"up5": 3,
+"lead": "플리토",
+"lead_ret": 30.0,
+"second": "브리지텍",
+"second_ret": 20.42
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 3.1,
+"up5": 6,
+"lead": "바이넥스",
+"lead_ret": 14.14,
+"second": "이수앱지스",
+"second_ret": 10.92
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 18,
+"avg": 3.01,
+"up5": 2,
+"lead": "나노엔텍",
+"lead_ret": 29.95,
+"second": "메디포스트",
+"second_ret": 5.73
+},
+{
+"name": "치매",
+"n": 44,
+"avg": 2.98,
+"up5": 7,
+"lead": "유유제약",
+"lead_ret": 29.63,
+"second": "한국파마",
+"second_ret": 18.79
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.93,
+"up5": 3,
+"lead": "애니플러스",
+"lead_ret": 12.2,
+"second": "티비씨",
+"second_ret": 9.97
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -6.92,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": 0.62,
+"second": "그래디언트",
+"second_ret": -1.52
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -6.36,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 0.0,
+"second": "신성이엔지",
+"second_ret": -1.18
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": -5.8,
+"up5": 1,
+"lead": "플랜티넷",
+"lead_ret": 7.81,
+"second": "GMI벤처",
+"second_ret": -1.16
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -4.06,
+"up5": 0,
+"lead": "동원산업",
+"lead_ret": 0.0,
+"second": "한성기업",
+"second_ret": -2.09
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -3.9,
+"up5": 0,
+"lead": "이월드",
+"lead_ret": 0.15,
+"second": "대신정보통신",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 14.14,
+"value": 3629,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "이수앱지스",
+"code": "086890",
+"ret": 10.92,
+"value": 3495,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "유바이오로직스",
+"code": "206650",
+"ret": 13.01,
+"value": 3077,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "디앤씨미디어",
+"code": "263720",
+"ret": 29.9,
+"value": 2262,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 18.79,
+"value": 2223,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

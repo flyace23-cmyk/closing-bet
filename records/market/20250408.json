@@ -1,0 +1,238 @@
+{
+"date": "20250408",
+"kospi": 0.26,
+"kosdaq": 1.1,
+"adv": 1434,
+"dec": 794,
+"flat": 120,
+"limit_up": 14,
+"limit_down": 0,
+"value_total": 147371,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "위세아이텍",
+"lead_ret": 29.92,
+"second": "크라우드웍스",
+"second_ret": 29.91
+}
+],
+"themes": [
+{
+"name": "테마파크",
+"n": 6,
+"avg": 7.04,
+"up5": 2,
+"lead": "시공테크",
+"lead_ret": 26.98,
+"second": "한국종합기술",
+"second_ret": 7.31
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 6.66,
+"up5": 3,
+"lead": "HJ중공업",
+"lead_ret": 11.11,
+"second": "한화오션",
+"second_ret": 8.32
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 6.47,
+"up5": 3,
+"lead": "사조씨푸드",
+"lead_ret": 29.9,
+"second": "사조오양",
+"second_ret": 9.49
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 5.28,
+"up5": 6,
+"lead": "상지건설",
+"lead_ret": 29.93,
+"second": "계룡건설",
+"second_ret": 29.75
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 4.81,
+"up5": 5,
+"lead": "노바텍",
+"lead_ret": 25.97,
+"second": "유니온",
+"second_ret": 10.17
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 4.63,
+"up5": 1,
+"lead": "대영포장",
+"lead_ret": 29.98,
+"second": "태림포장",
+"second_ret": 3.97
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.5,
+"up5": 2,
+"lead": "옴니시스템",
+"lead_ret": 7.89,
+"second": "퀀텀레일",
+"second_ret": 7.77
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 4.16,
+"up5": 2,
+"lead": "신송홀딩스",
+"lead_ret": 7.16,
+"second": "샘표식품",
+"second_ret": 6.13
+},
+{
+"name": "리모델링/인테리어",
+"n": 24,
+"avg": 3.87,
+"up5": 4,
+"lead": "시공테크",
+"lead_ret": 26.98,
+"second": "진영",
+"second_ret": 20.74
+},
+{
+"name": "출산장려정책",
+"n": 20,
+"avg": 3.68,
+"up5": 3,
+"lead": "에르코스",
+"lead_ret": 30.0,
+"second": "토박스코리아",
+"second_ret": 14.29
+},
+{
+"name": "사료",
+"n": 18,
+"avg": 3.57,
+"up5": 3,
+"lead": "대주산업",
+"lead_ret": 19.08,
+"second": "오에스피",
+"second_ret": 6.0
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 3.55,
+"up5": 2,
+"lead": "크라우드웍스",
+"lead_ret": 29.91,
+"second": "아이씨티케이",
+"second_ret": 6.45
+}
+],
+"themes_worst": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": -1.83,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 0.25,
+"second": "코리안리",
+"second_ret": -0.27
+},
+{
+"name": "은행",
+"n": 10,
+"avg": -1.46,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 0.0,
+"second": "iM금융지주",
+"second_ret": -0.58
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.4,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 1.16,
+"second": "한화갤러리아",
+"second_ret": -0.55
+},
+{
+"name": "해운",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "KSS해운",
+"lead_ret": 1.1,
+"second": "흥아해운",
+"second_ret": -0.34
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 23,
+"avg": -1.26,
+"up5": 0,
+"lead": "보성파워텍",
+"lead_ret": 1.09,
+"second": "동양이엔피",
+"second_ret": 0.87
+}
+],
+"leaders": [
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 15.25,
+"value": 4119,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 10.17,
+"value": 1419,
+"theme": "요소수",
+"reason": "테마: 요소수"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 19.08,
+"value": 1133,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "데이원컴퍼니",
+"code": "373160",
+"ret": 18.73,
+"value": 1052,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "핑거",
+"code": "163730",
+"ret": 10.25,
+"value": 1036,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+}
+],
+"backfilled": true
+}

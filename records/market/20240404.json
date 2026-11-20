@@ -1,0 +1,254 @@
+{
+"date": "20240404",
+"kospi": 1.29,
+"kosdaq": 0.33,
+"adv": 968,
+"dec": 1141,
+"flat": 141,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 229185,
+"hot": [
+{
+"name": "반도체 재료/부품",
+"n": 7,
+"lead": "램테크놀러지",
+"lead_ret": 29.89,
+"second": "와이씨켐",
+"second_ret": 29.81
+},
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "하나마이크론",
+"lead_ret": 21.09,
+"second": "이오테크닉스",
+"second_ret": 20.19
+},
+{
+"name": "유리 기판",
+"n": 6,
+"lead": "램테크놀러지",
+"lead_ret": 29.89,
+"second": "와이씨켐",
+"second_ret": 29.81
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 9.21,
+"up5": 11,
+"lead": "램테크놀러지",
+"lead_ret": 29.89,
+"second": "와이씨켐",
+"second_ret": 29.81
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 7.98,
+"up5": 5,
+"lead": "일진전기",
+"lead_ret": 20.96,
+"second": "가온전선",
+"second_ret": 11.89
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 4.72,
+"up5": 10,
+"lead": "일진전기",
+"lead_ret": 20.96,
+"second": "LS ELECTRIC",
+"second_ret": 13.98
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 33,
+"avg": 4.55,
+"up5": 9,
+"lead": "와이씨켐",
+"lead_ret": 29.81,
+"second": "이오테크닉스",
+"second_ret": 20.19
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 4.06,
+"up5": 4,
+"lead": "자람테크놀로지",
+"lead_ret": 8.32,
+"second": "네패스아크",
+"second_ret": 6.36
+},
+{
+"name": "반도체 재료/부품",
+"n": 67,
+"avg": 3.62,
+"up5": 17,
+"lead": "램테크놀러지",
+"lead_ret": 29.89,
+"second": "와이씨켐",
+"second_ret": 29.81
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.58,
+"up5": 3,
+"lead": "기가비스",
+"lead_ret": 16.69,
+"second": "티엘비",
+"second_ret": 6.4
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.56,
+"up5": 2,
+"lead": "켐트로닉스",
+"lead_ret": 24.67,
+"second": "LS",
+"second_ret": 6.82
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.43,
+"up5": 2,
+"lead": "티엘비",
+"lead_ret": 6.4,
+"second": "펨트론",
+"second_ret": 5.6
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.35,
+"up5": 3,
+"lead": "이오테크닉스",
+"lead_ret": 20.19,
+"second": "티에스이",
+"second_ret": 13.85
+},
+{
+"name": "반도체 장비",
+"n": 89,
+"avg": 3.12,
+"up5": 21,
+"lead": "하나마이크론",
+"lead_ret": 21.09,
+"second": "이오테크닉스",
+"second_ret": 20.19
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": 2.85,
+"up5": 5,
+"lead": "덕우전자",
+"lead_ret": 12.71,
+"second": "인터플렉스",
+"second_ret": 10.75
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.05,
+"up5": 0,
+"lead": "지씨셀",
+"lead_ret": -0.5,
+"second": "메디포스트",
+"second_ret": -1.12
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": -1.93,
+"up5": 0,
+"lead": "대림제지",
+"lead_ret": 0.82,
+"second": "대영포장",
+"second_ret": 0.68
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": -1.88,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": -0.69,
+"second": "대구백화점",
+"second_ret": -0.85
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 20,
+"avg": -1.63,
+"up5": 0,
+"lead": "다이나믹솔루션",
+"lead_ret": 0.9,
+"second": "토마토시스템",
+"second_ret": 0.89
+},
+{
+"name": "유전자 치료제/분석",
+"n": 34,
+"avg": -1.49,
+"up5": 1,
+"lead": "엔젠바이오",
+"lead_ret": 7.75,
+"second": "HLB제넥스",
+"second_ret": 1.92
+}
+],
+"leaders": [
+{
+"name": "하나마이크론",
+"code": "067310",
+"ret": 21.09,
+"value": 9978,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "SK이터닉스",
+"code": "475150",
+"ret": 21.61,
+"value": 5094,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "이오테크닉스",
+"code": "039030",
+"ret": 20.19,
+"value": 3459,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 17.81,
+"value": 3346,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "HB테크놀러지",
+"code": "078150",
+"ret": 11.81,
+"value": 2710,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+}
+],
+"backfilled": true
+}

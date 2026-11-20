@@ -1,0 +1,238 @@
+{
+"date": "20210910",
+"kospi": 0.36,
+"kosdaq": 0.32,
+"adv": 1072,
+"dec": 769,
+"flat": 189,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 225844,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "일성건설",
+"lead_ret": 29.95,
+"second": "삼일기업공사",
+"second_ret": 11.71
+}
+],
+"themes": [
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 5.1,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 29.72,
+"second": "켐트로닉스",
+"second_ret": 6.67
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 3.68,
+"up5": 6,
+"lead": "일성건설",
+"lead_ret": 29.95,
+"second": "삼일기업공사",
+"second_ret": 11.71
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 3.1,
+"up5": 2,
+"lead": "덕신이피씨",
+"lead_ret": 19.77,
+"second": "코오롱글로벌",
+"second_ret": 6.59
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.02,
+"up5": 1,
+"lead": "인성정보",
+"lead_ret": 14.99,
+"second": "오파스넷",
+"second_ret": 2.99
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.0,
+"up5": 1,
+"lead": "코오롱",
+"lead_ret": 26.04,
+"second": "코오롱인더",
+"second_ret": 2.71
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.99,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 12.0,
+"second": "에코프로",
+"second_ret": 7.55
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.72,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.72,
+"second": "한솔테크닉스",
+"second_ret": 3.67
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 2.72,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.72,
+"second": "한솔테크닉스",
+"second_ret": 3.67
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 2.52,
+"up5": 1,
+"lead": "서한",
+"lead_ret": 10.22,
+"second": "웰크론한텍",
+"second_ret": 1.73
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": 2.49,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.72,
+"second": "미코",
+"second_ret": 0.71
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.44,
+"up5": 2,
+"lead": "SK가스",
+"lead_ret": 10.11,
+"second": "E1",
+"second_ret": 7.92
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 2.44,
+"up5": 2,
+"lead": "SK가스",
+"lead_ret": 10.11,
+"second": "E1",
+"second_ret": 7.92
+}
+],
+"themes_worst": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.55,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": -0.87,
+"second": "지씨셀",
+"second_ret": -1.19
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -1.74,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 1.31,
+"second": "엔투텍",
+"second_ret": 0.29
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": -1.71,
+"up5": 0,
+"lead": "HLB생명과학",
+"lead_ret": 2.05,
+"second": "메타케어",
+"second_ret": 1.26
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -1.59,
+"up5": 0,
+"lead": "우리산업",
+"lead_ret": 2.54,
+"second": "남성",
+"second_ret": 1.88
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.51,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 1.26,
+"second": "HL만도",
+"second_ret": 0.66
+}
+],
+"leaders": [
+{
+"name": "덕신이피씨",
+"code": "090410",
+"ret": 19.77,
+"value": 3171,
+"theme": "모듈러주택",
+"reason": "테마: 모듈러주택"
+},
+{
+"name": "일성건설",
+"code": "013360",
+"ret": 29.95,
+"value": 2856,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 12.37,
+"value": 2839,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 17.43,
+"value": 2835,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "인성정보",
+"code": "033230",
+"ret": 14.99,
+"value": 2219,
+"theme": "NI(네트워크통합)",
+"reason": "테마: NI(네트워크통합)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20221213",
+"kospi": -0.03,
+"kosdaq": -0.01,
+"adv": 941,
+"dec": 992,
+"flat": 192,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 103880,
+"hot": [
+{
+"name": "제약업체",
+"n": 8,
+"lead": "경보제약",
+"lead_ret": 29.99,
+"second": "화일약품",
+"second_ret": 29.89
+},
+{
+"name": "화장품",
+"n": 3,
+"lead": "국제약품",
+"lead_ret": 11.78,
+"second": "디와이디",
+"second_ret": 9.54
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 4.18,
+"up5": 1,
+"lead": "인콘",
+"lead_ret": 29.85,
+"second": "비츠로시스",
+"second_ret": 2.45
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 3.74,
+"up5": 20,
+"lead": "경보제약",
+"lead_ret": 29.99,
+"second": "화일약품",
+"second_ret": 29.89
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 12,
+"avg": 3.71,
+"up5": 3,
+"lead": "이연제약",
+"lead_ret": 13.83,
+"second": "아미노로직스",
+"second_ret": 6.43
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.64,
+"up5": 3,
+"lead": "국제약품",
+"lead_ret": 11.78,
+"second": "위더스제약",
+"second_ret": 6.32
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.88,
+"up5": 0,
+"lead": "서울제약",
+"lead_ret": 4.42,
+"second": "제일약품",
+"second_ret": 4.39
+},
+{
+"name": "치매",
+"n": 48,
+"avg": 2.77,
+"up5": 7,
+"lead": "화일약품",
+"lead_ret": 29.89,
+"second": "명문제약",
+"second_ret": 15.94
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 39,
+"avg": 2.52,
+"up5": 6,
+"lead": "화일약품",
+"lead_ret": 29.89,
+"second": "고려제약",
+"second_ret": 7.77
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.5,
+"up5": 2,
+"lead": "인콘",
+"lead_ret": 29.85,
+"second": "한컴라이프케어",
+"second_ret": 10.34
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.45,
+"up5": 0,
+"lead": "콜마바이오텍",
+"lead_ret": 4.55,
+"second": "케이엔솔",
+"second_ret": 4.18
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.24,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 6.1,
+"second": "파미셀",
+"second_ret": 3.62
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 2.0,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 6.13,
+"second": "LX인터내셔널",
+"second_ret": 5.14
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 26,
+"avg": 1.94,
+"up5": 1,
+"lead": "샤페론",
+"lead_ret": 11.56,
+"second": "한국파마",
+"second_ret": 4.88
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -6.01,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 0.0,
+"second": "손오공",
+"second_ret": -0.22
+},
+{
+"name": "웹툰",
+"n": 13,
+"avg": -3.63,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 0.17,
+"second": "NAVER",
+"second_ret": 0.0
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -3.12,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 1.75,
+"second": "아센디오",
+"second_ret": 0.64
+},
+{
+"name": "영상콘텐츠",
+"n": 25,
+"avg": -2.76,
+"up5": 0,
+"lead": "삼화네트웍스",
+"lead_ret": 4.03,
+"second": "키이스트",
+"second_ret": 2.64
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.7,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 1.19,
+"second": "로스웰",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 11.78,
+"value": 1457,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 11.56,
+"value": 1388,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "인콘",
+"code": "083640",
+"ret": 29.85,
+"value": 871,
+"theme": "재난/안전(지진/화재 등)",
+"reason": "테마: 재난/안전(지진/화재 등)"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 29.89,
+"value": 858,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "청보",
+"code": "013720",
+"ret": 11.58,
+"value": 796,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

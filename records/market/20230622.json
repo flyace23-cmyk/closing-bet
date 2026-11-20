@@ -1,0 +1,254 @@
+{
+"date": "20230622",
+"kospi": 0.43,
+"kosdaq": 0.08,
+"adv": 747,
+"dec": 1266,
+"flat": 154,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 163841,
+"hot": [
+{
+"name": "그래핀",
+"n": 4,
+"lead": "상보",
+"lead_ret": 29.94,
+"second": "엑사이엔씨",
+"second_ret": 24.44
+},
+{
+"name": "비철금속",
+"n": 3,
+"lead": "대창",
+"lead_ret": 9.51,
+"second": "알루코",
+"second_ret": 9.42
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "제이엘케이",
+"lead_ret": 20.15,
+"second": "티로보틱스",
+"second_ret": 13.54
+}
+],
+"themes": [
+{
+"name": "그래핀",
+"n": 13,
+"avg": 6.51,
+"up5": 6,
+"lead": "상보",
+"lead_ret": 29.94,
+"second": "엑사이엔씨",
+"second_ret": 24.44
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 5.75,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 29.94,
+"second": "금호석유화학",
+"second_ret": 2.42
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.21,
+"up5": 1,
+"lead": "코오롱인더",
+"lead_ret": 18.42,
+"second": "효성티앤씨",
+"second_ret": 1.93
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 3.52,
+"up5": 1,
+"lead": "코오롱인더",
+"lead_ret": 18.42,
+"second": "HS효성첨단소재",
+"second_ret": 4.55
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.13,
+"up5": 1,
+"lead": "태경비케이",
+"lead_ret": 29.92,
+"second": "롯데정밀화학",
+"second_ret": 1.76
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 2.33,
+"up5": 1,
+"lead": "코오롱인더",
+"lead_ret": 18.42,
+"second": "네오위즈",
+"second_ret": 3.6
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 1.87,
+"up5": 2,
+"lead": "태경비케이",
+"lead_ret": 29.92,
+"second": "팜스토리",
+"second_ret": 6.57
+},
+{
+"name": "증강현실(AR)",
+"n": 15,
+"avg": 1.86,
+"up5": 2,
+"lead": "디모아",
+"lead_ret": 29.86,
+"second": "동운아나텍",
+"second_ret": 7.53
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.77,
+"up5": 3,
+"lead": "유비온",
+"lead_ret": 29.76,
+"second": "NE능률",
+"second_ret": 13.87
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 1.46,
+"up5": 4,
+"lead": "대창",
+"lead_ret": 9.51,
+"second": "알루코",
+"second_ret": 9.42
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 1.32,
+"up5": 3,
+"lead": "서울옥션",
+"lead_ret": 10.91,
+"second": "폴라리스오피스",
+"second_ret": 8.52
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 1.26,
+"up5": 3,
+"lead": "태경비케이",
+"lead_ret": 29.92,
+"second": "팜스토리",
+"second_ret": 6.57
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -4.89,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -2.42,
+"second": "샘표",
+"second_ret": -3.59
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.69,
+"up5": 0,
+"lead": "에스앤더블류",
+"lead_ret": 2.05,
+"second": "현대건설",
+"second_ret": 1.78
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -1.95,
+"up5": 0,
+"lead": "케이엔솔",
+"lead_ret": 0.5,
+"second": "GH신소재",
+"second_ret": 0.0
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -1.86,
+"up5": 0,
+"lead": "하이브",
+"lead_ret": 3.54,
+"second": "YG PLUS",
+"second_ret": 2.91
+},
+{
+"name": "드론(Drone)",
+"n": 25,
+"avg": -1.76,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": 0.14,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 0.12
+}
+],
+"leaders": [
+{
+"name": "포스코DX",
+"code": "022100",
+"ret": 10.17,
+"value": 5984,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "크리스탈신소재",
+"code": "900250",
+"ret": 12.13,
+"value": 4037,
+"theme": "그래핀",
+"reason": "테마: 그래핀"
+},
+{
+"name": "코오롱인더",
+"code": "120110",
+"ret": 18.42,
+"value": 2497,
+"theme": "플렉서블 디스플레이",
+"reason": "테마: 플렉서블 디스플레이"
+},
+{
+"name": "태경비케이",
+"code": "014580",
+"ret": 29.92,
+"value": 1709,
+"theme": "LED",
+"reason": "테마: LED"
+},
+{
+"name": "티로보틱스",
+"code": "117730",
+"ret": 13.54,
+"value": 1704,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

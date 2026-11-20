@@ -1,0 +1,254 @@
+{
+"date": "20200716",
+"kospi": -0.82,
+"kosdaq": -0.8,
+"adv": 738,
+"dec": 1019,
+"flat": 166,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 209348,
+"hot": [
+{
+"name": "화장품",
+"n": 4,
+"lead": "콜마홀딩스",
+"lead_ret": 24.2,
+"second": "잇츠한불",
+"second_ret": 17.3
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 3,
+"lead": "켐트로스",
+"lead_ret": 20.97,
+"second": "디아이",
+"second_ret": 8.22
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "SY동아",
+"lead_ret": 29.94,
+"second": "폴라리스세원",
+"second_ret": 10.68
+}
+],
+"themes": [
+{
+"name": "수산",
+"n": 9,
+"avg": 2.74,
+"up5": 2,
+"lead": "사조산업",
+"lead_ret": 16.35,
+"second": "한성기업",
+"second_ret": 5.23
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.36,
+"up5": 1,
+"lead": "롯데손해보험",
+"lead_ret": 6.02,
+"second": "현대해상",
+"second_ret": 3.96
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 2.17,
+"up5": 2,
+"lead": "SK오션플랜트",
+"lead_ret": 11.11,
+"second": "이렘",
+"second_ret": 6.43
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.0,
+"up5": 0,
+"lead": "LS증권",
+"lead_ret": 4.17,
+"second": "유진투자증권",
+"second_ret": 4.08
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": 1.96,
+"up5": 2,
+"lead": "픽셀플러스",
+"lead_ret": 16.03,
+"second": "DGI",
+"second_ret": 5.7
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 16,
+"avg": 1.88,
+"up5": 4,
+"lead": "켐트로스",
+"lead_ret": 20.97,
+"second": "아진산업",
+"second_ret": 7.83
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.81,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 3.33,
+"second": "HDC",
+"second_ret": 2.46
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 1.58,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 14.75,
+"second": "로지시스",
+"second_ret": 2.27
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 1.46,
+"up5": 4,
+"lead": "SK오션플랜트",
+"lead_ret": 11.11,
+"second": "씨에스윈드",
+"second_ret": 7.99
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 14,
+"avg": 1.4,
+"up5": 1,
+"lead": "켐트로스",
+"lead_ret": 20.97,
+"second": "후성",
+"second_ret": 3.25
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 1.28,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 3.33,
+"second": "현대백화점",
+"second_ret": 2.34
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 31,
+"avg": 1.27,
+"up5": 4,
+"lead": "디케이티",
+"lead_ret": 11.79,
+"second": "HD현대에너지솔루션",
+"second_ret": 11.17
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -3.05,
+"up5": 0,
+"lead": "소마젠",
+"lead_ret": 0.25,
+"second": "녹십자",
+"second_ret": 0.0
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -2.89,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": 0.88,
+"second": "지아이에스",
+"second_ret": -0.92
+},
+{
+"name": "육계",
+"n": 8,
+"avg": -2.63,
+"up5": 0,
+"lead": "팜스토리",
+"lead_ret": -0.43,
+"second": "푸드나무",
+"second_ret": -0.69
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": -2.57,
+"up5": 0,
+"lead": "세종텔레콤",
+"lead_ret": 0.61,
+"second": "유비벨록스",
+"second_ret": -1.11
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": -2.35,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 1.37,
+"second": "한국정보통신",
+"second_ret": -0.31
+}
+],
+"leaders": [
+{
+"name": "루트K",
+"code": "195990",
+"ret": 10.63,
+"value": 2465,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "SY동아",
+"code": "041930",
+"ret": 29.94,
+"value": 1713,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "진매트릭스",
+"code": "109820",
+"ret": 25.89,
+"value": 1445,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "켐트로스",
+"code": "220260",
+"ret": 20.97,
+"value": 1390,
+"theme": "HBM(고대역폭메모리)",
+"reason": "테마: HBM(고대역폭메모리)"
+},
+{
+"name": "디케이티",
+"code": "290550",
+"ret": 11.79,
+"value": 1366,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

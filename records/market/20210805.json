@@ -1,0 +1,254 @@
+{
+"date": "20210805",
+"kospi": -0.13,
+"kosdaq": 1.11,
+"adv": 1300,
+"dec": 507,
+"flat": 210,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 226264,
+"hot": [
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "디티씨",
+"lead_ret": 20.11,
+"second": "아비코전자",
+"second_ret": 15.91
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 3,
+"lead": "파인텍",
+"lead_ret": 29.87,
+"second": "코세스",
+"second_ret": 20.53
+},
+{
+"name": "비만치료제",
+"n": 3,
+"lead": "한국비엔씨",
+"lead_ret": 17.22,
+"second": "넥스턴앤롤코리아",
+"second_ret": 9.66
+}
+],
+"themes": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 5.85,
+"up5": 3,
+"lead": "코세스",
+"lead_ret": 20.53,
+"second": "루멘스바이오스",
+"second_ret": 13.6
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 5.02,
+"up5": 1,
+"lead": "에스넷",
+"lead_ret": 27.68,
+"second": "광무",
+"second_ret": 3.62
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 4.1,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 13.33,
+"second": "심텍",
+"second_ret": 7.29
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 3.54,
+"up5": 3,
+"lead": "에스넷",
+"lead_ret": 27.68,
+"second": "가온그룹",
+"second_ret": 5.53
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": 3.42,
+"up5": 3,
+"lead": "파인텍",
+"lead_ret": 29.87,
+"second": "코세스",
+"second_ret": 20.53
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": 3.33,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 13.33,
+"second": "엑시콘",
+"second_ret": 8.36
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 3.04,
+"up5": 1,
+"lead": "에스넷",
+"lead_ret": 27.68,
+"second": "폴라리스오피스",
+"second_ret": 3.2
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.03,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 8.47,
+"second": "티앤알바이오팹",
+"second_ret": 6.75
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 2.82,
+"up5": 5,
+"lead": "아비코전자",
+"lead_ret": 15.91,
+"second": "티엘비",
+"second_ret": 13.33
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 2.56,
+"up5": 2,
+"lead": "에스넷",
+"lead_ret": 27.68,
+"second": "나무가",
+"second_ret": 5.43
+},
+{
+"name": "2차전지(장비)",
+"n": 32,
+"avg": 2.55,
+"up5": 3,
+"lead": "파인텍",
+"lead_ret": 29.87,
+"second": "코세스",
+"second_ret": 20.53
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": 2.42,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 13.33,
+"second": "심텍",
+"second_ret": 7.29
+}
+],
+"themes_worst": [
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": -1.54,
+"up5": 0,
+"lead": "GST",
+"lead_ret": 2.32,
+"second": "유니셈",
+"second_ret": 1.32
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.81,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 0.54,
+"second": "현대백화점",
+"second_ret": -0.37
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -0.68,
+"up5": 0,
+"lead": "제주항공",
+"lead_ret": 0.22,
+"second": "에어부산",
+"second_ret": 0.15
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -0.6,
+"up5": 0,
+"lead": "나이스정보통신",
+"lead_ret": 0.89,
+"second": "한국정보통신",
+"second_ret": 0.41
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -0.59,
+"up5": 0,
+"lead": "제주은행",
+"lead_ret": 3.41,
+"second": "iM금융지주",
+"second_ret": -0.64
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 17.22,
+"value": 4724,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "코세스",
+"code": "089890",
+"ret": 20.53,
+"value": 4162,
+"theme": "플렉서블 디스플레이",
+"reason": "테마: 플렉서블 디스플레이"
+},
+{
+"name": "큐라클",
+"code": "365270",
+"ret": 18.28,
+"value": 4063,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "HLB글로벌",
+"code": "003580",
+"ret": 15.85,
+"value": 3534,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "아즈텍WB",
+"code": "032080",
+"ret": 29.9,
+"value": 3455,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+}
+],
+"backfilled": true
+}

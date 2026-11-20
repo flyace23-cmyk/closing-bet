@@ -1,0 +1,254 @@
+{
+"date": "20200220",
+"kospi": -0.67,
+"kosdaq": -0.46,
+"adv": 468,
+"dec": 1301,
+"flat": 134,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 168826,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "랩지노믹스",
+"lead_ret": 29.4,
+"second": "진매트릭스",
+"second_ret": 16.49
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "랩지노믹스",
+"lead_ret": 29.4,
+"second": "메타케어",
+"second_ret": 8.73
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 3,
+"lead": "MH에탄올",
+"lead_ret": 29.92,
+"second": "창해에탄올",
+"second_ret": 29.85
+}
+],
+"themes": [
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 11,
+"avg": 8.75,
+"up5": 3,
+"lead": "MH에탄올",
+"lead_ret": 29.92,
+"second": "창해에탄올",
+"second_ret": 29.85
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": 4.1,
+"up5": 2,
+"lead": "콜마바이오텍",
+"lead_ret": 18.74,
+"second": "오텍",
+"second_ret": 10.5
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": 2.73,
+"up5": 3,
+"lead": "KG파이낸셜",
+"lead_ret": 6.99,
+"second": "NHN KCP",
+"second_ret": 5.05
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": 1.93,
+"up5": 5,
+"lead": "랩지노믹스",
+"lead_ret": 29.4,
+"second": "진매트릭스",
+"second_ret": 16.49
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 10,
+"avg": 1.9,
+"up5": 2,
+"lead": "엑세스바이오",
+"lead_ret": 8.97,
+"second": "멕아이씨에스",
+"second_ret": 8.6
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 1.87,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 6.76,
+"second": "삼성SDI",
+"second_ret": 2.84
+},
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": 1.71,
+"up5": 1,
+"lead": "랩지노믹스",
+"lead_ret": 29.4,
+"second": "콜마홀딩스",
+"second_ret": 4.62
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 1.65,
+"up5": 3,
+"lead": "랩지노믹스",
+"lead_ret": 29.4,
+"second": "엑세스바이오",
+"second_ret": 8.97
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 1.35,
+"up5": 1,
+"lead": "랩지노믹스",
+"lead_ret": 29.4,
+"second": "제이엘케이",
+"second_ret": 2.35
+},
+{
+"name": "마스크",
+"n": 19,
+"avg": 1.26,
+"up5": 3,
+"lead": "웰크론",
+"lead_ret": 20.29,
+"second": "모나리자",
+"second_ret": 12.52
+},
+{
+"name": "황사/미세먼지",
+"n": 22,
+"avg": 1.09,
+"up5": 2,
+"lead": "웰크론",
+"lead_ret": 20.29,
+"second": "모나리자",
+"second_ret": 12.52
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 11,
+"avg": 1.08,
+"up5": 2,
+"lead": "KG파이낸셜",
+"lead_ret": 6.99,
+"second": "NHN KCP",
+"second_ret": 5.05
+}
+],
+"themes_worst": [
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.85,
+"up5": 0,
+"lead": "대구백화점",
+"lead_ret": 0.46,
+"second": "광주신세계",
+"second_ret": -0.61
+},
+{
+"name": "영화",
+"n": 9,
+"avg": -2.8,
+"up5": 0,
+"lead": "아센디오",
+"lead_ret": 0.0,
+"second": "쇼박스",
+"second_ret": -0.12
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -2.71,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": -0.54,
+"second": "HDC",
+"second_ret": -0.98
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": -2.43,
+"up5": 0,
+"lead": "오파스넷",
+"lead_ret": 0.08,
+"second": "오픈베이스",
+"second_ret": -1.02
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": -2.4,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": -1.22,
+"second": "삼성바이오로직스",
+"second_ret": -1.29
+}
+],
+"leaders": [
+{
+"name": "웰크론",
+"code": "065950",
+"ret": 20.29,
+"value": 7770,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "모나리자",
+"code": "012690",
+"ret": 12.52,
+"value": 4369,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "한국알콜",
+"code": "017890",
+"ret": 29.8,
+"value": 2220,
+"theme": "주류업(주정, 에탄올 등)",
+"reason": "테마: 주류업(주정, 에탄올 등)"
+},
+{
+"name": "창해에탄올",
+"code": "004650",
+"ret": 29.85,
+"value": 2028,
+"theme": "주류업(주정, 에탄올 등)",
+"reason": "테마: 주류업(주정, 에탄올 등)"
+},
+{
+"name": "PKC",
+"code": "001340",
+"ret": 28.25,
+"value": 1816,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

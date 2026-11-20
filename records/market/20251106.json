@@ -1,0 +1,254 @@
+{
+"date": "20251106",
+"kospi": 0.55,
+"kosdaq": -0.41,
+"adv": 1338,
+"dec": 947,
+"flat": 98,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 311109,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "큐에스아이",
+"lead_ret": 29.94,
+"second": "케이쓰리아이",
+"second_ret": 29.83
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "고영",
+"lead_ret": 23.46,
+"second": "코세스",
+"second_ret": 12.41
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "YTN",
+"lead_ret": 30.0,
+"second": "덕산하이메탈",
+"second_ret": 12.89
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 8,
+"avg": 6.22,
+"up5": 4,
+"lead": "한화손해보험",
+"lead_ret": 13.88,
+"second": "DB손해보험",
+"second_ret": 8.34
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 5.87,
+"up5": 4,
+"lead": "큐에스아이",
+"lead_ret": 29.94,
+"second": "코세스",
+"second_ret": 12.41
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.17,
+"up5": 3,
+"lead": "넥센타이어",
+"lead_ret": 8.87,
+"second": "넥센",
+"second_ret": 7.34
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.97,
+"up5": 2,
+"lead": "YTN",
+"lead_ret": 30.0,
+"second": "iMBC",
+"second_ret": 6.74
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.73,
+"up5": 4,
+"lead": "서울바이오시스",
+"lead_ret": 29.98,
+"second": "RF머트리얼즈",
+"second_ret": 12.61
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 3.72,
+"up5": 1,
+"lead": "롯데지주",
+"lead_ret": 8.29,
+"second": "이마트",
+"second_ret": 3.51
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 13,
+"avg": 3.51,
+"up5": 6,
+"lead": "한중엔시에스",
+"lead_ret": 7.42,
+"second": "SK",
+"second_ret": 6.95
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 3.31,
+"up5": 3,
+"lead": "신세계",
+"lead_ret": 6.55,
+"second": "현대백화점",
+"second_ret": 6.39
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 3.27,
+"up5": 3,
+"lead": "하나금융지주",
+"lead_ret": 7.02,
+"second": "신한지주",
+"second_ret": 5.18
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.06,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 6.55,
+"second": "동원산업",
+"second_ret": 5.31
+},
+{
+"name": "증강현실(AR)",
+"n": 19,
+"avg": 2.9,
+"up5": 3,
+"lead": "케이쓰리아이",
+"lead_ret": 29.83,
+"second": "디모아",
+"second_ret": 7.64
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.86,
+"up5": 2,
+"lead": "티에스이",
+"lead_ret": 10.95,
+"second": "미래컴퍼니",
+"second_ret": 8.5
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -4.27,
+"up5": 0,
+"lead": "에스티아이",
+"lead_ret": 4.38,
+"second": "모아텍",
+"second_ret": 3.39
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": -4.05,
+"up5": 0,
+"lead": "JW중외제약",
+"lead_ret": 4.35,
+"second": "일신바이오",
+"second_ret": 0.82
+},
+{
+"name": "조선",
+"n": 6,
+"avg": -3.09,
+"up5": 0,
+"lead": "HD현대중공업",
+"lead_ret": -0.57,
+"second": "대한조선",
+"second_ret": -1.47
+},
+{
+"name": "미용기기",
+"n": 19,
+"avg": -2.61,
+"up5": 0,
+"lead": "대웅제약",
+"lead_ret": 3.06,
+"second": "휴온스글로벌",
+"second_ret": 2.5
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.61,
+"up5": 1,
+"lead": "LS",
+"lead_ret": 5.58,
+"second": "일진전기",
+"second_ret": -0.65
+}
+],
+"leaders": [
+{
+"name": "고영",
+"code": "098460",
+"ret": 23.46,
+"value": 13053,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "피아이이",
+"code": "452450",
+"ret": 13.7,
+"value": 1774,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 14.29,
+"value": 875,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "YTN",
+"code": "040300",
+"ret": 30.0,
+"value": 484,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "덕산하이메탈",
+"code": "077360",
+"ret": 12.89,
+"value": 372,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,238 @@
+{
+"date": "20241128",
+"kospi": 0.06,
+"kosdaq": 0.35,
+"adv": 1105,
+"dec": 1067,
+"flat": 138,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 135591,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 4,
+"lead": "인스피언",
+"lead_ret": 29.96,
+"second": "에스넷",
+"second_ret": 13.78
+}
+],
+"themes": [
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.11,
+"up5": 1,
+"lead": "에스넷",
+"lead_ret": 13.78,
+"second": "링네트",
+"second_ret": 4.68
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.34,
+"up5": 1,
+"lead": "JTC",
+"lead_ret": 8.72,
+"second": "글로벌텍스프리",
+"second_ret": 3.92
+},
+{
+"name": "유전자 치료제/분석",
+"n": 37,
+"avg": 2.28,
+"up5": 7,
+"lead": "이엔셀",
+"lead_ret": 17.33,
+"second": "엑셀세라퓨틱스",
+"second_ret": 9.41
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.25,
+"up5": 2,
+"lead": "에스넷",
+"lead_ret": 13.78,
+"second": "파수AI",
+"second_ret": 12.08
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 2.16,
+"up5": 1,
+"lead": "에어레인",
+"lead_ret": 25.43,
+"second": "에코프로",
+"second_ret": 2.55
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.15,
+"up5": 1,
+"lead": "금호타이어",
+"lead_ret": 6.33,
+"second": "한국앤컴퍼니",
+"second_ret": 4.38
+},
+{
+"name": "오가노이드",
+"n": 7,
+"avg": 2.13,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 4.93,
+"second": "토모큐브",
+"second_ret": 3.67
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 2.09,
+"up5": 2,
+"lead": "금양그린파워",
+"lead_ret": 22.81,
+"second": "두산퓨얼셀",
+"second_ret": 9.95
+},
+{
+"name": "폐배터리",
+"n": 20,
+"avg": 1.99,
+"up5": 1,
+"lead": "DS단석",
+"lead_ret": 19.5,
+"second": "영화테크",
+"second_ret": 4.63
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.96,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 7.93,
+"second": "녹십자",
+"second_ret": 5.34
+},
+{
+"name": "의료AI",
+"n": 24,
+"avg": 1.93,
+"up5": 3,
+"lead": "노을",
+"lead_ret": 29.95,
+"second": "셀바스헬스케어",
+"second_ret": 9.66
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.88,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 3.74,
+"second": "신세계",
+"second_ret": 2.95
+}
+],
+"themes_worst": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.68,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.11,
+"second": "특수건설",
+"second_ret": 0.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.41,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 0.18,
+"second": "삼성물산",
+"second_ret": -0.08
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -2.19,
+"up5": 0,
+"lead": "유라클",
+"lead_ret": 3.36,
+"second": "한국정보인증",
+"second_ret": 1.09
+},
+{
+"name": "건설기계",
+"n": 16,
+"avg": -2.15,
+"up5": 0,
+"lead": "프리엠스",
+"lead_ret": 1.16,
+"second": "흥국",
+"second_ret": 0.42
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.97,
+"up5": 0,
+"lead": "GRT",
+"lead_ret": 0.54,
+"second": "컬러레이",
+"second_ret": 0.33
+}
+],
+"leaders": [
+{
+"name": "DS단석",
+"code": "017860",
+"ret": 19.5,
+"value": 2897,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "넥스트바이오메디컬",
+"code": "389650",
+"ret": 17.88,
+"value": 2138,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에스오에스랩",
+"code": "464080",
+"ret": 17.63,
+"value": 1426,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "이엔셀",
+"code": "456070",
+"ret": 17.33,
+"value": 1297,
+"theme": "줄기세포",
+"reason": "테마: 줄기세포"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 12.17,
+"value": 993,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+}
+],
+"backfilled": true
+}

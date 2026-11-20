@@ -1,0 +1,238 @@
+{
+"date": "20210614",
+"kospi": 0.09,
+"kosdaq": 0.63,
+"adv": 909,
+"dec": 909,
+"flat": 193,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 241969,
+"hot": [
+{
+"name": "제지",
+"n": 3,
+"lead": "무림페이퍼",
+"lead_ret": 23.95,
+"second": "무림SP",
+"second_ret": 10.35
+}
+],
+"themes": [
+{
+"name": "제지",
+"n": 14,
+"avg": 4.61,
+"up5": 3,
+"lead": "무림페이퍼",
+"lead_ret": 23.95,
+"second": "무림SP",
+"second_ret": 10.35
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.01,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 17.67,
+"second": "퀀텀레일",
+"second_ret": 2.21
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 3.58,
+"up5": 3,
+"lead": "디지틀조선",
+"lead_ret": 29.79,
+"second": "KNN",
+"second_ret": 8.63
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.7,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 7.09,
+"second": "지씨셀",
+"second_ret": 3.7
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.46,
+"up5": 2,
+"lead": "이루온",
+"lead_ret": 17.67,
+"second": "카카오",
+"second_ret": 5.17
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 2.08,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 7.21,
+"second": "TS인베스트먼트",
+"second_ret": 4.36
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 1.85,
+"up5": 1,
+"lead": "위즈코프",
+"lead_ret": 9.72,
+"second": "남해화학",
+"second_ret": 4.0
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 1.78,
+"up5": 2,
+"lead": "컴투스엔",
+"lead_ret": 16.37,
+"second": "비케이홀딩스",
+"second_ret": 8.18
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.68,
+"up5": 1,
+"lead": "KBI동양철관",
+"lead_ret": 9.13,
+"second": "대동스틸",
+"second_ret": 3.38
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 1.64,
+"up5": 3,
+"lead": "대교",
+"lead_ret": 9.85,
+"second": "아이비김영",
+"second_ret": 7.21
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 1.62,
+"up5": 2,
+"lead": "대원미디어",
+"lead_ret": 5.6,
+"second": "리튬포어스",
+"second_ret": 5.48
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 1.61,
+"up5": 2,
+"lead": "안트로젠",
+"lead_ret": 9.61,
+"second": "차바이오텍",
+"second_ret": 7.09
+}
+],
+"themes_worst": [
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": -2.65,
+"up5": 0,
+"lead": "이지홀딩스",
+"lead_ret": 1.75,
+"second": "동우팜투테이블",
+"second_ret": 1.64
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -2.52,
+"up5": 0,
+"lead": "노랑풍선",
+"lead_ret": -0.17,
+"second": "레드캡투어",
+"second_ret": -2.23
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -2.03,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": 0.81,
+"second": "SBI인베스트먼트",
+"second_ret": -0.8
+},
+{
+"name": "스테이블코인",
+"n": 20,
+"avg": -1.72,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 3.89,
+"second": "위메이드",
+"second_ret": 3.54
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -1.63,
+"up5": 0,
+"lead": "일진전기",
+"lead_ret": 0.54,
+"second": "LS",
+"second_ret": 0.28
+}
+],
+"leaders": [
+{
+"name": "동양",
+"code": "001520",
+"ret": 15.99,
+"value": 4292,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "셀트리온제약",
+"code": "068760",
+"ret": 12.82,
+"value": 3090,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "이루온",
+"code": "065440",
+"ret": 17.67,
+"value": 2091,
+"theme": "삼성페이",
+"reason": "테마: 삼성페이"
+},
+{
+"name": "에스에이엠티",
+"code": "031330",
+"ret": 12.95,
+"value": 1312,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "무림페이퍼",
+"code": "009200",
+"ret": 23.95,
+"value": 1268,
+"theme": "제지",
+"reason": "테마: 제지"
+}
+],
+"backfilled": true
+}

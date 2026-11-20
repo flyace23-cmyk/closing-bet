@@ -1,0 +1,254 @@
+{
+"date": "20251028",
+"kospi": -0.8,
+"kosdaq": 0.07,
+"adv": 934,
+"dec": 1296,
+"flat": 152,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 273092,
+"hot": [
+{
+"name": "전기차",
+"n": 7,
+"lead": "상신이디피",
+"lead_ret": 15.69,
+"second": "한중엔시에스",
+"second_ret": 14.72
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 3,
+"lead": "두산퓨얼셀",
+"lead_ret": 29.94,
+"second": "범한퓨얼셀",
+"second_ret": 14.83
+},
+{
+"name": "통신장비",
+"n": 3,
+"lead": "텔콘RF제약",
+"lead_ret": 17.19,
+"second": "LS마린솔루션",
+"second_ret": 13.71
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 6.0,
+"up5": 4,
+"lead": "두산퓨얼셀",
+"lead_ret": 29.94,
+"second": "범한퓨얼셀",
+"second_ret": 14.83
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.25,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 13.71,
+"second": "대한전선",
+"second_ret": 5.33
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 3.0,
+"up5": 1,
+"lead": "삼성SDI",
+"lead_ret": 9.47,
+"second": "나인테크",
+"second_ret": 4.7
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 28,
+"avg": 2.95,
+"up5": 5,
+"lead": "엔바이오니아",
+"lead_ret": 29.98,
+"second": "한중엔시에스",
+"second_ret": 14.72
+},
+{
+"name": "탈모 치료",
+"n": 27,
+"avg": 2.63,
+"up5": 4,
+"lead": "삼익제약",
+"lead_ret": 29.94,
+"second": "메타랩스",
+"second_ret": 29.77
+},
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": 2.06,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 10.4,
+"second": "로보스타",
+"second_ret": 7.27
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 2.01,
+"up5": 2,
+"lead": "한빛레이저",
+"lead_ret": 14.26,
+"second": "SKC",
+"second_ret": 8.08
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 41,
+"avg": 1.94,
+"up5": 5,
+"lead": "한중엔시에스",
+"lead_ret": 14.72,
+"second": "비나텍",
+"second_ret": 12.57
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 1.88,
+"up5": 3,
+"lead": "비스토스",
+"lead_ret": 16.53,
+"second": "파로스아이바이오",
+"second_ret": 10.54
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 1.79,
+"up5": 1,
+"lead": "닷밀",
+"lead_ret": 12.12,
+"second": "국보디자인",
+"second_ret": 1.0
+},
+{
+"name": "무선충전기술",
+"n": 12,
+"avg": 1.65,
+"up5": 1,
+"lead": "위츠",
+"lead_ret": 7.64,
+"second": "아모센스",
+"second_ret": 3.98
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 1.62,
+"up5": 5,
+"lead": "LS마린솔루션",
+"lead_ret": 13.71,
+"second": "피앤씨테크",
+"second_ret": 9.87
+}
+],
+"themes_worst": [
+{
+"name": "조선",
+"n": 6,
+"avg": -3.06,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 2.92,
+"second": "대한조선",
+"second_ret": -2.62
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": -2.78,
+"up5": 2,
+"lead": "범한퓨얼셀",
+"lead_ret": 14.83,
+"second": "삼미금속",
+"second_ret": 5.61
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -2.56,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 1.53,
+"second": "삼성생명",
+"second_ret": -1.17
+},
+{
+"name": "전력반도체",
+"n": 19,
+"avg": -2.53,
+"up5": 0,
+"lead": "케이엔에스",
+"lead_ret": 1.17,
+"second": "시지트로닉스",
+"second_ret": -0.43
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": -1.59,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": 0.63,
+"second": "코오롱글로벌",
+"second_ret": 0.11
+}
+],
+"leaders": [
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 29.94,
+"value": 7384,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "범한퓨얼셀",
+"code": "382900",
+"ret": 14.83,
+"value": 2816,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 10.03,
+"value": 1680,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "이수화학",
+"code": "005950",
+"ret": 11.5,
+"value": 1456,
+"theme": "석유화학",
+"reason": "테마: 석유화학"
+},
+{
+"name": "피앤에스로보틱스",
+"code": "460940",
+"ret": 18.4,
+"value": 1223,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

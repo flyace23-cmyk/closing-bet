@@ -1,0 +1,254 @@
+{
+"date": "20210127",
+"kospi": -0.57,
+"kosdaq": -0.81,
+"adv": 587,
+"dec": 1242,
+"flat": 144,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 431873,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "금호에이치티",
+"lead_ret": 30.0,
+"second": "삼원강재",
+"second_ret": 29.88
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "DH오토웨어",
+"lead_ret": 29.14,
+"second": "앤씨앤",
+"second_ret": 11.51
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "금호에이치티",
+"lead_ret": 30.0,
+"second": "SFA넥셀",
+"second_ret": 12.67
+}
+],
+"themes": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 6.85,
+"up5": 3,
+"lead": "인콘",
+"lead_ret": 30.03,
+"second": "앤씨앤",
+"second_ret": 11.51
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": 3.47,
+"up5": 2,
+"lead": "인콘",
+"lead_ret": 30.03,
+"second": "앤씨앤",
+"second_ret": 11.51
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 2.88,
+"up5": 1,
+"lead": "오가닉티코스메틱",
+"lead_ret": 18.05,
+"second": "로스웰",
+"second_ret": 3.37
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.33,
+"up5": 1,
+"lead": "국보디자인",
+"lead_ret": 7.1,
+"second": "한국종합기술",
+"second_ret": 4.38
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 2.29,
+"up5": 2,
+"lead": "비엠티",
+"lead_ret": 5.88,
+"second": "성광벤드",
+"second_ret": 5.53
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.99,
+"up5": 1,
+"lead": "GS글로벌",
+"lead_ret": 10.14,
+"second": "효성티앤씨",
+"second_ret": 4.05
+},
+{
+"name": "쿠팡(coupang)",
+"n": 18,
+"avg": 1.87,
+"up5": 2,
+"lead": "아틀라스링크",
+"lead_ret": 29.88,
+"second": "NEW",
+"second_ret": 7.35
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.66,
+"up5": 1,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 5.92,
+"second": "한국앤컴퍼니",
+"second_ret": 4.29
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 1.65,
+"up5": 2,
+"lead": "가온그룹",
+"lead_ret": 11.79,
+"second": "코콤",
+"second_ret": 5.93
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 32,
+"avg": 1.58,
+"up5": 6,
+"lead": "조이시티",
+"lead_ret": 15.47,
+"second": "펄어비스",
+"second_ret": 11.59
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 1.52,
+"up5": 2,
+"lead": "조이시티",
+"lead_ret": 15.47,
+"second": "미투온",
+"second_ret": 5.11
+},
+{
+"name": "게임",
+"n": 27,
+"avg": 1.48,
+"up5": 5,
+"lead": "조이시티",
+"lead_ret": 15.47,
+"second": "펄어비스",
+"second_ret": 11.59
+}
+],
+"themes_worst": [
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -3.26,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.39,
+"second": "삼성전자",
+"second_ret": -1.27
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.18,
+"up5": 0,
+"lead": "아주IB투자",
+"lead_ret": 0.0,
+"second": "SBI인베스트먼트",
+"second_ret": -1.12
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 9,
+"avg": -3.04,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.39,
+"second": "엑시콘",
+"second_ret": -0.64
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": -2.82,
+"up5": 0,
+"lead": "조광페인트",
+"lead_ret": 0.0,
+"second": "노루홀딩스",
+"second_ret": -1.74
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -2.74,
+"up5": 0,
+"lead": "삼성화재",
+"lead_ret": -0.85,
+"second": "코리안리",
+"second_ret": -1.82
+}
+],
+"leaders": [
+{
+"name": "SFA넥셀",
+"code": "222080",
+"ret": 12.67,
+"value": 4521,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "현대비앤지스틸",
+"code": "004560",
+"ret": 30.0,
+"value": 3209,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "스틱인베스트먼트",
+"code": "026890",
+"ret": 15.45,
+"value": 2116,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "구영테크",
+"code": "053270",
+"ret": 10.34,
+"value": 1821,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "지씨셀",
+"code": "144510",
+"ret": 11.06,
+"value": 1698,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

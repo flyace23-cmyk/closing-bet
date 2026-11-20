@@ -1,0 +1,254 @@
+{
+"date": "20221201",
+"kospi": 0.3,
+"kosdaq": 1.52,
+"adv": 1540,
+"dec": 419,
+"flat": 164,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 130330,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 6,
+"lead": "서한",
+"lead_ret": 29.82,
+"second": "동부건설",
+"second_ret": 29.44
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "성도이엔지",
+"lead_ret": 25.99,
+"second": "엔투텍",
+"second_ret": 15.04
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "신도기연",
+"lead_ret": 11.58,
+"second": "선익시스템",
+"second_ret": 8.08
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 7.1,
+"up5": 14,
+"lead": "서한",
+"lead_ret": 29.82,
+"second": "동부건설",
+"second_ret": 29.44
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 6.38,
+"up5": 5,
+"lead": "엔비티",
+"lead_ret": 24.37,
+"second": "엔키AX",
+"second_ret": 22.51
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 6.01,
+"up5": 2,
+"lead": "서한",
+"lead_ret": 29.82,
+"second": "태영건설",
+"second_ret": 5.14
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 5.51,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 24.37,
+"second": "하나금융지주",
+"second_ret": 3.25
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 4.41,
+"up5": 6,
+"lead": "서한",
+"lead_ret": 29.82,
+"second": "동부건설",
+"second_ret": 29.44
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.87,
+"up5": 2,
+"lead": "포스코스틸리온",
+"lead_ret": 12.25,
+"second": "고려제강",
+"second_ret": 5.45
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.87,
+"up5": 7,
+"lead": "디어유",
+"lead_ret": 7.79,
+"second": "하이브",
+"second_ret": 7.34
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.74,
+"up5": 2,
+"lead": "제주항공",
+"lead_ret": 5.48,
+"second": "진에어",
+"second_ret": 5.47
+},
+{
+"name": "광고",
+"n": 20,
+"avg": 2.73,
+"up5": 3,
+"lead": "엔비티",
+"lead_ret": 24.37,
+"second": "인크로스",
+"second_ret": 11.78
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 2.71,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 12.57,
+"second": "디에스케이",
+"second_ret": 4.81
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.7,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 7.19,
+"second": "에이스토리",
+"second_ret": 6.08
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": 2.68,
+"up5": 6,
+"lead": "JYP Ent.",
+"lead_ret": 6.6,
+"second": "애니플러스",
+"second_ret": 6.59
+}
+],
+"themes_worst": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": -0.93,
+"up5": 0,
+"lead": "대동금속",
+"lead_ret": 3.15,
+"second": "두산밥캣",
+"second_ret": 1.27
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.84,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.64,
+"second": "SK스퀘어",
+"second_ret": 0.13
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.72,
+"up5": 0,
+"lead": "유성티엔에스",
+"lead_ret": 1.22,
+"second": "이마트",
+"second_ret": 1.19
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -0.5,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": 2.27,
+"second": "KBI메탈",
+"second_ret": 2.14
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 12,
+"avg": -0.48,
+"up5": 0,
+"lead": "3S",
+"lead_ret": 0.81,
+"second": "오텍",
+"second_ret": 0.71
+}
+],
+"leaders": [
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 10.78,
+"value": 2521,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "엔비티",
+"code": "236810",
+"ret": 24.37,
+"value": 1403,
+"theme": "웹툰",
+"reason": "테마: 웹툰"
+},
+{
+"name": "포스코스틸리온",
+"code": "058430",
+"ret": 12.25,
+"value": 1236,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 12.57,
+"value": 1111,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+},
+{
+"name": "앱튼",
+"code": "270520",
+"ret": 29.86,
+"value": 1034,
+"theme": "리튬",
+"reason": "테마: 리튬"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20240808",
+"kospi": -0.45,
+"kosdaq": -0.44,
+"adv": 916,
+"dec": 1245,
+"flat": 111,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 180438,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 8,
+"lead": "진매트릭스",
+"lead_ret": 29.92,
+"second": "녹십자엠에스",
+"second_ret": 29.89
+},
+{
+"name": "제약업체",
+"n": 4,
+"lead": "그린생명과학",
+"lead_ret": 29.97,
+"second": "서울제약",
+"second_ret": 29.91
+},
+{
+"name": "황사/미세먼지",
+"n": 3,
+"lead": "케이엠",
+"lead_ret": 26.71,
+"second": "국제약품",
+"second_ret": 15.97
+}
+],
+"themes": [
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 8.32,
+"up5": 3,
+"lead": "서울제약",
+"lead_ret": 29.91,
+"second": "파미셀",
+"second_ret": 6.8
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.98,
+"up5": 4,
+"lead": "IPARK현대산업개발",
+"lead_ret": 14.81,
+"second": "GS건설",
+"second_ret": 11.28
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 6.71,
+"up5": 18,
+"lead": "진매트릭스",
+"lead_ret": 29.92,
+"second": "녹십자엠에스",
+"second_ret": 29.89
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.22,
+"up5": 4,
+"lead": "국제약품",
+"lead_ret": 15.97,
+"second": "멕아이씨에스",
+"second_ret": 8.05
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 5.15,
+"up5": 2,
+"lead": "드림씨아이에스",
+"lead_ret": 18.53,
+"second": "일신바이오",
+"second_ret": 11.86
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 4.49,
+"up5": 6,
+"lead": "케이엠",
+"lead_ret": 26.71,
+"second": "국제약품",
+"second_ret": 15.97
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 4.31,
+"up5": 23,
+"lead": "진매트릭스",
+"lead_ret": 29.92,
+"second": "녹십자엠에스",
+"second_ret": 29.89
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 3.87,
+"up5": 11,
+"lead": "진매트릭스",
+"lead_ret": 29.92,
+"second": "오상헬스케어",
+"second_ret": 24.44
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 21,
+"avg": 3.83,
+"up5": 4,
+"lead": "블루엠텍",
+"lead_ret": 29.94,
+"second": "녹십자홀딩스",
+"second_ret": 7.74
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 3.54,
+"up5": 2,
+"lead": "HD한국조선해양",
+"lead_ret": 7.03,
+"second": "HD현대중공업",
+"second_ret": 5.37
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.33,
+"up5": 2,
+"lead": "소마젠",
+"lead_ret": 10.56,
+"second": "파미셀",
+"second_ret": 6.8
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.93,
+"up5": 1,
+"lead": "성우전자",
+"lead_ret": 15.37,
+"second": "유비벨록스",
+"second_ret": 1.78
+}
+],
+"themes_worst": [
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.89,
+"up5": 0,
+"lead": "후성",
+"lead_ret": 1.85,
+"second": "세방전지",
+"second_ret": 0.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.83,
+"up5": 0,
+"lead": "나인테크",
+"lead_ret": 1.69,
+"second": "LG에너지솔루션",
+"second_ret": -1.08
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -2.62,
+"up5": 0,
+"lead": "HC보광산업",
+"lead_ret": 0.0,
+"second": "유진기업",
+"second_ret": 0.0
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -2.55,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": -0.66,
+"second": "특수건설",
+"second_ret": -0.88
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.49,
+"up5": 0,
+"lead": "오픈베이스",
+"lead_ret": 1.08,
+"second": "금호석유화학",
+"second_ret": -0.46
+}
+],
+"leaders": [
+{
+"name": "씨에스윈드",
+"code": "112610",
+"ret": 18.6,
+"value": 3647,
+"theme": "풍력에너지",
+"reason": "테마: 풍력에너지"
+},
+{
+"name": "휴마시스",
+"code": "205470",
+"ret": 19.41,
+"value": 3125,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "씨젠",
+"code": "096530",
+"ret": 19.78,
+"value": 2797,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "국제약품",
+"code": "002720",
+"ret": 15.97,
+"value": 2024,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "하이젠알앤엠",
+"code": "160190",
+"ret": 16.14,
+"value": 1720,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

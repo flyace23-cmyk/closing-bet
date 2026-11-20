@@ -1,0 +1,254 @@
+{
+"date": "20220819",
+"kospi": -0.61,
+"kosdaq": -1.44,
+"adv": 519,
+"dec": 1395,
+"flat": 182,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 125087,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "우리산업",
+"lead_ret": 13.18,
+"second": "화천기계",
+"second_ret": 7.62
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "퀀타매트릭스",
+"lead_ret": 29.97,
+"second": "랩지노믹스",
+"second_ret": 24.13
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "우리산업",
+"lead_ret": 13.18,
+"second": "성창오토텍",
+"second_ret": 7.09
+}
+],
+"themes": [
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 2.2,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 29.84,
+"second": "파수AI",
+"second_ret": 1.46
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 1.95,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 29.84,
+"second": "휴네시온",
+"second_ret": 4.08
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 1.83,
+"up5": 2,
+"lead": "SNT에너지",
+"lead_ret": 10.32,
+"second": "포스코인터내셔널",
+"second_ret": 6.36
+},
+{
+"name": "조선기자재",
+"n": 30,
+"avg": 1.64,
+"up5": 2,
+"lead": "일승",
+"lead_ret": 12.12,
+"second": "태웅",
+"second_ret": 11.54
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 24,
+"avg": 1.57,
+"up5": 3,
+"lead": "일승",
+"lead_ret": 12.12,
+"second": "SNT에너지",
+"second_ret": 10.32
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 1.24,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 6.36,
+"second": "LX인터내셔널",
+"second_ret": 4.37
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.18,
+"up5": 0,
+"lead": "이루온",
+"lead_ret": 4.12,
+"second": "퀀텀레일",
+"second_ret": 2.24
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 1.03,
+"up5": 0,
+"lead": "하이록코리아",
+"lead_ret": 3.56,
+"second": "화성밸브",
+"second_ret": 3.32
+},
+{
+"name": "니켈",
+"n": 12,
+"avg": 0.82,
+"up5": 1,
+"lead": "포스코인터내셔널",
+"lead_ret": 6.36,
+"second": "LX인터내셔널",
+"second_ret": 4.37
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 0.72,
+"up5": 1,
+"lead": "휴스틸",
+"lead_ret": 5.68,
+"second": "세아제강",
+"second_ret": 3.35
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 0.7,
+"up5": 3,
+"lead": "셀레믹스",
+"lead_ret": 13.02,
+"second": "체시스",
+"second_ret": 6.48
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 0.64,
+"up5": 1,
+"lead": "휴스틸",
+"lead_ret": 5.68,
+"second": "엔케이",
+"second_ret": 4.33
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -3.02,
+"up5": 0,
+"lead": "하이브",
+"lead_ret": -0.8,
+"second": "알비더블유",
+"second_ret": -1.17
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": -2.79,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 0.0,
+"second": "아이티센글로벌",
+"second_ret": -0.24
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -2.24,
+"up5": 0,
+"lead": "SK네트웍스",
+"lead_ret": -0.23,
+"second": "팜스코",
+"second_ret": -0.94
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.2,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": -0.9,
+"second": "대한항공",
+"second_ret": -1.13
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -2.13,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": -0.22,
+"second": "오로라",
+"second_ret": -1.35
+}
+],
+"leaders": [
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 24.13,
+"value": 2507,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "일승",
+"code": "333430",
+"ret": 12.12,
+"value": 886,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "셀레믹스",
+"code": "331920",
+"ret": 13.02,
+"value": 791,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "코닉오토메이션",
+"code": "391710",
+"ret": 11.23,
+"value": 781,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "우리산업",
+"code": "215360",
+"ret": 13.18,
+"value": 718,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

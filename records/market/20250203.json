@@ -1,0 +1,254 @@
+{
+"date": "20250203",
+"kospi": -2.52,
+"kosdaq": -3.36,
+"adv": 299,
+"dec": 1966,
+"flat": 61,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 182698,
+"hot": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 8,
+"lead": "바이브컴퍼니",
+"lead_ret": 29.97,
+"second": "플리토",
+"second_ret": 21.83
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 5,
+"lead": "이루온",
+"lead_ret": 20.03,
+"second": "카페24",
+"second_ret": 13.71
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 3,
+"lead": "유니온",
+"lead_ret": 27.27,
+"second": "유니온머티리얼",
+"second_ret": 13.83
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 6.5,
+"up5": 2,
+"lead": "유니온",
+"lead_ret": 27.27,
+"second": "유니온머티리얼",
+"second_ret": 13.83
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 4.39,
+"up5": 10,
+"lead": "바이브컴퍼니",
+"lead_ret": 29.97,
+"second": "플리토",
+"second_ret": 21.83
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 3.96,
+"up5": 2,
+"lead": "샘표식품",
+"lead_ret": 7.56,
+"second": "신송홀딩스",
+"second_ret": 5.93
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 3.31,
+"up5": 6,
+"lead": "유니온",
+"lead_ret": 27.27,
+"second": "유니온머티리얼",
+"second_ret": 13.83
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.99,
+"up5": 3,
+"lead": "이루온",
+"lead_ret": 20.03,
+"second": "인포뱅크",
+"second_ret": 10.6
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 2.01,
+"up5": 1,
+"lead": "상보",
+"lead_ret": 19.61,
+"second": "금호석유화학",
+"second_ret": 1.61
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 1.78,
+"up5": 3,
+"lead": "브리지텍",
+"lead_ret": 15.51,
+"second": "카카오",
+"second_ret": 9.0
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 1.75,
+"up5": 1,
+"lead": "흥구석유",
+"lead_ret": 21.67,
+"second": "극동유화",
+"second_ret": 0.0
+},
+{
+"name": "퓨리오사AI",
+"n": 10,
+"avg": 1.68,
+"up5": 3,
+"lead": "와이즈넛",
+"lead_ret": 18.2,
+"second": "포바이포",
+"second_ret": 7.38
+},
+{
+"name": "모바일솔루션(스마트폰)",
+"n": 23,
+"avg": 1.58,
+"up5": 8,
+"lead": "이루온",
+"lead_ret": 20.03,
+"second": "카페24",
+"second_ret": 13.71
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.56,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 21.67,
+"second": "중앙에너비스",
+"second_ret": 5.45
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 1.56,
+"up5": 2,
+"lead": "흥구석유",
+"lead_ret": 21.67,
+"second": "중앙에너비스",
+"second_ret": 5.45
+}
+],
+"themes_worst": [
+{
+"name": "LED장비",
+"n": 11,
+"avg": -6.45,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": -3.74,
+"second": "이오테크닉스",
+"second_ret": -5.02
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -6.32,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -2.67,
+"second": "펨트론",
+"second_ret": -3.66
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -6.21,
+"up5": 0,
+"lead": "고영",
+"lead_ret": 1.83,
+"second": "켐트로스",
+"second_ret": 0.69
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -6.17,
+"up5": 0,
+"lead": "파두",
+"lead_ret": -1.13,
+"second": "국순당",
+"second_ret": -2.58
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -6.03,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.5,
+"second": "삼성전자",
+"second_ret": -2.67
+}
+],
+"leaders": [
+{
+"name": "카페24",
+"code": "042000",
+"ret": 13.71,
+"value": 1921,
+"theme": "모바일솔루션(스마트폰)",
+"reason": "테마: 모바일솔루션(스마트폰)"
+},
+{
+"name": "흥구석유",
+"code": "024060",
+"ret": 21.67,
+"value": 1484,
+"theme": "윤활유",
+"reason": "테마: 윤활유"
+},
+{
+"name": "유니온",
+"code": "000910",
+"ret": 27.27,
+"value": 1363,
+"theme": "희귀금속(희토류 등)",
+"reason": "테마: 희귀금속(희토류 등)"
+},
+{
+"name": "한국석유",
+"code": "004090",
+"ret": 29.93,
+"value": 1220,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "인스웨이브",
+"code": "450520",
+"ret": 10.7,
+"value": 979,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+}
+],
+"backfilled": true
+}

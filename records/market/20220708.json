@@ -1,0 +1,229 @@
+{
+"date": "20220708",
+"kospi": 0.7,
+"kosdaq": 1.12,
+"adv": 1382,
+"dec": 510,
+"flat": 194,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 121820,
+"hot": [],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 7.57,
+"up5": 3,
+"lead": "세림B&G",
+"lead_ret": 29.9,
+"second": "삼륭물산",
+"second_ret": 11.19
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.32,
+"up5": 3,
+"lead": "멕아이씨에스",
+"lead_ret": 7.41,
+"second": "인트론바이오",
+"second_ret": 7.4
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.19,
+"up5": 1,
+"lead": "한탑",
+"lead_ret": 12.27,
+"second": "대주산업",
+"second_ret": 4.91
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 3.0,
+"up5": 7,
+"lead": "아이진",
+"lead_ret": 11.95,
+"second": "셀리드",
+"second_ret": 7.63
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 2.99,
+"up5": 1,
+"lead": "우원개발",
+"lead_ret": 8.99,
+"second": "부산산업",
+"second_ret": 4.84
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 2.91,
+"up5": 2,
+"lead": "모나미",
+"lead_ret": 24.51,
+"second": "모나리자",
+"second_ret": 7.7
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 2.62,
+"up5": 7,
+"lead": "바이오니아",
+"lead_ret": 29.85,
+"second": "일동제약",
+"second_ret": 7.44
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.58,
+"up5": 1,
+"lead": "누보",
+"lead_ret": 5.27,
+"second": "KG케미칼",
+"second_ret": 4.19
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.57,
+"up5": 4,
+"lead": "삼륭물산",
+"lead_ret": 11.19,
+"second": "웹스",
+"second_ret": 6.5
+},
+{
+"name": "엔젤산업",
+"n": 20,
+"avg": 2.55,
+"up5": 1,
+"lead": "모나미",
+"lead_ret": 24.51,
+"second": "삼성출판사",
+"second_ret": 4.29
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.54,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 11.09,
+"second": "콜마바이오텍",
+"second_ret": 5.19
+},
+{
+"name": "폐배터리",
+"n": 17,
+"avg": 2.51,
+"up5": 3,
+"lead": "NPC",
+"lead_ret": 12.44,
+"second": "킵스파마",
+"second_ret": 10.44
+}
+],
+"themes_worst": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.95,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": 0.96,
+"second": "삼성전자",
+"second_ret": 0.86
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.84,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 0.0,
+"second": "강스템바이오텍",
+"second_ret": -0.18
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.63,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.0,
+"second": "현대건설",
+"second_ret": 0.89
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -0.55,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.0,
+"second": "SFA",
+"second_ret": 0.76
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": -0.38,
+"up5": 0,
+"lead": "잉크테크",
+"lead_ret": 1.5,
+"second": "다산솔루에타",
+"second_ret": 1.25
+}
+],
+"leaders": [
+{
+"name": "HLB바이오스텝",
+"code": "278650",
+"ret": 14.42,
+"value": 5380,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "코난테크놀로지",
+"code": "402030",
+"ret": 16.02,
+"value": 2387,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "보로노이",
+"code": "310210",
+"ret": 21.83,
+"value": 1701,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 13.21,
+"value": 1618,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "HLB",
+"code": "028300",
+"ret": 12.26,
+"value": 973,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+}
+],
+"backfilled": true
+}

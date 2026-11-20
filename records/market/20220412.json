@@ -1,0 +1,238 @@
+{
+"date": "20220412",
+"kospi": -0.98,
+"kosdaq": -0.87,
+"adv": 486,
+"dec": 1421,
+"flat": 170,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 157493,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "구영테크",
+"lead_ret": 29.97,
+"second": "KB오토시스",
+"second_ret": 29.89
+}
+],
+"themes": [
+{
+"name": "도시가스",
+"n": 9,
+"avg": 5.15,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 24.8,
+"second": "대성에너지",
+"second_ret": 14.83
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 1.72,
+"up5": 1,
+"lead": "KG케미칼",
+"lead_ret": 7.95,
+"second": "유니온머티리얼",
+"second_ret": 1.71
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": 1.62,
+"up5": 2,
+"lead": "지에스이",
+"lead_ret": 24.8,
+"second": "대성에너지",
+"second_ret": 14.83
+},
+{
+"name": "조선기자재",
+"n": 29,
+"avg": 1.52,
+"up5": 3,
+"lead": "STX엔진",
+"lead_ret": 9.54,
+"second": "동방선기",
+"second_ret": 5.19
+},
+{
+"name": "조선",
+"n": 5,
+"avg": 1.22,
+"up5": 0,
+"lead": "한화오션",
+"lead_ret": 4.16,
+"second": "HD한국조선해양",
+"second_ret": 1.78
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.85,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 12.01,
+"second": "흥구석유",
+"second_ret": 3.0
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 0.85,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 12.01,
+"second": "흥구석유",
+"second_ret": 3.0
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 0.75,
+"up5": 0,
+"lead": "코스모신소재",
+"lead_ret": 4.51,
+"second": "원준",
+"second_ret": 3.33
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 0.7,
+"up5": 0,
+"lead": "이월드",
+"lead_ret": 3.09,
+"second": "한국전자인증",
+"second_ret": 1.55
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 0.7,
+"up5": 0,
+"lead": "강동씨앤엘",
+"lead_ret": 4.72,
+"second": "성신양회",
+"second_ret": 3.36
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 0.61,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 12.01,
+"second": "리드코프",
+"second_ret": 8.78
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 0.59,
+"up5": 1,
+"lead": "벽산",
+"lead_ret": 7.05,
+"second": "SP삼화",
+"second_ret": 1.13
+}
+],
+"themes_worst": [
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": -2.69,
+"up5": 0,
+"lead": "엠게임",
+"lead_ret": 1.4,
+"second": "아톤",
+"second_ret": 0.31
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": -2.59,
+"up5": 0,
+"lead": "휴림로봇",
+"lead_ret": 1.31,
+"second": "에스티아이",
+"second_ret": 0.27
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -2.58,
+"up5": 0,
+"lead": "대동",
+"lead_ret": -0.34,
+"second": "파루",
+"second_ret": -1.19
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.56,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -0.22,
+"second": "샘표",
+"second_ret": -1.15
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.38,
+"up5": 0,
+"lead": "딥커머스",
+"lead_ret": 2.23,
+"second": "GRT",
+"second_ret": -0.4
+}
+],
+"leaders": [
+{
+"name": "지에스이",
+"code": "053050",
+"ret": 24.8,
+"value": 3691,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "KG스틸",
+"code": "016380",
+"ret": 10.97,
+"value": 2875,
+"theme": "철강 주요종목",
+"reason": "테마: 철강 주요종목"
+},
+{
+"name": "대성에너지",
+"code": "117580",
+"ret": 14.83,
+"value": 1648,
+"theme": "도시가스",
+"reason": "테마: 도시가스"
+},
+{
+"name": "구영테크",
+"code": "053270",
+"ret": 29.97,
+"value": 1257,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "중앙에너비스",
+"code": "000440",
+"ret": 12.01,
+"value": 1235,
+"theme": "LPG(액화석유가스)",
+"reason": "테마: LPG(액화석유가스)"
+}
+],
+"backfilled": true
+}

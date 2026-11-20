@@ -1,0 +1,254 @@
+{
+"date": "20241206",
+"kospi": -0.56,
+"kosdaq": -1.43,
+"adv": 498,
+"dec": 1734,
+"flat": 79,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 168624,
+"hot": [
+{
+"name": "가상현실(VR)",
+"n": 4,
+"lead": "시공테크",
+"lead_ret": 22.59,
+"second": "토탈소프트",
+"second_ret": 20.11
+},
+{
+"name": "재택근무/스마트워크",
+"n": 3,
+"lead": "오파스넷",
+"lead_ret": 14.61,
+"second": "제이씨현시스템",
+"second_ret": 14.45
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "파미셀",
+"lead_ret": 12.64,
+"second": "지노믹트리",
+"second_ret": 11.08
+}
+],
+"themes": [
+{
+"name": "테마파크",
+"n": 6,
+"avg": 3.16,
+"up5": 1,
+"lead": "시공테크",
+"lead_ret": 22.59,
+"second": "한국종합기술",
+"second_ret": 4.38
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.01,
+"up5": 2,
+"lead": "오파스넷",
+"lead_ret": 14.61,
+"second": "에스넷",
+"second_ret": 10.39
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 2.42,
+"up5": 2,
+"lead": "소노스퀘어",
+"lead_ret": 17.19,
+"second": "아난티",
+"second_ret": 7.4
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.17,
+"up5": 2,
+"lead": "iMBC",
+"lead_ret": 16.28,
+"second": "티비씨",
+"second_ret": 6.08
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.11,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 24.96,
+"second": "이건홀딩스",
+"second_ret": 8.03
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.11,
+"up5": 2,
+"lead": "동신건설",
+"lead_ret": 24.96,
+"second": "이건홀딩스",
+"second_ret": 8.03
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 1.9,
+"up5": 2,
+"lead": "원티드랩",
+"lead_ret": 11.68,
+"second": "오픈놀",
+"second_ret": 7.96
+},
+{
+"name": "가상현실(VR)",
+"n": 24,
+"avg": 1.47,
+"up5": 4,
+"lead": "시공테크",
+"lead_ret": 22.59,
+"second": "토탈소프트",
+"second_ret": 20.11
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.39,
+"up5": 7,
+"lead": "형지엘리트",
+"lead_ret": 14.7,
+"second": "인디에프",
+"second_ret": 13.99
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 1.2,
+"up5": 2,
+"lead": "프리엠스",
+"lead_ret": 8.89,
+"second": "카카오페이",
+"second_ret": 6.12
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.14,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 4.88,
+"second": "신한지주",
+"second_ret": 3.01
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 1.13,
+"up5": 4,
+"lead": "비비안",
+"lead_ret": 11.6,
+"second": "아가방컴퍼니",
+"second_ret": 8.9
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -5.0,
+"up5": 0,
+"lead": "글로벌에스엠",
+"lead_ret": -1.24,
+"second": "씨엑스아이",
+"second_ret": -1.46
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -4.67,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": 1.59,
+"second": "SBI인베스트먼트",
+"second_ret": -3.78
+},
+{
+"name": "원자력발전소 해체",
+"n": 13,
+"avg": -4.59,
+"up5": 0,
+"lead": "현대건설",
+"lead_ret": -0.19,
+"second": "대창솔루션",
+"second_ret": -1.25
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": -4.27,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.74,
+"second": "레이언스",
+"second_ret": 0.32
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": -3.97,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 7.47,
+"second": "POSCO홀딩스",
+"second_ret": -0.38
+}
+],
+"leaders": [
+{
+"name": "동신건설",
+"code": "025950",
+"ret": 24.96,
+"value": 2359,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+},
+{
+"name": "에이텍",
+"code": "045660",
+"ret": 20.9,
+"value": 2246,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "제이씨현시스템",
+"code": "033320",
+"ret": 14.45,
+"value": 2076,
+"theme": "가상현실(VR)",
+"reason": "테마: 가상현실(VR)"
+},
+{
+"name": "대상홀딩스",
+"code": "084690",
+"ret": 15.42,
+"value": 1545,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "오파스넷",
+"code": "173130",
+"ret": 14.61,
+"value": 1444,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+}
+],
+"backfilled": true
+}

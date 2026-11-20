@@ -1,0 +1,238 @@
+{
+"date": "20220609",
+"kospi": -0.03,
+"kosdaq": 0.25,
+"adv": 558,
+"dec": 1352,
+"flat": 171,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 168124,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "아이티센엔텍",
+"lead_ret": 16.14,
+"second": "현대로템",
+"second_ret": 8.55
+}
+],
+"themes": [
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 3.57,
+"up5": 2,
+"lead": "올릭스",
+"lead_ret": 18.28,
+"second": "아미노로직스",
+"second_ret": 12.45
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.78,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 16.29,
+"second": "유비벨록스",
+"second_ret": 1.33
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 1.62,
+"up5": 4,
+"lead": "바이젠셀",
+"lead_ret": 14.39,
+"second": "압타바이오",
+"second_ret": 6.61
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 1.42,
+"up5": 1,
+"lead": "HLB테라퓨틱스",
+"lead_ret": 29.68,
+"second": "지씨셀",
+"second_ret": 1.14
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 1.22,
+"up5": 1,
+"lead": "대한유화",
+"lead_ret": 6.56,
+"second": "티케이케미칼",
+"second_ret": 3.69
+},
+{
+"name": "비만치료제",
+"n": 31,
+"avg": 1.19,
+"up5": 3,
+"lead": "올릭스",
+"lead_ret": 18.28,
+"second": "HLB제약",
+"second_ret": 16.32
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 11,
+"avg": 1.06,
+"up5": 1,
+"lead": "SFA넥셀",
+"lead_ret": 11.47,
+"second": "아모그린텍",
+"second_ret": 3.38
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.96,
+"up5": 1,
+"lead": "엔투텍",
+"lead_ret": 5.57,
+"second": "파미셀",
+"second_ret": 3.73
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 0.94,
+"up5": 0,
+"lead": "에코프로비엠",
+"lead_ret": 3.56,
+"second": "삼성SDI",
+"second_ret": 1.65
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 0.89,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 7.45,
+"second": "그래디언트",
+"second_ret": 0.42
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 0.89,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 3.02,
+"second": "한온시스템",
+"second_ret": 1.79
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 0.75,
+"up5": 2,
+"lead": "바이젠셀",
+"lead_ret": 14.39,
+"second": "지노믹트리",
+"second_ret": 6.95
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -3.47,
+"up5": 0,
+"lead": "우진비앤지",
+"lead_ret": -0.93,
+"second": "우성",
+"second_ret": -1.49
+},
+{
+"name": "육계",
+"n": 9,
+"avg": -3.05,
+"up5": 0,
+"lead": "동우팜투테이블",
+"lead_ret": -1.47,
+"second": "교촌에프앤비",
+"second_ret": -1.77
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.81,
+"up5": 0,
+"lead": "샘표식품",
+"lead_ret": -1.33,
+"second": "풀무원",
+"second_ret": -2.32
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -2.69,
+"up5": 0,
+"lead": "오텍",
+"lead_ret": -0.55,
+"second": "GH신소재",
+"second_ret": -1.01
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -2.54,
+"up5": 0,
+"lead": "씨티케이",
+"lead_ret": 0.22,
+"second": "한국팩키지",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "KG에코솔루션",
+"code": "151860",
+"ret": 11.37,
+"value": 3161,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "캠시스",
+"code": "050110",
+"ret": 18.49,
+"value": 2704,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "HLB바이오스텝",
+"code": "278650",
+"ret": 30.0,
+"value": 1819,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "아미노로직스",
+"code": "074430",
+"ret": 12.45,
+"value": 1715,
+"theme": "mRNA(메신저 리보핵산)",
+"reason": "테마: mRNA(메신저 리보핵산)"
+},
+{
+"name": "HLB글로벌",
+"code": "003580",
+"ret": 16.61,
+"value": 1213,
+"theme": "화장품",
+"reason": "테마: 화장품"
+}
+],
+"backfilled": true
+}

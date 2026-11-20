@@ -1,0 +1,254 @@
+{
+"date": "20220418",
+"kospi": -0.11,
+"kosdaq": -0.67,
+"adv": 781,
+"dec": 1080,
+"flat": 216,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 141487,
+"hot": [
+{
+"name": "사료",
+"n": 9,
+"lead": "대한제당",
+"lead_ret": 30.0,
+"second": "대주산업",
+"second_ret": 29.95
+},
+{
+"name": "음식료업종",
+"n": 7,
+"lead": "대한제당",
+"lead_ret": 30.0,
+"second": "사조동아원",
+"second_ret": 29.86
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 6,
+"lead": "한일사료",
+"lead_ret": 29.91,
+"second": "마니커",
+"second_ret": 23.17
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 11.24,
+"up5": 10,
+"lead": "대한제당",
+"lead_ret": 30.0,
+"second": "대주산업",
+"second_ret": 29.95
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 6.06,
+"up5": 3,
+"lead": "마니커",
+"lead_ret": 23.17,
+"second": "하림",
+"second_ret": 9.78
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 5.7,
+"up5": 5,
+"lead": "한일사료",
+"lead_ret": 29.91,
+"second": "마니커",
+"second_ret": 23.17
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 4.04,
+"up5": 6,
+"lead": "한일사료",
+"lead_ret": 29.91,
+"second": "마니커",
+"second_ret": 23.17
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 4.01,
+"up5": 2,
+"lead": "마니커",
+"lead_ret": 23.17,
+"second": "하림",
+"second_ret": 9.78
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.75,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 9.94,
+"second": "우양",
+"second_ret": 4.21
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.31,
+"up5": 2,
+"lead": "오파스넷",
+"lead_ret": 20.43,
+"second": "인성정보",
+"second_ret": 5.34
+},
+{
+"name": "음식료업종",
+"n": 58,
+"avg": 3.04,
+"up5": 9,
+"lead": "대한제당",
+"lead_ret": 30.0,
+"second": "사조동아원",
+"second_ret": 29.86
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 2.83,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 9.94,
+"second": "CJ씨푸드",
+"second_ret": 4.14
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 2.48,
+"up5": 3,
+"lead": "대한제당",
+"lead_ret": 30.0,
+"second": "한탑",
+"second_ret": 17.24
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.21,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 5.03,
+"second": "한온시스템",
+"second_ret": 3.1
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 2.06,
+"up5": 3,
+"lead": "마니커",
+"lead_ret": 23.17,
+"second": "하림",
+"second_ret": 9.78
+}
+],
+"themes_worst": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -3.57,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 0.0,
+"second": "아주IB투자",
+"second_ret": -0.26
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -3.06,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 0.98,
+"second": "손오공",
+"second_ret": 0.0
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -2.77,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -0.8,
+"second": "HJ중공업",
+"second_ret": -1.34
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -2.66,
+"up5": 0,
+"lead": "이스트소프트",
+"lead_ret": 0.0,
+"second": "밸로프",
+"second_ret": 0.0
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -2.63,
+"up5": 0,
+"lead": "위메이드플레이",
+"lead_ret": 3.29,
+"second": "이스트소프트",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "일동제약",
+"code": "249420",
+"ret": 15.96,
+"value": 10042,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "일동홀딩스",
+"code": "000230",
+"ret": 27.5,
+"value": 3145,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "사조동아원",
+"code": "008040",
+"ret": 29.86,
+"value": 1945,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "대한제당",
+"code": "001790",
+"ret": 30.0,
+"value": 1658,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 29.95,
+"value": 1417,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

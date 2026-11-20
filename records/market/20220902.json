@@ -1,0 +1,254 @@
+{
+"date": "20220902",
+"kospi": -0.26,
+"kosdaq": -0.31,
+"adv": 688,
+"dec": 1230,
+"flat": 180,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 121112,
+"hot": [
+{
+"name": "철도",
+"n": 6,
+"lead": "우원개발",
+"lead_ret": 22.22,
+"second": "도화엔지니어링",
+"second_ret": 13.71
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "도화엔지니어링",
+"lead_ret": 13.71,
+"second": "인디에프",
+"second_ret": 10.56
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "앱클론",
+"lead_ret": 15.7,
+"second": "현대바이오",
+"second_ret": 14.71
+}
+],
+"themes": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 3.88,
+"up5": 3,
+"lead": "뉴보텍",
+"lead_ret": 13.25,
+"second": "조비",
+"second_ret": 6.09
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.6,
+"up5": 2,
+"lead": "우원개발",
+"lead_ret": 22.22,
+"second": "특수건설",
+"second_ret": 5.16
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 2.32,
+"up5": 5,
+"lead": "우원개발",
+"lead_ret": 22.22,
+"second": "도화엔지니어링",
+"second_ret": 13.71
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 13,
+"avg": 2.3,
+"up5": 2,
+"lead": "머큐리",
+"lead_ret": 22.95,
+"second": "대한광통신",
+"second_ret": 9.03
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 2.14,
+"up5": 7,
+"lead": "도화엔지니어링",
+"lead_ret": 13.71,
+"second": "인디에프",
+"second_ret": 10.56
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 2.07,
+"up5": 3,
+"lead": "누보",
+"lead_ret": 7.42,
+"second": "조비",
+"second_ret": 6.09
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": 1.93,
+"up5": 7,
+"lead": "머큐리",
+"lead_ret": 22.95,
+"second": "와이어블",
+"second_ret": 8.94
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.9,
+"up5": 1,
+"lead": "이루온",
+"lead_ret": 6.81,
+"second": "옴니시스템",
+"second_ret": 2.73
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.82,
+"up5": 1,
+"lead": "넥센타이어",
+"lead_ret": 12.94,
+"second": "한국타이어앤테크놀로지",
+"second_ret": 2.52
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 1.65,
+"up5": 8,
+"lead": "우원개발",
+"lead_ret": 22.22,
+"second": "도화엔지니어링",
+"second_ret": 13.71
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 1.56,
+"up5": 4,
+"lead": "앱클론",
+"lead_ret": 15.7,
+"second": "현대바이오",
+"second_ret": 14.71
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 52,
+"avg": 1.53,
+"up5": 8,
+"lead": "엔텔스",
+"lead_ret": 18.92,
+"second": "대한광통신",
+"second_ret": 9.03
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -2.64,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 0.15,
+"second": "KG케미칼",
+"second_ret": -2.14
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -2.42,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": -0.38,
+"second": "샘표식품",
+"second_ret": -1.78
+},
+{
+"name": "스마트그리드(지능형전력망)",
+"n": 20,
+"avg": -1.9,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 2.73,
+"second": "아이앤씨",
+"second_ret": 1.0
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.79,
+"up5": 0,
+"lead": "ISC",
+"lead_ret": -0.13,
+"second": "SK하이닉스",
+"second_ret": -0.76
+},
+{
+"name": "사료",
+"n": 17,
+"avg": -1.78,
+"up5": 0,
+"lead": "우성",
+"lead_ret": 1.22,
+"second": "팜스코",
+"second_ret": 1.17
+}
+],
+"leaders": [
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 14.71,
+"value": 4426,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "우원개발",
+"code": "046940",
+"ret": 22.22,
+"value": 949,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "머큐리",
+"code": "100590",
+"ret": 22.95,
+"value": 688,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "앱클론",
+"code": "174900",
+"ret": 15.7,
+"value": 667,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "선익시스템",
+"code": "171090",
+"ret": 10.05,
+"value": 607,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

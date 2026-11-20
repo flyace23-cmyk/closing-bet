@@ -1,0 +1,254 @@
+{
+"date": "20240322",
+"kospi": -0.23,
+"kosdaq": -0.03,
+"adv": 1126,
+"dec": 953,
+"flat": 167,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 204554,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "오리엔트정공",
+"second_ret": 17.74
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "휴림로봇",
+"second_ret": 23.31
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "신풍제약",
+"lead_ret": 28.33,
+"second": "큐라티스",
+"second_ret": 10.26
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 3.3,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 15.46,
+"second": "우양",
+"second_ret": 3.44
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 2.98,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 23.31,
+"second": "스맥",
+"second_ret": 6.25
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.93,
+"up5": 7,
+"lead": "신풍제약",
+"lead_ret": 28.33,
+"second": "큐라티스",
+"second_ret": 10.26
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.06,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 5.5,
+"second": "풀무원",
+"second_ret": 2.62
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 2.04,
+"up5": 3,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "대동금속",
+"second_ret": 5.65
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 1.85,
+"up5": 1,
+"lead": "흥국에프엔비",
+"lead_ret": 7.89,
+"second": "우양",
+"second_ret": 3.44
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 1.85,
+"up5": 1,
+"lead": "국제약품",
+"lead_ret": 8.19,
+"second": "수젠텍",
+"second_ret": 4.92
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 26,
+"avg": 1.79,
+"up5": 3,
+"lead": "엠젠솔루션",
+"lead_ret": 29.99,
+"second": "제이케이시냅스",
+"second_ret": 24.97
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 39,
+"avg": 1.77,
+"up5": 6,
+"lead": "대동기어",
+"lead_ret": 29.97,
+"second": "오늘이엔엠",
+"second_ret": 10.93
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 1.75,
+"up5": 9,
+"lead": "신풍제약",
+"lead_ret": 28.33,
+"second": "큐라티스",
+"second_ret": 10.26
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 1.72,
+"up5": 2,
+"lead": "스맥",
+"lead_ret": 6.25,
+"second": "화천기계",
+"second_ret": 5.65
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 1.71,
+"up5": 1,
+"lead": "쇼박스",
+"lead_ret": 6.86,
+"second": "졸스",
+"second_ret": 3.71
+}
+],
+"themes_worst": [
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -3.35,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 0.0,
+"second": "삼성전자",
+"second_ret": -0.5
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -1.92,
+"up5": 1,
+"lead": "태성",
+"lead_ret": 5.55,
+"second": "마음AI",
+"second_ret": 0.37
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -1.88,
+"up5": 0,
+"lead": "엑시콘",
+"lead_ret": 3.33,
+"second": "국순당",
+"second_ret": 1.23
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": -1.56,
+"up5": 0,
+"lead": "아바텍",
+"lead_ret": 0.66,
+"second": "지아이에스",
+"second_ret": 0.36
+},
+{
+"name": "시스템반도체",
+"n": 52,
+"avg": -1.51,
+"up5": 2,
+"lead": "LB세미콘",
+"lead_ret": 7.59,
+"second": "이미지스",
+"second_ret": 5.37
+}
+],
+"leaders": [
+{
+"name": "파로스아이바이오",
+"code": "388870",
+"ret": 20.0,
+"value": 2358,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "경동인베스트",
+"code": "012320",
+"ret": 26.0,
+"value": 2314,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 28.33,
+"value": 1664,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 29.97,
+"value": 1483,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "HLB테라퓨틱스",
+"code": "115450",
+"ret": 12.49,
+"value": 1482,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+}
+],
+"backfilled": true
+}

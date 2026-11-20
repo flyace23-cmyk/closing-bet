@@ -1,0 +1,246 @@
+{
+"date": "20220323",
+"kospi": 0.92,
+"kosdaq": 0.64,
+"adv": 1055,
+"dec": 801,
+"flat": 217,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 216090,
+"hot": [
+{
+"name": "철강 중소형",
+"n": 8,
+"lead": "하이스틸",
+"lead_ret": 29.95,
+"second": "부국철강",
+"second_ret": 29.94
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "HS화성",
+"lead_ret": 20.25,
+"second": "일성건설",
+"second_ret": 10.95
+}
+],
+"themes": [
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 10.12,
+"up5": 10,
+"lead": "하이스틸",
+"lead_ret": 29.95,
+"second": "부국철강",
+"second_ret": 29.94
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 8.4,
+"up5": 14,
+"lead": "하이스틸",
+"lead_ret": 29.95,
+"second": "부국철강",
+"second_ret": 29.94
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 5.83,
+"up5": 3,
+"lead": "포스코스틸리온",
+"lead_ret": 17.28,
+"second": "현대제철",
+"second_ret": 6.72
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": 5.72,
+"up5": 4,
+"lead": "하이스틸",
+"lead_ret": 29.95,
+"second": "KBI동양철관",
+"second_ret": 5.45
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.64,
+"up5": 2,
+"lead": "부산산업",
+"lead_ret": 16.42,
+"second": "한국선재",
+"second_ret": 5.19
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.32,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 23.69,
+"second": "흥구석유",
+"second_ret": 2.99
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.32,
+"up5": 1,
+"lead": "중앙에너비스",
+"lead_ret": 23.69,
+"second": "흥구석유",
+"second_ret": 2.99
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": 3.2,
+"up5": 3,
+"lead": "성광벤드",
+"lead_ret": 7.41,
+"second": "화성밸브",
+"second_ret": 5.24
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": 3.18,
+"up5": 2,
+"lead": "중앙에너비스",
+"lead_ret": 23.69,
+"second": "남해화학",
+"second_ret": 9.87
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": 2.94,
+"up5": 2,
+"lead": "부산산업",
+"lead_ret": 16.42,
+"second": "강동씨앤엘",
+"second_ret": 5.68
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 2.74,
+"up5": 5,
+"lead": "한신기계",
+"lead_ret": 29.93,
+"second": "보성파워텍",
+"second_ret": 16.5
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 11,
+"avg": 2.42,
+"up5": 2,
+"lead": "소프트센",
+"lead_ret": 14.14,
+"second": "EG",
+"second_ret": 7.57
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.8,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.6,
+"second": "신송홀딩스",
+"second_ret": -1.22
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.52,
+"up5": 0,
+"lead": "헝셩그룹",
+"lead_ret": -0.25,
+"second": "컬러레이",
+"second_ret": -0.36
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -1.03,
+"up5": 0,
+"lead": "하이브",
+"lead_ret": 2.94,
+"second": "JYP Ent.",
+"second_ret": 1.24
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.98,
+"up5": 0,
+"lead": "HMM",
+"lead_ret": 0.16,
+"second": "KSS해운",
+"second_ret": -0.44
+},
+{
+"name": "여행",
+"n": 9,
+"avg": -0.97,
+"up5": 0,
+"lead": "SM C&C",
+"lead_ret": 1.81,
+"second": "모두투어",
+"second_ret": 0.22
+}
+],
+"leaders": [
+{
+"name": "안랩",
+"code": "053800",
+"ret": 29.93,
+"value": 7853,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "보성파워텍",
+"code": "006910",
+"ret": 16.5,
+"value": 7430,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "한신기계",
+"code": "011700",
+"ret": 29.93,
+"value": 6352,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+},
+{
+"name": "써니전자",
+"code": "004770",
+"ret": 23.71,
+"value": 4343,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "한일사료",
+"code": "005860",
+"ret": 10.06,
+"value": 2479,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

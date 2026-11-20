@@ -1,0 +1,254 @@
+{
+"date": "20240409",
+"kospi": -0.46,
+"kosdaq": -0.14,
+"adv": 899,
+"dec": 1184,
+"flat": 167,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 180247,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "솔루스첨단소재",
+"lead_ret": 29.98,
+"second": "에코앤드림",
+"second_ret": 20.56
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "제이엔비",
+"lead_ret": 21.66,
+"second": "에프에스티",
+"second_ret": 16.01
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 3,
+"lead": "코츠테크놀로지",
+"lead_ret": 17.14,
+"second": "대한광통신",
+"second_ret": 12.24
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.89,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 16.39,
+"second": "메디포스트",
+"second_ret": 0.44
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 2.81,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 16.39,
+"second": "JW중외제약",
+"second_ret": 1.67
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.75,
+"up5": 1,
+"lead": "자람테크놀로지",
+"lead_ret": 15.98,
+"second": "앤씨앤",
+"second_ret": 3.58
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.07,
+"up5": 3,
+"lead": "자람테크놀로지",
+"lead_ret": 15.98,
+"second": "대한광통신",
+"second_ret": 12.24
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 12,
+"avg": 1.85,
+"up5": 1,
+"lead": "한국피아이엠",
+"lead_ret": 15.0,
+"second": "나이벡",
+"second_ret": 4.2
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": 1.49,
+"up5": 0,
+"lead": "비츠로시스",
+"lead_ret": 4.58,
+"second": "앤씨앤",
+"second_ret": 3.58
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 1.23,
+"up5": 1,
+"lead": "두산밥캣",
+"lead_ret": 5.1,
+"second": "프리엠스",
+"second_ret": 4.07
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 1.18,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 6.61,
+"second": "사조대림",
+"second_ret": 3.21
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.13,
+"up5": 1,
+"lead": "오리엔트정공",
+"lead_ret": 9.29,
+"second": "대창",
+"second_ret": 3.57
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 1.09,
+"up5": 3,
+"lead": "일성건설",
+"lead_ret": 13.77,
+"second": "동신건설",
+"second_ret": 13.6
+},
+{
+"name": "마스크",
+"n": 22,
+"avg": 1.04,
+"up5": 1,
+"lead": "레몬",
+"lead_ret": 18.56,
+"second": "메디앙스",
+"second_ret": 2.73
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 1.01,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 3.33,
+"second": "유비벨록스",
+"second_ret": 2.51
+}
+],
+"themes_worst": [
+{
+"name": "유리 기판",
+"n": 18,
+"avg": -6.23,
+"up5": 0,
+"lead": "한빛레이저",
+"lead_ret": 1.45,
+"second": "태성",
+"second_ret": 1.32
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -2.75,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 1.53,
+"second": "SK하이닉스",
+"second_ret": 0.94
+},
+{
+"name": "플렉서블 디스플레이",
+"n": 23,
+"avg": -2.29,
+"up5": 0,
+"lead": "덕산네오룩스",
+"lead_ret": 1.85,
+"second": "SFA",
+"second_ret": 0.95
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -2.27,
+"up5": 0,
+"lead": "한국쉘석유",
+"lead_ret": 0.76,
+"second": "극동유화",
+"second_ret": 0.12
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -1.65,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": 1.07,
+"second": "포바이포",
+"second_ret": 0.55
+}
+],
+"leaders": [
+{
+"name": "자람테크놀로지",
+"code": "389020",
+"ret": 15.98,
+"value": 3778,
+"theme": "광통신(광케이블/광섬유 등)",
+"reason": "테마: 광통신(광케이블/광섬유 등)"
+},
+{
+"name": "에프에스티",
+"code": "036810",
+"ret": 16.01,
+"value": 2754,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "솔루스첨단소재",
+"code": "336370",
+"ret": 29.98,
+"value": 1623,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "SDN",
+"code": "099220",
+"ret": 24.23,
+"value": 1549,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "가온전선",
+"code": "000500",
+"ret": 10.38,
+"value": 1489,
+"theme": "전선",
+"reason": "테마: 전선"
+}
+],
+"backfilled": true
+}

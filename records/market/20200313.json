@@ -1,0 +1,246 @@
+{
+"date": "20200313",
+"kospi": -3.43,
+"kosdaq": -7.01,
+"adv": 60,
+"dec": 1792,
+"flat": 57,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 209343,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "일양약품",
+"lead_ret": 29.82,
+"second": "녹십자웰빙",
+"second_ret": 7.21
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "에스원",
+"lead_ret": 3.38,
+"second": "JYP Ent.",
+"second_ret": 1.13
+},
+{
+"name": "통신장비",
+"n": 3,
+"lead": "이노인스트루먼트",
+"lead_ret": 10.0,
+"second": "RFHIC",
+"second_ret": 3.55
+}
+],
+"themes": [
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.28,
+"up5": 1,
+"lead": "지씨셀",
+"lead_ret": 20.95,
+"second": "녹십자",
+"second_ret": 0.0
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 5,
+"avg": -2.3,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.36,
+"second": "삼성전자",
+"second_ret": -1.67
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -3.12,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.36,
+"second": "삼성SDI",
+"second_ret": -0.89
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": -4.16,
+"up5": 0,
+"lead": "인천도시가스",
+"lead_ret": 0.0,
+"second": "서울가스",
+"second_ret": -0.29
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 6,
+"avg": -4.4,
+"up5": 0,
+"lead": "SK하이닉스",
+"lead_ret": -0.36,
+"second": "삼성전자",
+"second_ret": -1.67
+},
+{
+"name": "아이폰",
+"n": 20,
+"avg": -4.4,
+"up5": 0,
+"lead": "이녹스첨단소재",
+"lead_ret": 0.14,
+"second": "덕산네오룩스",
+"second_ret": -0.16
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": -4.82,
+"up5": 0,
+"lead": "대성산업",
+"lead_ret": -3.37,
+"second": "동원산업",
+"second_ret": -3.57
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": -4.89,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -2.71,
+"second": "삼성물산",
+"second_ret": -3.7
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 89,
+"avg": -5.21,
+"up5": 0,
+"lead": "에스원",
+"lead_ret": 3.38,
+"second": "JYP Ent.",
+"second_ret": 1.13
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": -5.21,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": -2.23,
+"second": "한국종합기술",
+"second_ret": -3.94
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -5.23,
+"up5": 0,
+"lead": "자연과환경",
+"lead_ret": -2.65,
+"second": "삼성물산",
+"second_ret": -3.7
+},
+{
+"name": "냉각시스템(액침냉각 등)",
+"n": 11,
+"avg": -5.24,
+"up5": 0,
+"lead": "한중엔시에스",
+"lead_ret": 0.0,
+"second": "S-Oil",
+"second_ret": -3.56
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -15.07,
+"up5": 0,
+"lead": "리튬포어스",
+"lead_ret": -9.67,
+"second": "손오공",
+"second_ret": -12.75
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 6,
+"avg": -11.46,
+"up5": 0,
+"lead": "에스와이",
+"lead_ret": -4.63,
+"second": "오텍",
+"second_ret": -7.26
+},
+{
+"name": "코로나19(진단키트)",
+"n": 31,
+"avg": -11.33,
+"up5": 2,
+"lead": "녹십자엠에스",
+"lead_ret": 9.77,
+"second": "대웅제약",
+"second_ret": 5.24
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": -11.18,
+"up5": 0,
+"lead": "하이트진로",
+"lead_ret": -5.87,
+"second": "BYC",
+"second_ret": -5.88
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": -11.18,
+"up5": 0,
+"lead": "한빛소프트",
+"lead_ret": -3.32,
+"second": "KT",
+"second_ret": -4.55
+}
+],
+"leaders": [
+{
+"name": "YBM넷",
+"code": "057030",
+"ret": 10.14,
+"value": 1942,
+"theme": "모바일콘텐츠(스마트폰/태블릿PC)",
+"reason": "테마: 모바일콘텐츠(스마트폰/태블릿PC)"
+},
+{
+"name": "지씨셀",
+"code": "144510",
+"ret": 20.95,
+"value": 542,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "이노인스트루먼트",
+"code": "215790",
+"ret": 10.0,
+"value": 473,
+"theme": "통신장비",
+"reason": "테마: 통신장비"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 29.82,
+"value": 327,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

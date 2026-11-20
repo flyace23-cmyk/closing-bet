@@ -1,0 +1,254 @@
+{
+"date": "20230315",
+"kospi": 1.31,
+"kosdaq": 3.05,
+"adv": 1733,
+"dec": 325,
+"flat": 85,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 172057,
+"hot": [
+{
+"name": "2차전지",
+"n": 11,
+"lead": "삼아알미늄",
+"lead_ret": 29.96,
+"second": "에코앤드림",
+"second_ret": 25.5
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "덕우전자",
+"lead_ret": 20.48,
+"second": "영화금속",
+"second_ret": 17.33
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "에스피지",
+"lead_ret": 25.95,
+"second": "케이알엠",
+"second_ret": 15.49
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 6.25,
+"up5": 6,
+"lead": "부산산업",
+"lead_ret": 10.64,
+"second": "LS",
+"second_ret": 7.96
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 5.94,
+"up5": 4,
+"lead": "에스피지",
+"lead_ret": 25.95,
+"second": "신일전자",
+"second_ret": 6.03
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 5.33,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 20.76,
+"second": "에코프로비엠",
+"second_ret": 8.91
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 5.32,
+"up5": 3,
+"lead": "일진전기",
+"lead_ret": 15.1,
+"second": "LS",
+"second_ret": 7.96
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 65,
+"avg": 5.13,
+"up5": 25,
+"lead": "삼아알미늄",
+"lead_ret": 29.96,
+"second": "에코앤드림",
+"second_ret": 25.5
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": 4.97,
+"up5": 2,
+"lead": "제이오",
+"lead_ret": 14.09,
+"second": "오픈베이스",
+"second_ret": 5.5
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 4.71,
+"up5": 6,
+"lead": "한전기술",
+"lead_ret": 7.9,
+"second": "우진",
+"second_ret": 6.21
+},
+{
+"name": "풍력에너지",
+"n": 34,
+"avg": 4.62,
+"up5": 12,
+"lead": "금양그린파워",
+"lead_ret": 17.58,
+"second": "동국산업",
+"second_ret": 17.54
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 4.41,
+"up5": 6,
+"lead": "삼아알미늄",
+"lead_ret": 29.96,
+"second": "조일알미늄",
+"second_ret": 12.32
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 60,
+"avg": 4.3,
+"up5": 21,
+"lead": "에스피지",
+"lead_ret": 25.95,
+"second": "케이알엠",
+"second_ret": 15.49
+},
+{
+"name": "2차전지",
+"n": 120,
+"avg": 4.28,
+"up5": 40,
+"lead": "삼아알미늄",
+"lead_ret": 29.96,
+"second": "에코앤드림",
+"second_ret": 25.5
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": 4.14,
+"up5": 3,
+"lead": "금양그린파워",
+"lead_ret": 17.58,
+"second": "미코",
+"second_ret": 12.04
+}
+],
+"themes_worst": [
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.36,
+"up5": 0,
+"lead": "엔피케이",
+"lead_ret": 1.39,
+"second": "유진기업",
+"second_ret": 1.22
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.36,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 0.21,
+"second": "녹십자",
+"second_ret": 0.17
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -0.23,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 1.22,
+"second": "대구백화점",
+"second_ret": 0.1
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.23,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 1.36,
+"second": "삼성물산",
+"second_ret": 0.56
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": -0.18,
+"up5": 0,
+"lead": "큐로홀딩스",
+"lead_ret": 2.64,
+"second": "큐브엔터",
+"second_ret": 2.3
+}
+],
+"leaders": [
+{
+"name": "에코프로",
+"code": "086520",
+"ret": 20.76,
+"value": 13854,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "에스피지",
+"code": "058610",
+"ret": 25.95,
+"value": 6055,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "금양그린파워",
+"code": "282720",
+"ret": 17.58,
+"value": 3889,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "삼아알미늄",
+"code": "006110",
+"ret": 29.96,
+"value": 2287,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 12.06,
+"value": 1817,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

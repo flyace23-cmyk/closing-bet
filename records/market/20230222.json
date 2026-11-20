@@ -1,0 +1,254 @@
+{
+"date": "20230222",
+"kospi": -1.68,
+"kosdaq": -1.88,
+"adv": 352,
+"dec": 1710,
+"flat": 76,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 163657,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "케이피에프",
+"lead_ret": 30.0,
+"second": "에스비비테크",
+"second_ret": 29.54
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "앱클론",
+"lead_ret": 11.02,
+"second": "퀀타매트릭스",
+"second_ret": 9.11
+},
+{
+"name": "시스템반도체",
+"n": 3,
+"lead": "에이디테크놀로지",
+"lead_ret": 22.47,
+"second": "가온칩스",
+"second_ret": 7.6
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 18,
+"avg": 3.35,
+"up5": 4,
+"lead": "고려산업",
+"lead_ret": 26.05,
+"second": "한탑",
+"second_ret": 9.91
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.17,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 9.52,
+"second": "미래생명자원",
+"second_ret": 2.94
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 0.95,
+"up5": 1,
+"lead": "대한해운",
+"lead_ret": 5.39,
+"second": "팬오션",
+"second_ret": 1.59
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 0.92,
+"up5": 1,
+"lead": "아이씨에이치",
+"lead_ret": 15.25,
+"second": "동일기연",
+"second_ret": 4.93
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 30,
+"avg": 0.82,
+"up5": 4,
+"lead": "에스비비테크",
+"lead_ret": 29.54,
+"second": "로보티즈",
+"second_ret": 9.56
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 5,
+"avg": 0.78,
+"up5": 2,
+"lead": "앤씨앤",
+"lead_ret": 5.08,
+"second": "오픈엣지테크놀로지",
+"second_ret": 5.07
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 60,
+"avg": 0.66,
+"up5": 6,
+"lead": "케이피에프",
+"lead_ret": 30.0,
+"second": "에스비비테크",
+"second_ret": 29.54
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.46,
+"up5": 0,
+"lead": "지에스이",
+"lead_ret": 3.9,
+"second": "대성홀딩스",
+"second_ret": 2.63
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 0.32,
+"up5": 0,
+"lead": "DB손해보험",
+"lead_ret": 1.63,
+"second": "현대해상",
+"second_ret": 1.45
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 0.28,
+"up5": 2,
+"lead": "씨티씨바이오",
+"lead_ret": 8.84,
+"second": "전진바이오팜",
+"second_ret": 6.19
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 0.13,
+"up5": 0,
+"lead": "팜스토리",
+"lead_ret": 4.93,
+"second": "마니커",
+"second_ret": 0.96
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": 0.08,
+"up5": 3,
+"lead": "에이디테크놀로지",
+"lead_ret": 22.47,
+"second": "가온칩스",
+"second_ret": 7.6
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 9,
+"avg": -3.74,
+"up5": 0,
+"lead": "파수AI",
+"lead_ret": 0.97,
+"second": "샌즈랩",
+"second_ret": -1.17
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -3.1,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": -1.48,
+"second": "금강공업",
+"second_ret": -2.41
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -2.94,
+"up5": 0,
+"lead": "졸스",
+"lead_ret": -0.37,
+"second": "쇼박스",
+"second_ret": -1.1
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.91,
+"up5": 0,
+"lead": "이월드",
+"lead_ret": -1.22,
+"second": "대신정보통신",
+"second_ret": -2.05
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": -2.81,
+"up5": 0,
+"lead": "미래산업",
+"lead_ret": 1.26,
+"second": "코스모화학",
+"second_ret": 1.09
+}
+],
+"leaders": [
+{
+"name": "에스비비테크",
+"code": "389500",
+"ret": 29.54,
+"value": 3164,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "휴맥스",
+"code": "115160",
+"ret": 12.65,
+"value": 1859,
+"theme": "전기차",
+"reason": "테마: 전기차"
+},
+{
+"name": "에이디테크놀로지",
+"code": "200710",
+"ret": 22.47,
+"value": 1753,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "케이피에프",
+"code": "024880",
+"ret": 30.0,
+"value": 1279,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 26.05,
+"value": 1262,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220112",
+"kospi": 1.54,
+"kosdaq": 2.21,
+"adv": 1611,
+"dec": 293,
+"flat": 154,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 188856,
+"hot": [
+{
+"name": "자동차부품",
+"n": 8,
+"lead": "일지테크",
+"lead_ret": 29.91,
+"second": "디에스엠",
+"second_ret": 29.88
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "현우산업",
+"lead_ret": 29.96,
+"second": "뉴프렉스",
+"second_ret": 10.14
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "모다이노칩",
+"lead_ret": 14.54,
+"second": "모베이스",
+"second_ret": 12.55
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 4.02,
+"up5": 1,
+"lead": "모아텍",
+"lead_ret": 29.65,
+"second": "에스티아이",
+"second_ret": 4.62
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.02,
+"up5": 3,
+"lead": "HD현대에너지솔루션",
+"lead_ret": 15.38,
+"second": "한화솔루션",
+"second_ret": 6.52
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 27,
+"avg": 4.0,
+"up5": 3,
+"lead": "현우산업",
+"lead_ret": 29.96,
+"second": "뉴프렉스",
+"second_ret": 10.14
+},
+{
+"name": "면역항암제",
+"n": 28,
+"avg": 3.92,
+"up5": 5,
+"lead": "에이비엘바이오",
+"lead_ret": 29.78,
+"second": "앱클론",
+"second_ret": 12.83
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 17,
+"avg": 3.91,
+"up5": 3,
+"lead": "일지테크",
+"lead_ret": 29.91,
+"second": "후성",
+"second_ret": 10.73
+},
+{
+"name": "리튬",
+"n": 18,
+"avg": 3.82,
+"up5": 6,
+"lead": "후성",
+"lead_ret": 10.73,
+"second": "미래나노텍",
+"second_ret": 9.3
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.75,
+"up5": 2,
+"lead": "대한전선",
+"lead_ret": 11.29,
+"second": "KBI메탈",
+"second_ret": 5.06
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.75,
+"up5": 2,
+"lead": "에코프로",
+"lead_ret": 7.29,
+"second": "삼성SDI",
+"second_ret": 5.1
+},
+{
+"name": "태양광에너지",
+"n": 36,
+"avg": 3.46,
+"up5": 8,
+"lead": "디에스엠",
+"lead_ret": 29.88,
+"second": "HD현대에너지솔루션",
+"second_ret": 15.38
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": 3.41,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 9.52,
+"second": "극동유화",
+"second_ret": 5.58
+},
+{
+"name": "자동차부품",
+"n": 134,
+"avg": 3.36,
+"up5": 26,
+"lead": "일지테크",
+"lead_ret": 29.91,
+"second": "디에스엠",
+"second_ret": 29.88
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": 3.29,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 9.52,
+"second": "극동유화",
+"second_ret": 5.58
+}
+],
+"themes_worst": [
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.71,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.62,
+"second": "현대건설",
+"second_ret": 1.12
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": -0.96,
+"up5": 0,
+"lead": "이스트소프트",
+"lead_ret": 2.15,
+"second": "알체라",
+"second_ret": 0.62
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": -0.89,
+"up5": 0,
+"lead": "아난티",
+"lead_ret": 2.25,
+"second": "호텔신라",
+"second_ret": 1.88
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": -0.5,
+"up5": 1,
+"lead": "스피어",
+"lead_ret": 7.29,
+"second": "이지케어텍",
+"second_ret": 3.89
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -0.28,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 3.14,
+"second": "토니모리",
+"second_ret": 2.6
+}
+],
+"leaders": [
+{
+"name": "현우산업",
+"code": "092300",
+"ret": 29.96,
+"value": 2633,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 14.1,
+"value": 2099,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "모다이노칩",
+"code": "080420",
+"ret": 14.54,
+"value": 1807,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "후성",
+"code": "093370",
+"ret": 10.73,
+"value": 1342,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "대한전선",
+"code": "001440",
+"ret": 11.29,
+"value": 1247,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+}
+],
+"backfilled": true
+}

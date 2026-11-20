@@ -1,0 +1,254 @@
+{
+"date": "20240305",
+"kospi": -0.93,
+"kosdaq": -0.76,
+"adv": 655,
+"dec": 1487,
+"flat": 101,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 219563,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "한울반도체",
+"lead_ret": 30.0,
+"second": "SFA넥셀",
+"second_ret": 19.65
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "해성에어로보틱스",
+"lead_ret": 18.64,
+"second": "싸이맥스",
+"second_ret": 13.85
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "바이오다인",
+"lead_ret": 10.52,
+"second": "티로보틱스",
+"second_ret": 9.63
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 3.21,
+"up5": 2,
+"lead": "가온전선",
+"lead_ret": 10.7,
+"second": "LS",
+"second_ret": 6.87
+},
+{
+"name": "광고",
+"n": 22,
+"avg": 2.17,
+"up5": 3,
+"lead": "이엠넷",
+"lead_ret": 30.0,
+"second": "플레이디",
+"second_ret": 15.56
+},
+{
+"name": "비만치료제",
+"n": 35,
+"avg": 1.91,
+"up5": 6,
+"lead": "큐라티스",
+"lead_ret": 11.56,
+"second": "한국비엔씨",
+"second_ret": 9.4
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 1.85,
+"up5": 5,
+"lead": "앱클론",
+"lead_ret": 13.38,
+"second": "큐라티스",
+"second_ret": 11.56
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.68,
+"up5": 1,
+"lead": "한울반도체",
+"lead_ret": 30.0,
+"second": "원준",
+"second_ret": 0.05
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 1.59,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 9.4,
+"second": "디에스케이",
+"second_ret": 6.84
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": 1.46,
+"up5": 1,
+"lead": "에스피소프트",
+"lead_ret": 23.49,
+"second": "크라우드웍스",
+"second_ret": 4.96
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": 1.41,
+"up5": 1,
+"lead": "큐라티스",
+"lead_ret": 11.56,
+"second": "올릭스",
+"second_ret": 3.62
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 1.33,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 12.55,
+"second": "한화투자증권",
+"second_ret": 6.82
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 1.14,
+"up5": 2,
+"lead": "앱클론",
+"lead_ret": 13.38,
+"second": "압타바이오",
+"second_ret": 8.36
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 1.13,
+"up5": 4,
+"lead": "SFA넥셀",
+"lead_ret": 19.65,
+"second": "한농화성",
+"second_ret": 13.96
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 1.11,
+"up5": 4,
+"lead": "우리기술투자",
+"lead_ret": 12.55,
+"second": "컴투스홀딩스",
+"second_ret": 8.58
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -5.62,
+"up5": 1,
+"lead": "LS ELECTRIC",
+"lead_ret": 13.25,
+"second": "고려제강",
+"second_ret": -1.99
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -4.15,
+"up5": 0,
+"lead": "쎄니트",
+"lead_ret": 0.0,
+"second": "롯데쇼핑",
+"second_ret": -0.26
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": -2.53,
+"up5": 0,
+"lead": "엑스페릭스",
+"lead_ret": 1.96,
+"second": "TS인베스트먼트",
+"second_ret": -0.14
+},
+{
+"name": "탄소나노튜브(CNT)",
+"n": 5,
+"avg": -2.28,
+"up5": 0,
+"lead": "상보",
+"lead_ret": -0.16,
+"second": "오픈베이스",
+"second_ret": -1.76
+},
+{
+"name": "니켈",
+"n": 13,
+"avg": -2.18,
+"up5": 0,
+"lead": "이상네트웍스",
+"lead_ret": 0.0,
+"second": "티플랙스",
+"second_ret": -0.48
+}
+],
+"leaders": [
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 12.55,
+"value": 7521,
+"theme": "STO(토큰증권 발행)",
+"reason": "테마: STO(토큰증권 발행)"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 14.95,
+"value": 6357,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "E8",
+"code": "418620",
+"ret": 14.21,
+"value": 4257,
+"theme": "가상현실(VR)",
+"reason": "테마: 가상현실(VR)"
+},
+{
+"name": "에스피소프트",
+"code": "443670",
+"ret": 23.49,
+"value": 2852,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "LS ELECTRIC",
+"code": "010120",
+"ret": 13.25,
+"value": 2522,
+"theme": "스마트팩토리(스마트공장)",
+"reason": "테마: 스마트팩토리(스마트공장)"
+}
+],
+"backfilled": true
+}

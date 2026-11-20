@@ -1,0 +1,254 @@
+{
+"date": "20200519",
+"kospi": 2.25,
+"kosdaq": 0.8,
+"adv": 1296,
+"dec": 482,
+"flat": 133,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 287357,
+"hot": [
+{
+"name": "전기차",
+"n": 5,
+"lead": "삼화전기",
+"lead_ret": 23.97,
+"second": "현대공업",
+"second_ret": 22.41
+},
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "현대공업",
+"lead_ret": 22.41,
+"second": "현대위아",
+"second_ret": 14.6
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "러셀",
+"lead_ret": 14.16,
+"second": "HL만도",
+"second_ret": 13.43
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 10.93,
+"up5": 5,
+"lead": "케이씨에스",
+"lead_ret": 29.9,
+"second": "한네트",
+"second_ret": 24.19
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 9.08,
+"up5": 6,
+"lead": "현대위아",
+"lead_ret": 14.6,
+"second": "HL만도",
+"second_ret": 13.43
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.6,
+"up5": 6,
+"lead": "진에어",
+"lead_ret": 9.74,
+"second": "제주항공",
+"second_ret": 9.32
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.37,
+"up5": 3,
+"lead": "파라다이스",
+"lead_ret": 11.03,
+"second": "GKL",
+"second_ret": 7.29
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.37,
+"up5": 3,
+"lead": "파라다이스",
+"lead_ret": 11.03,
+"second": "GKL",
+"second_ret": 7.29
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 5.04,
+"up5": 5,
+"lead": "모두투어",
+"lead_ret": 8.37,
+"second": "노랑풍선",
+"second_ret": 7.26
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 4.81,
+"up5": 4,
+"lead": "BNK금융지주",
+"lead_ret": 7.83,
+"second": "JB금융지주",
+"second_ret": 6.27
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 31,
+"avg": 4.8,
+"up5": 9,
+"lead": "삼진엘앤디",
+"lead_ret": 29.38,
+"second": "삼화전기",
+"second_ret": 23.97
+},
+{
+"name": "전력반도체",
+"n": 12,
+"avg": 4.7,
+"up5": 1,
+"lead": "파워넷",
+"lead_ret": 29.76,
+"second": "에스티아이",
+"second_ret": 4.02
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 4.36,
+"up5": 2,
+"lead": "파워넷",
+"lead_ret": 29.76,
+"second": "SK이노베이션",
+"second_ret": 6.92
+},
+{
+"name": "증강현실(AR)",
+"n": 12,
+"avg": 4.29,
+"up5": 5,
+"lead": "나무가",
+"lead_ret": 10.55,
+"second": "이랜텍",
+"second_ret": 8.18
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 4.1,
+"up5": 3,
+"lead": "파라다이스",
+"lead_ret": 11.03,
+"second": "서부T&D",
+"second_ret": 10.86
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 10,
+"avg": -5.47,
+"up5": 0,
+"lead": "폴라리스오피스",
+"lead_ret": 2.11,
+"second": "제이엘케이",
+"second_ret": -1.15
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": -3.42,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 0.86,
+"second": "나이스정보통신",
+"second_ret": 0.0
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": -3.24,
+"up5": 0,
+"lead": "한성기업",
+"lead_ret": -0.6,
+"second": "우양",
+"second_ret": -2.88
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.04,
+"up5": 0,
+"lead": "샘표",
+"lead_ret": 2.41,
+"second": "신송홀딩스",
+"second_ret": -1.73
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": -2.59,
+"up5": 0,
+"lead": "유바이오로직스",
+"lead_ret": 4.92,
+"second": "아이진",
+"second_ret": 3.08
+}
+],
+"leaders": [
+{
+"name": "플레이디",
+"code": "237820",
+"ret": 29.69,
+"value": 2039,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "알테오젠",
+"code": "196170",
+"ret": 10.96,
+"value": 1821,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "루트K",
+"code": "195990",
+"ret": 29.91,
+"value": 1228,
+"theme": "공작기계",
+"reason": "테마: 공작기계"
+},
+{
+"name": "JYP Ent.",
+"code": "035900",
+"ret": 12.65,
+"value": 982,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 22.41,
+"value": 919,
+"theme": "전기차",
+"reason": "테마: 전기차"
+}
+],
+"backfilled": true
+}

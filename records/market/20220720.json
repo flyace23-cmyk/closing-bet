@@ -1,0 +1,254 @@
+{
+"date": "20220720",
+"kospi": 0.67,
+"kosdaq": 1.07,
+"adv": 1329,
+"dec": 574,
+"flat": 185,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 131549,
+"hot": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 3,
+"lead": "케어젠",
+"lead_ret": 11.62,
+"second": "신풍제약",
+"second_ret": 11.11
+},
+{
+"name": "창투사",
+"n": 3,
+"lead": "대성창투",
+"lead_ret": 29.89,
+"second": "우리기술투자",
+"second_ret": 15.98
+},
+{
+"name": "비만치료제",
+"n": 3,
+"lead": "케어젠",
+"lead_ret": 11.62,
+"second": "삼천당제약",
+"second_ret": 9.94
+}
+],
+"themes": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 5.81,
+"up5": 3,
+"lead": "대성창투",
+"lead_ret": 29.89,
+"second": "우리기술투자",
+"second_ret": 15.98
+},
+{
+"name": "창투사",
+"n": 16,
+"avg": 5.58,
+"up5": 6,
+"lead": "대성창투",
+"lead_ret": 29.89,
+"second": "우리기술투자",
+"second_ret": 15.98
+},
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": 4.68,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 29.89,
+"second": "DSC인베스트먼트",
+"second_ret": 2.57
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 4.52,
+"up5": 3,
+"lead": "청담글로벌",
+"lead_ret": 29.49,
+"second": "한국비엔씨",
+"second_ret": 9.58
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 4.04,
+"up5": 3,
+"lead": "대한과학",
+"lead_ret": 29.72,
+"second": "태경케미컬",
+"second_ret": 9.13
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 3.94,
+"up5": 5,
+"lead": "키다리스튜디오",
+"lead_ret": 14.58,
+"second": "엔키AX",
+"second_ret": 9.52
+},
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.58,
+"up5": 1,
+"lead": "모아텍",
+"lead_ret": 23.35,
+"second": "스맥",
+"second_ret": 3.82
+},
+{
+"name": "퓨리오사AI",
+"n": 7,
+"avg": 3.24,
+"up5": 2,
+"lead": "엑스페릭스",
+"lead_ret": 10.76,
+"second": "포바이포",
+"second_ret": 7.43
+},
+{
+"name": "소매유통",
+"n": 16,
+"avg": 3.12,
+"up5": 2,
+"lead": "청담글로벌",
+"lead_ret": 29.49,
+"second": "이마트",
+"second_ret": 8.33
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 2.85,
+"up5": 3,
+"lead": "태경케미컬",
+"lead_ret": 9.13,
+"second": "이씨에스",
+"second_ret": 7.34
+},
+{
+"name": "영상콘텐츠",
+"n": 24,
+"avg": 2.82,
+"up5": 6,
+"lead": "팬엔터테인먼트",
+"lead_ret": 10.76,
+"second": "삼화네트웍스",
+"second_ret": 7.5
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 2.66,
+"up5": 0,
+"lead": "SBI인베스트먼트",
+"lead_ret": 3.58,
+"second": "아주IB투자",
+"second_ret": 3.2
+}
+],
+"themes_worst": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.22,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 1.32,
+"second": "멕아이씨에스",
+"second_ret": 0.27
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -0.99,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.39,
+"second": "대한약품",
+"second_ret": 0.0
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -0.37,
+"up5": 0,
+"lead": "NH농우바이오",
+"lead_ret": 1.01,
+"second": "KG케미칼",
+"second_ret": 1.01
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -0.34,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 0.12,
+"second": "삼성중공업",
+"second_ret": -0.19
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": -0.23,
+"up5": 1,
+"lead": "대웅제약",
+"lead_ret": 5.01,
+"second": "엔젠바이오",
+"second_ret": 4.93
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 11.11,
+"value": 2683,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "대성창투",
+"code": "027830",
+"ret": 29.89,
+"value": 1841,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "청담글로벌",
+"code": "362320",
+"ret": 29.49,
+"value": 1328,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 15.98,
+"value": 1005,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "아틀라스링크",
+"code": "297570",
+"ret": 15.75,
+"value": 890,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

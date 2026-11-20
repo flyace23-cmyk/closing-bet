@@ -1,0 +1,254 @@
+{
+"date": "20200611",
+"kospi": -0.86,
+"kosdaq": -0.21,
+"adv": 444,
+"dec": 1358,
+"flat": 112,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 265816,
+"hot": [
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 7,
+"lead": "에스프리즘",
+"lead_ret": 29.89,
+"second": "두산퓨얼셀",
+"second_ret": 21.32
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "힘스",
+"lead_ret": 21.66,
+"second": "상아프론테크",
+"second_ret": 19.59
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "지엠비코리아",
+"lead_ret": 13.31,
+"second": "HS효성첨단소재",
+"second_ret": 12.66
+}
+],
+"themes": [
+{
+"name": "아이폰",
+"n": 20,
+"avg": 3.14,
+"up5": 3,
+"lead": "프로텍",
+"lead_ret": 29.93,
+"second": "와이엠티",
+"second_ret": 29.86
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.74,
+"up5": 2,
+"lead": "제테마",
+"lead_ret": 21.92,
+"second": "한국비엔씨",
+"second_ret": 6.56
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": 2.53,
+"up5": 2,
+"lead": "에스티팜",
+"lead_ret": 7.7,
+"second": "삼성바이오로직스",
+"second_ret": 6.11
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 62,
+"avg": 2.37,
+"up5": 12,
+"lead": "에스프리즘",
+"lead_ret": 29.89,
+"second": "두산퓨얼셀",
+"second_ret": 21.32
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.15,
+"up5": 2,
+"lead": "제테마",
+"lead_ret": 21.92,
+"second": "한국비엔씨",
+"second_ret": 6.56
+},
+{
+"name": "웹툰",
+"n": 11,
+"avg": 1.96,
+"up5": 2,
+"lead": "조이시티",
+"lead_ret": 9.05,
+"second": "미스터블루",
+"second_ret": 8.41
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 1.83,
+"up5": 3,
+"lead": "제넥신",
+"lead_ret": 17.93,
+"second": "큐리언트",
+"second_ret": 13.29
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 8,
+"avg": 1.8,
+"up5": 2,
+"lead": "두산퓨얼셀",
+"lead_ret": 21.32,
+"second": "미코",
+"second_ret": 5.17
+},
+{
+"name": "비만치료제",
+"n": 28,
+"avg": 1.75,
+"up5": 5,
+"lead": "제넥신",
+"lead_ret": 17.93,
+"second": "아이큐어",
+"second_ret": 9.75
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": 1.59,
+"up5": 1,
+"lead": "에스티팜",
+"lead_ret": 7.7,
+"second": "아이진",
+"second_ret": 3.98
+},
+{
+"name": "전자파",
+"n": 11,
+"avg": 1.55,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 29.93,
+"second": "켐트로닉스",
+"second_ret": 2.96
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 1.44,
+"up5": 3,
+"lead": "셀트리온",
+"lead_ret": 7.26,
+"second": "선바이오",
+"second_ret": 6.39
+}
+],
+"themes_worst": [
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.5,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -1.61,
+"second": "롯데관광개발",
+"second_ret": -1.73
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -3.5,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -1.61,
+"second": "롯데관광개발",
+"second_ret": -1.73
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -3.29,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -1.36,
+"second": "풀무원",
+"second_ret": -2.19
+},
+{
+"name": "은행",
+"n": 9,
+"avg": -3.21,
+"up5": 0,
+"lead": "신한지주",
+"lead_ret": -2.11,
+"second": "하나금융지주",
+"second_ret": -2.19
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -2.92,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": -1.69,
+"second": "퀀텀레일",
+"second_ret": -1.83
+}
+],
+"leaders": [
+{
+"name": "제넥신",
+"code": "095700",
+"ret": 17.93,
+"value": 7073,
+"theme": "비만치료제",
+"reason": "테마: 비만치료제"
+},
+{
+"name": "현대약품",
+"code": "004310",
+"ret": 29.91,
+"value": 2636,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "녹십자웰빙",
+"code": "234690",
+"ret": 22.27,
+"value": 2002,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "제이엔케이글로벌",
+"code": "126880",
+"ret": 19.17,
+"value": 1826,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 21.32,
+"value": 1591,
+"theme": "수소에너지(수소차/연료전지 등)",
+"reason": "테마: 수소에너지(수소차/연료전지 등)"
+}
+],
+"backfilled": true
+}

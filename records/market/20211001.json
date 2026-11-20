@@ -1,0 +1,254 @@
+{
+"date": "20211001",
+"kospi": -1.62,
+"kosdaq": -2.0,
+"adv": 258,
+"dec": 1686,
+"flat": 91,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 250048,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 4,
+"lead": "컴투스엔",
+"lead_ret": 29.97,
+"second": "자이언트스텝",
+"second_ret": 12.96
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "위메이드",
+"lead_ret": 16.86,
+"second": "위메이드맥스",
+"second_ret": 12.68
+},
+{
+"name": "수소에너지(수소차/연료전지 등)",
+"n": 3,
+"lead": "삼영에스앤씨",
+"lead_ret": 11.52,
+"second": "EG",
+"second_ret": 10.56
+}
+],
+"themes": [
+{
+"name": "영화",
+"n": 9,
+"avg": 2.76,
+"up5": 1,
+"lead": "졸스",
+"lead_ret": 29.96,
+"second": "NEW",
+"second_ret": 2.86
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 1.5,
+"up5": 2,
+"lead": "졸스",
+"lead_ret": 29.96,
+"second": "자이언트스텝",
+"second_ret": 12.96
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 41,
+"avg": 0.52,
+"up5": 4,
+"lead": "컴투스엔",
+"lead_ret": 29.97,
+"second": "자이언트스텝",
+"second_ret": 12.96
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 0.51,
+"up5": 3,
+"lead": "제이에스티나",
+"lead_ret": 16.08,
+"second": "신원",
+"second_ret": 10.58
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 0.43,
+"up5": 2,
+"lead": "EG",
+"lead_ret": 10.56,
+"second": "팬스타엔터프라이즈",
+"second_ret": 5.97
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 0.05,
+"up5": 0,
+"lead": "남해화학",
+"lead_ret": 4.82,
+"second": "조비",
+"second_ret": 3.03
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.02,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 4.13,
+"second": "DB손해보험",
+"second_ret": 2.52
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.03,
+"up5": 0,
+"lead": "유니온머티리얼",
+"lead_ret": 3.36,
+"second": "유니온",
+"second_ret": 1.88
+},
+{
+"name": "전력설비",
+"n": 30,
+"avg": -0.15,
+"up5": 3,
+"lead": "선도전기",
+"lead_ret": 26.62,
+"second": "세명전기",
+"second_ret": 7.72
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -0.3,
+"up5": 0,
+"lead": "남해화학",
+"lead_ret": 4.82,
+"second": "조비",
+"second_ret": 3.03
+},
+{
+"name": "광고",
+"n": 20,
+"avg": -0.3,
+"up5": 1,
+"lead": "컴투스엔",
+"lead_ret": 29.97,
+"second": "제일기획",
+"second_ret": 1.1
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -0.38,
+"up5": 3,
+"lead": "위메이드",
+"lead_ret": 16.86,
+"second": "위메이드맥스",
+"second_ret": 12.68
+}
+],
+"themes_worst": [
+{
+"name": "일자리(취업)",
+"n": 7,
+"avg": -3.91,
+"up5": 0,
+"lead": "원티드랩",
+"lead_ret": -2.54,
+"second": "사람인",
+"second_ret": -2.71
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -3.86,
+"up5": 0,
+"lead": "SG",
+"lead_ret": -0.24,
+"second": "한국석유",
+"second_ret": -2.21
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -3.82,
+"up5": 0,
+"lead": "화성밸브",
+"lead_ret": 0.89,
+"second": "성광벤드",
+"second_ret": -2.57
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 11,
+"avg": -3.71,
+"up5": 0,
+"lead": "아이진",
+"lead_ret": -1.26,
+"second": "녹십자",
+"second_ret": -2.26
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -3.7,
+"up5": 0,
+"lead": "지어소프트",
+"lead_ret": -0.46,
+"second": "SK네트웍스",
+"second_ret": -2.13
+}
+],
+"leaders": [
+{
+"name": "선도전기",
+"code": "007610",
+"ret": 26.62,
+"value": 2767,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 16.86,
+"value": 2727,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "신원",
+"code": "009270",
+"ret": 10.58,
+"value": 2110,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "자이언트스텝",
+"code": "289220",
+"ret": 12.96,
+"value": 1940,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "에코캡",
+"code": "128540",
+"ret": 29.74,
+"value": 1671,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

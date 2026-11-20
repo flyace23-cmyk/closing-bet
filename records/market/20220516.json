@@ -1,0 +1,254 @@
+{
+"date": "20220516",
+"kospi": -0.29,
+"kosdaq": 0.37,
+"adv": 1214,
+"dec": 707,
+"flat": 157,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 136715,
+"hot": [
+{
+"name": "사료",
+"n": 10,
+"lead": "사조동아원",
+"lead_ret": 29.97,
+"second": "대주산업",
+"second_ret": 29.95
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 8,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "미래생명자원",
+"second_ret": 12.16
+},
+{
+"name": "여름",
+"n": 7,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "조비",
+"second_ret": 15.05
+}
+],
+"themes": [
+{
+"name": "사료",
+"n": 17,
+"avg": 12.76,
+"up5": 15,
+"lead": "사조동아원",
+"lead_ret": 29.97,
+"second": "대주산업",
+"second_ret": 29.95
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 8.8,
+"up5": 3,
+"lead": "신송홀딩스",
+"lead_ret": 19.83,
+"second": "미래생명자원",
+"second_ret": 12.16
+},
+{
+"name": "육계",
+"n": 9,
+"avg": 8.43,
+"up5": 6,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "동우팜투테이블",
+"second_ret": 11.76
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 6.76,
+"up5": 12,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "동우팜투테이블",
+"second_ret": 11.76
+},
+{
+"name": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"n": 10,
+"avg": 6.34,
+"up5": 5,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "동우팜투테이블",
+"second_ret": 11.76
+},
+{
+"name": "아프리카 돼지열병(ASF)",
+"n": 29,
+"avg": 5.55,
+"up5": 16,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "미래생명자원",
+"second_ret": 12.16
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 5.43,
+"up5": 4,
+"lead": "한성기업",
+"lead_ret": 8.8,
+"second": "CJ씨푸드",
+"second_ret": 5.74
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 4.94,
+"up5": 5,
+"lead": "조비",
+"lead_ret": 15.05,
+"second": "누보",
+"second_ret": 9.28
+},
+{
+"name": "여름",
+"n": 28,
+"avg": 4.92,
+"up5": 12,
+"lead": "팜스토리",
+"lead_ret": 22.19,
+"second": "조비",
+"second_ret": 15.05
+},
+{
+"name": "수산",
+"n": 9,
+"avg": 4.19,
+"up5": 4,
+"lead": "한성기업",
+"lead_ret": 8.8,
+"second": "사조씨푸드",
+"second_ret": 6.8
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": 3.95,
+"up5": 4,
+"lead": "태경케미컬",
+"lead_ret": 14.41,
+"second": "케이씨피드",
+"second_ret": 9.01
+},
+{
+"name": "음식료업종",
+"n": 58,
+"avg": 3.91,
+"up5": 16,
+"lead": "사조동아원",
+"lead_ret": 29.97,
+"second": "한탑",
+"second_ret": 29.93
+}
+],
+"themes_worst": [
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -1.64,
+"up5": 0,
+"lead": "웰크론한텍",
+"lead_ret": 2.17,
+"second": "한솔홀딩스",
+"second_ret": 1.03
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -0.94,
+"up5": 0,
+"lead": "하이즈항공",
+"lead_ret": 3.01,
+"second": "두산에너빌리티",
+"second_ret": 2.04
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.88,
+"up5": 0,
+"lead": "대한해운",
+"lead_ret": 1.7,
+"second": "팬오션",
+"second_ret": 0.76
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -0.85,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 1.89,
+"second": "유니온",
+"second_ret": 1.16
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.83,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 0.18,
+"second": "KG모빌리티",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 22.19,
+"value": 5454,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "대주산업",
+"code": "003310",
+"ret": 29.95,
+"value": 1979,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "태경케미컬",
+"code": "006890",
+"ret": 14.41,
+"value": 1965,
+"theme": "여름",
+"reason": "테마: 여름"
+},
+{
+"name": "고려산업",
+"code": "002140",
+"ret": 15.38,
+"value": 1668,
+"theme": "사료",
+"reason": "테마: 사료"
+},
+{
+"name": "사조동아원",
+"code": "008040",
+"ret": 29.97,
+"value": 1528,
+"theme": "사료",
+"reason": "테마: 사료"
+}
+],
+"backfilled": true
+}

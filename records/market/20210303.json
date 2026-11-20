@@ -1,0 +1,254 @@
+{
+"date": "20210303",
+"kospi": 1.29,
+"kosdaq": 0.83,
+"adv": 1378,
+"dec": 442,
+"flat": 166,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 237947,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 6,
+"lead": "엠게임",
+"lead_ret": 30.0,
+"second": "선익시스템",
+"second_ret": 29.93
+},
+{
+"name": "쿠팡(coupang)",
+"n": 4,
+"lead": "미래생명자원",
+"lead_ret": 29.8,
+"second": "쇼박스",
+"second_ret": 16.07
+},
+{
+"name": "스마트폰",
+"n": 3,
+"lead": "이엠텍",
+"lead_ret": 13.08,
+"second": "동운아나텍",
+"second_ret": 10.72
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 6.77,
+"up5": 1,
+"lead": "미래생명자원",
+"lead_ret": 29.8,
+"second": "샘표식품",
+"second_ret": 1.57
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 5.38,
+"up5": 2,
+"lead": "제주은행",
+"lead_ret": 29.92,
+"second": "BNK금융지주",
+"second_ret": 6.4
+},
+{
+"name": "증강현실(AR)",
+"n": 13,
+"avg": 4.98,
+"up5": 4,
+"lead": "엠게임",
+"lead_ret": 30.0,
+"second": "동운아나텍",
+"second_ret": 10.72
+},
+{
+"name": "쿠팡(coupang)",
+"n": 19,
+"avg": 4.97,
+"up5": 7,
+"lead": "미래생명자원",
+"lead_ret": 29.8,
+"second": "쇼박스",
+"second_ret": 16.07
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 4.71,
+"up5": 1,
+"lead": "선익시스템",
+"lead_ret": 29.93,
+"second": "석경에이티",
+"second_ret": 4.37
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 7,
+"avg": 4.6,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 15.07,
+"second": "한빛소프트",
+"second_ret": 12.42
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 4.52,
+"up5": 2,
+"lead": "이마트",
+"lead_ret": 8.5,
+"second": "BGF리테일",
+"second_ret": 6.6
+},
+{
+"name": "메타버스(Metaverse)",
+"n": 38,
+"avg": 4.21,
+"up5": 9,
+"lead": "엠게임",
+"lead_ret": 30.0,
+"second": "선익시스템",
+"second_ret": 29.93
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 4.13,
+"up5": 4,
+"lead": "이루온",
+"lead_ret": 8.54,
+"second": "유엔젤",
+"second_ret": 6.94
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 4.12,
+"up5": 2,
+"lead": "HMM",
+"lead_ret": 8.51,
+"second": "팬오션",
+"second_ret": 6.04
+},
+{
+"name": "사료",
+"n": 17,
+"avg": 3.97,
+"up5": 3,
+"lead": "미래생명자원",
+"lead_ret": 29.8,
+"second": "팜스토리",
+"second_ret": 14.78
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 3.8,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 13.99,
+"second": "이월드",
+"second_ret": 2.43
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.02,
+"up5": 0,
+"lead": "TKG휴켐스",
+"lead_ret": 0.87,
+"second": "롯데정밀화학",
+"second_ret": 0.19
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -1.02,
+"up5": 0,
+"lead": "GS",
+"lead_ret": 1.56,
+"second": "S-Oil",
+"second_ret": 1.06
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -0.87,
+"up5": 0,
+"lead": "콜마바이오텍",
+"lead_ret": 1.41,
+"second": "GH신소재",
+"second_ret": 0.94
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.85,
+"up5": 0,
+"lead": "딥커머스",
+"lead_ret": 4.43,
+"second": "글로벌에스엠",
+"second_ret": 2.59
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -0.76,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 1.06,
+"second": "파미셀",
+"second_ret": 0.95
+}
+],
+"leaders": [
+{
+"name": "한빛소프트",
+"code": "047080",
+"ret": 12.42,
+"value": 4408,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "엠게임",
+"code": "058630",
+"ret": 30.0,
+"value": 4068,
+"theme": "메타버스(Metaverse)",
+"reason": "테마: 메타버스(Metaverse)"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 22.44,
+"value": 3921,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "팜스토리",
+"code": "027710",
+"ret": 14.78,
+"value": 2733,
+"theme": "스포츠행사 수혜(올림픽, 월드컵 등)",
+"reason": "테마: 스포츠행사 수혜(올림픽, 월드컵 등)"
+},
+{
+"name": "쇼박스",
+"code": "086980",
+"ret": 16.07,
+"value": 2725,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}

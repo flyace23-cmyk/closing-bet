@@ -1,0 +1,254 @@
+{
+"date": "20240429",
+"kospi": 1.17,
+"kosdaq": 1.51,
+"adv": 1673,
+"dec": 430,
+"flat": 148,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 174727,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "필옵틱스",
+"lead_ret": 18.4,
+"second": "솔브레인홀딩스",
+"second_ret": 12.85
+},
+{
+"name": "스마트폰",
+"n": 4,
+"lead": "아비코전자",
+"lead_ret": 13.69,
+"second": "켐트로닉스",
+"second_ret": 10.98
+},
+{
+"name": "유리 기판",
+"n": 4,
+"lead": "와이씨켐",
+"lead_ret": 29.87,
+"second": "필옵틱스",
+"second_ret": 18.4
+}
+],
+"themes": [
+{
+"name": "유리 기판",
+"n": 18,
+"avg": 7.28,
+"up5": 8,
+"lead": "와이씨켐",
+"lead_ret": 29.87,
+"second": "필옵틱스",
+"second_ret": 18.4
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 7.2,
+"up5": 3,
+"lead": "LS에코에너지",
+"lead_ret": 29.9,
+"second": "대원전선",
+"second_ret": 12.11
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 4.67,
+"up5": 8,
+"lead": "한화솔루션",
+"lead_ret": 13.61,
+"second": "대한유화",
+"second_ret": 11.24
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": 4.43,
+"up5": 9,
+"lead": "LS에코에너지",
+"lead_ret": 29.9,
+"second": "제룡산업",
+"second_ret": 26.13
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 4.37,
+"up5": 3,
+"lead": "HS효성첨단소재",
+"lead_ret": 10.39,
+"second": "금호석유화학",
+"second_ret": 7.54
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 18,
+"avg": 4.31,
+"up5": 5,
+"lead": "한화솔루션",
+"lead_ret": 13.61,
+"second": "램테크놀러지",
+"second_ret": 12.45
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 4.08,
+"up5": 2,
+"lead": "광무",
+"lead_ret": 10.59,
+"second": "링네트",
+"second_ret": 9.45
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 17,
+"avg": 3.86,
+"up5": 2,
+"lead": "LS에코에너지",
+"lead_ret": 29.9,
+"second": "현대비앤지스틸",
+"second_ret": 7.89
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 3.56,
+"up5": 8,
+"lead": "LS에코에너지",
+"lead_ret": 29.9,
+"second": "LS",
+"second_ret": 8.22
+},
+{
+"name": "미용기기",
+"n": 15,
+"avg": 3.52,
+"up5": 5,
+"lead": "레이저옵텍",
+"lead_ret": 9.58,
+"second": "에이피알",
+"second_ret": 8.22
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 3.48,
+"up5": 2,
+"lead": "빛과전자",
+"lead_ret": 10.53,
+"second": "LS",
+"second_ret": 8.22
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.46,
+"up5": 2,
+"lead": "HL만도",
+"lead_ret": 17.64,
+"second": "한온시스템",
+"second_ret": 5.33
+}
+],
+"themes_worst": [
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.18,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 5.62,
+"second": "GS",
+"second_ret": 1.82
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.18,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 5.62,
+"second": "GS",
+"second_ret": 1.82
+},
+{
+"name": "주유소",
+"n": 13,
+"avg": -0.82,
+"up5": 2,
+"lead": "SK이노베이션",
+"lead_ret": 5.62,
+"second": "HD현대",
+"second_ret": 5.06
+},
+{
+"name": "윤활유",
+"n": 7,
+"avg": -0.69,
+"up5": 1,
+"lead": "SK이노베이션",
+"lead_ret": 5.62,
+"second": "GS",
+"second_ret": 1.82
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.59,
+"up5": 0,
+"lead": "SG",
+"lead_ret": 2.69,
+"second": "아이티센씨티에스",
+"second_ret": 1.62
+}
+],
+"leaders": [
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 18.4,
+"value": 4750,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "대원전선",
+"code": "006340",
+"ret": 12.11,
+"value": 4588,
+"theme": "전선",
+"reason": "테마: 전선"
+},
+{
+"name": "와이씨켐",
+"code": "112290",
+"ret": 29.87,
+"value": 3013,
+"theme": "유리 기판",
+"reason": "테마: 유리 기판"
+},
+{
+"name": "켐트로닉스",
+"code": "089010",
+"ret": 10.98,
+"value": 2674,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "마이크로투나노",
+"code": "424980",
+"ret": 20.34,
+"value": 1833,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

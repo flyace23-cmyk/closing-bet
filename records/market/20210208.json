@@ -1,0 +1,238 @@
+{
+"date": "20210208",
+"kospi": -0.94,
+"kosdaq": -0.69,
+"adv": 685,
+"dec": 1138,
+"flat": 159,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 327128,
+"hot": [
+{
+"name": "창투사",
+"n": 3,
+"lead": "대성창투",
+"lead_ret": 29.81,
+"second": "GMI벤처",
+"second_ret": 18.63
+}
+],
+"themes": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 4.55,
+"up5": 2,
+"lead": "대성창투",
+"lead_ret": 29.81,
+"second": "우리기술투자",
+"second_ret": 8.79
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 4.51,
+"up5": 1,
+"lead": "대성창투",
+"lead_ret": 29.81,
+"second": "DSC인베스트먼트",
+"second_ret": 0.66
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 3.89,
+"up5": 4,
+"lead": "대성창투",
+"lead_ret": 29.81,
+"second": "GMI벤처",
+"second_ret": 18.63
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.96,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": 4.98,
+"second": "현대백화점",
+"second_ret": 3.06
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.79,
+"up5": 1,
+"lead": "참좋은여행",
+"lead_ret": 5.56,
+"second": "모두투어",
+"second_ret": 4.87
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.64,
+"up5": 1,
+"lead": "진에어",
+"lead_ret": 9.04,
+"second": "대한항공",
+"second_ret": 4.67
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 2.38,
+"up5": 1,
+"lead": "제주은행",
+"lead_ret": 6.12,
+"second": "신한지주",
+"second_ret": 3.46
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 2.23,
+"up5": 2,
+"lead": "S-Oil",
+"lead_ret": 7.51,
+"second": "한국가스공사",
+"second_ret": 5.31
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.07,
+"up5": 2,
+"lead": "한국가스공사",
+"lead_ret": 5.31,
+"second": "한국카본",
+"second_ret": 5.24
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 1.8,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 6.45,
+"second": "국보디자인",
+"second_ret": 2.94
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.71,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": 3.59,
+"second": "GS리테일",
+"second_ret": 3.45
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 1.68,
+"up5": 2,
+"lead": "우리기술투자",
+"lead_ret": 8.79,
+"second": "위지트",
+"second_ret": 5.45
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -7.5,
+"up5": 0,
+"lead": "KG모빌리티",
+"lead_ret": 0.0,
+"second": "한온시스템",
+"second_ret": -3.27
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": -5.21,
+"up5": 0,
+"lead": "DB하이텍",
+"lead_ret": -1.81,
+"second": "LG이노텍",
+"second_ret": -2.13
+},
+{
+"name": "자동차부품",
+"n": 132,
+"avg": -3.8,
+"up5": 3,
+"lead": "코리아에프티",
+"lead_ret": 9.68,
+"second": "한중엔시에스",
+"second_ret": 8.89
+},
+{
+"name": "리비안(RIVIAN)",
+"n": 19,
+"avg": -3.69,
+"up5": 0,
+"lead": "포스코인터내셔널",
+"lead_ret": 4.99,
+"second": "우신시스템",
+"second_ret": 1.67
+},
+{
+"name": "전기차",
+"n": 79,
+"avg": -3.63,
+"up5": 2,
+"lead": "한중엔시에스",
+"lead_ret": 8.89,
+"second": "한국단자",
+"second_ret": 7.44
+}
+],
+"leaders": [
+{
+"name": "프레스티지바이오파마",
+"code": "950210",
+"ret": 29.88,
+"value": 9712,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 14.12,
+"value": 7472,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "아이퀘스트",
+"code": "262840",
+"ret": 12.0,
+"value": 2754,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "강동씨앤엘",
+"code": "198440",
+"ret": 10.85,
+"value": 1767,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+},
+{
+"name": "한국가구",
+"code": "004590",
+"ret": 17.27,
+"value": 1562,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

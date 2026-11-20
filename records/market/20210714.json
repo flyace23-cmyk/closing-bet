@@ -1,0 +1,254 @@
+{
+"date": "20210714",
+"kospi": -0.2,
+"kosdaq": 0.16,
+"adv": 758,
+"dec": 1071,
+"flat": 185,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 244744,
+"hot": [
+{
+"name": "2차전지",
+"n": 4,
+"lead": "코스모신소재",
+"lead_ret": 15.23,
+"second": "대주전자재료",
+"second_ret": 11.09
+},
+{
+"name": "건강기능식품",
+"n": 3,
+"lead": "그래디언트",
+"lead_ret": 29.97,
+"second": "압타바이오",
+"second_ret": 8.93
+},
+{
+"name": "영상콘텐츠",
+"n": 3,
+"lead": "에이스토리",
+"lead_ret": 10.91,
+"second": "SBS",
+"second_ret": 10.21
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 5.59,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 29.97,
+"second": "SBI인베스트먼트",
+"second_ret": 2.73
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": 4.34,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 15.23,
+"second": "대주전자재료",
+"second_ret": 11.09
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 4.04,
+"up5": 2,
+"lead": "옴니시스템",
+"lead_ret": 7.05,
+"second": "유비벨록스",
+"second_ret": 5.87
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 3.5,
+"up5": 2,
+"lead": "GH신소재",
+"lead_ret": 8.43,
+"second": "오텍",
+"second_ret": 5.42
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 2.86,
+"up5": 2,
+"lead": "링네트",
+"lead_ret": 7.33,
+"second": "오픈베이스",
+"second_ret": 6.01
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 18,
+"avg": 2.78,
+"up5": 4,
+"lead": "이지케어텍",
+"lead_ret": 13.41,
+"second": "알서포트",
+"second_ret": 9.46
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 2.45,
+"up5": 3,
+"lead": "알서포트",
+"lead_ret": 9.46,
+"second": "링네트",
+"second_ret": 7.33
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.29,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 5.84,
+"second": "애경케미칼",
+"second_ret": 3.91
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 61,
+"avg": 2.24,
+"up5": 10,
+"lead": "코스모신소재",
+"lead_ret": 15.23,
+"second": "DI동일",
+"second_ret": 11.65
+},
+{
+"name": "제습기",
+"n": 8,
+"avg": 2.15,
+"up5": 2,
+"lead": "파세코",
+"lead_ret": 7.96,
+"second": "신일전자",
+"second_ret": 6.25
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.07,
+"up5": 1,
+"lead": "그래디언트",
+"lead_ret": 29.97,
+"second": "세중",
+"second_ret": 0.84
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": 1.97,
+"up5": 1,
+"lead": "알서포트",
+"lead_ret": 9.46,
+"second": "한세예스24홀딩스",
+"second_ret": 3.52
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -1.66,
+"up5": 0,
+"lead": "큐에스아이",
+"lead_ret": 1.8,
+"second": "삼성전자",
+"second_ret": -0.38
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -1.61,
+"up5": 0,
+"lead": "고려제강",
+"lead_ret": 0.42,
+"second": "세아베스틸지주",
+"second_ret": -0.48
+},
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -1.55,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 1.92,
+"second": "아이디스",
+"second_ret": 0.38
+},
+{
+"name": "시멘트/레미콘",
+"n": 15,
+"avg": -1.48,
+"up5": 0,
+"lead": "강동씨앤엘",
+"lead_ret": -0.41,
+"second": "모헨즈",
+"second_ret": -0.5
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": -1.48,
+"up5": 0,
+"lead": "이마트",
+"lead_ret": -0.63,
+"second": "SK네트웍스",
+"second_ret": -0.65
+}
+],
+"leaders": [
+{
+"name": "그래디언트",
+"code": "035080",
+"ret": 29.97,
+"value": 10317,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "한샘",
+"code": "009240",
+"ret": 24.68,
+"value": 6467,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "한일단조",
+"code": "024740",
+"ret": 15.72,
+"value": 3607,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "코스모신소재",
+"code": "005070",
+"ret": 15.23,
+"value": 3511,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "고려아연",
+"code": "010130",
+"ret": 11.05,
+"value": 2198,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241218",
+"kospi": 1.12,
+"kosdaq": 0.45,
+"adv": 1333,
+"dec": 844,
+"flat": 137,
+"limit_up": 5,
+"limit_down": 1,
+"value_total": 145653,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 6,
+"lead": "켐트로스",
+"lead_ret": 21.74,
+"second": "아이씨티케이",
+"second_ret": 18.81
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 4,
+"lead": "켐트로스",
+"lead_ret": 21.74,
+"second": "그린케미칼",
+"second_ret": 16.67
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "에스오에스랩",
+"lead_ret": 23.23,
+"second": "넥스트칩",
+"second_ret": 14.59
+}
+],
+"themes": [
+{
+"name": "조선",
+"n": 5,
+"avg": 6.44,
+"up5": 1,
+"lead": "HJ중공업",
+"lead_ret": 28.33,
+"second": "삼성중공업",
+"second_ret": 1.99
+},
+{
+"name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)",
+"n": 17,
+"avg": 4.51,
+"up5": 5,
+"lead": "켐트로스",
+"lead_ret": 21.74,
+"second": "그린케미칼",
+"second_ret": 16.67
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.02,
+"up5": 2,
+"lead": "기아",
+"lead_ret": 6.37,
+"second": "현대모비스",
+"second_ret": 5.22
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.82,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 5.75,
+"second": "유한양행",
+"second_ret": 3.72
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 2.78,
+"up5": 2,
+"lead": "닷밀",
+"lead_ret": 8.94,
+"second": "시공테크",
+"second_ret": 5.53
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 2.77,
+"up5": 2,
+"lead": "한국정밀기계",
+"lead_ret": 29.91,
+"second": "한국주강",
+"second_ret": 6.8
+},
+{
+"name": "유리 기판",
+"n": 20,
+"avg": 2.75,
+"up5": 5,
+"lead": "필옵틱스",
+"lead_ret": 13.81,
+"second": "제이앤티씨",
+"second_ret": 6.55
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 2.68,
+"up5": 3,
+"lead": "한국첨단소재",
+"lead_ret": 29.93,
+"second": "아이씨티케이",
+"second_ret": 18.81
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.62,
+"up5": 1,
+"lead": "에이직랜드",
+"lead_ret": 7.75,
+"second": "자람테크놀로지",
+"second_ret": 4.54
+},
+{
+"name": "자율주행차",
+"n": 56,
+"avg": 2.61,
+"up5": 12,
+"lead": "에스오에스랩",
+"lead_ret": 23.23,
+"second": "넥스트칩",
+"second_ret": 14.59
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 2.59,
+"up5": 3,
+"lead": "그린케미칼",
+"lead_ret": 16.67,
+"second": "효성화학",
+"second_ret": 7.69
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 14,
+"avg": 2.48,
+"up5": 1,
+"lead": "한국첨단소재",
+"lead_ret": 29.93,
+"second": "자람테크놀로지",
+"second_ret": 4.54
+}
+],
+"themes_worst": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.02,
+"up5": 0,
+"lead": "갤럭시아머니트리",
+"lead_ret": 0.11,
+"second": "코나아이",
+"second_ret": -1.25
+},
+{
+"name": "줄기세포",
+"n": 18,
+"avg": -1.7,
+"up5": 2,
+"lead": "제일약품",
+"lead_ret": 5.75,
+"second": "풍전약품",
+"second_ret": 5.38
+},
+{
+"name": "의료AI",
+"n": 24,
+"avg": -1.42,
+"up5": 1,
+"lead": "제이에스링크",
+"lead_ret": 7.74,
+"second": "쓰리빌리언",
+"second_ret": 3.39
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.39,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.35,
+"second": "지씨셀",
+"second_ret": -0.2
+},
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 29,
+"avg": -1.23,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 1.43,
+"second": "카카오",
+"second_ret": 1.28
+}
+],
+"leaders": [
+{
+"name": "에스오에스랩",
+"code": "464080",
+"ret": 23.23,
+"value": 3897,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "스튜디오쏠쏠",
+"code": "200350",
+"ret": 29.96,
+"value": 1657,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "필옵틱스",
+"code": "161580",
+"ret": 13.81,
+"value": 1040,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+},
+{
+"name": "아티스트컴퍼니",
+"code": "321820",
+"ret": 12.04,
+"value": 984,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "아이씨티케이",
+"code": "456010",
+"ret": 18.81,
+"value": 962,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+}
+],
+"backfilled": true
+}

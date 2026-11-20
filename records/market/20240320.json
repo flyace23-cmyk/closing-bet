@@ -1,0 +1,254 @@
+{
+"date": "20240320",
+"kospi": 1.28,
+"kosdaq": -0.05,
+"adv": 1049,
+"dec": 1041,
+"flat": 155,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 215809,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "엑시콘",
+"lead_ret": 16.92,
+"second": "알에스오토메이션",
+"second_ret": 14.49
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 6,
+"lead": "수젠텍",
+"lead_ret": 29.93,
+"second": "국제약품",
+"second_ret": 29.92
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 6,
+"lead": "수젠텍",
+"lead_ret": 29.93,
+"second": "진시스템",
+"second_ret": 26.94
+}
+],
+"themes": [
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 12.62,
+"up5": 7,
+"lead": "수젠텍",
+"lead_ret": 29.93,
+"second": "국제약품",
+"second_ret": 29.92
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.56,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 23.62,
+"second": "미래생명자원",
+"second_ret": 1.78
+},
+{
+"name": "코로나19(진단키트)",
+"n": 39,
+"avg": 4.73,
+"up5": 12,
+"lead": "수젠텍",
+"lead_ret": 29.93,
+"second": "진시스템",
+"second_ret": 26.94
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 4.42,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 22.58,
+"second": "파미셀",
+"second_ret": 4.35
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 70,
+"avg": 3.41,
+"up5": 17,
+"lead": "수젠텍",
+"lead_ret": 29.93,
+"second": "진시스템",
+"second_ret": 26.94
+},
+{
+"name": "골판지 제조",
+"n": 10,
+"avg": 3.32,
+"up5": 1,
+"lead": "대영포장",
+"lead_ret": 29.99,
+"second": "태림포장",
+"second_ret": 1.52
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 41,
+"avg": 3.28,
+"up5": 10,
+"lead": "수젠텍",
+"lead_ret": 29.93,
+"second": "진매트릭스",
+"second_ret": 23.87
+},
+{
+"name": "유전자 치료제/분석",
+"n": 33,
+"avg": 2.86,
+"up5": 7,
+"lead": "진시스템",
+"lead_ret": 26.94,
+"second": "소마젠",
+"second_ret": 22.58
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 27,
+"avg": 2.82,
+"up5": 6,
+"lead": "진매트릭스",
+"lead_ret": 23.87,
+"second": "한국비엔씨",
+"second_ret": 9.34
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.73,
+"up5": 2,
+"lead": "티에프이",
+"lead_ret": 10.51,
+"second": "삼성전자",
+"second_ret": 5.63
+},
+{
+"name": "제약업체",
+"n": 85,
+"avg": 2.69,
+"up5": 13,
+"lead": "경남제약",
+"lead_ret": 30.11,
+"second": "국제약품",
+"second_ret": 29.92
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.68,
+"up5": 1,
+"lead": "한성기업",
+"lead_ret": 12.26,
+"second": "한울앤제주",
+"second_ret": 2.98
+}
+],
+"themes_worst": [
+{
+"name": "딥페이크(deepfake)",
+"n": 12,
+"avg": -3.01,
+"up5": 0,
+"lead": "라온시큐어",
+"lead_ret": 1.42,
+"second": "이스트소프트",
+"second_ret": 0.0
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -2.97,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": 0.81,
+"second": "KG파이낸셜",
+"second_ret": 0.39
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": -2.83,
+"up5": 0,
+"lead": "오로라",
+"lead_ret": 2.5,
+"second": "에피소드컴퍼니",
+"second_ret": 0.75
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": -2.26,
+"up5": 0,
+"lead": "LG에너지솔루션",
+"lead_ret": 1.12,
+"second": "나인테크",
+"second_ret": 0.65
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -2.03,
+"up5": 0,
+"lead": "사람인",
+"lead_ret": 2.01,
+"second": "DSC인베스트먼트",
+"second_ret": 1.51
+}
+],
+"leaders": [
+{
+"name": "엑시콘",
+"code": "092870",
+"ret": 16.92,
+"value": 4080,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "SP삼화",
+"code": "000390",
+"ret": 11.89,
+"value": 2654,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "알에스오토메이션",
+"code": "140670",
+"ret": 14.49,
+"value": 2523,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "와이씨",
+"code": "232140",
+"ret": 12.48,
+"value": 1640,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "대영포장",
+"code": "014160",
+"ret": 29.99,
+"value": 1422,
+"theme": "골판지 제조",
+"reason": "테마: 골판지 제조"
+}
+],
+"backfilled": true
+}

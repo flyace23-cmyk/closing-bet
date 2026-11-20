@@ -1,0 +1,238 @@
+{
+"date": "20210909",
+"kospi": -1.53,
+"kosdaq": -0.25,
+"adv": 485,
+"dec": 1387,
+"flat": 158,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 274446,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "태양금속",
+"lead_ret": 15.31,
+"second": "금호에이치티",
+"second_ret": 13.62
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.06,
+"up5": 2,
+"lead": "대원미디어",
+"lead_ret": 14.83,
+"second": "데브시스터즈",
+"second_ret": 7.57
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 3.63,
+"up5": 2,
+"lead": "애경케미칼",
+"lead_ret": 15.77,
+"second": "에코프로비엠",
+"second_ret": 6.21
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 2.44,
+"up5": 1,
+"lead": "대성에너지",
+"lead_ret": 15.86,
+"second": "경동도시가스",
+"second_ret": 3.52
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.37,
+"up5": 1,
+"lead": "EG",
+"lead_ret": 12.2,
+"second": "한일화학",
+"second_ret": 4.05
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 1.37,
+"up5": 1,
+"lead": "EG",
+"lead_ret": 12.2,
+"second": "한일화학",
+"second_ret": 4.05
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 0.75,
+"up5": 1,
+"lead": "애경케미칼",
+"lead_ret": 15.77,
+"second": "SKC",
+"second_ret": 4.76
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 20,
+"avg": 0.69,
+"up5": 1,
+"lead": "금호에이치티",
+"lead_ret": 13.62,
+"second": "제이케이시냅스",
+"second_ret": 4.54
+},
+{
+"name": "보안주(물리)",
+"n": 14,
+"avg": 0.62,
+"up5": 1,
+"lead": "이랜시스",
+"lead_ret": 10.86,
+"second": "슈프리마에이치큐",
+"second_ret": 2.59
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 0.56,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 5.27,
+"second": "유바이오로직스",
+"second_ret": 5.03
+},
+{
+"name": "영상콘텐츠",
+"n": 23,
+"avg": 0.56,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 14.83,
+"second": "애니플러스",
+"second_ret": 4.83
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 10,
+"avg": 0.54,
+"up5": 1,
+"lead": "EG",
+"lead_ret": 12.2,
+"second": "엘앤에프",
+"second_ret": 3.57
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 12,
+"avg": 0.51,
+"up5": 2,
+"lead": "무학",
+"lead_ret": 6.96,
+"second": "MH에탄올",
+"second_ret": 5.51
+}
+],
+"themes_worst": [
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": -3.02,
+"up5": 0,
+"lead": "POSCO홀딩스",
+"lead_ret": -0.55,
+"second": "한국철강",
+"second_ret": -0.92
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -2.97,
+"up5": 0,
+"lead": "디아이씨",
+"lead_ret": 2.8,
+"second": "한국팩키지",
+"second_ret": 0.82
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.4,
+"up5": 0,
+"lead": "광주신세계",
+"lead_ret": 0.92,
+"second": "현대백화점",
+"second_ret": -1.34
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": -2.32,
+"up5": 0,
+"lead": "피제이메탈",
+"lead_ret": 3.85,
+"second": "태경산업",
+"second_ret": 0.62
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 9,
+"avg": -2.28,
+"up5": 0,
+"lead": "이렘",
+"lead_ret": 0.0,
+"second": "금강공업",
+"second_ret": -1.14
+}
+],
+"leaders": [
+{
+"name": "카스",
+"code": "016920",
+"ret": 29.88,
+"value": 2507,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "위메이드",
+"code": "112040",
+"ret": 10.73,
+"value": 2152,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "대현",
+"code": "016090",
+"ret": 30.0,
+"value": 1990,
+"theme": "패션/의류",
+"reason": "테마: 패션/의류"
+},
+{
+"name": "DSR",
+"code": "155660",
+"ret": 15.61,
+"value": 1794,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "에코앤드림",
+"code": "101360",
+"ret": 12.2,
+"value": 1407,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20220916",
+"kospi": -0.79,
+"kosdaq": -1.45,
+"adv": 386,
+"dec": 1590,
+"flat": 122,
+"limit_up": 0,
+"limit_down": 0,
+"value_total": 151929,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "대화제약",
+"lead_ret": 25.31,
+"second": "삼천당제약",
+"second_ret": 8.18
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "해성에어로보틱스",
+"lead_ret": 10.08,
+"second": "라온로보틱스",
+"second_ret": 7.46
+},
+{
+"name": "철강 중소형",
+"n": 3,
+"lead": "대동스틸",
+"lead_ret": 28.93,
+"second": "하이스틸",
+"second_ret": 15.98
+}
+],
+"themes": [
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 2.83,
+"up5": 1,
+"lead": "한국전자인증",
+"lead_ret": 17.0,
+"second": "이월드",
+"second_ret": 1.38
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.06,
+"up5": 2,
+"lead": "참좋은여행",
+"lead_ret": 5.86,
+"second": "SM C&C",
+"second_ret": 5.75
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 1.92,
+"up5": 2,
+"lead": "대동스틸",
+"lead_ret": 28.93,
+"second": "하이스틸",
+"second_ret": 15.98
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 1.61,
+"up5": 3,
+"lead": "대동스틸",
+"lead_ret": 28.93,
+"second": "하이스틸",
+"second_ret": 15.98
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 1.38,
+"up5": 1,
+"lead": "모트렉스",
+"lead_ret": 16.67,
+"second": "인포뱅크",
+"second_ret": 3.87
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 0.92,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 10.31,
+"second": "대한화섬",
+"second_ret": 0.93
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": 0.84,
+"up5": 2,
+"lead": "영우디에스피",
+"lead_ret": 8.18,
+"second": "서울반도체",
+"second_ret": 6.76
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 0.55,
+"up5": 1,
+"lead": "에스엠",
+"lead_ret": 18.6,
+"second": "와이지엔터테인먼트",
+"second_ret": 2.5
+},
+{
+"name": "UAM(도심항공모빌리티)",
+"n": 24,
+"avg": 0.42,
+"up5": 3,
+"lead": "베셀",
+"lead_ret": 11.6,
+"second": "지아이에스",
+"second_ret": 5.82
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 0.31,
+"up5": 3,
+"lead": "베셀",
+"lead_ret": 11.6,
+"second": "인지컨트롤스",
+"second_ret": 7.19
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 20,
+"avg": 0.29,
+"up5": 1,
+"lead": "모트렉스",
+"lead_ret": 16.67,
+"second": "LG유플러스",
+"second_ret": 1.78
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 0.15,
+"up5": 0,
+"lead": "현대차",
+"lead_ret": 1.52,
+"second": "기아",
+"second_ret": 1.37
+}
+],
+"themes_worst": [
+{
+"name": "애플페이",
+"n": 8,
+"avg": -5.26,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": -1.35,
+"second": "KG파이낸셜",
+"second_ret": -2.33
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -4.13,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": -1.78,
+"second": "유비벨록스",
+"second_ret": -2.1
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 8,
+"avg": -3.83,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 1.23,
+"second": "케이에스피",
+"second_ret": -2.75
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": -3.81,
+"up5": 0,
+"lead": "야스",
+"lead_ret": -0.71,
+"second": "한국전력",
+"second_ret": -2.33
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": -3.52,
+"up5": 0,
+"lead": "SK네트웍스",
+"lead_ret": 0.0,
+"second": "효성티앤씨",
+"second_ret": -0.49
+}
+],
+"leaders": [
+{
+"name": "에스엠",
+"code": "041510",
+"ret": 18.6,
+"value": 4568,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "모트렉스",
+"code": "118990",
+"ret": 16.67,
+"value": 2046,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "한국전자인증",
+"code": "041460",
+"ret": 17.0,
+"value": 1731,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+},
+{
+"name": "양지사",
+"code": "030960",
+"ret": 13.65,
+"value": 1577,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "하이스틸",
+"code": "071090",
+"ret": 15.98,
+"value": 1327,
+"theme": "철강 중소형",
+"reason": "테마: 철강 중소형"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210201",
+"kospi": 2.7,
+"kosdaq": 3.04,
+"adv": 1504,
+"dec": 340,
+"flat": 133,
+"limit_up": 6,
+"limit_down": 2,
+"value_total": 306475,
+"hot": [
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "효성티앤씨",
+"lead_ret": 29.88,
+"second": "세방전지",
+"second_ret": 24.14
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "DH오토웨어",
+"lead_ret": 29.74,
+"second": "HS효성첨단소재",
+"second_ret": 21.85
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "세방전지",
+"lead_ret": 24.14,
+"second": "동원시스템즈",
+"second_ret": 15.78
+}
+],
+"themes": [
+{
+"name": "타이어",
+"n": 9,
+"avg": 8.17,
+"up5": 3,
+"lead": "효성티앤씨",
+"lead_ret": 29.88,
+"second": "HS효성첨단소재",
+"second_ret": 21.85
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 7.4,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 29.88,
+"second": "태광산업",
+"second_ret": 11.2
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 6.83,
+"up5": 2,
+"lead": "데브시스터즈",
+"lead_ret": 29.97,
+"second": "리튬포어스",
+"second_ret": 5.41
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 6.48,
+"up5": 5,
+"lead": "대우건설",
+"lead_ret": 9.49,
+"second": "GS건설",
+"second_ret": 9.44
+},
+{
+"name": "종합상사",
+"n": 8,
+"avg": 5.93,
+"up5": 2,
+"lead": "효성티앤씨",
+"lead_ret": 29.88,
+"second": "포스코인터내셔널",
+"second_ret": 10.91
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 5.91,
+"up5": 7,
+"lead": "대림통상",
+"lead_ret": 29.82,
+"second": "에넥스",
+"second_ret": 18.85
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 4.96,
+"up5": 3,
+"lead": "한국비엔씨",
+"lead_ret": 29.91,
+"second": "메디톡스",
+"second_ret": 5.82
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.43,
+"up5": 3,
+"lead": "기아",
+"lead_ret": 9.09,
+"second": "현대모비스",
+"second_ret": 5.67
+},
+{
+"name": "유전자 치료제/분석",
+"n": 28,
+"avg": 4.16,
+"up5": 11,
+"lead": "헬릭스미스",
+"lead_ret": 18.13,
+"second": "제이에스링크",
+"second_ret": 13.71
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": 3.98,
+"up5": 5,
+"lead": "예스티",
+"lead_ret": 10.33,
+"second": "주성엔지니어링",
+"second_ret": 7.59
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": 3.93,
+"up5": 2,
+"lead": "데브시스터즈",
+"lead_ret": 29.97,
+"second": "큐에스아이",
+"second_ret": 19.17
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 3.93,
+"up5": 3,
+"lead": "SK이노베이션",
+"lead_ret": 12.86,
+"second": "하나기술",
+"second_ret": 6.42
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -3.11,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 0.72,
+"second": "아이디스",
+"second_ret": 0.52
+},
+{
+"name": "건강기능식품",
+"n": 35,
+"avg": -0.46,
+"up5": 4,
+"lead": "헬릭스미스",
+"lead_ret": 18.13,
+"second": "뉴트리",
+"second_ret": 8.05
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.41,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.93,
+"second": "강스템바이오텍",
+"second_ret": 0.81
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": -0.28,
+"up5": 0,
+"lead": "피제이전자",
+"lead_ret": 4.31,
+"second": "이랜시스",
+"second_ret": 3.54
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": -0.17,
+"up5": 1,
+"lead": "고려아연",
+"lead_ret": 6.77,
+"second": "조일알미늄",
+"second_ret": 3.05
+}
+],
+"leaders": [
+{
+"name": "셀트리온",
+"code": "068270",
+"ret": 14.51,
+"value": 22329,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "SK이노베이션",
+"code": "096770",
+"ret": 12.86,
+"value": 10581,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "HS효성첨단소재",
+"code": "298050",
+"ret": 21.85,
+"value": 3522,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 29.91,
+"value": 2670,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "일양약품",
+"code": "007570",
+"ret": 15.88,
+"value": 2666,
+"theme": "백신/진단시약/방역(신종플루, AI 등)",
+"reason": "테마: 백신/진단시약/방역(신종플루, AI 등)"
+}
+],
+"backfilled": true
+}

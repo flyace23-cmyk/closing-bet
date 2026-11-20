@@ -1,0 +1,254 @@
+{
+"date": "20220603",
+"kospi": 0.44,
+"kosdaq": 0.04,
+"adv": 1076,
+"dec": 779,
+"flat": 225,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 132241,
+"hot": [
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 6,
+"lead": "서연탑메탈",
+"lead_ret": 30.0,
+"second": "서암기계공업",
+"second_ret": 29.97
+},
+{
+"name": "건설기계",
+"n": 5,
+"lead": "서연탑메탈",
+"lead_ret": 30.0,
+"second": "HD건설기계",
+"second_ret": 17.23
+},
+{
+"name": "철도",
+"n": 4,
+"lead": "서암기계공업",
+"lead_ret": 29.97,
+"second": "우림피티에스",
+"second_ret": 20.19
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": 7.22,
+"up5": 8,
+"lead": "서연탑메탈",
+"lead_ret": 30.0,
+"second": "HD건설기계",
+"second_ret": 17.23
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 38,
+"avg": 4.53,
+"up5": 12,
+"lead": "서연탑메탈",
+"lead_ret": 30.0,
+"second": "서암기계공업",
+"second_ret": 29.97
+},
+{
+"name": "공작기계",
+"n": 13,
+"avg": 3.99,
+"up5": 3,
+"lead": "서암기계공업",
+"lead_ret": 29.97,
+"second": "화천기계",
+"second_ret": 14.51
+},
+{
+"name": "영화",
+"n": 10,
+"avg": 3.2,
+"up5": 2,
+"lead": "아센디오",
+"lead_ret": 11.42,
+"second": "롯데쇼핑",
+"second_ret": 8.12
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 3.16,
+"up5": 1,
+"lead": "롯데쇼핑",
+"lead_ret": 8.12,
+"second": "현대백화점",
+"second_ret": 3.6
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.48,
+"up5": 1,
+"lead": "참좋은여행",
+"lead_ret": 5.86,
+"second": "롯데관광개발",
+"second_ret": 3.41
+},
+{
+"name": "재난/안전(지진/화재 등)",
+"n": 18,
+"avg": 2.34,
+"up5": 3,
+"lead": "한컴라이프케어",
+"lead_ret": 14.29,
+"second": "한국종합기술",
+"second_ret": 8.95
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.31,
+"up5": 5,
+"lead": "서암기계공업",
+"lead_ret": 29.97,
+"second": "우림피티에스",
+"second_ret": 20.19
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 2.3,
+"up5": 4,
+"lead": "서암기계공업",
+"lead_ret": 29.97,
+"second": "우림피티에스",
+"second_ret": 20.19
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 2.19,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 20.19,
+"second": "SK가스",
+"second_ret": 3.44
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.1,
+"up5": 0,
+"lead": "한진칼",
+"lead_ret": 4.82,
+"second": "진에어",
+"second_ret": 4.55
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 2.02,
+"up5": 0,
+"lead": "글로벌텍스프리",
+"lead_ret": 4.51,
+"second": "현대백화점",
+"second_ret": 3.6
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -2.67,
+"up5": 0,
+"lead": "애드바이오텍",
+"lead_ret": 0.75,
+"second": "씨티씨바이오",
+"second_ret": -0.2
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -2.47,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": 0.15,
+"second": "SK하이닉스",
+"second_ret": 0.0
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.0,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": 3.0,
+"second": "삼성전기",
+"second_ret": 0.34
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -1.71,
+"up5": 0,
+"lead": "태경비케이",
+"lead_ret": 0.75,
+"second": "누보",
+"second_ret": -0.69
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.67,
+"up5": 0,
+"lead": "풀무원",
+"lead_ret": 0.33,
+"second": "샘표식품",
+"second_ret": -1.06
+}
+],
+"leaders": [
+{
+"name": "우림피티에스",
+"code": "101170",
+"ret": 20.19,
+"value": 2454,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "서암기계공업",
+"code": "100660",
+"ret": 29.97,
+"value": 1541,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "HD건설기계",
+"code": "267270",
+"ret": 17.23,
+"value": 1236,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "엑스플러스",
+"code": "373200",
+"ret": 12.4,
+"value": 782,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "서연탑메탈",
+"code": "019770",
+"ret": 30.0,
+"value": 759,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

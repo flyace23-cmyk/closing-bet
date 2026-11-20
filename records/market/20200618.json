@@ -1,0 +1,254 @@
+{
+"date": "20200618",
+"kospi": -0.35,
+"kosdaq": 0.26,
+"adv": 964,
+"dec": 796,
+"flat": 156,
+"limit_up": 9,
+"limit_down": 0,
+"value_total": 190011,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 7,
+"lead": "퍼스텍",
+"lead_ret": 29.97,
+"second": "한일단조",
+"second_ret": 29.91
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "한일단조",
+"lead_ret": 29.91,
+"second": "포메탈",
+"second_ret": 21.26
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 3,
+"lead": "퍼스텍",
+"lead_ret": 29.97,
+"second": "포메탈",
+"second_ret": 21.26
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 4.4,
+"up5": 2,
+"lead": "한성기업",
+"lead_ret": 10.69,
+"second": "우양",
+"second_ret": 10.2
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 4.3,
+"up5": 1,
+"lead": "드림씨아이에스",
+"lead_ret": 26.75,
+"second": "JW중외제약",
+"second_ret": 0.86
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 3.96,
+"up5": 2,
+"lead": "천일고속",
+"lead_ret": 11.05,
+"second": "동양고속",
+"second_ret": 7.83
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 50,
+"avg": 3.7,
+"up5": 10,
+"lead": "퍼스텍",
+"lead_ret": 29.97,
+"second": "한일단조",
+"second_ret": 29.91
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 3.66,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 29.37,
+"second": "한국석유",
+"second_ret": 1.48
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 3.08,
+"up5": 4,
+"lead": "퍼스텍",
+"lead_ret": 29.97,
+"second": "휴니드",
+"second_ret": 29.67
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 3.04,
+"up5": 5,
+"lead": "스페코",
+"lead_ret": 29.37,
+"second": "현대엘리베이터",
+"second_ret": 28.07
+},
+{
+"name": "풍력에너지",
+"n": 32,
+"avg": 2.71,
+"up5": 3,
+"lead": "스페코",
+"lead_ret": 29.37,
+"second": "세진중공업",
+"second_ret": 23.79
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 2.44,
+"up5": 2,
+"lead": "경인양행",
+"lead_ret": 13.25,
+"second": "휴비스",
+"second_ret": 5.2
+},
+{
+"name": "농업",
+"n": 21,
+"avg": 2.42,
+"up5": 3,
+"lead": "포메탈",
+"lead_ret": 21.26,
+"second": "대동금속",
+"second_ret": 9.04
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 2.41,
+"up5": 2,
+"lead": "한국앤컴퍼니",
+"lead_ret": 7.66,
+"second": "HS효성첨단소재",
+"second_ret": 6.76
+},
+{
+"name": "철강 주요종목",
+"n": 9,
+"avg": 2.34,
+"up5": 1,
+"lead": "대한제강",
+"lead_ret": 5.29,
+"second": "포스코스틸리온",
+"second_ret": 4.91
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.19,
+"up5": 0,
+"lead": "코콤",
+"lead_ret": 0.95,
+"second": "포커스에이아이",
+"second_ret": 0.74
+},
+{
+"name": "마이크로바이옴",
+"n": 15,
+"avg": -1.66,
+"up5": 0,
+"lead": "종근당바이오",
+"lead_ret": 3.58,
+"second": "쎌바이오텍",
+"second_ret": 0.29
+},
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -1.47,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 3.56,
+"second": "에스티팜",
+"second_ret": -1.02
+},
+{
+"name": "보안주(물리)",
+"n": 12,
+"avg": -1.43,
+"up5": 0,
+"lead": "현대에이치티",
+"lead_ret": 1.24,
+"second": "포커스에이아이",
+"second_ret": 0.74
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.33,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": 0.0,
+"second": "퀀텀레일",
+"second_ret": -0.21
+}
+],
+"leaders": [
+{
+"name": "빅텍",
+"code": "065450",
+"ret": 29.59,
+"value": 5149,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "알서포트",
+"code": "131370",
+"ret": 11.57,
+"value": 3467,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "KG모빌리티",
+"code": "003620",
+"ret": 14.84,
+"value": 2962,
+"theme": "자동차 대표주",
+"reason": "테마: 자동차 대표주"
+},
+{
+"name": "현대엘리베이터",
+"code": "017800",
+"ret": 28.07,
+"value": 2718,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "스페코",
+"code": "013810",
+"ret": 29.37,
+"value": 2582,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20210304",
+"kospi": -1.28,
+"kosdaq": -0.49,
+"adv": 722,
+"dec": 1115,
+"flat": 149,
+"limit_up": 6,
+"limit_down": 2,
+"value_total": 292180,
+"hot": [
+{
+"name": "자동차부품",
+"n": 5,
+"lead": "서연탑메탈",
+"lead_ret": 29.78,
+"second": "서연이화",
+"second_ret": 27.98
+},
+{
+"name": "엔터테인먼트",
+"n": 3,
+"lead": "팬엔터테인먼트",
+"lead_ret": 14.82,
+"second": "KT지니뮤직",
+"second_ret": 14.26
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "글로벌에스엠",
+"lead_ret": 18.91,
+"second": "모베이스전자",
+"second_ret": 16.78
+}
+],
+"themes": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 4.97,
+"up5": 1,
+"lead": "손오공",
+"lead_ret": 29.85,
+"second": "에피소드컴퍼니",
+"second_ret": 4.39
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 3.6,
+"up5": 7,
+"lead": "팬엔터테인먼트",
+"lead_ret": 14.82,
+"second": "KX",
+"second_ret": 11.76
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 2.97,
+"up5": 2,
+"lead": "미래생명자원",
+"lead_ret": 10.82,
+"second": "신송홀딩스",
+"second_ret": 5.76
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 2.6,
+"up5": 6,
+"lead": "팬엔터테인먼트",
+"lead_ret": 14.82,
+"second": "KT지니뮤직",
+"second_ret": 14.26
+},
+{
+"name": "영화",
+"n": 9,
+"avg": 2.58,
+"up5": 2,
+"lead": "NEW",
+"lead_ret": 8.82,
+"second": "콘텐트리중앙",
+"second_ret": 7.71
+},
+{
+"name": "건설기계",
+"n": 14,
+"avg": 2.49,
+"up5": 1,
+"lead": "서연탑메탈",
+"lead_ret": 29.78,
+"second": "대동금속",
+"second_ret": 4.69
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": 2.39,
+"up5": 2,
+"lead": "유에스티",
+"lead_ret": 14.57,
+"second": "티플랙스",
+"second_ret": 8.26
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.23,
+"up5": 1,
+"lead": "GKL",
+"lead_ret": 5.57,
+"second": "강원랜드",
+"second_ret": 4.4
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 2.23,
+"up5": 1,
+"lead": "GKL",
+"lead_ret": 5.57,
+"second": "강원랜드",
+"second_ret": 4.4
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 2.11,
+"up5": 3,
+"lead": "NE능률",
+"lead_ret": 29.93,
+"second": "YBM넷",
+"second_ret": 5.74
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 2.1,
+"up5": 2,
+"lead": "GMI벤처",
+"lead_ret": 17.27,
+"second": "컴퍼니케이",
+"second_ret": 5.23
+},
+{
+"name": "비철금속",
+"n": 22,
+"avg": 2.01,
+"up5": 3,
+"lead": "포스코엠텍",
+"lead_ret": 29.96,
+"second": "티플랙스",
+"second_ret": 8.26
+}
+],
+"themes_worst": [
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -5.74,
+"up5": 0,
+"lead": "효성티앤씨",
+"lead_ret": 2.47,
+"second": "코오롱인더",
+"second_ret": 0.37
+},
+{
+"name": "온디바이스 AI",
+"n": 16,
+"avg": -2.62,
+"up5": 0,
+"lead": "태성",
+"lead_ret": 0.0,
+"second": "대덕전자",
+"second_ret": -0.33
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": -2.46,
+"up5": 0,
+"lead": "시공테크",
+"lead_ret": 0.92,
+"second": "나무가",
+"second_ret": -0.5
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": -2.4,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 0.63,
+"second": "녹십자",
+"second_ret": -0.82
+},
+{
+"name": "마이크로 LED",
+"n": 8,
+"avg": -2.38,
+"up5": 0,
+"lead": "광전자",
+"lead_ret": -0.8,
+"second": "서울반도체",
+"second_ret": -1.51
+}
+],
+"leaders": [
+{
+"name": "서연",
+"code": "007860",
+"ret": 29.95,
+"value": 6338,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "KT지니뮤직",
+"code": "043610",
+"ret": 14.26,
+"value": 3992,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 29.92,
+"value": 3671,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "미래생명자원",
+"code": "218150",
+"ret": 10.82,
+"value": 3413,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+},
+{
+"name": "서연이화",
+"code": "200880",
+"ret": 27.98,
+"value": 2898,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+}
+],
+"backfilled": true
+}

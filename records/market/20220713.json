@@ -1,0 +1,246 @@
+{
+"date": "20220713",
+"kospi": 0.47,
+"kosdaq": 1.65,
+"adv": 1266,
+"dec": 639,
+"flat": 181,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 111775,
+"hot": [
+{
+"name": "2차전지",
+"n": 5,
+"lead": "삼진엘앤디",
+"lead_ret": 10.69,
+"second": "성우하이텍",
+"second_ret": 8.31
+},
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "웹스",
+"lead_ret": 15.1,
+"second": "서연이화",
+"second_ret": 10.99
+}
+],
+"themes": [
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.94,
+"up5": 2,
+"lead": "티앤알바이오팹",
+"lead_ret": 12.45,
+"second": "드림씨아이에스",
+"second_ret": 9.66
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.55,
+"up5": 1,
+"lead": "데브시스터즈",
+"lead_ret": 10.28,
+"second": "대원미디어",
+"second_ret": 4.27
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.25,
+"up5": 2,
+"lead": "제주항공",
+"lead_ret": 6.62,
+"second": "진에어",
+"second_ret": 6.06
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 3.23,
+"up5": 4,
+"lead": "넵튠",
+"lead_ret": 29.78,
+"second": "위메이드",
+"second_ret": 6.1
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 3.0,
+"up5": 1,
+"lead": "현대위아",
+"lead_ret": 7.73,
+"second": "HL만도",
+"second_ret": 3.22
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": 3.0,
+"up5": 2,
+"lead": "디앤씨미디어",
+"lead_ret": 10.14,
+"second": "엔비티",
+"second_ret": 6.16
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.89,
+"up5": 4,
+"lead": "갤럭시아머니트리",
+"lead_ret": 11.06,
+"second": "에이스토리",
+"second_ret": 7.05
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 2.82,
+"up5": 1,
+"lead": "우성머티리얼스",
+"lead_ret": 9.0,
+"second": "코오롱인더",
+"second_ret": 3.7
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 2.79,
+"up5": 6,
+"lead": "넵튠",
+"lead_ret": 29.78,
+"second": "데브시스터즈",
+"second_ret": 10.28
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 2.51,
+"up5": 2,
+"lead": "KT지니뮤직",
+"lead_ret": 6.98,
+"second": "CJ ENM",
+"second_ret": 6.93
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": 2.44,
+"up5": 1,
+"lead": "갤럭시아머니트리",
+"lead_ret": 11.06,
+"second": "SOOP",
+"second_ret": 4.04
+},
+{
+"name": "엔터테인먼트",
+"n": 28,
+"avg": 2.37,
+"up5": 2,
+"lead": "KT지니뮤직",
+"lead_ret": 6.98,
+"second": "CJ ENM",
+"second_ret": 6.93
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 7,
+"avg": -2.82,
+"up5": 0,
+"lead": "인콘",
+"lead_ret": 1.0,
+"second": "포커스에이아이",
+"second_ret": 0.63
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -2.03,
+"up5": 0,
+"lead": "위드텍",
+"lead_ret": 1.01,
+"second": "에스앤더블류",
+"second_ret": 0.0
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -1.93,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": 0.56,
+"second": "HJ중공업",
+"second_ret": -1.19
+},
+{
+"name": "전력설비",
+"n": 31,
+"avg": -1.88,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 2.41,
+"second": "LS에코에너지",
+"second_ret": 1.79
+},
+{
+"name": "원자력발전",
+"n": 44,
+"avg": -1.7,
+"up5": 0,
+"lead": "디티앤씨",
+"lead_ret": 2.31,
+"second": "신화프리텍",
+"second_ret": 1.31
+}
+],
+"leaders": [
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 15.29,
+"value": 2882,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "네오이뮨텍",
+"code": "950220",
+"ret": 20.33,
+"value": 1117,
+"theme": "면역항암제",
+"reason": "테마: 면역항암제"
+},
+{
+"name": "포스코엠텍",
+"code": "009520",
+"ret": 13.12,
+"value": 812,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "웹스",
+"code": "196700",
+"ret": 15.1,
+"value": 434,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "데브시스터즈",
+"code": "194480",
+"ret": 10.28,
+"value": 280,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

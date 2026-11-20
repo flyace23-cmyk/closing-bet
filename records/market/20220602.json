@@ -1,0 +1,254 @@
+{
+"date": "20220602",
+"kospi": -1.0,
+"kosdaq": -0.25,
+"adv": 769,
+"dec": 1097,
+"flat": 214,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 133275,
+"hot": [
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "휴림로봇",
+"second_ret": 24.87
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "이녹스",
+"lead_ret": 27.96,
+"second": "제일파마홀딩스",
+"second_ret": 26.69
+},
+{
+"name": "치매",
+"n": 3,
+"lead": "퀀타매트릭스",
+"lead_ret": 20.57,
+"second": "큐라클",
+"second_ret": 6.12
+}
+],
+"themes": [
+{
+"name": "3D 프린터",
+"n": 9,
+"avg": 3.66,
+"up5": 2,
+"lead": "휴림로봇",
+"lead_ret": 24.87,
+"second": "스맥",
+"second_ret": 5.07
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.11,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "비에이치아이",
+"second_ret": 3.99
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 2.68,
+"up5": 1,
+"lead": "제일약품",
+"lead_ret": 14.75,
+"second": "파미셀",
+"second_ret": 0.64
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 57,
+"avg": 2.57,
+"up5": 8,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "휴림로봇",
+"second_ret": 24.87
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 28,
+"avg": 1.87,
+"up5": 4,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "아이엘",
+"second_ret": 12.14
+},
+{
+"name": "그래핀",
+"n": 13,
+"avg": 1.73,
+"up5": 2,
+"lead": "오리엔트정공",
+"lead_ret": 11.56,
+"second": "아이텍",
+"second_ret": 6.25
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 32,
+"avg": 1.7,
+"up5": 5,
+"lead": "휴림로봇",
+"lead_ret": 24.87,
+"second": "비엠티",
+"second_ret": 5.67
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.57,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "TYM",
+"second_ret": 3.44
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 1.23,
+"up5": 1,
+"lead": "아센디오",
+"lead_ret": 6.72,
+"second": "비츠로테크",
+"second_ret": 4.49
+},
+{
+"name": "풍력에너지",
+"n": 33,
+"avg": 1.16,
+"up5": 2,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "씨에스베어링",
+"second_ret": 7.04
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 1.13,
+"up5": 1,
+"lead": "우림피티에스",
+"lead_ret": 29.86,
+"second": "비츠로테크",
+"second_ret": 4.49
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 28,
+"avg": 1.11,
+"up5": 1,
+"lead": "쎄트렉아이",
+"lead_ret": 5.21,
+"second": "비츠로테크",
+"second_ret": 4.49
+}
+],
+"themes_worst": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -2.7,
+"up5": 0,
+"lead": "제주항공",
+"lead_ret": -0.23,
+"second": "대한항공",
+"second_ret": -0.34
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.39,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": -1.37,
+"second": "삼성물산",
+"second_ret": -1.65
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 13,
+"avg": -2.21,
+"up5": 0,
+"lead": "덕산하이메탈",
+"lead_ret": 1.71,
+"second": "LG이노텍",
+"second_ret": 1.04
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -2.1,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": -0.59,
+"second": "광주신세계",
+"second_ret": -0.83
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.03,
+"up5": 0,
+"lead": "컬러레이",
+"lead_ret": 1.49,
+"second": "크리스탈신소재",
+"second_ret": 0.42
+}
+],
+"leaders": [
+{
+"name": "휴림로봇",
+"code": "090710",
+"ret": 24.87,
+"value": 8920,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "우림피티에스",
+"code": "101170",
+"ret": 29.86,
+"value": 1607,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "해성에어로보틱스",
+"code": "059270",
+"ret": 16.21,
+"value": 814,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "이녹스",
+"code": "088390",
+"ret": 27.96,
+"value": 575,
+"theme": "지주사",
+"reason": "테마: 지주사"
+},
+{
+"name": "부방",
+"code": "014470",
+"ret": 11.2,
+"value": 575,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

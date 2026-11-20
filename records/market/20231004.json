@@ -1,0 +1,254 @@
+{
+"date": "20231004",
+"kospi": -2.41,
+"kosdaq": -4.0,
+"adv": 185,
+"dec": 1955,
+"flat": 53,
+"limit_up": 4,
+"limit_down": 1,
+"value_total": 159721,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "파두",
+"lead_ret": 7.32,
+"second": "이미지스",
+"second_ret": 5.25
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "고영",
+"lead_ret": 4.68,
+"second": "HPSP",
+"second_ret": 4.48
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 3,
+"lead": "로지시스",
+"lead_ret": 29.98,
+"second": "한네트",
+"second_ret": 28.0
+}
+],
+"themes": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": 5.18,
+"up5": 2,
+"lead": "로지시스",
+"lead_ret": 29.98,
+"second": "한네트",
+"second_ret": 28.0
+},
+{
+"name": "마이데이터",
+"n": 11,
+"avg": 0.03,
+"up5": 1,
+"lead": "세종텔레콤",
+"lead_ret": 30.15,
+"second": "쿠콘",
+"second_ret": 0.61
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": -0.6,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 1.23,
+"second": "DB손해보험",
+"second_ret": 0.22
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": -0.69,
+"up5": 1,
+"lead": "신성델타테크",
+"lead_ret": 15.99,
+"second": "서남",
+"second_ret": 3.24
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": -0.86,
+"up5": 1,
+"lead": "태영건설",
+"lead_ret": 5.93,
+"second": "폴라리스AI",
+"second_ret": 4.3
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": -0.93,
+"up5": 0,
+"lead": "삼성생명",
+"lead_ret": 2.28,
+"second": "SK하이닉스",
+"second_ret": 0.61
+},
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -1.1,
+"up5": 0,
+"lead": "신송홀딩스",
+"lead_ret": 3.56,
+"second": "샘표식품",
+"second_ret": 0.51
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -1.21,
+"up5": 0,
+"lead": "유한양행",
+"lead_ret": 4.22,
+"second": "서울제약",
+"second_ret": -1.1
+},
+{
+"name": "골프",
+"n": 14,
+"avg": -1.36,
+"up5": 0,
+"lead": "KX",
+"lead_ret": 1.67,
+"second": "베뉴지",
+"second_ret": 0.74
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.41,
+"up5": 2,
+"lead": "엑세스바이오",
+"lead_ret": 7.03,
+"second": "위더스제약",
+"second_ret": 6.89
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -1.46,
+"up5": 1,
+"lead": "태영건설",
+"lead_ret": 5.93,
+"second": "서한",
+"second_ret": 0.33
+},
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": -1.46,
+"up5": 0,
+"lead": "대성창투",
+"lead_ret": 1.06,
+"second": "메가엠디",
+"second_ret": 0.61
+}
+],
+"themes_worst": [
+{
+"name": "의료AI",
+"n": 22,
+"avg": -8.42,
+"up5": 0,
+"lead": "셀바스헬스케어",
+"lead_ret": -2.58,
+"second": "이지케어텍",
+"second_ret": -2.99
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -6.26,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -2.38,
+"second": "코텍",
+"second_ret": -3.94
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": -6.26,
+"up5": 0,
+"lead": "강원랜드",
+"lead_ret": -2.38,
+"second": "코텍",
+"second_ret": -3.94
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -6.19,
+"up5": 0,
+"lead": "한울앤제주",
+"lead_ret": -0.39,
+"second": "풀무원",
+"second_ret": -1.54
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -6.05,
+"up5": 0,
+"lead": "한국정보통신",
+"lead_ret": -2.28,
+"second": "HDC",
+"second_ret": -2.37
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 15.99,
+"value": 3449,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "한네트",
+"code": "052600",
+"ret": 28.0,
+"value": 692,
+"theme": "화폐/금융자동화기기(디지털화폐 등)",
+"reason": "테마: 화폐/금융자동화기기(디지털화폐 등)"
+},
+{
+"name": "세종텔레콤",
+"code": "036630",
+"ret": 30.15,
+"value": 255,
+"theme": "마이데이터",
+"reason": "테마: 마이데이터"
+},
+{
+"name": "디와이에이",
+"code": "002880",
+"ret": 29.86,
+"value": 150,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "로지시스",
+"code": "067730",
+"ret": 29.98,
+"value": 139,
+"theme": "화폐/금융자동화기기(디지털화폐 등)",
+"reason": "테마: 화폐/금융자동화기기(디지털화폐 등)"
+}
+],
+"backfilled": true
+}

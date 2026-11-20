@@ -1,0 +1,254 @@
+{
+"date": "20251001",
+"kospi": 0.91,
+"kosdaq": 0.4,
+"adv": 1024,
+"dec": 1196,
+"flat": 160,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 172249,
+"hot": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 5,
+"lead": "심텍홀딩스",
+"lead_ret": 18.55,
+"second": "티엘비",
+"second_ret": 13.98
+},
+{
+"name": "반도체 장비",
+"n": 5,
+"lead": "디아이",
+"lead_ret": 23.58,
+"second": "코세스",
+"second_ret": 13.1
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "해성디에스",
+"lead_ret": 15.58,
+"second": "티이엠씨",
+"second_ret": 13.39
+}
+],
+"themes": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 4.92,
+"up5": 6,
+"lead": "심텍홀딩스",
+"lead_ret": 18.55,
+"second": "티엘비",
+"second_ret": 13.98
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 4.79,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 13.98,
+"second": "심텍",
+"second_ret": 10.26
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.63,
+"up5": 2,
+"lead": "네패스아크",
+"lead_ret": 8.27,
+"second": "에이직랜드",
+"second_ret": 5.07
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.3,
+"up5": 3,
+"lead": "티엘비",
+"lead_ret": 13.98,
+"second": "퀄리타스반도체",
+"second_ret": 7.86
+},
+{
+"name": "온디바이스 AI",
+"n": 23,
+"avg": 3.26,
+"up5": 7,
+"lead": "심텍",
+"lead_ret": 10.26,
+"second": "네패스아크",
+"second_ret": 8.27
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 2.76,
+"up5": 2,
+"lead": "오가노이드사이언스",
+"lead_ret": 9.1,
+"second": "토모큐브",
+"second_ret": 8.02
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 14,
+"avg": 2.49,
+"up5": 2,
+"lead": "한국피아이엠",
+"lead_ret": 29.94,
+"second": "나이벡",
+"second_ret": 10.28
+},
+{
+"name": "조선기자재",
+"n": 35,
+"avg": 2.45,
+"up5": 6,
+"lead": "KS인더스트리",
+"lead_ret": 30.03,
+"second": "한화엔진",
+"second_ret": 10.36
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 2.43,
+"up5": 5,
+"lead": "디아이",
+"lead_ret": 23.58,
+"second": "고영",
+"second_ret": 7.27
+},
+{
+"name": "반도체 재료/부품",
+"n": 70,
+"avg": 2.4,
+"up5": 9,
+"lead": "해성디에스",
+"lead_ret": 15.58,
+"second": "티이엠씨",
+"second_ret": 13.39
+},
+{
+"name": "시스템반도체",
+"n": 56,
+"avg": 2.32,
+"up5": 11,
+"lead": "디아이",
+"lead_ret": 23.58,
+"second": "하나마이크론",
+"second_ret": 8.58
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 2.18,
+"up5": 4,
+"lead": "켐트로닉스",
+"lead_ret": 15.3,
+"second": "기가비스",
+"second_ret": 13.02
+}
+],
+"themes_worst": [
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -2.53,
+"up5": 0,
+"lead": "아이티센피엔에스",
+"lead_ret": 1.08,
+"second": "위메이드",
+"second_ret": 0.56
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": -2.48,
+"up5": 0,
+"lead": "코나아이",
+"lead_ret": -0.1,
+"second": "유라클",
+"second_ret": -1.51
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": -2.22,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 0.69,
+"second": "코리아에셋투자증권",
+"second_ret": 0.42
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -2.2,
+"up5": 0,
+"lead": "엔비티",
+"lead_ret": -0.46,
+"second": "이월드",
+"second_ret": -0.67
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": -2.18,
+"up5": 0,
+"lead": "글로벌텍스프리",
+"lead_ret": -0.34,
+"second": "HDC",
+"second_ret": -1.49
+}
+],
+"leaders": [
+{
+"name": "한화엔진",
+"code": "082740",
+"ret": 10.36,
+"value": 4264,
+"theme": "LNG(액화천연가스)",
+"reason": "테마: LNG(액화천연가스)"
+},
+{
+"name": "디아이",
+"code": "003160",
+"ret": 23.58,
+"value": 3398,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "켐트로닉스",
+"code": "089010",
+"ret": 15.3,
+"value": 2405,
+"theme": "무선충전기술",
+"reason": "테마: 무선충전기술"
+},
+{
+"name": "온코닉테라퓨틱스",
+"code": "476060",
+"ret": 23.69,
+"value": 2039,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "한국피아이엠",
+"code": "448900",
+"ret": 29.94,
+"value": 1113,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+}
+],
+"backfilled": true
+}

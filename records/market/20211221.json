@@ -1,0 +1,254 @@
+{
+"date": "20211221",
+"kospi": 0.41,
+"kosdaq": 0.61,
+"adv": 941,
+"dec": 913,
+"flat": 204,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 207242,
+"hot": [
+{
+"name": "모바일게임(스마트폰)",
+"n": 6,
+"lead": "넵튠",
+"lead_ret": 19.91,
+"second": "위메이드맥스",
+"second_ret": 13.67
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 4,
+"lead": "에스피시스템스",
+"lead_ret": 29.88,
+"second": "에브리봇",
+"second_ret": 12.69
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "로보로보",
+"lead_ret": 18.45,
+"second": "에브리봇",
+"second_ret": 12.69
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 9,
+"avg": 4.15,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.91,
+"second": "비나텍",
+"second_ret": 3.28
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 3.81,
+"up5": 2,
+"lead": "아모센스",
+"lead_ret": 29.91,
+"second": "LG이노텍",
+"second_ret": 5.84
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": 3.19,
+"up5": 8,
+"lead": "넵튠",
+"lead_ret": 19.91,
+"second": "위메이드맥스",
+"second_ret": 13.67
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 2.98,
+"up5": 7,
+"lead": "컴투스홀딩스",
+"lead_ret": 9.64,
+"second": "아톤",
+"second_ret": 7.86
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 24,
+"avg": 2.92,
+"up5": 5,
+"lead": "피에스케이홀딩스",
+"lead_ret": 9.23,
+"second": "윈팩",
+"second_ret": 9.13
+},
+{
+"name": "폐배터리",
+"n": 15,
+"avg": 2.83,
+"up5": 3,
+"lead": "NPC",
+"lead_ret": 29.9,
+"second": "웰크론한텍",
+"second_ret": 7.01
+},
+{
+"name": "게임",
+"n": 28,
+"avg": 2.77,
+"up5": 4,
+"lead": "넵튠",
+"lead_ret": 19.91,
+"second": "위메이드맥스",
+"second_ret": 13.67
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": 2.68,
+"up5": 1,
+"lead": "ISC",
+"lead_ret": 6.88,
+"second": "SK하이닉스",
+"second_ret": 3.32
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": 2.67,
+"up5": 1,
+"lead": "대구백화점",
+"lead_ret": 11.22,
+"second": "광주신세계",
+"second_ret": 1.42
+},
+{
+"name": "스마트팩토리(스마트공장)",
+"n": 31,
+"avg": 2.66,
+"up5": 5,
+"lead": "에스피시스템스",
+"lead_ret": 29.88,
+"second": "LS티라유텍",
+"second_ret": 10.72
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 55,
+"avg": 2.55,
+"up5": 11,
+"lead": "에스피시스템스",
+"lead_ret": 29.88,
+"second": "에브리봇",
+"second_ret": 12.69
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 24,
+"avg": 2.53,
+"up5": 5,
+"lead": "네오위즈홀딩스",
+"lead_ret": 10.42,
+"second": "컴투스홀딩스",
+"second_ret": 9.64
+}
+],
+"themes_worst": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -4.39,
+"up5": 0,
+"lead": "오텍",
+"lead_ret": -2.22,
+"second": "신성이엔지",
+"second_ret": -2.39
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": -3.81,
+"up5": 0,
+"lead": "케어젠",
+"lead_ret": 3.38,
+"second": "펩트론",
+"second_ret": 1.87
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -2.87,
+"up5": 0,
+"lead": "엑세스바이오",
+"lead_ret": 1.27,
+"second": "DXVX",
+"second_ret": 0.0
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": -2.33,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": 2.6,
+"second": "메디톡스",
+"second_ret": 0.54
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -2.21,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.58,
+"second": "강스템바이오텍",
+"second_ret": -0.63
+}
+],
+"leaders": [
+{
+"name": "동진쎄미켐",
+"code": "005290",
+"ret": 18.22,
+"value": 8613,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "NPC",
+"code": "004250",
+"ret": 29.9,
+"value": 4210,
+"theme": "폐배터리",
+"reason": "테마: 폐배터리"
+},
+{
+"name": "아모센스",
+"code": "357580",
+"ret": 29.91,
+"value": 1903,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "로보로보",
+"code": "215100",
+"ret": 18.45,
+"value": 1457,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "넵튠",
+"code": "217270",
+"ret": 19.91,
+"value": 1423,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+}
+],
+"backfilled": true
+}

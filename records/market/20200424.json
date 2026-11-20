@@ -1,0 +1,254 @@
+{
+"date": "20200424",
+"kospi": -1.34,
+"kosdaq": -1.68,
+"adv": 315,
+"dec": 1469,
+"flat": 126,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 291631,
+"hot": [
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 6,
+"lead": "STX엔진",
+"lead_ret": 29.93,
+"second": "스페코",
+"second_ret": 25.65
+},
+{
+"name": "조선기자재",
+"n": 4,
+"lead": "STX엔진",
+"lead_ret": 29.93,
+"second": "HD현대마린엔진",
+"second_ret": 16.85
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 4,
+"lead": "대웅",
+"lead_ret": 17.7,
+"second": "랩지노믹스",
+"second_ret": 15.69
+}
+],
+"themes": [
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 18,
+"avg": 2.12,
+"up5": 3,
+"lead": "에이프로젠",
+"lead_ret": 29.96,
+"second": "에이프로젠바이오로직스",
+"second_ret": 29.71
+},
+{
+"name": "방위산업/전쟁 및 테러",
+"n": 50,
+"avg": 1.81,
+"up5": 13,
+"lead": "STX엔진",
+"lead_ret": 29.93,
+"second": "스페코",
+"second_ret": 25.65
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": 1.52,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 18.25,
+"second": "이스트소프트",
+"second_ret": 1.55
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": 1.34,
+"up5": 5,
+"lead": "휴니드",
+"lead_ret": 13.5,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 8.92
+},
+{
+"name": "의료AI",
+"n": 10,
+"avg": 1.17,
+"up5": 2,
+"lead": "랩지노믹스",
+"lead_ret": 15.69,
+"second": "메디아나",
+"second_ret": 8.23
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 1.12,
+"up5": 4,
+"lead": "STX엔진",
+"lead_ret": 29.93,
+"second": "HD현대마린엔진",
+"second_ret": 16.85
+},
+{
+"name": "마이데이터",
+"n": 8,
+"avg": 0.96,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 18.25,
+"second": "NICE평가정보",
+"second_ret": 3.55
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 25,
+"avg": 0.91,
+"up5": 6,
+"lead": "퍼스텍",
+"lead_ret": 12.5,
+"second": "LIG디펜스앤에어로스페이스",
+"second_ret": 8.92
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 0.66,
+"up5": 6,
+"lead": "휴니드",
+"lead_ret": 13.5,
+"second": "퍼스텍",
+"second_ret": 12.5
+},
+{
+"name": "재택근무/스마트워크",
+"n": 14,
+"avg": 0.59,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 18.25,
+"second": "폴라리스오피스",
+"second_ret": 2.91
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 0.58,
+"up5": 1,
+"lead": "스페코",
+"lead_ret": 25.65,
+"second": "HC보광산업",
+"second_ret": -1.23
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.31,
+"up5": 0,
+"lead": "서울가스",
+"lead_ret": 2.78,
+"second": "경동도시가스",
+"second_ret": 2.02
+}
+],
+"themes_worst": [
+{
+"name": "모더나(MODERNA)",
+"n": 5,
+"avg": -5.42,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 0.33,
+"second": "삼성바이오로직스",
+"second_ret": -1.66
+},
+{
+"name": "퓨리오사AI",
+"n": 5,
+"avg": -4.06,
+"up5": 0,
+"lead": "팬스타엔터프라이즈",
+"lead_ret": -1.31,
+"second": "엑스페릭스",
+"second_ret": -2.81
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": -3.99,
+"up5": 0,
+"lead": "대한약품",
+"lead_ret": -0.34,
+"second": "유한양행",
+"second_ret": -1.37
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": -3.75,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": -1.66,
+"second": "강스템바이오텍",
+"second_ret": -1.91
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": -3.65,
+"up5": 0,
+"lead": "메타케어",
+"lead_ret": 2.96,
+"second": "차바이오텍",
+"second_ret": -1.16
+}
+],
+"leaders": [
+{
+"name": "대웅",
+"code": "003090",
+"ret": 17.7,
+"value": 3680,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "랩지노믹스",
+"code": "084650",
+"ret": 15.69,
+"value": 2045,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "바이넥스",
+"code": "053030",
+"ret": 14.08,
+"value": 1994,
+"theme": "바이오시밀러(복제 바이오의약품)",
+"reason": "테마: 바이오시밀러(복제 바이오의약품)"
+},
+{
+"name": "에이프로젠바이오로직스",
+"code": "003060",
+"ret": 29.71,
+"value": 1743,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "스페코",
+"code": "013810",
+"ret": 25.65,
+"value": 1609,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+}
+],
+"backfilled": true
+}

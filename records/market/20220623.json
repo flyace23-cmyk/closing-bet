@@ -1,0 +1,238 @@
+{
+"date": "20220623",
+"kospi": -1.22,
+"kosdaq": -4.36,
+"adv": 136,
+"dec": 1872,
+"flat": 74,
+"limit_up": 0,
+"limit_down": 2,
+"value_total": 165150,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "고영",
+"lead_ret": 6.18,
+"second": "엠아이텍",
+"second_ret": 4.85
+},
+{
+"name": "음식료업종",
+"n": 3,
+"lead": "팜스빌",
+"lead_ret": 7.14,
+"second": "CJ제일제당",
+"second_ret": 3.1
+}
+],
+"themes": [
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": -0.15,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 15.65,
+"second": "두산에너빌리티",
+"second_ret": 5.3
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -0.69,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 1.26,
+"second": "삼성전자",
+"second_ret": -0.35
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.92,
+"up5": 0,
+"lead": "기아",
+"lead_ret": 1.05,
+"second": "KG모빌리티",
+"second_ret": 0.0
+},
+{
+"name": "항공기부품",
+"n": 14,
+"avg": -1.23,
+"up5": 2,
+"lead": "오르비텍",
+"lead_ret": 15.65,
+"second": "두산에너빌리티",
+"second_ret": 5.3
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -1.26,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 9.44,
+"second": "휴젤",
+"second_ret": 0.86
+},
+{
+"name": "백화점",
+"n": 5,
+"avg": -1.31,
+"up5": 0,
+"lead": "롯데쇼핑",
+"lead_ret": -0.3,
+"second": "현대백화점",
+"second_ret": -0.42
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 20,
+"avg": -1.32,
+"up5": 1,
+"lead": "와이투솔루션",
+"lead_ret": 25.2,
+"second": "아이엘",
+"second_ret": 4.64
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.33,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 4.93,
+"second": "효성티앤씨",
+"second_ret": -0.89
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 8,
+"avg": -1.4,
+"up5": 0,
+"lead": "심텍",
+"lead_ret": 0.71,
+"second": "삼성전자",
+"second_ret": -0.35
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.52,
+"up5": 0,
+"lead": "롯데지주",
+"lead_ret": -0.27,
+"second": "이마트",
+"second_ret": -0.5
+},
+{
+"name": "소매유통",
+"n": 16,
+"avg": -1.55,
+"up5": 1,
+"lead": "청담글로벌",
+"lead_ret": 9.44,
+"second": "롯데쇼핑",
+"second_ret": -0.3
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 97,
+"avg": -1.64,
+"up5": 0,
+"lead": "HD현대일렉트릭",
+"lead_ret": 3.6,
+"second": "SK텔레콤",
+"second_ret": 3.08
+}
+],
+"themes_worst": [
+{
+"name": "사료",
+"n": 17,
+"avg": -11.2,
+"up5": 0,
+"lead": "씨티씨바이오",
+"lead_ret": -3.37,
+"second": "애드바이오텍",
+"second_ret": -4.71
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": -9.16,
+"up5": 0,
+"lead": "삼양패키징",
+"lead_ret": -4.09,
+"second": "씨티케이",
+"second_ret": -6.13
+},
+{
+"name": "마켓컬리(kurly)",
+"n": 10,
+"avg": -8.46,
+"up5": 0,
+"lead": "SK네트웍스",
+"lead_ret": -1.33,
+"second": "미래에셋벤처투자",
+"second_ret": -4.13
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -8.42,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": -1.99,
+"second": "NH농우바이오",
+"second_ret": -3.2
+},
+{
+"name": "농업",
+"n": 22,
+"avg": -8.34,
+"up5": 0,
+"lead": "포메탈",
+"lead_ret": -1.55,
+"second": "롯데정밀화학",
+"second_ret": -1.99
+}
+],
+"leaders": [
+{
+"name": "고려신용정보",
+"code": "049720",
+"ret": 10.65,
+"value": 1217,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "오르비텍",
+"code": "046120",
+"ret": 15.65,
+"value": 1060,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "와이투솔루션",
+"code": "011690",
+"ret": 25.2,
+"value": 221,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "한일화학",
+"code": "007770",
+"ret": 10.26,
+"value": 131,
+"theme": "페라이트",
+"reason": "테마: 페라이트"
+}
+],
+"backfilled": true
+}

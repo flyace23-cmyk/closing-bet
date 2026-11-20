@@ -1,0 +1,254 @@
+{
+"date": "20200804",
+"kospi": 1.29,
+"kosdaq": 0.94,
+"adv": 1258,
+"dec": 503,
+"flat": 167,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 266695,
+"hot": [
+{
+"name": "제약업체",
+"n": 6,
+"lead": "하나제약",
+"lead_ret": 29.98,
+"second": "종근당",
+"second_ret": 29.96
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "종근당",
+"lead_ret": 29.96,
+"second": "얼라인드",
+"second_ret": 29.82
+},
+{
+"name": "치매",
+"n": 4,
+"lead": "종근당",
+"lead_ret": 29.96,
+"second": "화일약품",
+"second_ret": 17.21
+}
+],
+"themes": [
+{
+"name": "요소수",
+"n": 5,
+"avg": 5.82,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 16.55,
+"second": "롯데정밀화학",
+"second_ret": 10.42
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 5.67,
+"up5": 4,
+"lead": "팜젠사이언스",
+"lead_ret": 29.75,
+"second": "경동제약",
+"second_ret": 12.3
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 4.9,
+"up5": 6,
+"lead": "풍전약품",
+"lead_ret": 13.79,
+"second": "안트로젠",
+"second_ret": 8.9
+},
+{
+"name": "제약업체",
+"n": 78,
+"avg": 4.37,
+"up5": 24,
+"lead": "하나제약",
+"lead_ret": 29.98,
+"second": "종근당",
+"second_ret": 29.96
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 4.2,
+"up5": 8,
+"lead": "미래에셋증권",
+"lead_ret": 6.49,
+"second": "다올투자증권",
+"second_ret": 6.11
+},
+{
+"name": "치매",
+"n": 40,
+"avg": 4.17,
+"up5": 15,
+"lead": "종근당",
+"lead_ret": 29.96,
+"second": "화일약품",
+"second_ret": 17.21
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 4.07,
+"up5": 1,
+"lead": "차바이오텍",
+"lead_ret": 7.18,
+"second": "강스템바이오텍",
+"second_ret": 4.83
+},
+{
+"name": "건설 대표주",
+"n": 5,
+"avg": 4.03,
+"up5": 2,
+"lead": "GS건설",
+"lead_ret": 6.6,
+"second": "대우건설",
+"second_ret": 5.03
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 3.95,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 21.29,
+"second": "오로라",
+"second_ret": 2.66
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.86,
+"up5": 3,
+"lead": "에이티넘인베스트",
+"lead_ret": 15.12,
+"second": "DSC인베스트먼트",
+"second_ret": 7.09
+},
+{
+"name": "백신/진단시약/방역(신종플루, AI 등)",
+"n": 36,
+"avg": 3.67,
+"up5": 9,
+"lead": "종근당",
+"lead_ret": 29.96,
+"second": "화일약품",
+"second_ret": 17.21
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 3.61,
+"up5": 4,
+"lead": "에이티넘인베스트",
+"lead_ret": 15.12,
+"second": "DSC인베스트먼트",
+"second_ret": 7.09
+}
+],
+"themes_worst": [
+{
+"name": "여행",
+"n": 9,
+"avg": -1.79,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 0.72,
+"second": "참좋은여행",
+"second_ret": 0.71
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 6,
+"avg": -1.53,
+"up5": 0,
+"lead": "플랜티넷",
+"lead_ret": 1.27,
+"second": "라온시큐어",
+"second_ret": 0.66
+},
+{
+"name": "가상현실(VR)",
+"n": 20,
+"avg": -0.99,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 5.27,
+"second": "에스넷",
+"second_ret": 1.72
+},
+{
+"name": "바이오인식(생체인식)",
+"n": 17,
+"avg": -0.72,
+"up5": 0,
+"lead": "시큐브",
+"lead_ret": 3.02,
+"second": "유니온바이오메트릭스",
+"second_ret": 2.0
+},
+{
+"name": "온디바이스 AI",
+"n": 15,
+"avg": -0.5,
+"up5": 0,
+"lead": "심텍",
+"lead_ret": 3.95,
+"second": "에이디테크놀로지",
+"second_ret": 2.89
+}
+],
+"leaders": [
+{
+"name": "종근당",
+"code": "185750",
+"ret": 29.96,
+"value": 3554,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "한미사이언스",
+"code": "008930",
+"ret": 10.75,
+"value": 3407,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "SK케미칼",
+"code": "285130",
+"ret": 11.32,
+"value": 3234,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "화일약품",
+"code": "061250",
+"ret": 17.21,
+"value": 2865,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "에이비엘바이오",
+"code": "298380",
+"ret": 14.55,
+"value": 2540,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

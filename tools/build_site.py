@@ -640,7 +640,7 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
 .pbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:6px 0;border-bottom:1px solid var(--line)}
 .pnavs{display:flex;gap:8px;margin-top:4px}.pnav{flex:1;min-height:40px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:600 15px "Noto Sans KR",sans-serif}
-.pnav:disabled{opacity:.4}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.custom input{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.pnav:disabled{opacity:.4}.custom[hidden]{display:none!important}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.custom input{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
 h2.plabel{border-top:0;margin-top:16px}
 .heat{overflow-x:auto}.hm,.hg{display:flex;gap:3px}.hm span{width:14px;flex:none;font-size:11px;color:var(--mute);white-space:nowrap}
 .hc{display:flex;flex-direction:column;gap:3px}.hc a,.hc i{width:14px;height:14px;border-radius:3px;display:block;background:var(--panel)}.hc i{opacity:.35}.hc i.x{opacity:0}#mapp .kpis div:first-child{grid-column:auto}
@@ -750,9 +750,12 @@ def day_page(d, t, fm, lead, vi):
     return page(fmt_d(d) + " 알림", f"알림 {len(ms)}개", body, depth=1)
 
 
+HAS_D = set()
+
+
 def market_page_day(d, lead):
     mk = market(d) or {}
-    body = f'<nav class="tabs"><a href="../d/{d}.html">이날 알림</a><a href="../w/{monday(d)}.html">이번 주 복기</a></nav>'
+    body = '<nav class="tabs">' + (f'<a href="../d/{d}.html">이날 알림</a>' if d in HAS_D or d >= "20261102" else "") + f'<a href="../w/{monday(d)}.html">그 주 복기</a><a href="../market.html">대장주 달력</a></nav>'
     if mk:
         k = [(num(mk.get("kospi")), "코스피"), (num(mk.get("kosdaq")), "코스닥"),
              (f'<span class="up">{mk.get("adv", 0):,}</span> <small>/</small> <span class="dn">{mk.get("dec", 0):,}</span>', "오른 종목 / 내린 종목"),
@@ -766,7 +769,7 @@ def market_page_day(d, lead):
         rows = [[chip(x["name"], False), num(x["avg"]), str(x["n"]), E(x["lead"]), num(x["lead_ret"], 1)] for x in mk.get("themes_worst", [])]
         body += "<h3>많이 내린 테마</h3>" + wide(["테마", "평균", "종목 수", "그나마 강한 종목", "등락"], rows, right=(1, 2, 4))
     else:
-        body += '<p class="empty">이날 지수·테마 기록 없음 (11/20부터 저장)</p>'
+        body += '<p class="empty">이날 지수·테마 기록 없음</p>'
     body += '<h2>대장주</h2><p class="sub">+10% 이상·거래대금 100억 이상, 거래대금 순. 이름 앞 색 막대가 테마 색이에요.</p>' + leaders_table(lead, d, mk)
     return page(fmt_d(d) + " 시장", "코스피·코스닥, 테마, 대장주", body, depth=1)
 
@@ -863,8 +866,37 @@ function themeFlow(rows, r) {
   return `<h3>테마 흐름 (${byMonth ? '달' : '주'}별 1등 횟수)</h3><p class="sub">어느 테마가 언제 시장을 이끌었고 언제 바뀌었는지 보여요. 색이 진할수록 그 ${byMonth ? '달' : '주'}에 1등을 많이 한 테마예요.</p>`
     + `<div class="scroll"><table class="wide flow"><thead><tr><th>테마</th>${head}<th class="r">합계</th></tr></thead><tbody>${body}</tbody></table></div>`;
 }
+const IX = JSON.parse(document.getElementById('idata').textContent);
+const TM = JSON.parse(document.getElementById('tdata').textContent), THS = TM.s, THC = TM.c;
+function ixChart(key, label, r) {
+  const S = IX[key]; if (!S || !S.length) return '';
+  const ma = S.map((z, i) => i >= 19 ? S.slice(i - 19, i + 1).reduce((a, b) => a + b.c, 0) / 20 : null);
+  let i1 = S.findIndex((z) => z.d >= r[0]); let i2 = S.map((z) => z.d <= r[1]).lastIndexOf(true);
+  if (i1 < 0 || i2 < 0 || i2 < i1) return '';
+  const hl = [i1, i2];
+  if (i2 - i1 < 39) i1 = Math.max(0, i2 - 39);
+  const X = S.slice(i1, i2 + 1), M = ma.slice(i1, i2 + 1);
+  const W = 640, H = 250, L = 52, R = 10, T = 10, PH = 150, VH = 50, B = 22, m = X.length, bw = (W - L - R) / m;
+  const vals = X.map((z) => z.c).concat(M.filter((v) => v != null));
+  let lo = Math.min(...vals), hi = Math.max(...vals); const pad = (hi - lo) * .06 || 1; lo -= pad; hi += pad;
+  const xx = (i) => L + bw * (i + .5), yy = (v) => T + PH * (hi - v) / (hi - lo), vmax = Math.max(...X.map((z) => z.v)) || 1, VY0 = T + PH + 10 + VH;
+  let g = '';
+  X.forEach((z, i) => { if (M[i] != null && z.c < M[i]) g += `<rect x="${(L + bw * i).toFixed(1)}" y="${T}" width="${bw.toFixed(1)}" height="${PH}" class="below"/>`; });
+  if (hl[0] > i1) g += `<rect x="${L}" y="${T}" width="${(bw * (hl[0] - i1)).toFixed(1)}" height="${PH + 10 + VH}" fill="var(--bg)" opacity=".55"/>`;
+  for (let k = 0; k < 4; k++) { const v = lo + (hi - lo) * k / 3; g += `<line x1="${L}" x2="${W - R}" y1="${yy(v).toFixed(1)}" y2="${yy(v).toFixed(1)}" class="grid"/><text x="${L - 6}" y="${(yy(v) + 4).toFixed(1)}" text-anchor="end">${Math.round(v).toLocaleString()}</text>`; }
+  g += `<path d="${M.map((v, i) => v == null ? '' : `${i && M[i - 1] != null ? 'L' : 'M'}${xx(i).toFixed(1)},${yy(v).toFixed(1)}`).join(' ')}" fill="none" stroke="var(--mute)" stroke-width="1.6" stroke-dasharray="5 4"/>`;
+  g += `<path d="${X.map((z, i) => `${i ? 'L' : 'M'}${xx(i).toFixed(1)},${yy(z.c).toFixed(1)}`).join(' ')}" fill="none" stroke="var(--ink)" stroke-width="2"/>`;
+  X.forEach((z, i) => { const up = i === 0 ? true : z.c >= X[i - 1].c, h = VH * z.v / vmax;
+    g += `<rect x="${(L + bw * i + bw * .15).toFixed(1)}" y="${(VY0 - h).toFixed(1)}" width="${Math.max(.6, bw * .7).toFixed(1)}" height="${Math.max(1, h).toFixed(1)}" fill="var(${up ? '--up' : '--dn'})" opacity=".55"><title>${fd(z.d, true)} ${label} ${z.c.toLocaleString()}</title></rect>`; });
+  const step = Math.max(1, Math.floor(m / 6));
+  for (let i = 0; i < m; i += step) g += `<text x="${xx(i).toFixed(1)}" y="${H - 4}" text-anchor="middle">${m > 300 ? X[i].d.slice(2, 4) + '.' + (+X[i].d.slice(4, 6)) : fd(X[i].d)}</text>`;
+  const a = S[hl[0] - 1] || S[hl[0]], b = S[hl[1]], gap = ma[hl[1]] ? (b.c / ma[hl[1]] - 1) * 100 : null;
+  return `<h3>${label} <b>${b.c.toLocaleString()}</b> ${pct((b.c / a.c - 1) * 100)} <small>기간 · 20일선 ${gap == null ? '–' : pct(gap) + (gap > 0 ? ' 위' : ' 아래')}</small></h3><div class="chart"><svg viewBox="0 0 ${W} ${H}">${g}</svg></div>`;
+}
 function render() {
   const r = range(), rows = D.filter((z) => z.d >= r[0] && z.d <= r[1]);
+  const ic = document.getElementById('ichart');
+  if (ic) ic.innerHTML = '<div class="legend"><span><i style="background:var(--ink)"></i>지수</span><span><i style="background:var(--mute)"></i>20일선(점선)</span><span><i style="background:color-mix(in srgb,var(--dn) 25%,transparent)"></i>20일선 아래</span><span><i style="background:var(--up)"></i>거래량</span></div>' + ixChart('KOSPI', '코스피', r) + ixChart('KOSDAQ', '코스닥', r);
   const comp = (k) => rows.length ? (rows.reduce((a, z) => a * (1 + (z[k] || 0) / 100), 1) - 1) * 100 : null;
   const up = rows.filter((z) => z.k > 0).length, dn = rows.filter((z) => z.k < 0).length;
   const cnt = {}; rows.forEach((z) => { if (z.t) cnt[z.t] = (cnt[z.t] || 0) + 1; });
@@ -890,6 +922,17 @@ function render() {
     h += '<h3>이 기간 가장 세게 오른 대장주</h3><div class="scroll"><table class="wide"><tbody>' + best.map((z) =>
       `<tr><td><span class="bar" style="--c:${z.lc}"></span><b>${esc(z.l)}</b><small class="k">${fd(z.d, true)} ${chip(z.lts, z.lc, z.lt)}</small></td><td class="r">${pct(z.lr)}</td><td class="r"><a class="go" href="m/${z.d}.html">그날 보기 ›</a></td></tr>`).join('') + '</tbody></table></div>';
   }
+  if (mode !== 'day') {
+    const fq = {};
+    rows.forEach((z) => (z.ls || []).forEach(([n, rr, th]) => { if (!n) return; const f = (fq[n] = fq[n] || {n: 0, s: 0, th, last: z.d}); f.n++; f.s += rr; f.last = z.d; if (th) f.th = th; }));
+    const top = Object.entries(fq).filter(([, f]) => f.n >= 2).sort((a, b) => b[1].n - a[1].n || b[1].s - a[1].s).slice(0, 10);
+    if (top.length) {
+      const cmap = Object.fromEntries(rows.flatMap((z) => (z.ls || []).map(([n, , th]) => [th, z])));
+      h += '<h3>이 기간 자주 오른 종목</h3><p class="sub">대장주(+10%↑·거래대금 100억↑)에 이름을 올린 횟수 순이에요. 여러 번 오른 종목은 그 기간 시장이 계속 찾은 종목이에요.</p>'
+        + '<div class="scroll"><table class="wide"><tbody>' + top.map(([n, f]) => { const th = f.th, ts = th ? (THS[th] || th.split('(')[0].replace(/ /g, '').slice(0, 6)) : '';
+          return `<tr><td><b>${esc(n)}</b><small class="k">${chip(ts, THC[th] || '#8a959c', th)} · 마지막 ${fd(f.last)}</small></td><td class="r"><b>${f.n}회</b><small class="k">평균 ${pct(f.s / f.n)}</small></td></tr>`; }).join('') + '</tbody></table></div>';
+    }
+  }
   app.querySelector('.out').innerHTML = h;
   app.querySelectorAll('.pmode a').forEach((a) => a.classList.toggle('on', a.dataset.m === mode));
   app.querySelector('.custom').hidden = mode !== 'custom';
@@ -908,6 +951,13 @@ render();
 """
 
 
+def md_get(code, n=1900):
+    """네이버 지수 일봉 (종가·거래량)"""
+    import market_data as md
+    t = md.S.get(f"https://fchart.stock.naver.com/sise.nhn?symbol={code}&timeframe=day&count={n}&requestType=0", timeout=30).text
+    return [dict(d=r[0], c=round(float(r[4]), 2), v=float(r[5])) for r in md._items(t)]
+
+
 def market_page(days, lead):
     rows = []
     ld = {}
@@ -923,15 +973,25 @@ def market_page(days, lead):
         lr = (mk.get("leaders") or [{}])[0]
         lt = lr.get("theme") or ""
         rows.append(dict(d=d, k=k, q=q, avg=round(((k or 0) + (q or 0)) / 2, 2), t=hot, ts=short_theme(hot) if hot else "", c=color(hot) if hot else "",
-                         l=lr.get("name", ""), lr=fnum(lr.get("ret")) or 0, lt=lt, lts=short_theme(lt) if lt else "", lc=color(lt)))
+                         l=lr.get("name", ""), lr=fnum(lr.get("ret")) or 0, lt=lt, lts=short_theme(lt) if lt else "", lc=color(lt),
+                         ls=[[x.get("name", ""), fnum(x.get("ret")) or 0, x.get("theme") or ""] for x in (mk.get("leaders") or [])]))
     data = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
-    body = market_bars_svg(days, n=230)
-    body += ('<div id="mapp"><div class="pbar"><nav class="tabs pmode">'
+    allth = {x[2] for r in rows for x in r["ls"] if x[2]}
+    thmap = json.dumps({"s": {t: short_theme(t) for t in allth}, "c": {t: color(t) for t in allth}}, ensure_ascii=False)
+    ix = {}
+    try:
+        for k in ("KOSPI", "KOSDAQ"):
+            t_ = md_get(k)
+            ix[k] = t_
+    except Exception as e:
+        print("지수 받기 실패:", e)
+    idata = json.dumps(ix, ensure_ascii=False)
+    body = ('<div id="mapp"><div class="pbar"><nav class="tabs pmode">'
              + "".join(f'<a href="#{m}" data-m="{m}">{n}</a>' for m, n in (("day", "일"), ("week", "주"), ("month", "월"), ("quarter", "분기"), ("half", "반기"), ("year", "년"), ("custom", "직접")))
              + '</nav><div class="pnavs"><button class="pnav prev" aria-label="이전">‹ 이전</button><button class="pnav next" aria-label="다음">다음 ›</button></div>'
              '<div class="custom" hidden><label>시작 <input type="date" id="f1"></label><label>끝 <input type="date" id="f2"></label></div></div>'
-             '<div class="out"></div></div>')
-    body += f'<script type="application/json" id="mdata">{data}</script><script>{MARKET_JS}</script>'
+             '<div id="ichart"></div><p class="sub">고른 기간에 맞춰 지수가 다시 그려져요. 기간이 짧으면 앞 40거래일을 흐리게 같이 보여줘요.</p><div class="out"></div></div>')
+    body += f'<script type="application/json" id="mdata">{data}</script><script type="application/json" id="idata">{idata}</script><script type="application/json" id="tdata">{thmap}</script><script>{MARKET_JS}</script>'
     return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기", body, "대장주 달력")
 
 
@@ -971,12 +1031,20 @@ def week_page(mon, days, t, fm, lead, vi, expect):
 def main():
     t, h, fm, lead, vi, expect = load()
     days = all_dates(t, fm, lead, vi)
+    import shutil
     for sub in ("d", "w", "m"):
+        shutil.rmtree(os.path.join(OUT, sub), ignore_errors=True)
         os.makedirs(os.path.join(OUT, sub), exist_ok=True)
     open(os.path.join(OUT, ".nojekyll"), "w").close()
     W = lambda p, txt: open(os.path.join(OUT, p), "w", encoding="utf-8").write(txt)
+    # 알림·매매 기록이 있는 날만 일별 알림 페이지, 시장 페이지는 모든 날
+    sold = {str(x).replace("-", "") for x in t["판 날"].dropna()} if len(t) else set()
+    own = {d for d in days if messages(d) or d in sold or (len(fm) and (fm.date == d).any()) or (len(vi) and (vi.date == d).any())}
+    HAS_D.update(own)
+    recent = {d for d in days if d >= "20261102"} | own
     for d in days:
-        W(f"d/{d}.html", day_page(d, t, fm, lead, vi))
+        if d in own or d in recent:
+            W(f"d/{d}.html", day_page(d, t, fm, lead, vi))
         W(f"m/{d}.html", market_page_day(d, lead))
     for m in sorted({monday(d) for d in days}):
         W(f"w/{m}.html", week_page(m, days, t, fm, lead, vi, expect))

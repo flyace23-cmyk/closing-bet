@@ -1,0 +1,254 @@
+{
+"date": "20230818",
+"kospi": -0.61,
+"kosdaq": -0.98,
+"adv": 789,
+"dec": 1275,
+"flat": 119,
+"limit_up": 12,
+"limit_down": 2,
+"value_total": 189580,
+"hot": [
+{
+"name": "전자파",
+"n": 3,
+"lead": "한미반도체",
+"lead_ret": 18.56,
+"second": "아모텍",
+"second_ret": 14.3
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "씨티씨바이오",
+"lead_ret": 29.97,
+"second": "인트론바이오",
+"second_ret": 18.35
+},
+{
+"name": "페라이트",
+"n": 3,
+"lead": "태경산업",
+"lead_ret": 30.0,
+"second": "아모센스",
+"second_ret": 29.97
+}
+],
+"themes": [
+{
+"name": "페라이트",
+"n": 14,
+"avg": 6.36,
+"up5": 5,
+"lead": "태경산업",
+"lead_ret": 30.0,
+"second": "아모센스",
+"second_ret": 29.97
+},
+{
+"name": "페라이트",
+"n": 14,
+"avg": 6.36,
+"up5": 5,
+"lead": "태경산업",
+"lead_ret": 30.0,
+"second": "아모센스",
+"second_ret": 29.97
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": 5.17,
+"up5": 4,
+"lead": "한미반도체",
+"lead_ret": 18.56,
+"second": "아모텍",
+"second_ret": 14.3
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 4.94,
+"up5": 1,
+"lead": "휴비스",
+"lead_ret": 29.99,
+"second": "효성티앤씨",
+"second_ret": 0.95
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": 4.3,
+"up5": 2,
+"lead": "KG케미칼",
+"lead_ret": 10.24,
+"second": "유니온머티리얼",
+"second_ret": 7.36
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 2.47,
+"up5": 1,
+"lead": "티에프이",
+"lead_ret": 7.07,
+"second": "대덕전자",
+"second_ret": 4.67
+},
+{
+"name": "희귀금속(희토류 등)",
+"n": 16,
+"avg": 2.43,
+"up5": 3,
+"lead": "티플랙스",
+"lead_ret": 29.68,
+"second": "유니온머티리얼",
+"second_ret": 7.36
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": 2.36,
+"up5": 1,
+"lead": "아모센스",
+"lead_ret": 29.97,
+"second": "미코",
+"second_ret": 1.47
+},
+{
+"name": "퓨리오사AI",
+"n": 8,
+"avg": 2.32,
+"up5": 1,
+"lead": "엑스페릭스",
+"lead_ret": 29.94,
+"second": "팬스타엔터프라이즈",
+"second_ret": 3.27
+},
+{
+"name": "전력반도체",
+"n": 17,
+"avg": 2.14,
+"up5": 3,
+"lead": "파워넷",
+"lead_ret": 18.14,
+"second": "큐알티",
+"second_ret": 17.06
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 1.91,
+"up5": 2,
+"lead": "이수페타시스",
+"lead_ret": 9.91,
+"second": "인텍플러스",
+"second_ret": 7.76
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 31,
+"avg": 1.87,
+"up5": 3,
+"lead": "한미반도체",
+"lead_ret": 18.56,
+"second": "큐알티",
+"second_ret": 17.06
+}
+],
+"themes_worst": [
+{
+"name": "초전도체",
+"n": 15,
+"avg": -10.57,
+"up5": 1,
+"lead": "아모텍",
+"lead_ret": 14.3,
+"second": "아센디오",
+"second_ret": 0.71
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": -4.21,
+"up5": 0,
+"lead": "SFA",
+"lead_ret": 1.2,
+"second": "삼화콘덴서",
+"second_ret": 0.25
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -4.11,
+"up5": 0,
+"lead": "KBI메탈",
+"lead_ret": 1.18,
+"second": "일진전기",
+"second_ret": -0.65
+},
+{
+"name": "영화",
+"n": 10,
+"avg": -2.71,
+"up5": 0,
+"lead": "아센디오",
+"lead_ret": 0.71,
+"second": "졸스",
+"second_ret": -0.72
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": -2.55,
+"up5": 0,
+"lead": "KT지니뮤직",
+"lead_ret": 0.28,
+"second": "판타지오",
+"second_ret": -1.18
+}
+],
+"leaders": [
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 18.56,
+"value": 9863,
+"theme": "전자파",
+"reason": "테마: 전자파"
+},
+{
+"name": "솔트룩스",
+"code": "304100",
+"ret": 12.5,
+"value": 2751,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "인트론바이오",
+"code": "048530",
+"ret": 18.35,
+"value": 1767,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "코리아나",
+"code": "027050",
+"ret": 11.75,
+"value": 1767,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "씨티씨바이오",
+"code": "060590",
+"ret": 29.97,
+"value": 1384,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

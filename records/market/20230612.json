@@ -1,0 +1,246 @@
+{
+"date": "20230612",
+"kospi": -0.45,
+"kosdaq": 0.23,
+"adv": 766,
+"dec": 1277,
+"flat": 121,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 169413,
+"hot": [
+{
+"name": "2차전지",
+"n": 7,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 29.98,
+"second": "삼아알미늄",
+"second_ret": 20.74
+},
+{
+"name": "반도체 장비",
+"n": 3,
+"lead": "레이저쎌",
+"lead_ret": 29.94,
+"second": "프로텍",
+"second_ret": 20.0
+}
+],
+"themes": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": 5.34,
+"up5": 1,
+"lead": "신송홀딩스",
+"lead_ret": 20.41,
+"second": "샘표",
+"second_ret": 3.53
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 4.69,
+"up5": 2,
+"lead": "레이저쎌",
+"lead_ret": 29.94,
+"second": "프로텍",
+"second_ret": 20.0
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 8,
+"avg": 3.88,
+"up5": 1,
+"lead": "더블유씨피",
+"lead_ret": 19.17,
+"second": "애경케미칼",
+"second_ret": 3.94
+},
+{
+"name": "2차전지(전고체)",
+"n": 28,
+"avg": 2.53,
+"up5": 2,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 29.98,
+"second": "레이크머티리얼즈",
+"second_ret": 13.62
+},
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.28,
+"up5": 3,
+"lead": "오스테오닉",
+"lead_ret": 17.48,
+"second": "메타바이오메드",
+"second_ret": 7.25
+},
+{
+"name": "2차전지",
+"n": 121,
+"avg": 2.05,
+"up5": 12,
+"lead": "이수스페셜티케미컬",
+"lead_ret": 29.98,
+"second": "삼아알미늄",
+"second_ret": 20.74
+},
+{
+"name": "2차전지(장비)",
+"n": 38,
+"avg": 2.04,
+"up5": 5,
+"lead": "윤성에프앤씨",
+"lead_ret": 17.07,
+"second": "자비스",
+"second_ret": 10.48
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 65,
+"avg": 1.94,
+"up5": 5,
+"lead": "삼아알미늄",
+"lead_ret": 20.74,
+"second": "더블유씨피",
+"second_ret": 19.17
+},
+{
+"name": "전기차(충전소/충전기)",
+"n": 20,
+"avg": 1.73,
+"up5": 2,
+"lead": "동양이엔피",
+"lead_ret": 10.71,
+"second": "SK네트웍스",
+"second_ret": 9.03
+},
+{
+"name": "공작기계",
+"n": 14,
+"avg": 1.7,
+"up5": 3,
+"lead": "화천기계",
+"lead_ret": 10.79,
+"second": "넥스턴앤롤코리아",
+"second_ret": 8.62
+},
+{
+"name": "비철금속",
+"n": 23,
+"avg": 1.53,
+"up5": 2,
+"lead": "삼아알미늄",
+"lead_ret": 20.74,
+"second": "조일알미늄",
+"second_ret": 6.65
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 11,
+"avg": 1.51,
+"up5": 0,
+"lead": "엘티씨",
+"lead_ret": 4.23,
+"second": "금양그린파워",
+"second_ret": 3.48
+}
+],
+"themes_worst": [
+{
+"name": "줄기세포",
+"n": 16,
+"avg": -2.49,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": 2.35,
+"second": "에스바이오메딕스",
+"second_ret": 1.08
+},
+{
+"name": "면역항암제",
+"n": 31,
+"avg": -2.32,
+"up5": 0,
+"lead": "큐리언트",
+"lead_ret": 1.58,
+"second": "유한양행",
+"second_ret": -0.16
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.07,
+"up5": 0,
+"lead": "제이씨케미칼",
+"lead_ret": 2.34,
+"second": "동신건설",
+"second_ret": 0.16
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": -2.07,
+"up5": 0,
+"lead": "제이씨케미칼",
+"lead_ret": 2.34,
+"second": "동신건설",
+"second_ret": 0.16
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": -1.74,
+"up5": 0,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 2.18,
+"second": "엔젠바이오",
+"second_ret": 1.38
+}
+],
+"leaders": [
+{
+"name": "이수스페셜티케미컬",
+"code": "457190",
+"ret": 29.98,
+"value": 3528,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "레이크머티리얼즈",
+"code": "281740",
+"ret": 13.62,
+"value": 3022,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "인산가",
+"code": "277410",
+"ret": 30.0,
+"value": 1766,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+},
+{
+"name": "윤성에프앤씨",
+"code": "372170",
+"ret": 17.07,
+"value": 1585,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "프로텍",
+"code": "053610",
+"ret": 20.0,
+"value": 1470,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+}
+],
+"backfilled": true
+}

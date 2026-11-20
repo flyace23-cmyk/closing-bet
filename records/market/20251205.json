@@ -1,0 +1,254 @@
+{
+"date": "20251205",
+"kospi": 1.78,
+"kosdaq": -0.55,
+"adv": 1370,
+"dec": 886,
+"flat": 134,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 273106,
+"hot": [
+{
+"name": "건설 중소형",
+"n": 5,
+"lead": "상지건설",
+"lead_ret": 29.98,
+"second": "남광토건",
+"second_ret": 29.97
+},
+{
+"name": "유전자 치료제/분석",
+"n": 4,
+"lead": "지놈앤컴퍼니",
+"lead_ret": 18.2,
+"second": "바이젠셀",
+"second_ret": 13.33
+},
+{
+"name": "자율주행차",
+"n": 3,
+"lead": "넥스트칩",
+"lead_ret": 27.57,
+"second": "칩스앤미디어",
+"second_ret": 21.73
+}
+],
+"themes": [
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 7.05,
+"up5": 13,
+"lead": "상지건설",
+"lead_ret": 29.98,
+"second": "남광토건",
+"second_ret": 29.97
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 6.69,
+"up5": 2,
+"lead": "동양고속",
+"lead_ret": 29.98,
+"second": "천일고속",
+"second_ret": 9.69
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 5.61,
+"up5": 3,
+"lead": "현대건설",
+"lead_ret": 9.96,
+"second": "대우건설",
+"second_ret": 8.17
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 4.82,
+"up5": 2,
+"lead": "엘케이켐",
+"lead_ret": 29.82,
+"second": "석경에이티",
+"second_ret": 5.86
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 4.65,
+"up5": 2,
+"lead": "현대차",
+"lead_ret": 11.11,
+"second": "HL만도",
+"second_ret": 9.43
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 4.57,
+"up5": 8,
+"lead": "남광토건",
+"lead_ret": 29.97,
+"second": "현대건설",
+"second_ret": 9.96
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 3.89,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 16.18,
+"second": "우진",
+"second_ret": 13.96
+},
+{
+"name": "원자력발전",
+"n": 50,
+"avg": 3.81,
+"up5": 13,
+"lead": "비에이치아이",
+"lead_ret": 16.18,
+"second": "태웅",
+"second_ret": 14.29
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 3.61,
+"up5": 2,
+"lead": "자람테크놀로지",
+"lead_ret": 11.53,
+"second": "앤씨앤",
+"second_ret": 5.64
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.41,
+"up5": 2,
+"lead": "비에이치아이",
+"lead_ret": 16.18,
+"second": "SNT에너지",
+"second_ret": 11.0
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 3.32,
+"up5": 4,
+"lead": "네오티스",
+"lead_ret": 15.41,
+"second": "코리아써키트",
+"second_ret": 11.11
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.14,
+"up5": 2,
+"lead": "코리아써키트",
+"lead_ret": 11.11,
+"second": "심텍",
+"second_ret": 7.48
+}
+],
+"themes_worst": [
+{
+"name": "3D 프린터",
+"n": 11,
+"avg": -3.32,
+"up5": 1,
+"lead": "에스티아이",
+"lead_ret": 5.73,
+"second": "티앤알바이오팹",
+"second_ret": 2.8
+},
+{
+"name": "수산",
+"n": 9,
+"avg": -2.0,
+"up5": 0,
+"lead": "동원수산",
+"lead_ret": 1.31,
+"second": "사조오양",
+"second_ret": 1.17
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -1.96,
+"up5": 0,
+"lead": "강스템바이오텍",
+"lead_ret": -0.06,
+"second": "차바이오텍",
+"second_ret": -1.02
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.71,
+"up5": 0,
+"lead": "이연제약",
+"lead_ret": 1.26,
+"second": "서린바이오",
+"second_ret": 0.87
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": -1.44,
+"up5": 2,
+"lead": "메디아나",
+"lead_ret": 8.72,
+"second": "이지케어텍",
+"second_ret": 7.8
+}
+],
+"leaders": [
+{
+"name": "현대차",
+"code": "005380",
+"ret": 11.11,
+"value": 12262,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 16.18,
+"value": 3947,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "우진",
+"code": "105840",
+"ret": 13.96,
+"value": 1784,
+"theme": "원자력발전소 해체",
+"reason": "테마: 원자력발전소 해체"
+},
+{
+"name": "칩스앤미디어",
+"code": "094360",
+"ret": 21.73,
+"value": 1157,
+"theme": "자율주행차",
+"reason": "테마: 자율주행차"
+},
+{
+"name": "두산퓨얼셀",
+"code": "336260",
+"ret": 11.15,
+"value": 1029,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+}
+],
+"backfilled": true
+}

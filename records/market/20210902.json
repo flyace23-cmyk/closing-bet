@@ -1,0 +1,254 @@
+{
+"date": "20210902",
+"kospi": -0.97,
+"kosdaq": 0.12,
+"adv": 842,
+"dec": 972,
+"flat": 215,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 255861,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "일진파워",
+"lead_ret": 29.55,
+"second": "서전기전",
+"second_ret": 20.33
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "한국비엔씨",
+"lead_ret": 17.57,
+"second": "HLB생명과학",
+"second_ret": 14.89
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "에코플라스틱",
+"lead_ret": 15.86,
+"second": "BGF에코머티리얼즈",
+"second_ret": 12.52
+}
+],
+"themes": [
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 4.55,
+"up5": 2,
+"lead": "일진파워",
+"lead_ret": 29.55,
+"second": "비츠로테크",
+"second_ret": 5.02
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 3.08,
+"up5": 2,
+"lead": "에코플라스틱",
+"lead_ret": 15.86,
+"second": "삼양패키징",
+"second_ret": 5.68
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 11,
+"avg": 2.93,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 17.57,
+"second": "휴메딕스",
+"second_ret": 6.79
+},
+{
+"name": "원자력발전",
+"n": 43,
+"avg": 2.86,
+"up5": 7,
+"lead": "일진파워",
+"lead_ret": 29.55,
+"second": "서전기전",
+"second_ret": 20.33
+},
+{
+"name": "남-북-러 가스관사업",
+"n": 13,
+"avg": 2.57,
+"up5": 2,
+"lead": "부국철강",
+"lead_ret": 15.49,
+"second": "삼현철강",
+"second_ret": 6.1
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": 2.32,
+"up5": 1,
+"lead": "HC홈센타",
+"lead_ret": 19.06,
+"second": "HC보광산업",
+"second_ret": 4.63
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.3,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 10.33,
+"second": "우리기술",
+"second_ret": 6.09
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 2.14,
+"up5": 2,
+"lead": "일진전기",
+"lead_ret": 7.83,
+"second": "대원전선",
+"second_ret": 5.1
+},
+{
+"name": "미용기기",
+"n": 13,
+"avg": 2.13,
+"up5": 2,
+"lead": "한국비엔씨",
+"lead_ret": 17.57,
+"second": "휴메딕스",
+"second_ret": 6.79
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 2.05,
+"up5": 2,
+"lead": "애니플러스",
+"lead_ret": 7.49,
+"second": "티비씨",
+"second_ret": 6.83
+},
+{
+"name": "철강 중소형",
+"n": 31,
+"avg": 1.92,
+"up5": 3,
+"lead": "부국철강",
+"lead_ret": 15.49,
+"second": "동일스틸럭스",
+"second_ret": 9.67
+},
+{
+"name": "치매",
+"n": 45,
+"avg": 1.88,
+"up5": 7,
+"lead": "국전",
+"lead_ret": 17.28,
+"second": "리메드",
+"second_ret": 9.67
+}
+],
+"themes_worst": [
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": -2.33,
+"up5": 0,
+"lead": "애경케미칼",
+"lead_ret": 0.39,
+"second": "나인테크",
+"second_ret": -0.95
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": -1.91,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -1.04,
+"second": "LG전자",
+"second_ret": -1.06
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.86,
+"up5": 0,
+"lead": "넥센타이어",
+"lead_ret": 0.0,
+"second": "넥센",
+"second_ret": -0.2
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.78,
+"up5": 0,
+"lead": "태광산업",
+"lead_ret": 0.27,
+"second": "우성머티리얼스",
+"second_ret": 0.0
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 11,
+"avg": -1.64,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 0.65,
+"second": "KB금융",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "한국비엔씨",
+"code": "256840",
+"ret": 17.57,
+"value": 7828,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "세경하이테크",
+"code": "148150",
+"ret": 18.93,
+"value": 3013,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "조일알미늄",
+"code": "018470",
+"ret": 11.66,
+"value": 2895,
+"theme": "비철금속",
+"reason": "테마: 비철금속"
+},
+{
+"name": "서전기전",
+"code": "189860",
+"ret": 20.33,
+"value": 2545,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 14.89,
+"value": 2409,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

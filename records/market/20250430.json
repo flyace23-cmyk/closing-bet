@@ -1,0 +1,254 @@
+{
+"date": "20250430",
+"kospi": -0.34,
+"kosdaq": -1.27,
+"adv": 672,
+"dec": 1561,
+"flat": 117,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 133349,
+"hot": [
+{
+"name": "메타버스(Metaverse)",
+"n": 3,
+"lead": "버넥트",
+"lead_ret": 22.09,
+"second": "위세아이텍",
+"second_ret": 9.46
+},
+{
+"name": "2차전지",
+"n": 3,
+"lead": "조일알미늄",
+"lead_ret": 13.76,
+"second": "애경케미칼",
+"second_ret": 11.95
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "상지건설",
+"lead_ret": 29.98,
+"second": "동신건설",
+"second_ret": 17.11
+}
+],
+"themes": [
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 3.81,
+"up5": 2,
+"lead": "코나아이",
+"lead_ret": 9.22,
+"second": "웹케시",
+"second_ret": 5.64
+},
+{
+"name": "STO(토큰증권 발행)",
+"n": 25,
+"avg": 2.18,
+"up5": 2,
+"lead": "서울옥션",
+"lead_ret": 25.32,
+"second": "케이옥션",
+"second_ret": 7.5
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.13,
+"up5": 1,
+"lead": "미래에셋증권",
+"lead_ret": 9.01,
+"second": "신영증권",
+"second_ret": 4.69
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 1.66,
+"up5": 0,
+"lead": "삼성물산",
+"lead_ret": 2.94,
+"second": "DL이앤씨",
+"second_ret": 2.36
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.52,
+"up5": 0,
+"lead": "현대해상",
+"lead_ret": 3.74,
+"second": "DB손해보험",
+"second_ret": 2.01
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 1.52,
+"up5": 4,
+"lead": "상지건설",
+"lead_ret": 29.98,
+"second": "동신건설",
+"second_ret": 17.11
+},
+{
+"name": "은행",
+"n": 10,
+"avg": 1.3,
+"up5": 0,
+"lead": "KB금융",
+"lead_ret": 2.73,
+"second": "BNK금융지주",
+"second_ret": 2.58
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 0.91,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 1.51,
+"second": "GS리테일",
+"second_ret": 1.3
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 0.88,
+"up5": 1,
+"lead": "SBS",
+"lead_ret": 5.28,
+"second": "콘텐트리중앙",
+"second_ret": 4.58
+},
+{
+"name": "엔터테인먼트",
+"n": 29,
+"avg": 0.86,
+"up5": 1,
+"lead": "하이브",
+"lead_ret": 5.53,
+"second": "아이오케이이엔엠",
+"second_ret": 4.61
+},
+{
+"name": "서울고속버스터미널 재개발 수혜",
+"n": 5,
+"avg": 0.86,
+"up5": 0,
+"lead": "신세계",
+"lead_ret": 2.53,
+"second": "대성산업",
+"second_ret": 1.5
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 0.76,
+"up5": 0,
+"lead": "HDC",
+"lead_ret": 3.44,
+"second": "신세계",
+"second_ret": 2.53
+}
+],
+"themes_worst": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -12.84,
+"up5": 0,
+"lead": "성우전자",
+"lead_ret": -3.85,
+"second": "이루온",
+"second_ret": -6.64
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -7.45,
+"up5": 0,
+"lead": "삼양패키징",
+"lead_ret": -0.66,
+"second": "세림B&G",
+"second_ret": -3.28
+},
+{
+"name": "日 수출 규제(국산화 등)",
+"n": 19,
+"avg": -3.66,
+"up5": 0,
+"lead": "일지테크",
+"lead_ret": -0.64,
+"second": "경인양행",
+"second_ret": -0.78
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -2.96,
+"up5": 0,
+"lead": "삼성전자",
+"lead_ret": -0.54,
+"second": "SK하이닉스",
+"second_ret": -1.83
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -2.86,
+"up5": 0,
+"lead": "브이티",
+"lead_ret": -0.78,
+"second": "코윈로보틱스",
+"second_ret": -0.92
+}
+],
+"leaders": [
+{
+"name": "오리엔트정공",
+"code": "065500",
+"ret": 22.12,
+"value": 3383,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "상지건설",
+"code": "042940",
+"ret": 29.98,
+"value": 1656,
+"theme": "건설 중소형",
+"reason": "테마: 건설 중소형"
+},
+{
+"name": "애경케미칼",
+"code": "161000",
+"ret": 11.95,
+"value": 1331,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "서울옥션",
+"code": "063170",
+"ret": 25.32,
+"value": 848,
+"theme": "NFT(대체불가토큰)",
+"reason": "테마: NFT(대체불가토큰)"
+},
+{
+"name": "오리엔트바이오",
+"code": "002630",
+"ret": 25.0,
+"value": 729,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

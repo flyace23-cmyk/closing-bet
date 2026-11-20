@@ -1,0 +1,254 @@
+{
+"date": "20200303",
+"kospi": 0.58,
+"kosdaq": -0.13,
+"adv": 1112,
+"dec": 617,
+"flat": 176,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 211976,
+"hot": [
+{
+"name": "제약업체",
+"n": 4,
+"lead": "신풍제약",
+"lead_ret": 19.92,
+"second": "서울제약",
+"second_ret": 19.41
+},
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 3,
+"lead": "한진칼",
+"lead_ret": 20.06,
+"second": "태웅로직스",
+"second_ret": 9.49
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "마크로젠",
+"lead_ret": 22.67,
+"second": "신풍제약",
+"second_ret": 19.92
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.37,
+"up5": 2,
+"lead": "한진칼",
+"lead_ret": 20.06,
+"second": "제주항공",
+"second_ret": 7.02
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 4.0,
+"up5": 1,
+"lead": "서울제약",
+"lead_ret": 19.41,
+"second": "유한양행",
+"second_ret": 1.8
+},
+{
+"name": "오가노이드",
+"n": 5,
+"avg": 3.59,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.47,
+"second": "티앤알바이오팹",
+"second_ret": 4.81
+},
+{
+"name": "줄기세포",
+"n": 14,
+"avg": 3.08,
+"up5": 2,
+"lead": "마크로젠",
+"lead_ret": 22.67,
+"second": "강스템바이오텍",
+"second_ret": 9.47
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": 2.75,
+"up5": 1,
+"lead": "강스템바이오텍",
+"lead_ret": 9.47,
+"second": "차바이오텍",
+"second_ret": 3.14
+},
+{
+"name": "면역항암제",
+"n": 23,
+"avg": 2.75,
+"up5": 3,
+"lead": "에스티큐브",
+"lead_ret": 29.75,
+"second": "CG인바이츠",
+"second_ret": 6.07
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.65,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 5.43,
+"second": "옴니시스템",
+"second_ret": 3.42
+},
+{
+"name": "제약업체",
+"n": 76,
+"avg": 2.5,
+"up5": 9,
+"lead": "신풍제약",
+"lead_ret": 19.92,
+"second": "서울제약",
+"second_ret": 19.41
+},
+{
+"name": "유전자 치료제/분석",
+"n": 24,
+"avg": 2.37,
+"up5": 4,
+"lead": "마크로젠",
+"lead_ret": 22.67,
+"second": "신테카바이오",
+"second_ret": 9.29
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 2.19,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 8.06,
+"second": "시공테크",
+"second_ret": 0.99
+},
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": 2.18,
+"up5": 2,
+"lead": "대동",
+"lead_ret": 6.09,
+"second": "파루",
+"second_ret": 5.09
+},
+{
+"name": "리튬",
+"n": 17,
+"avg": 2.15,
+"up5": 1,
+"lead": "중앙첨단소재",
+"lead_ret": 30.01,
+"second": "광무",
+"second_ret": 2.92
+}
+],
+"themes_worst": [
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": -3.45,
+"up5": 0,
+"lead": "유엔젤",
+"lead_ret": 3.16,
+"second": "비트컴퓨터",
+"second_ret": 3.04
+},
+{
+"name": "애플페이",
+"n": 7,
+"avg": -1.65,
+"up5": 0,
+"lead": "KG파이낸셜",
+"lead_ret": 0.9,
+"second": "이루온",
+"second_ret": 0.68
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": -1.56,
+"up5": 0,
+"lead": "DSC인베스트먼트",
+"lead_ret": 1.26,
+"second": "대성창투",
+"second_ret": 0.89
+},
+{
+"name": "카카오뱅크(kakao BANK)",
+"n": 10,
+"avg": -1.42,
+"up5": 0,
+"lead": "한국금융지주",
+"lead_ret": 2.59,
+"second": "이니텍",
+"second_ret": 2.17
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -1.27,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": 2.15,
+"second": "지아이에스",
+"second_ret": 1.57
+}
+],
+"leaders": [
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 20.06,
+"value": 7604,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+},
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 19.92,
+"value": 3170,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "마크로젠",
+"code": "038290",
+"ret": 22.67,
+"value": 1448,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "일월지엠엘",
+"code": "178780",
+"ret": 19.6,
+"value": 881,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "서울제약",
+"code": "018680",
+"ret": 19.41,
+"value": 738,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+}
+],
+"backfilled": true
+}

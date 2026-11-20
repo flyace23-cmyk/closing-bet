@@ -1,0 +1,254 @@
+{
+"date": "20241023",
+"kospi": 1.12,
+"kosdaq": 0.93,
+"adv": 1248,
+"dec": 889,
+"flat": 154,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 157367,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 6,
+"lead": "한화비전",
+"lead_ret": 14.63,
+"second": "펨트론",
+"second_ret": 14.06
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "삼기에너지솔루션즈",
+"lead_ret": 16.46,
+"second": "펨트론",
+"second_ret": 14.06
+},
+{
+"name": "치매",
+"n": 4,
+"lead": "아이큐어",
+"lead_ret": 29.79,
+"second": "네이처셀",
+"second_ret": 24.42
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 4.35,
+"up5": 3,
+"lead": "특수건설",
+"lead_ret": 18.07,
+"second": "동아지질",
+"second_ret": 6.26
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.97,
+"up5": 4,
+"lead": "네오셈",
+"lead_ret": 11.77,
+"second": "파두",
+"second_ret": 6.82
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 3.89,
+"up5": 3,
+"lead": "드림어스컴퍼니",
+"lead_ret": 29.8,
+"second": "YG PLUS",
+"second_ret": 10.51
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 34,
+"avg": 3.75,
+"up5": 10,
+"lead": "한화비전",
+"lead_ret": 14.63,
+"second": "펨트론",
+"second_ret": 14.06
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 3.67,
+"up5": 3,
+"lead": "펨트론",
+"lead_ret": 14.06,
+"second": "ISC",
+"second_ret": 6.74
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 3.41,
+"up5": 4,
+"lead": "이오테크닉스",
+"lead_ret": 8.09,
+"second": "티에스이",
+"second_ret": 7.47
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 9,
+"avg": 3.01,
+"up5": 3,
+"lead": "야스",
+"lead_ret": 9.78,
+"second": "유니테스트",
+"second_ret": 6.98
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": 2.88,
+"up5": 0,
+"lead": "오픈엣지테크놀로지",
+"lead_ret": 4.57,
+"second": "네패스",
+"second_ret": 3.52
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 2.86,
+"up5": 1,
+"lead": "아이큐어",
+"lead_ret": 29.79,
+"second": "대창솔루션",
+"second_ret": 2.29
+},
+{
+"name": "2차전지(전고체)",
+"n": 29,
+"avg": 2.82,
+"up5": 4,
+"lead": "SFA넥셀",
+"lead_ret": 7.07,
+"second": "레몬",
+"second_ret": 6.59
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 2.76,
+"up5": 1,
+"lead": "LG에너지솔루션",
+"lead_ret": 5.64,
+"second": "에코프로",
+"second_ret": 4.71
+},
+{
+"name": "반도체 장비",
+"n": 90,
+"avg": 2.66,
+"up5": 18,
+"lead": "한화비전",
+"lead_ret": 14.63,
+"second": "펨트론",
+"second_ret": 14.06
+}
+],
+"themes_worst": [
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -2.68,
+"up5": 0,
+"lead": "윙입푸드",
+"lead_ret": 2.12,
+"second": "오가닉티코스메틱",
+"second_ret": 1.37
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -2.15,
+"up5": 0,
+"lead": "대우건설",
+"lead_ret": -1.35,
+"second": "삼성물산",
+"second_ret": -2.06
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": -1.44,
+"up5": 1,
+"lead": "샤페론",
+"lead_ret": 18.5,
+"second": "더코디",
+"second_ret": 4.18
+},
+{
+"name": "mRNA(메신저 리보핵산)",
+"n": 13,
+"avg": -1.27,
+"up5": 0,
+"lead": "파미셀",
+"lead_ret": 2.0,
+"second": "이연제약",
+"second_ret": 1.33
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": -1.15,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 0.78,
+"second": "태광산업",
+"second_ret": 0.16
+}
+],
+"leaders": [
+{
+"name": "한일단조",
+"code": "024740",
+"ret": 16.07,
+"value": 2842,
+"theme": "방위산업/전쟁 및 테러",
+"reason": "테마: 방위산업/전쟁 및 테러"
+},
+{
+"name": "YG PLUS",
+"code": "037270",
+"ret": 10.51,
+"value": 2619,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "한화비전",
+"code": "489790",
+"ret": 14.63,
+"value": 2470,
+"theme": "반도체 장비",
+"reason": "테마: 반도체 장비"
+},
+{
+"name": "샤페론",
+"code": "378800",
+"ret": 18.5,
+"value": 2088,
+"theme": "치매",
+"reason": "테마: 치매"
+},
+{
+"name": "모비데이즈",
+"code": "363260",
+"ret": 12.13,
+"value": 1576,
+"theme": "광고",
+"reason": "테마: 광고"
+}
+],
+"backfilled": true
+}

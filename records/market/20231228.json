@@ -1,0 +1,254 @@
+{
+"date": "20231228",
+"kospi": 1.6,
+"kosdaq": 0.79,
+"adv": 1546,
+"dec": 551,
+"flat": 130,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 169093,
+"hot": [
+{
+"name": "창투사",
+"n": 4,
+"lead": "캡스톤파트너스",
+"lead_ret": 30.0,
+"second": "에이티넘인베스트",
+"second_ret": 24.7
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "티이엠씨",
+"lead_ret": 94.72,
+"second": "시노펙스",
+"second_ret": 13.35
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "대동금속",
+"lead_ret": 29.98,
+"second": "파라텍",
+"second_ret": 13.78
+}
+],
+"themes": [
+{
+"name": "창투사",
+"n": 18,
+"avg": 4.97,
+"up5": 5,
+"lead": "캡스톤파트너스",
+"lead_ret": 30.0,
+"second": "에이티넘인베스트",
+"second_ret": 24.7
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 4.7,
+"up5": 1,
+"lead": "한화갤러리아",
+"lead_ret": 29.95,
+"second": "현대백화점",
+"second_ret": 0.97
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.97,
+"up5": 3,
+"lead": "오가닉티코스메틱",
+"lead_ret": 7.76,
+"second": "씨엑스아이",
+"second_ret": 7.24
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 3.77,
+"up5": 2,
+"lead": "에이티넘인베스트",
+"lead_ret": 24.7,
+"second": "우리기술투자",
+"second_ret": 5.23
+},
+{
+"name": "건설기계",
+"n": 15,
+"avg": 3.65,
+"up5": 2,
+"lead": "대동금속",
+"lead_ret": 29.98,
+"second": "프리엠스",
+"second_ret": 6.84
+},
+{
+"name": "면역항암제",
+"n": 32,
+"avg": 3.36,
+"up5": 7,
+"lead": "앱클론",
+"lead_ret": 15.69,
+"second": "에스티큐브",
+"second_ret": 13.47
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": 3.07,
+"up5": 4,
+"lead": "오킨스전자",
+"lead_ret": 13.07,
+"second": "엑시콘",
+"second_ret": 8.17
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 3.0,
+"up5": 1,
+"lead": "에스티팜",
+"lead_ret": 7.45,
+"second": "삼성바이오로직스",
+"second_ret": 4.25
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": 2.82,
+"up5": 0,
+"lead": "HL만도",
+"lead_ret": 4.52,
+"second": "기아",
+"second_ret": 3.09
+},
+{
+"name": "유전자 치료제/분석",
+"n": 33,
+"avg": 2.81,
+"up5": 5,
+"lead": "앱클론",
+"lead_ret": 15.69,
+"second": "지니너스",
+"second_ret": 8.9
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 2.73,
+"up5": 3,
+"lead": "트리니티항공",
+"lead_ret": 6.45,
+"second": "에어부산",
+"second_ret": 6.07
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 25,
+"avg": 2.71,
+"up5": 3,
+"lead": "에이티넘인베스트",
+"lead_ret": 24.7,
+"second": "갤럭시아머니트리",
+"second_ret": 9.36
+}
+],
+"themes_worst": [
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -1.66,
+"up5": 1,
+"lead": "프리엠스",
+"lead_ret": 6.84,
+"second": "풍산",
+"second_ret": 2.75
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -1.2,
+"up5": 0,
+"lead": "네패스",
+"lead_ret": 0.77,
+"second": "삼성전자",
+"second_ret": 0.64
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -0.82,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": 3.1,
+"second": "티엘비",
+"second_ret": 1.49
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": -0.77,
+"up5": 0,
+"lead": "HJ중공업",
+"lead_ret": 2.89,
+"second": "유신",
+"second_ret": 2.01
+},
+{
+"name": "온디바이스 AI",
+"n": 22,
+"avg": -0.52,
+"up5": 0,
+"lead": "마음AI",
+"lead_ret": 4.0,
+"second": "삼성전기",
+"second_ret": 1.93
+}
+],
+"leaders": [
+{
+"name": "에스와이스틸텍",
+"code": "365330",
+"ret": 10.53,
+"value": 1577,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "한화갤러리아",
+"code": "452260",
+"ret": 29.95,
+"value": 1508,
+"theme": "소매유통",
+"reason": "테마: 소매유통"
+},
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 13.35,
+"value": 1352,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "파라텍",
+"code": "033540",
+"ret": 13.78,
+"value": 1279,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+},
+{
+"name": "대동금속",
+"code": "020400",
+"ret": 29.98,
+"value": 1109,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

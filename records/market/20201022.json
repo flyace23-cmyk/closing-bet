@@ -1,0 +1,238 @@
+{
+"date": "20201022",
+"kospi": -0.67,
+"kosdaq": -2.16,
+"adv": 477,
+"dec": 1331,
+"flat": 139,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 198110,
+"hot": [
+{
+"name": "창투사",
+"n": 5,
+"lead": "우리기술투자",
+"lead_ret": 29.85,
+"second": "에이티넘인베스트",
+"second_ret": 29.83
+}
+],
+"themes": [
+{
+"name": "수산",
+"n": 9,
+"avg": 6.66,
+"up5": 3,
+"lead": "사조씨푸드",
+"lead_ret": 29.83,
+"second": "CJ씨푸드",
+"second_ret": 15.59
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 6.48,
+"up5": 4,
+"lead": "우리기술투자",
+"lead_ret": 29.85,
+"second": "에이티넘인베스트",
+"second_ret": 29.83
+},
+{
+"name": "창투사",
+"n": 15,
+"avg": 5.55,
+"up5": 5,
+"lead": "우리기술투자",
+"lead_ret": 29.85,
+"second": "에이티넘인베스트",
+"second_ret": 29.83
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 5,
+"avg": 3.38,
+"up5": 1,
+"lead": "CJ씨푸드",
+"lead_ret": 15.59,
+"second": "사조대림",
+"second_ret": 2.42
+},
+{
+"name": "가상화폐(비트코인 등)",
+"n": 23,
+"avg": 3.35,
+"up5": 4,
+"lead": "우리기술투자",
+"lead_ret": 29.85,
+"second": "에이티넘인베스트",
+"second_ret": 29.83
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 2.92,
+"up5": 2,
+"lead": "대성창투",
+"lead_ret": 12.16,
+"second": "DSC인베스트먼트",
+"second_ret": 8.01
+},
+{
+"name": "손해보험",
+"n": 7,
+"avg": 2.79,
+"up5": 1,
+"lead": "현대해상",
+"lead_ret": 6.9,
+"second": "DB손해보험",
+"second_ret": 3.61
+},
+{
+"name": "육계",
+"n": 8,
+"avg": 2.53,
+"up5": 1,
+"lead": "체리부로",
+"lead_ret": 12.78,
+"second": "마니커에프앤지",
+"second_ret": 3.73
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 2.46,
+"up5": 0,
+"lead": "iM금융지주",
+"lead_ret": 4.39,
+"second": "신한지주",
+"second_ret": 3.42
+},
+{
+"name": "증권",
+"n": 21,
+"avg": 2.14,
+"up5": 2,
+"lead": "현대차증권",
+"lead_ret": 7.61,
+"second": "대신증권",
+"second_ret": 5.43
+},
+{
+"name": "구제역/광우병 수혜",
+"n": 19,
+"avg": 2.01,
+"up5": 2,
+"lead": "CJ씨푸드",
+"lead_ret": 15.59,
+"second": "동원수산",
+"second_ret": 5.9
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 1.99,
+"up5": 1,
+"lead": "SBI인베스트먼트",
+"lead_ret": 7.43,
+"second": "한화투자증권",
+"second_ret": 3.63
+}
+],
+"themes_worst": [
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 8,
+"avg": -3.93,
+"up5": 0,
+"lead": "한국전력",
+"lead_ret": -1.15,
+"second": "선익시스템",
+"second_ret": -2.74
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 11,
+"avg": -3.88,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 1.08,
+"second": "엠씨넥스",
+"second_ret": -2.4
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -3.72,
+"up5": 0,
+"lead": "퀀텀레일",
+"lead_ret": 0.0,
+"second": "이루온",
+"second_ret": -2.93
+},
+{
+"name": "의료AI",
+"n": 11,
+"avg": -3.68,
+"up5": 0,
+"lead": "제이엘케이",
+"lead_ret": 1.65,
+"second": "인성정보",
+"second_ret": -1.82
+},
+{
+"name": "유전자 치료제/분석",
+"n": 26,
+"avg": -3.58,
+"up5": 0,
+"lead": "녹십자",
+"lead_ret": 4.78,
+"second": "제놀루션",
+"second_ret": 2.33
+}
+],
+"leaders": [
+{
+"name": "시노펙스",
+"code": "025320",
+"ret": 25.48,
+"value": 5854,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+},
+{
+"name": "대한과학",
+"code": "131220",
+"ret": 18.14,
+"value": 4763,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "CJ씨푸드",
+"code": "011150",
+"ret": 15.59,
+"value": 3732,
+"theme": "구제역/광우병 수혜",
+"reason": "테마: 구제역/광우병 수혜"
+},
+{
+"name": "우리기술투자",
+"code": "041190",
+"ret": 29.85,
+"value": 2885,
+"theme": "창투사",
+"reason": "테마: 창투사"
+},
+{
+"name": "서울평가정보",
+"code": "036120",
+"ret": 11.21,
+"value": 2482,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20221202",
+"kospi": -1.84,
+"kosdaq": -1.03,
+"adv": 719,
+"dec": 1219,
+"flat": 185,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 119973,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 4,
+"lead": "가온그룹",
+"lead_ret": 18.96,
+"second": "퍼스텍",
+"second_ret": 16.38
+},
+{
+"name": "자동차부품",
+"n": 3,
+"lead": "웹스",
+"lead_ret": 30.0,
+"second": "현대공업",
+"second_ret": 27.14
+}
+],
+"themes": [
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": 3.61,
+"up5": 2,
+"lead": "알체라",
+"lead_ret": 10.28,
+"second": "스톤브릿지벤처스",
+"second_ret": 7.13
+},
+{
+"name": "DMZ 평화공원",
+"n": 17,
+"avg": 2.74,
+"up5": 2,
+"lead": "웹스",
+"lead_ret": 30.0,
+"second": "퍼스텍",
+"second_ret": 16.38
+},
+{
+"name": "의료AI",
+"n": 19,
+"avg": 2.52,
+"up5": 3,
+"lead": "이지케어텍",
+"lead_ret": 30.0,
+"second": "셀바스AI",
+"second_ret": 5.95
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 2.36,
+"up5": 2,
+"lead": "이지케어텍",
+"lead_ret": 30.0,
+"second": "인피니트헬스케어",
+"second_ret": 12.27
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 1.99,
+"up5": 2,
+"lead": "가온그룹",
+"lead_ret": 18.96,
+"second": "셀바스AI",
+"second_ret": 5.95
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 48,
+"avg": 1.84,
+"up5": 7,
+"lead": "가온그룹",
+"lead_ret": 18.96,
+"second": "퍼스텍",
+"second_ret": 16.38
+},
+{
+"name": "줄기세포",
+"n": 15,
+"avg": 1.66,
+"up5": 1,
+"lead": "풍전약품",
+"lead_ret": 29.86,
+"second": "메타케어",
+"second_ret": 1.34
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.51,
+"up5": 1,
+"lead": "토니모리",
+"lead_ret": 7.85,
+"second": "글로벌텍스프리",
+"second_ret": 4.06
+},
+{
+"name": "증강현실(AR)",
+"n": 14,
+"avg": 1.46,
+"up5": 1,
+"lead": "가온그룹",
+"lead_ret": 18.96,
+"second": "나무가",
+"second_ret": 2.63
+},
+{
+"name": "마이크로바이옴",
+"n": 17,
+"avg": 1.33,
+"up5": 0,
+"lead": "LG생활건강",
+"lead_ret": 3.72,
+"second": "비피도",
+"second_ret": 2.94
+},
+{
+"name": "전기차 화재 방지(배터리 열폭주 등)",
+"n": 21,
+"avg": 1.28,
+"up5": 2,
+"lead": "아이텍",
+"lead_ret": 9.24,
+"second": "신진에스엠",
+"second_ret": 8.7
+},
+{
+"name": "화장품",
+"n": 80,
+"avg": 1.23,
+"up5": 6,
+"lead": "풍전약품",
+"lead_ret": 29.86,
+"second": "애경산업",
+"second_ret": 10.32
+}
+],
+"themes_worst": [
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": -4.27,
+"up5": 0,
+"lead": "자연과환경",
+"lead_ret": 0.83,
+"second": "POSCO홀딩스",
+"second_ret": -1.99
+},
+{
+"name": "조선",
+"n": 5,
+"avg": -3.29,
+"up5": 0,
+"lead": "삼성중공업",
+"lead_ret": -2.3,
+"second": "HD현대중공업",
+"second_ret": -2.95
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": -3.18,
+"up5": 0,
+"lead": "IPARK현대산업개발",
+"lead_ret": -2.16,
+"second": "대우건설",
+"second_ret": -2.58
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": -3.03,
+"up5": 0,
+"lead": "남화토건",
+"lead_ret": 4.88,
+"second": "KCC건설",
+"second_ret": 1.62
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": -3.0,
+"up5": 0,
+"lead": "폴라리스AI",
+"lead_ret": 0.41,
+"second": "세명전기",
+"second_ret": 0.3
+}
+],
+"leaders": [
+{
+"name": "탑머티리얼",
+"code": "360070",
+"ret": 13.86,
+"value": 2319,
+"theme": "2차전지(LFP/리튬인산철)",
+"reason": "테마: 2차전지(LFP/리튬인산철)"
+},
+{
+"name": "현대공업",
+"code": "170030",
+"ret": 27.14,
+"value": 1726,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "퍼스텍",
+"code": "010820",
+"ret": 16.38,
+"value": 1193,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+},
+{
+"name": "HLB파나진",
+"code": "046210",
+"ret": 26.33,
+"value": 981,
+"theme": "유전자 치료제/분석",
+"reason": "테마: 유전자 치료제/분석"
+},
+{
+"name": "케이사인",
+"code": "192250",
+"ret": 12.24,
+"value": 745,
+"theme": "블록체인",
+"reason": "테마: 블록체인"
+}
+],
+"backfilled": true
+}

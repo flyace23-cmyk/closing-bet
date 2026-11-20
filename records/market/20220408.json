@@ -1,0 +1,254 @@
+{
+"date": "20220408",
+"kospi": 0.17,
+"kosdaq": 0.73,
+"adv": 972,
+"dec": 878,
+"flat": 227,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 161938,
+"hot": [
+{
+"name": "2차전지",
+"n": 6,
+"lead": "포스코퓨처엠",
+"lead_ret": 12.1,
+"second": "한농화성",
+"second_ret": 10.31
+},
+{
+"name": "OLED(유기 발광 다이오드)",
+"n": 3,
+"lead": "베셀",
+"lead_ret": 17.46,
+"second": "인베니아",
+"second_ret": 15.15
+},
+{
+"name": "의료기기",
+"n": 3,
+"lead": "엠아이텍",
+"lead_ret": 29.72,
+"second": "코렌텍",
+"second_ret": 11.89
+}
+],
+"themes": [
+{
+"name": "치아 치료(임플란트 등)",
+"n": 11,
+"avg": 2.96,
+"up5": 3,
+"lead": "나이벡",
+"lead_ret": 7.69,
+"second": "덴티움",
+"second_ret": 7.07
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 11,
+"avg": 2.56,
+"up5": 1,
+"lead": "소프트센",
+"lead_ret": 6.0,
+"second": "아모그린텍",
+"second_ret": 4.7
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 62,
+"avg": 2.42,
+"up5": 12,
+"lead": "포스코퓨처엠",
+"lead_ret": 12.1,
+"second": "한농화성",
+"second_ret": 10.31
+},
+{
+"name": "2차전지(전고체)",
+"n": 27,
+"avg": 2.38,
+"up5": 3,
+"lead": "한농화성",
+"lead_ret": 10.31,
+"second": "SK아이이테크놀로지",
+"second_ret": 7.08
+},
+{
+"name": "비만치료제",
+"n": 31,
+"avg": 2.05,
+"up5": 5,
+"lead": "케어젠",
+"lead_ret": 17.71,
+"second": "시너지이노베이션",
+"second_ret": 17.57
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": 2.04,
+"up5": 1,
+"lead": "엑스플러스",
+"lead_ret": 29.99,
+"second": "NHN KCP",
+"second_ret": 1.01
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.96,
+"up5": 2,
+"lead": "코스모신소재",
+"lead_ret": 6.56,
+"second": "원준",
+"second_ret": 5.79
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 7,
+"avg": 1.87,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 8.93,
+"second": "삼성SDI",
+"second_ret": 3.09
+},
+{
+"name": "음원/음반",
+"n": 14,
+"avg": 1.8,
+"up5": 2,
+"lead": "NHN벅스",
+"lead_ret": 11.59,
+"second": "알비더블유",
+"second_ret": 6.91
+},
+{
+"name": "2차전지",
+"n": 109,
+"avg": 1.77,
+"up5": 14,
+"lead": "포스코퓨처엠",
+"lead_ret": 12.1,
+"second": "한농화성",
+"second_ret": 10.31
+},
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 1.76,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 6.55,
+"second": "삼성SDI",
+"second_ret": 3.09
+},
+{
+"name": "무선충전기술",
+"n": 11,
+"avg": 1.75,
+"up5": 1,
+"lead": "LG전자",
+"lead_ret": 6.55,
+"second": "비에이치",
+"second_ret": 3.94
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.01,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 2.03,
+"second": "TKG휴켐스",
+"second_ret": -0.88
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -2.4,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 2.95,
+"second": "가온전선",
+"second_ret": -0.19
+},
+{
+"name": "비료",
+"n": 10,
+"avg": -2.1,
+"up5": 0,
+"lead": "롯데정밀화학",
+"lead_ret": 2.03,
+"second": "누보",
+"second_ret": -0.36
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 8,
+"avg": -1.55,
+"up5": 0,
+"lead": "라온시큐어",
+"lead_ret": 0.82,
+"second": "한빛소프트",
+"second_ret": 0.59
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -1.54,
+"up5": 0,
+"lead": "쿠콘",
+"lead_ret": 1.49,
+"second": "NHN KCP",
+"second_ret": 1.01
+}
+],
+"leaders": [
+{
+"name": "포스코퓨처엠",
+"code": "003670",
+"ret": 12.1,
+"value": 2695,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "엠아이텍",
+"code": "179290",
+"ret": 29.72,
+"value": 1774,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "NHN벅스",
+"code": "104200",
+"ret": 11.59,
+"value": 1425,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "시너지이노베이션",
+"code": "048870",
+"ret": 17.57,
+"value": 1174,
+"theme": "건강기능식품",
+"reason": "테마: 건강기능식품"
+},
+{
+"name": "베셀",
+"code": "177350",
+"ret": 17.46,
+"value": 910,
+"theme": "OLED(유기 발광 다이오드)",
+"reason": "테마: OLED(유기 발광 다이오드)"
+}
+],
+"backfilled": true
+}

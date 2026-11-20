@@ -1,0 +1,254 @@
+{
+"date": "20251212",
+"kospi": 1.38,
+"kosdaq": 0.29,
+"adv": 1429,
+"dec": 825,
+"flat": 138,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 255653,
+"hot": [
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 6,
+"lead": "세아베스틸지주",
+"lead_ret": 29.9,
+"second": "스피어",
+"second_ret": 19.83
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 5,
+"lead": "클로봇",
+"lead_ret": 26.85,
+"second": "크라우드웍스",
+"second_ret": 14.59
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 5,
+"lead": "클로봇",
+"lead_ret": 26.85,
+"second": "TPC로보틱스",
+"second_ret": 21.26
+}
+],
+"themes": [
+{
+"name": "전선",
+"n": 8,
+"avg": 9.87,
+"up5": 6,
+"lead": "LS마린솔루션",
+"lead_ret": 24.15,
+"second": "대원전선",
+"second_ret": 17.68
+},
+{
+"name": "스페이스X(SpaceX)",
+"n": 14,
+"avg": 7.28,
+"up5": 7,
+"lead": "세아베스틸지주",
+"lead_ret": 29.9,
+"second": "스피어",
+"second_ret": 19.83
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 9,
+"avg": 5.89,
+"up5": 4,
+"lead": "LS마린솔루션",
+"lead_ret": 24.15,
+"second": "LS",
+"second_ret": 6.32
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 35,
+"avg": 5.76,
+"up5": 15,
+"lead": "세아베스틸지주",
+"lead_ret": 29.9,
+"second": "스피어",
+"second_ret": 19.83
+},
+{
+"name": "원자력발전소 해체",
+"n": 15,
+"avg": 5.23,
+"up5": 5,
+"lead": "비에이치아이",
+"lead_ret": 21.82,
+"second": "오르비텍",
+"second_ret": 11.8
+},
+{
+"name": "철강 주요종목",
+"n": 11,
+"avg": 4.8,
+"up5": 1,
+"lead": "세아베스틸지주",
+"lead_ret": 29.9,
+"second": "대한제강",
+"second_ret": 3.82
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 4.65,
+"up5": 4,
+"lead": "비에이치아이",
+"lead_ret": 21.82,
+"second": "LS머트리얼즈",
+"second_ret": 10.34
+},
+{
+"name": "부동산 보유 자산주",
+"n": 22,
+"avg": 4.27,
+"up5": 5,
+"lead": "경방",
+"lead_ret": 29.99,
+"second": "삼표시멘트",
+"second_ret": 29.79
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 4.26,
+"up5": 3,
+"lead": "비에이치아이",
+"lead_ret": 21.82,
+"second": "SNT에너지",
+"second_ret": 6.65
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 4.1,
+"up5": 2,
+"lead": "현대건설",
+"lead_ret": 5.98,
+"second": "DL이앤씨",
+"second_ret": 5.25
+},
+{
+"name": "풍력에너지",
+"n": 36,
+"avg": 3.99,
+"up5": 14,
+"lead": "LS마린솔루션",
+"lead_ret": 24.15,
+"second": "태웅",
+"second_ret": 16.57
+},
+{
+"name": "전력설비",
+"n": 34,
+"avg": 3.89,
+"up5": 10,
+"lead": "LS마린솔루션",
+"lead_ret": 24.15,
+"second": "대원전선",
+"second_ret": 17.68
+}
+],
+"themes_worst": [
+{
+"name": "면역항암제",
+"n": 33,
+"avg": -2.21,
+"up5": 1,
+"lead": "이뮨온시아",
+"lead_ret": 8.06,
+"second": "에이프릴바이오",
+"second_ret": 2.72
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.57,
+"up5": 1,
+"lead": "녹십자",
+"lead_ret": 7.21,
+"second": "LG화학",
+"second_ret": 1.64
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -1.54,
+"up5": 0,
+"lead": "잉크테크",
+"lead_ret": 0.62,
+"second": "아모텍",
+"second_ret": 0.22
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.49,
+"up5": 0,
+"lead": "광동제약",
+"lead_ret": 0.99,
+"second": "경동제약",
+"second_ret": 0.5
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": -1.38,
+"up5": 0,
+"lead": "파마리서치",
+"lead_ret": 2.47,
+"second": "디에스케이",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "클로봇",
+"code": "466100",
+"ret": 26.85,
+"value": 10496,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "비에이치아이",
+"code": "083650",
+"ret": 21.82,
+"value": 5157,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "한화시스템",
+"code": "272210",
+"ret": 10.51,
+"value": 3948,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "유진로봇",
+"code": "056080",
+"ret": 14.02,
+"value": 3357,
+"theme": "피지컬 AI/휴머노이드 로봇",
+"reason": "테마: 피지컬 AI/휴머노이드 로봇"
+},
+{
+"name": "삼표시멘트",
+"code": "038500",
+"ret": 29.79,
+"value": 2656,
+"theme": "시멘트/레미콘",
+"reason": "테마: 시멘트/레미콘"
+}
+],
+"backfilled": true
+}

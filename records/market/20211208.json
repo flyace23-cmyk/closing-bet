@@ -1,0 +1,254 @@
+{
+"date": "20211208",
+"kospi": 0.34,
+"kosdaq": 0.94,
+"adv": 765,
+"dec": 1084,
+"flat": 209,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 232959,
+"hot": [
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 5,
+"lead": "셀레믹스",
+"lead_ret": 14.73,
+"second": "한국파마",
+"second_ret": 13.68
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 4,
+"lead": "비트컴퓨터",
+"lead_ret": 21.79,
+"second": "인성정보",
+"second_ret": 13.65
+},
+{
+"name": "의료AI",
+"n": 4,
+"lead": "메디아나",
+"lead_ret": 25.38,
+"second": "스피어",
+"second_ret": 14.42
+}
+],
+"themes": [
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 12.13,
+"up5": 6,
+"lead": "GH신소재",
+"lead_ret": 29.96,
+"second": "콜마바이오텍",
+"second_ret": 16.32
+},
+{
+"name": "원격진료/비대면진료(U-Healthcare)",
+"n": 19,
+"avg": 4.78,
+"up5": 8,
+"lead": "비트컴퓨터",
+"lead_ret": 21.79,
+"second": "스피어",
+"second_ret": 14.42
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": 3.39,
+"up5": 2,
+"lead": "멕아이씨에스",
+"lead_ret": 22.84,
+"second": "수젠텍",
+"second_ret": 7.19
+},
+{
+"name": "의료AI",
+"n": 16,
+"avg": 3.39,
+"up5": 4,
+"lead": "메디아나",
+"lead_ret": 25.38,
+"second": "스피어",
+"second_ret": 14.42
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 2.78,
+"up5": 1,
+"lead": "에코프로비엠",
+"lead_ret": 6.51,
+"second": "에코프로",
+"second_ret": 4.72
+},
+{
+"name": "고령화 사회(노인복지)",
+"n": 34,
+"avg": 2.7,
+"up5": 9,
+"lead": "비트컴퓨터",
+"lead_ret": 21.79,
+"second": "인성정보",
+"second_ret": 13.65
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 2.55,
+"up5": 0,
+"lead": "삼성바이오로직스",
+"lead_ret": 4.22,
+"second": "소마젠",
+"second_ret": 3.37
+},
+{
+"name": "코로나19(진단키트)",
+"n": 37,
+"avg": 2.51,
+"up5": 6,
+"lead": "바이오니아",
+"lead_ret": 12.83,
+"second": "랩지노믹스",
+"second_ret": 9.01
+},
+{
+"name": "유전자 치료제/분석",
+"n": 32,
+"avg": 2.47,
+"up5": 6,
+"lead": "셀레믹스",
+"lead_ret": 14.73,
+"second": "바이오니아",
+"second_ret": 12.83
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 65,
+"avg": 2.42,
+"up5": 10,
+"lead": "셀레믹스",
+"lead_ret": 14.73,
+"second": "한국파마",
+"second_ret": 13.68
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 2.2,
+"up5": 2,
+"lead": "노루페인트",
+"lead_ret": 10.19,
+"second": "벽산",
+"second_ret": 5.25
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 24,
+"avg": 2.1,
+"up5": 3,
+"lead": "한국파마",
+"lead_ret": 13.68,
+"second": "케이바이오랩스",
+"second_ret": 11.78
+}
+],
+"themes_worst": [
+{
+"name": "LED장비",
+"n": 10,
+"avg": -1.67,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 0.48,
+"second": "탑엔지니어링",
+"second_ret": -0.24
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": -1.45,
+"up5": 0,
+"lead": "LS",
+"lead_ret": 0.19,
+"second": "부산산업",
+"second_ret": -0.48
+},
+{
+"name": "5G(5세대 이동통신)",
+"n": 51,
+"avg": -1.36,
+"up5": 0,
+"lead": "엔텔스",
+"lead_ret": 0.51,
+"second": "우리넷",
+"second_ret": 0.51
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.32,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 1.76,
+"second": "유비벨록스",
+"second_ret": 0.94
+},
+{
+"name": "통신장비",
+"n": 41,
+"avg": -1.26,
+"up5": 1,
+"lead": "머큐리",
+"lead_ret": 9.97,
+"second": "가온그룹",
+"second_ret": 2.69
+}
+],
+"leaders": [
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 12.83,
+"value": 4982,
+"theme": "코로나19(진단/치료제/백신 개발 등)",
+"reason": "테마: 코로나19(진단/치료제/백신 개발 등)"
+},
+{
+"name": "컴투스홀딩스",
+"code": "063080",
+"ret": 11.23,
+"value": 2309,
+"theme": "모바일게임(스마트폰)",
+"reason": "테마: 모바일게임(스마트폰)"
+},
+{
+"name": "GH신소재",
+"code": "130500",
+"ret": 29.96,
+"value": 2209,
+"theme": "자동차부품",
+"reason": "테마: 자동차부품"
+},
+{
+"name": "메디아나",
+"code": "041920",
+"ret": 25.38,
+"value": 1859,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "멕아이씨에스",
+"code": "058110",
+"ret": 22.84,
+"value": 1815,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20241211",
+"kospi": 1.02,
+"kosdaq": 2.17,
+"adv": 2050,
+"dec": 199,
+"flat": 62,
+"limit_up": 18,
+"limit_down": 0,
+"value_total": 132009,
+"hot": [
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 6,
+"lead": "케이씨에스",
+"lead_ret": 29.94,
+"second": "엑스게이트",
+"second_ret": 29.93
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"lead": "대성창투",
+"lead_ret": 30.0,
+"second": "오픈놀",
+"second_ret": 29.92
+},
+{
+"name": "철도",
+"n": 3,
+"lead": "케이씨에스",
+"lead_ret": 29.94,
+"second": "한국종합기술",
+"second_ret": 29.93
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 8,
+"avg": 21.92,
+"up5": 8,
+"lead": "대성창투",
+"lead_ret": 30.0,
+"second": "오픈놀",
+"second_ret": 29.92
+},
+{
+"name": "지역화폐",
+"n": 5,
+"avg": 12.57,
+"up5": 4,
+"lead": "웹케시",
+"lead_ret": 29.91,
+"second": "유라클",
+"second_ret": 15.96
+},
+{
+"name": "양자암호/양자컴퓨팅",
+"n": 26,
+"avg": 10.78,
+"up5": 18,
+"lead": "케이씨에스",
+"lead_ret": 29.94,
+"second": "엑스게이트",
+"second_ret": 29.93
+},
+{
+"name": "출산장려정책",
+"n": 19,
+"avg": 10.21,
+"up5": 11,
+"lead": "에피소드컴퍼니",
+"lead_ret": 30.0,
+"second": "깨끗한나라",
+"second_ret": 29.93
+},
+{
+"name": "창투사",
+"n": 19,
+"avg": 10.06,
+"up5": 15,
+"lead": "대성창투",
+"lead_ret": 30.0,
+"second": "린드먼아시아",
+"second_ret": 29.93
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 8.28,
+"up5": 9,
+"lead": "아이씨티케이",
+"lead_ret": 23.12,
+"second": "이스트소프트",
+"second_ret": 15.3
+},
+{
+"name": "테마파크",
+"n": 6,
+"avg": 8.18,
+"up5": 3,
+"lead": "한국종합기술",
+"lead_ret": 29.93,
+"second": "시공테크",
+"second_ret": 8.25
+},
+{
+"name": "교육/온라인 교육",
+"n": 23,
+"avg": 8.12,
+"up5": 10,
+"lead": "에피소드컴퍼니",
+"lead_ret": 30.0,
+"second": "아이비김영",
+"second_ret": 24.41
+},
+{
+"name": "캐릭터상품",
+"n": 7,
+"avg": 7.96,
+"up5": 4,
+"lead": "에피소드컴퍼니",
+"lead_ret": 30.0,
+"second": "SAMG엔터",
+"second_ret": 8.4
+},
+{
+"name": "초전도체",
+"n": 15,
+"avg": 7.75,
+"up5": 8,
+"lead": "아센디오",
+"lead_ret": 21.69,
+"second": "신성델타테크",
+"second_ret": 18.09
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 7.5,
+"up5": 5,
+"lead": "대성창투",
+"lead_ret": 30.0,
+"second": "TS인베스트먼트",
+"second_ret": 17.94
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 7.5,
+"up5": 10,
+"lead": "에피소드컴퍼니",
+"lead_ret": 30.0,
+"second": "메디앙스",
+"second_ret": 29.8
+}
+],
+"themes_worst": [
+{
+"name": "IT 대표주",
+"n": 6,
+"avg": 0.62,
+"up5": 0,
+"lead": "LG전자",
+"lead_ret": 1.9,
+"second": "LG디스플레이",
+"second_ret": 1.85
+},
+{
+"name": "도시가스",
+"n": 9,
+"avg": 0.79,
+"up5": 0,
+"lead": "삼천리",
+"lead_ret": 2.3,
+"second": "대성에너지",
+"second_ret": 1.97
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 0.98,
+"up5": 2,
+"lead": "휴메딕스",
+"lead_ret": 5.65,
+"second": "청담글로벌",
+"second_ret": 5.05
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 0.99,
+"up5": 0,
+"lead": "삼성전기",
+"lead_ret": 2.58,
+"second": "SK스퀘어",
+"second_ret": 1.28
+},
+{
+"name": "환율하락 수혜",
+"n": 23,
+"avg": 1.07,
+"up5": 0,
+"lead": "한탑",
+"lead_ret": 3.82,
+"second": "모두투어",
+"second_ret": 3.82
+}
+],
+"leaders": [
+{
+"name": "이스트소프트",
+"code": "047560",
+"ret": 15.3,
+"value": 2588,
+"theme": "딥페이크(deepfake)",
+"reason": "테마: 딥페이크(deepfake)"
+},
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 18.09,
+"value": 1889,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "쓰리빌리언",
+"code": "394800",
+"ret": 25.77,
+"value": 1766,
+"theme": "의료AI",
+"reason": "테마: 의료AI"
+},
+{
+"name": "한미반도체",
+"code": "042700",
+"ret": 13.94,
+"value": 1497,
+"theme": "스페이스X(SpaceX)",
+"reason": "테마: 스페이스X(SpaceX)"
+},
+{
+"name": "아톤",
+"code": "158430",
+"ret": 13.06,
+"value": 648,
+"theme": "양자암호/양자컴퓨팅",
+"reason": "테마: 양자암호/양자컴퓨팅"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20230810",
+"kospi": -0.14,
+"kosdaq": 0.25,
+"adv": 1143,
+"dec": 931,
+"flat": 107,
+"limit_up": 15,
+"limit_down": 0,
+"value_total": 211417,
+"hot": [
+{
+"name": "화장품",
+"n": 16,
+"lead": "뷰티스킨",
+"lead_ret": 30.0,
+"second": "차AI헬스케어",
+"second_ret": 29.98
+},
+{
+"name": "호텔/리조트",
+"n": 4,
+"lead": "롯데관광개발",
+"lead_ret": 29.99,
+"second": "아난티",
+"second_ret": 25.26
+},
+{
+"name": "면세점",
+"n": 4,
+"lead": "토니모리",
+"lead_ret": 29.94,
+"second": "호텔신라",
+"second_ret": 17.3
+}
+],
+"themes": [
+{
+"name": "면세점",
+"n": 8,
+"avg": 14.07,
+"up5": 7,
+"lead": "토니모리",
+"lead_ret": 29.94,
+"second": "호텔신라",
+"second_ret": 17.3
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 13.71,
+"up5": 4,
+"lead": "롯데관광개발",
+"lead_ret": 29.99,
+"second": "GKL",
+"second_ret": 20.45
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 13.71,
+"up5": 4,
+"lead": "롯데관광개발",
+"lead_ret": 29.99,
+"second": "GKL",
+"second_ret": 20.45
+},
+{
+"name": "호텔/리조트",
+"n": 12,
+"avg": 9.82,
+"up5": 7,
+"lead": "롯데관광개발",
+"lead_ret": 29.99,
+"second": "아난티",
+"second_ret": 25.26
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 9.39,
+"up5": 5,
+"lead": "롯데관광개발",
+"lead_ret": 29.99,
+"second": "노랑풍선",
+"second_ret": 17.4
+},
+{
+"name": "화장품",
+"n": 84,
+"avg": 7.89,
+"up5": 41,
+"lead": "뷰티스킨",
+"lead_ret": 30.0,
+"second": "차AI헬스케어",
+"second_ret": 29.98
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 6.66,
+"up5": 4,
+"lead": "현대백화점",
+"lead_ret": 15.4,
+"second": "신세계",
+"second_ret": 9.33
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 6.43,
+"up5": 6,
+"lead": "에어부산",
+"lead_ret": 12.16,
+"second": "아시아나항공",
+"second_ret": 9.42
+},
+{
+"name": "소매유통",
+"n": 17,
+"avg": 5.57,
+"up5": 6,
+"lead": "청담글로벌",
+"lead_ret": 18.9,
+"second": "호텔신라",
+"second_ret": 17.3
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 4.09,
+"up5": 2,
+"lead": "에이프로젠바이오로직스",
+"lead_ret": 29.92,
+"second": "에이프로젠",
+"second_ret": 29.85
+},
+{
+"name": "보톡스(보툴리눔톡신)",
+"n": 12,
+"avg": 4.06,
+"up5": 3,
+"lead": "청담글로벌",
+"lead_ret": 18.9,
+"second": "파마리서치",
+"second_ret": 9.89
+},
+{
+"name": "엔젤산업",
+"n": 22,
+"avg": 3.99,
+"up5": 6,
+"lead": "오가닉티코스메틱",
+"lead_ret": 29.56,
+"second": "제로투세븐",
+"second_ret": 15.33
+}
+],
+"themes_worst": [
+{
+"name": "태풍 및 장마",
+"n": 9,
+"avg": -3.47,
+"up5": 0,
+"lead": "대동",
+"lead_ret": 2.18,
+"second": "파루",
+"second_ret": 0.66
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": -3.35,
+"up5": 0,
+"lead": "웰크론한텍",
+"lead_ret": 1.52,
+"second": "서한",
+"second_ret": 1.32
+},
+{
+"name": "온디바이스 AI",
+"n": 21,
+"avg": -3.09,
+"up5": 0,
+"lead": "에이팩트",
+"lead_ret": 0.93,
+"second": "큐알티",
+"second_ret": 0.25
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -3.05,
+"up5": 0,
+"lead": "네오티스",
+"lead_ret": 0.26,
+"second": "LG이노텍",
+"second_ret": -0.38
+},
+{
+"name": "반도체 장비",
+"n": 85,
+"avg": -2.46,
+"up5": 0,
+"lead": "탑엔지니어링",
+"lead_ret": 4.72,
+"second": "티씨케이",
+"second_ret": 1.65
+}
+],
+"leaders": [
+{
+"name": "신성델타테크",
+"code": "065350",
+"ret": 29.89,
+"value": 5843,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "호텔신라",
+"code": "008770",
+"ret": 17.3,
+"value": 4917,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "파라다이스",
+"code": "034230",
+"ret": 18.13,
+"value": 3584,
+"theme": "호텔/리조트",
+"reason": "테마: 호텔/리조트"
+},
+{
+"name": "파워로직스",
+"code": "047310",
+"ret": 17.44,
+"value": 2951,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "펩트론",
+"code": "087010",
+"ret": 12.67,
+"value": 2748,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

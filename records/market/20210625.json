@@ -1,0 +1,254 @@
+{
+"date": "20210625",
+"kospi": 0.51,
+"kosdaq": -0.05,
+"adv": 1105,
+"dec": 658,
+"flat": 249,
+"limit_up": 2,
+"limit_down": 0,
+"value_total": 278835,
+"hot": [
+{
+"name": "시스템반도체",
+"n": 5,
+"lead": "에스앤에스텍",
+"lead_ret": 11.43,
+"second": "아이텍",
+"second_ret": 7.66
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "KEC",
+"lead_ret": 13.04,
+"second": "HLB이노베이션",
+"second_ret": 11.44
+},
+{
+"name": "전기차",
+"n": 3,
+"lead": "네오오토",
+"lead_ret": 29.64,
+"second": "KEC",
+"second_ret": 13.04
+}
+],
+"themes": [
+{
+"name": "손해보험",
+"n": 7,
+"avg": 3.71,
+"up5": 2,
+"lead": "DB손해보험",
+"lead_ret": 6.94,
+"second": "한화손해보험",
+"second_ret": 5.18
+},
+{
+"name": "해운",
+"n": 5,
+"avg": 3.45,
+"up5": 1,
+"lead": "팬오션",
+"lead_ret": 10.27,
+"second": "HMM",
+"second_ret": 3.49
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 2.42,
+"up5": 1,
+"lead": "대창솔루션",
+"lead_ret": 15.59,
+"second": "한전기술",
+"second_ret": 3.16
+},
+{
+"name": "은행",
+"n": 9,
+"avg": 2.3,
+"up5": 0,
+"lead": "BNK금융지주",
+"lead_ret": 3.97,
+"second": "iM금융지주",
+"second_ret": 3.67
+},
+{
+"name": "LNG(액화천연가스)",
+"n": 23,
+"avg": 1.89,
+"up5": 2,
+"lead": "대창솔루션",
+"lead_ret": 15.59,
+"second": "팬오션",
+"second_ret": 10.27
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 1.86,
+"up5": 2,
+"lead": "대창솔루션",
+"lead_ret": 15.59,
+"second": "아이텍",
+"second_ret": 7.66
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 1.83,
+"up5": 0,
+"lead": "한국선재",
+"lead_ret": 4.28,
+"second": "동아지질",
+"second_ret": 4.02
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 1.8,
+"up5": 1,
+"lead": "오픈베이스",
+"lead_ret": 6.65,
+"second": "인성정보",
+"second_ret": 2.81
+},
+{
+"name": "시스템반도체",
+"n": 40,
+"avg": 1.75,
+"up5": 5,
+"lead": "에스앤에스텍",
+"lead_ret": 11.43,
+"second": "아이텍",
+"second_ret": 7.66
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.75,
+"up5": 1,
+"lead": "이마트",
+"lead_ret": 5.1,
+"second": "롯데지주",
+"second_ret": 1.54
+},
+{
+"name": "조선기자재",
+"n": 28,
+"avg": 1.74,
+"up5": 2,
+"lead": "대창솔루션",
+"lead_ret": 15.59,
+"second": "HD현대마린엔진",
+"second_ret": 7.09
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.64,
+"up5": 0,
+"lead": "현대백화점",
+"lead_ret": 3.72,
+"second": "호텔신라",
+"second_ret": 2.71
+}
+],
+"themes_worst": [
+{
+"name": "음원/음반",
+"n": 13,
+"avg": -1.83,
+"up5": 0,
+"lead": "다날",
+"lead_ret": 0.82,
+"second": "드림어스컴퍼니",
+"second_ret": 0.34
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": -1.13,
+"up5": 0,
+"lead": "팬엔터테인먼트",
+"lead_ret": 2.77,
+"second": "아센디오",
+"second_ret": 2.6
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": -0.77,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 0.0,
+"second": "삼화콘덴서",
+"second_ret": 0.0
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": -0.65,
+"up5": 0,
+"lead": "현대모비스",
+"lead_ret": 0.69,
+"second": "브리지텍",
+"second_ret": 0.52
+},
+{
+"name": "웹툰",
+"n": 12,
+"avg": -0.65,
+"up5": 1,
+"lead": "조이시티",
+"lead_ret": 7.25,
+"second": "미투온",
+"second_ret": 0.47
+}
+],
+"leaders": [
+{
+"name": "신풍제약",
+"code": "019170",
+"ret": 14.27,
+"value": 13585,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "팬오션",
+"code": "028670",
+"ret": 10.27,
+"value": 7186,
+"theme": "해운",
+"reason": "테마: 해운"
+},
+{
+"name": "한전산업",
+"code": "130660",
+"ret": 16.26,
+"value": 5655,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "엑세스바이오",
+"code": "950130",
+"ret": 10.5,
+"value": 5271,
+"theme": "마이코플라스마 폐렴",
+"reason": "테마: 마이코플라스마 폐렴"
+},
+{
+"name": "KEC",
+"code": "092220",
+"ret": 13.04,
+"value": 1962,
+"theme": "반도체 재료/부품",
+"reason": "테마: 반도체 재료/부품"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,246 @@
+{
+"date": "20201021",
+"kospi": 0.53,
+"kosdaq": 0.73,
+"adv": 1285,
+"dec": 497,
+"flat": 165,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 198060,
+"hot": [
+{
+"name": "의료기기",
+"n": 3,
+"lead": "HLB생명과학",
+"lead_ret": 11.75,
+"second": "메디아나",
+"second_ret": 11.18
+},
+{
+"name": "코로나19(진단/치료제/백신 개발 등)",
+"n": 3,
+"lead": "인바이오젠",
+"lead_ret": 14.58,
+"second": "바이오니아",
+"second_ret": 13.53
+}
+],
+"themes": [
+{
+"name": "건설기계",
+"n": 14,
+"avg": 5.43,
+"up5": 4,
+"lead": "수산세보틱스",
+"lead_ret": 29.75,
+"second": "서연탑메탈",
+"second_ret": 12.12
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": 5.2,
+"up5": 2,
+"lead": "대한과학",
+"lead_ret": 29.52,
+"second": "일신바이오",
+"second_ret": 14.93
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 5.06,
+"up5": 2,
+"lead": "컬러레이",
+"lead_ret": 20.47,
+"second": "윙입푸드",
+"second_ret": 5.88
+},
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 3.82,
+"up5": 2,
+"lead": "LS마린솔루션",
+"lead_ret": 13.07,
+"second": "특수건설",
+"second_ret": 6.69
+},
+{
+"name": "오가노이드",
+"n": 6,
+"avg": 3.68,
+"up5": 1,
+"lead": "일신바이오",
+"lead_ret": 14.93,
+"second": "티앤알바이오팹",
+"second_ret": 3.83
+},
+{
+"name": "화이자(PFIZER)",
+"n": 5,
+"avg": 3.54,
+"up5": 2,
+"lead": "서울제약",
+"lead_ret": 9.09,
+"second": "제일약품",
+"second_ret": 5.61
+},
+{
+"name": "셰일가스(Shale Gas)",
+"n": 11,
+"avg": 3.46,
+"up5": 4,
+"lead": "한국카본",
+"lead_ret": 13.64,
+"second": "한국가스공사",
+"second_ret": 8.17
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 3.42,
+"up5": 1,
+"lead": "LS마린솔루션",
+"lead_ret": 13.07,
+"second": "LS",
+"second_ret": 4.84
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 8,
+"avg": 3.33,
+"up5": 3,
+"lead": "한네트",
+"lead_ret": 9.78,
+"second": "로지시스",
+"second_ret": 6.41
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 37,
+"avg": 3.26,
+"up5": 5,
+"lead": "수산세보틱스",
+"lead_ret": 29.75,
+"second": "서연탑메탈",
+"second_ret": 12.12
+},
+{
+"name": "농업",
+"n": 21,
+"avg": 3.23,
+"up5": 3,
+"lead": "그린생명과학",
+"lead_ret": 29.67,
+"second": "대동기어",
+"second_ret": 11.91
+},
+{
+"name": "토스(toss)",
+"n": 5,
+"avg": 2.93,
+"up5": 0,
+"lead": "한국전자인증",
+"lead_ret": 3.69,
+"second": "하나금융지주",
+"second_ret": 3.29
+}
+],
+"themes_worst": [
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -1.39,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 2.45,
+"second": "현대차",
+"second_ret": -1.19
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 8,
+"avg": -0.76,
+"up5": 0,
+"lead": "아모텍",
+"lead_ret": 1.83,
+"second": "삼화콘덴서",
+"second_ret": 1.3
+},
+{
+"name": "자율주행차",
+"n": 45,
+"avg": -0.72,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 2.59,
+"second": "세코닉스",
+"second_ret": 2.47
+},
+{
+"name": "원자력발전소 해체",
+"n": 11,
+"avg": -0.66,
+"up5": 0,
+"lead": "비츠로테크",
+"lead_ret": 1.26,
+"second": "한전기술",
+"second_ret": 1.22
+},
+{
+"name": "면역항암제",
+"n": 25,
+"avg": -0.42,
+"up5": 1,
+"lead": "HLB",
+"lead_ret": 7.02,
+"second": "헬릭스미스",
+"second_ret": 4.59
+}
+],
+"leaders": [
+{
+"name": "일신바이오",
+"code": "068330",
+"ret": 14.93,
+"value": 4024,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "그린생명과학",
+"code": "114450",
+"ret": 29.67,
+"value": 3530,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 11.75,
+"value": 2137,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "대한과학",
+"code": "131220",
+"ret": 29.52,
+"value": 2042,
+"theme": "콜드체인(저온 유통)",
+"reason": "테마: 콜드체인(저온 유통)"
+},
+{
+"name": "타임X AI",
+"code": "304840",
+"ret": 13.39,
+"value": 1816,
+"theme": "탈모 치료",
+"reason": "테마: 탈모 치료"
+}
+],
+"backfilled": true
+}

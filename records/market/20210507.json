@@ -1,0 +1,254 @@
+{
+"date": "20210507",
+"kospi": 0.58,
+"kosdaq": 0.86,
+"adv": 1297,
+"dec": 513,
+"flat": 190,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 215872,
+"hot": [
+{
+"name": "지주사",
+"n": 4,
+"lead": "현대지에프홀딩스",
+"lead_ret": 10.42,
+"second": "화승엔터프라이즈",
+"second_ret": 10.4
+},
+{
+"name": "철도",
+"n": 4,
+"lead": "특수건설",
+"lead_ret": 29.84,
+"second": "남광토건",
+"second_ret": 19.8
+},
+{
+"name": "건설 중소형",
+"n": 3,
+"lead": "남광토건",
+"lead_ret": 19.8,
+"second": "삼호개발",
+"second_ret": 15.3
+}
+],
+"themes": [
+{
+"name": "해저터널(지하화/지하도로 등)",
+"n": 8,
+"avg": 7.0,
+"up5": 4,
+"lead": "특수건설",
+"lead_ret": 29.84,
+"second": "동아지질",
+"second_ret": 12.12
+},
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": 5.2,
+"up5": 1,
+"lead": "에피소드컴퍼니",
+"lead_ret": 20.34,
+"second": "리튬포어스",
+"second_ret": 4.35
+},
+{
+"name": "일자리(취업)",
+"n": 6,
+"avg": 4.65,
+"up5": 1,
+"lead": "아이비김영",
+"lead_ret": 17.84,
+"second": "메가엠디",
+"second_ret": 4.61
+},
+{
+"name": "건설 중소형",
+"n": 27,
+"avg": 4.64,
+"up5": 9,
+"lead": "남광토건",
+"lead_ret": 19.8,
+"second": "삼호개발",
+"second_ret": 15.3
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 4.61,
+"up5": 3,
+"lead": "노루페인트",
+"lead_ret": 14.23,
+"second": "노루홀딩스",
+"second_ret": 9.45
+},
+{
+"name": "GTX(수도권 광역급행철도)",
+"n": 24,
+"avg": 4.35,
+"up5": 4,
+"lead": "특수건설",
+"lead_ret": 29.84,
+"second": "남광토건",
+"second_ret": 19.8
+},
+{
+"name": "교육/온라인 교육",
+"n": 21,
+"avg": 3.91,
+"up5": 6,
+"lead": "에피소드컴퍼니",
+"lead_ret": 20.34,
+"second": "아이비김영",
+"second_ret": 17.84
+},
+{
+"name": "철도",
+"n": 40,
+"avg": 2.92,
+"up5": 7,
+"lead": "특수건설",
+"lead_ret": 29.84,
+"second": "남광토건",
+"second_ret": 19.8
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.88,
+"up5": 2,
+"lead": "아모그린텍",
+"lead_ret": 11.07,
+"second": "삼화전기",
+"second_ret": 5.66
+},
+{
+"name": "페라이트",
+"n": 13,
+"avg": 2.88,
+"up5": 2,
+"lead": "아모그린텍",
+"lead_ret": 11.07,
+"second": "삼화전기",
+"second_ret": 5.66
+},
+{
+"name": "리모델링/인테리어",
+"n": 22,
+"avg": 2.87,
+"up5": 3,
+"lead": "라이온켐텍",
+"lead_ret": 15.24,
+"second": "한솔홈데코",
+"second_ret": 9.05
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.71,
+"up5": 2,
+"lead": "레드캡투어",
+"lead_ret": 8.12,
+"second": "그래디언트",
+"second_ret": 5.37
+}
+],
+"themes_worst": [
+{
+"name": "조선기자재",
+"n": 28,
+"avg": -1.55,
+"up5": 0,
+"lead": "비엠티",
+"lead_ret": 4.0,
+"second": "태광",
+"second_ret": 2.92
+},
+{
+"name": "마이코플라스마 폐렴",
+"n": 11,
+"avg": -1.03,
+"up5": 0,
+"lead": "인트론바이오",
+"lead_ret": 1.79,
+"second": "국전",
+"second_ret": 1.77
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": -0.89,
+"up5": 0,
+"lead": "대신정보통신",
+"lead_ret": 2.17,
+"second": "이월드",
+"second_ret": 0.28
+},
+{
+"name": "니켈",
+"n": 10,
+"avg": -0.74,
+"up5": 0,
+"lead": "LX인터내셔널",
+"lead_ret": 2.31,
+"second": "삼화전자",
+"second_ret": 2.22
+},
+{
+"name": "아스콘(아스팔트 콘크리트)",
+"n": 9,
+"avg": -0.62,
+"up5": 0,
+"lead": "스페코",
+"lead_ret": 2.7,
+"second": "유진기업",
+"second_ret": 1.72
+}
+],
+"leaders": [
+{
+"name": "특수건설",
+"code": "026150",
+"ret": 29.84,
+"value": 2571,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "노루페인트",
+"code": "090350",
+"ret": 14.23,
+"value": 1784,
+"theme": "페인트",
+"reason": "테마: 페인트"
+},
+{
+"name": "동일제강",
+"code": "002690",
+"ret": 11.2,
+"value": 1577,
+"theme": "철도",
+"reason": "테마: 철도"
+},
+{
+"name": "아이비김영",
+"code": "339950",
+"ret": 17.84,
+"value": 1499,
+"theme": "교육/온라인 교육",
+"reason": "테마: 교육/온라인 교육"
+},
+{
+"name": "삼성제약",
+"code": "001360",
+"ret": 29.95,
+"value": 1448,
+"theme": "치매",
+"reason": "테마: 치매"
+}
+],
+"backfilled": true
+}

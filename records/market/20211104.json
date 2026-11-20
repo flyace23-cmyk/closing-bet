@@ -1,0 +1,254 @@
+{
+"date": "20211104",
+"kospi": 0.25,
+"kosdaq": -0.36,
+"adv": 543,
+"dec": 1358,
+"flat": 148,
+"limit_up": 2,
+"limit_down": 1,
+"value_total": 428002,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "한전기술",
+"lead_ret": 23.9,
+"second": "일진파워",
+"second_ret": 17.24
+},
+{
+"name": "2차전지",
+"n": 4,
+"lead": "새로닉스",
+"lead_ret": 8.66,
+"second": "에코프로비엠",
+"second_ret": 7.27
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "한전기술",
+"lead_ret": 23.9,
+"second": "한전KPS",
+"second_ret": 7.57
+}
+],
+"themes": [
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 7,
+"avg": 5.42,
+"up5": 2,
+"lead": "씨티케이",
+"lead_ret": 29.86,
+"second": "삼륭물산",
+"second_ret": 6.41
+},
+{
+"name": "비료",
+"n": 10,
+"avg": 3.71,
+"up5": 3,
+"lead": "효성오앤비",
+"lead_ret": 29.63,
+"second": "남해화학",
+"second_ret": 10.79
+},
+{
+"name": "원자력발전소 해체",
+"n": 12,
+"avg": 3.63,
+"up5": 3,
+"lead": "한전기술",
+"lead_ret": 23.9,
+"second": "한전KPS",
+"second_ret": 7.57
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.67,
+"up5": 3,
+"lead": "효성오앤비",
+"lead_ret": 29.63,
+"second": "이건홀딩스",
+"second_ret": 5.61
+},
+{
+"name": "조림사업",
+"n": 11,
+"avg": 2.67,
+"up5": 3,
+"lead": "효성오앤비",
+"lead_ret": 29.63,
+"second": "이건홀딩스",
+"second_ret": 5.61
+},
+{
+"name": "핵융합에너지",
+"n": 7,
+"avg": 2.63,
+"up5": 2,
+"lead": "일진파워",
+"lead_ret": 17.24,
+"second": "두산에너빌리티",
+"second_ret": 6.7
+},
+{
+"name": "모듈러주택",
+"n": 9,
+"avg": 1.85,
+"up5": 2,
+"lead": "덕신이피씨",
+"lead_ret": 14.42,
+"second": "자연과환경",
+"second_ret": 5.48
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 6,
+"avg": 1.73,
+"up5": 2,
+"lead": "에코프로비엠",
+"lead_ret": 7.27,
+"second": "에코프로",
+"second_ret": 6.45
+},
+{
+"name": "농업",
+"n": 22,
+"avg": 1.67,
+"up5": 4,
+"lead": "효성오앤비",
+"lead_ret": 29.63,
+"second": "남해화학",
+"second_ret": 10.79
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 9,
+"avg": 1.58,
+"up5": 1,
+"lead": "대주전자재료",
+"lead_ret": 7.03,
+"second": "코스모신소재",
+"second_ret": 2.51
+},
+{
+"name": "음성인식",
+"n": 11,
+"avg": 1.57,
+"up5": 2,
+"lead": "가온그룹",
+"lead_ret": 6.8,
+"second": "셀바스AI",
+"second_ret": 6.51
+},
+{
+"name": "테마파크",
+"n": 5,
+"avg": 1.57,
+"up5": 1,
+"lead": "한국종합기술",
+"lead_ret": 15.34,
+"second": "현대건설",
+"second_ret": 0.39
+}
+],
+"themes_worst": [
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": -3.35,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 4.42,
+"second": "코오롱",
+"second_ret": -1.03
+},
+{
+"name": "화폐/금융자동화기기(디지털화폐 등)",
+"n": 9,
+"avg": -3.22,
+"up5": 0,
+"lead": "푸른로보틱스",
+"lead_ret": 0.0,
+"second": "누리플렉스",
+"second_ret": -0.72
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -3.22,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": 1.54,
+"second": "KG케미칼",
+"second_ret": -3.63
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 34,
+"avg": -3.18,
+"up5": 0,
+"lead": "엠게임",
+"lead_ret": 3.62,
+"second": "카카오게임즈",
+"second_ret": 2.47
+},
+{
+"name": "게임",
+"n": 28,
+"avg": -3.13,
+"up5": 0,
+"lead": "엠게임",
+"lead_ret": 3.62,
+"second": "카카오게임즈",
+"second_ret": 2.47
+}
+],
+"leaders": [
+{
+"name": "한전기술",
+"code": "052690",
+"ret": 23.9,
+"value": 5862,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "일진파워",
+"code": "094820",
+"ret": 17.24,
+"value": 5110,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "남해화학",
+"code": "025860",
+"ret": 10.79,
+"value": 3402,
+"theme": "농업",
+"reason": "테마: 농업"
+},
+{
+"name": "갤럭시아머니트리",
+"code": "094480",
+"ret": 11.74,
+"value": 1682,
+"theme": "핀테크(FinTech)",
+"reason": "테마: 핀테크(FinTech)"
+},
+{
+"name": "효성오앤비",
+"code": "097870",
+"ret": 29.63,
+"value": 1241,
+"theme": "조림사업",
+"reason": "테마: 조림사업"
+}
+],
+"backfilled": true
+}

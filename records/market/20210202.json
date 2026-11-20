@@ -1,0 +1,238 @@
+{
+"date": "20210202",
+"kospi": 1.32,
+"kosdaq": 0.72,
+"adv": 1386,
+"dec": 433,
+"flat": 158,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 355663,
+"hot": [
+{
+"name": "자동차부품",
+"n": 4,
+"lead": "링크드",
+"lead_ret": 29.73,
+"second": "구영테크",
+"second_ret": 12.23
+}
+],
+"themes": [
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": 6.31,
+"up5": 3,
+"lead": "한화투자증권",
+"lead_ret": 12.04,
+"second": "그래디언트",
+"second_ret": 9.76
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 5.19,
+"up5": 3,
+"lead": "코오롱인더",
+"lead_ret": 17.04,
+"second": "한국앤컴퍼니",
+"second_ret": 9.97
+},
+{
+"name": "두나무(Dunamu)",
+"n": 11,
+"avg": 4.37,
+"up5": 4,
+"lead": "코오롱인더",
+"lead_ret": 17.04,
+"second": "한화투자증권",
+"second_ret": 12.04
+},
+{
+"name": "영상콘텐츠",
+"n": 22,
+"avg": 4.01,
+"up5": 4,
+"lead": "삼화네트웍스",
+"lead_ret": 29.88,
+"second": "NEW",
+"second_ret": 10.33
+},
+{
+"name": "드론(Drone)",
+"n": 24,
+"avg": 3.96,
+"up5": 7,
+"lead": "베셀",
+"lead_ret": 13.52,
+"second": "인지컨트롤스",
+"second_ret": 10.37
+},
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 22,
+"avg": 3.87,
+"up5": 5,
+"lead": "현대바이오",
+"lead_ret": 29.91,
+"second": "한국파마",
+"second_ret": 21.68
+},
+{
+"name": "석유화학",
+"n": 18,
+"avg": 3.87,
+"up5": 5,
+"lead": "코오롱인더",
+"lead_ret": 17.04,
+"second": "티케이케미칼",
+"second_ret": 14.07
+},
+{
+"name": "NI(네트워크통합)",
+"n": 7,
+"avg": 3.69,
+"up5": 1,
+"lead": "아이티센씨티에스",
+"lead_ret": 11.69,
+"second": "에스넷",
+"second_ret": 3.79
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": 3.57,
+"up5": 2,
+"lead": "글로벌에스엠",
+"lead_ret": 10.81,
+"second": "딥커머스",
+"second_ret": 5.97
+},
+{
+"name": "화학섬유",
+"n": 6,
+"avg": 3.47,
+"up5": 2,
+"lead": "코오롱인더",
+"lead_ret": 17.04,
+"second": "효성티앤씨",
+"second_ret": 6.94
+},
+{
+"name": "의료AI",
+"n": 12,
+"avg": 2.97,
+"up5": 2,
+"lead": "폴라리스오피스",
+"lead_ret": 11.88,
+"second": "제이에스링크",
+"second_ret": 8.65
+},
+{
+"name": "엔터테인먼트",
+"n": 26,
+"avg": 2.95,
+"up5": 4,
+"lead": "삼화네트웍스",
+"lead_ret": 29.88,
+"second": "NEW",
+"second_ret": 10.33
+}
+],
+"themes_worst": [
+{
+"name": "캐릭터상품",
+"n": 6,
+"avg": -0.38,
+"up5": 1,
+"lead": "대원미디어",
+"lead_ret": 8.79,
+"second": "에피소드컴퍼니",
+"second_ret": 2.39
+},
+{
+"name": "LED장비",
+"n": 10,
+"avg": -0.37,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": 2.79,
+"second": "이오테크닉스",
+"second_ret": 1.53
+},
+{
+"name": "해운",
+"n": 5,
+"avg": -0.24,
+"up5": 0,
+"lead": "팬오션",
+"lead_ret": 0.54,
+"second": "KSS해운",
+"second_ret": 0.47
+},
+{
+"name": "콜드체인(저온 유통)",
+"n": 13,
+"avg": -0.17,
+"up5": 1,
+"lead": "SCL사이언스",
+"lead_ret": 5.32,
+"second": "대한과학",
+"second_ret": 2.06
+},
+{
+"name": "자동차 대표주",
+"n": 7,
+"avg": -0.15,
+"up5": 0,
+"lead": "한온시스템",
+"lead_ret": 1.7,
+"second": "현대차",
+"second_ret": 0.84
+}
+],
+"leaders": [
+{
+"name": "현대바이오",
+"code": "048410",
+"ret": 29.91,
+"value": 5677,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "한국파마",
+"code": "032300",
+"ret": 21.68,
+"value": 4259,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "코오롱인더",
+"code": "120110",
+"ret": 17.04,
+"value": 3013,
+"theme": "플렉서블 디스플레이",
+"reason": "테마: 플렉서블 디스플레이"
+},
+{
+"name": "삼화네트웍스",
+"code": "046390",
+"ret": 29.88,
+"value": 2422,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "아틀라스링크",
+"code": "297570",
+"ret": 19.07,
+"value": 2206,
+"theme": "쿠팡(coupang)",
+"reason": "테마: 쿠팡(coupang)"
+}
+],
+"backfilled": true
+}
