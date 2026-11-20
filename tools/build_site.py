@@ -638,6 +638,14 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
 .pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
 a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
+.pbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:6px 0;border-bottom:1px solid var(--line)}
+.pnavs{display:flex;gap:8px;margin-top:4px}.pnav{flex:1;min-height:40px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:600 15px "Noto Sans KR",sans-serif}
+.pnav:disabled{opacity:.4}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.custom input{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+h2.plabel{border-top:0;margin-top:16px}
+.heat{overflow-x:auto}.hm,.hg{display:flex;gap:3px}.hm span{width:14px;flex:none;font-size:11px;color:var(--mute);white-space:nowrap}
+.hc{display:flex;flex-direction:column;gap:3px}.hc a,.hc i{width:14px;height:14px;border-radius:3px;display:block;background:var(--panel)}.hc i{opacity:.35}.hc i.x{opacity:0}#mapp .kpis div:first-child{grid-column:auto}
+.bars{display:grid;gap:6px}.bar-row{display:grid;grid-template-columns:110px 1fr 44px;gap:8px;align-items:center}.bt{height:12px;background:var(--panel);border-radius:6px;overflow:hidden}.bt i{display:block;height:100%;border-radius:6px}
+.bar-row b{text-align:right;font-size:14px}table.flow td,table.flow th{padding:6px 8px}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
@@ -763,21 +771,168 @@ def market_page_day(d, lead):
     return page(fmt_d(d) + " 시장", "코스피·코스닥, 테마, 대장주", body, depth=1)
 
 
+MARKET_JS = r"""
+(() => {
+const D = JSON.parse(document.getElementById('mdata').textContent);
+const app = document.getElementById('mapp'); if (!app || !D.length) return;
+const WD = '일월화수목금토';
+const ymd = (x) => x.getUTCFullYear() + String(x.getUTCMonth() + 1).padStart(2, '0') + String(x.getUTCDate()).padStart(2, '0');
+const P = (s) => new Date(Date.UTC(+s.slice(0, 4), +s.slice(4, 6) - 1, +s.slice(6, 8)));
+const fd = (s, w) => { const x = P(s); return (x.getUTCMonth() + 1) + '/' + x.getUTCDate() + (w ? '(' + WD[x.getUTCDay()] + ')' : ''); };
+const pct = (v, nd = 1) => v == null ? '–' : `<span class="${v > 0 ? 'up' : v < 0 ? 'dn' : ''}">${v > 0 ? '+' : ''}${v.toFixed(nd)}%</span>`;
+const tint = (v) => v == null ? '' : `background:color-mix(in srgb,var(${v > 0 ? '--up' : '--dn'}) ${Math.round(Math.min(Math.abs(v) / 4, 1) * 30 + 6)}%,var(--bg))`;
+const esc = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const chip = (t, c, full) => t ? `<span class="chip" style="--c:${c}" title="${esc(full || t)}">${esc(t)}</span>` : '';
+let mode = 'month', anchor = D[D.length - 1].d, from = D[0].d, to = anchor;
+try { const h = location.hash.slice(1); if (['day','week','month','quarter','half','year'].includes(h)) mode = h; } catch (e) {}
+
+function range() {
+  const x = P(anchor), y = x.getUTCFullYear(), m = x.getUTCMonth();
+  if (mode === 'day') return [anchor, anchor];
+  if (mode === 'week') { const dw = (x.getUTCDay() + 6) % 7; const s = new Date(x - dw * 864e5); return [ymd(s), ymd(new Date(+s + 4 * 864e5))]; }
+  if (mode === 'month') return [ymd(new Date(Date.UTC(y, m, 1))), ymd(new Date(Date.UTC(y, m + 1, 0)))];
+  if (mode === 'quarter') { const q = Math.floor(m / 3) * 3; return [ymd(new Date(Date.UTC(y, q, 1))), ymd(new Date(Date.UTC(y, q + 3, 0)))]; }
+  if (mode === 'half') { const h = m < 6 ? 0 : 6; return [ymd(new Date(Date.UTC(y, h, 1))), ymd(new Date(Date.UTC(y, h + 6, 0)))]; }
+  if (mode === 'year') return [y + '0101', y + '1231'];
+  return [from, to];
+}
+function label(r) {
+  const x = P(anchor), y = x.getUTCFullYear(), m = x.getUTCMonth();
+  return ({day: `${y}년 ${fd(anchor, true)}`, week: `${fd(r[0])} ~ ${fd(r[1])} 주`, month: `${y}년 ${m + 1}월`, quarter: `${y}년 ${Math.floor(m / 3) + 1}분기`,
+           half: `${y}년 ${m < 6 ? '상' : '하'}반기`, year: `${y}년`, custom: `${fd(r[0])} ~ ${fd(r[1])}`})[mode];
+}
+function shift(dir) {
+  if (mode === 'custom') return;
+  if (mode === 'day') { const i = D.findIndex((r) => r.d === anchor); const j = Math.min(D.length - 1, Math.max(0, (i < 0 ? D.length - 1 : i) + dir)); anchor = D[j].d; return; }
+  const x = P(anchor);
+  if (mode === 'week') anchor = ymd(new Date(+x + dir * 7 * 864e5));
+  else { const k = {month: 1, quarter: 3, half: 6, year: 12}[mode]; anchor = ymd(new Date(Date.UTC(x.getUTCFullYear(), x.getUTCMonth() + dir * k, 1))); }
+}
+function grid(rows, r) {
+  const by = Object.fromEntries(rows.map((z) => [z.d, z]));
+  const s = P(r[0]), e = P(r[1]);
+  let cur = new Date(+s - ((s.getUTCDay() + 6) % 7) * 864e5), html = '';
+  const span = (e - s) / 864e5;
+  if (span <= 40) {
+    html = '<div class="cal cal5">' + [...'월화수목금'].map((w) => `<div class="cal-h">${w}</div>`).join('');
+    while (cur <= e) {
+      const wk = [0, 1, 2, 3, 4].map((i) => ymd(new Date(+cur + i * 864e5)));
+      if (!wk.some((d) => d >= r[0] && d <= r[1])) { cur = new Date(+cur + 7 * 864e5); continue; }
+      for (let i = 0; i < 5; i++) {
+        const d = ymd(new Date(+cur + i * 864e5)), z = by[d], inR = d >= r[0] && d <= r[1];
+        if (!inR) html += '<div class="cal-d off"></div>';
+        else if (z) html += `<a class="cal-d" href="m/${d}.html" style="${tint(z.avg)}"><b>${+d.slice(6)}</b><span>코 ${pct(z.k)}</span><span>닥 ${pct(z.q)}</span>${chip(z.ts, z.c, z.t)}</a>`;
+        else html += `<div class="cal-d none"><b>${+d.slice(6)}</b></div>`;
+      }
+      cur = new Date(+cur + 7 * 864e5);
+    }
+    return html + '</div>';
+  }
+  // 긴 기간: 한 칸 = 하루, 세로 5칸(월~금) × 가로 주
+  let cols = '', lastM = -1, months = '';
+  while (cur <= e) {
+    let col = '';
+    const fi = [0, 1, 2, 3, 4].map((i) => ymd(new Date(+cur + i * 864e5))).find((d) => d >= r[0] && d <= r[1]) || ymd(cur);
+    const mm = P(fi).getUTCMonth();
+    months += `<span>${mm !== lastM ? (mm + 1) + '월' : ''}</span>`; lastM = mm;
+    for (let i = 0; i < 5; i++) {
+      const d = ymd(new Date(+cur + i * 864e5)), z = by[d];
+      const inR = d >= r[0] && d <= r[1];
+      col += !inR ? '<i class="x"></i>' : z ? `<a href="m/${d}.html" style="${tint(z.avg)}" title="${fd(d, true)} 코스피 ${z.k}% · 코스닥 ${z.q}% · ${esc(z.ts)}"></a>` : '<i></i>';
+    }
+    cols += `<div class="hc">${col}</div>`;
+    cur = new Date(+cur + 7 * 864e5);
+  }
+  return `<div class="heat"><div class="hm">${months}</div><div class="hg">${cols}</div></div><p class="sub">칸 하나가 하루예요(세로 월~금). 빨강은 오른 날, 파랑은 내린 날, 진할수록 많이 움직인 날. 누르면 그날 시장 페이지로 가요.</p>`;
+}
+function themeFlow(rows, r) {
+  const span = (P(r[1]) - P(r[0])) / 864e5;
+  if (span < 13) return '';
+  const byMonth = span > 62;
+  const key = (d) => byMonth ? d.slice(0, 6) : ymd(new Date(+P(d) - ((P(d).getUTCDay() + 6) % 7) * 864e5));
+  const cols = [...new Set(rows.map((z) => key(z.d)))];
+  const cnt = {}, tot = {};
+  rows.forEach((z) => { if (!z.t) return; (cnt[z.t] = cnt[z.t] || {})[key(z.d)] = (cnt[z.t][key(z.d)] || 0) + 1; tot[z.t] = (tot[z.t] || 0) + 1; });
+  const top = Object.keys(tot).sort((a, b) => tot[b] - tot[a]).slice(0, 8);
+  if (!top.length) return '';
+  const meta = Object.fromEntries(rows.map((z) => [z.t, z]));
+  const mx = Math.max(...top.flatMap((t) => cols.map((c) => cnt[t][c] || 0)));
+  const head = cols.map((c) => `<th class="r">${byMonth ? (+c.slice(4)) + '월' : fd(c)}</th>`).join('');
+  const body = top.map((t) => `<tr><td>${chip(meta[t].ts, meta[t].c, t)}</td>` + cols.map((c) => { const v = cnt[t][c] || 0;
+    return `<td class="r" style="${v ? `background:color-mix(in srgb,${meta[t].c} ${Math.round(v / mx * 55 + 10)}%,transparent)` : ''}">${v || ''}</td>`; }).join('') + `<td class="r"><b>${tot[t]}</b></td></tr>`).join('');
+  return `<h3>테마 흐름 (${byMonth ? '달' : '주'}별 1등 횟수)</h3><p class="sub">어느 테마가 언제 시장을 이끌었고 언제 바뀌었는지 보여요. 색이 진할수록 그 ${byMonth ? '달' : '주'}에 1등을 많이 한 테마예요.</p>`
+    + `<div class="scroll"><table class="wide flow"><thead><tr><th>테마</th>${head}<th class="r">합계</th></tr></thead><tbody>${body}</tbody></table></div>`;
+}
+function render() {
+  const r = range(), rows = D.filter((z) => z.d >= r[0] && z.d <= r[1]);
+  const comp = (k) => rows.length ? (rows.reduce((a, z) => a * (1 + (z[k] || 0) / 100), 1) - 1) * 100 : null;
+  const up = rows.filter((z) => z.k > 0).length, dn = rows.filter((z) => z.k < 0).length;
+  const cnt = {}; rows.forEach((z) => { if (z.t) cnt[z.t] = (cnt[z.t] || 0) + 1; });
+  const tops = Object.entries(cnt).sort((a, b) => b[1] - a[1]);
+  const meta = Object.fromEntries(rows.map((z) => [z.t, z]));
+  const best = rows.filter((z) => z.l).sort((a, b) => b.lr - a.lr).slice(0, 5);
+  let h = `<h2 class="plabel">${label(r)}</h2>`;
+  if (!rows.length) { app.querySelector('.out').innerHTML = h + '<p class="empty">이 기간에는 기록이 없어요.</p>'; return; }
+  h += `<div class="kpis"><div><b>${pct(comp('k'))}</b><span>코스피 기간 등락</span></div><div><b>${pct(comp('q'))}</b><span>코스닥 기간 등락</span></div>`
+    + `<div><b>${rows.length}일</b><span>거래일 · 코스피 오른 날 <span class="up">${up}</span> / 내린 날 <span class="dn">${dn}</span></span></div>`
+    + `<div><b>${tops.length ? chip(meta[tops[0][0]].ts, meta[tops[0][0]].c, tops[0][0]) : '–'}</b><span>가장 많이 1등 한 테마${tops.length ? ' (' + tops[0][1] + '회)' : ''}</span></div></div>`;
+  if (mode === 'day') {
+    const z = rows[0];
+    h += `<p><a class="go" href="m/${z.d}.html">이날 테마별 상승률·대장주 전체 보기 ›</a></p>`;
+  }
+  h += grid(rows, r);
+  if (tops.length && mode !== 'day') {
+    const mx = tops[0][1];
+    h += '<h3>1등 테마가 된 횟수</h3><div class="bars">' + tops.slice(0, 12).map(([t, n]) => `<div class="bar-row"><span class="bl">${chip(meta[t].ts, meta[t].c, t)}</span><span class="bt"><i style="width:${n / mx * 100}%;background:${meta[t].c}"></i></span><b>${n}회</b></div>`).join('') + '</div>';
+  }
+  h += themeFlow(rows, r);
+  if (best.length && mode !== 'day') {
+    h += '<h3>이 기간 가장 세게 오른 대장주</h3><div class="scroll"><table class="wide"><tbody>' + best.map((z) =>
+      `<tr><td><span class="bar" style="--c:${z.lc}"></span><b>${esc(z.l)}</b><small class="k">${fd(z.d, true)} ${chip(z.lts, z.lc, z.lt)}</small></td><td class="r">${pct(z.lr)}</td><td class="r"><a class="go" href="m/${z.d}.html">그날 보기 ›</a></td></tr>`).join('') + '</tbody></table></div>';
+  }
+  app.querySelector('.out').innerHTML = h;
+  app.querySelectorAll('.pmode a').forEach((a) => a.classList.toggle('on', a.dataset.m === mode));
+  app.querySelector('.custom').hidden = mode !== 'custom';
+  app.querySelectorAll('.pnav').forEach((b) => b.disabled = mode === 'custom');
+}
+app.querySelectorAll('.pmode a').forEach((a) => a.addEventListener('click', (e) => { e.preventDefault(); mode = a.dataset.m; if (mode !== 'custom') anchor = D[D.length - 1].d; render(); }));
+app.querySelector('.prev').addEventListener('click', () => { shift(-1); render(); });
+app.querySelector('.next').addEventListener('click', () => { shift(1); render(); });
+const f1 = app.querySelector('#f1'), f2 = app.querySelector('#f2');
+const iso = (s) => s.slice(0, 4) + '-' + s.slice(4, 6) + '-' + s.slice(6);
+f1.value = iso(from); f2.value = iso(to); f1.min = f2.min = iso(D[0].d); f1.max = f2.max = iso(D[D.length - 1].d);
+const setC = () => { from = f1.value.replaceAll('-', ''); to = f2.value.replaceAll('-', ''); if (from > to) [from, to] = [to, from]; render(); };
+f1.addEventListener('change', setC); f2.addEventListener('change', setC);
+render();
+})();
+"""
+
+
 def market_page(days, lead):
+    rows = []
+    ld = {}
+    if len(lead):
+        for r in lead.sort_values("value", ascending=False).itertuples():
+            ld.setdefault(r.date, r)
+    for d in sorted(days):
+        mk = market(d)
+        if not mk:
+            continue
+        k, q = fnum(mk.get("kospi")), fnum(mk.get("kosdaq"))
+        hot = ((mk.get("hot") or mk.get("themes") or [{}])[0]).get("name", "")
+        lr = (mk.get("leaders") or [{}])[0]
+        lt = lr.get("theme") or ""
+        rows.append(dict(d=d, k=k, q=q, avg=round(((k or 0) + (q or 0)) / 2, 2), t=hot, ts=short_theme(hot) if hot else "", c=color(hot) if hot else "",
+                         l=lr.get("name", ""), lr=fnum(lr.get("ret")) or 0, lt=lt, lts=short_theme(lt) if lt else "", lc=color(lt)))
+    data = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
     body = market_bars_svg(days, n=230)
-    body += '<p class="sub">날짜마다 코스피(코)·코스닥(닥) 등락과 그날 돈이 가장 몰린 테마예요. 누르면 테마별 상승률과 대장주가 나와요.</p>'
-    ms_ = months(days)
-    body += '<nav class="tabs">' + "".join(f'<a href="#mon-{ym}">{int(ym[4:])}월</a>' for ym in ms_) + "</nav>"
-    body += "".join(f'<div id="mon-{ym}">' + month_cal(ym, set(days), lambda d: market_cell(d, lead), lambda d: f"m/{d}.html", week_link=False, tint=mkt_tint) + "</div>" for ym in ms_)
-    from collections import Counter
-    cnt = Counter()
-    for d in days:
-        h0 = ((market(d) or {}).get("hot") or [{}])[0].get("name")
-        if h0:
-            cnt[h0] += 1
-    if cnt:
-        body += "<h3>1등 테마가 된 횟수</h3><p>" + "".join(f'<span class="cnt">{chip(n)} <b>{c}회</b></span>' for n, c in cnt.most_common(15)) + "</p>"
-    return page("대장주 달력", "시장 흐름을 날짜별로", body, "대장주 달력")
+    body += ('<div id="mapp"><div class="pbar"><nav class="tabs pmode">'
+             + "".join(f'<a href="#{m}" data-m="{m}">{n}</a>' for m, n in (("day", "일"), ("week", "주"), ("month", "월"), ("quarter", "분기"), ("half", "반기"), ("year", "년"), ("custom", "직접")))
+             + '</nav><div class="pnavs"><button class="pnav prev" aria-label="이전">‹ 이전</button><button class="pnav next" aria-label="다음">다음 ›</button></div>'
+             '<div class="custom" hidden><label>시작 <input type="date" id="f1"></label><label>끝 <input type="date" id="f2"></label></div></div>'
+             '<div class="out"></div></div>')
+    body += f'<script type="application/json" id="mdata">{data}</script><script>{MARKET_JS}</script>'
+    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기", body, "대장주 달력")
 
 
 def week_page(mon, days, t, fm, lead, vi, expect):

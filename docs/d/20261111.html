@@ -76,6 +76,14 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
 .pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
 a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
+.pbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:6px 0;border-bottom:1px solid var(--line)}
+.pnavs{display:flex;gap:8px;margin-top:4px}.pnav{flex:1;min-height:40px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:600 15px "Noto Sans KR",sans-serif}
+.pnav:disabled{opacity:.4}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.custom input{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+h2.plabel{border-top:0;margin-top:16px}
+.heat{overflow-x:auto}.hm,.hg{display:flex;gap:3px}.hm span{width:14px;flex:none;font-size:11px;color:var(--mute);white-space:nowrap}
+.hc{display:flex;flex-direction:column;gap:3px}.hc a,.hc i{width:14px;height:14px;border-radius:3px;display:block;background:var(--panel)}.hc i{opacity:.35}.hc i.x{opacity:0}#mapp .kpis div:first-child{grid-column:auto}
+.bars{display:grid;gap:6px}.bar-row{display:grid;grid-template-columns:110px 1fr 44px;gap:8px;align-items:center}.bt{height:12px;background:var(--panel);border-radius:6px;overflow:hidden}.bt i{display:block;height:100%;border-radius:6px}
+.bar-row b{text-align:right;font-size:14px}table.flow td,table.flow th{padding:6px 8px}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 </style></head><body><header><span class="tab">투자 알림장</span><h1>11월 11일(수) 알림</h1><p class="sub">알림 0개</p>
