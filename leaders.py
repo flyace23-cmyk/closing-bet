@@ -125,8 +125,12 @@ def _yesterday_check():
                 continue
             o, c = nxt.o.iloc[0], nxt.c.iloc[0]
             out.append((r.name, (o / r.close - 1) * 100, (c / r.close - 1) * 100))
+            lg.loc[(lg.date == last) & (lg.code == r.code), ["next_open", "next_close"]] = \
+                [round((o / r.close - 1) * 100, 2), round((c / r.close - 1) * 100, 2)]
         except Exception:
             continue
+    if out:
+        lg.to_csv(LOG, index=False)     # 다음날 성적을 기록에 남김 (웹페이지 주간 복기용)
     return out
 
 
@@ -140,65 +144,75 @@ def _one_reason(news, dart, themes):
     return "뚜렷한 재료 못 찾음"
 
 
+def _e(t):
+    return html.escape(str(t), quote=False)
+
+
+def _pct(v, w=6):
+    return f"{v:+.1f}%".rjust(w)
+
+
 def evening_section(all_df=None):
+    """텔레그램 HTML 서식(<b>, <pre>)으로 만든 복기 메시지. 숫자는 앞, 이름은 뒤에 둬서 줄이 맞게"""
     all_df = md.all_stocks() if all_df is None else all_df
     try:
         T = info._themes()
     except Exception:
         T = []
-    lines = ["🧠 오늘의 대장주 복기 (공부용, 매매 신호 아님)", _market_line()]
+    out = [f"<b>🧠 오늘의 대장주 복기</b> ({md.today()[4:6]}/{md.today()[6:]}, 공부용)"]
+    m = _market_line().strip()
+    if m:
+        out[0] += "\n" + _e(m)
 
-    # ③ 어제 대장주 → 오늘 (먼저 보여 줌: 어제 적은 생각과 비교)
     y = _yesterday_check()
     if y:
-        lines.append("↩️ 어제 대장주의 오늘")
-        for nm, o, c in y:
-            lines.append(f"   {nm}: 시가 {o:+.1f}% → 종가 {c:+.1f}%")
         keep = sum(1 for _, _, c in y if c > 0)
-        lines.append(f"   → {len(y)}종목 중 {keep}종목이 하루 더 올랐음")
+        rows = [f"{_pct(o)} → {_pct(c)}  {_e(nm)}" for nm, o, c in y]
+        out.append(f"<b>↩️ 어제 대장주의 오늘</b> (시가 → 종가)\n{len(y)}종목 중 {keep}종목이 하루 더 올랐어요\n<pre>" + "\n".join(rows) + "</pre>")
 
-    # ① 테마
     tt = top_themes(all_df, T) if T else []
     if tt:
-        lines.append("🔥 돈이 몰린 테마 (상승률 상위 30 중)")
+        rows = []
         for i, t in enumerate(tt, 1):
-            s = f" / 2등 {t['second']} {t['second_ret']:+.1f}%" if t["second"] else ""
-            lines.append(f"   {i}. {t['name']} {t['n']}종목 — 대장 {t['lead']} {t['lead_ret']:+.1f}%{s}")
+            nm = t["name"].split("(")[0].strip() if len(t["name"]) > 12 else t["name"]
+            rows.append(f"{i}. {_e(nm)} — {t['n']}종목")
+            rows.append(f"   {_pct(t['lead_ret'])}  대장 {_e(t['lead'])}")
+            if t["second"]:
+                rows.append(f"   {_pct(t['second_ret'])}  2등 {_e(t['second'])}")
+        out.append("<b>🔥 돈이 몰린 테마</b> (상승률 상위 30 중)\n<pre>" + "\n".join(rows) + "</pre>")
     else:
-        lines.append("🔥 테마: 3종목 이상 묶인 테마 없음 (개별주 장세)")
+        out.append("<b>🔥 테마</b>: 3종목 이상 묶인 테마 없음 (개별주 장세)")
 
-    # ② 대장주와 오른 이유
     L = leaders(all_df)
-    rows = []
+    rows, detail, log = [], [], []
     if L.empty:
-        lines.append(f"👑 대장주: 오늘 {MIN_RET:.0f}% 이상 + 거래대금 {MIN_VALUE}억 이상 종목 없음")
+        out.append(f"<b>👑 대장주</b>: 오늘 +{MIN_RET:.0f}%↑ 거래대금 {MIN_VALUE}억↑ 종목 없음")
     else:
-        lines.append(f"👑 오늘의 대장주 (+{MIN_RET:.0f}%↑ 거래대금 순)")
         for i, r in enumerate(L.itertuples(), 1):
             news, dart = _news_today(r.code, r.name), _dart_today(r.code)
             th = _themes_of(r.code, T)
-            tag = " 🔺상한가" if r.ret >= 29.5 else ""
-            lines.append(f"{i}) {r.name} {r.ret:+.1f}% | {r.value:,.0f}억{tag}")
-            if th:
-                lines.append("   🏷 " + ", ".join(th[:3]))
-            for d in dart:
-                lines.append("   📄 " + d[:45])
-            for nws in news[:2]:
-                lines.append("   📰 " + nws[:45])
+            up = "🔺" if r.ret >= 29.5 else ""
+            rows.append(f"{i}. {_pct(r.ret)} {f'{r.value:,.0f}억':>7}  {_e(r.name)}{up}")
+            d = [f"<b>{i}) {_e(r.name)}</b>" + (f"  🏷 {_e(', '.join(th[:2]))}" if th else "")]
+            d += [f"   📄 {_e(x[:42])}" for x in dart]
+            d += [f"   📰 {_e(x[:42])}" for x in news[:2]]
             if not (news or dart):
-                lines.append("   (오늘 뉴스·공시 없음 → 테마 순환매나 수급일 수 있음)")
-            rows.append(dict(date=md.today(), code=r.code, name=r.name, ret=r.ret, value=round(r.value),
-                             close=r.price, themes="|".join(th[:3]), reason=_one_reason(news, dart, th)))
+                d.append("   (뉴스·공시 없음 → 테마 순환매·수급일 수 있음)")
+            detail.append("\n".join(d))
+            log.append(dict(date=md.today(), code=r.code, name=r.name, ret=r.ret, value=round(r.value),
+                            close=r.price, themes="|".join(th[:3]), reason=_one_reason(news, dart, th)))
+        out.append(f"<b>👑 오늘의 대장주</b> (+{MIN_RET:.0f}%↑, 거래대금 순, 🔺상한가)\n<pre>" + "\n".join(rows) + "</pre>")
+        out.append("<b>📌 오른 이유 후보</b>\n" + "\n".join(detail))
 
-    if rows:
+    if log:
         old = pd.read_csv(LOG, dtype={"code": str, "date": str}) if os.path.exists(LOG) else pd.DataFrame()
         if len(old):
             old = old[old.date != md.today()]
-        pd.concat([old, pd.DataFrame(rows)]).to_csv(LOG, index=False)
+        pd.concat([old, pd.DataFrame(log)]).to_csv(LOG, index=False)
 
-    lines.append("✍️ 오늘의 질문: 1등 대장주의 재료가 '하루짜리'(뉴스 한 건)인가, "
-                 "'며칠 가는'(실적·정책·수주) 것인가? 한 줄로 답해 보고 내일 ↩️ 결과와 비교해 보세요.")
-    return "\n".join(lines)
+    out.append("<b>✍️ 오늘의 질문</b>\n1등 대장주의 재료는 하루짜리(뉴스 한 건)인가, 며칠 가는 것(실적·정책·수주)인가? "
+               "한 줄로 답해 두고 내일 ↩️ 결과와 비교해 보세요.")
+    return "\n\n".join(out)
 
 
 if __name__ == "__main__":
@@ -206,6 +220,6 @@ if __name__ == "__main__":
     text = evening_section()
     if "--send" in sys.argv:
         from telegram import send
-        send("🧪 미리보기\n" + text)
+        send("🧪 미리보기\n" + text, html=True)
     else:
         print(text)

@@ -38,9 +38,12 @@ jobs:
           elif [ "$MODE" = "leaders" ]; then python leaders.py --send
           elif [ "${{ github.event.schedule }}" = "0 10 * * 1-5" ]; then python evening.py
           else python scan_1510.py; fi
+      - name: build page
+        if: always() && github.event.inputs.mode != 'preview'
+        run: python tools/build_site.py || true
       - name: save records
-        if: github.event.inputs.mode != 'preview'
+        if: always() && github.event.inputs.mode != 'preview'
         run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
-          git add records || true
+          git add records docs || true
           git diff --cached --quiet || (git commit -m "records $(date +%F)" && git pull --rebase && git push)

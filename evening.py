@@ -182,12 +182,12 @@ def main():
         send(f"(중기 스윙 확인 실패: {e})")
     try:
         import leaders
-        send(leaders.evening_section(L))
+        send(leaders.evening_section(L), html=True)
     except Exception as e:
         send(f"(대장주 복기 실패: {e})")
     try:
         import father_mock
-        send(father_mock.daily_section())
+        send(father_mock.daily_section(), html=True)
     except Exception as e:
         send(f"(아버지 방식 모의매매 실패: {e})")
 

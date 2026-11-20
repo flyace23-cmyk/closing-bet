@@ -46,8 +46,23 @@ def _chunks(text, n=3800):
     return out
 
 
+def _archive(text, html):
+    """보낸 알림을 records/messages/날짜.jsonl 에 저장 → 웹페이지(docs/)에서 일별·주별로 다시 봄"""
+    try:
+        import json, datetime as dt
+        now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9)))
+        d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "records", "messages")
+        os.makedirs(d, exist_ok=True)
+        with open(os.path.join(d, now.strftime("%Y%m%d") + ".jsonl"), "a", encoding="utf-8") as f:
+            f.write(json.dumps(dict(t=now.strftime("%H:%M"), html=bool(html), text=text), ensure_ascii=False) + "\n")
+    except Exception:
+        pass
+
+
 def send(text, html=False):
     """html=True 이면 <b>굵게</b>, <pre>줄 맞춤</pre> 같은 텔레그램 서식을 씀"""
+    if not os.environ.get("PREVIEW") and not text.startswith("🧪") and not text.startswith("✅ 종가베팅 봇 연결"):
+        _archive(text, html)
     if os.environ.get("PREVIEW"):
         text = "🧪 미리보기 (지금 가격 기준, 실제 알림·기록 아님)\n" + text
     if not TOKEN or not chat_id():

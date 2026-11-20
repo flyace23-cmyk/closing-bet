@@ -206,14 +206,16 @@ def daily_section():
             old = old[old.date != ev.date.iloc[0]]
         old = pd.concat([old, ev], ignore_index=True)
         old.to_csv(OUT, index=False)
-    lines = ["👴 아버지 방식 모의매매 (15분봉 지표 단타, 1건 100만원)"]
+    import html as _h
+    lines = ["<b>👴 아버지 방식 모의매매</b> (15분봉 지표 단타, 1건 100만원)"]
     if ev.empty:
-        lines.append("   오늘 신호 없음")
-    for r in ev.itertuples():
-        lines.append(f"   {r.name} {hm_text(r.t_in)} 매수 {r.buy:,.0f} → {hm_text(r.t_out)} {r.why} {r.sell:,.0f} ({r.ret:+.2f}%)")
+        lines.append("오늘 신호 없음")
+    else:
+        rows = [f"{hm_text(r.t_in)}→{hm_text(r.t_out)} {r.ret:+6.2f}%  {_h.escape(r.name)} ({r.why})" for r in ev.itertuples()]
+        lines.append("<pre>" + "\n".join(rows) + "</pre>")
     if len(old):
         o = old.ret.astype(float)
-        lines.append(f"   누적 {len(o)}건 | 승률 {(o > 0).mean() * 100:.0f}% | 평균 {o.mean():+.2f}% (비용 뺌, 검증 기대 -0.4%)")
+        lines.append(f"누적 {len(o)}건 | 승률 {(o > 0).mean() * 100:.0f}% | 평균 {o.mean():+.2f}%\n(비용 0.35% 뺌, 1년 검증 기대 -0.4%)")
     return "\n".join(lines)
 
 
