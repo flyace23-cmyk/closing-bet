@@ -1,0 +1,254 @@
+{
+"date": "20261105",
+"kospi": -5.28,
+"kosdaq": -5.11,
+"adv": 623,
+"dec": 1749,
+"flat": 54,
+"limit_up": 5,
+"limit_down": 0,
+"value_total": 270714,
+"hot": [
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 4,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 11.09,
+"second": "한미약품",
+"second_ret": 9.03
+},
+{
+"name": "음원/음반",
+"n": 3,
+"lead": "카카오",
+"lead_ret": 10.02,
+"second": "에스엠",
+"second_ret": 8.31
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "한미약품",
+"lead_ret": 9.03,
+"second": "코스맥스",
+"second_ret": 7.01
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.77,
+"up5": 3,
+"lead": "제주항공",
+"lead_ret": 15.07,
+"second": "진에어",
+"second_ret": 7.99
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 2.48,
+"up5": 0,
+"lead": "세중",
+"lead_ret": 4.73,
+"second": "노랑풍선",
+"second_ret": 4.17
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.17,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 13.41,
+"second": "풀무원",
+"second_ret": 3.55
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 2.02,
+"up5": 0,
+"lead": "우리금융지주",
+"lead_ret": 4.38,
+"second": "JB금융지주",
+"second_ret": 3.63
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.01,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 27.32,
+"second": "GH신소재",
+"second_ret": 3.44
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 1.82,
+"up5": 1,
+"lead": "깨끗한나라",
+"lead_ret": 32.82,
+"second": "무림페이퍼",
+"second_ret": 3.13
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": 1.82,
+"up5": 2,
+"lead": "한국타이어앤테크놀로지",
+"lead_ret": 11.09,
+"second": "한국앤컴퍼니",
+"second_ret": 5.24
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": 1.8,
+"up5": 4,
+"lead": "한미약품",
+"lead_ret": 9.03,
+"second": "셀트리온",
+"second_ret": 6.44
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 1.79,
+"up5": 4,
+"lead": "카카오",
+"lead_ret": 10.02,
+"second": "에스엠",
+"second_ret": 8.31
+},
+{
+"name": "토스(toss)",
+"n": 6,
+"avg": 1.53,
+"up5": 1,
+"lead": "엔비티",
+"lead_ret": 9.56,
+"second": "하나금융지주",
+"second_ret": 2.35
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 1.47,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 27.32,
+"second": "코오롱글로벌",
+"second_ret": 2.21
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 1.29,
+"up5": 1,
+"lead": "소마젠",
+"lead_ret": 7.75,
+"second": "에스티팜",
+"second_ret": 2.61
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -15.82,
+"up5": 0,
+"lead": "LG이노텍",
+"lead_ret": -8.35,
+"second": "심텍홀딩스",
+"second_ret": -11.66
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -14.4,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -0.28,
+"second": "삼성전자",
+"second_ret": -9.03
+},
+{
+"name": "HBM(고대역폭메모리)",
+"n": 35,
+"avg": -12.33,
+"up5": 0,
+"lead": "국전",
+"lead_ret": -1.2,
+"second": "아이엠티",
+"second_ret": -2.88
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -12.21,
+"up5": 0,
+"lead": "자람테크놀로지",
+"lead_ret": -6.61,
+"second": "파이버프로",
+"second_ret": -7.0
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -12.09,
+"up5": 0,
+"lead": "국순당",
+"lead_ret": 1.18,
+"second": "대교",
+"second_ret": -1.27
+}
+],
+"leaders": [
+{
+"name": "카카오",
+"code": "035720",
+"ret": 10.02,
+"value": 1623,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "SK바이오팜",
+"code": "326030",
+"ret": 11.9,
+"value": 815,
+"theme": "제약업체",
+"reason": "테마: 제약업체"
+},
+{
+"name": "금양그린파워",
+"code": "282720",
+"ret": 10.74,
+"value": 672,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "테마: 고체산화물 연료전지(SOFC)"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 27.32,
+"value": 422,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "한국타이어앤테크놀로지",
+"code": "161390",
+"ret": 11.09,
+"value": 395,
+"theme": "밸류업(25년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(25년 기업가치 제고계획 발표)"
+}
+],
+"backfilled": true
+}

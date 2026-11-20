@@ -1,0 +1,254 @@
+{
+"date": "20261103",
+"kospi": -3.59,
+"kosdaq": -4.08,
+"adv": 568,
+"dec": 1800,
+"flat": 57,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 186944,
+"hot": [
+{
+"name": "보안주(정보)",
+"n": 6,
+"lead": "한싹",
+"lead_ret": 29.5,
+"second": "파수AI",
+"second_ret": 17.83
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 3,
+"lead": "한진칼",
+"lead_ret": 21.58,
+"second": "크래프톤",
+"second_ret": 6.02
+},
+{
+"name": "지주사",
+"n": 3,
+"lead": "한진칼",
+"lead_ret": 21.58,
+"second": "HD한국조선해양",
+"second_ret": 3.82
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 3.72,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 21.58,
+"second": "아시아나항공",
+"second_ret": 3.4
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 2.29,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 29.99,
+"second": "사조대림",
+"second_ret": -0.61
+},
+{
+"name": "제지",
+"n": 14,
+"avg": 2.06,
+"up5": 1,
+"lead": "깨끗한나라",
+"lead_ret": 28.76,
+"second": "한창제지",
+"second_ret": 3.88
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": 1.58,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 29.99,
+"second": "창해에탄올",
+"second_ret": 1.4
+},
+{
+"name": "출산장려정책",
+"n": 23,
+"avg": 1.45,
+"up5": 2,
+"lead": "깨끗한나라",
+"lead_ret": 28.76,
+"second": "에피소드컴퍼니",
+"second_ret": 5.26
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": 1.41,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 3.94,
+"second": "유성티엔에스",
+"second_ret": 2.16
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 1.18,
+"up5": 1,
+"lead": "깨끗한나라",
+"lead_ret": 28.76,
+"second": "모나리자",
+"second_ret": 3.29
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": 1.13,
+"up5": 1,
+"lead": "아시아경제",
+"lead_ret": 15.52,
+"second": "디지틀조선",
+"second_ret": 2.98
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 1.02,
+"up5": 1,
+"lead": "웰크론한텍",
+"lead_ret": 6.49,
+"second": "와이엔텍",
+"second_ret": 2.27
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 0.97,
+"up5": 0,
+"lead": "HD한국조선해양",
+"lead_ret": 3.82,
+"second": "대한조선",
+"second_ret": 1.37
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": 0.89,
+"up5": 1,
+"lead": "한진",
+"lead_ret": 18.84,
+"second": "인터지스",
+"second_ret": 3.58
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": 0.83,
+"up5": 2,
+"lead": "파수AI",
+"lead_ret": 17.83,
+"second": "휴네시온",
+"second_ret": 5.71
+}
+],
+"themes_worst": [
+{
+"name": "콩/대두",
+"n": 5,
+"avg": -7.7,
+"up5": 0,
+"lead": "미래생명자원",
+"lead_ret": -0.18,
+"second": "신송홀딩스",
+"second_ret": -2.58
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": -6.5,
+"up5": 0,
+"lead": "대한광통신",
+"lead_ret": -3.1,
+"second": "LS",
+"second_ret": -3.27
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 16,
+"avg": -6.45,
+"up5": 0,
+"lead": "기도산업",
+"lead_ret": 0.0,
+"second": "레몬헬스케어",
+"second_ret": -1.55
+},
+{
+"name": "야놀자(Yanolja)",
+"n": 5,
+"avg": -6.24,
+"up5": 0,
+"lead": "한화생명",
+"lead_ret": -2.4,
+"second": "그래디언트",
+"second_ret": -2.63
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -5.7,
+"up5": 0,
+"lead": "심텍홀딩스",
+"lead_ret": 1.65,
+"second": "코리아써키트",
+"second_ret": -1.09
+}
+],
+"leaders": [
+{
+"name": "한진칼",
+"code": "180640",
+"ret": 21.58,
+"value": 1877,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "AP위성",
+"code": "211270",
+"ret": 30.62,
+"value": 734,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "파수AI",
+"code": "150900",
+"ret": 17.83,
+"value": 538,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "아시아나IDT",
+"code": "267850",
+"ret": 12.56,
+"value": 394,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+},
+{
+"name": "한진",
+"code": "002320",
+"ret": 18.84,
+"value": 367,
+"theme": "종합 물류",
+"reason": "테마: 종합 물류"
+}
+],
+"backfilled": true
+}

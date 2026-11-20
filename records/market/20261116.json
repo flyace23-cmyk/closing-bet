@@ -1,0 +1,254 @@
+{
+"date": "20261116",
+"kospi": -3.59,
+"kosdaq": -4.86,
+"adv": 452,
+"dec": 1934,
+"flat": 41,
+"limit_up": 3,
+"limit_down": 2,
+"value_total": 192262,
+"hot": [
+{
+"name": "카메라모듈/부품",
+"n": 5,
+"lead": "LK삼양",
+"lead_ret": 32.26,
+"second": "나무가",
+"second_ret": 28.93
+},
+{
+"name": "증강현실(AR)",
+"n": 4,
+"lead": "나무가",
+"lead_ret": 28.93,
+"second": "세코닉스",
+"second_ret": 25.82
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "시선AI",
+"lead_ret": 26.73,
+"second": "바이브컴퍼니",
+"second_ret": 11.63
+}
+],
+"themes": [
+{
+"name": "보안주(물리)",
+"n": 21,
+"avg": 2.03,
+"up5": 4,
+"lead": "카티스",
+"lead_ret": 28.84,
+"second": "지슨",
+"second_ret": 27.65
+},
+{
+"name": "은행",
+"n": 11,
+"avg": 1.73,
+"up5": 0,
+"lead": "JB금융지주",
+"lead_ret": 3.16,
+"second": "카카오뱅크",
+"second_ret": 2.66
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": 1.57,
+"up5": 1,
+"lead": "DB손해보험",
+"lead_ret": 5.87,
+"second": "한화손해보험",
+"second_ret": 4.93
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 1.56,
+"up5": 2,
+"lead": "현대백화점",
+"lead_ret": 5.55,
+"second": "대구백화점",
+"second_ret": 5.27
+},
+{
+"name": "증강현실(AR)",
+"n": 19,
+"avg": 1.34,
+"up5": 5,
+"lead": "나무가",
+"lead_ret": 28.93,
+"second": "세코닉스",
+"second_ret": 25.82
+},
+{
+"name": "스마트카(SMART CAR)",
+"n": 12,
+"avg": 0.88,
+"up5": 3,
+"lead": "세코닉스",
+"lead_ret": 25.82,
+"second": "MDS테크",
+"second_ret": 10.02
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 0.84,
+"up5": 1,
+"lead": "오로라",
+"lead_ret": 22.17,
+"second": "리튬포어스",
+"second_ret": 2.87
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.67,
+"up5": 2,
+"lead": "한진칼",
+"lead_ret": 9.5,
+"second": "제주항공",
+"second_ret": 5.1
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": 0.49,
+"up5": 2,
+"lead": "M83",
+"lead_ret": 29.73,
+"second": "시선AI",
+"second_ret": 26.73
+},
+{
+"name": "웹툰",
+"n": 14,
+"avg": 0.17,
+"up5": 3,
+"lead": "엔키AX",
+"lead_ret": 16.04,
+"second": "엔비티",
+"second_ret": 5.98
+},
+{
+"name": "폐기물처리",
+"n": 6,
+"avg": 0.04,
+"up5": 0,
+"lead": "서한",
+"lead_ret": 4.4,
+"second": "인선이엔티",
+"second_ret": 0.36
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.17,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 3.37,
+"second": "GS리테일",
+"second_ret": 2.27
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -11.01,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": -4.05,
+"second": "LG이노텍",
+"second_ret": -5.32
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -10.05,
+"up5": 0,
+"lead": "코리아써키트",
+"lead_ret": -4.05,
+"second": "LB인베스트먼트",
+"second_ret": -4.56
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -10.03,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": -5.79,
+"second": "삼성전자",
+"second_ret": -6.7
+},
+{
+"name": "CXL(컴퓨트익스프레스링크)",
+"n": 13,
+"avg": -10.02,
+"up5": 0,
+"lead": "대교",
+"lead_ret": -0.2,
+"second": "국순당",
+"second_ret": -1.16
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -9.73,
+"up5": 0,
+"lead": "마음AI",
+"lead_ret": 0.0,
+"second": "유니퀘스트",
+"second_ret": -2.59
+}
+],
+"leaders": [
+{
+"name": "나무가",
+"code": "190510",
+"ret": 28.93,
+"value": 613,
+"theme": "카메라모듈/부품",
+"reason": "테마: 카메라모듈/부품"
+},
+{
+"name": "아리바이오랩",
+"code": "261780",
+"ret": 17.11,
+"value": 483,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+},
+{
+"name": "뉴프렉스",
+"code": "085670",
+"ret": 14.09,
+"value": 327,
+"theme": "PCB(FPCB 등)",
+"reason": "테마: PCB(FPCB 등)"
+},
+{
+"name": "아남전자",
+"code": "008700",
+"ret": 13.23,
+"value": 306,
+"theme": "",
+"reason": "뚜렷한 재료 못 찾음"
+},
+{
+"name": "시선AI",
+"code": "340810",
+"ret": 26.73,
+"value": 174,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20261110",
+"kospi": 4.39,
+"kosdaq": 4.48,
+"adv": 1940,
+"dec": 428,
+"flat": 58,
+"limit_up": 6,
+"limit_down": 0,
+"value_total": 200120,
+"hot": [
+{
+"name": "원자력발전",
+"n": 5,
+"lead": "디케이락",
+"lead_ret": 26.74,
+"second": "SNT에너지",
+"second_ret": 18.71
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 4,
+"lead": "코세스",
+"lead_ret": 18.54,
+"second": "비나텍",
+"second_ret": 18.16
+},
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "코세스",
+"lead_ret": 18.54,
+"second": "아스플로",
+"second_ret": 16.2
+}
+],
+"themes": [
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 12.09,
+"up5": 8,
+"lead": "진에어",
+"lead_ret": 28.25,
+"second": "에어부산",
+"second_ret": 15.34
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 9.66,
+"up5": 11,
+"lead": "코세스",
+"lead_ret": 18.54,
+"second": "비나텍",
+"second_ret": 18.16
+},
+{
+"name": "전선",
+"n": 8,
+"avg": 8.83,
+"up5": 7,
+"lead": "가온전선",
+"lead_ret": 18.19,
+"second": "LS에코에너지",
+"second_ret": 11.51
+},
+{
+"name": "건설 대표주",
+"n": 6,
+"avg": 8.4,
+"up5": 5,
+"lead": "현대건설",
+"lead_ret": 13.45,
+"second": "대우건설",
+"second_ret": 11.5
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 8.15,
+"up5": 13,
+"lead": "심텍홀딩스",
+"lead_ret": 13.88,
+"second": "코리아써키트",
+"second_ret": 10.16
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": 8.11,
+"up5": 7,
+"lead": "디케이락",
+"lead_ret": 26.74,
+"second": "태광",
+"second_ret": 13.55
+},
+{
+"name": "광통신(광케이블/광섬유 등)",
+"n": 15,
+"avg": 7.76,
+"up5": 11,
+"lead": "RFHIC",
+"lead_ret": 19.01,
+"second": "서울바이오시스",
+"second_ret": 15.69
+},
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": 7.49,
+"up5": 7,
+"lead": "사피엔반도체",
+"lead_ret": 19.1,
+"second": "코세스",
+"second_ret": 18.54
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 7.27,
+"up5": 6,
+"lead": "더블유씨피",
+"lead_ret": 13.45,
+"second": "삼성SDI",
+"second_ret": 9.78
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": 7.0,
+"up5": 10,
+"lead": "코리아써키트",
+"lead_ret": 10.16,
+"second": "대덕전자",
+"second_ret": 8.8
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 6.68,
+"up5": 6,
+"lead": "이오테크닉스",
+"lead_ret": 14.77,
+"second": "프로텍",
+"second_ret": 12.12
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 30,
+"avg": 6.52,
+"up5": 21,
+"lead": "롯데에너지머티리얼즈",
+"lead_ret": 12.88,
+"second": "타이거일렉",
+"second_ret": 10.75
+}
+],
+"themes_worst": [
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.58,
+"up5": 0,
+"lead": "풍국주정",
+"lead_ret": 2.15,
+"second": "한국알콜",
+"second_ret": 1.74
+},
+{
+"name": "사료",
+"n": 18,
+"avg": -1.51,
+"up5": 0,
+"lead": "이지바이오",
+"lead_ret": 4.22,
+"second": "이지홀딩스",
+"second_ret": 1.93
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -1.15,
+"up5": 0,
+"lead": "헝셩그룹",
+"lead_ret": 1.86,
+"second": "컬러레이",
+"second_ret": 1.28
+},
+{
+"name": "손해보험",
+"n": 8,
+"avg": -0.78,
+"up5": 0,
+"lead": "흥국화재",
+"lead_ret": 1.66,
+"second": "한화손해보험",
+"second_ret": 0.99
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -0.59,
+"up5": 1,
+"lead": "유성티엔에스",
+"lead_ret": 5.71,
+"second": "롯데지주",
+"second_ret": -0.22
+}
+],
+"leaders": [
+{
+"name": "대한항공",
+"code": "003490",
+"ret": 11.84,
+"value": 2971,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "HD현대일렉트릭",
+"code": "267260",
+"ret": 11.06,
+"value": 1060,
+"theme": "전력저장장치(ESS)",
+"reason": "테마: 전력저장장치(ESS)"
+},
+{
+"name": "NHN",
+"code": "181710",
+"ret": 27.3,
+"value": 1041,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "효성중공업",
+"code": "298040",
+"ret": 13.62,
+"value": 1022,
+"theme": "원자력발전",
+"reason": "테마: 원자력발전"
+},
+{
+"name": "아시아나IDT",
+"code": "267850",
+"ret": 22.29,
+"value": 947,
+"theme": "SI(시스템통합)",
+"reason": "테마: SI(시스템통합)"
+}
+],
+"backfilled": true
+}

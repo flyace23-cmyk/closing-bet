@@ -44,6 +44,52 @@ def _news_today(code, name, n=3):
         return []
 
 
+def _index_chg():
+    out = {}
+    for k in ["KOSPI", "KOSDAQ"]:
+        try:
+            d = daily_idx(k)
+            out[k] = round((d.c.iloc[-1] / d.c.iloc[-2] - 1) * 100, 2)
+        except Exception:
+            out[k] = None
+    return out
+
+
+def daily_idx(k):
+    return md.daily(k, 3)
+
+
+def save_market(all_df, T, tt, L, log):
+    """그날 시장 한 장 기록: records/market/날짜.json (웹페이지 '대장주 달력'용)"""
+    x = all_df.drop_duplicates("code")
+    now = x.set_index("code")
+    themes = []
+    for t in T:
+        m = now.reindex([c for c in t["codes"] if c in now.index]).dropna(subset=["ret"])
+        if len(m) < 5:
+            continue
+        m = m.sort_values("ret", ascending=False)
+        themes.append(dict(name=t["name"], n=len(m), avg=round(float(m.ret.mean()), 2), up5=int((m.ret >= 5).sum()),
+                           lead=m.iloc[0]["name"], lead_ret=round(float(m.iloc[0].ret), 2),
+                           second=m.iloc[1]["name"], second_ret=round(float(m.iloc[1].ret), 2)))
+    themes.sort(key=lambda z: -z["avg"])
+    ix = _index_chg()
+    snap = dict(date=md.today(), kospi=ix.get("KOSPI"), kosdaq=ix.get("KOSDAQ"),
+                adv=int((x.ret > 0).sum()), dec=int((x.ret < 0).sum()), flat=int((x.ret == 0).sum()),
+                limit_up=int((x.ret >= 29.5).sum()), limit_down=int((x.ret <= -29.5).sum()),
+                value_total=round(float(x.value.sum())),
+                hot=[dict(name=t["name"], n=t["n"], lead=t["lead"], lead_ret=round(float(t["lead_ret"]), 2),
+                          second=t["second"], second_ret=round(float(t["second_ret"]), 2)) for t in tt],
+                themes=themes[:12], themes_worst=themes[-5:][::-1],
+                leaders=[dict(name=r["name"], code=r["code"], ret=round(float(r["ret"]), 2), value=r["value"],
+                              theme=r.get("main_theme", ""), reason=r["reason"]) for r in log])
+    import json
+    d = os.path.join(REC, "market")
+    os.makedirs(d, exist_ok=True)
+    json.dump(snap, open(os.path.join(d, f"{md.today()}.json"), "w"), ensure_ascii=False, indent=0)
+    return snap
+
+
 def _market_line():
     try:
         p = []
@@ -199,8 +245,10 @@ def evening_section(all_df=None):
             if not (news or dart):
                 d.append("   (뉴스·공시 없음 → 테마 순환매·수급일 수 있음)")
             detail.append("\n".join(d))
+            hot_names = [t["name"] for t in tt]
+            main = next((n for n in hot_names if n in th), th[0] if th else "")
             log.append(dict(date=md.today(), code=r.code, name=r.name, ret=r.ret, value=round(r.value),
-                            close=r.price, themes="|".join(th[:3]), reason=_one_reason(news, dart, th)))
+                            close=r.price, themes="|".join(th[:3]), main_theme=main, reason=_one_reason(news, dart, th)))
         out.append(f"<b>👑 오늘의 대장주</b> (+{MIN_RET:.0f}%↑, 거래대금 순, 🔺상한가)\n<pre>" + "\n".join(rows) + "</pre>")
         out.append("<b>📌 오른 이유 후보</b>\n" + "\n".join(detail))
 
@@ -209,6 +257,11 @@ def evening_section(all_df=None):
         if len(old):
             old = old[old.date != md.today()]
         pd.concat([old, pd.DataFrame(log)]).to_csv(LOG, index=False)
+
+    try:
+        save_market(all_df, T, tt, L, log)
+    except Exception as e:
+        print("시장 기록 실패:", e)
 
     out.append("<b>✍️ 오늘의 질문</b>\n1등 대장주의 재료는 하루짜리(뉴스 한 건)인가, 며칠 가는 것(실적·정책·수주)인가? "
                "한 줄로 답해 두고 내일 ↩️ 결과와 비교해 보세요.")

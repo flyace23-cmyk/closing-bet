@@ -1,0 +1,254 @@
+{
+"date": "20261104",
+"kospi": 0.62,
+"kosdaq": 1.5,
+"adv": 1482,
+"dec": 865,
+"flat": 78,
+"limit_up": 1,
+"limit_down": 0,
+"value_total": 288466,
+"hot": [
+{
+"name": "태양광에너지",
+"n": 8,
+"lead": "대명에너지",
+"lead_ret": 24.66,
+"second": "한화솔루션",
+"second_ret": 18.63
+},
+{
+"name": "2차전지",
+"n": 7,
+"lead": "상신이디피",
+"lead_ret": 20.73,
+"second": "에코앤드림",
+"second_ret": 19.81
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 4,
+"lead": "금양그린파워",
+"lead_ret": 17.42,
+"second": "한중엔시에스",
+"second_ret": 14.97
+}
+],
+"themes": [
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 7.16,
+"up5": 9,
+"lead": "금양그린파워",
+"lead_ret": 17.42,
+"second": "두산퓨얼셀",
+"second_ret": 11.3
+},
+{
+"name": "2차전지(나트륨이온)",
+"n": 9,
+"avg": 6.38,
+"up5": 5,
+"lead": "삼성SDI",
+"lead_ret": 10.55,
+"second": "에코프로비엠",
+"second_ret": 9.82
+},
+{
+"name": "전력저장장치(ESS)",
+"n": 42,
+"avg": 5.41,
+"up5": 22,
+"lead": "지에프아이",
+"lead_ret": 17.73,
+"second": "금양그린파워",
+"second_ret": 17.42
+},
+{
+"name": "리튬",
+"n": 21,
+"avg": 5.33,
+"up5": 12,
+"lead": "새빗켐",
+"lead_ret": 9.79,
+"second": "포스코퓨처엠",
+"second_ret": 9.35
+},
+{
+"name": "태양광에너지",
+"n": 43,
+"avg": 5.09,
+"up5": 20,
+"lead": "대명에너지",
+"lead_ret": 24.66,
+"second": "한화솔루션",
+"second_ret": 18.63
+},
+{
+"name": "우주태양광(페로브스카이트 등)",
+"n": 10,
+"avg": 4.93,
+"up5": 4,
+"lead": "한화솔루션",
+"lead_ret": 18.63,
+"second": "대주전자재료",
+"second_ret": 12.76
+},
+{
+"name": "2차전지(소재/부품)",
+"n": 73,
+"avg": 4.9,
+"up5": 31,
+"lead": "상신이디피",
+"lead_ret": 20.73,
+"second": "에코앤드림",
+"second_ret": 19.81
+},
+{
+"name": "농업",
+"n": 23,
+"avg": 4.65,
+"up5": 6,
+"lead": "대동금속",
+"lead_ret": 29.85,
+"second": "대동기어",
+"second_ret": 20.5
+},
+{
+"name": "2차전지(전고체)",
+"n": 30,
+"avg": 4.32,
+"up5": 14,
+"lead": "대주전자재료",
+"lead_ret": 12.76,
+"second": "삼성SDI",
+"second_ret": 10.55
+},
+{
+"name": "2차전지",
+"n": 142,
+"avg": 4.17,
+"up5": 54,
+"lead": "상신이디피",
+"lead_ret": 20.73,
+"second": "에코앤드림",
+"second_ret": 19.81
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": 4.11,
+"up5": 4,
+"lead": "엘앤에프",
+"lead_ret": 11.5,
+"second": "SFA넥셀",
+"second_ret": 7.73
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 4.04,
+"up5": 9,
+"lead": "대동금속",
+"lead_ret": 29.85,
+"second": "대동기어",
+"second_ret": 20.5
+}
+],
+"themes_worst": [
+{
+"name": "2026 하반기 신규상장",
+"n": 16,
+"avg": -3.87,
+"up5": 0,
+"lead": "레메디",
+"lead_ret": 3.35,
+"second": "딜리셔스",
+"second_ret": 0.44
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": -2.53,
+"up5": 2,
+"lead": "에스피소프트",
+"lead_ret": 13.3,
+"second": "비트플래닛",
+"second_ret": 5.78
+},
+{
+"name": "딥페이크(deepfake)",
+"n": 14,
+"avg": -2.1,
+"up5": 1,
+"lead": "에스피소프트",
+"lead_ret": 13.3,
+"second": "M83",
+"second_ret": 1.37
+},
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": -1.67,
+"up5": 0,
+"lead": "CJ씨푸드",
+"lead_ret": 2.16,
+"second": "우양",
+"second_ret": 0.37
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": -1.5,
+"up5": 0,
+"lead": "카카오",
+"lead_ret": 1.9,
+"second": "알비더블유",
+"second_ret": 1.67
+}
+],
+"leaders": [
+{
+"name": "삼성SDI",
+"code": "006400",
+"ret": 10.55,
+"value": 7735,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "한화솔루션",
+"code": "009830",
+"ret": 18.63,
+"value": 7541,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "HD현대에너지솔루션",
+"code": "322000",
+"ret": 10.98,
+"value": 1287,
+"theme": "태양광에너지",
+"reason": "테마: 태양광에너지"
+},
+{
+"name": "엘앤에프",
+"code": "066970",
+"ret": 11.5,
+"value": 876,
+"theme": "2차전지",
+"reason": "테마: 2차전지"
+},
+{
+"name": "대동기어",
+"code": "008830",
+"ret": 20.5,
+"value": 849,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

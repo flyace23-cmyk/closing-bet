@@ -1,0 +1,254 @@
+{
+"date": "20261106",
+"kospi": -6.02,
+"kosdaq": -5.03,
+"adv": 435,
+"dec": 1946,
+"flat": 45,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 331372,
+"hot": [
+{
+"name": "코로나19(치료제/백신 개발 등)",
+"n": 4,
+"lead": "아리바이오랩",
+"lead_ret": 12.4,
+"second": "펩트론",
+"second_ret": 6.17
+},
+{
+"name": "코리아 밸류업 지수(Korea Value-up Index)",
+"n": 4,
+"lead": "롯데렌탈",
+"lead_ret": 10.17,
+"second": "한진칼",
+"second_ret": 7.66
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "혜인",
+"lead_ret": 13.41,
+"second": "GS건설",
+"second_ret": 4.75
+}
+],
+"themes": [
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 0.02,
+"up5": 1,
+"lead": "원티드랩",
+"lead_ret": 5.07,
+"second": "사람인",
+"second_ret": 3.23
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": -0.13,
+"up5": 1,
+"lead": "NHN",
+"lead_ret": 13.11,
+"second": "컴투스",
+"second_ret": 3.71
+},
+{
+"name": "애플페이",
+"n": 8,
+"avg": -0.18,
+"up5": 0,
+"lead": "NICE",
+"lead_ret": 3.4,
+"second": "나이스정보통신",
+"second_ret": 2.57
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": -0.27,
+"up5": 2,
+"lead": "스튜디오쏠쏠",
+"lead_ret": 10.29,
+"second": "아센디오",
+"second_ret": 5.65
+},
+{
+"name": "게임",
+"n": 30,
+"avg": -0.29,
+"up5": 1,
+"lead": "NHN",
+"lead_ret": 13.11,
+"second": "컴투스",
+"second_ret": 3.71
+},
+{
+"name": "제대혈",
+"n": 5,
+"avg": -0.32,
+"up5": 0,
+"lead": "차바이오텍",
+"lead_ret": 1.38,
+"second": "강스템바이오텍",
+"second_ret": 0.05
+},
+{
+"name": "SNS(소셜네트워크서비스)",
+"n": 10,
+"avg": -0.33,
+"up5": 0,
+"lead": "NAVER",
+"lead_ret": 2.56,
+"second": "포니링크",
+"second_ret": 2.4
+},
+{
+"name": "미디어(방송/신문)",
+"n": 12,
+"avg": -0.34,
+"up5": 0,
+"lead": "CJ ENM",
+"lead_ret": 2.56,
+"second": "아시아경제",
+"second_ret": 1.22
+},
+{
+"name": "탈 플라스틱(친환경/생분해성 등)",
+"n": 8,
+"avg": -0.34,
+"up5": 1,
+"lead": "진영",
+"lead_ret": 6.49,
+"second": "한국팩키지",
+"second_ret": 1.33
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": -0.4,
+"up5": 0,
+"lead": "와이지엔터테인먼트",
+"lead_ret": 4.38,
+"second": "JYP Ent.",
+"second_ret": 4.18
+},
+{
+"name": "국내 상장 중국기업",
+"n": 10,
+"avg": -0.44,
+"up5": 0,
+"lead": "윙입푸드",
+"lead_ret": 2.75,
+"second": "씨엑스아이",
+"second_ret": 2.34
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -0.5,
+"up5": 1,
+"lead": "NHN",
+"lead_ret": 13.11,
+"second": "세종텔레콤",
+"second_ret": 3.89
+}
+],
+"themes_worst": [
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -7.06,
+"up5": 0,
+"lead": "한선엔지니어링",
+"lead_ret": 4.7,
+"second": "하이록코리아",
+"second_ret": -2.11
+},
+{
+"name": "전선",
+"n": 8,
+"avg": -6.3,
+"up5": 0,
+"lead": "LS마린솔루션",
+"lead_ret": -2.17,
+"second": "대원전선",
+"second_ret": -4.35
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -6.25,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -2.95,
+"second": "엠케이전자",
+"second_ret": -3.72
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": -6.12,
+"up5": 0,
+"lead": "기가레인",
+"lead_ret": 2.47,
+"second": "미래컴퍼니",
+"second_ret": -3.71
+},
+{
+"name": "뉴로모픽 반도체",
+"n": 7,
+"avg": -5.98,
+"up5": 0,
+"lead": "앤씨앤",
+"lead_ret": 2.42,
+"second": "삼성전자",
+"second_ret": -3.97
+}
+],
+"leaders": [
+{
+"name": "롯데렌탈",
+"code": "089860",
+"ret": 10.17,
+"value": 1411,
+"theme": "코리아 밸류업 지수(Korea Value-up Index)",
+"reason": "테마: 코리아 밸류업 지수(Korea Value-up Index)"
+},
+{
+"name": "지엔씨에너지",
+"code": "119850",
+"ret": 11.37,
+"value": 498,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+},
+{
+"name": "NHN",
+"code": "181710",
+"ret": 13.11,
+"value": 452,
+"theme": "재택근무/스마트워크",
+"reason": "테마: 재택근무/스마트워크"
+},
+{
+"name": "덕성",
+"code": "004830",
+"ret": 18.96,
+"value": 212,
+"theme": "초전도체",
+"reason": "테마: 초전도체"
+},
+{
+"name": "아리바이오랩",
+"code": "261780",
+"ret": 12.4,
+"value": 163,
+"theme": "코로나19(치료제/백신 개발 등)",
+"reason": "테마: 코로나19(치료제/백신 개발 등)"
+}
+],
+"backfilled": true
+}

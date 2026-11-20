@@ -1,0 +1,254 @@
+{
+"date": "20261118",
+"kospi": 1.99,
+"kosdaq": 1.96,
+"adv": 1595,
+"dec": 775,
+"flat": 59,
+"limit_up": 7,
+"limit_down": 0,
+"value_total": 203170,
+"hot": [
+{
+"name": "엔터테인먼트",
+"n": 7,
+"lead": "에스엠",
+"lead_ret": 30.59,
+"second": "스튜디오드래곤",
+"second_ret": 29.98
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 6,
+"lead": "레인보우로보틱스",
+"lead_ret": 19.82,
+"second": "로보티즈",
+"second_ret": 14.96
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 3,
+"lead": "피앤에스로보틱스",
+"lead_ret": 15.82,
+"second": "로보티즈",
+"second_ret": 14.96
+}
+],
+"themes": [
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 10.7,
+"up5": 9,
+"lead": "에스엠",
+"lead_ret": 30.59,
+"second": "YG PLUS",
+"second_ret": 24.79
+},
+{
+"name": "여행",
+"n": 9,
+"avg": 10.54,
+"up5": 6,
+"lead": "노랑풍선",
+"lead_ret": 25.72,
+"second": "하나투어",
+"second_ret": 16.23
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": 8.7,
+"up5": 18,
+"lead": "에스엠",
+"lead_ret": 30.59,
+"second": "스튜디오드래곤",
+"second_ret": 29.98
+},
+{
+"name": "영상콘텐츠",
+"n": 30,
+"avg": 7.98,
+"up5": 19,
+"lead": "에이스토리",
+"lead_ret": 31.73,
+"second": "스튜디오드래곤",
+"second_ret": 29.98
+},
+{
+"name": "S7(삼성전자/SK하이닉스 등)",
+"n": 6,
+"avg": 5.87,
+"up5": 4,
+"lead": "삼성전기",
+"lead_ret": 9.63,
+"second": "SK스퀘어",
+"second_ret": 6.07
+},
+{
+"name": "피지컬 AI/휴머노이드 로봇",
+"n": 46,
+"avg": 5.69,
+"up5": 24,
+"lead": "레인보우로보틱스",
+"lead_ret": 19.82,
+"second": "로보티즈",
+"second_ret": 14.96
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.57,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 13.44,
+"second": "GKL",
+"second_ret": 8.17
+},
+{
+"name": "카지노",
+"n": 6,
+"avg": 5.57,
+"up5": 3,
+"lead": "롯데관광개발",
+"lead_ret": 13.44,
+"second": "GKL",
+"second_ret": 8.17
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": 5.4,
+"up5": 7,
+"lead": "코세스",
+"lead_ret": 12.1,
+"second": "비나텍",
+"second_ret": 12.05
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 36,
+"avg": 5.3,
+"up5": 16,
+"lead": "썸에이지",
+"lead_ret": 29.89,
+"second": "위메이드맥스",
+"second_ret": 15.08
+},
+{
+"name": "로봇(산업용/협동로봇 등)",
+"n": 74,
+"avg": 5.02,
+"up5": 35,
+"lead": "레인보우로보틱스",
+"lead_ret": 19.82,
+"second": "로보티즈",
+"second_ret": 14.96
+},
+{
+"name": "NFT(대체불가토큰)",
+"n": 20,
+"avg": 5.01,
+"up5": 6,
+"lead": "에이스토리",
+"lead_ret": 31.73,
+"second": "엠게임",
+"second_ret": 9.48
+}
+],
+"themes_worst": [
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": -4.09,
+"up5": 1,
+"lead": "인콘",
+"lead_ret": 9.64,
+"second": "아이디스",
+"second_ret": 1.01
+},
+{
+"name": "보안주(물리)",
+"n": 21,
+"avg": -1.54,
+"up5": 2,
+"lead": "인콘",
+"lead_ret": 9.64,
+"second": "이랜시스",
+"second_ret": 6.95
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.52,
+"up5": 0,
+"lead": "종근당",
+"lead_ret": 1.15,
+"second": "이수앱지스",
+"second_ret": 1.11
+},
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": -1.38,
+"up5": 0,
+"lead": "옴니시스템",
+"lead_ret": 1.7,
+"second": "성우전자",
+"second_ret": 1.64
+},
+{
+"name": "타이어",
+"n": 9,
+"avg": -1.2,
+"up5": 0,
+"lead": "코오롱인더",
+"lead_ret": 1.38,
+"second": "금호석유화학",
+"second_ret": 1.26
+}
+],
+"leaders": [
+{
+"name": "원익홀딩스",
+"code": "030530",
+"ret": 11.35,
+"value": 3717,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 12.39,
+"value": 1401,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+},
+{
+"name": "JYP Ent.",
+"code": "035900",
+"ret": 23.09,
+"value": 1290,
+"theme": "엔터테인먼트",
+"reason": "테마: 엔터테인먼트"
+},
+{
+"name": "두산",
+"code": "000150",
+"ret": 11.59,
+"value": 1280,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+},
+{
+"name": "레인보우로보틱스",
+"code": "277810",
+"ret": 19.82,
+"value": 1188,
+"theme": "로봇(산업용/협동로봇 등)",
+"reason": "테마: 로봇(산업용/협동로봇 등)"
+}
+],
+"backfilled": true
+}

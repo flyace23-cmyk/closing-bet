@@ -189,7 +189,7 @@ def main():
         import father_mock
         send(father_mock.daily_section(), html=True)
     except Exception as e:
-        send(f"(아버지 방식 모의매매 실패: {e})")
+        send(f"(15분봉 MACD·일목 단타 모의 실패: {e})")
 
 
 if __name__ == "__main__":

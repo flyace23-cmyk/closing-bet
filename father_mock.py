@@ -1,4 +1,4 @@
-"""아버지 방식(15분봉 지표 단타, 정훈 수정판) 모의매매 — 매일 기록용
+"""15분봉 MACD·일목 단타 모의매매 (MACD 골든크로스·일목 구름·이평 수렴·RSI·스토캐스틱·파라볼릭) — 매일 기록용
 
 규칙 (프로젝트 문서 '아버지-분봉단타-검증-결과' 3장)
   매수: 09:15~14:45 신호, 전날 거래대금 300억↑, MACD 골든크로스(최근 3봉), 10·20선 2%·20·60선 3% 이내,
@@ -207,7 +207,7 @@ def daily_section():
         old = pd.concat([old, ev], ignore_index=True)
         old.to_csv(OUT, index=False)
     import html as _h
-    lines = ["<b>👴 아버지 방식 모의매매</b> (15분봉 지표 단타, 1건 100만원)"]
+    lines = ["<b>📐 15분봉 MACD·일목 단타 모의매매</b> (1건 100만원)"]
     if ev.empty:
         lines.append("오늘 신호 없음")
     else:

@@ -1,0 +1,254 @@
+{
+"date": "20261117",
+"kospi": -2.59,
+"kosdaq": -2.34,
+"adv": 544,
+"dec": 1851,
+"flat": 33,
+"limit_up": 3,
+"limit_down": 1,
+"value_total": 179979,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 4,
+"lead": "케이씨텍",
+"lead_ret": 9.05,
+"second": "파크시스템스",
+"second_ret": 8.14
+},
+{
+"name": "남북경협",
+"n": 4,
+"lead": "인디에프",
+"lead_ret": 30.17,
+"second": "좋은사람들",
+"second_ret": 26.56
+},
+{
+"name": "소매유통",
+"n": 3,
+"lead": "현대백화점",
+"lead_ret": 7.38,
+"second": "신세계",
+"second_ret": 5.38
+}
+],
+"themes": [
+{
+"name": "유심(USIM)",
+"n": 5,
+"avg": 2.98,
+"up5": 1,
+"lead": "퀀텀레일",
+"lead_ret": 7.26,
+"second": "유비벨록스",
+"second_ret": 4.93
+},
+{
+"name": "백화점",
+"n": 6,
+"avg": 2.21,
+"up5": 2,
+"lead": "현대백화점",
+"lead_ret": 7.38,
+"second": "신세계",
+"second_ret": 5.38
+},
+{
+"name": "日제품 불매운동(수혜)",
+"n": 21,
+"avg": 1.98,
+"up5": 2,
+"lead": "좋은사람들",
+"lead_ret": 26.56,
+"second": "코데즈컴바인",
+"second_ret": 15.92
+},
+{
+"name": "남북경협",
+"n": 29,
+"avg": 1.57,
+"up5": 6,
+"lead": "인디에프",
+"lead_ret": 30.17,
+"second": "좋은사람들",
+"second_ret": 26.56
+},
+{
+"name": "일자리(취업)",
+"n": 9,
+"avg": 1.01,
+"up5": 1,
+"lead": "사람인",
+"lead_ret": 11.81,
+"second": "아이비김영",
+"second_ret": 1.14
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 1.0,
+"up5": 2,
+"lead": "현대백화점",
+"lead_ret": 7.38,
+"second": "신세계",
+"second_ret": 5.38
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 0.71,
+"up5": 0,
+"lead": "AK홀딩스",
+"lead_ret": 4.85,
+"second": "제주항공",
+"second_ret": 4.02
+},
+{
+"name": "호텔/리조트",
+"n": 13,
+"avg": 0.66,
+"up5": 1,
+"lead": "아난티",
+"lead_ret": 6.61,
+"second": "소노스퀘어",
+"second_ret": 3.81
+},
+{
+"name": "광고",
+"n": 24,
+"avg": 0.54,
+"up5": 3,
+"lead": "오리콤",
+"lead_ret": 18.11,
+"second": "비케이홀딩스",
+"second_ret": 12.71
+},
+{
+"name": "보안주(물리)",
+"n": 21,
+"avg": 0.51,
+"up5": 2,
+"lead": "지슨",
+"lead_ret": 29.96,
+"second": "인콘",
+"second_ret": 5.9
+},
+{
+"name": "패션/의류",
+"n": 58,
+"avg": 0.36,
+"up5": 5,
+"lead": "인디에프",
+"lead_ret": 30.17,
+"second": "윙스풋",
+"second_ret": 29.87
+},
+{
+"name": "모더나(MODERNA)",
+"n": 6,
+"avg": 0.04,
+"up5": 0,
+"lead": "엔투텍",
+"lead_ret": 3.97,
+"second": "소마젠",
+"second_ret": 0.38
+}
+],
+"themes_worst": [
+{
+"name": "마이크로 LED",
+"n": 10,
+"avg": -6.15,
+"up5": 0,
+"lead": "루멘스바이오스",
+"lead_ret": 0.48,
+"second": "영우디에스피",
+"second_ret": -1.16
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -5.81,
+"up5": 0,
+"lead": "지아이에스",
+"lead_ret": -2.41,
+"second": "원준",
+"second_ret": -2.96
+},
+{
+"name": "고체산화물 연료전지(SOFC)",
+"n": 14,
+"avg": -5.11,
+"up5": 0,
+"lead": "미코",
+"lead_ret": -0.25,
+"second": "코세스",
+"second_ret": -1.9
+},
+{
+"name": "요소수",
+"n": 5,
+"avg": -4.93,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": -1.07,
+"second": "TKG휴켐스",
+"second_ret": -1.35
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": -4.32,
+"up5": 0,
+"lead": "GH신소재",
+"lead_ret": 0.47,
+"second": "케이엔솔",
+"second_ret": 0.0
+}
+],
+"leaders": [
+{
+"name": "세미파이브",
+"code": "490470",
+"ret": 20.09,
+"value": 893,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "가온칩스",
+"code": "399720",
+"ret": 10.96,
+"value": 624,
+"theme": "시스템반도체",
+"reason": "테마: 시스템반도체"
+},
+{
+"name": "성호전자",
+"code": "043260",
+"ret": 11.21,
+"value": 492,
+"theme": "공기청정기",
+"reason": "테마: 공기청정기"
+},
+{
+"name": "오리콤",
+"code": "010470",
+"ret": 18.11,
+"value": 457,
+"theme": "광고",
+"reason": "테마: 광고"
+},
+{
+"name": "코데즈컴바인",
+"code": "047770",
+"ret": 15.92,
+"value": 333,
+"theme": "남북경협",
+"reason": "테마: 남북경협"
+}
+],
+"backfilled": true
+}

@@ -1,0 +1,254 @@
+{
+"date": "20261112",
+"kospi": -0.61,
+"kosdaq": -1.22,
+"adv": 636,
+"dec": 1713,
+"flat": 77,
+"limit_up": 4,
+"limit_down": 0,
+"value_total": 251582,
+"hot": [
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 5,
+"lead": "바이브컴퍼니",
+"lead_ret": 34.39,
+"second": "비큐AI",
+"second_ret": 27.85
+},
+{
+"name": "우주항공산업(누리호/인공위성 등)",
+"n": 3,
+"lead": "컨텍",
+"lead_ret": 28.19,
+"second": "AP위성",
+"second_ret": 15.16
+},
+{
+"name": "PCB(FPCB 등)",
+"n": 3,
+"lead": "와이제이링크",
+"lead_ret": 29.85,
+"second": "티엘비",
+"second_ret": 8.24
+}
+],
+"themes": [
+{
+"name": "AI 챗봇(챗GPT 등)",
+"n": 30,
+"avg": 3.4,
+"up5": 7,
+"lead": "바이브컴퍼니",
+"lead_ret": 34.39,
+"second": "코난테크놀로지",
+"second_ret": 28.91
+},
+{
+"name": "CCTV＆DVR",
+"n": 8,
+"avg": 2.4,
+"up5": 2,
+"lead": "DGI",
+"lead_ret": 29.5,
+"second": "비츠로시스",
+"second_ret": 8.82
+},
+{
+"name": "캐릭터상품",
+"n": 8,
+"avg": 1.29,
+"up5": 2,
+"lead": "리튬포어스",
+"lead_ret": 10.99,
+"second": "대원미디어",
+"second_ret": 6.81
+},
+{
+"name": "지능형로봇/인공지능(AI)",
+"n": 66,
+"avg": 1.28,
+"up5": 11,
+"lead": "바이브컴퍼니",
+"lead_ret": 34.39,
+"second": "코난테크놀로지",
+"second_ret": 28.91
+},
+{
+"name": "광고",
+"n": 24,
+"avg": 1.21,
+"up5": 1,
+"lead": "YG PLUS",
+"lead_ret": 13.78,
+"second": "차이커뮤니케이션",
+"second_ret": 3.88
+},
+{
+"name": "음원/음반",
+"n": 15,
+"avg": 1.14,
+"up5": 2,
+"lead": "YG PLUS",
+"lead_ret": 13.78,
+"second": "JYP Ent.",
+"second_ret": 8.29
+},
+{
+"name": "보안주(물리)",
+"n": 21,
+"avg": 1.11,
+"up5": 3,
+"lead": "DGI",
+"lead_ret": 29.5,
+"second": "인텔리빅스",
+"second_ret": 15.92
+},
+{
+"name": "조선",
+"n": 6,
+"avg": 0.93,
+"up5": 0,
+"lead": "대한조선",
+"lead_ret": 4.09,
+"second": "HJ중공업",
+"second_ret": 3.11
+},
+{
+"name": "페인트",
+"n": 8,
+"avg": 0.59,
+"up5": 1,
+"lead": "강남제비스코",
+"lead_ret": 6.89,
+"second": "조광페인트",
+"second_ret": 1.22
+},
+{
+"name": "엔터테인먼트",
+"n": 30,
+"avg": 0.58,
+"up5": 1,
+"lead": "JYP Ent.",
+"lead_ret": 8.29,
+"second": "하이브",
+"second_ret": 4.36
+},
+{
+"name": "강관업체(Steel pipe)",
+"n": 11,
+"avg": 0.58,
+"up5": 1,
+"lead": "이렘",
+"lead_ret": 19.95,
+"second": "한국주철관",
+"second_ret": 1.74
+},
+{
+"name": "유리 기판",
+"n": 21,
+"avg": 0.55,
+"up5": 4,
+"lead": "이노메트리",
+"lead_ret": 26.46,
+"second": "제이앤티씨",
+"second_ret": 11.48
+}
+],
+"themes_worst": [
+{
+"name": "스테이블코인",
+"n": 24,
+"avg": -4.05,
+"up5": 0,
+"lead": "사토시홀딩스",
+"lead_ret": 0.57,
+"second": "KG파이낸셜",
+"second_ret": -0.13
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -3.99,
+"up5": 0,
+"lead": "원준",
+"lead_ret": -0.24,
+"second": "코칩",
+"second_ret": -2.38
+},
+{
+"name": "피팅(관이음쇠)/밸브",
+"n": 9,
+"avg": -3.46,
+"up5": 0,
+"lead": "한선엔지니어링",
+"lead_ret": 1.19,
+"second": "비엠티",
+"second_ret": -0.73
+},
+{
+"name": "전자파",
+"n": 12,
+"avg": -3.3,
+"up5": 0,
+"lead": "상신전자",
+"lead_ret": 0.93,
+"second": "잉크테크",
+"second_ret": 0.0
+},
+{
+"name": "전자결제(전자화폐)",
+"n": 13,
+"avg": -3.28,
+"up5": 1,
+"lead": "인포뱅크",
+"lead_ret": 5.71,
+"second": "인포바인",
+"second_ret": 0.97
+}
+],
+"leaders": [
+{
+"name": "지니언스",
+"code": "263860",
+"ret": 29.07,
+"value": 2754,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "제이앤티씨",
+"code": "204270",
+"ret": 11.48,
+"value": 795,
+"theme": "스마트폰",
+"reason": "테마: 스마트폰"
+},
+{
+"name": "AP위성",
+"code": "211270",
+"ret": 15.16,
+"value": 766,
+"theme": "우주항공산업(누리호/인공위성 등)",
+"reason": "테마: 우주항공산업(누리호/인공위성 등)"
+},
+{
+"name": "심텍홀딩스",
+"code": "036710",
+"ret": 13.27,
+"value": 490,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "인텔리빅스",
+"code": "420610",
+"ret": 15.92,
+"value": 481,
+"theme": "지능형로봇/인공지능(AI)",
+"reason": "테마: 지능형로봇/인공지능(AI)"
+}
+],
+"backfilled": true
+}

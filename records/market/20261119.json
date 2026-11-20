@@ -1,0 +1,254 @@
+{
+"date": "20261119",
+"kospi": 1.39,
+"kosdaq": 3.32,
+"adv": 1470,
+"dec": 879,
+"flat": 81,
+"limit_up": 3,
+"limit_down": 0,
+"value_total": 177397,
+"hot": [
+{
+"name": "반도체 장비",
+"n": 8,
+"lead": "테스",
+"lead_ret": 14.27,
+"second": "GST",
+"second_ret": 12.9
+},
+{
+"name": "반도체 재료/부품",
+"n": 3,
+"lead": "씨엠티엑스",
+"lead_ret": 12.71,
+"second": "하나머티리얼즈",
+"second_ret": 11.76
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 3,
+"lead": "에스와이",
+"lead_ret": 28.48,
+"second": "에스와이스틸텍",
+"second_ret": 19.99
+}
+],
+"themes": [
+{
+"name": "김밥(냉동김밥 등)",
+"n": 6,
+"avg": 5.26,
+"up5": 1,
+"lead": "한울앤제주",
+"lead_ret": 29.96,
+"second": "우양",
+"second_ret": 2.51
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": 4.53,
+"up5": 4,
+"lead": "제주항공",
+"lead_ret": 11.11,
+"second": "AK홀딩스",
+"second_ret": 7.3
+},
+{
+"name": "전후 재건(우크라/중동 전쟁 등)",
+"n": 40,
+"avg": 3.34,
+"up5": 12,
+"lead": "에스와이",
+"lead_ret": 28.48,
+"second": "에스와이스틸텍",
+"second_ret": 19.99
+},
+{
+"name": "모듈러주택",
+"n": 10,
+"avg": 3.29,
+"up5": 2,
+"lead": "에스와이",
+"lead_ret": 28.48,
+"second": "엔알비",
+"second_ret": 5.27
+},
+{
+"name": "면세점",
+"n": 8,
+"avg": 3.02,
+"up5": 2,
+"lead": "신세계",
+"lead_ret": 7.23,
+"second": "토니모리",
+"second_ret": 6.78
+},
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": 2.98,
+"up5": 4,
+"lead": "티엘비",
+"lead_ret": 10.12,
+"second": "삼성전기",
+"second_ret": 7.68
+},
+{
+"name": "보안주(물리)",
+"n": 21,
+"avg": 2.95,
+"up5": 3,
+"lead": "지슨",
+"lead_ret": 33.27,
+"second": "시선AI",
+"second_ret": 13.11
+},
+{
+"name": "보안주(정보)",
+"n": 50,
+"avg": 2.88,
+"up5": 8,
+"lead": "파수AI",
+"lead_ret": 13.69,
+"second": "안랩",
+"second_ret": 12.09
+},
+{
+"name": "오가노이드",
+"n": 8,
+"avg": 2.86,
+"up5": 2,
+"lead": "오가노이드사이언스",
+"lead_ret": 5.97,
+"second": "드림씨아이에스",
+"second_ret": 5.25
+},
+{
+"name": "코로나19(음압병실/음압구급차)",
+"n": 7,
+"avg": 2.86,
+"up5": 1,
+"lead": "에스와이",
+"lead_ret": 28.48,
+"second": "엔브이에이치코리아",
+"second_ret": 0.77
+},
+{
+"name": "LED장비",
+"n": 11,
+"avg": 2.82,
+"up5": 1,
+"lead": "프로텍",
+"lead_ret": 11.2,
+"second": "티씨케이",
+"second_ret": 4.46
+},
+{
+"name": "의료AI",
+"n": 27,
+"avg": 2.79,
+"up5": 7,
+"lead": "씨어스",
+"lead_ret": 16.08,
+"second": "시선AI",
+"second_ret": 13.11
+}
+],
+"themes_worst": [
+{
+"name": "요소수",
+"n": 5,
+"avg": -1.48,
+"up5": 0,
+"lead": "유니온",
+"lead_ret": 0.89,
+"second": "KG케미칼",
+"second_ret": 0.16
+},
+{
+"name": "2차전지(LFP/리튬인산철)",
+"n": 12,
+"avg": -1.48,
+"up5": 0,
+"lead": "브이티",
+"lead_ret": 2.47,
+"second": "아모그린텍",
+"second_ret": 0.99
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.44,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 2.47,
+"second": "대성산업",
+"second_ret": 0.99
+},
+{
+"name": "LPG(액화석유가스)",
+"n": 9,
+"avg": -1.44,
+"up5": 0,
+"lead": "흥구석유",
+"lead_ret": 2.47,
+"second": "대성산업",
+"second_ret": 0.99
+},
+{
+"name": "자원개발",
+"n": 13,
+"avg": -1.37,
+"up5": 0,
+"lead": "GS글로벌",
+"lead_ret": 1.17,
+"second": "대성산업",
+"second_ret": 0.99
+}
+],
+"leaders": [
+{
+"name": "안랩",
+"code": "053800",
+"ret": 12.09,
+"value": 1074,
+"theme": "보안주(정보)",
+"reason": "테마: 보안주(정보)"
+},
+{
+"name": "제주항공",
+"code": "089590",
+"ret": 11.11,
+"value": 816,
+"theme": "밸류업(24년 기업가치 제고계획 발표)",
+"reason": "테마: 밸류업(24년 기업가치 제고계획 발표)"
+},
+{
+"name": "티엘비",
+"code": "356860",
+"ret": 10.12,
+"value": 586,
+"theme": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"reason": "테마: 반도체 기판(FC-BGA/PCB/MLB 등)"
+},
+{
+"name": "CJ ENM",
+"code": "035760",
+"ret": 12.13,
+"value": 505,
+"theme": "음원/음반",
+"reason": "테마: 음원/음반"
+},
+{
+"name": "에스와이",
+"code": "109610",
+"ret": 28.48,
+"value": 390,
+"theme": "전후 재건(우크라/중동 전쟁 등)",
+"reason": "테마: 전후 재건(우크라/중동 전쟁 등)"
+}
+],
+"backfilled": true
+}

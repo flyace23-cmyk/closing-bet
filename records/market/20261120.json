@@ -1,0 +1,253 @@
+{
+"date": "20261120",
+"kospi": -5.21,
+"kosdaq": -5.71,
+"adv": 284,
+"dec": 2109,
+"flat": 38,
+"limit_up": 2,
+"limit_down": 2,
+"value_total": 183245,
+"hot": [
+{
+"name": "밸류업(25년 기업가치 제고계획 발표)",
+"n": 5,
+"lead": "한진칼",
+"lead_ret": 9.72,
+"second": "한미약품",
+"second_ret": 6.52
+},
+{
+"name": "제약업체",
+"n": 5,
+"lead": "한미약품",
+"lead_ret": 6.52,
+"second": "삼진제약",
+"second_ret": 2.2
+},
+{
+"name": "모바일게임(스마트폰)",
+"n": 3,
+"lead": "미스터블루",
+"lead_ret": 4.86,
+"second": "카카오게임즈",
+"second_ret": 2.76
+}
+],
+"themes": [
+{
+"name": "면세점",
+"n": 8,
+"avg": 0.59,
+"up5": 1,
+"lead": "글로벌텍스프리",
+"lead_ret": 10.71,
+"second": "토니모리",
+"second_ret": 1.74
+},
+{
+"name": "광고",
+"n": 24,
+"avg": -0.38,
+"up5": 1,
+"lead": "드림인사이트",
+"lead_ret": 28.97,
+"second": "모비데이즈",
+"second_ret": 4.3
+},
+{
+"name": "은행",
+"n": 11,
+"avg": -0.59,
+"up5": 0,
+"lead": "카카오뱅크",
+"lead_ret": 0.93,
+"second": "신한지주",
+"second_ret": 0.82
+},
+{
+"name": "교육/온라인 교육",
+"n": 24,
+"avg": -1.06,
+"up5": 1,
+"lead": "NE능률",
+"lead_ret": 7.2,
+"second": "비트플래닛",
+"second_ret": 1.98
+},
+{
+"name": "항공/저가 항공사(LCC)",
+"n": 9,
+"avg": -1.06,
+"up5": 1,
+"lead": "한진칼",
+"lead_ret": 9.72,
+"second": "AK홀딩스",
+"second_ret": 2.15
+},
+{
+"name": "탈모 치료",
+"n": 28,
+"avg": -1.23,
+"up5": 2,
+"lead": "타임X AI",
+"lead_ret": 30.0,
+"second": "바이오니아",
+"second_ret": 12.52
+},
+{
+"name": "편의점",
+"n": 5,
+"avg": -1.25,
+"up5": 0,
+"lead": "BGF리테일",
+"lead_ret": 1.28,
+"second": "GS리테일",
+"second_ret": 0.23
+},
+{
+"name": "겨울",
+"n": 22,
+"avg": -1.32,
+"up5": 1,
+"lead": "한미약품",
+"lead_ret": 6.52,
+"second": "영원무역",
+"second_ret": 1.28
+},
+{
+"name": "주류업(주정, 에탄올 등)",
+"n": 13,
+"avg": -1.33,
+"up5": 0,
+"lead": "보해양조",
+"lead_ret": 2.69,
+"second": "한국알콜",
+"second_ret": 0.0
+},
+{
+"name": "종합 물류",
+"n": 16,
+"avg": -1.35,
+"up5": 1,
+"lead": "SG&G",
+"lead_ret": 6.73,
+"second": "한익스프레스",
+"second_ret": 1.3
+},
+{
+"name": "재택근무/스마트워크",
+"n": 15,
+"avg": -1.37,
+"up5": 1,
+"lead": "파수AI",
+"lead_ret": 5.0,
+"second": "이씨에스",
+"second_ret": 3.27
+},
+{
+"name": "바이오시밀러(복제 바이오의약품)",
+"n": 20,
+"avg": -1.39,
+"up5": 1,
+"lead": "한미약품",
+"lead_ret": 6.52,
+"second": "팬젠",
+"second_ret": 3.66
+}
+],
+"themes_worst": [
+{
+"name": "반도체 기판(FC-BGA/PCB/MLB 등)",
+"n": 14,
+"avg": -11.22,
+"up5": 0,
+"lead": "다원넥스뷰",
+"lead_ret": -2.65,
+"second": "심텍홀딩스",
+"second_ret": -4.05
+},
+{
+"name": "2026 하반기 신규상장",
+"n": 21,
+"avg": -11.08,
+"up5": 0,
+"lead": "기도산업",
+"lead_ret": -1.27,
+"second": "진코스텍",
+"second_ret": -2.74
+},
+{
+"name": "소캠(SOCAMM)",
+"n": 11,
+"avg": -10.65,
+"up5": 0,
+"lead": "LB인베스트먼트",
+"lead_ret": -3.57,
+"second": "SK하이닉스",
+"second_ret": -7.02
+},
+{
+"name": "온디바이스 AI",
+"n": 24,
+"avg": -9.51,
+"up5": 0,
+"lead": "큐알티",
+"lead_ret": -3.11,
+"second": "마음AI",
+"second_ret": -3.24
+},
+{
+"name": "MLCC(적층세라믹콘덴서)",
+"n": 11,
+"avg": -9.35,
+"up5": 0,
+"lead": "원준",
+"lead_ret": -5.59,
+"second": "코스모신소재",
+"second_ret": -5.99
+}
+],
+"leaders": [
+{
+"name": "마녀공장",
+"code": "439090",
+"ret": 18.18,
+"value": 636,
+"theme": "화장품",
+"reason": "테마: 화장품"
+},
+{
+"name": "글로벌텍스프리",
+"code": "204620",
+"ret": 10.71,
+"value": 317,
+"theme": "AI 챗봇(챗GPT 등)",
+"reason": "테마: AI 챗봇(챗GPT 등)"
+},
+{
+"name": "바이오니아",
+"code": "064550",
+"ret": 12.52,
+"value": 280,
+"theme": "탈모 치료",
+"reason": "뉴스: 바이오니아, 유럽서 '세미 RNA' 경쟁력 부각…\"전신 부작용 최소화\""
+},
+{
+"name": "HLB생명과학",
+"code": "067630",
+"ret": 15.97,
+"value": 184,
+"theme": "의료기기",
+"reason": "테마: 의료기기"
+},
+{
+"name": "금양그린파워",
+"code": "282720",
+"ret": 16.77,
+"value": 177,
+"theme": "고체산화물 연료전지(SOFC)",
+"reason": "뉴스: 금양그린파워, 2300억원 규모 공급계약 체결"
+}
+]
+}

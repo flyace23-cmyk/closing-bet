@@ -4,13 +4,16 @@ on:
     - cron: "0 5 * * 1-5"    # 14:00 KST에 깨워서 15:08까지 기다린 뒤 실행 (GitHub이 최대 1시간 늦게 깨는 것 대비)
     - cron: "40 5 * * 1-5"   # 14:40 KST 예비 (앞에서 이미 보냈으면 건너뜀)
     - cron: "0 10 * * 1-5"   # 19:00 KST 저녁 정리
+  push:
+    branches: [main]
+    paths: ["records/vi/**"]     # 노트북 VI봇 기록이 올라오면 페이지만 새로 만듦
   workflow_dispatch:
     inputs:
       mode:
         description: "test=시험 메시지 / preview=지금 가격으로 15:10 알림 미리보기(기록 안 남김) / scan=후보 찾기(15:08 전이면 15:08까지 기다림) / evening=지금 바로 저녁 정리 / leaders=대장주 복기만 미리보기"
         default: test
         type: choice
-        options: [test, preview, scan, evening, leaders]
+        options: [test, preview, scan, evening, leaders, page]
 permissions:
   contents: write
 concurrency: closing-bet
@@ -31,11 +34,13 @@ jobs:
         run: |
           git pull -q origin main || true
           MODE="${{ github.event.inputs.mode }}"
-          if [ "$MODE" = "test" ]; then python telegram.py
+          if [ "${{ github.event_name }}" = "push" ]; then echo "VI 기록 반영 → 페이지만 새로 만듦"
+          elif [ "$MODE" = "test" ]; then python telegram.py
           elif [ "$MODE" = "preview" ]; then PREVIEW=1 python scan_1510.py --now
           elif [ "$MODE" = "scan" ]; then python scan_1510.py
           elif [ "$MODE" = "evening" ]; then python evening.py --now
           elif [ "$MODE" = "leaders" ]; then python leaders.py --send
+          elif [ "$MODE" = "page" ]; then echo "페이지만 새로 만듦"
           elif [ "${{ github.event.schedule }}" = "0 10 * * 1-5" ]; then python evening.py
           else python scan_1510.py; fi
       - name: build page
