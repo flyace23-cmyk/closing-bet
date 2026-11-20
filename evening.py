@@ -185,6 +185,11 @@ def main():
         send(leaders.evening_section(L))
     except Exception as e:
         send(f"(대장주 복기 실패: {e})")
+    try:
+        import father_mock
+        send(father_mock.daily_section())
+    except Exception as e:
+        send(f"(아버지 방식 모의매매 실패: {e})")
 
 
 if __name__ == "__main__":
