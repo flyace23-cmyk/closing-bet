@@ -640,7 +640,8 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
 .pbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:6px 0;border-bottom:1px solid var(--line)}
 .pnavs{display:flex;gap:8px;margin-top:4px}.pnav{flex:1;min-height:40px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:600 15px "Noto Sans KR",sans-serif}
-.pnav:disabled{opacity:.4}.custom[hidden]{display:none!important}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.custom input{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.pnav:disabled{opacity:.4}.custom[hidden]{display:none!important}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.dsel{display:flex;gap:6px;align-items:center;flex-wrap:wrap}.dsel>span{min-width:2.4em;font-weight:600}.custom select{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.plabel small{display:block;font-size:14px;font-weight:500;color:var(--mute);margin-top:2px}
 h2.plabel{border-top:0;margin-top:16px}
 .heat{overflow-x:auto}.hm,.hg{display:flex;gap:3px}.hm span{width:14px;flex:none;font-size:11px;color:var(--mute);white-space:nowrap}
 .hc{display:flex;flex-direction:column;gap:3px}.hc a,.hc i{width:14px;height:14px;border-radius:3px;display:block;background:var(--panel)}.hc i{opacity:.35}.hc i.x{opacity:0}#mapp .kpis div:first-child{grid-column:auto}
@@ -802,7 +803,7 @@ function range() {
 function label(r) {
   const x = P(anchor), y = x.getUTCFullYear(), m = x.getUTCMonth();
   return ({day: `${y}년 ${fd(anchor, true)}`, week: `${fd(r[0])} ~ ${fd(r[1])} 주`, month: `${y}년 ${m + 1}월`, quarter: `${y}년 ${Math.floor(m / 3) + 1}분기`,
-           half: `${y}년 ${m < 6 ? '상' : '하'}반기`, year: `${y}년`, custom: `${fd(r[0])} ~ ${fd(r[1])}`})[mode];
+           half: `${y}년 ${m < 6 ? '상' : '하'}반기`, year: `${y}년`, custom: `직접 고른 기간`})[mode];
 }
 function shift(dir) {
   if (mode === 'custom') return;
@@ -896,6 +897,9 @@ function ixChart(key, label, r) {
 function render() {
   const r = range(), rows = D.filter((z) => z.d >= r[0] && z.d <= r[1]);
   const ic = document.getElementById('ichart');
+  const fy = (d) => d.slice(0, 4) + '.' + (+d.slice(4, 6)) + '.' + (+d.slice(6));
+  const pl = document.getElementById('plabel');
+  if (pl) pl.innerHTML = `${label(r)}<small>${fy(r[0])} ~ ${fy(r[1])}${rows.length ? ` · 거래일 ${rows.length}일` : ''}</small>`;
   if (ic) ic.innerHTML = '<div class="legend"><span><i style="background:var(--ink)"></i>지수</span><span><i style="background:var(--mute)"></i>20일선(점선)</span><span><i style="background:color-mix(in srgb,var(--dn) 25%,transparent)"></i>20일선 아래</span><span><i style="background:var(--up)"></i>거래량</span></div>' + ixChart('KOSPI', '코스피', r) + ixChart('KOSDAQ', '코스닥', r);
   const comp = (k) => rows.length ? (rows.reduce((a, z) => a * (1 + (z[k] || 0) / 100), 1) - 1) * 100 : null;
   const up = rows.filter((z) => z.k > 0).length, dn = rows.filter((z) => z.k < 0).length;
@@ -903,7 +907,7 @@ function render() {
   const tops = Object.entries(cnt).sort((a, b) => b[1] - a[1]);
   const meta = Object.fromEntries(rows.map((z) => [z.t, z]));
   const best = rows.filter((z) => z.l).sort((a, b) => b.lr - a.lr).slice(0, 5);
-  let h = `<h2 class="plabel">${label(r)}</h2>`;
+  let h = '';
   if (!rows.length) { app.querySelector('.out').innerHTML = h + '<p class="empty">이 기간에는 기록이 없어요.</p>'; return; }
   h += `<div class="kpis"><div><b>${pct(comp('k'))}</b><span>코스피 기간 등락</span></div><div><b>${pct(comp('q'))}</b><span>코스닥 기간 등락</span></div>`
     + `<div><b>${rows.length}일</b><span>거래일 · 코스피 오른 날 <span class="up">${up}</span> / 내린 날 <span class="dn">${dn}</span></span></div>`
@@ -938,14 +942,30 @@ function render() {
   app.querySelector('.custom').hidden = mode !== 'custom';
   app.querySelectorAll('.pnav').forEach((b) => b.disabled = mode === 'custom');
 }
-app.querySelectorAll('.pmode a').forEach((a) => a.addEventListener('click', (e) => { e.preventDefault(); mode = a.dataset.m; if (mode !== 'custom') anchor = D[D.length - 1].d; render(); }));
+app.querySelectorAll('.pmode a').forEach((a) => a.addEventListener('click', (e) => { e.preventDefault();
+  if (a.dataset.m === 'custom' && mode !== 'custom') { const r = range(); from = r[0]; to = r[1] > D[D.length - 1].d ? D[D.length - 1].d : r[1]; if (window._setSel) window._setSel(); }
+  mode = a.dataset.m; if (mode !== 'custom') anchor = D[D.length - 1].d; render(); }));
 app.querySelector('.prev').addEventListener('click', () => { shift(-1); render(); });
 app.querySelector('.next').addEventListener('click', () => { shift(1); render(); });
-const f1 = app.querySelector('#f1'), f2 = app.querySelector('#f2');
-const iso = (s) => s.slice(0, 4) + '-' + s.slice(4, 6) + '-' + s.slice(6);
-f1.value = iso(from); f2.value = iso(to); f1.min = f2.min = iso(D[0].d); f1.max = f2.max = iso(D[D.length - 1].d);
-const setC = () => { from = f1.value.replaceAll('-', ''); to = f2.value.replaceAll('-', ''); if (from > to) [from, to] = [to, from]; render(); };
-f1.addEventListener('change', setC); f2.addEventListener('change', setC);
+// 직접 고르기: 년·월·일을 따로 골라요 (달력을 넘길 필요 없이 년도 바로 선택)
+const first = ((IX.KOSPI || [])[0] || D[0]).d < D[0].d ? IX.KOSPI[0].d : D[0].d, last = D[D.length - 1].d;
+const p2 = (n) => String(n).padStart(2, '0');
+function fillSel(box, val) {
+  const sy = box.querySelector('.y'), sm = box.querySelector('.m'), sd = box.querySelector('.d');
+  const y0 = +first.slice(0, 4), y1 = +last.slice(0, 4);
+  sy.innerHTML = Array.from({length: y1 - y0 + 1}, (_, i) => y1 - i).map((y) => `<option value="${y}">${y}년</option>`).join('');
+  sm.innerHTML = Array.from({length: 12}, (_, i) => `<option value="${p2(i + 1)}">${i + 1}월</option>`).join('');
+  const setDays = () => { const n = new Date(Date.UTC(+sy.value, +sm.value, 0)).getUTCDate(), keep = Math.min(+sd.value || 1, n);
+    sd.innerHTML = Array.from({length: n}, (_, i) => `<option value="${p2(i + 1)}">${i + 1}일</option>`).join(''); sd.value = p2(keep); };
+  box._set = (v) => { sy.value = v.slice(0, 4); sm.value = v.slice(4, 6); sd.value = v.slice(6); setDays(); sd.value = v.slice(6); };
+  box._set(val);
+  sy.addEventListener('change', () => { setDays(); setC(); }); sm.addEventListener('change', () => { setDays(); setC(); }); sd.addEventListener('change', setC);
+}
+const getSel = (box) => box.querySelector('.y').value + box.querySelector('.m').value + box.querySelector('.d').value;
+const b1 = app.querySelector('#f1'), b2 = app.querySelector('#f2');
+const setC = () => { from = getSel(b1); to = getSel(b2); if (from > to) [from, to] = [to, from]; render(); };
+fillSel(b1, from); fillSel(b2, to);
+window._setSel = () => { b1._set(from); b2._set(to); };
 render();
 })();
 """
@@ -989,8 +1009,10 @@ def market_page(days, lead):
     body = ('<div id="mapp"><div class="pbar"><nav class="tabs pmode">'
              + "".join(f'<a href="#{m}" data-m="{m}">{n}</a>' for m, n in (("day", "일"), ("week", "주"), ("month", "월"), ("quarter", "분기"), ("half", "반기"), ("year", "년"), ("custom", "직접")))
              + '</nav><div class="pnavs"><button class="pnav prev" aria-label="이전">‹ 이전</button><button class="pnav next" aria-label="다음">다음 ›</button></div>'
-             '<div class="custom" hidden><label>시작 <input type="date" id="f1"></label><label>끝 <input type="date" id="f2"></label></div></div>'
-             '<div id="ichart"></div><p class="sub">고른 기간에 맞춰 지수가 다시 그려져요. 기간이 짧으면 앞 40거래일을 흐리게 같이 보여줘요.</p><div class="out"></div></div>')
+             '<div class="custom" hidden>'
+             + "".join(f'<div class="dsel" id="{k}"><span>{n}</span><select class="y" aria-label="{n} 년"></select><select class="m" aria-label="{n} 월"></select><select class="d" aria-label="{n} 일"></select></div>' for k, n in (("f1", "시작"), ("f2", "끝")))
+             + '</div></div>'
+             '<h2 class="plabel" id="plabel"></h2><div id="ichart"></div><p class="sub">고른 기간에 맞춰 지수가 다시 그려져요. 기간이 짧으면 앞 40거래일을 흐리게 같이 보여줘요.</p><div class="out"></div></div>')
     body += f'<script type="application/json" id="mdata">{data}</script><script type="application/json" id="idata">{idata}</script><script type="application/json" id="tdata">{thmap}</script><script>{MARKET_JS}</script>'
     return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기", body, "대장주 달력")
 
