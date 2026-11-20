@@ -71,6 +71,10 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .kpis.links em{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:22px;color:var(--mute)}
 .kpis.links .kv{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis.links .kl{color:var(--mute);font-size:13px;display:block;line-height:1.5}
 .flash{background:color-mix(in srgb,#f3c64a 45%,transparent);transition:background .4s}html{scroll-behavior:smooth;scroll-padding-top:16px}
+.htabs{display:flex;gap:6px;overflow-x:auto;padding:4px 0 8px}.htabs a{flex:none;padding:6px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--ink);font-size:14px;min-height:38px;display:flex;align-items:center;gap:5px}
+.htabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.htabs a b{font-weight:700;opacity:.8}
+.panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
+.pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 </style></head><body><header><span class="tab">투자 알림장</span><h1>11월 9일(월) 시장</h1><p class="sub">코스피·코스닥, 테마, 대장주</p>

@@ -223,30 +223,51 @@ def strat_rows(t, expect, with_expect=True):
     return out
 
 
-def holdings(h):
-    if not len(h):
-        return '<p class="empty">진행 중인 종목 없음</p>'
+HOLD_TABS = [("저가매수", "저가매수", "엔벨로프 아래로 빠지면 3번 나눠 사고, 20일선 회복에 팔아요. 1차 신호(종가가 20일선보다 10% 아래)가 나면 칸이 채워져요."),
+             ("스윙 A", "스윙 A", "급락 눌림 신호가 난 다음 날 시가에 사서 5일 보유, 손절 -10%. 신호가 드물어 비어 있는 날이 많아요."),
+             ("중기 스윙", "CAN SLIM", "실적 A등급 + 바닥 돌파 종목을 사서 -8% 손절, +20%에 절반. 코스피·코스닥이 20일선 위로 회복되면 신호가 나와요."),
+             ("종가베팅", "종가베팅", "15:10 후보를 종가에 사서 다음 날 시가에 팔아요(하룻밤 보유). 시장이 20일선 위로 회복되면 다시 시작해요.")]
+
+
+def hold_rows(g):
     rows = []
-    for r in h.to_dict("records"):
-        s = r["매매법"].split("(")[0]
+    for r in g.to_dict("records"):
         kind = r.get("구분") or ""
-        kb = f'<span class="badge {"test" if kind == "모의" else "ok"}">{E(kind)}</span>' if kind else ""
+        kb = f'<span class="badge {"test" if kind == "모의" else "real"}">{E(kind)}</span>' if kind else ""
         todo = []
         if fnum(r.get("다음 매수가")):
             todo.append(f'추가 매수 ≤{fnum(r["다음 매수가"]):,.0f}')
-        if r.get("매도 기준"):
+        if r.get("매도 기준") and r.get("매도 기준") == r.get("매도 기준"):
             todo.append(f'매도 {E(r["매도 기준"])}')
         if fnum(r.get("손절가")):
             todo.append(f'손절 {fnum(r["손절가"]):,.0f}')
-        elif r.get("손절 메모"):
+        elif r.get("손절 메모") and r.get("손절 메모") == r.get("손절 메모"):
             todo.append(f'<small>손절 {E(r["손절 메모"]).replace("2차 매수 뒤부터 ", "2차 뒤 ")}</small>')
         days_ = f'{int(fnum(r.get("보유일")))}일째' if fnum(r.get("보유일")) else ""
-        rows.append([f'<b>{E(r["종목"])}</b> {kb}<small class="k">{E(SHOW_NAME.get(s, s))} · {E(r["상태"])} · {days_}</small>',
+        rows.append([f'<b>{E(r["종목"])}</b> {kb}<small class="k">{E(r["상태"])} · {days_}</small>',
                      num(r.get("수익률(%)")) + f'<small class="k">{fnum(r.get("현재가")) or 0:,.0f} / 평단 {fnum(r.get("평단")) or 0:,.0f}</small>',
                      "<br>".join(todo)])
-    n, w, a = stat(h["수익률(%)"])
-    head = f'<p class="kpi">{len(h)}종목 · 평가 평균 {num(a)} <small>(아직 팔지 않은 손익, 최근 종가 기준)</small></p>'
-    return head + wide(["종목", "평가 수익률", "다음 할 일"], rows, right=(1,))
+    return rows
+
+
+def holdings(h):
+    """매매법마다 한 장씩, 탭을 누르거나 옆으로 밀어서 넘겨 봄"""
+    base = h["매매법"].astype(str).str.split("(").str[0] if len(h) else pd.Series(dtype=str)
+    tabs, panes = [], []
+    for i, (key, label, note) in enumerate(HOLD_TABS):
+        g = h[base == key] if len(h) else h
+        n, w, a = stat(g["수익률(%)"]) if len(g) else (0, None, None)
+        tabs.append(f'<a href="#hp-{i}" data-i="{i}" class="{"on" if i == 0 else ""}">{label} <b>{len(g)}</b></a>')
+        head = f'<p class="kpi"><b>{label}</b> {len(g)}종목' + (f' · 평가 평균 {num(a)}' if len(g) else "") + "</p>"
+        body = wide(["종목", "평가 수익률", "다음 할 일"], hold_rows(g), right=(1,)) if len(g) else '<p class="empty">지금 들고 있는 종목 없음</p>'
+        panes.append(f'<section class="pane" id="hp-{i}">{head}{body}<p class="sub">{E(note)}</p></section>')
+    n, w, a = stat(h["수익률(%)"]) if len(h) else (0, None, None)
+    top = f'<p class="kpi">전체 {len(h)}종목 · 평가 평균 {num(a)} <small>(아직 팔지 않은 손익, 최근 종가 기준)</small></p>'
+    js = """<script>{const c=document.querySelector('.panes'),t=[...document.querySelectorAll('.htabs a')];
+if(c&&t.length){c.addEventListener('scroll',()=>{const i=Math.round(c.scrollLeft/c.clientWidth);t.forEach((a,j)=>a.classList.toggle('on',j===i))},{passive:true});
+t.forEach(a=>a.addEventListener('click',e=>{e.preventDefault();c.scrollTo({left:c.clientWidth*(+a.dataset.i),behavior:'smooth'})}))}}</script>"""
+    return (top + f'<nav class="htabs">{"".join(tabs)}</nav><div class="panes">{"".join(panes)}</div>'
+            '<p class="sub">탭을 누르거나 표를 옆으로 밀면 다른 매매법으로 넘어가요.</p>' + js)
 
 
 def real_block():
@@ -599,6 +620,10 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .kpis.links em{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:22px;color:var(--mute)}
 .kpis.links .kv{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis.links .kl{color:var(--mute);font-size:13px;display:block;line-height:1.5}
 .flash{background:color-mix(in srgb,#f3c64a 45%,transparent);transition:background .4s}html{scroll-behavior:smooth;scroll-padding-top:16px}
+.htabs{display:flex;gap:6px;overflow-x:auto;padding:4px 0 8px}.htabs a{flex:none;padding:6px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--ink);font-size:14px;min-height:38px;display:flex;align-items:center;gap:5px}
+.htabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.htabs a b{font-weight:700;opacity:.8}
+.panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
+.pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
