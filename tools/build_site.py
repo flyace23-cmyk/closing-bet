@@ -73,8 +73,8 @@ def color(theme):
 def chip(theme, short=True):
     if not theme:
         return ""
-    t = theme.split("(")[0].strip() if short and len(theme) > 10 else theme
-    return f'<span class="chip" style="--c:{color(theme)}">{E(t)}</span>'
+    t = short_theme(theme) if short else theme.split("(")[0].strip()
+    return f'<span class="chip" style="--c:{color(theme)}" title="{E(theme)}">{E(t)}</span>'
 
 
 def read(path):
@@ -94,6 +94,22 @@ def wide(head, rows, right=()):
             continue
         tb += f'<tr class="{cls}">' + "".join(f'<td class="{"r" if i in right else ""}">{c}</td>' for i, c in enumerate(cells)) + "</tr>"
     return f'<div class="scroll"><table class="wide"><thead><tr>{th}</tr></thead><tbody>{tb}</tbody></table></div>'
+
+
+def extra(r):
+    """손익비(이길 때 평균 ÷ 질 때 평균), 최대 연패, 최대 낙폭(누적 합계 기준)"""
+    r = pd.to_numeric(pd.Series(r, dtype=object), errors="coerce").dropna().tolist()
+    if not r:
+        return ""
+    w = [x for x in r if x > 0]; l = [-x for x in r if x <= 0]
+    pr = f"{(sum(w) / len(w)) / (sum(l) / len(l)):.1f}" if w and l else ("–" if not w else "∞")
+    streak = mx = 0
+    for x in r:
+        streak = streak + 1 if x <= 0 else 0; mx = max(mx, streak)
+    cum = peak = dd = 0
+    for x in r:
+        cum += x; peak = max(peak, cum); dd = min(dd, cum - peak)
+    return f"손익비 {pr} · 최대 연패 {mx} · 최대 낙폭 {dd:.1f}%"
 
 
 def stat(r):
@@ -173,29 +189,37 @@ def theme_of(r, mk):
 
 # ---------- 조각 ----------
 def strat_rows(t, expect, with_expect=True):
-    """단계 → 매매법 → 구분, 한 줄씩"""
+    """단계 → 매매법 → 구분. 3칸(매매법 / 평균·건수 / 승률), 30건 미만은 흐리게, 0건은 접어 둠"""
     keys = [k for k, _ in t.groupby(["매매법", "구분"], sort=False)] if len(t) else []
     for k in list(expect.keys()) + [(M15, "모의"), ("VI 단타", "자동 복기(정식 시간)")]:
         if k not in keys:
             keys.append(k)
     keys = sorted([k for k in keys if k[0] in STAGE], key=lambda k: (STAGE_ORDER.index(STAGE[k[0]]), k[0], k[1]))
-    rows, last = [], None
+    rows, empty, last = [], [], None
     for s, k in keys:
         g = t[(t.매매법 == s) & (t.구분 == k)] if len(t) else t
         n, w, a = stat(g["수익률(%)"] if len(g) else [])
         e = expect.get((s, k)) or (EXPECT_M15 if s == M15 else (None, None))
+        st = STATUS.get(s, "")
+        badge = f'<span class="badge {"test" if st.startswith("테스트") else "ok"}">{E(st.split(" (")[0].split(" ·")[0])}</span>' if st else ""
+        if n == 0:
+            empty.append(f'<li><b>{E(SHOW_NAME.get(s, s))}</b> {badge} <small>{E(k)} · 기대 평균 {num(e[1]) if e[1] is not None else "–"}</small></li>')
+            continue
         stage = STAGE[s]
         if stage != last:
             rows.append(("group", f"<b>{stage}</b> <small>{STAGE_NOTE[stage]}</small>"))
             last = stage
-        st = STATUS.get(s, "")
-        badge = f'<span class="badge {"test" if st.startswith("테스트") else "ok"}">{E(st.split(" (")[0].split(" ·")[0])}</span>' if st else ""
-        cells = [f'<b>{E(SHOW_NAME.get(s, s))}</b> {badge}<small class="k">{E(k)} · {E(st)}</small>', num(a), f"{w:.0f}%" if w is not None else "–", str(n)]
-        if with_expect:
-            cells += [num(e[1]) if e[1] is not None else "–"]
-        rows.append(("muted" if n == 0 else "", cells))
-    head = ["매매법", "평균", "승률", "건수"] + (["기대"] if with_expect else [])
-    return wide(head, rows, right=(1, 2, 3, 4))
+        small = n < 30
+        sub = f'{E(k)}' + (f' · 기대 {num(e[1])}' if with_expect and e[1] is not None else "")
+        ex = extra(g["수익률(%)"])
+        cells = [f'<b>{E(SHOW_NAME.get(s, s))}</b> {badge}<small class="k">{sub}</small><small class="k">{ex}</small>',
+                 f'<span class="{"thin" if small else ""}">{num(a)}</span><small class="k">승률 {f"{w:.0f}%" if w is not None else "–"} · {n}건</small>'
+                 + (f'<small class="k">표본 부족 {n}/30</small>' if small else "")]
+        rows.append(cells)
+    out = wide(["매매법", "평균"], rows, right=(1,)) if rows else '<p class="empty">아직 끝난 매매가 없어요.</p>'
+    if empty:
+        out += f'<details class="fold"><summary>아직 기록 없는 매매법 {len(empty)}개</summary><ul class="plain">{"".join(empty)}</ul></details>'
+    return out
 
 
 def holdings(h):
@@ -204,9 +228,24 @@ def holdings(h):
     rows = []
     for r in h.to_dict("records"):
         s = r["매매법"].split("(")[0]
-        rows.append([f'<b>{E(r["종목"])}</b><small class="k">{E(SHOW_NAME.get(s, r["매매법"]))} · {E(r["상태"])}</small>', num(r.get("수익률(%)")),
-                     f'{fnum(r["평단"]):,.0f}' if fnum(r["평단"]) else "–", f'{fnum(r.get("현재가")):,.0f}' if fnum(r.get("현재가")) else "–", E(r["시작일"])])
-    return wide(["종목", "수익률", "평단", "현재가", "시작일"], rows, right=(1, 2, 3))
+        kind = r.get("구분") or ""
+        kb = f'<span class="badge {"test" if kind == "모의" else "ok"}">{E(kind)}</span>' if kind else ""
+        todo = []
+        if fnum(r.get("다음 매수가")):
+            todo.append(f'추가 매수 ≤{fnum(r["다음 매수가"]):,.0f}')
+        if r.get("매도 기준"):
+            todo.append(f'매도 {E(r["매도 기준"])}')
+        if fnum(r.get("손절가")):
+            todo.append(f'손절 {fnum(r["손절가"]):,.0f}')
+        elif r.get("손절 메모"):
+            todo.append(f'<small>손절 {E(r["손절 메모"]).replace("2차 매수 뒤부터 ", "2차 뒤 ")}</small>')
+        days_ = f'{int(fnum(r.get("보유일")))}일째' if fnum(r.get("보유일")) else ""
+        rows.append([f'<b>{E(r["종목"])}</b> {kb}<small class="k">{E(SHOW_NAME.get(s, s))} · {E(r["상태"])} · {days_}</small>',
+                     num(r.get("수익률(%)")) + f'<small class="k">{fnum(r.get("현재가")) or 0:,.0f} / 평단 {fnum(r.get("평단")) or 0:,.0f}</small>',
+                     "<br>".join(todo)])
+    n, w, a = stat(h["수익률(%)"])
+    head = f'<p class="kpi">{len(h)}종목 · 평가 평균 {num(a)} <small>(아직 팔지 않은 손익, 최근 종가 기준)</small></p>'
+    return head + wide(["종목", "평가 수익률", "다음 할 일"], rows, right=(1,))
 
 
 def leaders_table(lead, d, mk):
@@ -272,17 +311,20 @@ def curve_svg(t):
     """매매법별 누적 수익률 (같은 금액 넣었다고 가정, 판 날 순서로 더함)"""
     if not len(t):
         return '<p class="empty">아직 끝난 매매가 없어요.</p>'
-    series = []
+    series, few = [], []
     for i, (s_, k) in enumerate(CURVE_KEEP):
         g = t[(t.매매법 == s_) & (t.구분 == k)].copy()
-        if not len(g):
+        if len(g) < 5:
+            if len(g):
+                few.append(f"{SHOW_NAME.get(s_, s_)}·{k} {len(g)}건")
             continue
         g = g.sort_values("판 날")
         g["cum"] = pd.to_numeric(g["수익률(%)"], errors="coerce").fillna(0).cumsum()
         series.append((f"{SHOW_NAME.get(s_, s_)} · {k}", LINE_COLORS[i % len(LINE_COLORS)], list(zip(g["판 날"].astype(str), g.cum, g["종목"])),
                        STATUS.get(s_, "").startswith("테스트")))
+    note = f'<p class="sub">5건이 안 돼서 아직 선을 그리지 않은 것: {E(", ".join(few))}</p>' if few else ""
     if not series:
-        return '<p class="empty">아직 끝난 매매가 없어요.</p>'
+        return '<p class="empty">5건 넘게 쌓인 매매법이 아직 없어요.</p>' + note
     dates = sorted({d for _, _, pts, _ in series for d, _, _ in pts})
     if len(dates) == 1:
         dates = [dates[0], dates[0]]
@@ -310,7 +352,7 @@ def curve_svg(t):
             g.append(f'<circle cx="{X(d):.1f}" cy="{Y(v):.1f}" r="3.5" fill="{c}"><title>{E(name)} · {d} {E(nm)} · 누적 {v:+.2f}%</title></circle>')
         legend.append(f'<span><i style="background:{c}"></i>{E(name)}{" (테스트 중, 점선)" if test else ""}</span>')
     return (f'<div class="legend">{"".join(legend)}</div><div class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="매매법별 누적 수익률">{"".join(g)}</svg></div>'
-            '<p class="sub">끝난 매매의 수익률을 판 날 순서로 더한 값(매매마다 같은 금액 가정). 점을 누르면 종목과 누적값이 나와요.</p>')
+            '<p class="sub">끝난 매매의 수익률을 판 날 순서로 더한 값(매매마다 같은 금액 가정). 점을 누르면 종목과 누적값이 나와요.</p>' + note)
 
 
 def market_bars_svg(days):
@@ -382,8 +424,13 @@ def alert_cell(d, t):
     td = t[t["판 날"].astype(str).str.replace("-", "") == d] if len(t) else t
     s = f'<span class="dot">알림 {len(ms)}</span>' if ms else ""
     if len(td):
-        n, w, a = stat(td["수익률(%)"])
-        s += f'<span class="dot">매매 {n}건 {num(a, 1)}</span>'
+        real = td[td.구분 == "실제"]
+        mock = td[(td.구분 != "실제") & ~td.구분.str.contains("참고")]
+        if len(real):
+            n, w, a = stat(real["수익률(%)"])
+            s += f'<span class="dot">실제 {n}건 {num(a, 1)}</span>'
+        if len(mock):
+            s += f'<span class="dot">모의 {len(mock)}건</span>'
     return s
 
 
@@ -395,9 +442,18 @@ def mkt_tint(d):
     return sum(v) / len(v) if v else None
 
 
+ALIAS = {"태양광에너지": "태양광", "엔터테인먼트": "엔터", "지능형로봇/인공지능": "AI로봇", "코리아밸류업지수": "밸류업지수",
+         "밸류업": "밸류업", "원자력발전": "원전", "카메라모듈/부품": "카메라모듈", "고체산화물연료전지": "SOFC", "우주항공산업": "우주항공",
+         "반도체재료/부품": "반도체소재", "반도체기판": "반도체기판", "전후재건": "전후재건", "증강현실": "AR", "보안주": "보안주",
+         "코로나19": "코로나", "양자암호/양자컴퓨팅": "양자", "로봇": "로봇", "전력저장장치": "ESS", "모바일게임": "모바일게임",
+         "제약업체": "제약", "음원/음반": "음원", "PCB": "PCB", "남북경협": "남북경협", "소매유통": "유통", "지주사": "지주사", "통신장비": "통신장비"}
+
+
 def short_theme(th):
-    t = th.split("(")[0].replace(" ", "").replace("/", "·")
-    return t[:5]
+    t = th.split("(")[0].replace(" ", "")
+    if t in ALIAS:
+        return ALIAS[t]
+    return t.split("/")[0][:6]
 
 
 def market_cell(d, lead):
@@ -476,6 +532,9 @@ details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{m
 .badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
 .chart svg{width:100%;height:auto;display:block}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
 .legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--mute);margin:4px 0 6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.thin{opacity:.45}.kpis div:first-child{grid-column:1/-1}.cnt{display:inline-block;white-space:nowrap;margin:0 8px 6px 0}ul.plain{list-style:none;padding:0;margin:4px 0}ul.plain li{padding:6px 0;border-bottom:1px solid var(--line)}
+.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.wide td:last-child{white-space:normal;min-width:110px;font-size:13.5px}
 footer{color:var(--mute);font-size:13px;margin-top:40px}
 @media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
 """
@@ -493,34 +552,52 @@ def page(title, sub, body, nav="", depth=0):
 <footer>평일 15:10·19:00 알림 뒤 자동으로 새로 만들어집니다. 수익률은 비용 0.35%를 뺀 값이고, 모의 기록은 실제 매매가 아닙니다.</footer></main></body></html>"""
 
 
+def ma20_gap():
+    """코스피·코스닥이 20일선에서 몇 % 떨어져 있는지 (종가베팅·신규 매수 기준)"""
+    out = {}
+    try:
+        import market_data as md
+        for k in ("KOSPI", "KOSDAQ"):
+            x = md.daily(k, 30)
+            out[k] = (x.c.iloc[-1] / x.c.tail(20).mean() - 1) * 100
+    except Exception:
+        pass
+    return out
+
+
 def index_page(days, t, h, fm, vi, expect):
     body = ""
+    gap = ma20_gap()
     if days:
         d0 = days[0]; mk = market(d0) or {}
-        hot = (mk.get("hot") or mk.get("themes") or [{}])[0].get("name", "")
+        hot = (mk.get("hot") or mk.get("themes") or [{}])[0]
         lead0 = (mk.get("leaders") or [{}])[0]
         ms = messages(d0)
         line = f'<b>{fmt_d(d0)}</b> 코스피 {num(mk.get("kospi"))} · 코스닥 {num(mk.get("kosdaq"))}'
         if mk:
             line += f' · 오른 종목 <span class="up">{mk.get("adv", 0):,}</span> / 내린 종목 <span class="dn">{mk.get("dec", 0):,}</span>'
-        if hot:
-            line += f'<br>1등 테마 {chip(hot)}'
+        if hot.get("name"):
+            line += f'<br>1등 테마 {chip(hot["name"])} (대장 {E(hot.get("lead", ""))})'
         if lead0.get("name"):
-            line += f' · 대장주 <b>{E(lead0["name"])}</b> {num(lead0.get("ret"), 1)}'
+            line += f'<br>오늘 대장주 <b>{E(lead0["name"])}</b> {num(lead0.get("ret"), 1)}' + (f' {chip(lead0.get("theme"))}' if lead0.get("theme") else "")
         line += f' · 알림 {len(ms)}개'
         body += f'<div class="today"><a href="m/{d0}.html">{line}</a></div>'
     k = []
-    if len(fm):
-        n, w, a = stat(fm.ret); k.append((num(a), f'15분봉 MACD·일목 단타 <span class="badge test">테스트 중</span><br>{n}건 · 승률 {w:.0f}%'))
-    vv = t[(t.매매법 == "VI 단타") & t.구분.str.contains("정식")] if len(t) else t
-    n, w, a = stat(vv["수익률(%)"] if len(vv) else [])
-    k.append((num(a) if n else "–", f'VI 단타 자동 복기 <span class="badge test">테스트 중</span><br>{n}건' + (f" · 승률 {w:.0f}%" if n else "")))
-    cb = t[(t.매매법 == "종가베팅") & (t.구분 != "쉰 날 후보(참고)")] if len(t) else t
-    n, w, a = stat(cb["수익률(%)"] if len(cb) else [])
-    k.append((num(a) if n else "–", f"종가베팅<br>{n}건" + (f" · 승률 {w:.0f}%" if n else " · 시장 회복 대기")))
-    k.append((f"{len(h)}종목", "지금 진행 중<br>(저가매수·스윙·중기)"))
+    if gap:
+        on = all(v > 0 for v in gap.values())
+        k.append((f'<span class="{"up" if on else "dn"}">{"매매 가능" if on else "매매 쉼"}</span>',
+                  "종가베팅 · 신규 매수<br>코스피 20일선 " + f'{num(gap.get("KOSPI"), 1)}' + " · 코스닥 " + f'{num(gap.get("KOSDAQ"), 1)}'))
+    if len(h):
+        n, w, a = stat(h["수익률(%)"])
+        k.append((num(a), f"지금 진행 중 {len(h)}종목<br>평가 평균 (아직 안 판 손익)"))
+    for s_, kinds, label in (("종가베팅", ("실제", "모의(알려준 후보)"), "종가베팅"), ("저가매수", ("내 5칸",), "저가매수 5칸"), ("중기 스윙", ("실제", "모의"), "CAN SLIM")):
+        g = t[(t.매매법 == s_) & t.구분.isin(kinds)] if len(t) else t
+        n, w, a = stat(g["수익률(%)"] if len(g) else [])
+        k.append((f'<span class="{"thin" if n < 30 else ""}">{num(a)}</span>' if n else "–",
+                  f'{label} <span class="badge ok">검증 통과</span><br>' + (f"끝난 {n}건" + (" · 표본 부족" if n < 30 else "") if n else "아직 끝난 매매 없음")))
     body += '<div class="kpis">' + "".join(f"<div><b>{a}</b><span>{b}</span></div>" for a, b in k) + "</div>"
-    body += '<h2>매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 표는 옆으로 밀어서 보세요.</p>' + strat_rows(t, expect)
+    body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타, 스윙 A)은 아래 표와 그래프에서만 보여요.</p>'
+    body += '<h2>매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요.</p>' + strat_rows(t, expect)
     body += "<h2>누적 수익 흐름</h2>" + curve_svg(t)
     body += "<h2>지금 진행 중</h2>" + holdings(h)
     body += "<h2>시장 흐름</h2>" + market_bars_svg(days)
@@ -580,13 +657,14 @@ def market_page(days, lead):
     body = market_bars_svg(days)
     body += '<p class="sub">날짜마다 코스피(코)·코스닥(닥) 등락과 그날 돈이 가장 몰린 테마예요. 누르면 테마별 상승률과 대장주가 나와요.</p>'
     body += "".join(month_cal(ym, set(days), lambda d: market_cell(d, lead), lambda d: f"m/{d}.html", week_link=False, tint=mkt_tint) for ym in months(days))
-    seen = []
-    for d in days[:20]:
-        for x in (market(d) or {}).get("hot", []):
-            if x["name"] not in seen:
-                seen.append(x["name"])
-    if seen:
-        body += "<h3>최근 자주 나온 테마</h3><p>" + " ".join(chip(s, False) for s in seen[:20]) + "</p>"
+    from collections import Counter
+    cnt = Counter()
+    for d in days:
+        h0 = ((market(d) or {}).get("hot") or [{}])[0].get("name")
+        if h0:
+            cnt[h0] += 1
+    if cnt:
+        body += "<h3>1등 테마가 된 횟수</h3><p>" + "".join(f'<span class="cnt">{chip(n)} <b>{c}회</b></span>' for n, c in cnt.most_common(15)) + "</p>"
     return page("대장주 달력", "시장 흐름을 날짜별로", body, "대장주 달력")
 
 

@@ -81,9 +81,13 @@ def collect(vi_dir=None):
                 continue
             b = [(e[2], e[3]) for e in p["ev"] if e[1] == "B"]
             avg = sum(x * f for x, f in b) / sum(f for _, f in b)
-            hold.append({"매매법": "저가매수", "종목": p["name"], "시작일": _d(p["ev"][0][0]),
+            nxt = round(p["last"] * 0.9) if p["buys"] < 3 and not p.get("half") else None
+            hold.append({"매매법": "저가매수", "구분": "모의", "종목": p["name"], "시작일": _d(p["ev"][0][0]),
                          "상태": f"{p['buys']}차까지 매수" + (", 절반 매도함" if p.get("half") else ""),
-                         "평단": round(avg), "최근 기록일": _d(st["upto"].get(c, "")), "코드": c})
+                         "평단": round(avg), "다음 매수가": nxt,
+                         "손절가": round(avg * 0.7) if p["buys"] >= 2 else None,
+                         "손절 메모": "평단×0.7 (2차 이상 산 뒤)" if p["buys"] >= 2 else "2차 매수 뒤부터 평단×0.7",
+                         "매도 기준": "20일선", "최근 기록일": _d(st["upto"].get(c, "")), "코드": c})
     except Exception:
         pass
     # 스윙 A (모의)
@@ -92,17 +96,21 @@ def collect(vi_dir=None):
         if r.get("status") in ("손절", "만기"):
             add("스윙 A", "모의", r.get("name"), r.get("date"), r.get("sell_date"), r.get("ret"), r.get("status"))
         elif r.get("status") in ("대기", "보유"):
-            hold.append({"매매법": "스윙 A", "종목": r.get("name"), "시작일": _d(r.get("date")),
-                         "상태": r.get("status"), "평단": round(_f(r.get("buy")) or _f(r.get("close")) or 0), "최근 기록일": "",
-                         "코드": r.get("code")})
+            bp = _f(r.get("buy")) or _f(r.get("close")) or 0
+            hold.append({"매매법": "스윙 A", "구분": "모의", "종목": r.get("name"), "시작일": _d(r.get("date")),
+                         "상태": r.get("status"), "평단": round(bp), "다음 매수가": None, "손절가": round(bp * 0.9) if bp else None,
+                         "손절 메모": "-10%", "매도 기준": "5일 보유 뒤 종가", "최근 기록일": "", "코드": r.get("code")})
     # 중기 스윙
     for fname, kind in (("canslim_mock.csv", "모의"), ("canslim_mine.csv", "실제")):
         for r in _read(fname).to_dict("records"):
             if r.get("status") == "종료":
                 add("중기 스윙", kind, r.get("name"), r.get("date"), r.get("end_date"), r.get("ret"), r.get("why", ""))
             elif r.get("status") == "보유":
-                hold.append({"매매법": f"중기 스윙({kind})", "종목": r.get("name"), "시작일": _d(r.get("date")),
-                             "상태": "보유", "평단": round(_f(r.get("buy")) or 0), "최근 기록일": "", "코드": r.get("code")})
+                bp = _f(r.get("buy")) or 0
+                hold.append({"매매법": "중기 스윙", "구분": kind, "종목": r.get("name"), "시작일": _d(r.get("date")),
+                             "상태": "보유", "평단": round(bp), "다음 매수가": None, "손절가": round(bp * 0.92) if bp else None,
+                             "손절 메모": "-8%", "매도 기준": f"+20% 절반 ({round(bp * 1.2):,})" if bp else "+20% 절반",
+                             "최근 기록일": "", "코드": r.get("code")})
     # VI 단타 (노트북)
     if vi_dir:
         f = os.path.join(vi_dir, "review.csv")
@@ -159,32 +167,37 @@ def collect(vi_dir=None):
     s["검증 상태"] = s.매매법.map(STATUS)
     s["테스트 중"] = s["검증 상태"].str.startswith("테스트")
     t.insert(0, "단계", t.매매법.map(STAGE))
-    h = pd.DataFrame(hold, columns=["매매법", "종목", "시작일", "상태", "평단", "최근 기록일", "코드"])
+    h = pd.DataFrame(hold, columns=["매매법", "구분", "종목", "시작일", "상태", "평단", "다음 매수가", "손절가", "손절 메모", "매도 기준", "최근 기록일", "코드"])
     h = _mark_prices(h)
     return t, s, h
 
 
 def _mark_prices(h):
     """진행 중 종목에 최근 종가와 평단 대비 수익률을 붙임 (네이버 일봉)"""
-    cur, ret, day = [], [], []
+    import numpy as np
+    cur, ret, day, ma20 = [], [], [], []
     try:
         sys.path.insert(0, HERE)
         import market_data as md
     except Exception:
         md = None
     for r in h.to_dict("records"):
-        c = d = None
+        c = d = m20 = None
         if md is not None and r.get("코드"):
             try:
-                x = md.daily(r["코드"], 2)
+                x = md.daily(r["코드"], 25)
                 c, d = float(x.c.iloc[-1]), _d(x.date.iloc[-1])
+                m20 = float(x.c.tail(20).mean())
             except Exception:
                 pass
         avg = _f(r.get("평단"))
         cur.append(round(c) if c else None)
         ret.append(round((c / avg - 1) * 100, 2) if c and avg else None)
         day.append(d or "")
-    h["현재가"], h["수익률(%)"], h["기준일"] = cur, ret, day
+        ma20.append(round(m20) if m20 else None)
+    h["현재가"], h["수익률(%)"], h["기준일"], h["20일선"] = cur, ret, day, ma20
+    h["보유일"] = [int(np.busday_count(np.datetime64(x), np.datetime64(e))) + 1 if x and e else None for x, e in zip(h["시작일"], h["기준일"])]
+    h["매도 기준"] = [f"20일선 {m:,}" if b == "20일선" and m else b for b, m in zip(h["매도 기준"], h["20일선"])]
     return h.drop(columns=["코드", "최근 기록일"])
 
 
