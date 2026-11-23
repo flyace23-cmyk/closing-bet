@@ -2,6 +2,14 @@
 <title>2월 26일(금) 시장</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
 <style>
+#acct .kpis{grid-template-columns:repeat(2,1fr)}
+.syncrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:10px 0}
+.syncbtn{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px;border-radius:999px;background:var(--red);color:#fff;font-weight:700;text-decoration:none}
+table.rank td.rk1{background:color-mix(in srgb,var(--red) 22%,transparent);font-weight:700}table.rank td.rk2{background:color-mix(in srgb,var(--red) 12%,transparent)}
+table.rank td.rk0{color:var(--line)}
+ul.tl{list-style:none;padding:0;margin:0}ul.tl li{padding:5px 0;border-bottom:1px solid var(--line)}ul.tl time,.fold summary time,.kpi time{font-weight:700;color:var(--slate);margin-right:6px}
+.new{font-size:11.5px;font-weight:700;color:#fff;background:var(--slate);padding:0 5px;border-radius:3px}.nowrap{white-space:nowrap}
+
 /* VOICE 신문 경제면처럼 차분하게 / IDEA 매일 넘겨 보는 투자 알림장 / PICTURE 달력과 말풍선
    COLOUR 흰 바탕·먹색·빨간 탭·슬레이트, 테마 12색 / TYPE Noto Serif KR 제목 + Noto Sans KR 본문 / LAYOUT 한 단, 휴대폰 우선, 표는 옆으로 밀기 */
 :root{color-scheme:light dark;--bg:light-dark(#fff,#10191e);--ink:light-dark(#121212,#e9eef0);--mute:light-dark(#5b6670,#9aa8b1);
