@@ -667,9 +667,9 @@ footer{color:var(--mute);font-size:13px;margin-top:40px}
 """
 
 
-def page(title, sub, body, nav="", depth=0):
+def page(title, sub, body, nav="", depth=0, home="index.html"):
     p = "../" * depth
-    links = [("index.html", "처음"), ("index.html#cal", "알림 달력"), ("market.html", "대장주 달력")]
+    links = [(home, "오늘"), ("lab.html", "실험실"), ("calendar.html", "달력")]
     navs = "".join(f'<a class="{"on" if nav == n else ""}" href="{p}{h}">{n}</a>' for h, n in links)
     return f"""<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -713,12 +713,6 @@ def index_page(days, t, h, fm, vi, expect):
         body += f'<div class="today"><a href="m/{d0}.html">{line}</a></div>'
     k = []
     real_html, real_sum = real_block()
-    if real_sum:
-        k.append((num(real_sum[1]), f'실제 계좌 <span class="badge real">실제</span> {real_sum[0]}종목<br>평가 평균 (미래에셋 포함)', "#real"))
-    if gap:
-        on = all(v > 0 for v in gap.values())
-        k.append((f'<span class="{"up" if on else "dn"}">{"매매 가능" if on else "매매 쉼"}</span>',
-                  "종가베팅 · 신규 매수<br>코스피 20일선 " + f'{num(gap.get("KOSPI"), 1)}' + " · 코스닥 " + f'{num(gap.get("KOSDAQ"), 1)}', "#mkt"))
     if len(h):
         n, w, a = stat(h["수익률(%)"])
         k.append((num(a), f"모의 진행 중 {len(h)}종목<br>평가 평균 (아직 안 판 손익)", "#hold"))
@@ -729,41 +723,51 @@ def index_page(days, t, h, fm, vi, expect):
                   f'{label} <span class="badge ok">검증 통과</span><br>' + (f"끝난 {n}건" + (" · 표본 부족" if n < 30 else "") if n else "아직 끝난 매매 없음"),
                   f"#perf-{s_.replace(' ', '-')}"))
     M += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
-    M += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
-    R += '<h2 id="real">실제 계좌</h2><div id="realnow"></div><h3>계좌별 기록 <small>19:00 저녁 정리 기준 · 미래에셋 포함</small></h3>' + real_html
-    M += ('<h2 id="mock">모의 계좌 <small>키움 주문봇</small></h2><div id="acct"><p class="empty">불러오는 중…</p></div>'
-             '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p>')
+    M += ('<h2 id="mock">모의 계좌 <small>키움 주문봇</small></h2><div id="acct"><p class="empty">불러오는 중…</p></div>')
     M += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
-             '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
+          '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
     M += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
     M += '<h2 id="hold">지금 진행 중 (모의)</h2>' + holdings(h)
-    R += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
-    ds = set(days)
-    R += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
-    R += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days)[:2])
-    if days:
-        ms = messages(days[0])
-        R += f'<h2>최근 알림 · {fmt_d(days[0])}</h2>'
-        import re as _re
-        for m in ms[-6:]:
-            first = _re.sub(r"<[^>]+>", "", m["text"].split("\n")[0])[:40]
-            R += f'<details class="fold"><summary><time>{E(m["t"])}</time> {E(first)}</summary>{msg_html(m)}</details>'
-        if not ms:
-            R += '<p class="empty">저장된 알림 원문 없음</p>'
-        R += f'<p><a href="d/{days[0]}.html">이날 전체 보기 →</a></p>'
     if len(t):
         M += f'<h2>최근 끝난 매매</h2><details class="fold"><summary>최근 30건 펼치기 (전체 {len(t)}건)</summary>' + trades_wide(t.head(30)) + "</details>"
-    R = R.replace('<h2 id="mkt">', '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p><h2 id="mkt">', 1)
-    body += ('<nav class="maintabs"><a href="#tab-real" data-t="tab-real" class="on">💰 실계좌</a><a href="#tab-mock" data-t="tab-mock">🧪 모의</a></nav>'
-             f'<section class="tp" id="tab-real">{R}</section><section class="tp" id="tab-mock" hidden>{M}</section>'
-             '<script src="live.js" defer></script>'
-             """<script>{const T=[...document.querySelectorAll('.maintabs a')],P=[...document.querySelectorAll('.tp')];
-const show=id=>{P.forEach(p=>p.hidden=p.id!==id);T.forEach(a=>a.classList.toggle('on',a.dataset.t===id));try{localStorage.setItem('tab',id)}catch(e){}};
-T.forEach(a=>a.addEventListener('click',e=>{e.preventDefault();show(a.dataset.t)}));
-const h=location.hash.slice(1),el=h&&document.getElementById(decodeURIComponent(h));let s=null;try{s=localStorage.getItem('tab')}catch(e){}
-show(el&&el.closest('.tp')?el.closest('.tp').id:(s||'tab-real'));addEventListener('hashchange',()=>{const x=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(x&&x.closest('.tp'))show(x.closest('.tp').id)})}</script>""")
+    # ---------- 오늘 (처음 화면) ----------
+    d0 = days[0] if days else None
+    acct = ('<h2 id="real">내 계좌</h2><div id="realnow"><p class="empty">불러오는 중…</p></div>'
+            '<details class="fold"><summary>계좌별 기록 <small>19:00 저녁 정리 기준 · 미래에셋 포함</small></summary>' + real_html + '</details>')
+    def todo(share=False):
+        h_ = '<h2 id="todo">오늘 할 일</h2>'
+        if gap:
+            on = all(v > 0 for v in gap.values())
+            h_ += (f'<p class="kpi">신규 매수 <b class="{"up" if on else "dn"}">{"가능" if on else "쉼"}</b> '
+                   f'<small>코스피 20일선 {num(gap.get("KOSPI"), 1)} · 코스닥 {num(gap.get("KOSDAQ"), 1)}</small></p>')
+        import re as _re
+        ms0 = [m for m in (messages(d0) if d0 else []) if m.get("src") != "VI"]
+        if share:
+            ms0 = [m for m in ms0 if not any(w in m["text"].split("\n")[0] for w in ("저녁", "실제"))]
+        for m in ms0:
+            first = _re.sub(r"<[^>]+>", "", m["text"].split("\n")[0])[:40]
+            h_ += f'<details class="fold"><summary><time>{E(m["t"])}</time> {E(first)}</summary>{msg_html(m)}</details>'
+        if not ms0:
+            h_ += '<p class="empty">아직 오늘 매매 알림 없음 (평일 15:10 종가베팅 후보 · 19:00 저녁 정리)</p>'
+        return h_
+    mkt = ('<h2 id="mkt">오늘 시장</h2><div class="flow" data-compact="1"><p class="empty">불러오는 중…</p></div>'
+           '<p><a href="flow.html">장중 흐름 자세히 →</a> · <a href="calendar.html">지난 날 달력 →</a></p>')
+    js = '<script src="live.js" defer></script>'
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).strftime("%m/%d %H:%M")
-    return page("오늘의 알림장", f"마지막 갱신 {now}", body, "처음")
+    # ---------- 실험실 ----------
+    fd = sorted(set(fm.date))[-20:] if len(fm) else []
+    lab = (M + '<h2 id="m15">아버지 15분봉 단타 기록 <span class="badge test">모의</span></h2>'
+           '<p class="sub">아버지 방식(15분봉 MACD·일목) 신호를 규칙대로 사고팔았다면의 기록이에요. 최근 20일.</p>' + m15_table(fm, fd) + js)
+    # ---------- 달력 ----------
+    ds = set(days)
+    cal = ('<h2 id="cal">날짜별 기록</h2><p class="sub">칸 색은 그날 시장 등락이에요. 날짜를 누르면 그날 시장·알림·대장주가, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
+           + "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else (f"d/{d}.html" if d >= "20261102" or d in HAS_D else f"m/{d}.html"), tint=mkt_tint) for ym in months(days)[:3])
+           + '<h2 id="bars">시장 흐름</h2>' + market_bars_svg(days) + '<p><a href="market.html">대장주 달력 →</a></p>')
+    return dict(
+        today=page("오늘", f"마지막 갱신 {now}", body + acct + todo() + mkt + js, "오늘"),
+        share=page("오늘의 시장", f"마지막 갱신 {now}", body + todo(True) + mkt + js, "오늘", home="share.html"),
+        lab=page("실험실", "모의 계좌와 전략별 성적 — 실제 매매가 아니에요", lab, "실험실"),
+        cal=page("달력", "지난 날짜의 시장·알림·대장주", cal, "달력"))
 
 
 def day_page(d, t, fm, lead, vi):
@@ -1069,7 +1073,7 @@ def market_page(days, lead):
              + '</div></div>'
              '<h2 class="plabel" id="plabel"></h2><div id="ichart"></div><p class="sub">고른 기간에 맞춰 지수가 다시 그려져요. 기간이 짧으면 앞 40거래일을 흐리게 같이 보여줘요.</p><div class="out"></div></div>')
     body += f'<script type="application/json" id="mdata">{data}</script><script type="application/json" id="idata">{idata}</script><script type="application/json" id="tdata">{thmap}</script><script>{MARKET_JS}</script>'
-    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기", body, "대장주 달력")
+    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기", body, "달력")
 
 
 def week_page(mon, days, t, fm, lead, vi, expect):
@@ -1125,7 +1129,8 @@ def main():
         W(f"m/{d}.html", market_page_day(d, lead))
     for m in sorted({monday(d) for d in days}):
         W(f"w/{m}.html", week_page(m, days, t, fm, lead, vi, expect))
-    W("index.html", index_page(days, t, h, fm, vi, expect))
+    pg = index_page(days, t, h, fm, vi, expect)
+    W("index.html", pg["today"]); W("share.html", pg["share"]); W("lab.html", pg["lab"]); W("calendar.html", pg["cal"])
     W("market.html", market_page(days, lead))
     shutil.copy(os.path.join(ROOT, "tools", "live.js"), os.path.join(OUT, "live.js"))
     W("flow.html", page("장중 흐름", "30분마다 데스크톱 봇이 올린 테마·대장주·상한가·돈 급증", '<div class="flow"><p class="empty">불러오는 중…</p></div><script src="live.js" defer></script>'))

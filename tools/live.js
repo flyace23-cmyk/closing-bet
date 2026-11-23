@@ -55,9 +55,9 @@
       <small id="syncmsg">누르면 텔레그램 종가베팅 봇이 열려요. '동기화'가 보내지면 데스크톱 봇이 1~2분 안에 계좌·지표를 올려요.</small></p>`;
     let last = "";
     const draw = async () => {
-      try { const j = await get("live/now.json"); el.innerHTML = btn + acctHtml(j);
+      try { const j = await get("live/now.json"); if (el) el.innerHTML = btn + acctHtml(j);
         const rn = document.getElementById("realnow"); if (rn) rn.innerHTML = btn.replace('id="syncmsg"', 'class="syncmsg2"') + realHtml(j); const changed = last && last !== j.updated; last = j.updated; return changed; }
-      catch (e) { el.innerHTML = btn + `<p class="empty">아직 데스크톱 봇이 올린 계좌 정보가 없어요.</p>`; return false; }
+      catch (e) { if (el) el.innerHTML = btn + `<p class="empty">아직 데스크톱 봇이 올린 계좌 정보가 없어요.</p>`; const rn = document.getElementById("realnow"); if (rn) rn.innerHTML = `<p class="empty">아직 동기화된 정보가 없어요.</p>`; return false; }
     };
     await draw();
     document.addEventListener("click", e => {
@@ -71,7 +71,7 @@
   }
 
   /* ---------- 장중 흐름 ---------- */
-  function flowHtml(j) {
+  function flowHtml(j, compact) {
     const S = (j.snaps || []).filter(s => (s.themes || []).length || (s.upper || []).length);
     if (!S.length) return `<p class="empty">이날 장중 흐름 기록 없음</p>`;
     // 1) 1위 테마가 바뀐 순간만 이어서
@@ -87,6 +87,10 @@
       const r = o.rank[i]; return `<td class="r rk${r || 0}">${r || "·"}</td>`;
     }).join("") + `</tr>`).join("");
     h += `<h3>테마 순위표 <small>숫자 = 그 시각 순위 (1~5위)</small></h3><div class="scroll"><table class="wide rank"><thead><tr><th>테마</th>${th}</tr></thead><tbody>${rows}</tbody></table></div>`;
+    if (compact) {
+      const up = new Set(); S.forEach(s => (s.upper || []).forEach(u => up.add(u.name)));
+      return h + (up.size ? `<p class="kpi"><b>상한가</b> ${[...up].map(E).join(", ")}</p>` : "");
+    }
     // 3) 상한가 누적
     const seen = new Set(), up = [];
     S.forEach(s => { const nw = (s.upper || []).filter(u => !seen.has(u.name)); nw.forEach(u => seen.add(u.name)); if (nw.length) up.push(`<li><time>${E(s.t)}</time> ${nw.map(u => `<b>${E(u.name)}</b> ${chip(u.theme ? { name: u.theme, c: u.c } : null)}`).join(" · ")}</li>`); });
@@ -114,10 +118,10 @@
       let day = d;
       if (!day) { const n = await get("live/now.json"); day = (n.date || "").replace(/-/g, ""); }
       const j = await get(`live/${day}.json`);
-      el.innerHTML = (el.dataset.d ? "" : `<p class="sub">${day.slice(0, 4)}.${day.slice(4, 6)}.${day.slice(6)} · <a href="d/${day}.html">이날 알림 전체</a></p>`) + flowHtml(j);
+      el.innerHTML = (el.dataset.d ? "" : `<p class="sub">${day.slice(0, 4)}.${day.slice(4, 6)}.${day.slice(6)} · <a href="d/${day}.html">이날 기록 전체</a></p>`) + flowHtml(j, !!el.dataset.compact);
     } catch (e) { el.innerHTML = `<p class="empty">이날 장중 흐름 기록 없음 (데스크톱 봇 30분 알림부터 저장)</p>`; }
   }
 
-  document.querySelectorAll("#acct").forEach(acct);
+  if (document.getElementById("acct") || document.getElementById("realnow")) acct(document.getElementById("acct"));
   document.querySelectorAll(".flow").forEach(flow);
 })();
