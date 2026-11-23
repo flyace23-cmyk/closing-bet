@@ -37,16 +37,30 @@
     return h;
   }
 
+  /* ---------- 실계좌 (수익률·비중만) ---------- */
+  function realHtml(j) {
+    const r = j.real;
+    if (!r) return `<p class="empty">실계좌 동기화 정보 없음 (데스크톱에 실계좌 키를 넣으면 보여요)</p>`;
+    let h = `<p class="kpi"><span class="badge real">실제</span> 키움 · 마지막 동기화 <b>${E(j.updated)}</b> · ${r.n}종목 · 보유 평가 ${pct(r.ret_eval)}</p>`;
+    if ((r.holdings || []).length)
+      h += `<div class="scroll"><table class="wide"><thead><tr><th>종목</th><th class="r">수익률</th><th class="r">비중</th><th class="r">평단 → 현재가</th></tr></thead><tbody>` +
+        r.holdings.map(x => `<tr><td><b>${E(x.name)}</b><small class="k"> ${E(x.account || "")}</small></td><td class="r">${pct(x.ret)}</td>
+          <td class="r">${x.weight == null ? "–" : (+x.weight).toFixed(1) + "%"}</td><td class="r">${won(x.avg)} → <b>${won(x.price)}</b></td></tr>`).join("") + `</tbody></table></div>`;
+    else h += `<p class="empty">키움 실계좌 보유 종목 없음</p>`;
+    return h + `<p class="sub">수량·금액은 올리지 않아요 (페이지가 공개라서). 수익률은 키움 기준(수수료·세금 반영).</p>`;
+  }
+
   async function acct(el) {
     const btn = `<p class="syncrow"><a class="syncbtn" href="https://t.me/${BOT}?start=sync" target="_blank" rel="noopener">📲 현재 동기화</a>
       <small id="syncmsg">누르면 텔레그램 종가베팅 봇이 열려요. '동기화'가 보내지면 데스크톱 봇이 1~2분 안에 계좌·지표를 올려요.</small></p>`;
     let last = "";
     const draw = async () => {
-      try { const j = await get("live/now.json"); el.innerHTML = btn + acctHtml(j); const changed = last && last !== j.updated; last = j.updated; return changed; }
+      try { const j = await get("live/now.json"); el.innerHTML = btn + acctHtml(j);
+        const rn = document.getElementById("realnow"); if (rn) rn.innerHTML = btn.replace('id="syncmsg"', 'class="syncmsg2"') + realHtml(j); const changed = last && last !== j.updated; last = j.updated; return changed; }
       catch (e) { el.innerHTML = btn + `<p class="empty">아직 데스크톱 봇이 올린 계좌 정보가 없어요.</p>`; return false; }
     };
     await draw();
-    el.addEventListener("click", e => {
+    document.addEventListener("click", e => {
       if (!e.target.closest(".syncbtn")) return;
       let n = 0; const msg = () => document.getElementById("syncmsg");
       const tick = setInterval(async () => {

@@ -725,9 +725,9 @@ def index_page(days, t, h, fm, vi, expect):
                   f"#perf-{s_.replace(' ', '-')}"))
     body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
     body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
+    body += '<h2 id="real">실제 계좌</h2><div id="realnow"></div><h3>계좌별 기록 <small>19:00 저녁 정리 기준 · 미래에셋 포함</small></h3>' + real_html
     body += ('<h2 id="mock">모의 계좌 <small>키움 주문봇</small></h2><div id="acct"><p class="empty">불러오는 중…</p></div>'
              '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p><script src="live.js" defer></script>')
-    body += '<h2 id="real">실제 계좌</h2>' + real_html
     body += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
              '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
     body += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
