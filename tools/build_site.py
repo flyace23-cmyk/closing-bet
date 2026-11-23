@@ -567,6 +567,10 @@ def market_cell(d, lead):
 
 # ---------- 페이지 ----------
 CSS = """
+nav.maintabs{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:16px 0 4px;border:1px solid var(--ink);border-radius:10px;overflow:hidden;position:sticky;top:0;z-index:5;background:var(--bg)}
+nav.maintabs a{display:flex;justify-content:center;align-items:center;min-height:46px;font-weight:700;text-decoration:none;color:var(--ink)}
+nav.maintabs a.on{background:var(--ink);color:var(--bg)}
+
 #acct .kpis{grid-template-columns:repeat(2,1fr)}
 .syncrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:10px 0}
 .syncbtn{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px;border-radius:999px;background:var(--red);color:#fff;font-weight:700;text-decoration:none}
@@ -691,6 +695,7 @@ def ma20_gap():
 
 def index_page(days, t, h, fm, vi, expect):
     body = ""
+    R, M = "", ""
     gap = ma20_gap()
     if days:
         d0 = days[0]; mk = market(d0) or {}
@@ -723,31 +728,40 @@ def index_page(days, t, h, fm, vi, expect):
         k.append((f'<span class="{"thin" if n < 30 else ""}">{num(a)}</span>' if n else "–",
                   f'{label} <span class="badge ok">검증 통과</span><br>' + (f"끝난 {n}건" + (" · 표본 부족" if n < 30 else "") if n else "아직 끝난 매매 없음"),
                   f"#perf-{s_.replace(' ', '-')}"))
-    body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
-    body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
-    body += '<h2 id="real">실제 계좌</h2><div id="realnow"></div><h3>계좌별 기록 <small>19:00 저녁 정리 기준 · 미래에셋 포함</small></h3>' + real_html
-    body += ('<h2 id="mock">모의 계좌 <small>키움 주문봇</small></h2><div id="acct"><p class="empty">불러오는 중…</p></div>'
-             '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p><script src="live.js" defer></script>')
-    body += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
+    M += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
+    M += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
+    R += '<h2 id="real">실제 계좌</h2><div id="realnow"></div><h3>계좌별 기록 <small>19:00 저녁 정리 기준 · 미래에셋 포함</small></h3>' + real_html
+    M += ('<h2 id="mock">모의 계좌 <small>키움 주문봇</small></h2><div id="acct"><p class="empty">불러오는 중…</p></div>'
+             '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p>')
+    M += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
              '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
-    body += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
-    body += '<h2 id="hold">지금 진행 중 (모의)</h2>' + holdings(h)
-    body += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
+    M += '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t)
+    M += '<h2 id="hold">지금 진행 중 (모의)</h2>' + holdings(h)
+    R += '<h2 id="mkt">시장 흐름</h2>' + market_bars_svg(days)
     ds = set(days)
-    body += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
-    body += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days)[:2])
+    R += '<h2 id="cal">알림 달력</h2><p class="sub">날짜를 누르면 그날 알림이, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
+    R += "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else f"d/{d}.html", tint=mkt_tint) for ym in months(days)[:2])
     if days:
         ms = messages(days[0])
-        body += f'<h2>최근 알림 · {fmt_d(days[0])}</h2>'
+        R += f'<h2>최근 알림 · {fmt_d(days[0])}</h2>'
         import re as _re
         for m in ms[-6:]:
             first = _re.sub(r"<[^>]+>", "", m["text"].split("\n")[0])[:40]
-            body += f'<details class="fold"><summary><time>{E(m["t"])}</time> {E(first)}</summary>{msg_html(m)}</details>'
+            R += f'<details class="fold"><summary><time>{E(m["t"])}</time> {E(first)}</summary>{msg_html(m)}</details>'
         if not ms:
-            body += '<p class="empty">저장된 알림 원문 없음</p>'
-        body += f'<p><a href="d/{days[0]}.html">이날 전체 보기 →</a></p>'
+            R += '<p class="empty">저장된 알림 원문 없음</p>'
+        R += f'<p><a href="d/{days[0]}.html">이날 전체 보기 →</a></p>'
     if len(t):
-        body += f'<h2>최근 끝난 매매</h2><details class="fold"><summary>최근 30건 펼치기 (전체 {len(t)}건)</summary>' + trades_wide(t.head(30)) + "</details>"
+        M += f'<h2>최근 끝난 매매</h2><details class="fold"><summary>최근 30건 펼치기 (전체 {len(t)}건)</summary>' + trades_wide(t.head(30)) + "</details>"
+    R = R.replace('<h2 id="mkt">', '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p><h2 id="mkt">', 1)
+    body += ('<nav class="maintabs"><a href="#tab-real" data-t="tab-real" class="on">💰 실계좌</a><a href="#tab-mock" data-t="tab-mock">🧪 모의</a></nav>'
+             f'<section class="tp" id="tab-real">{R}</section><section class="tp" id="tab-mock" hidden>{M}</section>'
+             '<script src="live.js" defer></script>'
+             """<script>{const T=[...document.querySelectorAll('.maintabs a')],P=[...document.querySelectorAll('.tp')];
+const show=id=>{P.forEach(p=>p.hidden=p.id!==id);T.forEach(a=>a.classList.toggle('on',a.dataset.t===id));try{localStorage.setItem('tab',id)}catch(e){}};
+T.forEach(a=>a.addEventListener('click',e=>{e.preventDefault();show(a.dataset.t)}));
+const h=location.hash.slice(1),el=h&&document.getElementById(decodeURIComponent(h));let s=null;try{s=localStorage.getItem('tab')}catch(e){}
+show(el&&el.closest('.tp')?el.closest('.tp').id:(s||'tab-real'));addEventListener('hashchange',()=>{const x=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(x&&x.closest('.tp'))show(x.closest('.tp').id)})}</script>""")
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).strftime("%m/%d %H:%M")
     return page("오늘의 알림장", f"마지막 갱신 {now}", body, "처음")
 
