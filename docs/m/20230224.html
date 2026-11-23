@@ -2,6 +2,10 @@
 <title>2월 24일(금) 시장</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
 <style>
+nav.maintabs{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:16px 0 4px;border:1px solid var(--ink);border-radius:10px;overflow:hidden;position:sticky;top:0;z-index:5;background:var(--bg)}
+nav.maintabs a{display:flex;justify-content:center;align-items:center;min-height:46px;font-weight:700;text-decoration:none;color:var(--ink)}
+nav.maintabs a.on{background:var(--ink);color:var(--bg)}
+
 #acct .kpis{grid-template-columns:repeat(2,1fr)}
 .syncrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:10px 0}
 .syncbtn{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px;border-radius:999px;background:var(--red);color:#fff;font-weight:700;text-decoration:none}
