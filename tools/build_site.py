@@ -669,7 +669,7 @@ footer{color:var(--mute);font-size:13px;margin-top:40px}
 
 def page(title, sub, body, nav="", depth=0, home="index.html"):
     p = "../" * depth
-    links = [(home, "오늘"), ("lab.html", "실험실"), ("calendar.html", "달력")]
+    links = [(home, "오늘"), ("market.html", "대장주 달력"), ("lab.html", "실험실")]
     navs = "".join(f'<a class="{"on" if nav == n else ""}" href="{p}{h}">{n}</a>' for h, n in links)
     return f"""<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -750,8 +750,9 @@ def index_page(days, t, h, fm, vi, expect):
         if not ms0:
             h_ += '<p class="empty">아직 오늘 매매 알림 없음 (평일 15:10 종가베팅 후보 · 19:00 저녁 정리)</p>'
         return h_
+    lead_link = (f'<p class="kpi"><a href="m/{d0}.html"><b>오늘 대장주 보기 →</b></a> · <a href="market.html">대장주 달력 →</a></p>' if d0 else "")
     mkt = ('<h2 id="mkt">오늘 시장</h2><div class="flow" data-compact="1"><p class="empty">불러오는 중…</p></div>'
-           '<p><a href="flow.html">장중 흐름 자세히 →</a> · <a href="calendar.html">지난 날 달력 →</a></p>')
+           '<p><a href="flow.html">장중 흐름 자세히 →</a></p>')
     js = '<script src="live.js" defer></script>'
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).strftime("%m/%d %H:%M")
     # ---------- 실험실 ----------
@@ -764,10 +765,10 @@ def index_page(days, t, h, fm, vi, expect):
            + "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else (f"d/{d}.html" if d >= "20261102" or d in HAS_D else f"m/{d}.html"), tint=mkt_tint) for ym in months(days)[:3])
            + '<h2 id="bars">시장 흐름</h2>' + market_bars_svg(days) + '<p><a href="market.html">대장주 달력 →</a></p>')
     return dict(
-        today=page("오늘", f"마지막 갱신 {now}", body + acct + todo() + mkt + js, "오늘"),
-        share=page("오늘의 시장", f"마지막 갱신 {now}", body + todo(True) + mkt + js, "오늘", home="share.html"),
+        today=page("오늘", f"마지막 갱신 {now}", body + lead_link + acct + todo() + mkt + js, "오늘"),
+        share=page("오늘의 시장", f"마지막 갱신 {now}", body + lead_link + todo(True) + mkt + js, "오늘", home="share.html"),
         lab=page("실험실", "모의 계좌와 전략별 성적 — 실제 매매가 아니에요", lab, "실험실"),
-        cal=page("달력", "지난 날짜의 시장·알림·대장주", cal, "달력"))
+        cal=page("알림·복기 달력", "지난 날짜의 시장·알림·대장주", cal, "대장주 달력"))
 
 
 def day_page(d, t, fm, lead, vi):
@@ -1073,7 +1074,7 @@ def market_page(days, lead):
              + '</div></div>'
              '<h2 class="plabel" id="plabel"></h2><div id="ichart"></div><p class="sub">고른 기간에 맞춰 지수가 다시 그려져요. 기간이 짧으면 앞 40거래일을 흐리게 같이 보여줘요.</p><div class="out"></div></div>')
     body += f'<script type="application/json" id="mdata">{data}</script><script type="application/json" id="idata">{idata}</script><script type="application/json" id="tdata">{thmap}</script><script>{MARKET_JS}</script>'
-    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기", body, "달력")
+    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기 · 날짜를 누르면 그날 대장주", body + '<p><a href="calendar.html">알림·복기 달력 →</a></p>', "대장주 달력")
 
 
 def week_page(mon, days, t, fm, lead, vi, expect):
