@@ -4,6 +4,8 @@
   market.html       대장주 달력: 날짜마다 코스피·코스닥 등락과 1등 테마
   d/날짜.html       하루치 알림: 보낸 알림 원문(봇 + 노트북 VI봇), 대장주, VI 복기, 15분봉 단타 모의, 끝난 매매
   m/날짜.html       하루치 시장: 지수, 오른·내린 종목 수, 테마별 상승률, 대장주(테마 색)
+  flow.html         장중 흐름 (가장 최근 날, ?d=날짜 로 다른 날)
+  live.js           데스크톱 모의주문봇이 올린 docs/live/*.json(모의 계좌·지표·30분 장중 흐름)을 페이지에서 바로 그림
   w/월요일.html     주간 복기: 단계별 성적, 대장주 다음날 성적, 모의매매 집계
 
 사용: python tools/build_site.py
@@ -16,6 +18,7 @@ sys.path.insert(0, ROOT)
 REC = os.path.join(ROOT, "records")
 VI = os.path.join(REC, "vi")
 OUT = os.path.join(ROOT, "docs")
+LIVE = os.path.join(OUT, "live")   # 데스크톱 봇이 GitHub에 직접 올림 (페이지 다시 만들 필요 없음)
 WD = "월화수목금토일"
 M15 = "15분봉 MACD·일목 단타"
 
@@ -165,7 +168,7 @@ def load():
 
 def all_dates(t, fm, lead, vi):
     ds = set()
-    for f in glob.glob(os.path.join(REC, "messages", "*.jsonl")) + glob.glob(os.path.join(VI, "messages", "*.jsonl")) + glob.glob(os.path.join(REC, "market", "*.json")):
+    for f in glob.glob(os.path.join(REC, "messages", "*.jsonl")) + glob.glob(os.path.join(VI, "messages", "*.jsonl")) + glob.glob(os.path.join(REC, "market", "*.json")) + glob.glob(os.path.join(LIVE, "2*.json")):
         ds.add(os.path.basename(f)[:8])
     for df in (fm, lead, vi):
         if len(df):
@@ -564,6 +567,14 @@ def market_cell(d, lead):
 
 # ---------- 페이지 ----------
 CSS = """
+#acct .kpis{grid-template-columns:repeat(2,1fr)}
+.syncrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:10px 0}
+.syncbtn{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px;border-radius:999px;background:var(--red);color:#fff;font-weight:700;text-decoration:none}
+table.rank td.rk1{background:color-mix(in srgb,var(--red) 22%,transparent);font-weight:700}table.rank td.rk2{background:color-mix(in srgb,var(--red) 12%,transparent)}
+table.rank td.rk0{color:var(--line)}
+ul.tl{list-style:none;padding:0;margin:0}ul.tl li{padding:5px 0;border-bottom:1px solid var(--line)}ul.tl time,.fold summary time,.kpi time{font-weight:700;color:var(--slate);margin-right:6px}
+.new{font-size:11.5px;font-weight:700;color:#fff;background:var(--slate);padding:0 5px;border-radius:3px}.nowrap{white-space:nowrap}
+
 /* VOICE 신문 경제면처럼 차분하게 / IDEA 매일 넘겨 보는 투자 알림장 / PICTURE 달력과 말풍선
    COLOUR 흰 바탕·먹색·빨간 탭·슬레이트, 테마 12색 / TYPE Noto Serif KR 제목 + Noto Sans KR 본문 / LAYOUT 한 단, 휴대폰 우선, 표는 옆으로 밀기 */
 :root{color-scheme:light dark;--bg:light-dark(#fff,#10191e);--ink:light-dark(#121212,#e9eef0);--mute:light-dark(#5b6670,#9aa8b1);
@@ -714,6 +725,8 @@ def index_page(days, t, h, fm, vi, expect):
                   f"#perf-{s_.replace(' ', '-')}"))
     body += '<div class="kpis links">' + "".join(f'<a href="{h_}"><b class="kv">{a}</b><span class="kl">{b}</span><em>›</em></a>' for a, b, h_ in k) + "</div>"
     body += '<p class="sub">테스트 중인 매매법(VI 단타, 15분봉 단타)은 <a href="#perf">아래 성적 표</a>와 그래프에서만 보여요.</p>'
+    body += ('<h2 id="mock">모의 계좌 <small>키움 주문봇</small></h2><div id="acct"><p class="empty">불러오는 중…</p></div>'
+             '<p><a href="flow.html">오늘 장중 흐름 (30분마다) →</a></p><script src="live.js" defer></script>')
     body += '<h2 id="real">실제 계좌</h2>' + real_html
     body += ('<h2 id="perf">매매법별 누적 성적</h2><p class="sub">보유 기간으로 4단계로 나눴어요. 30건이 안 된 숫자는 흐리게 보여요. '
              '"진행 중 n종목 ›"을 누르면 아래 진행 중 칸의 같은 매매법 장으로 넘어가요.</p>' + strat_rows(t, expect, h=h))
@@ -743,6 +756,8 @@ def day_page(d, t, fm, lead, vi):
     ms = messages(d)
     td = t[t["판 날"].astype(str).str.replace("-", "") == d] if len(t) else t
     body = f'<nav class="tabs"><a href="../m/{d}.html">이날 시장·대장주</a><a href="../w/{monday(d)}.html">이번 주 복기</a></nav>'
+    body += (f'<h2>장중 흐름 <small>30분마다 · 데스크톱 봇</small></h2><div class="flow" data-d="{d}"><p class="empty">불러오는 중…</p></div>'
+             '<script src="../live.js" defer></script>')
     body += "<h2>보낸 알림</h2>" + ("".join(msg_html(m) for m in ms) if ms else '<p class="empty">이날 저장된 알림 원문 없음 (봇은 11/20부터, 노트북 VI봇은 다시 켠 뒤부터 저장)</p>')
     body += "<h2>대장주</h2>" + leaders_table(lead, d, market(d))
     body += '<h2>초단타 · VI 단타 자동 복기 <span class="badge test">테스트 중</span></h2>' + vi_table(vi, [d])
@@ -1098,6 +1113,8 @@ def main():
         W(f"w/{m}.html", week_page(m, days, t, fm, lead, vi, expect))
     W("index.html", index_page(days, t, h, fm, vi, expect))
     W("market.html", market_page(days, lead))
+    shutil.copy(os.path.join(ROOT, "tools", "live.js"), os.path.join(OUT, "live.js"))
+    W("flow.html", page("장중 흐름", "30분마다 데스크톱 봇이 올린 테마·대장주·상한가·돈 급증", '<div class="flow"><p class="empty">불러오는 중…</p></div><script src="live.js" defer></script>'))
     print(f"페이지 만듦: 날짜 {len(days)}일, 주 {len({monday(d) for d in days})}개 → {OUT}")
 
 

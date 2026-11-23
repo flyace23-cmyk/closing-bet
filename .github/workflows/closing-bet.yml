@@ -6,7 +6,7 @@ on:
     - cron: "0 10 * * 1-5"   # 19:00 KST 저녁 정리
   push:
     branches: [main]
-    paths: ["records/vi/**", "records/real/kiwoom_holdings.csv"]     # 노트북이 VI·키움 기록을 올리면 페이지만 새로 만듦
+    paths: ["records/vi/**", "records/real/kiwoom_holdings.csv", "tools/build_site.py", "tools/live.js"]     # 노트북이 VI·키움 기록을 올리거나 페이지 코드가 바뀌면 페이지만 새로 만듦
   workflow_dispatch:
     inputs:
       mode:
