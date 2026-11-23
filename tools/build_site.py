@@ -1,6 +1,8 @@
 """알림장 웹페이지 만들기 (GitHub Pages: docs 폴더)
 
-  index.html        첫 화면: 매매법별 누적 성적(단계별, 한 줄씩), 진행 중 종목(한 줄씩), 알림 달력, 최근 알림
+  index.html        첫 화면 = 대장주 달력 (market.html 과 같은 내용)
+  today.html        오늘: 내 계좌·오늘 할 일·오늘 시장 / share.html 아버지 공유용(내 계좌 없음)
+  lab.html          실험실: 모의 계좌·전략 성적·아버지 15분봉 / calendar.html 알림·복기 달력
   market.html       대장주 달력: 날짜마다 코스피·코스닥 등락과 1등 테마
   d/날짜.html       하루치 알림: 보낸 알림 원문(봇 + 노트북 VI봇), 대장주, VI 복기, 15분봉 단타 모의, 끝난 매매
   m/날짜.html       하루치 시장: 지수, 오른·내린 종목 수, 테마별 상승률, 대장주(테마 색)
@@ -667,9 +669,9 @@ footer{color:var(--mute);font-size:13px;margin-top:40px}
 """
 
 
-def page(title, sub, body, nav="", depth=0, home="index.html"):
+def page(title, sub, body, nav="", depth=0, home="today.html"):
     p = "../" * depth
-    links = [(home, "오늘"), ("market.html", "대장주 달력"), ("lab.html", "실험실")]
+    links = [("index.html", "대장주 달력"), (home, "오늘"), ("lab.html", "실험실")]
     navs = "".join(f'<a class="{"on" if nav == n else ""}" href="{p}{h}">{n}</a>' for h, n in links)
     return f"""<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1131,8 +1133,9 @@ def main():
     for m in sorted({monday(d) for d in days}):
         W(f"w/{m}.html", week_page(m, days, t, fm, lead, vi, expect))
     pg = index_page(days, t, h, fm, vi, expect)
-    W("index.html", pg["today"]); W("share.html", pg["share"]); W("lab.html", pg["lab"]); W("calendar.html", pg["cal"])
-    W("market.html", market_page(days, lead))
+    W("today.html", pg["today"]); W("share.html", pg["share"]); W("lab.html", pg["lab"]); W("calendar.html", pg["cal"])
+    mp = market_page(days, lead)
+    W("market.html", mp); W("index.html", mp)
     shutil.copy(os.path.join(ROOT, "tools", "live.js"), os.path.join(OUT, "live.js"))
     W("flow.html", page("장중 흐름", "30분마다 데스크톱 봇이 올린 테마·대장주·상한가·돈 급증", '<div class="flow"><p class="empty">불러오는 중…</p></div><script src="live.js" defer></script>'))
     print(f"페이지 만듦: 날짜 {len(days)}일, 주 {len({monday(d) for d in days})}개 → {OUT}")
