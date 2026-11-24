@@ -19,7 +19,8 @@ jobs:
       - name: dart 영업이익 받기
         env:
           DART_KEY: ${{ secrets.DART_KEY }}
-        run: python tools/research/dart_op.py
+        timeout-minutes: 40
+        run: python -u tools/research/dart_op.py
       - name: save
         if: always()
         run: |

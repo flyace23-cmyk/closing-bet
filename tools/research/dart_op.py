@@ -27,15 +27,17 @@ for year in range(2015, 2027):
     for rc in ["11013", "11012", "11014", "11011"]:
         for b in range(0, len(corps), 100):
             batch = corps[b:b + 100]
-            for t in range(4):
+            t0 = time.time()
+            for t in range(2):
                 try:
                     j = md.S.get("https://opendart.fss.or.kr/api/fnlttMultiAcnt.json",
                                  params=dict(crtfc_key=info.KEY, corp_code=",".join(batch), bsns_year=str(year), reprt_code=rc),
-                                 timeout=30).json()
+                                 timeout=20).json()
                     break
                 except Exception:
                     time.sleep(3); j = {}
             st = j.get("status"); log.append(f"{year} {rc} {b} {st}")
+            print(year, rc, b, st, len(j.get("list", []) or []), f"{time.time() - t0:.1f}s", flush=True)
             if st == "020":
                 print("호출 한도 초과, 중단"); break
             for r in j.get("list", []) or []:
