@@ -1,0 +1,27 @@
+name: research
+on:
+  push:
+    branches: [main]
+    paths: ["tools/research/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: research
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pandas
+      - name: dart 영업이익 받기
+        env:
+          DART_KEY: ${{ secrets.DART_KEY }}
+        run: python tools/research/dart_op.py
+      - name: save
+        run: |
+          git config user.name bot && git config user.email bot@users.noreply.github.com
+          git add records/research || true
+          git diff --cached --quiet || (git commit -m "research: DART 영업이익" && git pull --rebase && git push)
