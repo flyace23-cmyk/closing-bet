@@ -25,33 +25,42 @@ if os.path.exists(f_all):      # 이어받기: 이미 받은 연도는 건너뜀
     old = pd.read_csv(f_all, dtype=str); rows = old.to_dict("records")
     done_years = {int(y) for y in old.bsns_year.unique()} - {2026}
     print("이미 받은 연도", sorted(done_years))
-for year in range(2015, 2027):
-    if year in done_years:
-        continue
-    for rc in ["11013", "11012", "11014", "11011"]:
-        for b in range(0, len(corps), 100):
-            batch = corps[b:b + 100]
-            t0 = time.time()
-            for t in range(2):
-                try:
-                    j = md.S.get("https://opendart.fss.or.kr/api/fnlttMultiAcnt.json",
-                                 params=dict(crtfc_key=info.KEY, corp_code=",".join(batch), bsns_year=str(year), reprt_code=rc),
-                                 timeout=20).json()
-                    break
-                except Exception:
-                    time.sleep(3); j = {}
-            st = j.get("status"); log.append(f"{year} {rc} {b} {st}")
-            print(year, rc, b, st, len(j.get("list", []) or []), f"{time.time() - t0:.1f}s", flush=True)
-            if st == "020":
-                print("호출 한도 초과, 중단"); break
-            for r in j.get("list", []) or []:
-                if r.get("account_nm", "").replace(" ", "") in ("영업이익", "영업이익(손실)", "영업손실"):
-                    rows.append({k: r.get(k) for k in ["stock_code", "corp_code", "bsns_year", "reprt_code", "rcept_no", "fs_div",
-                                                       "sj_div", "account_nm", "thstrm_amount", "thstrm_add_amount",
-                                                       "frmtrm_amount", "frmtrm_add_amount"]})
-            time.sleep(0.3)
-    print(year, "누적 행", len(rows), flush=True)
-    pd.DataFrame(rows).to_csv(f_all, index=False)   # 연도마다 저장
+from concurrent.futures import ThreadPoolExecutor, as_completed
+B = 25
+jobs = [(y, rc, b) for y in range(2015, 2027) if y not in done_years
+        for rc in ["11013", "11012", "11014", "11011"] for b in range(0, len(corps), B)]
+print("호출 수", len(jobs), flush=True)
+def one(job):
+    year, rc, b = job; t0 = time.time()
+    for t in range(3):
+        try:
+            j = md.S.get("https://opendart.fss.or.kr/api/fnlttMultiAcnt.json",
+                         params=dict(crtfc_key=info.KEY, corp_code=",".join(corps[b:b + B]), bsns_year=str(year), reprt_code=rc),
+                         timeout=180).json()
+            return job, j, time.time() - t0
+        except Exception:
+            time.sleep(3)
+    return job, None, time.time() - t0
+got = {}   # (year, rc, b) -> rows
+n = 0
+with ThreadPoolExecutor(8) as ex:
+    for f in as_completed([ex.submit(one, jb) for jb in jobs]):
+        job, j, sec = f.result(); n += 1
+        st = (j or {}).get("status")
+        log.append(f"{job} {st}")
+        print(n, job, st, f"{sec:.0f}s", flush=True)
+        if j is None or st not in ("000", "013"):
+            continue
+        got[job] = [{k: r.get(k) for k in ["stock_code", "corp_code", "bsns_year", "reprt_code", "rcept_no", "fs_div",
+                                           "sj_div", "account_nm", "thstrm_amount", "thstrm_add_amount",
+                                           "frmtrm_amount", "frmtrm_add_amount"]}
+                    for r in (j.get("list") or []) if r.get("account_nm", "").replace(" ", "") in ("영업이익", "영업이익(손실)", "영업손실")]
+        # 연도 단위로 다 받았으면 저장 (중간에 끊겨도 이어받기 가능)
+        y = job[0]
+        if all((y, rc, b) in got for rc in ["11013", "11012", "11014", "11011"] for b in range(0, len(corps), B)):
+            rows += [r for (yy, _, _), rs in got.items() if yy == y for r in rs]
+            for k in [k for k in got if k[0] == y]: del got[k]
+            pd.DataFrame(rows).to_csv(f_all, index=False); print("저장", y, len(rows), flush=True)
 pd.DataFrame(rows).to_csv(os.path.join(OUT, "dart_op.csv"), index=False)
 open(os.path.join(OUT, "dart_op_log.txt"), "w").write("\n".join(log))
 print("완료", len(rows))
