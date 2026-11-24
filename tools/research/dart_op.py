@@ -12,7 +12,11 @@ import info
 OUT = os.path.join(ROOT, "records", "research"); os.makedirs(OUT, exist_ok=True)
 L = md.all_stocks()
 cm = info._corpmap()
-corps = sorted({cm[c] for c in L.code if c in cm})
+codes = list(L.code)
+cf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "codes.txt")
+if os.path.exists(cf):          # 신호가 나온 종목만 (속도)
+    codes = [x.strip() for x in open(cf) if x.strip()]
+corps = sorted({cm[c] for c in codes if c in cm})
 print("종목", len(L), "corp 매핑", len(corps))
 rows, log = [], []
 done_years = set()
