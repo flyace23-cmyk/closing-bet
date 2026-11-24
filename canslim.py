@@ -10,6 +10,12 @@
   매도: 손절 -8%, 3일 안에 피벗 아래 종가 2번이면 정리, +20%에서 절반(나머지 손절선 본전),
         3주 안에 +20%면 8주 보유, 50일선을 평균 이상 거래량으로 이탈하면 정리, 최대 126거래일
 
+모의 전용 (2026-11-24 추가, 검증: 미너비니-조건-CANSLIM-비교검증-2026-11):
+  VCP + 트렌드 템플릿 — 공통 관심 조건(RS·50>200·52주 고점 85%·거래대금) + 150일선·200일선 우상향(21일)·52주 저점 +30%
+        + 어제까지 10일 변동폭 <= 60일의 0.8배, 10일 거래량 < 50일 평균, 최근 20일 폭 <= 15%, 65일 폭 <= 35%
+        → 최근 20일 고점(피벗) 종가 돌파(+5% 이내), 거래량 1.5배. 매도 규칙은 CAN SLIM과 같음. 시장 꺼짐이면 제외
+  실제 매수 알림(15:10)에는 넣지 않고 19:00에 모의 기록만 남긴다 (records/vcp_mock.csv)
+
 15:10 → today_signals(): 오늘 종가 매수 후보 (15:10 기준 추정, 거래량은 1.35배로 완화)
 19:00 → evening_section(): 마감 기준 확정 신호 모의 기록, 관심 후보, 보유 종목 관리, 성적
 """
@@ -25,6 +31,7 @@ REC = f"{HERE}/records"
 LOG = f"{REC}/canslim_mock.csv"      # 마감 기준 신호 모의 기록 (백테스트와 같은 방식)
 MINE = f"{REC}/canslim_mine.csv"     # 내가 실제로 산 중기 종목
 RSF = f"{REC}/canslim_rs.json"       # 19:00에 계산한 RS 순위 (15:10에 사용)
+VLOG = f"{REC}/vcp_mock.csv"         # VCP + 트렌드 템플릿 모의 기록 (모의 전용)
 
 VALUE_MIN = 30        # 20일 평균 거래대금(억)
 NEAR_HIGH = 0.85      # 52주 최고가 대비
@@ -125,6 +132,42 @@ def _price_check(d, rs, vol_mult):
     return watch, brk, info
 
 
+def _template(d):
+    """미너비니 트렌드 템플릿 추가 조건: (통과 여부, 200일선 우상향 여부)"""
+    c = d.c
+    ma50, ma150, ma200 = c.iloc[-50:].mean(), c.iloc[-150:].mean(), c.iloc[-200:].mean()
+    ma200_21 = c.iloc[-221:-21].mean()
+    up = ma200 > ma200_21
+    ok = up and c.iloc[-1] > ma150 and ma50 > ma150 > ma200 and c.iloc[-1] >= 1.3 * d.l.iloc[-250:].min()
+    return bool(ok), bool(up)
+
+
+def _vcp_check(d, rs, vol_mult):
+    """VCP + 트렌드 템플릿 돌파 (모의 전용). (돌파 여부, 정보)"""
+    if len(d) < 252:
+        return False, None
+    c = d.c; i = len(d) - 1
+    last, prev = c.iloc[-1], c.iloc[-2]
+    ma50, ma200 = c.iloc[-50:].mean(), c.iloc[-200:].mean()
+    v50 = d.v.iloc[-51:-1].mean()
+    tv20 = (d.c * d.v).iloc[-20:].mean() / 1e8
+    hi250 = d.h.iloc[-250:].max()
+    common = (last > ma50 > ma200 and last >= NEAR_HIGH * hi250 and tv20 >= VALUE_MIN and rs is not None and rs >= RS_MIN)
+    tpl, _ = _template(d)
+    if not (common and tpl):
+        return False, None
+    rng = (d.h - d.l) / d.c
+    rr = rng.iloc[-11:-1].mean() / rng.iloc[-61:-1].mean()
+    vdry = d.v.iloc[-11:-1].mean() < v50
+    p20 = d.h.values[i - 20:i].max(); d20 = 1 - d.l.values[i - 20:i].min() / p20
+    _, _, d65 = _base(d)
+    vm = d.v.iloc[-1] / v50 if v50 > 0 else 0
+    brk = (rr <= 0.8 and vdry and d20 <= 0.15 and d65 <= 0.35
+           and p20 < last <= p20 * (1 + CHASE) and prev <= p20 and vm >= vol_mult)
+    return bool(brk), dict(close=last, pivot=p20, vol_mult=round(vm, 2), contraction=round(rr, 2),
+                           width20=round(d20 * 100, 1), gap_pivot=round((last / p20 - 1) * 100, 1))
+
+
 def _grade(gq, ga, mst):
     c = gq is not None and gq >= EPS_Q
     a = ga is not None and ga >= EPS_A
@@ -168,9 +211,16 @@ def _scan(L, rs, vol_mult):
         if d.empty or d.date.iloc[-1] != md.today():
             return None
         w, b, info = _price_check(d, rs.get(r["code"]), vol_mult)
-        if not w:
+        try:
+            vb, vinfo = _vcp_check(d, rs.get(r["code"]), vol_mult)
+        except Exception:
+            vb, vinfo = False, None
+        if not w and not vb:
             return None
-        return dict(code=r["code"], name=r["name"], mkt=r["mkt"], rs=rs.get(r["code"]), breakout=b, **info)
+        out = dict(code=r["code"], name=r["name"], mkt=r["mkt"], rs=rs.get(r["code"]), watch=w, breakout=b,
+                   ma200_up=_template(d)[1], vcp=vb, vcp_info=vinfo)
+        out.update(info or {})
+        return out
     with ThreadPoolExecutor(8) as ex:
         res = [x for x in ex.map(one, L.to_dict("records")) if x]
     df = pd.DataFrame(res)
@@ -319,6 +369,45 @@ def _parse_mine(msgs, names):
     return add, sold
 
 
+def _vcp_section(df, mst):
+    """VCP + 트렌드 템플릿 모의 기록: 새 신호 추가, 보유 기록 갱신, 성적"""
+    vlog = pd.read_csv(VLOG, dtype={"code": str, "date": str}) if os.path.exists(VLOG) else pd.DataFrame(
+        columns=["date", "code", "name", "market", "buy", "pivot", "contraction", "width20", "vol_mult",
+                 "earn_q", "earn_a", "status", "end_date", "why", "ret"])
+    out = ["🧪 VCP + 트렌드 템플릿 (모의 기록만, 실제 매수 아님)"]
+    held = set(vlog[vlog.status == "보유"].code)
+    new = []
+    if not df.empty and "vcp" in df:
+        for _, r in df[df.vcp].iterrows():
+            if mst[r.mkt] == "꺼짐" or r.code in held:
+                continue
+            v = r.vcp_info
+            new.append(dict(date=md.today(), code=r.code, name=r["name"], market=mst[r.mkt], buy=v["close"],
+                            pivot=v["pivot"], contraction=v["contraction"], width20=v["width20"], vol_mult=v["vol_mult"],
+                            earn_q=r.gq, earn_a=r.ga, status="보유", end_date="", why="", ret=None))
+            out.append(f"• {r['name']} ({r.code}) {v['close']:,.0f}원 | 피벗 {v['pivot']:,.0f}원 돌파 {v['gap_pivot']:+.1f}% "
+                       f"| 수축 {v['contraction']} | 20일 폭 {v['width20']}% | 거래량 {v['vol_mult']}배\n   실적: {r.fin}")
+    if not new:
+        out.append("오늘 새 신호 없음")
+    else:
+        vlog = pd.concat([vlog, pd.DataFrame(new)], ignore_index=True)
+    for i, p in vlog[vlog.status == "보유"].iterrows():
+        if p.date == md.today():
+            continue
+        st = manage(_daily(p.code), p.date, float(p.buy), float(p.pivot))
+        if st and st["done"]:
+            vlog.loc[i, ["status", "end_date", "why", "ret"]] = ["종료", st["date"], st["why"], st["ret"]]
+            out.append(f"• 종료: {p['name']} {st['why']} {st['ret']:+.1f}%")
+    done = vlog[vlog.status == "종료"]
+    line = f"📒 VCP 모의 {len(done)}건 종료 | 보유 중 {(vlog.status == '보유').sum()}건"
+    if len(done):
+        r = done.ret.astype(float)
+        line += f" | 승률 {(r > 0).mean() * 100:.0f}% | 평균 {r.mean():+.2f}%"
+    out.append(line + "\n   (백테스트 기대: 승률 약 29%, 평균 +8%. 상위 몇 건이 수익을 만들고 연속 손절 15번도 정상)")
+    vlog.to_csv(VLOG, index=False)
+    return "\n".join(out)
+
+
 def evening_section(msgs=None):
     os.makedirs(REC, exist_ok=True)
     L = md.all_stocks()
@@ -342,16 +431,23 @@ def evening_section(msgs=None):
                 if not ok:
                     continue
                 new.append(dict(date=md.today(), code=r.code, name=r["name"], grade=g, market=mst[r.mkt],
-                                buy=r.close, pivot=r.pivot, status="보유", end_date="", why="", ret=None))
+                                buy=r.close, pivot=r.pivot, status="보유", end_date="", why="", ret=None,
+                                ma200_up=r.ma200_up))
                 lines.append("✅ 오늘 마감 확정 신호\n" + _fmt(r, g) + "\n" + dl)
     if not new:
         lines.append("오늘 마감 확정 신호 없음")
     if new:
         log = pd.concat([log, pd.DataFrame(new)], ignore_index=True)
 
+    # 1-2) VCP + 트렌드 템플릿 → 모의 기록만 (실제 매수 알림 아님)
+    try:
+        lines.append(_vcp_section(df, mst))
+    except Exception as e:
+        lines.append(f"🧪 VCP 모의: 처리 실패({e.__class__.__name__})")
+
     # 2) 관심 후보 (피벗 아래 0~5%)
     if not df.empty:
-        w = df[(~df.breakout) & (df.gap_pivot >= -5) & (df.gap_pivot <= 0)].copy()
+        w = df[df.watch & (~df.breakout) & (df.gap_pivot >= -5) & (df.gap_pivot <= 0)].copy()
         w["g"] = [_grade(a, b, "켜짐") for a, b in zip(w.gq, w.ga)]
         w = w[w.g.notna()].sort_values("gap_pivot", ascending=False).head(SHOW_WATCH)
         if len(w):
