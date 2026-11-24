@@ -10,7 +10,7 @@ concurrency: research
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,6 +21,7 @@ jobs:
           DART_KEY: ${{ secrets.DART_KEY }}
         run: python tools/research/dart_op.py
       - name: save
+        if: always()
         run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
           git add records/research || true

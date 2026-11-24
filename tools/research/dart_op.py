@@ -15,7 +15,15 @@ cm = info._corpmap()
 corps = sorted({cm[c] for c in L.code if c in cm})
 print("종목", len(L), "corp 매핑", len(corps))
 rows, log = [], []
+done_years = set()
+f_all = os.path.join(OUT, "dart_op.csv")
+if os.path.exists(f_all):      # 이어받기: 이미 받은 연도는 건너뜀
+    old = pd.read_csv(f_all, dtype=str); rows = old.to_dict("records")
+    done_years = {int(y) for y in old.bsns_year.unique()} - {2026}
+    print("이미 받은 연도", sorted(done_years))
 for year in range(2015, 2027):
+    if year in done_years:
+        continue
     for rc in ["11013", "11012", "11014", "11011"]:
         for b in range(0, len(corps), 100):
             batch = corps[b:b + 100]
@@ -23,7 +31,7 @@ for year in range(2015, 2027):
                 try:
                     j = md.S.get("https://opendart.fss.or.kr/api/fnlttMultiAcnt.json",
                                  params=dict(crtfc_key=info.KEY, corp_code=",".join(batch), bsns_year=str(year), reprt_code=rc),
-                                 timeout=60).json()
+                                 timeout=30).json()
                     break
                 except Exception:
                     time.sleep(3); j = {}
@@ -36,7 +44,8 @@ for year in range(2015, 2027):
                                                        "sj_div", "account_nm", "thstrm_amount", "thstrm_add_amount",
                                                        "frmtrm_amount", "frmtrm_add_amount"]})
             time.sleep(0.3)
-    print(year, "누적 행", len(rows))
+    print(year, "누적 행", len(rows), flush=True)
+    pd.DataFrame(rows).to_csv(f_all, index=False)   # 연도마다 저장
 pd.DataFrame(rows).to_csv(os.path.join(OUT, "dart_op.csv"), index=False)
 open(os.path.join(OUT, "dart_op_log.txt"), "w").write("\n".join(log))
 print("완료", len(rows))
