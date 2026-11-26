@@ -1,0 +1,14 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>매매 기록 요약</title><style>body{font-family:system-ui,sans-serif;max-width:860px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1f23}
+table{border-collapse:collapse;width:100%;margin:8px 0;font-size:14px}td,th{border:1px solid #ddd;padding:4px 6px;text-align:left}
+th{background:#f4f4f4}h1{font-size:22px}h2{font-size:18px;margin-top:28px}h3{font-size:16px}a{color:#0f6fbf}.muted{color:#666;font-size:13px}</style></head>
+<body><p class="muted"><a href="../">← 알림장</a> · <a href="요약.md">요약.md</a> · <a href="summary.json">summary.json</a></p><div id="b">불러오는 중…</div>
+<script>
+function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+function md(t){let h='',tbl=null;for(const l of t.split('\n')){if(l.startsWith('|')){const c=l.split('|').slice(1,-1).map(x=>x.trim());if(c.every(x=>/^-+$/.test(x)))continue;
+if(!tbl){tbl=[];h+='<table>';tbl=1;h+='<tr>'+c.map(x=>'<th>'+esc(x)+'</th>').join('')+'</tr>';continue}h+='<tr>'+c.map(x=>'<td>'+esc(x)+'</td>').join('')+'</tr>';continue}
+if(tbl){h+='</table>';tbl=null}if(l.startsWith('### '))h+='<h3>'+esc(l.slice(4))+'</h3>';else if(l.startsWith('## '))h+='<h2>'+esc(l.slice(3))+'</h2>';
+else if(l.startsWith('# '))h+='<h1>'+esc(l.slice(2))+'</h1>';else if(l.startsWith('- '))h+='<div>• '+esc(l.slice(2))+'</div>';else if(l.startsWith('> '))h+='<p class="muted">'+esc(l.slice(2))+'</p>';
+else if(l.trim())h+='<p>'+esc(l)+'</p>'}if(tbl)h+='</table>';return h}
+fetch('요약.md?'+Date.now()).then(r=>r.text()).then(t=>document.getElementById('b').innerHTML=md(t)).catch(()=>document.getElementById('b').textContent='불러오지 못했어요')
+</script></body></html>
