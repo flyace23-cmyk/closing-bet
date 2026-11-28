@@ -1,0 +1,115 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>성적</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
+<style>
+nav.tabs4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:12px 0 4px;border:1px solid var(--ink);border-radius:10px;overflow:hidden;position:sticky;top:0;z-index:6;background:var(--bg)}
+nav.tabs4 a{display:flex;justify-content:center;align-items:center;min-height:46px;font-weight:700;text-decoration:none;color:var(--ink)}
+nav.tabs4 a.on{background:var(--ink);color:var(--bg)}
+.st{display:flex;flex-direction:column;gap:6px}.st div{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;background:var(--panel);border-radius:8px}
+.st div.bad{background:color-mix(in srgb,var(--red) 12%,transparent);border:1px solid var(--red)}.st small{display:block}
+.st .ok{color:#2f7a4a;font-weight:700;white-space:nowrap}.st .no{color:var(--up);font-weight:700;white-space:nowrap}.st .wait{color:var(--mute);white-space:nowrap}
+.ks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));height:10px;border-radius:5px;overflow:hidden;margin-top:8px}.ks i:nth-child(1){background:#3c8d5a}.ks i:nth-child(2){background:#e0b000}.ks i:nth-child(3){background:#e8772e}.ks i:nth-child(4){background:#c4161c}
+.ksl{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));font-size:12px;color:var(--mute)}.ksl span.on{color:var(--ink);font-weight:700}
+.card{border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:0 0 8px}.card .hd{display:flex;justify-content:space-between;gap:8px}
+.thin{opacity:.5}.kpis.kn div:first-child{grid-column:auto}.kpis.kn b{font-size:21px}ul.chk{list-style:none;padding:0;margin:8px 0}ul.chk li{padding:6px 0;border-bottom:1px solid var(--line)}
+nav.maintabs{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:16px 0 4px;border:1px solid var(--ink);border-radius:10px;overflow:hidden;position:sticky;top:0;z-index:5;background:var(--bg)}
+nav.maintabs a{display:flex;justify-content:center;align-items:center;min-height:46px;font-weight:700;text-decoration:none;color:var(--ink)}
+nav.maintabs a.on{background:var(--ink);color:var(--bg)}
+
+#acct .kpis{grid-template-columns:repeat(2,1fr)}
+.syncrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:10px 0}
+.syncbtn{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px;border-radius:999px;background:var(--red);color:#fff;font-weight:700;text-decoration:none}
+table.rank td.rk1{background:color-mix(in srgb,var(--red) 22%,transparent);font-weight:700}table.rank td.rk2{background:color-mix(in srgb,var(--red) 12%,transparent)}
+table.rank td.rk0{color:var(--line)}
+ul.tl{list-style:none;padding:0;margin:0}ul.tl li{padding:5px 0;border-bottom:1px solid var(--line)}ul.tl time,.fold summary time,.kpi time{font-weight:700;color:var(--slate);margin-right:6px}
+.new{font-size:11.5px;font-weight:700;color:#fff;background:var(--slate);padding:0 5px;border-radius:3px}.nowrap{white-space:nowrap}
+
+/* VOICE 신문 경제면처럼 차분하게 / IDEA 매일 넘겨 보는 투자 알림장 / PICTURE 달력과 말풍선
+   COLOUR 흰 바탕·먹색·빨간 탭·슬레이트, 테마 12색 / TYPE Noto Serif KR 제목 + Noto Sans KR 본문 / LAYOUT 한 단, 휴대폰 우선, 표는 옆으로 밀기 */
+:root{color-scheme:light dark;--bg:light-dark(#fff,#10191e);--ink:light-dark(#121212,#e9eef0);--mute:light-dark(#5b6670,#9aa8b1);
+--red:#e3120b;--slate:light-dark(#2e6f8e,#7fb6cf);--panel:light-dark(#eef3f5,#18252c);--line:light-dark(#d5dde2,#2a3a43);
+--up:light-dark(#c4161c,#ff6b66);--dn:light-dark(#1f5fbf,#6aa4ff)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR",system-ui,sans-serif;overflow-x:clip}
+a{color:var(--slate)}
+header{border-top:6px solid var(--red);padding:18px max(4vw,14px) 4px;max-width:1080px;margin:auto}
+header .tab{display:inline-block;background:var(--red);color:#fff;font-weight:700;font-size:13px;padding:2px 10px;margin-bottom:8px}
+h1{font:700 clamp(28px,5vw,42px)/1.15 "Noto Serif KR",serif;margin:0 0 4px;text-wrap:balance}
+h2{font:700 21px/1.3 "Noto Serif KR",serif;margin:34px 0 10px;padding-top:10px;border-top:1px solid var(--line)}
+h3{font:700 16px/1.3 "Noto Sans KR",sans-serif;margin:16px 0 8px}
+main{max-width:1080px;margin:auto;padding:0 max(4vw,14px) 60px}
+.sub{color:var(--mute);margin:0 0 8px}
+nav.tabs{display:flex;gap:8px;overflow-x:auto;padding:12px 0 2px}
+nav.tabs a{flex:none;display:flex;align-items:center;padding:6px 14px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--ink);font-size:14px;min-height:40px}
+nav.tabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin:14px 0}
+.kpis div{background:var(--bg);padding:12px 14px}.kpis b{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis div>span{color:var(--mute);font-size:13px}
+.kpi{margin:4px 0 10px}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:6px}
+table.wide{border-collapse:collapse;min-width:100%;font-size:14.5px}
+.wide th,.wide td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap;vertical-align:middle}
+.wide tr:last-child td{border-bottom:0}
+.wide th{font-size:12.5px;color:var(--mute);font-weight:500;background:var(--panel)}
+.wide td:first-child,.wide th:first-child{position:sticky;left:0;z-index:1;background:var(--bg);box-shadow:1px 0 0 var(--line)}.wide th:first-child{background:var(--panel)}
+.wide tr.group td{background:var(--panel);font-size:13.5px;padding:6px 12px;border-top:2px solid var(--ink);position:static;box-shadow:none}.wide tr.muted td{color:var(--mute)}
+.wide td small{color:var(--mute);font-size:12px}
+.r{text-align:right!important}
+.up{color:var(--up);font-weight:600}.dn{color:var(--dn);font-weight:600}
+.empty{color:var(--mute)}small{color:var(--mute)}
+.chip{display:inline-block;padding:1px 8px;border-radius:4px;font-size:12.5px;font-weight:600;color:var(--c);background:color-mix(in srgb,var(--c) 14%,transparent);border-left:3px solid var(--c);white-space:nowrap}
+.bar{display:inline-block;width:4px;height:16px;background:var(--c);margin-right:7px;vertical-align:-3px;border-radius:2px}
+.msg{display:grid;grid-template-columns:48px 1fr;gap:8px;margin:12px 0}
+.msg time{font-weight:700;color:var(--slate);padding-top:10px;font-size:14px}
+.bubble{background:var(--panel);border-radius:4px 14px 14px 14px;padding:11px 14px;white-space:pre-wrap;overflow-wrap:anywhere;font-size:15px}
+.bubble pre{margin:4px 0 8px;white-space:pre;overflow-x:auto;font:13.5px/1.55 ui-monospace,"D2Coding",monospace;background:var(--bg);padding:8px 10px;border-radius:6px}
+.src{display:inline-block;font-size:12px;font-weight:700;padding:0 6px;border-radius:4px;margin-right:6px}.src.vi{background:#5b6ee1;color:#fff}
+.cal{display:grid;gap:4px}.cal6{grid-template-columns:48px repeat(5,minmax(0,1fr))}.cal5{grid-template-columns:repeat(5,minmax(0,1fr))}
+.cal-h{font-size:12px;color:var(--mute);text-align:center}
+.cal-d,.cal-w{min-height:84px;border:1px solid var(--line);border-radius:6px;padding:5px 6px;text-decoration:none;color:var(--ink);font-size:12px;line-height:1.4;display:flex;flex-direction:column;gap:2px;overflow:hidden}
+.cal-d b{font-size:14px}.cal-d.none{color:var(--mute);opacity:.5}.cal-d.off,.cal-w.off{border:0}
+a.cal-d{background:var(--panel)}a.cal-d:hover,a.cal-w:hover,a.cal-d:focus-visible{outline:2px solid var(--slate)}
+.cal-w{align-items:center;justify-content:center;text-align:center;font-weight:700;color:var(--slate);font-size:12px}
+.cal-d .chip{font-size:11px;padding:0 3px;overflow:hidden;white-space:nowrap;max-width:100%}
+.dot{font-size:11.5px;color:var(--mute)}
+.wide td small.k{display:block;font-size:12px;color:var(--mute);font-weight:400;margin-top:1px}
+.wide td:first-child{white-space:normal;min-width:130px;max-width:190px}
+.today{margin:14px 0 0;padding:12px 14px;border-left:4px solid var(--red);background:var(--panel);font-size:15px;line-height:1.7}
+.today a{color:var(--ink);text-decoration:none;display:block}
+.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.kpis div>span{display:block;line-height:1.45}
+details.fold{border-bottom:1px solid var(--line)}details.fold summary{padding:10px 0;display:flex;gap:10px;align-items:center;list-style:none}
+details.fold summary::before{content:"▸";color:var(--slate)}details.fold[open] summary::before{content:"▾"}
+details.fold summary time{font-weight:700;color:var(--slate)}details.fold .msg{margin-top:0}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:4px;vertical-align:1px;white-space:nowrap}
+.badge.real{background:var(--ink);color:var(--bg)}.badge.test{background:#f3c64a;color:#3a2a00}.badge.ok{background:color-mix(in srgb,#3c8d5a 18%,transparent);color:#2f7a4a}
+.chart svg{width:100%;height:auto;display:block}.chart .grid{stroke:var(--line);stroke-width:.6}.chart .below{fill:color-mix(in srgb,var(--dn) 9%,transparent)}.chart text{font-size:12px;fill:var(--mute)}.chart .zero{stroke:var(--line);stroke-width:1.5}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--mute);margin:4px 0 6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.thin{opacity:.45}.kpis div:first-child{grid-column:1/-1}.cnt{display:inline-block;white-space:nowrap;margin:0 8px 6px 0}ul.plain{list-style:none;padding:0;margin:4px 0}ul.plain li{padding:6px 0;border-bottom:1px solid var(--line)}
+.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}@media(min-width:760px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.wide td:last-child{white-space:normal;min-width:110px;font-size:13.5px}
+.kpis.links a{display:block;position:relative;background:var(--bg);padding:12px 26px 12px 14px;color:var(--ink);text-decoration:none}
+.kpis.links a:nth-child(-n+2){grid-column:auto}.kpis.links a.wide{grid-column:1/-1}.kpis.links a:active,.kpis.links a:hover{background:var(--panel)}
+.kpis.links em{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:22px;color:var(--mute)}
+.kpis.links .kv{display:block;font:700 24px/1.25 "Noto Serif KR",serif}.kpis.links .kl{color:var(--mute);font-size:13px;display:block;line-height:1.5}
+.flash{background:color-mix(in srgb,#f3c64a 45%,transparent);transition:background .4s}html{scroll-behavior:smooth;scroll-padding-top:16px}
+.htabs{display:flex;gap:6px;overflow-x:auto;padding:4px 0 8px}.htabs a{flex:none;padding:6px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--ink);font-size:14px;min-height:38px;display:flex;align-items:center;gap:5px}
+.htabs a.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.htabs a b{font-weight:700;opacity:.8}
+.panes{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.panes::-webkit-scrollbar{display:none}
+.pane{flex:0 0 100%;scroll-snap-align:start;min-width:0}
+a.go{display:inline-block;margin-top:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--slate)}
+.pbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:6px 0;border-bottom:1px solid var(--line)}
+.pnavs{display:flex;gap:8px;margin-top:4px}.pnav{flex:1;min-height:40px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:600 15px "Noto Sans KR",sans-serif}
+.pnav:disabled{opacity:.4}.custom[hidden]{display:none!important}.custom{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.dsel{display:flex;gap:6px;align-items:center;flex-wrap:wrap}.dsel>span{min-width:2.4em;font-weight:600}.custom select{font-size:16px;min-height:40px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.plabel small{display:block;font-size:14px;font-weight:500;color:var(--mute);margin-top:2px}
+h2.plabel{border-top:0;margin-top:16px}
+.heat{overflow-x:auto}.hm,.hg{display:flex;gap:3px}.hm span{width:14px;flex:none;font-size:11px;color:var(--mute);white-space:nowrap}
+.hc{display:flex;flex-direction:column;gap:3px}.hc a,.hc i{width:14px;height:14px;border-radius:3px;display:block;background:var(--panel)}.hc i{opacity:.35}.hc i.x{opacity:0}#mapp .kpis div:first-child{grid-column:auto}
+.bars{display:grid;gap:6px}.bar-row{display:grid;grid-template-columns:110px 1fr 44px;gap:8px;align-items:center}.bt{height:12px;background:var(--panel);border-radius:6px;overflow:hidden}.bt i{display:block;height:100%;border-radius:6px}
+.bar-row b{text-align:right;font-size:14px}table.flow td,table.flow th{padding:6px 8px}
+footer{color:var(--mute);font-size:13px;margin-top:40px}
+@media(max-width:600px){.cal-d,.cal-w{min-height:70px;padding:4px;font-size:11px}.cal-d b{font-size:13px}.cal6{grid-template-columns:34px repeat(5,minmax(0,1fr))}.cal-w{font-size:10.5px}.wide th,.wide td{padding:7px 9px;font-size:14px}}
+</style></head><body><header><span class="tab">투자 알림장</span><h1>성적</h1><p class="sub">비용 0.35%를 뺀 수익률 · 30건 전 숫자는 흐리게</p>
+<nav class="tabs4"><a class="" href="index.html">홈</a><a class="on" href="score.html">성적</a><a class="" href="today.html">시장</a><a class="" href="archive.html">보관</a></nav></header><main><div id="score"><p class="empty">불러오는 중…</p></div><h2 id="perf">매매법별 누적 성적 <small>알림 봇 기준</small></h2><p class="sub">30건이 안 된 숫자는 흐리게 보여요.</p><div class="scroll"><table class="wide"><thead><tr><th class="">매매법</th><th class="r">평균</th></tr></thead><tbody><tr class="group"><td colspan="2"><b>초단타</b> <small>장중</small></td></tr><tr class=""><td class=""><b id="perf-VI-단타">VI 단타</b> <span class="badge test">테스트 중</span><small class="k">자동 복기(정식 시간)</small><small class="k">손익비 ∞ · 최대 연패 0 · 최대 낙폭 0.0%</small><small class="k">그 밖: 봇 신호 1건 <span class="dn">-5.40%</span></small></td><td class="r"><span class="thin"><span class="up">+4.53%</span></span><small class="k">승률 100% · 1건</small><small class="k">표본 부족 1/30</small></td></tr><tr class=""><td class=""><b id="perf-15분봉-MACD·일목-단타">15분봉 MACD·일목 단타</b> <span class="badge test">테스트 중</span><small class="k">모의 · 기대 <span class="dn">-0.41%</span></small><small class="k">손익비 1.9 · 최대 연패 7 · 최대 낙폭 -9.8%</small></td><td class="r"><span class="thin"><span class="up">+0.24%</span></span><small class="k">승률 40% · 15건</small><small class="k">표본 부족 15/30</small></td></tr><tr class="group"><td colspan="2"><b>단타</b> <small>하룻밤</small></td></tr><tr class="muted"><td class=""><b id="perf-종가베팅">종가베팅</b> <span class="badge ok">검증 통과</span><small class="k">모의(알려준 후보) · 기대 <span class="up">+0.32%</span></small><small class="k">그 밖: 쉰 날 후보(참고) 4건 <span class="dn">-0.30%</span></small><small class="k">진행 중 없음</small></td><td class="r"><span class="empty">–</span><small class="k">끝난 매매 0건</small></td></tr><tr class="group"><td colspan="2"><b>스윙</b> <small>며칠~몇 주</small></td></tr><tr class=""><td class=""><b id="perf-저가매수">저가매수</b> <span class="badge ok">검증 통과</span><small class="k">내 5칸 · 기대 <span class="up">+5.50%</span></small><a class="go" href="#hp-0">진행 중 5종목 ›</a></td><td class="r"><span class="empty">–</span><small class="k">끝난 매매 0건</small></td></tr><tr class=""><td class=""><b id="perf-스윙-A">스윙 A</b> <span class="badge ok">검증 통과</span><small class="k">모의 · 기대 <span class="up">+2.40%</span></small><a class="go" href="#hp-1">진행 중 1종목 ›</a></td><td class="r"><span class="empty">–</span><small class="k">끝난 매매 0건</small></td></tr><tr class="group"><td colspan="2"><b>중기 스윙</b> <small>몇 주~몇 달</small></td></tr><tr class="muted"><td class=""><b id="perf-중기-스윙">CAN SLIM</b> <span class="badge ok">검증 통과</span><small class="k">모의 · 기대 <span class="up">+4.00%</span></small><small class="k">진행 중 없음</small></td><td class="r"><span class="empty">–</span><small class="k">끝난 매매 0건</small></td></tr></tbody></table></div><h2 id="curve">누적 수익 흐름</h2><div class="legend"><span><i style="background:#e8a317"></i>15분봉 MACD·일목 단타 · 모의 (테스트 중, 점선)</span></div><div class="chart"><svg viewBox="0 0 640 260" role="img" aria-label="매매법별 누적 수익률"><line x1="46" x2="628" y1="102.9" y2="102.9" class="zero"/><text x="40" y="238.0" text-anchor="end">-11%</text><text x="40" y="182.0" text-anchor="end">-6%</text><text x="40" y="126.0" text-anchor="end">-2%</text><text x="40" y="70.0" text-anchor="end">+3%</text><text x="40" y="14.0" text-anchor="end">+8%</text><text x="46.0" y="254" text-anchor="middle">11/18</text><text x="191.5" y="254" text-anchor="middle">11/19</text><text x="337.0" y="254" text-anchor="middle">11/20</text><text x="482.5" y="254" text-anchor="middle">11/23</text><text x="628.0" y="254" text-anchor="middle">11/24</text><path d="M46.0,118.0 L46.0,137.3 L46.0,153.4 L191.5,157.7 L191.5,186.5 L191.5,215.3 L337.0,182.8 L337.0,172.9 L337.0,180.0 L482.5,149.6 L482.5,116.1 L482.5,108.0 L628.0,28.7 L628.0,29.9 L628.0,58.7" fill="none" stroke="#e8a317" stroke-width="2.2" stroke-dasharray="5 4"/><circle cx="46.0" cy="118.0" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-18 한진칼 · 누적 -1.23%</title></circle><circle cx="46.0" cy="137.3" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-18 삼양식품 · 누적 -2.81%</title></circle><circle cx="46.0" cy="153.4" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-18 와이씨 · 누적 -4.12%</title></circle><circle cx="191.5" cy="157.7" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-19 노랑풍선 · 누적 -4.47%</title></circle><circle cx="191.5" cy="186.5" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-19 에이피알 · 누적 -6.82%</title></circle><circle cx="191.5" cy="215.3" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-19 YG PLUS · 누적 -9.17%</title></circle><circle cx="337.0" cy="182.8" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-20 한진칼 · 누적 -6.52%</title></circle><circle cx="337.0" cy="172.9" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-20 한국전력 · 누적 -5.71%</title></circle><circle cx="337.0" cy="180.0" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-20 셀트리온 · 누적 -6.29%</title></circle><circle cx="482.5" cy="149.6" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-23 에이피알 · 누적 -3.81%</title></circle><circle cx="482.5" cy="116.1" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-23 안랩 · 누적 -1.08%</title></circle><circle cx="482.5" cy="108.0" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-23 현대무벡스 · 누적 -0.42%</title></circle><circle cx="628.0" cy="28.7" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-24 로보티즈 · 누적 +6.05%</title></circle><circle cx="628.0" cy="29.9" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-24 안랩 · 누적 +5.95%</title></circle><circle cx="628.0" cy="58.7" r="3.5" fill="#e8a317"><title>15분봉 MACD·일목 단타 · 모의 · 2026-11-24 지니언스 · 누적 +3.60%</title></circle></svg></div><p class="sub">끝난 매매의 수익률을 판 날 순서로 더한 값(매매마다 같은 금액 가정). 점을 누르면 종목과 누적값이 나와요.</p><p class="sub">5건이 안 돼서 아직 선을 그리지 않은 것: VI 단타·자동 복기(정식 시간) 1건</p><script src="live.js" defer></script>
+<script>{const o=()=>{const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;const d=t.closest("details");if(d)d.open=true;t.scrollIntoView({block:"center"});t.classList.add("flash");setTimeout(()=>t.classList.remove("flash"),1600)};addEventListener("hashchange",o);o()}</script>
+<footer>평일 15:10·19:00 알림 뒤 자동으로 새로 만들어집니다. 수익률은 비용 0.35%를 뺀 값이고, 모의 기록은 실제 매매가 아닙니다.</footer></main></body></html>
