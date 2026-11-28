@@ -569,6 +569,16 @@ def market_cell(d, lead):
 
 # ---------- 페이지 ----------
 CSS = """
+nav.tabs4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:12px 0 4px;border:1px solid var(--ink);border-radius:10px;overflow:hidden;position:sticky;top:0;z-index:6;background:var(--bg)}
+nav.tabs4 a{display:flex;justify-content:center;align-items:center;min-height:46px;font-weight:700;text-decoration:none;color:var(--ink)}
+nav.tabs4 a.on{background:var(--ink);color:var(--bg)}
+.st{display:flex;flex-direction:column;gap:6px}.st div{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;background:var(--panel);border-radius:8px}
+.st div.bad{background:color-mix(in srgb,var(--red) 12%,transparent);border:1px solid var(--red)}.st small{display:block}
+.st .ok{color:#2f7a4a;font-weight:700;white-space:nowrap}.st .no{color:var(--up);font-weight:700;white-space:nowrap}.st .wait{color:var(--mute);white-space:nowrap}
+.ks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));height:10px;border-radius:5px;overflow:hidden;margin-top:8px}.ks i:nth-child(1){background:#3c8d5a}.ks i:nth-child(2){background:#e0b000}.ks i:nth-child(3){background:#e8772e}.ks i:nth-child(4){background:#c4161c}
+.ksl{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));font-size:12px;color:var(--mute)}.ksl span.on{color:var(--ink);font-weight:700}
+.card{border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:0 0 8px}.card .hd{display:flex;justify-content:space-between;gap:8px}
+.thin{opacity:.5}.kpis.kn div:first-child{grid-column:auto}.kpis.kn b{font-size:21px}ul.chk{list-style:none;padding:0;margin:8px 0}ul.chk li{padding:6px 0;border-bottom:1px solid var(--line)}
 nav.maintabs{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:16px 0 4px;border:1px solid var(--ink);border-radius:10px;overflow:hidden;position:sticky;top:0;z-index:5;background:var(--bg)}
 nav.maintabs a{display:flex;justify-content:center;align-items:center;min-height:46px;font-weight:700;text-decoration:none;color:var(--ink)}
 nav.maintabs a.on{background:var(--ink);color:var(--bg)}
@@ -671,13 +681,14 @@ footer{color:var(--mute);font-size:13px;margin-top:40px}
 
 def page(title, sub, body, nav="", depth=0, home="today.html"):
     p = "../" * depth
-    links = [("index.html", "대장주 달력"), (home, "오늘"), ("lab.html", "실험실")]
+    # (11/28 개편) 탭 4개: 홈(봇 상태·내 계좌) / 성적 / 시장(오늘·대장주 달력) / 보관(멈춘 전략·지난 기록)
+    links = [("index.html", "홈"), ("score.html", "성적"), (home, "시장"), ("archive.html", "보관")]
     navs = "".join(f'<a class="{"on" if nav == n else ""}" href="{p}{h}">{n}</a>' for h, n in links)
     return f"""<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body><header><span class="tab">투자 알림장</span><h1>{E(title)}</h1><p class="sub">{sub}</p>
-<nav class="tabs">{navs}</nav></header><main>{body}
+<nav class="tabs4">{navs}</nav></header><main>{body}
 <script>{{const o=()=>{{const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;const d=t.closest("details");if(d)d.open=true;t.scrollIntoView({{block:"center"}});t.classList.add("flash");setTimeout(()=>t.classList.remove("flash"),1600)}};addEventListener("hashchange",o);o()}}</script>
 <footer>평일 15:10·19:00 알림 뒤 자동으로 새로 만들어집니다. 수익률은 비용 0.35%를 뺀 값이고, 모의 기록은 실제 매매가 아닙니다.</footer></main></body></html>"""
 
@@ -766,11 +777,30 @@ def index_page(days, t, h, fm, vi, expect):
     cal = ('<h2 id="cal">날짜별 기록</h2><p class="sub">칸 색은 그날 시장 등락이에요. 날짜를 누르면 그날 시장·알림·대장주가, 왼쪽 "주간"을 누르면 그 주 복기가 열려요.</p>'
            + "".join(month_cal(ym, ds, lambda d: alert_cell(d, t), lambda d: f"w/{d[2:]}.html" if d.startswith("w:") else (f"d/{d}.html" if d >= "20261102" or d in HAS_D else f"m/{d}.html"), tint=mkt_tint) for ym in months(days)[:3])
            + '<h2 id="bars">시장 흐름</h2>' + market_bars_svg(days) + '<p><a href="market.html">대장주 달력 →</a></p>')
+    # ---------- (11/28 개편) 탭 4개 ----------
+    sync = ('<p class="syncrow"><a class="syncbtn" href="https://t.me/jh_closing_bet_bot?start=sync" target="_blank" rel="noopener">현재 동기화</a>'
+            '<small>누르면 텔레그램 봇이 열려요. 데스크톱 봇이 1~2분 안에 계좌·지표를 올려요.</small></p>')
+    home_body = ('<div id="home"><p class="empty">불러오는 중…</p></div>'
+                 + todo() + acct + js)
+    score_body = ('<div id="score"><p class="empty">불러오는 중…</p></div>'
+                  '<h2 id="perf">매매법별 누적 성적 <small>알림 봇 기준</small></h2><p class="sub">30건이 안 된 숫자는 흐리게 보여요.</p>'
+                  + strat_rows(t, expect, h=h) + '<h2 id="curve">누적 수익 흐름</h2>' + curve_svg(t) + js)
+    market_body = (body + lead_link + mkt
+                   + '<h2>대장주 달력</h2><p class="kpi"><a href="market.html"><b>대장주 달력 열기 →</b></a> <small>기간을 골라 테마·대장주 흐름</small></p>'
+                   + '<h2 id="mock">모의 계좌 자세히</h2><div id="acct"><p class="empty">불러오는 중…</p></div>' + js)
+    arch_body = ('<div id="archive"><p class="empty">불러오는 중…</p></div>'
+                 '<h2>지난 기록</h2><p class="kpi"><a href="calendar.html"><b>알림·복기 달력 →</b></a></p>'
+                 '<p class="kpi"><a href="lab.html"><b>예전 실험실 화면 전체 →</b></a> <small>모의 보유·최근 끝난 매매·아버지 15분봉</small></p>'
+                 '<p class="kpi"><a href="records/"><b>매매 기록 요약 (/records/) →</b></a></p>'
+                 '<p class="kpi"><a href="share.html"><b>공유용 화면 →</b></a></p>' + js)
     return dict(
-        today=page("오늘", f"마지막 갱신 {now}", body + lead_link + acct + todo() + mkt + js, "오늘"),
-        share=page("오늘의 시장", f"마지막 갱신 {now}", body + lead_link + todo(True) + mkt + js, "오늘", home="share.html"),
-        lab=page("실험실", "모의 계좌와 전략별 성적 — 실제 매매가 아니에요", lab, "실험실"),
-        cal=page("알림·복기 달력", "지난 날짜의 시장·알림·대장주", cal, "대장주 달력"))
+        home=page("홈", f"마지막 갱신 {now} · 모의 기록은 실제 매매가 아니에요", home_body, "홈"),
+        score=page("성적", "비용 0.35%를 뺀 수익률 · 30건 전 숫자는 흐리게", score_body, "성적"),
+        today=page("시장", f"마지막 갱신 {now}", market_body, "시장"),
+        archive=page("보관", "멈춘 전략과 지난 기록 — 지우지 않고 여기로", arch_body, "보관"),
+        share=page("오늘의 시장", f"마지막 갱신 {now}", body + lead_link + todo(True) + mkt + js, "시장", home="share.html"),
+        lab=page("실험실", "모의 계좌와 전략별 성적 — 실제 매매가 아니에요", lab, "보관"),
+        cal=page("알림·복기 달력", "지난 날짜의 시장·알림·대장주", cal, "보관"))
 
 
 def day_page(d, t, fm, lead, vi):
@@ -1076,7 +1106,7 @@ def market_page(days, lead):
              + '</div></div>'
              '<h2 class="plabel" id="plabel"></h2><div id="ichart"></div><p class="sub">고른 기간에 맞춰 지수가 다시 그려져요. 기간이 짧으면 앞 40거래일을 흐리게 같이 보여줘요.</p><div class="out"></div></div>')
     body += f'<script type="application/json" id="mdata">{data}</script><script type="application/json" id="idata">{idata}</script><script type="application/json" id="tdata">{thmap}</script><script>{MARKET_JS}</script>'
-    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기 · 날짜를 누르면 그날 대장주", body + '<p><a href="calendar.html">알림·복기 달력 →</a></p>', "대장주 달력")
+    return page("대장주 달력", "기간을 골라 시장·테마 흐름 보기 · 날짜를 누르면 그날 대장주", body + '<p><a href="calendar.html">알림·복기 달력 →</a></p>', "시장")
 
 
 def week_page(mon, days, t, fm, lead, vi, expect):
@@ -1134,8 +1164,9 @@ def main():
         W(f"w/{m}.html", week_page(m, days, t, fm, lead, vi, expect))
     pg = index_page(days, t, h, fm, vi, expect)
     W("today.html", pg["today"]); W("share.html", pg["share"]); W("lab.html", pg["lab"]); W("calendar.html", pg["cal"])
+    W("index.html", pg["home"]); W("score.html", pg["score"]); W("archive.html", pg["archive"])
     mp = market_page(days, lead)
-    W("market.html", mp); W("index.html", mp)
+    W("market.html", mp)
     shutil.copy(os.path.join(ROOT, "tools", "live.js"), os.path.join(OUT, "live.js"))
     W("flow.html", page("장중 흐름", "30분마다 데스크톱 봇이 올린 테마·대장주·상한가·돈 급증", '<div class="flow"><p class="empty">불러오는 중…</p></div><script src="live.js" defer></script>'))
     print(f"페이지 만듦: 날짜 {len(days)}일, 주 {len({monday(d) for d in days})}개 → {OUT}")

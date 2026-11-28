@@ -122,6 +122,104 @@
     } catch (e) { el.innerHTML = `<p class="empty">이날 장중 흐름 기록 없음 (데스크톱 봇 30분 알림부터 저장)</p>`; }
   }
 
+
+  /* ---------- (11/28 개편) 홈·성적·보관 — 집 PC가 올린 records/summary.json 을 읽음 ---------- */
+  const kst = () => new Date(Date.now() + 9 * 3600e3);
+  const ymd = d => d.toISOString().slice(0, 10).replace(/-/g, "");
+  const hm = d => d.toISOString().slice(11, 16);
+  const tm = v => v ? String(v).slice(9, 14) : "";
+  const st = x => x && x.n ? x : null;
+  const fade = (x, txt) => `<span class="${x && x.n < 30 ? "thin" : ""}">${txt}</span>`;
+  const find = (s, f) => (s.strategies || []).find(x => x.file === f) || {};
+  const grp = (it, word) => { const g = it.groups || {}; const k = Object.keys(g).find(k => k.toUpperCase().includes(word)); return k ? g[k] : null; };
+
+  function botRows(s) {
+    const m = s.m1 || {}, hb = m.heartbeat || {}, cs = m.cs_stop || {};
+    const now = kst(), today = ymd(now), t = hm(now), wk = now.getUTCDay() % 6 === 0;
+    const slot = (label, a, b, start, end) => {
+      const s0 = (hb[a] || "").startsWith(today), s1 = (hb[b] || "").startsWith(today);
+      if (wk) return [label, "wait", "쉬는 날", ""];
+      if (s0 && s1) return [label, "ok", "정상", `${tm(hb[a])} 시작 → ${tm(hb[b])} 끝`];
+      if (s0 && t >= end) return [label, "no", "멈춤", `${tm(hb[a])}에 시작했는데 끝난 기록이 없어요`];
+      if (s0) return [label, "wait", "도는 중", `${tm(hb[a])} 시작`];
+      if (t >= start) return [label, "no", "빠짐", `${start}까지 실행 기록이 없어요 (휴장일이면 정상)`];
+      return [label, "wait", "대기", ""];
+    };
+    const rows = [slot("<b>아침 08:40</b> 시가 매도·M1", "sell_start", "sell_end", "09:15", "09:20"),
+                  slot("<b>오후 15:00</b> 계획·매수", "buy_start", "buy_end", "15:10", "15:45")];
+    rows.splice(1, 0, ["<b>장중</b> CAN SLIM 손절 감시", cs.date === today ? "ok" : "wait", cs.date === today ? "정상" : "대기",
+      cs.date === today ? `오늘 손절가 ${Object.keys(cs.stop || {}).length}종목` : ""]);
+    let h = `<div class="st">` + rows.map(([l, c, w, d]) => `<div class="${c === "no" ? "bad" : ""}"><span>${l}${d ? `<small>${E(d)}</small>` : ""}</span><span class="${c}">${w}</span></div>`).join("") + `</div>`;
+    const up = s.updated ? new Date(s.updated.replace(" ", "T") + ":00+09:00") : null;
+    if (up && !wk && t >= "08:30" && t <= "20:00" && Date.now() - up > 3 * 3600e3)
+      h += `<p class="kpi"><span class="no">집 PC 기록이 ${Math.round((Date.now() - up) / 3600e3)}시간째 안 올라와요</span> — PC가 켜져 있는지 확인</p>`;
+    return h;
+  }
+
+  function homeHtml(s) {
+    const m = s.m1 || {}, a = s.mock_account || {}, pk = m.peak, cs = (m.cs_stop || {}).stop || {}, mk = s.market || {};
+    let h = `<p class="sub">집 PC 기록 ${E(s.updated || "–")} 기준</p><h2>1. 봇 상태</h2>` + botRows(s);
+    // 2. 계좌 + 킬스위치
+    const dd = pk && pk.peak && a.total ? (a.total / pk.peak - 1) * 100 : null;
+    const lv = dd == null ? -1 : dd <= -25 ? 3 : dd <= -20 ? 2 : dd <= -15 ? 1 : 0;
+    const lvt = ["안전", "-15% 경보", "-20% 매수멈춤", "-25% 정지"];
+    h += `<h2>2. 내 계좌 <small>모의</small></h2><div class="kpis kn" style="grid-template-columns:repeat(2,minmax(0,1fr))"><div><b>${pct(a.ret_total)}</b><span>시작 대비 · ${man(a.total)}</span></div>
+      <div><b>${dd == null ? "–" : pct(dd, 1)}</b><span>고점 대비 · ${dd == null ? "11/30부터 기록" : lvt[lv]}${pk && pk.halted ? " · 지금 멈춤" : ""}</span></div></div>
+      <div class="ks"><i></i><i></i><i></i><i></i></div><div class="ksl">${lvt.map((x, i) => `<span class="${i === lv ? "on" : ""}">${x}</span>`).join("")}</div>`;
+    if (s.real && (s.real.holdings || []).length)
+      h += `<p class="kpi"><span class="badge real">실제</span> 보유 평가 ${pct(s.real.ret_eval)} · ${s.real.holdings.length}종목 <small>(금액은 안 올려요)</small></p>`;
+    // 3. 칸별
+    h += `<h2>3. 칸별 지금 상태</h2>`;
+    const p1 = m.m1 || {};
+    h += `<div class="card"><div class="hd"><b>M1 바닥 칸 <small>비중 50%</small></b><small>월 1회</small></div>` +
+      (p1.code ? `<p>${E(p1.code)} ${won(p1.qty)}주 · 평단 ${won(p1.buy)} <small>${E(p1.since || "")}부터</small></p>`
+               : `<p><small>${E(p1.note || "아직 매매 없음")}</small></p>`) + `</div>`;
+    const hs = a.holdings || [], cl = hs.filter(x => cs[x.code] != null), etc = hs.filter(x => cs[x.code] == null);
+    const tbl = (xs, stop) => `<table class="wide"><thead><tr><th>종목</th><th class="r">수익률</th>${stop ? '<th class="r">손절가</th>' : ""}</tr></thead><tbody>` +
+      xs.map(x => `<tr><td>${E(x.name)}</td><td class="r">${pct(x.ret, 1)}</td>${stop ? `<td class="r">${won(cs[x.code])}</td>` : ""}</tr>`).join("") + `</tbody></table>`;
+    h += `<div class="card"><div class="hd"><b>CAN SLIM <small>종목당 5% · 최대 5</small></b><small>${cl.length}종목</small></div>` +
+      (cl.length ? tbl(cl, 1) : `<p><small>손절 감시 중인 종목 없음</small></p>`) + `</div>`;
+    if (etc.length) h += `<div class="card"><div class="hd"><b>그 밖의 모의 보유</b><small>${etc.length}종목</small></div>${tbl(etc, 0)}</div>`;
+    h += `<div class="card"><div class="hd"><b>종가베팅 <small>비중 10%</small></b></div><p>신규 매수 <b class="${mk.state === "켜짐" ? "up" : "dn"}">${mk.state === "켜짐" ? "가능" : mk.state ? "쉼" : "–"}</b>
+      <small>코스피 20일선 ${pct(mk.kospi_ma20_gap, 1)} · 코스닥 ${pct(mk.kosdaq_ma20_gap, 1)}</small></p></div>`;
+    return h + `<p class="sub" style="margin-top:20px">아래 '오늘 할 일'이 오늘 온 알림이에요.</p>`;
+  }
+
+  function scoreHtml(s) {
+    const zj = find(s, "종가베팅_모의.csv"), mid = find(s, "중기_모의.csv"), m1 = find(s, "M1_모의.csv");
+    const cs = grp(mid, "CAN");
+    const k = (x, label) => `<div><b>${x && x.n ? fade(x, pct(x.avg)) : "–"}</b><span>${label}<br>${x && x.n ? `끝난 ${x.n}건 · 승률 ${x.win}%` : "아직 끝난 매매 없음"}</span></div>`;
+    let h = `<h2>1. 칸별 성적 <small>모의 · 1건 평균</small></h2><div class="kpis kn" style="grid-template-columns:repeat(3,minmax(0,1fr))">${k(m1.total, "M1 바닥 칸")}${k(cs, "CAN SLIM")}${k(zj.total, "종가베팅")}</div>`;
+    const rm = s.report_mock || {}, names = Object.keys(rm).filter(x => x !== "summary");
+    h += `<h2>2. 리포트 모의 ①②③ <small>가상 1억 · 주문 없음</small></h2>`;
+    h += names.length ? `<table class="wide"><thead><tr><th>칸</th><th class="r">청산</th><th class="r">평균</th></tr></thead><tbody>` +
+        names.map(n => `<tr><td>${E(n)}</td><td class="r">${rm[n].n || 0}건</td><td class="r">${rm[n].n ? fade(rm[n], pct(rm[n].avg)) : "–"}</td></tr>`).join("") + `</tbody></table>`
+      : `<p class="empty">시작 전 — 12/1부터 평일 19:10 자동 계산</p>`;
+    if ((rm.summary || []).length) h += `<details class="fold"><summary>요약 펼치기</summary>${rm.summary.map(x => `<p>${E(x)}</p>`).join("")}</details>`;
+    // 3. 12/11 점검표
+    const lg = (s.m1 || {}).hb_log || {}, days = Object.keys(lg).filter(d => d >= "20261130" && d <= "20261211").sort();
+    const miss = days.filter(d => !["sell_start", "sell_end", "buy_start", "buy_end"].every(x => lg[d][x]));
+    h += `<h2>3. 12/11 모의 점검표 <small>11/30 ~ 12/11</small></h2><div class="kpis kn" style="grid-template-columns:repeat(2,minmax(0,1fr))"><div><b>${miss.length}일</b><span>실행이 빠진 날 (기록된 ${days.length}일 중)<br>목표 0일</span></div>
+      <div><b>–</b><span>체결 오차<br>12/11에 기록 파일로 계산</span></div></div>`;
+    if (miss.length) h += `<p class="kpi">빠진 날: ${miss.map(d => `${+d.slice(4, 6)}/${+d.slice(6)}`).join(", ")}</p>`;
+    h += `<ul class="chk"><li>□ M1 12/1 시가 매수 체결</li><li>□ CAN SLIM 장중 손절 1번 이상 작동</li><li>□ 킬스위치 고점 기록 매일 갱신</li><li>□ 빠짐 경보가 텔레그램으로 옴</li></ul>
+      <p class="kpi">다 통과하면 → <b>12/14 소액 실전</b> 결정</p>`;
+    return h;
+  }
+
+  function archiveHtml(s) {
+    const rows = [["VI 단타", find(s, "VI단타_모의.csv").total], ["CM존 (주도주 첫 눌림)", find(s, "CM존_모의.csv").total],
+      ["저가매수", grp(find(s, "중기_모의.csv"), "저가")], ["실험칸 (VI 다음날 등)", find(s, "실험칸_모의.csv").total],
+      ["VI 알림봇 복기 (실계좌 알림)", find(s, "VI알림봇_복기.csv").total], ["VI 알림봇 신호대로 샀다면", find(s, "VI알림봇_신호매매.csv").total]];
+    return `<h2>1. 멈춘 전략 <small>모의 멈춤 · 기록만 보관</small></h2><table class="wide"><thead><tr><th>전략</th><th class="r">끝난 건</th><th class="r">평균</th></tr></thead><tbody>` +
+      rows.map(([n, x]) => `<tr><td>${n}</td><td class="r">${x && x.n ? x.n : 0}</td><td class="r">${x && x.n ? fade(x, pct(x.avg)) : "–"}</td></tr>`).join("") + `</tbody></table>`;
+  }
+
+  const sumPages = [["home", homeHtml], ["score", scoreHtml], ["archive", archiveHtml]].filter(([id]) => document.getElementById(id));
+  if (sumPages.length) get("records/summary.json").then(s => sumPages.forEach(([id, f]) => {
+    try { document.getElementById(id).innerHTML = f(s); } catch (e) { document.getElementById(id).innerHTML = `<p class="empty">그리지 못했어요 (${E(e)})</p>`; }
+  })).catch(() => sumPages.forEach(([id]) => document.getElementById(id).innerHTML = `<p class="empty">집 PC 기록(summary.json)을 불러오지 못했어요.</p>`));
+
   if (document.getElementById("acct") || document.getElementById("realnow")) acct(document.getElementById("acct"));
   document.querySelectorAll(".flow").forEach(flow);
 })();
